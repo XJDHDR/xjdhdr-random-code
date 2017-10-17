@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+; NOTE! 
+; While I've tried to ensure that these registry settings don't cause problems, 
+; using this file may damage your PC's configuration. While I would appreciate any bug reports 
+; resulting from the use of this file, I do not take responsibility for any 
+; problems that would result from using these registry settings.
+; You have been warned!
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\Activation]
+"ActivationInterval"=dword:ffffffff
+"Manual"=dword:00000001
+"NotificationDisabled"=dword:00000001

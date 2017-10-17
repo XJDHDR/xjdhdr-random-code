@@ -1,0 +1,528 @@
+[Adblock Plus 1.1]
+! Version: 201606201827
+! Title: XJDHDR's personal filter list
+! Last modified: 20 June 2016 18:27 UTC
+! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
+! Licence: https://creativecommons.org/licenses/by-sa/4.0/
+!
+! Please report any issues by creating a ticket on GitHub"
+!
+!
+! === Regular blocking rules ===
+! ==== MALICIOUS WEBSITES ====
+! --- Site Specific ---
+! ---- addictinginfo.org ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+||addictinginfo.org^
+|ftp://$domain=addictinginfo.org,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=addictinginfo.org,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=addictinginfo.org,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- americanhumanist.org ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+|http://$domain=americanhumanist.org,object,object-subrequest,other,ping,subdocument
+|http://$domain=americanhumanist.org,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+|https://$domain=americanhumanist.org,object,object-subrequest,other,ping,subdocument
+|https://$domain=americanhumanist.org,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- Bibviz.com ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+||bibviz.com/img/*
+||amazon-adsystem.com^$domain=Bibviz.com
+!
+! ---- dailytech.com ----
+! Amongst other things, promotes humanism as fact and endorses piracy.
+|http://$domain=dailytech.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=dailytech.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- enbdev.com ----
+! Site owner is willing to make abusive remarks about not only software developers whose code he has difficulty patching
+! but also those who don't accept his humanist religion.
+|http://$domain=enbdev.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=enbdev.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- fastestssd.com ----
+! Site administration promotes one sided discussions that are anti-SSD and makes it difficult to endorse the use of SSDs.
+|http://$domain=fastestssd.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=fastestssd.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- freethoughtblogs.com ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+||freethoughtblogs.com^
+|ftp://$domain=freethoughtblogs.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=freethoughtblogs.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=freethoughtblogs.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- greenutkegi.hopto.org ----
+! Linked to in spam email. Malware is downloaded onto PC when visited.
+|http://$domain=greenutkegi.hopto.org,object,object-subrequest,other,ping,subdocument,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- kidswithoutgod.com ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+||kidswithoutgod.com^
+|ftp://$domain=kidswithoutgod.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=kidswithoutgod.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=kidswithoutgod.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- Patheos.com Friendly Atheist blog ----
+! Intellectually and morally bankrupt religious blog that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+||patheos.com/blogs/friendlyatheist^$dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- pcperformer.com ----
+! Software distributed here uses scareware tactics to make you buy their product. I recommend Piniform's CCleaner instead.
+||pcperformer.com^
+|http://$domain=pcperformer.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=pcperformer.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- skeptic.com ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+|ftp://$domain=skeptic.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=skeptic.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=skeptic.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- slate.com ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+|ftp://$domain=slate.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=slate.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=slate.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- TalkOrigins.com ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+|ftp://$domain=TalkOrigins.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=TalkOrigins.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=TalkOrigins.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- timecube.com ----
+! Contains hate-speech, ignorance and other social and moral ills.
+|http://$domain=timecube.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=timecube.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- thenews.org ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+|ftp://$domain=thenews.org,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=thenews.org,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=thenews.org,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+! ---- Various Pontifications ----
+! Intellectually and morally bankrupt religious website that promotes fallacies, pseudo-science, superstition and other patent nonsense as fact. 
+! Has no place in any modern society.
+|ftp://$domain=variouspontifications.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|http://$domain=variouspontifications.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+|https://$domain=variouspontifications.com,dtd,image,object,object-subrequest,other,ping,script,stylesheet,subdocument,xbl,xmlhttprequest
+!
+!
+! === PIRACY-RELATED ===
+! --- Site Specific ---
+! --- 1337x.to ----
+|http://$domain=1337x.to,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+|http://$domain=1337x.to,object,object-subrequest,other,ping,subdocument
+||1337x.to/images/1337x-1.png
+@@||imgur.com^$domain=1337x.to,image
+@@||min.us^$domain=1337x.to,image
+@@||minus.com^$domain=1337x.to,image
+!
+! ---- Bay Image ads and tracking ----
+|http://$domain=bayimg.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=bayimg.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- Bit Reactor ads and tracking ----
+|http://$domain=bitreactor.to,object,object-subrequest,other,ping,subdocument
+|http://$domain=bitreactor.to,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+@@||bitreactor.to/index$domain=bitreactor.to,subdocument
+!
+! ---- Bit Snoop ads and tracking ----
+|http://$domain=bitsnoop.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=bitsnoop.com,object,object-subrequest,other,ping,subdocument
+||bitsnoop.com/i/aff/*
+||bitsnoop.com/j/jq.js
+||bitsnoop.com/j/jq.ui.min.js
+||ezimages.eu/s/1/2/eztvit.png
+@@||google.com/recaptcha/*$domain=bitsnoop.com
+!
+! ---- BT Guard - This is a scam ----
+||btguard.com^$document
+!
+! ---- BT Junkie ads and tracking ----
+||btjunkie.org/images/blank.gif
+||static.btjunkie.org/adserve.php?*
+||static.btjunkie.org/images/blank.gif
+||static.btjunkie.org/images/download2.jpg
+||static.btjunkie.org/images/rss.gif
+||static.btjunkie.org/images/shield1.gif
+||static.btjunkie.org/images/ssl_unlock.gif
+||static.btjunkie.org/js/global-2-7.js
+!
+! ---- BT Mon ads and tracking ----
+|http://$domain=btmon.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=btmon.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- CD Media World ads and tracking ----
+||cdmediaworld.com/dd.htm
+||cdmediaworld.com/hardware/cdrom/images/
+||lw*.cdmediaworld.com/
+!
+! ---- Fenopy ads and tracking ----
+||fenopy.com/images/bg_vote.gif
+||fenopy.com/images/bt_
+||fenopy.com/scripts_pro/ver_83.js
+!
+! ---- File Share Freak ads and tracking ----
+||filesharefreak.com/images/dediseedbox.gif
+||filesharefreak.com/images/knowinservers_banner.gif
+||filesharefreak.com/images/santrex.gif
+||filesharefreak.com/images/Torrent-Security.jpg
+||filesharefreak.com/images/xirvik-discount.gif
+||filesharefreak.com/images/YourPrivateVPN.jpg
+!
+! ---- Extra Torrent ----
+|http://$domain=extratorrent.cc,object,object-subrequest,other,ping,subdocument
+|http://$domain=extratorrent.cc,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+||static.extratorrent.cc/images/download_normal.gif
+||static.extratorrent.cc/images/other/download_nir.png
+!
+! ---- Fast Pirate Bay ----
+|http://$domain=fastpiratebay.eu,object,object-subrequest,other,ping,subdocument
+|http://$domain=fastpiratebay.eu,third-party,dtd,image,script,xbl,xmlhttprequest
+|https://$domain=fastpiratebay.eu,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=fastpiratebay.eu,third-party,dtd,image,xbl,xmlhttprequest
+!
+! ---- Free Software Foundation tracking ----
+|http://$domain=fsf.org,object,object-subrequest,other,ping,subdocument
+|http://$domain=fsf.org,third-party,dtd,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- Full DLs ----
+!PAR: fulldls.com$windows,tabs
+|http://$domain=fulldls.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=fulldls.com,object,object-subrequest,other,ping,subdocument
+@@||imgur.com^$domain=fulldls.com,image
+@@||min.us^$domain=fulldls.com,image
+@@||minus.com^$domain=fulldls.com,image
+fulldls.com##.downl-buttons
+fulldls.com###meth_smldiv
+!
+! ---- GameCopyWorld ads and tracking ----
+|http://$domain=gamecopyworld.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=gamecopyworld.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+|http://$domain=gamecopyworld.eu,object,object-subrequest,other,ping
+|http://$domain=gamecopyworld.eu,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+@@||google.com/afsonline/show_afs_search.js$domain=gamecopyworld.eu,script
+!
+@@|http://dl.gamecopyworld.eu/?*&f=
+@@||cdn.ay.gy^$domain=gamecopyworld.com
+@@||cdn.ay.gy^$domain=gamecopyworld.eu
+!
+! ---- ISO Hunt ads and tracking ----
+!PAR: isohunt.to$windows,tabs
+|http://$domain=isohunt.to,object,object-subrequest,other,ping,subdocument
+|http://$domain=isohunt.to,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+|https://$domain=isohunt.to,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=isohunt.to,third-party,dtd,image,xbl,xmlhttprequest
+||isohunt.to/*ads*
+||isohunt.to/a/
+||isohunt.to/img/buttons/
+||isohunt.to/js/adframe.js
+||isohunt.to/statsjson.php
+!
+!PAR: isohunt.ee$windows,tabs
+|http://$domain=isohunt.ee,object,object-subrequest,other,ping,subdocument
+|http://$domain=isohunt.ee,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+|https://$domain=isohunt.ee,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=isohunt.ee,third-party,dtd,image,xbl,xmlhttprequest
+||isohunt.ee/*ads*
+||isohunt.ee/a/
+||isohunt.ee/img/buttons/
+||isohunt.ee/js/adframe.js
+||isohunt.ee/statsjson.php
+!
+! ---- H33t ads and tracking ----
+|http://$domain=h33t.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=h33t.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=h33t.to,object,object-subrequest,other,ping,subdocument
+|http://$domain=h33t.to,third-party,dtd,image,script,xbl,xmlhttprequest
+||h33t.com/ads/
+||h33t.com/images/h33t_donation.gif
+||h33t.to/ads/
+||h33t.to/images/h33t_donation.gif
+!
+! ---- Kick Ass Torrents ads and tracking ----
+|http://$domain=kat.cr,object,object-subrequest,other,ping,script,subdocument
+|http://$domain=kat.cr,third-party,dtd,image,xbl,xmlhttprequest
+|http://$domain=katproxy.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=katproxy.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=kattorrents.me,object,object-subrequest,other,ping,subdocument
+|http://$domain=kattorrents.me,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=kickass.to,object,object-subrequest,other,ping,subdocument
+|http://$domain=kickass.to,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=kickasstorrents.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=kickasstorrents.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=kickassunblock.info,object,object-subrequest,other,ping,subdocument
+|http://$domain=kickassunblock.info,third-party,dtd,image,script,xbl,xmlhttprequest
+|https://$domain=kat.cr,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=kat.cr,third-party,dtd,image,xbl,xmlhttprequest
+|https://$domain=katproxy.com,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=katproxy.com,third-party,dtd,image,xbl,xmlhttprequest
+|https://$domain=kattorrents.me,object,object-subrequest,other,ping,subdocument
+|https://$domain=kattorrents.me,third-party,dtd,image,script,xbl,xmlhttprequest
+|https://$domain=kickass.to,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=kickass.to,third-party,dtd,image,xbl,xmlhttprequest
+|https://$domain=kickasstorrents.com,object,object-subrequest,other,ping,script,subdocument
+|https://$domain=kickasstorrents.com,third-party,dtd,image,xbl,xmlhttprequest
+|https://$domain=kickassunblock.info,object,object-subrequest,other,ping,subdocument
+|https://$domain=kickassunblock.info,third-party,dtd,image,script,xbl,xmlhttprequest
+@@|http://kastatic.com^$image
+@@|https://kastatic.com^$image
+||a.kickass.to/adx.php?*
+||kickasstorrents.com/delivery/
+||kickasstorrents.com/js/jquery.cookie-10417M.js
+||kickasstorrents.com/js/jquery.form-10417M.js
+||kickasstorrents.com/js/main-10417M.js
+!
+! ---- Kuiken ----
+|http://$domain=kuiken.co,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=kuiken.co,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=kuiken.co,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=kuiken.co,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+!
+! ---- Lime Torrents ----
+|http://$domain=limetorrents.cc,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=limetorrents.cc,object,object-subrequest,other,ping,subdocument
+||static.limetorrents.cc/images/download.png
+limetorrents.cc##.downloadareabig[style="width: 250px"]
+limetorrents.cc##DIV[style="float:left"]
+!
+! ---- Monova ----
+|http://$domain=monova.org,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=monova.org,object,object-subrequest,other,ping,subdocument
+|https://$domain=monova.org,third-party,dtd,image,script,xbl,xmlhttprequest
+|https://$domain=monova.org,object,object-subrequest,other,ping,subdocument
+monova.org###base64-undl
+monova.org##.pull-left.pad-left-10
+monova.org##TD[align="center"]
+!
+! ---- Only Torrents ads and tracking ----
+||onlytorrents.com/s.js
+!
+! ---- Seed Peer ----
+|http://$domain=seedpeer.me,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=seedpeer.me,object,object-subrequest,other,ping,subdocument
+||seedpeer.me/images/SPDownload.jpg
+seedpeer.me##.directStreaming
+seedpeer.me##.freeDirect
+!
+! ---- Serials unlock the world ----
+|http://$domain=serials.ws,object,object-subrequest,other,ping,subdocument
+|http://$domain=serials.ws,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+||serials.ws/IMg/*$domain=serials.ws
+!
+! ---- Sumo Torrent ads ----
+||ads.sumotorrent.com^
+!
+! ---- Tech Republic ads ----
+|http://$domain=techrepublic.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=techrepublic.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+@@||techrepublic.com.com^$domain=techrepublic.com,image,script,stylesheet
+@@||*static.com^$domain=techrepublic.com,image,script,stylesheet
+@@||gravatar.com/avatar.php?*$domain=techrepublic.com,image
+!
+! ---- The Pirate Bay ads and tracking ----The Meteor
+|http://$domain=thepiratebay.am,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.am,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.am,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.am,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|http://$domain=thepiratebay.gs,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.gs,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.gs,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.gs,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|http://$domain=thepiratebay.la,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.la,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.la,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.la,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|http://$domain=thepiratebay.mn,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.mn,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.mn,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.mn,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|http://$domain=thepiratebay.org,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.org,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.org,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.org,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|http://$domain=thepiratebay.sx,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.sx,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.sx,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.sx,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|http://$domain=thepiratebay.se,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=thepiratebay.se,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=thepiratebay.se,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=thepiratebay.se,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+||thepiratebay.*/static/ads/*
+||thepiratebay.*/static/img/bar.gif
+||thepiratebay.*/static/img/btcltc.png
+||thepiratebay.*/static/js/tpb.js
+@@||i.imgur.com^$domain=thepiratebay.se
+@@||piratebay.*/css/*
+@@||piratebay.*/img/*
+@@||thepiratebay.*/static/js/details.js
+@@||thepiratebay.*/static/js/prototype.js
+!
+! ---- The Pirate Bay mirrors ----
+|http://$domain=pirateproxy.net,object,object-subrequest,other,ping,popup,script,subdocument
+|http://$domain=pirateproxy.net,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+|https://$domain=pirateproxy.net,object,object-subrequest,other,ping,popup,script,subdocument
+|https://$domain=pirateproxy.net,third-party,dtd,image,stylesheet,xbl,xmlhttprequest
+!
+! ---- Torlock ----
+|http://$domain=torlock.com,third-party,dtd,script,xbl,xmlhttprequest
+|http://$domain=torlock.com,object,object-subrequest,other,ping,subdocument
+||cd.torlock.com/images/dlbutton10.png
+||cd.torlock.com/images/dlbutton30.png
+!
+! ---- Torrent Bit ----
+||cdn.torrentbit.net/images/1click/*
+torrentbit.net##.but_down_sponsored
+torrentbit.net##.button-long
+!
+! ---- Torrent Crazy ----
+|http://$domain=torrentcrazy.com,third-party,dtd,script,xbl,xmlhttprequest
+|http://$domain=torrentcrazy.com,object,object-subrequest,other,ping,subdocument
+!
+! ---- Torrent Downloads ----
+||torrentdownloads.me/templates/new/images/download.png
+||torrentdownloads.me/templates/new/images/download_button2.jpg
+||torrentdownloads.me/templates/new/images/download_button3.jpg
+||s1magnettvcom.maynemyltf.netdna-cdn.com/js/potrnme.min.js
+||windows.net^$domain=torrentdownloads.me
+torrentdownloads.me##.advert_img
+torrentdownloads.me##.advertise_box
+torrentdownloads.me##DIV[style="float:left"]
+torrentdownloads.me##IMG[src="/templates/new/images/titl_tag2.jpg"]
+!
+! ---- Torrent Freak ads and tracking ----
+|http://$domain=torrentfreak.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=torrentfreak.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+||torrentfreak.com/images/btguard1_270x90.jpg
+||torrentfreak.com/images/mediaget4.jpg
+||torrentfreak.com/images/wyzo.gif
+||torrentfreak.com/wp-content/themes/torrentfreak/site-images/supp-content.png
+!
+@@||disqus.com^$domain=torrentfreak.com
+@@||facebook.com^$domain=torrentfreak.com
+@@||flattr.com^$domain=torrentfreak.com
+@@||twitter.com^$domain=torrentfreak.com
+!
+! ---- Torrent Hound ----
+|http://$domain=torrenthound.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=torrenthound.com,object,object-subrequest,other,ping,subdocument
+||i.torrenthound.com/images/*
+!
+! ---- Torrent Privacy ads and tracking ----
+||torrentprivacy.com$third-party
+!
+! ---- Torrent Reactor ----
+|http://$domain=torrentreactor.net,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=torrentreactor.net,object,object-subrequest,other,ping,subdocument
+torrentreactor.net##.mrg.mrg-fifth
+torrentreactor.net###download-anonym
+!
+! ---- Torrent Room ads and tracking ----
+|http://$domain=torrentroom.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=torrentroom.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- Torrents.net ----
+|http://$domain=torrents.net,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=torrents.net,object,object-subrequest,other,ping,subdocument
+@@||recaptcha.net^$domain=torrents.net
+torrents.net##.download-holder
+!
+! ---- Torrentz.eu ----
+|http://$domain=torrentz.eu,object,object-subrequest,other,ping,subdocument
+|http://$domain=torrentz.eu,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+|https://$domain=torrentz.eu,object,object-subrequest,other,ping,subdocument
+|https://$domain=torrentz.eu,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+||torrentz.eu/mgid/
+||torrentz.eu/show_ads.js
+!
+! ---- Torrentfunk ----
+|http://$domain=torrentfunk.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=torrentfunk.com,object,object-subrequest,other,ping,subdocument
+||cdn.torrentfunk.com/images/slider/*
+torrentfunk.com###MarketGidPreloadC757
+torrentfunk.com###MarketGidPreloadC758
+!
+! ---- Vertor ads and tracking ----
+||vertor.com/*.js
+!
+! ---- Your Bittorrent ----
+|http://$domain=yourbittorrent.com,third-party,dtd,image,script,xbl,xmlhttprequest
+|http://$domain=yourbittorrent.com,object,object-subrequest,other,ping,subdocument
+||cdn.yourbittorrent.com/images/dl10.png
+||cdn.yourbittorrent.com/images/dl30.png
+!
+!
+! ==== Other Websites ====
+!
+! ---- juicyads.com ----
+! Distributor of adult focused advertising
+|http://$domain=juicyads.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=juicyads.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- loverslab.com ----
+! All of the advertising is adult focused.
+|http://$domain=loverslab.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=loverslab.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+! ---- transcend.com ----
+! Useless parked domain using faked web address of "Transcend Information, Inc.", the memory manufacturer (real address is http://www.transcendusa.com/, BTW)
+|http://$domain=transcend.com,object,object-subrequest,other,ping,subdocument
+|http://$domain=transcend.com,third-party,dtd,image,script,stylesheet,xbl,xmlhttprequest
+!
+!
+!
+! === ELEMENT BLOCKING RULES ===
+! --- Piracy related ---
+! ---- ISO Hunt annoyances ----
+isohunt.com###adblock
+isohunt.com##A[href="http://isohunt.com/a/adclick.php?bannerid=459&zoneid=1&source=btDetails-full&dest=http%3A%2F%2Fbtguard.com%2F%3Fa%3Disohunt"]
+isohunt.com##A[href="http://isohunt.com/a/adclick.php?bannerid=493&zoneid=&source=top-text&dest=http%3A%2F%2Fbcoolapp.com%2Fdownload%2Fp1"]
+isohunt.com##A[href="http://isohunt.com/forum/viewtopic.php?t=693393"]
+isohunt.com##A[onmouseover="self.status='All proceeds goes to maintainence and development of isoHunt. Thanks for your support!'; return true;"]
+isohunt.com##P
+isohunt.com##TD[style="padding-left:10px"]
+!
+! ---- Kickass Torrents annoyances ----
+kickass.to##.advertising
+!
+! ---- My Broadband annoyances ----
+mybroadband.co.za##DIV.ad
+!
+! ---- The Pirate Bay ----
+##A[href="bitcoin:1KeBs4HBQzkdHC2ou3gpyGHqcL7aKzwTve"]
+##A[href="litecoin:LiYp3Dg11N5BgV8qKW42ubSZXFmjDByjoV"]
+thepiratebay.se##A[href="http://bitcoin.org"]
+thepiratebay.se##A[href="http://litecoin.org"]
+pirateproxy.net##A[href="http://bitcoin.org"]
+pirateproxy.net##A[href="http://litecoin.org"]
+thepiratebay.se##A[href="http://getprivate.net/download?fln=U2hlcmxvY2suUzAzRTAwLk1hbnkuSGFwcHkuUmV0dXJucy43MjBwLldFQlJpcC5BQUMyLjAuSC4yNjQgW1B1Yg==&lp=1"]
+thepiratebay.se##A[style="background-image: url(\"/static/img/icon-https.gif\");"]
+!
+! ---- Other Annoyances ----
+imageporter.com##A[href="http://www.imageporter.com/n166-good-traffic-sources.html"]
+!
+!
+! --- Other ---
+! ---- American Humanist ----
+americanhumanist.org##*
+!
+! ---- Kids without God ----
+kidswithoutgod.com##*
+!
+
+! ==== END OF DOCUMENT ====

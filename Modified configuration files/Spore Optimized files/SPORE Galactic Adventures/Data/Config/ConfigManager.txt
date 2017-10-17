@@ -1,0 +1,371 @@
+#############################################################################
+# Configuration rules and options for Spore
+# 
+# Andrew Willmott
+#
+# This script both defines what the various game options
+# do, and sets defaults for them based on the video
+# card, sound card, CPU, and other factors.
+#
+# It also sets some properties determining what the
+# hardware will support.
+#
+# the following are equivalent, the error code is used as the guid if no id is supplied
+# alert "You are running with new preferences" 1010 -info
+# alert "You are running with new preferences" 1010 -info -id 0x000003f2 
+# alert "You are running with new preferences" 1010 -info -id AppConfig!0x000003f2 
+
+
+#############################################################################
+# Constants
+# 
+
+set Off 0
+set On  1
+
+set Low    1
+set Medium 2
+set High   3
+
+# Shader paths -- must match with Material/config.mtl
+seti shaderPath2_m 3
+seti shaderPath2_0 3
+seti shaderPath2_x 3
+seti shaderPath3_0 3
+
+
+#############################################################################
+# Set up
+#
+
+setVariables
+
+setb isVista false
+
+			
+#############################################################################
+# Initial defaults.
+#
+# These may be overridden below according to CPU or card.
+
+setOption OptionShadows             $High
+setOption OptionTextureDetail       $High 
+setOption OptionEffects             $High
+setOption OptionBakeQuality         $High
+setOption OptionLighting            $High
+setOption OptionPlanetQuality       $High
+setOption OptionDOF                 $High
+
+setOption OptionPhotoRes            $High
+setOption OptionVideoRes            $High
+setOption OptionAudioPerformance    $High
+setOption OptionGameQuality         $High
+
+setOption OptionDiskCacheSize       4  # 1 GB
+setOption OptionTutorialsEnabled    $On
+setOption OptionShowHints           $On
+setOption OptionEdgeScroll          $On
+setOption OptionBuddiesOnly         $Off
+setOption OptionFitToScreen         $Off
+setOption OptionExplainSporepedia    $On
+setOption OptionExplainPaintLikeThis $On
+
+
+setOption OptionExpireOld           $Off
+setOption OptionArchiveExpired      $Off
+setOption OptionExpireDays          30
+setOption OptionDownloadSize         8
+
+setOption OptionUpdateLimit         $Off
+setOption OptionUpdateLimitDays      7
+
+setOption OptionCaptureUI           $Off
+
+setOption OptionCellControls        $Off
+setOption OptionCreatureControls    $Off
+setOption OptionTribeControls       $Off
+setOption OptionCivControls         $Off
+setOption OptionSpaceControls       $Off
+
+
+#############################################################################
+# Identify graphics adapter
+#
+
+
+# Set some config variables based on a card table and vendor specific rules.
+# Note that Remote launch on Vista returns no vendor.
+set cardName "Unknown"
+set cardVendor "Unknown"
+setb isCardFound false
+
+include "VideoCards.txt"
+
+# Fallback on the card name text supplied by the card itself.
+# Assumes that at least the cardVendor has been matched, since
+# vendor name is not contained in some vendor card names.
+# Note that specific vendors are overridden to a default card.
+#  For AMD    -> Radeon 9800 Pro
+#  For NVIDIA -> NVIDIA GeForceFX 5200 SE
+
+if (not $isCardFound)
+   set cardName $graphicsCard
+endif
+
+#############################################################################
+#
+# Testing Code
+#
+
+# For testing
+setb doTestCPU false
+setb doTestGPU false
+
+if ($doTestCPU)
+    seti pentium4 0
+    seti cpuCount 1
+    
+    seti cpuSpeed 2000
+    set cpuBrand "AMD Athlon64"
+endif
+
+if ($doTestGPU)
+    # test some 2.0/3.0 cards
+    set cardVendor "AMD"
+    set cardName "Radeon 9600"
+    
+    set cardVendor "Intel"
+    set cardName "915"
+    
+    set cardVendor "NVIDIA"
+    set cardName "GeForce 5900"
+     
+    # card strings confuse 6800 SE comparisons
+    #set cardName "NVIDIA GeForce 6800 Series GPU"
+         
+    seti testShaderModel 2
+    seti maxVertexProgramVersionHW ($testShaderModel*256)
+    seti maxPixelProgramVersion    ($testShaderModel*256)
+    
+    # have to set this, since some overrides fallback on graphicsCard string
+    set graphicsCard $cardName
+endif
+
+#############################################################################
+#
+# Option Levels
+#
+
+seti cpuLevelHigh          3
+seti cpuLevelMedium        3
+seti cpuLevelLow           3
+
+seti gpuLevelHigh          3
+seti gpuLevelMedium        3
+seti gpuLevelLow           3
+
+# Shader paths -- must match with Material/config.mtl
+seti shaderPath2_m 3 #2 minimal
+seti shaderPath2_0 3 
+seti shaderPath2_x 3 
+seti shaderPath3_0 3 
+
+#############################################################################
+#
+# CPU Assessment
+#
+
+seti adjustedCPU $cpuSpeed
+
+setb cpuAMD false
+if (match("${cpuBrand}", "*AMD*"))
+    setb cpuAMD true
+endif
+
+seti cpuCutoffLow 1600
+seti cpuCutoffMed 1900
+
+seti cpuLevel $cpuLevelHigh
+
+
+#############################################################################
+#
+# GPU Assessment
+#
+
+# track specific vendors
+setb isNvidia           false
+#setb isNvidiaIntegrated false
+
+setb isAMD				false
+#setb isAMDIntegrated    false
+
+setb isIntel			false
+setb isIntelIntegrated  false
+
+setb isS3			    false
+setb isVendorUnknown	false
+
+setb isLimitedVideoMemory false
+
+# convert to major version
+seti vsVersion (floor($maxVertexProgramVersionHW / 256))
+seti psVersion (floor($maxPixelProgramVersion / 256))
+
+# if not in database, assume any new card is "high"
+seti gpuLevel $gpuLevelHigh
+
+if (match("${cardVendor}", "AMD") or match("${cardVendor}", "ATI"))
+    setb isAMD true
+elseif (match("${cardVendor}", "NVIDIA"))
+    setb isNvidia true
+elseif (match("${cardVendor}", "INTEL"))
+    setb isIntel true
+elseif (match("${cardVendor}", "S3"))
+    setb isS3 true
+else
+    setb isVendorUnknown true
+endif
+
+# old driver build detection/warning
+setb oldDriver false
+seti oldDriverBuild 0
+
+# force a driver build off mutigpu detection
+#  or else multigpu must be disabled
+setb isMultiGpu false
+setb isOldDriverBuildExit false
+setb sporeProfile true
+if ($gpuCount > 1)
+    setb isMultiGpu true
+endif
+
+if ((not $cider) and (not $doTestGPU))
+    # test each vendor against specific known driver builds
+    if ($isNvidia)
+        # identify the build range that has a Spore profile
+        seti oldDriverBuild 116375  # 10/4/2007 
+           
+    elseif ($isIntel)
+        seti oldDriverBuild 104906  # 12/19/2007
+        
+    elseif ($isAMD)
+                seti oldDriverBuild 106833  # Cat 8.7, 7/2008
+    endif
+endif
+
+
+seti gpuLevel $gpuLevelHigh
+
+setb isMobile false
+
+############################################################################
+# Set base shader path
+#
+
+seti shaderPathToSet $shaderPath3_0
+
+
+# NOTE: do not override this for special cases, unless the card will
+# actually crash or has bugs. Instead setOption OptionLighting to
+# reduce the path by default to what we recommend.
+intProp shaderPath $shaderPathToSet
+
+#############################################################################
+# Instancing support
+
+setb instancing true
+boolProp effectsInstancing true
+
+
+#############################################################################
+# Set terrain generation brush throttle based on cpu
+#
+
+intProp terrainGenerateBrushesPerFrame 200
+intProp terrainGenerateTimeLimit 20
+
+#############################################################################
+# MRT
+#
+
+boolProp MRT 0
+if ( $numSimultaneousRTs > 1 )
+	boolProp MRT 1
+endif
+
+############################################################################
+# Resolution
+#
+if (($gpuLevel > 2) and (not $isLimitedVideoMemory))
+    seti resolutionTarget (1024 * 768)
+else
+    seti resolutionTarget (800 * 600)
+endif
+
+setResolution $resolutionTarget
+
+
+#######################################
+# Safe mode
+# 
+
+# Set options to safe values. In safe mode, all options will
+# be reset to their defaults, but the prefs won't be saved.
+
+# Basically setting anything that might trigger bad hardware behaviour to low.
+if ($safeMode)
+    trace "=== SAFE MODE"
+    
+    alert "Running in safe mode" 8888 -info
+    
+    setOption OptionLighting      $Low
+    setOption OptionShadows       $Low
+    setOption OptionEffects       $Low       
+    setOption OptionTextureDetail $Medium
+    setOption OptionPlanetQuality       $Low
+    setOption OptionAudioPerformance    $Low
+    setOption OptionPhotoRes            $Low
+    setOption OptionVideoRes            $Low
+    setOption OptionFitToScreen         $Off
+endif
+
+# These are all of the alert dialogs localized if text is present (from AppConfig.txt)
+if (varExists(showConfigAlerts) and ($showConfigAlerts))
+    trace "=== Test Alerts"
+    
+    alert "not localized" 1000 -info -always # 3e8
+    alert "not localized" 1001 -info -always # 3e9
+    alert "not localized" 1002 -info -always # 3ea
+    alert "not localized" 1004 -info -always # 3ec
+    alert "not localized" 1005 -info -always # 3ed
+    
+    alert "not localized" 1010 -info -always # 3f2
+    alert "not localized" 1011 -info -always # 3f3
+    alert "not localized" 1012 -info -always # 3f4
+    
+    alert "not localized" 2000 -info -always # 7d0
+    alert "not localized" 2001 -info -always # 7d1
+    alert "not localized" 2002 -info -always # 7d2
+    alert "not localized" 2003 -info -always # 7d3
+endif
+
+
+# XJDHDR's optional tweaks
+# Skip intro
+boolProp playOpeningMovie false
+
+
+# Increase framerate limit
+# Remove the # to the left of the "intProp" option you want.
+# 60 FPS limit
+#intProp   frameLimitMS   16
+
+# 90 FPS limit
+#intProp   frameLimitMS   11
+
+# 120 FPS limit
+#intProp   frameLimitMS   8
+
+# 144 FPS limit
+#intProp   frameLimitMS   6

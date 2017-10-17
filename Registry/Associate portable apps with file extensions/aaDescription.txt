@@ -1,0 +1,12 @@
+This directory contains registry files I created mainly to associate portable applications with file extensions that can be opened by those applications. If you notice any missing extensions that can be opened by a specific application but is not represented in the relevant registry file, please do file a bug report or send me a message.
+
+One thing to note is that these registry files assume that you used the PortableApps.com Platform (http://portableapps.com/download) to install your portable apps and installed the Platform in D:\Portable\PortableApps.com\
+
+To install these registry files, just double-click on it and approve of any prompts that appear. If you are suspicious of what these files do, you can open them in a text editor and analyse the contents for yourself. You should do this anyway since registry files can definitely be crafted in such a way as to cause malicious actions.
+
+Otherwise, info specific to each registry file:
+- LibreOffice.reg
+	Associates various document type extensions with the LibreOffice suite's various programs. Also adds the registry values required for Windows Indexing Service to index and search the contents of the document files. Also removes the "Print" context command from these files.
+	
+- Notepad++.reg
+	

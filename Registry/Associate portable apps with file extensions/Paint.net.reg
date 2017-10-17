@@ -1,0 +1,204 @@
+Windows Registry Editor Version 5.00
+; This registry file will associate various file extensions with Paint.net such that they
+; can be opened through either double-clicking or the right-click menu of the file.
+; A restart is not required to apply these registry keys
+;
+; NOTE!
+; While I've tried to ensure that these registry settings don't cause problems,
+; using this file may damage your PC's configuration. Specifically, it might cause certain
+; files to not behave the way they should. While I would appreciate any bug reports
+; resulting from the use of this file, I do not take responsibility for any
+; problems that would result from using these registry settings.
+; You have been warned!
+
+
+; Add Edit menu to images handled by Photo Viewer
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Bitmap\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Bitmap\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Bitmap\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Bitmap\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Bitmap\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Bitmap\shell\printto]
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Gif\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Gif\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Gif\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Gif\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Gif\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Gif\shell\printto]
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.JFIF\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.JFIF\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.JFIF\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.JFIF\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.JFIF\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.JFIF\shell\printto]
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Jpeg\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Jpeg\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Jpeg\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Jpeg\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Jpeg\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Jpeg\shell\printto]
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Png\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Png\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Png\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Png\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Png\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Png\shell\printto]
+
+[HKEY_CLASSES_ROOT\TIFImage.Document\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\TIFImage.Document\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\TIFImage.Document\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\TIFImage.Document\shell\edit]
+[-HKEY_CLASSES_ROOT\TIFImage.Document\shell\print]
+[-HKEY_CLASSES_ROOT\TIFImage.Document\shell\printto]
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Tiff\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Tiff\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Tiff\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Tiff\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Tiff\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Tiff\shell\printto]
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Wdp\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Wdp\shell\EditWithPDN]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Wdp\shell\EditWithPDN\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Wdp\shell\edit]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Wdp\shell\print]
+[-HKEY_CLASSES_ROOT\PhotoViewer.FileAssoc.Wdp\shell\printto]
+
+
+; Assign file types to be opened using Paint.net.
+[HKEY_CLASSES_ROOT\.dds]
+@="Paint.NET.Picture"
+
+[-HKEY_CLASSES_ROOT\.dds\ShellNew]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.dds]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dds]
+
+
+[-HKEY_CLASSES_ROOT\.pdn]
+[HKEY_CLASSES_ROOT\.pdn]
+@="Paint.NET.Picture"
+"Content Type"="image/x-paintnet"
+"PerceivedType"="image"
+
+[HKEY_CLASSES_ROOT\.pdn\PersistentHandler]
+@="{098f2470-bae0-11cd-b579-08002b30bfeb}"
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.pdn]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdn]
+
+
+[HKEY_CLASSES_ROOT\.tga]
+@="Paint.NET.Picture"
+
+[-HKEY_CLASSES_ROOT\.tga\ShellNew]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.tga]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tga]
+
+
+[HKEY_CLASSES_ROOT\Paint.NET.Picture]
+@="Image accessible with Paint.net"
+
+[HKEY_CLASSES_ROOT\Paint.NET.Picture\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\",0"
+
+[HKEY_CLASSES_ROOT\Paint.NET.Picture\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Paint.NET.Picture\shell\open]
+@="Edit with Paint.net"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\Paint.NET.Picture\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\Paint.NET.Picture\shell\edit]
+[-HKEY_CLASSES_ROOT\Paint.NET.Picture\shell\print]
+[-HKEY_CLASSES_ROOT\Paint.NET.Picture\shell\printto]
+
+
+; Register Paint.NET to Default Programs
+[HKEY_LOCAL_MACHINE\SOFTWARE\Portable\Paint.net\Capabilities]
+"ApplicationDescription"="Paint.net is a freeware raster graphics editor program for Microsoft Windows, developed on the .NET Framework. Paint.net was originally created by Rick Brewster as a Washington State University student project, and has been developed from a simple replacement for the Microsoft Paint program into an editor with support for layers, blending, transparency, and plugins."
+"ApplicationIcon"="D:\\Portable\\PortableApps.com\\PortableApps\\Paint.NETPortable\\Paint.NETPortable.exe,0"
+"ApplicationName"="Paint.net"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Portable\Paint.net\Capabilities\FileAssociations]
+".dds"="Paint.NET.Picture"
+".pdn"="Paint.NET.Picture"
+".tga"="Paint.NET.Picture"
+".jpg"="Paint.NET.Picture"
+".wdp"="Paint.NET.Picture"
+".jfif"="Paint.NET.Picture"
+".dib"="Paint.NET.Picture"
+".png"="Paint.NET.Picture"
+".jxr"="Paint.NET.Picture"
+".bmp"="Paint.NET.Picture"
+".jpe"="Paint.NET.Picture"
+".jpeg"="Paint.NET.Picture"
+".gif"="Paint.NET.Picture"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Paint.net"="Software\\Portable\\Paint.net\\Capabilities"

@@ -1,0 +1,2355 @@
+Windows Registry Editor Version 5.00
+; This registry file will associate various file extensions with Tixati such that they 
+; can be opened by double-clicking on the file. 
+; A restart is not required to apply these registry keys
+;
+; NOTE! 
+; While I've tried to ensure that these registry settings don't cause problems, 
+; using this file may damage your PC's configuration. Specifically, it might cause certain 
+; files to not behave the way they should. While I would appreciate any bug reports 
+; resulting from the use of this file, I do not take responsibility for any 
+; problems that would result from using these registry settings.
+; You have been warned!
+
+[HKEY_CLASSES_ROOT\.007]
+@="VideoGameDataFile.James_Bond"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.James_Bond]
+@="James Bond game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.James_Bond\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.James_Bond\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.James_Bond\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.James_Bond\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.a]
+@="VideoGameDataFile.Hellhog_XP"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hellhog_XP]
+@="Hellhog XP game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hellhog_XP\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hellhog_XP\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hellhog_XP\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hellhog_XP\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.abz]
+@="VideoGameDataFile.Alpha_Black_Zero"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Alpha_Black_Zero]
+@="Alpha Black Zero game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Alpha_Black_Zero\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Alpha_Black_Zero\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Alpha_Black_Zero\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Alpha_Black_Zero\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.adf]
+@="VideoGameDataFile.GTA_Vice_City"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.GTA_Vice_City]
+@="Grand Theft Auto: Vice City game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.GTA_Vice_City\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.GTA_Vice_City\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.GTA_Vice_City\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.GTA_Vice_City\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.arch00]
+@="VideoGameDataFile.FEAR"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.FEAR]
+@="FEAR game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.FEAR\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.FEAR\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.FEAR\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.FEAR\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.arf]
+@="VideoGameDataFile.Packmania_2"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Packmania_2]
+@="Packmania 2 game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Packmania_2\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Packmania_2\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Packmania_2\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Packmania_2\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.arh]
+@="VideoGameDataFile.El_Airplane"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.El_Airplane]
+@="El Airplane game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.El_Airplane\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.El_Airplane\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.El_Airplane\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.El_Airplane\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.art]
+@="VideoGameDataFile.Build_Engine"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Build_Engine]
+@="Build Engine data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Build_Engine\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Build_Engine\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Build_Engine\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Build_Engine\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.awf]
+@="VideoGameDataFile.Who_Wants_to_Be_a_Millionaire"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Who_Wants_to_Be_a_Millionaire]
+@="Who Wants to Be a Millionaire game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Who_Wants_to_Be_a_Millionaire\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Who_Wants_to_Be_a_Millionaire\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Who_Wants_to_Be_a_Millionaire\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Who_Wants_to_Be_a_Millionaire\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bad]
+@="VideoGameDataFile.Nox"
+
+[HKEY_CLASSES_ROOT\.idx]
+@="VideoGameDataFile.Nox"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Nox]
+@="Nox game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Nox\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Nox\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Nox\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Nox\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bag]
+@="VideoGameDataFile.Westwood_3D_Engine"
+
+[HKEY_CLASSES_ROOT\.rfd]
+@="VideoGameDataFile.Westwood_3D_Engine"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Westwood_3D_Engine]
+@="Westwood 3D Engine data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Westwood_3D_Engine\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Westwood_3D_Engine\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Westwood_3D_Engine\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Westwood_3D_Engine\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bar]
+@="VideoGameDataFile.BANG!_Engine"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BANG!_Engine]
+@="BANG! Engine data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BANG!_Engine\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BANG!_Engine\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BANG!_Engine\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BANG!_Engine\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.big]
+@="VideoGameDataFile.EA_Strategy"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.EA_Strategy]
+@="EA strategy game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.EA_Strategy\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.EA_Strategy\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.EA_Strategy\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.EA_Strategy\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bin]
+@="VideoGameDataFile.BIN"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BIN]
+@="Bin data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BIN\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BIN\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BIN\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BIN\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bkf]
+@="VideoGameDataFile.Moto_Racer"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Moto_Racer]
+@="Moto Racer game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Moto_Racer\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Moto_Racer\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Moto_Racer\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Moto_Racer\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bnd]
+@="VideoGameDataFile.Neighbours_From_Hell"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Neighbours_From_Hell]
+@="Neighbours From Hell game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Neighbours_From_Hell\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Neighbours_From_Hell\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Neighbours_From_Hell\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Neighbours_From_Hell\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bnt]
+@="VideoGameDataFile.Entropia_Universe"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Entropia_Universe]
+@="Entropia Universe game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Entropia_Universe\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Entropia_Universe\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Entropia_Universe\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Entropia_Universe\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bos]
+@="VideoGameDataFile.Phoenix_Engine"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Phoenix_Engine]
+@="Phoenix Engine data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Phoenix_Engine\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Phoenix_Engine\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Phoenix_Engine\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Phoenix_Engine\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bot]
+@="VideoGameDataFile.Team_Factor"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Team_Factor]
+@="Team Factor game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Team_Factor\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Team_Factor\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Team_Factor\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Team_Factor\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.box]
+@="VideoGameDataFile.BOX"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BOX]
+@="Box data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BOX\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BOX\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BOX\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.BOX\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.bun]
+@="VideoGameDataFile.Monkey_Island"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Monkey_Island]
+@="Monkey Island game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Monkey_Island\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Monkey_Island\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Monkey_Island\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Monkey_Island\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.cbf]
+@="VideoGameDataFile.Vietcong"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Vietcong]
+@="Vietcong game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Vietcong\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Vietcong\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Vietcong\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Vietcong\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.cnt]
+@="VideoGameDataFile.Hidden_and_Dangerous"
+
+[HKEY_CLASSES_ROOT\.dta]
+@="VideoGameDataFile.Hidden_and_Dangerous"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hidden_and_Dangerous]
+@="Hidden and Dangerous game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hidden_and_Dangerous\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hidden_and_Dangerous\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hidden_and_Dangerous\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Hidden_and_Dangerous\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.cob]
+@="VideoGameDataFile.Ascendancy"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascendancy]
+@="Ascendancy game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascendancy\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascendancy\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascendancy\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascendancy\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.cpr]
+@="VideoGameDataFile.Ascaron_Entertainment"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascaron_Entertainment]
+@="Ascaron Entertainment game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascaron_Entertainment\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascaron_Entertainment\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascaron_Entertainment\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Ascaron_Entertainment\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.crf]
+@="VideoGameDataFile.Dark_Engine"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Dark_Engine]
+@="Dark Engine game data package"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Dark_Engine\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Dark_Engine\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Dark_Engine\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\VideoGameDataFile.Dark_Engine\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.csc]
+@="Prism3D_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.zipfs]
+@="Prism3D_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Prism3D_Engine_Data_Package_file]
+@="Prism3D Engine data package"
+
+[HKEY_CLASSES_ROOT\Prism3D_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Prism3D_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Prism3D_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Prism3D_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.ctp]
+@="Call_To_Power_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Call_To_Power_Game_Data_Package_file]
+@="Call to Power game data package"
+
+[HKEY_CLASSES_ROOT\Call_To_Power_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Call_To_Power_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Call_To_Power_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Call_To_Power_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.dat]
+@="Program_Data_file"
+
+[HKEY_CLASSES_ROOT\Program_Data_file]
+@="Program data file"
+
+[HKEY_CLASSES_ROOT\Program_Data_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Program_Data_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Program_Data_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Program_Data_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.data]
+@="Arena_Wars_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.texturepack]
+@="Arena_Wars_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Arena_Wars_Game_Data_Package_file]
+@="Arena Wars game data package"
+
+[HKEY_CLASSES_ROOT\Arena_Wars_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Arena_Wars_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Arena_Wars_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Arena_Wars_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.dir]
+@="GTA_3_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\GTA_3_Game_Data_Package_file]
+@="Grand Theft Auto 3 game data package"
+
+[HKEY_CLASSES_ROOT\GTA_3_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\GTA_3_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\GTA_3_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\GTA_3_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.dlu]
+@="Dirty_Little_Helper_98_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Dirty_Little_Helper_98_Game_Data_Package_file]
+@="Dirty Little Helper 98 game data package"
+
+[HKEY_CLASSES_ROOT\Dirty_Little_Helper_98_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Dirty_Little_Helper_98_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Dirty_Little_Helper_98_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Dirty_Little_Helper_98_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.dni]
+@="realMyst_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\realMyst_Game_Data_Package_file]
+@="realMyst game data package"
+
+[HKEY_CLASSES_ROOT\realMyst_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\realMyst_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\realMyst_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\realMyst_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.drs]
+@="Genie_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Genie_Engine_Data_Package_file]
+@="Genie Engine data package"
+
+[HKEY_CLASSES_ROOT\Genie_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Genie_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Genie_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Genie_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.erf]
+@="Eclipse_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Eclipse_Engine_Data_Package_file]
+@="Eclipse Engine game data package"
+
+[HKEY_CLASSES_ROOT\Eclipse_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Eclipse_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Eclipse_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Eclipse_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.far]
+@="The_Sims_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\The_Sims_Game_Data_Package_file]
+@="The Sims game data package"
+
+[HKEY_CLASSES_ROOT\The_Sims_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\The_Sims_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\The_Sims_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\The_Sims_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.fbz]
+@="Storm3D_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Storm3D_Engine_Data_Package_file]
+@="Storm3D Engine data package"
+
+[HKEY_CLASSES_ROOT\Storm3D_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Storm3D_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Storm3D_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Storm3D_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.ff]
+@="Freedom_Force_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Freedom_Force_Game_Data_Package_file]
+@="Freedom Force game data package"
+
+[HKEY_CLASSES_ROOT\Freedom_Force_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Freedom_Force_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Freedom_Force_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Freedom_Force_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.ffl]
+@="Aliens_vs_Predator_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Aliens_vs_Predator_Game_Data_Package_file]
+@="Aliens vs Predator game data package"
+
+[HKEY_CLASSES_ROOT\Aliens_vs_Predator_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Aliens_vs_Predator_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Aliens_vs_Predator_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Aliens_vs_Predator_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.flmod]
+@="Freelancer_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Freelancer_Game_Data_Package_file]
+@="Freelancer game data package"
+
+[HKEY_CLASSES_ROOT\Freelancer_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Freelancer_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Freelancer_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Freelancer_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.fpk]
+@="Civilization_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Civilization_Game_Data_Package_file]
+@="Civilization game data package"
+
+[HKEY_CLASSES_ROOT\Civilization_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Civilization_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Civilization_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Civilization_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.gjd]
+@="The_11th_Hour_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\The_11th_Hour_Game_Data_Package_file]
+@="The 11th Hour game data package"
+
+[HKEY_CLASSES_ROOT\The_11th_Hour_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\The_11th_Hour_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\The_11th_Hour_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\The_11th_Hour_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.gl]
+@="Star_Crusader_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Star_Crusader_Game_Data_Package_file]
+@="Star Crusader game data package"
+
+[HKEY_CLASSES_ROOT\Star_Crusader_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Star_Crusader_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Star_Crusader_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Star_Crusader_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.gob]
+@="LucasArts_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\LucasArts_Game_Data_Package_file]
+@="LucasArts game data package"
+
+[HKEY_CLASSES_ROOT\LucasArts_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\LucasArts_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\LucasArts_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\LucasArts_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.gro]
+@="Serious_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Serious_Engine_Data_Package_file]
+@="Serious Engine data package"
+
+[HKEY_CLASSES_ROOT\Serious_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Serious_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Serious_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Serious_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.grp]
+@="Shadow_Warrior_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Shadow_Warrior_Game_Data_Package_file]
+@="Shadow Warrior game data package"
+
+[HKEY_CLASSES_ROOT\Shadow_Warrior_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Shadow_Warrior_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Shadow_Warrior_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Shadow_Warrior_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.gzp]
+@="Amityville_Engine_Package_file"
+
+[HKEY_CLASSES_ROOT\Amityville_Engine_Package_file]
+@="Amityville Engine data package"
+
+[HKEY_CLASSES_ROOT\Amityville_Engine_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Amityville_Engine_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Amityville_Engine_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Amityville_Engine_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.hal]
+@="Mortyr_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Mortyr_Game_Data_Package_file]
+@="Mortyr game data package"
+
+[HKEY_CLASSES_ROOT\Mortyr_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Mortyr_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Mortyr_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Mortyr_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.hog]
+@="Descent_Series_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Descent_Series_Data_Package_file]
+@="Descent Series data package"
+
+[HKEY_CLASSES_ROOT\Descent_Series_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Descent_Series_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Descent_Series_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Descent_Series_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.hpi]
+@="Total_Annihilation_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.ufo]
+@="Total_Annihilation_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.ccx]
+@="Total_Annihilation_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Total_Annihilation_Game_Data_Package_file]
+@="Total Annihilation game data package"
+
+[HKEY_CLASSES_ROOT\Total_Annihilation_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Total_Annihilation_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Total_Annihilation_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Total_Annihilation_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.iwd]
+@="Infinity_Ward_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Infinity_Ward_Engine_Data_Package_file]
+@="Infinity Ward Engine data package"
+
+[HKEY_CLASSES_ROOT\Infinity_Ward_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Infinity_Ward_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Infinity_Ward_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Infinity_Ward_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.jam]
+@="Leisure_Suit_Larry_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Leisure_Suit_Larry_Game_Package_file]
+@="Leisure Suit Larry game data package"
+
+[HKEY_CLASSES_ROOT\Leisure_Suit_Larry_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Leisure_Suit_Larry_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Leisure_Suit_Larry_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Leisure_Suit_Larry_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.lug]
+@="Lionhead_Studios_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Lionhead_Studios_Game_Package_file]
+@="Lionhead Studios game data package"
+
+[HKEY_CLASSES_ROOT\Lionhead_Studios_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Lionhead_Studios_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Lionhead_Studios_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Lionhead_Studios_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.lzp]
+@="Law_and_Order_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Law_and_Order_Game_Package_file]
+@="Law and Order game data package"
+
+[HKEY_CLASSES_ROOT\Law_and_Order_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Law_and_Order_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Law_and_Order_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Law_and_Order_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.m4b]
+@="Myst_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Myst_Game_Package_file]
+@="Myst game data package"
+
+[HKEY_CLASSES_ROOT\Myst_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Myst_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Myst_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Myst_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.mgz]
+@="Metal_Gear_Solid_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Metal_Gear_Solid_Game_Package_file]
+@="Metal Gear Solid game data package"
+
+[HKEY_CLASSES_ROOT\Metal_Gear_Solid_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Metal_Gear_Solid_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Metal_Gear_Solid_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Metal_Gear_Solid_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.mix]
+@="Westwood_Studios_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Westwood_Studios_Game_Package_file]
+@="Westwood Studios game data package"
+
+[HKEY_CLASSES_ROOT\Westwood_Studios_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Westwood_Studios_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Westwood_Studios_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Westwood_Studios_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.mn3]
+@="Descent_3_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Descent_3_Game_Package_file]
+@="Descent 3 game data package"
+
+[HKEY_CLASSES_ROOT\Descent_3_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Descent_3_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Descent_3_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Descent_3_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.mob]
+@="Master_of_Orion_3_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Master_of_Orion_3_Game_Package_file]
+@="Master of Orion 3 game data package"
+
+[HKEY_CLASSES_ROOT\Master_of_Orion_3_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Master_of_Orion_3_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Master_of_Orion_3_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Master_of_Orion_3_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.mrc]
+@="The_Fifth_Element_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\The_Fifth_Element_Game_Package_file]
+@="The Fifth Element game data package"
+
+[HKEY_CLASSES_ROOT\The_Fifth_Element_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\The_Fifth_Element_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\The_Fifth_Element_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\The_Fifth_Element_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.mtf]
+@="Darkstone_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Darkstone_Game_Package_file]
+@="Darkstone game data package"
+
+[HKEY_CLASSES_ROOT\Darkstone_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Darkstone_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Darkstone_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Darkstone_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.nob]
+@="Vampire_The_Masquerade_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Vampire_The_Masquerade_Game_Package_file]
+@="Vampire: The Masquerade game data package"
+
+[HKEY_CLASSES_ROOT\Vampire_The_Masquerade_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Vampire_The_Masquerade_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Vampire_The_Masquerade_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Vampire_The_Masquerade_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pac]
+@="Vision_Engine_Resource_Package_file"
+
+[HKEY_CLASSES_ROOT\Vision_Engine_Resource_Package_file]
+@="Vision Engine resource data package"
+
+[HKEY_CLASSES_ROOT\Vision_Engine_Resource_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Vision_Engine_Resource_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Vision_Engine_Resource_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Vision_Engine_Resource_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pak]
+@="Video_Game_Resource_Package_file"
+
+[HKEY_CLASSES_ROOT\Video_Game_Resource_Package_file]
+@="Video game resource data package"
+
+[HKEY_CLASSES_ROOT\Video_Game_Resource_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Video_Game_Resource_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Video_Game_Resource_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Video_Game_Resource_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pbo]
+@="Operation_Flashpoint_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Operation_Flashpoint_Game_Package_file]
+@="Operation Flashpoint game data package"
+
+[HKEY_CLASSES_ROOT\Operation_Flashpoint_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Operation_Flashpoint_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Operation_Flashpoint_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Operation_Flashpoint_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pck]
+@="Commandos_3_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Commandos_3_Game_Package_file]
+@="Commandos 3 game data package"
+
+[HKEY_CLASSES_ROOT\Commandos_3_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Commandos_3_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Commandos_3_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Commandos_3_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pff]
+@="Voxel_Space_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Voxel_Space_Engine_Data_Package_file]
+@="Voxel Space Engine data package"
+
+[HKEY_CLASSES_ROOT\Voxel_Space_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Voxel_Space_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Voxel_Space_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Voxel_Space_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pk1]
+@="XS_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.pk2]
+@="XS_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\XS_Game_Data_Package_file]
+@="XS game data package"
+
+[HKEY_CLASSES_ROOT\XS_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\XS_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\XS_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\XS_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pk3]
+@="id_Tech_1-3_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\id_Tech_1-3_Engine_Data_Package_file]
+@="id Tech 1 to 3 Engine data package"
+
+[HKEY_CLASSES_ROOT\id_Tech_1-3_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\id_Tech_1-3_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\id_Tech_1-3_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\id_Tech_1-3_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pk4]
+@="id_Tech_4_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\id_Tech_4_Engine_Data_Package_file]
+@="id Tech 4 Engine data package"
+
+[HKEY_CLASSES_ROOT\id_Tech_4_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\id_Tech_4_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\id_Tech_4_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\id_Tech_4_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.pod]
+@="POD_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\POD_Game_Package_file]
+@="POD game data package"
+
+[HKEY_CLASSES_ROOT\POD_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\POD_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\POD_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\POD_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.prm]
+@="Hitman_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Hitman_Game_Package_file]
+@="Hitman game data package"
+
+[HKEY_CLASSES_ROOT\Hitman_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Hitman_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Hitman_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Hitman_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.psh]
+@="Itch_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Itch_Game_Package_file]
+@="Itch game data package"
+
+[HKEY_CLASSES_ROOT\Itch_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Itch_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Itch_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Itch_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rbz]
+@="Richard_Burns_Rally_Game_Package_file"
+
+[HKEY_CLASSES_ROOT\Richard_Burns_Rally_Game_Package_file]
+@="Richard Burns Rally game data package"
+
+[HKEY_CLASSES_ROOT\Richard_Burns_Rally_Game_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Richard_Burns_Rally_Game_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Richard_Burns_Rally_Game_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Richard_Burns_Rally_Game_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rcf]
+@="Titanium_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Titanium_Engine_Data_Package_file]
+@="Titanium Engine data package"
+
+[HKEY_CLASSES_ROOT\Titanium_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Titanium_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Titanium_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Titanium_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.res]
+@="Enigma_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Enigma_Engine_Data_Package_file]
+@="Enigma Engine data package"
+
+[HKEY_CLASSES_ROOT\Enigma_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Enigma_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Enigma_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Enigma_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rez]
+@="LithTech_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\LithTech_Engine_Data_Package_file]
+@="LithTech Engine data package"
+
+[HKEY_CLASSES_ROOT\LithTech_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\LithTech_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\LithTech_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\LithTech_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rfa]
+@="Battlefield_1942_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Battlefield_1942_Game_Data_Package_file]
+@="Battlefield 1942 game data package"
+
+[HKEY_CLASSES_ROOT\Battlefield_1942_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Battlefield_1942_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Battlefield_1942_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Battlefield_1942_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rfc]
+@="F1_Manager_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.rfd]
+@="F1_Manager_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.rfh]
+@="F1_Manager_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\F1_Manager_Game_Data_Package_file]
+@="F1 Manager game data package"
+
+[HKEY_CLASSES_ROOT\F1_Manager_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\F1_Manager_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\F1_Manager_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\F1_Manager_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rod]
+@="Hot_Rod_American_Street_Drag_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Hot_Rod_American_Street_Drag_Game_Data_Package_file]
+@="Hot Rod: American Street Drag game data package"
+
+[HKEY_CLASSES_ROOT\Hot_Rod_American_Street_Drag_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Hot_Rod_American_Street_Drag_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Hot_Rod_American_Street_Drag_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Hot_Rod_American_Street_Drag_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.rvi]
+@="Revenant_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.rvm]
+@="Revenant_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.rvr]
+@="Revenant_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Revenant_Game_Data_Package_file]
+@="Revenant game data package"
+
+[HKEY_CLASSES_ROOT\Revenant_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Revenant_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Revenant_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Revenant_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sab]
+@="Sabotain_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Sabotain_Game_Data_Package_file]
+@="Sabotain game data package"
+
+[HKEY_CLASSES_ROOT\Sabotain_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Sabotain_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Sabotain_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Sabotain_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sad]
+@="Black_and_White_Sound_Package_file"
+
+[HKEY_CLASSES_ROOT\Black_and_White_Sound_Package_file]
+@="Black & White sound data package"
+
+[HKEY_CLASSES_ROOT\Black_and_White_Sound_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Black_and_White_Sound_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Black_and_White_Sound_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Black_and_White_Sound_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sak]
+@="Postal_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Postal_Game_Data_Package_file]
+@="Postal game data package"
+
+[HKEY_CLASSES_ROOT\Postal_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Postal_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Postal_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Postal_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.scs]
+@="Hunting_Unlimited_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Hunting_Unlimited_Game_Data_Package_file]
+@="Hunting Unlimited game data package"
+
+[HKEY_CLASSES_ROOT\Hunting_Unlimited_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Hunting_Unlimited_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Hunting_Unlimited_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Hunting_Unlimited_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sdt]
+@="SDT_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\SDT_Game_Data_Package_file]
+@="SDT game data package"
+
+[HKEY_CLASSES_ROOT\SDT_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\SDT_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\SDT_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\SDT_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sfl]
+@="AGON_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\AGON_Game_Data_Package_file]
+@="AGON game data package"
+
+[HKEY_CLASSES_ROOT\AGON_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\AGON_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\AGON_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\AGON_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sin]
+@="SiN_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\SiN_Game_Data_Package_file]
+@="SiN game data package"
+
+[HKEY_CLASSES_ROOT\SiN_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\SiN_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\SiN_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\SiN_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.slf]
+@="Jagged_Alliance_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Jagged_Alliance_Game_Data_Package_file]
+@="Jagged Alliance game data package"
+
+[HKEY_CLASSES_ROOT\Jagged_Alliance_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Jagged_Alliance_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Jagged_Alliance_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Jagged_Alliance_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sni]
+@="MDK_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\MDK_Game_Data_Package_file]
+@="MDK game data package"
+
+[HKEY_CLASSES_ROOT\MDK_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\MDK_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\MDK_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\MDK_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sqh]
+@="Harbinger_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Harbinger_Game_Data_Package_file]
+@="Harbinger game data package"
+
+[HKEY_CLASSES_ROOT\Harbinger_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Harbinger_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Harbinger_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Harbinger_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.ssa]
+@="Titan_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Titan_Engine_Data_Package_file]
+@="Titan Engine data package"
+
+[HKEY_CLASSES_ROOT\Titan_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Titan_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Titan_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Titan_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.stuff]
+@="Video_Game_Stuff_file"
+
+[HKEY_CLASSES_ROOT\Video_Game_Stuff_file]
+@="Video game stuff file"
+
+[HKEY_CLASSES_ROOT\Video_Game_Stuff_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Video_Game_Stuff_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Video_Game_Stuff_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Video_Game_Stuff_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.sxt]
+@="Singles_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Singles_Game_Data_Package_file]
+@="Singles game data package"
+
+[HKEY_CLASSES_ROOT\Singles_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Singles_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Singles_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Singles_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.syn]
+@="Breakneck_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Breakneck_Game_Data_Package_file]
+@="Breakneck game data package"
+
+[HKEY_CLASSES_ROOT\Breakneck_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Breakneck_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Breakneck_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Breakneck_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.tex]
+@="Glacier_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Glacier_Engine_Data_Package_file]
+@="Glacier Engine data package"
+
+[HKEY_CLASSES_ROOT\Glacier_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Glacier_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Glacier_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Glacier_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.tlk]
+@="TLK_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\TLK_Game_Data_Package_file]
+@="TLK game data package"
+
+[HKEY_CLASSES_ROOT\TLK_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\TLK_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\TLK_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\TLK_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.uax]
+@="Unreal_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.umx]
+@="Unreal_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.utx]
+@="Unreal_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Unreal_Engine_Data_Package_file]
+@="Unreal Engine data package"
+
+[HKEY_CLASSES_ROOT\Unreal_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Unreal_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Unreal_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Unreal_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.vfs]
+@="UFO_Series_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\UFO_Series_Game_Data_Package_file]
+@="UFO Series game data package"
+
+[HKEY_CLASSES_ROOT\UFO_Series_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\UFO_Series_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\UFO_Series_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\UFO_Series_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.vol]
+@="Dynamix_Inc_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.vl2]
+@="Dynamix_Inc_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Dynamix_Inc_Game_Data_Package_file]
+@="Dynamix Inc game data package"
+
+[HKEY_CLASSES_ROOT\Dynamix_Inc_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Dynamix_Inc_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Dynamix_Inc_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Dynamix_Inc_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.vp]
+@="Freespace_Engine_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Freespace_Engine_Data_Package_file]
+@="Freespace Engine data package"
+
+[HKEY_CLASSES_ROOT\Freespace_Engine_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Freespace_Engine_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Freespace_Engine_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Freespace_Engine_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.wad]
+@="id_Tech_Engine_Mod_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\id_Tech_Engine_Mod_Data_Package_file]
+@="id Tech Engine mod data package"
+
+[HKEY_CLASSES_ROOT\id_Tech_Engine_Mod_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\id_Tech_Engine_Mod_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\id_Tech_Engine_Mod_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\id_Tech_Engine_Mod_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.x13]
+@="Hooligans_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Hooligans_Game_Data_Package_file]
+@="Hooligans game data package"
+
+[HKEY_CLASSES_ROOT\Hooligans_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Hooligans_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Hooligans_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Hooligans_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.xcr]
+@="Warlords_Battlecry_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Warlords_Battlecry_Game_Data_Package_file]
+@="Warlords Battlecry game data package"
+
+[HKEY_CLASSES_ROOT\Warlords_Battlecry_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Warlords_Battlecry_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Warlords_Battlecry_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Warlords_Battlecry_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.xrs]
+@="Dig_It!_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Dig_It!_Game_Data_Package_file]
+@="Dig It! game data package"
+
+[HKEY_CLASSES_ROOT\Dig_It!_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Dig_It!_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Dig_It!_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Dig_It!_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.xtc]
+@="Starbreeze_Studios_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\.xwc]
+@="Starbreeze_Studios_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Starbreeze_Studios_Game_Data_Package_file]
+@="Starbreeze Studios game data package"
+
+[HKEY_CLASSES_ROOT\Starbreeze_Studios_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Starbreeze_Studios_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Starbreeze_Studios_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Starbreeze_Studios_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.za]
+@="NFusion_Interactive_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\NFusion_Interactive_Game_Data_Package_file]
+@="NFusion Interactive game data package"
+
+[HKEY_CLASSES_ROOT\NFusion_Interactive_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\NFusion_Interactive_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\NFusion_Interactive_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\NFusion_Interactive_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\.ztd]
+@="Zoo_Tycoon_Game_Data_Package_file"
+
+[HKEY_CLASSES_ROOT\Zoo_Tycoon_Game_Data_Package_file]
+@="Zoo Tycoon game data package"
+
+[HKEY_CLASSES_ROOT\Zoo_Tycoon_Game_Data_Package_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\",0"
+
+[HKEY_CLASSES_ROOT\Zoo_Tycoon_Game_Data_Package_file\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\Zoo_Tycoon_Game_Data_Package_file\shell\open]
+"FriendlyAppName"="Dragon Unpacker"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+
+[HKEY_CLASSES_ROOT\Zoo_Tycoon_Game_Data_Package_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe\" \"%1\""
+
+
+; Register Dragon Unpacker to Default Programs
+[HKEY_LOCAL_MACHINE\SOFTWARE\DragonUnpacker\Capabilities]
+"ApplicationDescription"="Tixati is a proprietary cross-platform BitTorrent client written in C++ designed to be light on system resources. Its developers release standalone and portable versions with each new client versions. It has received a positive reception, and most reviews praised it for its lightweight design. In addition to standard BitTorrent client sharing functions, Tixati provides integral chatrooms with the channel chat as well as private messaging being strongly encrypted. According to Tixati's support page, "the Channels feature of Tixati is a particularly good demonstration of how to build a decentralized networked application that supports very high throughputs whilst remaining cryptographically secure in a 100% decentralized environment."
+"ApplicationIcon"="D:\\Portable\\PortableApps.com\\PortableApps\\DragonUnpacker\\drgunpack5.exe,0"
+"ApplicationName"="Dragon Unpacker"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\DragonUnpacker\Capabilities\FileAssociations]
+".007"=="VideoGameDataFile.James_Bond"
+".a"=="VideoGameDataFile.Hellhog_XP"
+".abz"=="VideoGameDataFile.Alpha_Black_Zero"
+".adf"=="VideoGameDataFile.GTA_Vice_City"
+".arch00"=="VideoGameDataFile.FEAR"
+".arf"=="VideoGameDataFile.Packmania_2"
+".arh"=="VideoGameDataFile.El_Airplane"
+".art"=="VideoGameDataFile.Build_Engine"
+".awf"=="VideoGameDataFile.Who_Wants_to_Be_a_Millionaire"
+".bad"=="VideoGameDataFile.Nox"
+".idx"=="VideoGameDataFile.Nox"
+".bag"=="VideoGameDataFile.Westwood_3D_Engine"
+".rfd"=="VideoGameDataFile.Westwood_3D_Engine"
+".bar"=="VideoGameDataFile.BANG!_Engine"
+".big"=="VideoGameDataFile.EA_Strategy"
+".bin"=="VideoGameDataFile.BIN"
+".bkf"=="VideoGameDataFile.Moto_Racer"
+".bnd"=="VideoGameDataFile.Neighbours_From_Hell"
+".bnt"=="VideoGameDataFile.Entropia_Universe"
+".bos"=="VideoGameDataFile.Phoenix_Engine"
+".bot"=="VideoGameDataFile.Team_Factor"
+".box"=="VideoGameDataFile.BOX"
+".bun"=="VideoGameDataFile.Monkey_Island"
+".cbf"=="VideoGameDataFile.Vietcong"
+".cnt"=="VideoGameDataFile.Hidden_and_Dangerous"
+".dta"=="VideoGameDataFile.Hidden_and_Dangerous"
+".cob"=="VideoGameDataFile.Ascendancy"
+".cpr"=="VideoGameDataFile.Ascaron_Entertainment"
+".crf"=="VideoGameDataFile.Dark_Engine"
+".csc"=="Prism3D_Engine_Data_Package_file"
+".zipfs"=="Prism3D_Engine_Data_Package_file"
+".ctp"=="Call_To_Power_Game_Data_Package_file"
+".dat"=="Program_Data_file"
+".data"=="Arena_Wars_Game_Data_Package_file"
+".texturepack"=="Arena_Wars_Game_Data_Package_file"
+".dir"=="GTA_3_Game_Data_Package_file"
+".dlu"=="Dirty_Little_Helper_98_Game_Data_Package_file"
+".dni"=="realMyst_Game_Data_Package_file"
+".drs"=="Genie_Engine_Data_Package_file"
+".erf"=="Eclipse_Engine_Data_Package_file"
+".far"=="The_Sims_Game_Data_Package_file"
+".fbz"=="Storm3D_Engine_Data_Package_file"
+".ff"=="Freedom_Force_Game_Data_Package_file"
+".ffl"=="Aliens_vs_Predator_Game_Data_Package_file"
+".flmod"=="Freelancer_Game_Data_Package_file"
+".fpk"=="Civilization_Game_Data_Package_file"
+".gjd"=="The_11th_Hour_Game_Data_Package_file"
+".gl"=="Star_Crusader_Game_Data_Package_file"
+".gob"=="LucasArts_Game_Data_Package_file"
+".gro"=="Serious_Engine_Data_Package_file"
+".grp"=="Shadow_Warrior_Game_Data_Package_file"
+".gzp"=="Amityville_Engine_Package_file"
+".hal"=="Mortyr_Game_Data_Package_file"
+".hog"=="Descent_Series_Data_Package_file"
+".hpi"=="Total_Annihilation_Game_Data_Package_file"
+".ufo"=="Total_Annihilation_Game_Data_Package_file"
+".ccx"=="Total_Annihilation_Game_Data_Package_file"
+".iwd"=="Infinity_Ward_Engine_Data_Package_file"
+".jam"=="Leisure_Suit_Larry_Game_Package_file"
+".lug"=="Lionhead_Studios_Game_Package_file"
+".lzp"=="Law_and_Order_Game_Package_file"
+".m4b"=="Myst_Game_Package_file"
+".mgz"=="Metal_Gear_Solid_Game_Package_file"
+".mix"=="Westwood_Studios_Game_Package_file"
+".mn3"=="Descent_3_Game_Package_file"
+".mob"=="Master_of_Orion_3_Game_Package_file"
+".mrc"=="The_Fifth_Element_Game_Package_file"
+".mtf"=="Darkstone_Game_Package_file"
+".nob"=="Vampire_The_Masquerade_Game_Package_file"
+".pac"=="Vision_Engine_Resource_Package_file"
+".pak"=="Video_Game_Resource_Package_file"
+".pbo"=="Operation_Flashpoint_Game_Package_file"
+".pck"=="Commandos_3_Game_Package_file"
+".pff"=="Voxel_Space_Engine_Data_Package_file"
+".pk1"=="XS_Game_Data_Package_file"
+".pk2"=="XS_Game_Data_Package_file"
+".pk3"=="id_Tech_1-3_Engine_Data_Package_file"
+".pk4"=="id_Tech_4_Engine_Data_Package_file"
+".pod"=="POD_Game_Package_file"
+".prm"=="Hitman_Game_Package_file"
+".psh"=="Itch_Game_Package_file"
+".rbz"=="Richard_Burns_Rally_Game_Package_file"
+".rcf"=="Titanium_Engine_Data_Package_file"
+".res"=="Enigma_Engine_Data_Package_file"
+".rez"=="LithTech_Engine_Data_Package_file"
+".rfa"=="Battlefield_1942_Game_Data_Package_file"
+".rfc"=="F1_Manager_Game_Data_Package_file"
+".rfd"=="F1_Manager_Game_Data_Package_file"
+".rfh"=="F1_Manager_Game_Data_Package_file"
+".rod"=="Hot_Rod_American_Street_Drag_Game_Data_Package_file"
+".rvi"=="Revenant_Game_Data_Package_file"
+".rvm"=="Revenant_Game_Data_Package_file"
+".rvr"=="Revenant_Game_Data_Package_file"
+".sab"=="Sabotain_Game_Data_Package_file"
+".sad"=="Black_and_White_Sound_Package_file"
+".sak"=="Postal_Game_Data_Package_file"
+".scs"=="Hunting_Unlimited_Game_Data_Package_file"
+".sdt"=="SDT_Game_Data_Package_file"
+".sfl"=="AGON_Game_Data_Package_file"
+".sin"=="SiN_Game_Data_Package_file"
+".slf"=="Jagged_Alliance_Game_Data_Package_file"
+".sni"=="MDK_Game_Data_Package_file"
+".sqh"=="Harbinger_Game_Data_Package_file"
+".ssa"=="Titan_Engine_Data_Package_file"
+".stuff"=="Video_Game_Stuff_file"
+".sxt"=="Singles_Game_Data_Package_file"
+".syn"=="Breakneck_Game_Data_Package_file"
+".tex"=="Glacier_Engine_Data_Package_file"
+".tlk"=="TLK_Game_Data_Package_file"
+".uax"=="Unreal_Engine_Data_Package_file"
+".umx"=="Unreal_Engine_Data_Package_file"
+".utx"=="Unreal_Engine_Data_Package_file"
+".vfs"=="UFO_Series_Game_Data_Package_file"
+".vol"=="Dynamix_Inc_Game_Data_Package_file"
+".vl2"=="Dynamix_Inc_Game_Data_Package_file"
+".vp"=="Freespace_Engine_Data_Package_file"
+".wad"=="id_Tech_Engine_Mod_Data_Package_file"
+".x13"=="Hooligans_Game_Data_Package_file"
+".xcr"=="Warlords_Battlecry_Game_Data_Package_file"
+".xrs"=="Dig_It!_Game_Data_Package_file"
+".xtc"=="Starbreeze_Studios_Game_Data_Package_file"
+".xwc"=="Starbreeze_Studios_Game_Data_Package_file"
+".za"=="NFusion_Interactive_Game_Data_Package_file"
+".ztd"=="Zoo_Tycoon_Game_Data_Package_file"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"DragonUnpacker"="Software\\DragonUnpacker\\Capabilities"

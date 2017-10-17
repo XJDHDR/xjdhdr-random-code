@@ -1,0 +1,131 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CLASSES_ROOT\.htm]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.html]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.mht]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.mhtml]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.shtml]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.url]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.website]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.xht]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.xhtml]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\ftp]
+@="FirefoxPortableURL"
+
+[HKEY_CLASSES_ROOT\http]
+@="FirefoxPortableURL"
+
+[HKEY_CLASSES_ROOT\https]
+@="FirefoxPortableURL"
+
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML]
+@="Firefox HTML Document"
+"EditFlags"=dword:00000002
+"FriendlyTypeName"="Firefox HTML Document"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\DefaultIcon]
+@="D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe,1"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" -osint -url \"%1\""
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\open\ddeexec]
+@=""
+
+
+[HKEY_CLASSES_ROOT\FirefoxPortableURL]
+@="Firefox URL"
+"FriendlyTypeName"="Firefox URL"
+"URL Protocol"=""
+"EditFlags"=dword:00000002
+
+[HKEY_CLASSES_ROOT\FirefoxPortableURL\DefaultIcon]
+@="D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe,1"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableURL\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableURL\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" -osint -url \"%1\""
+
+[HKEY_CLASSES_ROOT\FirefoxPortableURL\shell\open\ddeexec]
+@=""
+
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.htm]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.html]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.mht]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.mhtml]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.shtml]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.url]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.website]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.xht]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.xhtml]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\UrlAssociations\ftp]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\UrlAssociations\http]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\UrlAssociations\https]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\ftp]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\https]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet\FirefoxPortable]
+@="Firefox Portable"
+"LocalizedString"="Mozilla Firefox Portable Edition"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet\FirefoxPortable\Capabilities]
+"ApplicationName"="Mozilla Firefox, Portable Edition"
+"ApplicationDescription"="Mozilla Firefox®, Portable Edition is the popular Mozilla Firefox web browser bundled with a PortableApps.com Launcher as a portable app, so you can take your bookmarks, extensions and saved passwords with you."
+"ApplicationIcon"=""D:\\Portable\PortableApps.com\PortableApps\FirefoxPortable\FirefoxPortable.exe",0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet\FirefoxPortable\Capabilities\FileAssociations]
+".htm"="FirefoxPortableHTML"
+".html"="FirefoxPortableHTML"
+".mht"="FirefoxPortableHTML"
+".mhtml"="FirefoxPortableHTML"
+".shtml"="FirefoxPortableHTML"
+".svg"="svgfile"
+".url"="FirefoxPortableHTML"
+".website"="FirefoxPortableHTML"
+".xht"="FirefoxPortableHTML"
+".xhtml"="FirefoxPortableHTML"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet\FirefoxPortable\Capabilities\StartMenu]
+"StartMenuInternet"="FirefoxPortable"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet\FirefoxPortable\Capabilities\URLAssociations]
+"http"="FirefoxPortableURL"
+"https"="FirefoxPortableURL"
+"ftp"="FirefoxPortableURL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet\FirefoxPortable\DefaultIcon]
+@=""D:\\Portable\PortableApps.com\PortableApps\FirefoxPortable\FirefoxPortable.exe",0"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Firefox Portable"="Software\\Clients\\StartMenuInternet\\FirefoxPortable\\Capabilities"

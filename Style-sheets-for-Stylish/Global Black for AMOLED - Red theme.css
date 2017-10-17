@@ -1,0 +1,131 @@
+/* Copied from https://userstyles.org/styles/112107/global-black-for-amoled-displays and modified */
+
+/* window {background: #000 !important;} */
+
+
+
+browser[type="content-primary"] {background-color: #000 !important;}
+
+
+
+/* regexp to exclude some pages */
+
+@-moz-document regexp("^(?!(https*:\/\/www\.google\.co(m|\...)\/maps|https*:\/\/(nominatim|www)\.openstreetmap\.org\/)).*") {
+
+
+
+	html, body, body>div {
+
+		background: #000 !important;
+
+	}
+
+	
+
+	* {
+
+		border-color: #252525 !important;
+
+	}
+
+	
+
+	body *:not([background]):not(.works-info) {
+
+		background-color: #000 !important;
+
+	}
+
+	
+
+	body *
+
+	{
+
+		text-shadow: none !important;
+
+		color: rgba(250,0,0,1) !important;
+
+	}
+
+
+
+	body a, body a:link,
+
+	body a *:not(img), body a:link *:not(img)
+
+	{
+
+		background-color: rgba(250,140,0,0) !important;
+
+		color: #00FA00 !important;
+
+	}
+
+
+
+	body a:hover, body a:active,
+
+	body a:hover *:not(img), body a:active *:not(img)
+
+	{
+
+		background-color: rgba(250,190,0,0) !important;
+
+		color: #96FA00 !important;
+
+	}
+
+
+
+	body a:visited,
+
+	body a:visited *:not(img)
+
+	{
+
+		background-color: rgba(250,190,0,0) !important;
+
+		color: #9182ff !important;
+
+	}
+
+	
+
+	body input, body textarea
+
+	{
+
+	   color: #00FA00 !important;
+
+	   background: #222 !important;
+
+	   border-color: #333 !important;
+
+	}
+
+
+
+	div[style*="transparent"] *:not(img)
+
+	{
+
+		opacity: 0 !important;
+
+	}
+
+
+
+}
+
+
+
+@-moz-document url(about:blank) {
+
+	html {
+
+		background: #000;
+
+	}
+
+}

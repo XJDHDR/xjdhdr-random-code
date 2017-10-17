@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+; NOTE! 
+; While I've tried to ensure that these registry settings don't cause problems, 
+; using this file may damage your PC's configuration. While I would appreciate any bug reports 
+; resulting from the use of this file, I do not take responsibility for any 
+; problems that would result from using these registry settings.
+; You have been warned!
+;
+; NOTE!
+; Do not use these keys to create a customized Windows installer. I have experienced a BSOD
+; on first logon every time. Only apply these keys to an already installed copy of Windows.
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\0012ee47-9041-4b5d-9b77-535fba8b1442\0b2d69d7-a2a1-449c-9680-f91c70521c60]
+"Attributes"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\0012ee47-9041-4b5d-9b77-535fba8b1442\dab60367-53fe-4fbc-825e-521d069d2456]
+"Attributes"=dword:00000002
