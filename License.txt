@@ -1,0 +1,24 @@
+The files in this repository are issued under a number of licenses. 
+This is the hierarchy for determining how a file is licensed:
+
+1. If a file's contents states or links to the terms of a license in clear text, that license applies and replaces all other licenses. Points 2 and 3 do not apply to such a file.
+
+2. If a directory contains a "License.txt" file, files in that directory and all subdirectories will be licensed under the license stated in the mentioned "License.txt" file. Point 3 does not apply to such a directory or it's contents.
+	Please note that subdirectory licensing follows a hierarchy. If a particular directory contains a "License.txt" file, contents of that directory and subdirectories will be licensed under the terms of the mentioned "License.txt" file until one encounters another "License.txt", at which point the contents of the directory containing this second "License.txt" as well as subdirectories will be licensed under the terms of the second "License.txt" and the first will not apply to these.
+	To illustrate and ensure there is no misunderstanding, if we have a directory structure like this:
+	Root
+	|
+	--Script.js
+	--License(1).txt
+	--Extras
+	  |
+	  --Library.js
+	  --Special
+	    |
+		--SpecialCode.js
+		--License(2).txt
+		
+	In this scenario, "Script.js" and "Library.js" will be licensed under the terms of "License(1).txt" whereas "SpecialCode.js" will be licensed under the terms of "License(2).txt". If any new files are added to the "Special" directory or a subdirectory of "Special", they will be licensed under the terms of "License(2).txt" unless a new "License.txt" is added to those subdirectories.
+	If any new files are added to the "Root" or "Extras" directory, or a subdirectory of the two, they will be licensed under the terms of "License(1).txt" unless a new "License.txt" is added to those subdirectories.
+
+3. Otherwise, the file will be licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
