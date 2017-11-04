@@ -1,6 +1,0 @@
-The files in this repository are issued under a number of licenses. 
-This is the hierarchy for determining how a file is licensed:
-
-1. If a file's text states the license it is licensed under, that license applies and replaces all other licenses. Points 2 and 3 do not apply to such a file.
-2. If a directory contains a "License.txt" file, that directory and it's contents will be licensed under the license stated in the "License.txt" file. Point 3 does not apply to such a directory or it's contents.
-3. Otherwise, the file will be licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).

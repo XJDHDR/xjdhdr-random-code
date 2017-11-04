@@ -2155,6 +2155,13 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.txt]
 
 
+[HKEY_CLASSES_ROOT\SystemFileAssociations\text\shell\open]
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\text\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
+
+
 [-HKEY_CLASSES_ROOT\.txt12]
 [HKEY_CLASSES_ROOT\.txt12]
 @="txtfile"
@@ -2267,6 +2274,14 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.vxml]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.vxml]
+
+
+[-HKEY_CLASSES_ROOT\.wccf]
+[HKEY_CLASSES_ROOT\.wccf]
+@="txtfile"
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.wccf]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wccf]
 
 
 [-HKEY_CLASSES_ROOT\.websettings]

@@ -7,7 +7,6 @@
 // @version			0.2.4.002
 // @date			2015-08-08
 // @namespace		godeye
-// @description     ??????????? 
 // @description 	Based on Next Page & Prefetch Next Page & AutoPagerizer
 // @identifier     	https://github.com/XJDHDR/xjdhdr-random-code/raw/master/Javascripts-for-Greasemonkey-or-similar/Super_Next_Page_+.user.js
 // @include          http://*
