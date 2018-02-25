@@ -50,7 +50,7 @@ Windows Registry Editor Version 5.00
 @="open"
 
 [HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" -osint -url \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" \"%1\""
 
 [HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\open\ddeexec]
 @=""
@@ -69,7 +69,7 @@ Windows Registry Editor Version 5.00
 @="open"
 
 [HKEY_CLASSES_ROOT\FirefoxPortableURL\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" -osint -url \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" -url \"%1\""
 
 [HKEY_CLASSES_ROOT\FirefoxPortableURL\shell\open\ddeexec]
 @=""

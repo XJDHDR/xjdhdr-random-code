@@ -1483,49 +1483,24 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.php]
 
 
-[-HKEY_CLASSES_ROOT\.py]
-[HKEY_CLASSES_ROOT\.py]
-@="python_code_file"
-
 [HKEY_CLASSES_ROOT\.py\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-[-HKEY_CLASSES_ROOT\.pyt]
-[HKEY_CLASSES_ROOT\.pyt]
-@="python_code_file"
 
 [HKEY_CLASSES_ROOT\.pyt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
-[-HKEY_CLASSES_ROOT\.pyw]
-[HKEY_CLASSES_ROOT\.pyw]
-@="python_code_file"
-
 [HKEY_CLASSES_ROOT\.pyw\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
-[-HKEY_CLASSES_ROOT\.yaml]
-[HKEY_CLASSES_ROOT\.yaml]
-@="python_code_file"
-
-[HKEY_CLASSES_ROOT\.yaml\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-
-[-HKEY_CLASSES_ROOT\python_code_file\shell\Edit]
-[HKEY_CLASSES_ROOT\python_code_file\shell\EditWithNPP]
+[HKEY_CLASSES_ROOT\Python.File\shell\EditWithNPP]
 @="Edit with Notepad++"
 "Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
 
-[HKEY_CLASSES_ROOT\python_code_file\shell\EditWithNPP\command]
+[HKEY_CLASSES_ROOT\Python.File\shell\EditWithNPP\command]
 @="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
-
-[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.py]
-[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.py]
 
 
 [-HKEY_CLASSES_ROOT\.rb]
@@ -2207,3 +2182,23 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.ybhtm]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ybhtm]
+
+
+[-HKEY_CLASSES_ROOT\.yaml]
+[HKEY_CLASSES_ROOT\.yaml]
+@="YAML_file"
+
+[HKEY_CLASSES_ROOT\.yaml\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[-HKEY_CLASSES_ROOT\YAML_file\shell\Edit]
+[HKEY_CLASSES_ROOT\YAML_file\shell\EditWithNPP]
+@="Edit with Notepad++"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
+
+[HKEY_CLASSES_ROOT\YAML_file\shell\EditWithNPP\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.yaml]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.yaml]

@@ -407,6 +407,18 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.docx]
 
 
+[-HKEY_CLASSES_ROOT\.ppt]
+[HKEY_CLASSES_ROOT\.ppt]
+@="opendocument_presentation_file"
+
+[HKEY_CLASSES_ROOT\.ppt\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.odp]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odp]
+
+
 [-HKEY_CLASSES_ROOT\.rt]
 [HKEY_CLASSES_ROOT\.rt]
 @="rtffile"
@@ -539,6 +551,7 @@ Windows Registry Editor Version 5.00
 ".doc"="doc_file"
 ".doc#"="doc_file"
 ".docx"="docxfile"
+".ppt"="opendocument_presentation_file"
 ".rt"="rtffile"
 ".rtf"="rtffile"
 ".rtx"="rtffile"

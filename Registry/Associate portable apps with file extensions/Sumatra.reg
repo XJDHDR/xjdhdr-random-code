@@ -28,12 +28,6 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.epub]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.epub]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.epub\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.epub\OpenWithProgids]
-"public_ebook_file"=hex(0):
 
 
 [-HKEY_CLASSES_ROOT\.mobi]
@@ -76,39 +70,15 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.mobi]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mobi]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mobi\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mobi\OpenWithProgids]
-"mobipocket_ebook_file"=hex(0):
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.prc]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.prc]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.prc\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.prc\OpenWithProgids]
-"mobipocket_ebook_file"=hex(0):
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.pdb]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdb]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdb\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdb\OpenWithProgids]
-"mobipocket_ebook_file"=hex(0):
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.azw]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.azw]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.azw\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.azw\OpenWithProgids]
-"mobipocket_ebook_file"=hex(0):
 
 
 [-HKEY_CLASSES_ROOT\.xps]
@@ -127,12 +97,6 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.xps]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xps]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xps\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xps\OpenWithProgids]
-"xml_paper_specification_file"=hex(0):
 
 
 [-HKEY_CLASSES_ROOT\.djvu]
@@ -151,12 +115,6 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.djvu]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.djvu]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.djvu\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.djvu\OpenWithProgids]
-"djvu_file"=hex(0):
 
 
 ; Rather use built in reader
@@ -176,12 +134,6 @@ Windows Registry Editor Version 5.00
 
 ;[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.chm]
 ;[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.chm]
-;[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.chm\OpenWithList]
-;"MRUList"="a"
-;"a"="SumatraPDFPortable.exe"
-
-;[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.chm\OpenWithProgids]
-;"compiled_html_file"=hex(0):
 
 
 ; CB7 not supported by Sumatra
@@ -217,30 +169,12 @@ Windows Registry Editor Version 5.00
 
 ;[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.cb7]
 ;[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cb7]
-;[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cb7\OpenWithList]
-;"MRUList"="a"
-;"a"="SumatraPDFPortable.exe"
-;
-;[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cb7\OpenWithProgids]
-;"comicbook_file"=hex(0):
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.cbr]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cbr]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cbr\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cbr\OpenWithProgids]
-"comicbook_file"=hex(0):
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.cbz]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cbz]
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cbz\OpenWithList]
-"MRUList"="a"
-"a"="SumatraPDFPortable.exe"
-
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cbz\OpenWithProgids]
-"comicbook_file"=hex(0):
 
 
 ; Register Sumatra PDF in Default Programs menu
