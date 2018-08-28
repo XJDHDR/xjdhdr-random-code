@@ -1,0 +1,9 @@
+This blocklist consists of the following blocklists from I-Blocklist merged together:
+  - Level 1: https://www.iblocklist.com/list?list=ydxerpxkpcfqjaybcssw
+  - Level 2: https://www.iblocklist.com/list?list=gyisgnzbhppbvsphucsw
+  - Rangetest: https://www.iblocklist.com/list?list=plkehquoahljmyxjixpu
+  - Bogon: https://www.iblocklist.com/list?list=gihxqmhyunbxhbmgqrla
+  - Proxy: https://www.iblocklist.com/list?list=xoebmbyexwuiogmbyprb
+  - Microsoft: https://www.iblocklist.com/list?list=xshktygkujudfnjfioro
+  - IANA Reserved: https://www.iblocklist.com/list?list=bcoepfyewziejvcqyhqo
+  - IANA Multicast: https://www.iblocklist.com/list?list=pwqnlynprfgtjbgqoizj
