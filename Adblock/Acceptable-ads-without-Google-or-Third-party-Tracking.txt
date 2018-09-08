@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
-! Version: 201802231917
-! Title: AdBlock Plus' Acceptable Ads without third-party tracking list without Google related filters
-! Last modified: 23 Feb 2018 19:17 UTC
+! Checksum: GVPRKVwGddaMTodARNDs5A
+! Version: 201809080732
+! Title: AdBlock Plus' Acceptable Ads list without Google related filters or third-party tracking
+! Last modified: 08 Sep 2018 07:32 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
-! Licence: https://easylist-downloads.adblockplus.org/COPYING
 !
 ! Please report any issues by creating a ticket on GitHub
+!
 !
 !
 ! *** exceptions:exceptionrules/exceptionrules-no-third-party-tracking.txt ***
@@ -15,6 +16,8 @@
 @@||duckduckgo.com^*^q=$elemhide
 @@||duckduckgo.com/lite$elemhide
 @@||duckduckgo.com/html$elemhide
+@@||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
+@@||duckduckgo.com/m.js?$domain=duckduckgo.com
 ! Amazon text ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=9791)
 @@||amazon.com^$elemhide
 @@||amazon.ca^$elemhide
@@ -30,13 +33,9 @@
 @@||amazon.in^$elemhide
 @@||amazon.com.mx^$elemhide
 @@||amazon.nl^$elemhide
-! Xing.com Ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=45317)
-@@||xing.com/xas/*^position=sidebar^$xmlhttprequest,domain=xing.com
-@@||xing.com/xas/*^impression?channel=sidebar$xmlhttprequest,domain=xing.com
-xing.com#@#article[data-tracking*="\"type\":\"ad_"]
-xing.com#@#article[data-tracking*="\"type\":\"ad"]
-xing.com##article[data-tag="VideoAd"]
 ! vk.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=44997)
+@@||vk.com/js/lib/px.js?ch=1$domain=vk.com
+||vk.com/js/lib/px.js?ch=2$domain=vk.com
 @@||vk.com/ads_rotate.php?act=$xmlhttprequest,domain=vk.com
 @@||ad.mail.ru/adq/?$script,domain=vk.com
 vk.com#@#.ads_label
@@ -48,6 +47,7 @@ vk.com#@##ads_left
 ! https://adblockplus.org/forum/viewtopic.php?p=164327#p164327
 vk.com#@#div[data-ad-view]
 vk.com#@#div[data-ad]
+vk.com#@#._ads_promoted_post_data_w
 @@||vk.com/ads_light.php$domain=vk.com
 ! justgoodfood.be ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=44791)
 justgoodfood.be#@#.wpproaddlink
@@ -68,18 +68,8 @@ scriptreview.net#@#.etad
 @@||siteground.co.uk/img/banners/general/static/$domain=scriptreview.net
 ! cmonecole.fr ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=51513)
 @@||cmonecole.fr/images/cmonecole/upload/image/dossier/stoffel/ENCART_PUB_C_MON_ECOLE_MENUS_GENERAL_TELECHARGEMENT_FINANCEMENT_DANIEL_STOFFEL.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/BANDEAU_PUB_WEB_FAITE_DECOLLER_VOS_PROJETS_-_150_X_500_NON_ANIME_V2.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/BANDEAU_PUB_WEB_CHOCOLAT_-_180_X_150_NON_ANIME_V2.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/170904_CMONECOLE_SAVEURS-150x500-fixe.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/publicite_operationPamplemousses.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/2017_cmomecole_V2.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/CMONECOLE_PUB_180x150_03.png$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/170904_CMONECOLE_FLEURS-150x500-fixe.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/170904_CMONECOLE_CREATIONS-150x500-fixe.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/170904_CMONECOLE_TENDANCES-150x500-fixe.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/180108_CMONECOLE_TOMBOLA150x500_fixe.jpg$domain=cmonecole.fr
-@@||cmonecole.fr/images/banners/180130_CMONECOLE_SAVEURS-150x500-fixe.jpg$domain=cmonecole.fr
 @@||cmonecole.fr/images/cmonecole/upload/image/dossier/stoffel/vente-chocolat-avec-daniel-stoffel_2.jpg
+@@||cmonecole.fr/images/banners/$image,domain=cmonecole.fr
 ! forums.freenas.org ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=49838)
 @@||forums.freenas.org/assets/images/$image,domain=forums.freenas.org
 ! nscreenmedia.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=49837)
@@ -132,6 +122,7 @@ yelp.com#@#.ad-block
 @@||licdn.com/scds/common/u/img/promo/ads/*_Logo50x50.$image,domain=linkedin.com
 @@||licdn.com/scds/common/u/images/promo/ads/*_VideoAds50x50.$image,domain=linkedin.com
 @@||linkedin.com/csp/dtag^
+@@||linkedin.com/tscp-serving/dtag^
 @@/search/ads?$domain=linkedin.com
 linkedin.com#@#.adchoices
 linkedin.com#@#.adchoices-link
@@ -160,30 +151,34 @@ linkedin.com###pymk_cards_container > #ad-unit
 linkedin.com###right-rail > #right-ad-container > #ad-contacts-pymk-fs-2
 linkedin.com#@#.iframe-ad
 linkedin.com##IMG.img_ad[src^="https://media.licdn.com/mpr/mpr/"]
+linkedin.com#@#a[href^="https://bs.serving-sys.com"]
 ! centrifuge-lemag.fr ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=54236)
 @@||centrifuge-lemag.fr/wp-content/uploads/*-728x90-$image,domain=centrifuge-lemag.fr
 centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 ! south-plus.net ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=54245)
 @@||bbs.south-plus.net/images/$image,domain=bbs.south-plus.net
+! Readthedocs.io ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=56425)
+@@||readthedocs.org/api/*/sustainability/$script,domain=readthedocs.io
+@@||readthedocs.org/sustainability/$domain=readthedocs.io
+readthedocs.io#@#.ethical-rtd
+! wykop.pl ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=44658)
+wykop.pl#@#li:-abp-has(a[href^="https://www.wykop.pl/paylink/"])
+wykop.pl#@#li.link:-abp-has(a[href*='wykop.pl/paylink'])
+wykop.pl#@#li.link:-abp-has(a[href*='wykop.pl/reklama'])
+wykop.pl#@#li.link:-abp-has(a[href*='wykop.pl/market'])
+wykop.pl#@#A[href$="/reklama"]
+wykop.pl#@##itemsStream:not(.touch-content) .article:not(.dC)
 ! Combined rules for sites using detection
 @@/px.gif?ch=1&rn=$domain=yelp.com
 /px.gif?ch=2&rn=$domain=yelp.com
 @@/px.js?ch=1$domain=linkedin.com
 /px.js?ch=2$domain=linkedin.com
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
-! Bing.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=22602)
-@@||www.bing.com/search^$elemhide
-||bing.com/fd/ls/l?BF=MSJ1&$domain=bing.com
-@@||bing.com/fd/ls/l?BF=MSJ0&$domain=bing.com
 ! Yahoo search/in-feed ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=18121)
-@@||l.yimg.com/pv/static/misc/sme/abp/w.gif$domain=yahoo.com
-||l.yimg.com/pv/static/misc/sme/abp/b.gif$domain=yahoo.com
 @@||geo.yahoo.com/p?AB_TYPE=w$domain=yahoo.com
 ||geo.yahoo.com/p?AB_TYPE=b$domain=yahoo.com
 @@||dmros.ysm.yahoo.com/ros/$domain=search.yahoo.com
 @@||r.search.yahoo.com/_ylt=*;_ylu=*.r.msn.com$popup,domain=search.yahoo.com
-@@||r.search.yahoo.com/_ylt=*;_ylu=*.bat.bing.com$popup,domain=search.yahoo.com
-@@||yimg.com^*^pid=Ads^$domain=search.yahoo.com
 @@||search.yahoo.com^$elemhide
 yahoo.com,~mail.yahoo.com#@#.rmx-ad
 yahoo.com,~mail.yahoo.com#@#.adlink
@@ -197,30 +192,20 @@ yahoo.com,~mail.yahoo.com#@#.js-stream-ad
 yahoo.com,~mail.yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
 yahoo.com,~mail.yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
 yahoo.com,~mail.yahoo.com#@#div[style*="/ads/"]
-@@||yimg.com/av/moneyball/ads/$image,domain=yahoo.com|~mail.yahoo.com
-@@||yimg.com^*.yimg.com/av/moneyball/ads/$image,domain=yahoo.com|~mail.yahoo.com
-@@||yahoo.com^*.yimg.com/av/moneyball/ads/$image,domain=~mail.yahoo.com
-@@||yahoo.com/s.yimg.com/av/curveball/ads/$image,domain=~mail.yahoo.com
-@@||yahoo.com/sy/av/moneyball/ads/$image,domain=~mail.yahoo.com
-@@||yimg.com/av/curveball/ads/$image,domain=yahoo.com|~mail.yahoo.com
-@@||yimg.com^*.yimg.com/av/curveball/ads/$image,domain=yahoo.com|~mail.yahoo.com
-@@||yahoo.com/sy/ts/api/res/*yimg.com/av/curveball/ads/pr/$image,domain=yahoo.com|~mail.yahoo.com
-@@||yahoo.com/sy/uu/api/res/*yimg.com/av/curveball/ads/pr/$image,domain=yahoo.com|~mail.yahoo.com
-@@||yahoo.com/sy/ny/api/res/*yimg.com/av/curveball/ads/pr/$image,domain=yahoo.com|~mail.yahoo.com
+yahoo.com##a[href*="beap.gemini.yahoo.com/mbclk?"] > img[src*=".gif"]
+@@||yahoo.com^*/av/moneyball/ads/$image,domain=~mail.yahoo.com
+@@||yahoo.com^*/av/curveball/ads/$image,domain=~mail.yahoo.com
 @@||beap.gemini.yahoo.com^$domain=yahoo.com|~mail.yahoo.com
-||yimg.com/gemini/pr/video_$domain=yahoo.com
 shopping.yahoo.com#@#.shmod-ysm
 groups.yahoo.com#@#.yg-mbad-row
 groups.yahoo.com#@#.yg-mbad-row > *
 yahoo.com##.ysab
 ! Yahoo display ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=24361)
-||s.yimg.com/hl/ap/default/140801/px.png?ch=2$domain=yahoo.com
 @@||pclick.internal.yahoo.com/p/s=$image,domain=yahoo.com
 @@||dmros.ysm.yahoo.com/ros/$script,domain=autos.yahoo.com
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#.ad-icon
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#.ad-active
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#[data-ad-enhanced="pencil"]
-@@||s.yimg.com/lo/api/res/1.2/*/https://s.yimg.com/av/moneyball/ads/$domain=celebrity.yahoo.com|finance.yahoo.com|news.yahoo.com|search.yahoo.com|sports.yahoo.com
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@##td-applet-ads_container
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#.Ad-Container
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
@@ -228,7 +213,6 @@ yahoo.com#@#.Feedback
 ! Yahoo display ads (https://adblockplus.org/forum/viewtopic.php?p=142591#p142591)
 yahoo.com#@#.SidekickItem-Ads
 news.yahoo.com#@#.yom-ad
-@@||s.yimg.com/cv/ae/*/audience/*/120x45$image,domain=l.yimg.com
 style.yahoo.com#@#.gemini-ad
 nachrichten.yahoo.com#@#[data-ad-enhanced="card"]
 nachrichten.yahoo.com#@#.ad-source
