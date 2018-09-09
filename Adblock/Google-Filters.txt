@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6FwdlDglO0oG/RbUYNaMPA
-! Version: 201809090126
+! Checksum: zoU04Pa+3YbDO3GHdI5YZg
+! Version: 201809090302
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Sep 2018 01:26 UTC
+! Last modified: 09 Sep 2018 03:02 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -17,7 +17,7 @@
 &googleadword=
 &strategy=adsense&
 -adsense2.
--adwords.$domain=~consultant-adwords.fr|~freelance-adwords.com|~freelance-adwords.fr
+-adwords.$domain=~consultant-adwords.com|~consultant-adwords.fr|~freelance-adwords.com|~freelance-adwords.fr
 -doubleclick-plugin/
 -doubleclick.js
 -doubleclick.min.js

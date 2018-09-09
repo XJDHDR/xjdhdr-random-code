@@ -1,7 +1,7 @@
-#!/bin/bash -x
+#!/bin/bash
 
 
-if ! '/bin/bash' '/home/svn/xjdhdr-random-code/trunk/Bash/test_connection.bash'
+if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
 then
 	sDateTime=$(date -u +"%d %b %Y %H:%M")
 	printf 'test_connection.bash:\n%s UTC\n-  No internet connection detected\n\n' "$sDateTime" \
@@ -12,9 +12,9 @@ fi
 sVersion=$(date -u +"%Y%m%d%H%M")
 sDateTime=$(date -u +"%d %b %Y %H:%M")
 {
-	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/trunk/Adblock/'
-	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/trunk/Bash/'
-	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/trunk/torrent-mega-blocklist/'
+	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/Adblock/'
+	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/Bash/'
+	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/torrent-mega-blocklist/'
 
 	rm -rdf -- "$HOME/working_folder/*"
 
@@ -51,26 +51,26 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 					printf '! Please report any issues by creating a ticket on GitHub\n'
 					printf '!\n'
 					printf '!\n'
-					grep -iFf '/home/svn/xjdhdr-random-code/trunk/Bash/google_ad_keywords.txt' \
+					grep -iFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 						"$HOME/working_folder/easylist.txt"
-					grep -iFf '/home/svn/xjdhdr-random-code/trunk/Bash/google_ad_keywords.txt' \
+					grep -iFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 						"$HOME/working_folder/easyprivacy.txt"
-					grep -iFf '/home/svn/xjdhdr-random-code/trunk/Bash/google_ad_keywords.txt' \
+					grep -iFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 						"$HOME/working_folder/fanboy-annoyance.txt"
-				} > '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt'
-				sed -i '/@gmail\.com/d' '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt'
+				} > '/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt'
+				sed -i '/@gmail\.com/d' '/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt'
 				# Delete duplicate lines except comments
-				awk '/^!/ || !a[$0]++' '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt' \
-					> '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters-cleaned.txt'
-				mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters-cleaned.txt' \
-					'/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt'
-				recode -f ..utf8 '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt'
-				python '/home/addChecksum.py' < '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt' \
-					> '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters-checked.txt'
-				mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters-checked.txt' \
-					'/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt'
+				awk '/^!/ || !a[$0]++' '/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt' \
+					> '/home/svn/xjdhdr-random-code/Adblock/Google-Filters-cleaned.txt'
+				mv -f '/home/svn/xjdhdr-random-code/Adblock/Google-Filters-cleaned.txt' \
+					'/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt'
+				recode -f ..utf8 '/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt'
+				python '/home/addChecksum.py' < '/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt' \
+					> '/home/svn/xjdhdr-random-code/Adblock/Google-Filters-checked.txt'
+				mv -f '/home/svn/xjdhdr-random-code/Adblock/Google-Filters-checked.txt' \
+					'/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt'
 				CommandExitCode=$(python '/home/validateChecksum.py' < \
-					'/home/svn/xjdhdr-random-code/trunk/Adblock/Google-Filters.txt')$?
+					'/home/svn/xjdhdr-random-code/Adblock/Google-Filters.txt')$?
 				if [ "$CommandExitCode" != 'Checksum is valid0' ]
 				then
 					errors+='Errors encountered during checksum validation of Google-Filters.txt:'
@@ -113,21 +113,21 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! Please report any issues by creating a ticket on GitHub\n'
 			printf '!\n'
 			printf '!\n'
-			grep -viFf '/home/svn/xjdhdr-random-code/trunk/Bash/google_ad_keywords.txt' \
+			grep -viFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 				"$HOME/working_folder/exceptionrules.txt"
-		} > '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt'
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
 		# Delete duplicate lines except comments
-		awk '/^!/ || !a[$0]++' '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt' \
-			> '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-cleaned.txt'
-		mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-cleaned.txt' \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt'
-		recode -f ..utf8 '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt'
-		python '/home/addChecksum.py' < '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt' \
-			> '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-checked.txt'
-		mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-checked.txt' \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt'
+		awk '/^!/ || !a[$0]++' '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt' \
+			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-cleaned.txt'
+		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-cleaned.txt' \
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
+		recode -f ..utf8 '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
+		python '/home/addChecksum.py' < '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt' \
+			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-checked.txt'
+		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-checked.txt' \
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
 		CommandExitCode=$(python '/home/validateChecksum.py' < \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google.txt')$?
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt')$?
 		if [ "$CommandExitCode" != 'Checksum is valid0' ]
 		then
 			errors+='Errors encountered during checksum validation of Acceptable-ads-without-Google.txt:'
@@ -162,23 +162,23 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! Please report any issues by creating a ticket on GitHub\n'
 			printf '!\n'
 			printf '!\n'
-			grep -viFf '/home/svn/xjdhdr-random-code/trunk/Bash/google_ad_keywords.txt' \
+			grep -viFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 				"$HOME//working_folder/exceptionrules-privacy-friendly.txt"
-		} > '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
 		# Delete duplicate lines except comments
 		awk '/^!/ || !a[$0]++' \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
-			> '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt'
-		mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt' \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
-		recode -f ..utf8 '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
+			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt'
+		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt' \
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
+		recode -f ..utf8 '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
 		python '/home/addChecksum.py' < \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
-			> '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-checked.txt'
-		mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-checked.txt' \
-			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
+			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-checked.txt'
+		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-checked.txt' \
+			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
 		CommandExitCode=$(python '/home/validateChecksum.py' \
-			< '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt')$?
+			< '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt')$?
 		if [ "$CommandExitCode" != 'Checksum is valid0' ]
 		then
 			errors+='Errors encountered during checksum validation of Acceptable-ads-without-Google'
@@ -223,13 +223,13 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 				printf '!\n'
 				printf '!\n'
 				cat "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			} > "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt"
+			} > "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
 			# Delete duplicate lines except comments
-			awk '/^!/ || !a[$0]++' "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt" \
-				> "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt"
-			mv -f "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt" \
-				"/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt"
-			recode -f ..utf8 "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
+			awk '/^!/ || !a[$0]++' "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt" \
+				> "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt"
+			mv -f "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt" \
+				"/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
+			recode -f ..utf8 "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
 			python '/home/addChecksum.py' < "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt" \
 				> "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem-checked.txt"
 			mv -f "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem-checked.txt" \
@@ -326,21 +326,21 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	awk '!a[$0]++' "$HOME/working_folder/blocklist.txt" > "$HOME/working_folder/blocklist-cleaned.txt"
 	mv -f "$HOME/working_folder/blocklist-cleaned.txt" "$HOME/working_folder/blocklist.txt"
 	gzip -f9 -- "$HOME/working_folder/blocklist.txt"
-	mv -f -- "$HOME/working_folder/blocklist.txt.gz" "/home/svn/xjdhdr-random-code/trunk/torrent-mega-blocklist/blocklist.p2p.gz"
+	mv -f -- "$HOME/working_folder/blocklist.txt.gz" "/home/svn/xjdhdr-random-code/torrent-mega-blocklist/blocklist.p2p.gz"
 
 
 	# Commit changes
 	#   SourceForge
-	sshpass -f "$HOME/sourceforge_password.txt" rsync -qcruz -e ssh --exclude=.svn '/home/svn/xjdhdr-random-code/trunk/' \
-		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
+#	sshpass -f "$HOME/sourceforge_password.txt" rsync -qcruz -e ssh --exclude=.svn '/home/svn/xjdhdr-random-code/' \
+#		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
 
 	#   GitHub
-	svn status '/home/svn/xjdhdr-random-code/trunk/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
+	svn status '/home/svn/xjdhdr-random-code/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
 	do
 		svn add "$sFile"
 	done
 	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache \
-		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code/trunk'
+		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
 } 2> '/tmp/stderr-contents.txt'
 errors+=$(cat '/tmp/stderr-contents.txt')
 rm -f '/tmp/stderr-contents.txt'
