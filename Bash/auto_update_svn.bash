@@ -1,21 +1,21 @@
 #!/bin/bash
 
-# shellcheck disable=SC2059
 
-if ! '/home/svn/xjdhdr-random-code/trunk/Bash/test_connection.bash'
+if ! '/bin/bash' '/home/svn/xjdhdr-random-code/trunk/Bash/test_connection.bash'
 then
-	printf 'test_connection.bash:\n'"$(date -u +"%d %b %Y %H:%M")"' UTC\n-  No internet connection detected\n\n' \
+	sDateTime=$(date -u +"%d %b %Y %H:%M")
+	printf 'test_connection.bash:\n%s UTC\n-  No internet connection detected\n\n' "$sDateTime" \
 		>> '/home/error_reports_to_email.txt'
 	exit 1
 fi
 
+sVersion=$(date -u +"%Y%m%d%H%M")
+sDateTime=$(date -u +"%d %b %Y %H:%M")
 {
-	cd '/home/svn/xjdhdr-random-code/trunk/torrent-mega-blocklist/' || exit 1
-	svn update --accept theirs-full --force
-	cd '/home/svn/xjdhdr-random-code/trunk/Adblock/' || exit 1
-	svn update --accept theirs-full --force
+	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/trunk/Adblock/'
+	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/trunk/Bash/'
+	svn update --accept theirs-full --force '/home/svn/xjdhdr-random-code/trunk/torrent-mega-blocklist/'
 
-	cd /home/ || exit 1
 	rm -rdf -- "$HOME/working_folder/*"
 
 	CommandExitCode=$(wget -q -O "$HOME/working_folder/easylist.txt" -t 10 \
@@ -35,9 +35,9 @@ fi
 				recode -f ..utf8 "$HOME/working_folder/fanboy-annoyance.txt"
 				{
 					printf '[Adblock Plus 2.0]\n'
-					printf '! Version: '"$(date -u +"%Y%m%d%H%M")"'\n'
+					printf '! Version: %s\n' "$sVersion"
 					printf '! Title: Block Google'"'"'s adverts and tracking only\n'
-					printf '! Last modified: '"$(date -u +"%d %b %Y %H:%M")"' UTC\n'
+					printf '! Last modified: %s UTC\n' "$sDateTime"
 					printf '! Expires: 4 days\n'
 					printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 					printf '! Licence: https://easylist-downloads.adblockplus.org/COPYING\n'
@@ -104,9 +104,9 @@ fi
 		sed -i '/! Homepage: /d' "$HOME/working_folder/exceptionrules.txt"
 		{
 			printf '[Adblock Plus 2.0]\n'
-			printf '! Version: '"$(date -u +"%Y%m%d%H%M")"'\n'
+			printf '! Version: %s\n' "$sVersion"
 			printf '! Title: AdBlock Plus'"'"' Acceptable Ads list without Google related filters\n'
-			printf '! Last modified: '"$(date -u +"%d %b %Y %H:%M")"' UTC\n'
+			printf '! Last modified: %s UTC\n' "$sDateTime"
 			printf '! Expires: 1 days\n'
 			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 			printf '!\n'
@@ -153,9 +153,9 @@ fi
 		sed -i '/! Homepage: /d' "$HOME/working_folder/exceptionrules-privacy-friendly.txt"
 		{
 			printf '[Adblock Plus 2.0]\n'
-			printf '! Version: '"$(date -u +"%Y%m%d%H%M")"'\n'
+			printf '! Version: %s\n' "$sVersion"
 			printf '! Title: AdBlock Plus'"'"' Acceptable Ads list without Google related filters or third-party tracking\n'
-			printf '! Last modified: '"$(date -u +"%d %b %Y %H:%M")"' UTC\n'
+			printf '! Last modified: %s UTC\n' "$sDateTime"
 			printf '! Expires: 1 days\n'
 			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 			printf '!\n'
@@ -166,7 +166,8 @@ fi
 				"$HOME//working_folder/exceptionrules-privacy-friendly.txt"
 		} > '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
 		# Delete duplicate lines except comments
-		awk '/^!/ || !a[$0]++' '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
+		awk '/^!/ || !a[$0]++' \
+			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
 			> '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt'
 		mv -f '/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt' \
 			'/home/svn/xjdhdr-random-code/trunk/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
@@ -206,9 +207,9 @@ fi
 			sed -i '/!/!s/$/\^/g' "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
 			{
 				printf '[Adblock Plus 2.0]\n'
-				printf '! Version: '"$(date -u +"%Y%m%d%H%M")"'\n'
-				printf "! Title: HP Hosts $HPHostsDownloadItem list\n"
-				printf '! Last modified: '"$(date -u +"%d %b %Y %H:%M")"' UTC\n'
+				printf '! Version: %s\n' "$sVersion"
+				printf "! Title: HP Hosts %s list\n" "$HPHostsDownloadItem"
+				printf '! Last modified: %s UTC\n' "$sDateTime"
 				printf '! Expires: 4 days\n'
 				printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 				printf '!\n'
@@ -328,7 +329,18 @@ fi
 	mv -f -- "$HOME/working_folder/blocklist.txt.gz" "/home/svn/xjdhdr-random-code/trunk/torrent-mega-blocklist/blocklist.p2p.gz"
 
 
-	# put export commands here
+	# Commit changes
+	#   SourceForge
+	sshpass -f "$HOME/sourceforge_password.txt" rsync -qcruz -e ssh --exclude=.svn '/home/svn/xjdhdr-random-code/trunk/' \
+		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
+
+	#   GitHub
+	svn status '/home/svn/xjdhdr-random-code/trunk/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
+	do
+		svn add "$sFile"
+	done
+	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache \
+		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code/trunk'
 } 2> '/tmp/stderr-contents.txt'
 errors+=$(cat '/tmp/stderr-contents.txt')
 rm -f '/tmp/stderr-contents.txt'
@@ -336,6 +348,5 @@ rm -f '/tmp/stderr-contents.txt'
 
 if [ -n "$errors" ]
 then
-	printf 'test_connection.bash:\n'"$(date -u +"%d %b %Y %H:%M")"' UTC\n'"$errors"'\n\n' >> '/home/error_reports_to_email.txt'
+	printf 'auto_update_svn.bash:\n%s UTC\n'"$errors"'\n\n' "$sDateTime" >> '/home/error_reports_to_email.txt'
 fi
-
