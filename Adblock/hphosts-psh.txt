@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1X99W5ESKs4fanL9/wJVcA
-! Version: 201809081016
+! Checksum: 5H+tSY8WTXfYCzxIhP7m0w
+! Version: 201809090126
 ! Title: HP Hosts psh list
-! Last modified: 08 Sep 2018 10:16 UTC
+! Last modified: 09 Sep 2018 01:26 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -23407,10 +23407,13 @@
 ||docusign.tfimportacao.com.br^
 ||docusignature.000webhostapp.com^
 ||docusignbm.com^
+||docusignkioncers.ga^
 ||docusignnzmyazs1mmzi2lwzjmjutmdacltawcgaqamnkxx3wlctkomv4vbz.weebly.com^
+||docusignpro.ml^
 ||docusignpro.riversidenh.com^
 ||docusigns.review^
 ||docusignsfileshare.sharefile.com^
+||docusignxb.droppages.com^
 ||docussign.net^
 ||docviewer.co^
 ||docviewers.000webhostapp.com^
@@ -35888,6 +35891,7 @@
 ||hospitalregionalcoyhaique.cl^
 ||hospitata.com^
 ||hosplifebrasil.com.br^
+||hosrichyoban.ga^
 ||hoss302y.beget.tech^
 ||hossa-skory.pl^
 ||host-141-171.cybees.com^
@@ -38484,6 +38488,7 @@
 ||imaginarioeventos.cl^
 ||imaginarte4-001-site1.ctempurl.com^
 ||imaginasantander.com^
+||imagindream.id^
 ||imagine-collection.com^
 ||imagine-industries.com^
 ||imagine-interior.com^
@@ -44658,6 +44663,7 @@
 ||lacerimalarevista.com.ve^
 ||lachacragranjaecologica.com^
 ||lacharlotte.com.br^
+||lacherie.co.uk^
 ||laciartis.com^
 ||lacienciadelavida.com^
 ||laciguena.com^
@@ -48357,6 +48363,7 @@
 ||maintradensw.com.au^
 ||mainzeyswitch.us^
 ||maiordonordeste.com.br^
+||maiprecikovinc.droppages.com^
 ||mairoese.com^
 ||maisatualizasantander.com^
 ||maisbrasiltour.com^
@@ -50876,6 +50883,7 @@
 ||million4sale.com^
 ||millionhouz.com^
 ||millionswilldie.com^
+||millmanfile.droppages.com^
 ||millshonda.co.nz^
 ||millstorescorporation.com^
 ||millyandhenry.com.au^
@@ -56978,6 +56986,8 @@
 ||oisservices.com^
 ||oitavabr.com.br^
 ||oithair.com^
+||oitwis.cf^
+||oitwis.gq^
 ||oiuhgbhj.000webhostapp.com^
 ||oiuytrdfghjk.000webhostapp.com^
 ||oja-electric.ir^
@@ -63038,6 +63048,7 @@
 ||primemedicalbillingbenefits.com^
 ||primemotorsearch.com^
 ||primenewsbd.com^
+||primepapersinc.droppages.com^
 ||primeproducoes.com.br^
 ||primepromap.com^
 ||primer.pbphgwbr.in^
@@ -64359,6 +64370,7 @@
 ||qtad.com.au^
 ||qtbsql.com^
 ||qthz.kefifi.yi.org^
+||qu-o-ta-tion.droppages.com^
 ||qu2000.cl^
 ||qu2buku.com^
 ||quackpest.com.au^
@@ -105740,6 +105752,8 @@
 ||www.docusign.tfimportacao.com.br^
 ||www.docusignature.000webhostapp.com^
 ||www.docusignbm.com^
+||www.docusignkioncers.ga^
+||www.docusignpro.ml^
 ||www.docviewer.co^
 ||www.docviewers.000webhostapp.com^
 ||www.docwish.com^
@@ -115481,6 +115495,7 @@
 ||www.hospitalregionalcoyhaique.cl^
 ||www.hospitata.com^
 ||www.hosplifebrasil.com.br^
+||www.hosrichyoban.ga^
 ||www.hossa-skory.pl^
 ||www.host-92-27-70-137.static.as13285.net^
 ||www.host-ip.000webhostapp.com^
@@ -117611,6 +117626,7 @@
 ||www.imaginacion961fm.com^
 ||www.imaginarioeventos.cl^
 ||www.imaginasantander.com^
+||www.imagindream.id^
 ||www.imagine-collection.com^
 ||www.imagine-industries.com^
 ||www.imagine-interior.com^
@@ -122404,6 +122420,7 @@
 ||www.lacerimalarevista.com.ve^
 ||www.lachacragranjaecologica.com^
 ||www.lacharlotte.com.br^
+||www.lacherie.co.uk^
 ||www.laciartis.com^
 ||www.lacienciadelavida.com^
 ||www.laciguena.com^
@@ -131606,6 +131623,8 @@
 ||www.oitavabr.com.br^
 ||www.oitavabrasil.com.br^
 ||www.oithair.com^
+||www.oitwis.cf^
+||www.oitwis.gq^
 ||www.oiuhgbhj.000webhostapp.com^
 ||www.oiuytrdfghjk.000webhostapp.com^
 ||www.oja-electric.ir^
@@ -157955,4 +157974,4 @@
 ||zzypjyywn.fiepiux.maxgrowth.ru^
 ||zzz.nosu.yi.org^
 ||zzzha.com^
-! Hosts: 157942
+! Hosts: 157961

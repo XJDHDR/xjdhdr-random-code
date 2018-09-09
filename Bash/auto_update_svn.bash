@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 
 if ! '/bin/bash' '/home/svn/xjdhdr-random-code/trunk/Bash/test_connection.bash'
