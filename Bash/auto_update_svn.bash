@@ -230,12 +230,12 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			mv -f "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt" \
 				"/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
 			recode -f ..utf8 "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
-			python '/home/addChecksum.py' < "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt" \
-				> "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem-checked.txt"
-			mv -f "/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem-checked.txt" \
-				"/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt"
+			python '/home/addChecksum.py' < "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt" \
+				> "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-checked.txt"
+			mv -f "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-checked.txt" \
+				"/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
 			CommandExitCode=$(python '/home/validateChecksum.py' < \
-				"/home/svn/xjdhdr-random-code/trunk/Adblock/hphosts-$HPHostsDownloadItem.txt")$?
+				"/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt")$?
 			if [ "$CommandExitCode" != 'Checksum is valid0' ]
 			then
 				errors+="Errors encountered during checksum validation of "
@@ -331,8 +331,8 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 
 	# Commit changes
 	#   SourceForge
-#	sshpass -f "$HOME/sourceforge_password.txt" rsync -qcruz -e ssh --exclude=.svn '/home/svn/xjdhdr-random-code/' \
-#		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
+	sshpass -f "$HOME/sourceforge_password.txt" rsync -qcruz -e ssh --exclude=.svn '/home/svn/xjdhdr-random-code/' \
+		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
 
 	#   GitHub
 	svn status '/home/svn/xjdhdr-random-code/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
@@ -341,9 +341,13 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	done
 	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache \
 		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
-} 2> '/tmp/stderr-contents.txt'
-errors+=$(cat '/tmp/stderr-contents.txt')
-rm -f '/tmp/stderr-contents.txt'
+} 2> '/tmp/stderr-contents-auto_update_svn.txt'
+
+if [ -f '/tmp/stderr-contents-auto_update_svn.txt' ]
+then
+	errors+=$(cat '/tmp/stderr-contents-auto_update_svn.txt')
+	rm -f '/tmp/stderr-contents-auto_update_svn.txt'
+fi
 
 
 if [ -n "$errors" ]

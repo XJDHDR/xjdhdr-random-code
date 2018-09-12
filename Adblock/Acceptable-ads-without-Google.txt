@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aMSTiak0B5ybLxY0Vwe0GA
-! Version: 201809090302
+! Checksum: bu79FOVJOCD8CQKYDzl/qg
+! Version: 201809111400
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 09 Sep 2018 03:02 UTC
+! Last modified: 11 Sep 2018 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1167,7 +1167,7 @@ nana10.co.il#@#.item-label-href[rel="nofollow"][target="_blank"]
 buzzissime.com#@#.quads-ad3_widget
 buzzissime.com#@##quads-ad3_widget
 lepoint.fr,lesviolets.com,tomshardware.fr,sde.co.ke,systemed.fr,cafedeclic.com,unmonde2fou.fr,brocabrac.fr,pourquoidocteur.fr#@#a[href^="https://plarium.com/"]
-weightlossgroove.com,healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.com,gameofglam.com,investmentguru.com,financeblvd.com,refinancegold.com,medicalmatters.com,directhealthy.com,financenancy.com,mortgageafterlife.com,misspennystocks.com,militarybud.com,psychicmonday.com,tummytuckhipo.com#@#div[id^="advads-"]
+weightlossgroove.com,healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.com,gameofglam.com,investmentguru.com,financeblvd.com,refinancegold.com,medicalmatters.com,directhealthy.com,financenancy.com,mortgageafterlife.com,misspennystocks.com,militarybud.com,psychicmonday.com,tummytuckhipo.com,medicaregranny.com#@#div[id^="advads-"]
 healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.com,gameofglam.com,investmentguru.com,financeblvd.com,refinancegold.com,medicalmatters.com,directhealthy.com,financenancy.com,mortgageafterlife.com#@#div[id^="advads_"]
 seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
@@ -3973,6 +3973,40 @@ tintaynguyen.com#@#[id*="MarketGid"]
 tintaynguyen.com#@#[id*="ScriptRoot"]
 tintaynguyen.com#@#div[id^="MarketGid"]
 tintaynguyen.com##[id$="ScriptRootC74277"]
+! G+J ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=59374)
+||brigitte.de/px.js?ch=2$domain=brigitte.de
+@@||brigitte.de/px.js?ch=1$domain=brigitte.de
+@@||brigitte.de/gujAd.js$script,domain=brigitte.de
+@@||criteo.com/cdb?ptv=$xmlhttprequest,domain=brigitte.de
+@@||criteo.com/delivery/ajs.php?*zoneid=1305467$xmlhttprequest,domain=brigitte.de
+@@||criteo.com/delivery/ajs.php?*zoneid=1305468$xmlhttprequest,domain=brigitte.de
+@@||criteo.com/delivery/ajs.php?*zoneid=1305469$xmlhttprequest,domain=brigitte.de
+@@||criteo.net/flash/icon/$image,domain=brigitte.de
+brigitte.de#@#.gujAd
+brigitte.de#@#.sb-ad
+@@||*/content_binder.js$script,domain=brigitte.de
+@@||*/integrator.js?$script,domain=brigitte.de
+@@||2mdn.net/$image,domain=brigitte.de
+@@||2mdn.net/instream/video/client.js$script,domain=brigitte.de
+@@||3lift.com/xuid?mid=$image,domain=brigitte.de
+@@||active-agent.com/reporting/?$image,domain=brigitte.de
+@@||adalliance.io/$image,domain=brigitte.de
+@@||adalliance.io/ck?$script,domain=brigitte.de
+@@||adition.com/$image,domain=brigitte.de
+@@||ads.converge-digital.com/match?$image,domain=brigitte.de
+@@||adsrvr.org/track/cmf/generic?$image,domain=brigitte.de
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=brigitte.de
+@@||omnitagjs.com/visitor/sync?$image,domain=brigitte.de
+@@||sharethrough.com/sync/$image,domain=brigitte.de
+@@||smartclip.net/$image,domain=brigitte.de
+@@||spotxchange.com/partner?$image,domain=brigitte.de
+@@||switchadhub.com/set?$image,domain=brigitte.de
+@@||tidaltv.com/GenericUserSync.ashx?$image,domain=brigitte.de
+@@||videoplaza.tv/proxy/sync?$image,domain=brigitte.de
+@@||yieldlab.net/yp/$script,domain=brigitte.de
+@@*$image,script,third-party,domain=brigitte.de
+@@||adalliance.io^$third-party,domain=brigitte.de
+@@||amazon-adsystem.com^$third-party,domain=brigitte.de
 ! Conversion tracking whitelisting (https://adblockplus.org/forum/viewtopic.php?f=12&t=13771)
 ! @@/pagead/conversion/*$image,subdocument
 ! @@/pagead/viewthroughconversion/*$image,subdocument

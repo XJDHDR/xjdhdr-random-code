@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201809090302
+! Checksum: 70lvPSBH2b1YP3Kz1IQIlQ
+! Version: 201809111400
 ! Title: HP Hosts pha list
-! Last modified: 09 Sep 2018 03:02 UTC
+! Last modified: 11 Sep 2018 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -916,6 +917,7 @@
 ||bestgenericweb.com^
 ||bestgroup.su^
 ||besthealingvalue.su^
+||besthealthsale.ru^
 ||bestherbmall.ru^
 ||bestherbscompany.su^
 ||bestherbservice.ru^
@@ -1983,7 +1985,9 @@
 ||csc.com.np^
 ||csmoney.net.ru^
 ||ctyncazeeh.tradeplacem.su^
+||curativerxmall.com^
 ||curingbestmart.ru^
+||curingcuringdeal.su^
 ||curinghotmart.su^
 ||curinghotprogram.ru^
 ||curingpillreward.ru^
@@ -2415,6 +2419,7 @@
 ||familyhotprogram.ru^
 ||familymedicalinc.ru^
 ||familymedseshop.ru^
+||familypillsmart.ru^
 ||familypillsstore.ru^
 ||familyrxpharmacy.com^
 ||familywelnessinc.ru^
@@ -2441,6 +2446,7 @@
 ||fastdelivery.su^
 ||fastdrugmarket.ru^
 ||fastdrugsbargain.su^
+||fastdrugscompany.ru^
 ||fastfirststore.ru^
 ||fastgenericsshop.ru^
 ||fastgenerictabs.com^
@@ -2505,11 +2511,13 @@
 ||first-meds.net^
 ||first-medsnorxx.com^
 ||firstbestwebmart.ru^
+||firstcarequality.ru^
 ||firstcuringsale.ru^
 ||firstdrugcompany.xyz^
 ||firstdrugmall.ru^
 ||firstdrugsmart.ru^
 ||firstfirstdeal.ru^
+||firsthealingmall.su^
 ||firsthealingshop.com^
 ||firsthealthinc.ru^
 ||firsthealthshop.ru^
@@ -2523,6 +2531,7 @@
 ||firstnetworkr365.ru^
 ||firstnewsupdate.com^
 ||firstpillstore.com^
+||firstremedystore.su^
 ||firstrxdeal.su^
 ||firstrxoutlet.ru^
 ||firstsafemall.ru^
@@ -2833,6 +2842,7 @@
 ||goodbestoutlet.su^
 ||goodchemist.net^
 ||goodcuringeshop.ru^
+||goodcuringgroup.com^
 ||gooddrugsprogram.ru^
 ||goodfastreward.ru^
 ||goodfirstshop.ru^
@@ -2843,6 +2853,7 @@
 ||goodluck.smartnaturalshop.su^
 ||goodonlineinc.ru^
 ||goodonlinesupply.ru^
+||goodpharmeshop.ru^
 ||goodpharmsupply.ru^
 ||goodpills.net^
 ||goodpillsforus.com^
@@ -2927,6 +2938,7 @@
 ||hcave.xn--80aglaiio2ee.xn--p1ai^
 ||healhtcare.ru^
 ||healingaidstore.be^
+||healingfirstinc.su^
 ||healinghotdeal.su^
 ||healmyfuture.com^
 ||healpharmacy.com^
@@ -2968,11 +2980,15 @@
 ||herbal-drugs.com^
 ||herbal-health-wellness.com^
 ||herbalaidbargain.ru^
+||herbalaidtrade.com^
 ||herbalbeststore.ru^
+||herbalhotassist.eu^
+||herbalpharmeshop.su^
 ||herbalpharmgroup.ru^
 ||herbalpillinc.su^
 ||herbalpillsshop.ru^
 ||herbalrxoutlet.ru^
+||herbalrxquality.ru^
 ||herbalsafeassist.su^
 ||herbalsafegroup.ru^
 ||herbaltabsoutlet.ru^
@@ -3024,6 +3040,7 @@
 ||hotcareeshop.ru^
 ||hotcuringelement.ru^
 ||hotcuringmart.ru^
+||hotdrugsmarket.ru^
 ||hotdrugsreward.ru^
 ||hotfamilyquality.ru^
 ||hotfastmarket.ru^
@@ -3630,6 +3647,7 @@
 ||luckysmartstore.com^
 ||luckystock.ru^
 ||luckytabletmart.ru^
+||luckytabssupply.ru^
 ||luckywebsale.ru^
 ||luinfesopu.trygroupc.su^
 ||lupustips.gdn^
@@ -3668,6 +3686,7 @@
 ||magicdrugservice.su^
 ||magicfirstvalue.ru^
 ||magicgenericmall.ru^
+||magichealthsale.su^
 ||magicherbstore.ru^
 ||magichotassist.ru^
 ||magicmedicaleshop.eu^
@@ -4090,6 +4109,7 @@
 ||mycanadianpharmacycorp.ru^
 ||mycanadianrx.com^
 ||mycareshop.ru^
+||mycarewebmart.com^
 ||mycheapdrugs24.com^
 ||mycoxwebmail.com^
 ||mycurativegroup.ru^
@@ -4172,6 +4192,7 @@
 ||mytradeclub.su^
 ||mytrustedmart.ru^
 ||mytrustedmeds.com^
+||mytrustedreward.ru^
 ||mytrustedservice.ru^
 ||mytrustedvalue.su^
 ||myviagrainaustralia.com^
@@ -4179,6 +4200,7 @@
 ||mywebdrugstore.com^
 ||mywebstock.ru^
 ||mywebstore.su^
+||mywelnessassist.ru^
 ||mywelnesseshop.ru^
 ||mywelnesswebmart.ru^
 ||naca2011.340music.net^
@@ -4203,6 +4225,7 @@
 ||naturalcaregroup.ru^
 ||naturalfastmart.ru^
 ||naturalherbsmall.ru^
+||naturalhotdeal.su^
 ||naturalsafegroup.ru^
 ||naturalsmartmart.ru^
 ||naturaltabletreward.xyz^
@@ -4254,6 +4277,7 @@
 ||newglobalreward.ru^
 ||newhealinggroup.ru^
 ||newhealthtrade.ru^
+||newherbcompany.su^
 ||newherbdeal.ru^
 ||newherbsassist.ru^
 ||newherbsquality.com^
@@ -4267,6 +4291,7 @@
 ||neworganicsupply.ru^
 ||newpharmtrade.ru^
 ||newpilldeal.su^
+||newpillquality.ru^
 ||newpillsservices.ru^
 ||newpriceshop.ru^
 ||newprivatemall.ru^
@@ -4288,6 +4313,7 @@
 ||newtopshop.ru^
 ||newtreatmentdeal.ru^
 ||newtreatmentshop.su^
+||newtrustedassist.ru^
 ||newwebtrade.ru^
 ||nexium.ws^
 ||nextmdonline.com^
@@ -4523,6 +4549,7 @@
 ||onlinegenpharmacy.com^
 ||onlineherbalmart.ru^
 ||onlineherbalpill.com^
+||onlineherbmart.su^
 ||onlineherbseshop.ru^
 ||onlinehotservice.ru^
 ||onlinemedox.com^
@@ -4638,6 +4665,7 @@
 ||orderviagrattt.com^
 ||orderyourlife.ru^
 ||organiccaregroup.su^
+||organiccareshop.com^
 ||organicdrugssale.ru^
 ||organicherbinc.su^
 ||organichotinc.ru^
@@ -4937,8 +4965,10 @@
 ||private.globalpillservices.ru^
 ||privateaiddeal.ru^
 ||privateaidsale.ru^
+||privatecaregroup.ru^
 ||privatecuringinc.ru^
 ||privatefastsale.ru^
+||privateherbmart.ru^
 ||privatehotstore.ru^
 ||privatehotvalue.ru^
 ||privatemedsgroup.ru^
@@ -5028,6 +5058,7 @@
 ||purepillsquality.su^
 ||puresafegroup.ru^
 ||puresmartwebmart.ru^
+||puretabssale.com^
 ||putribenang.com^
 ||pvbarr.xn--j1aafhy6bpm.xn--p1ai^
 ||pvrgeypwi.storeplusa.su^
@@ -5228,6 +5259,7 @@
 ||rxbestez365.ru^
 ||rxbestmart724.ru^
 ||rxbrandmeds.com^
+||rxcanadapharmacy.com^
 ||rxcanadian-pharmacy.com^
 ||rxcanadianmarket.com^
 ||rxcanadianpills.com^
@@ -5370,6 +5402,9 @@
 ||salepillscheap.ru^
 ||saleplus.su^
 ||sales-generic.com^
+||salesupporta.su^
+||salesupportb.su^
+||salesupportc.su^
 ||saletrade.su^
 ||saletradeinfo.ru^
 ||saletrust.su^
@@ -5857,10 +5892,12 @@
 ||thenaturalstore.ru^
 ||theodosiamarjie.ru^
 ||theonlinevalue.ru^
+||theorganicshop.su^
 ||thepharmacyexpress.net^
 ||thepharmacymart.ru^
 ||thepharmacytrade.ru^
 ||thepharmprogram.ru^
+||thepillbargain.com^
 ||thepilldeal.ru^
 ||thepillsupply.su^
 ||theprivateoutlet.ru^
@@ -7069,6 +7106,7 @@
 ||www.bestgenericweb.com^
 ||www.bestgroup.su^
 ||www.besthealingvalue.su^
+||www.besthealthsale.ru^
 ||www.bestherbmall.ru^
 ||www.bestherbscompany.su^
 ||www.bestherbservice.ru^
@@ -8185,7 +8223,9 @@
 ||www.cristengoldieki.ru^
 ||www.ctyncazeeh.tradeplacem.su^
 ||www.curativemedicareassist.ru^
+||www.curativerxmall.com^
 ||www.curingbestmart.ru^
+||www.curingcuringdeal.su^
 ||www.curinghotmart.su^
 ||www.curinghotprogram.ru^
 ||www.curingpillreward.ru^
@@ -8604,6 +8644,7 @@
 ||www.familyhotprogram.ru^
 ||www.familymedicalinc.ru^
 ||www.familymedseshop.ru^
+||www.familypillsmart.ru^
 ||www.familypillsstore.ru^
 ||www.familyrxpharmacy.com^
 ||www.familywelnessinc.ru^
@@ -8630,6 +8671,7 @@
 ||www.fastdelivery.su^
 ||www.fastdrugmarket.ru^
 ||www.fastdrugsbargain.su^
+||www.fastdrugscompany.ru^
 ||www.fastfirststore.ru^
 ||www.fastgenericsshop.ru^
 ||www.fastgenerictabs.com^
@@ -8693,9 +8735,11 @@
 ||www.first-meds.net^
 ||www.first-medsnorxx.com^
 ||www.firstbestwebmart.ru^
+||www.firstcarequality.ru^
 ||www.firstdrugmall.ru^
 ||www.firstdrugsmart.ru^
 ||www.firstfirstdeal.ru^
+||www.firsthealingmall.su^
 ||www.firsthealingshop.com^
 ||www.firsthealthinc.ru^
 ||www.firsthealthshop.ru^
@@ -8709,6 +8753,7 @@
 ||www.firstnetworkr365.ru^
 ||www.firstnewsupdate.com^
 ||www.firstpillstore.com^
+||www.firstremedystore.su^
 ||www.firstrxdeal.su^
 ||www.firstrxoutlet.ru^
 ||www.firstsafemall.ru^
@@ -8996,6 +9041,7 @@
 ||www.goodbestoutlet.su^
 ||www.goodchemist.net^
 ||www.goodcuringeshop.ru^
+||www.goodcuringgroup.com^
 ||www.gooddrugsprogram.ru^
 ||www.goodfastreward.ru^
 ||www.goodfirstshop.ru^
@@ -9006,6 +9052,7 @@
 ||www.goodluck.smartnaturalshop.su^
 ||www.goodonlineinc.ru^
 ||www.goodonlinesupply.ru^
+||www.goodpharmeshop.ru^
 ||www.goodpharmsupply.ru^
 ||www.goodpills.net^
 ||www.goodpillsforus.com^
@@ -9075,6 +9122,7 @@
 ||www.hcopaaotiu.clubactivitya.su^
 ||www.healhtcare.ru^
 ||www.healingaidstore.be^
+||www.healingfirstinc.su^
 ||www.healinghotdeal.su^
 ||www.healmyfuture.com^
 ||www.healpharmacy.com^
@@ -9115,11 +9163,15 @@
 ||www.herbal-drugs.com^
 ||www.herbal-health-wellness.com^
 ||www.herbalaidbargain.ru^
+||www.herbalaidtrade.com^
 ||www.herbalbeststore.ru^
+||www.herbalhotassist.eu^
+||www.herbalpharmeshop.su^
 ||www.herbalpharmgroup.ru^
 ||www.herbalpillinc.su^
 ||www.herbalpillsshop.ru^
 ||www.herbalrxoutlet.ru^
+||www.herbalrxquality.ru^
 ||www.herbalsafeassist.su^
 ||www.herbalsafegroup.ru^
 ||www.herbaltabsoutlet.ru^
@@ -9154,6 +9206,7 @@
 ||www.homehotwebmart.ru^
 ||www.homemedsgroup.ru^
 ||www.homemedsmart.ru^
+||www.homenaturalsale.com^
 ||www.homeorganicinc.ru^
 ||www.homepillreward.ru^
 ||www.homerxreward.ru^
@@ -9167,6 +9220,7 @@
 ||www.hotcareeshop.ru^
 ||www.hotcuringelement.ru^
 ||www.hotcuringmart.ru^
+||www.hotdrugsmarket.ru^
 ||www.hotdrugsreward.ru^
 ||www.hotfamilyquality.ru^
 ||www.hotfastmarket.ru^
@@ -9689,6 +9743,7 @@
 ||www.luckysmartstore.com^
 ||www.luckystock.ru^
 ||www.luckytabletmart.ru^
+||www.luckytabssupply.ru^
 ||www.luckywebsale.ru^
 ||www.luinfesopu.trygroupc.su^
 ||www.lurlenevelvet.su^
@@ -9736,6 +9791,7 @@
 ||www.magicfirstvalue.ru^
 ||www.magicgadget.com^
 ||www.magicgenericmall.ru^
+||www.magichealthsale.su^
 ||www.magicherbstore.ru^
 ||www.magichotassist.ru^
 ||www.magicmedicaleshop.eu^
@@ -10159,6 +10215,7 @@
 ||www.mycanadianpharmacycorp.ru^
 ||www.mycanadianrx.com^
 ||www.mycareshop.ru^
+||www.mycarewebmart.com^
 ||www.mycheapdrugs24.com^
 ||www.mycurativegroup.ru^
 ||www.mydiscounta.su^
@@ -10237,6 +10294,7 @@
 ||www.mytradeclub.su^
 ||www.mytrustedmart.ru^
 ||www.mytrustedmeds.com^
+||www.mytrustedreward.ru^
 ||www.mytrustedservice.ru^
 ||www.mytrustedvalue.su^
 ||www.myviagrainaustralia.com^
@@ -10244,6 +10302,7 @@
 ||www.mywebdrugstore.com^
 ||www.mywebstock.ru^
 ||www.mywebstore.su^
+||www.mywelnessassist.ru^
 ||www.mywelnesseshop.ru^
 ||www.mywelnesswebmart.ru^
 ||www.naca2011.340music.net^
@@ -10268,6 +10327,7 @@
 ||www.naturalcaregroup.ru^
 ||www.naturalfastmart.ru^
 ||www.naturalherbsmall.ru^
+||www.naturalhotdeal.su^
 ||www.naturalsafegroup.ru^
 ||www.naturalsmartmart.ru^
 ||www.navigator.net.ua^
@@ -10318,6 +10378,7 @@
 ||www.newglobalreward.ru^
 ||www.newhealinggroup.ru^
 ||www.newhealthtrade.ru^
+||www.newherbcompany.su^
 ||www.newherbdeal.ru^
 ||www.newherbsassist.ru^
 ||www.newherbsquality.com^
@@ -10330,6 +10391,7 @@
 ||www.neworganicsupply.ru^
 ||www.newpharmtrade.ru^
 ||www.newpilldeal.su^
+||www.newpillquality.ru^
 ||www.newpillsservices.ru^
 ||www.newpriceshop.ru^
 ||www.newprivatemall.ru^
@@ -10351,6 +10413,7 @@
 ||www.newtopshop.ru^
 ||www.newtreatmentdeal.ru^
 ||www.newtreatmentshop.su^
+||www.newtrustedassist.ru^
 ||www.newupdatee2018.com^
 ||www.newwebtrade.ru^
 ||www.nexium.ws^
@@ -10573,6 +10636,7 @@
 ||www.onlinegenpharmacy.com^
 ||www.onlineherbalmart.ru^
 ||www.onlineherbalpill.com^
+||www.onlineherbmart.su^
 ||www.onlineherbseshop.ru^
 ||www.onlinehotservice.ru^
 ||www.onlinemedox.com^
@@ -10676,6 +10740,7 @@
 ||www.orderviagravdv.com^
 ||www.orderyourlife.ru^
 ||www.organiccaregroup.su^
+||www.organiccareshop.com^
 ||www.organicdrugssale.ru^
 ||www.organicherbinc.su^
 ||www.organichotinc.ru^
@@ -10951,8 +11016,10 @@
 ||www.priscillarhianna.ru^
 ||www.privateaiddeal.ru^
 ||www.privateaidsale.ru^
+||www.privatecaregroup.ru^
 ||www.privatecuringinc.ru^
 ||www.privatefastsale.ru^
+||www.privateherbmart.ru^
 ||www.privatehotstore.ru^
 ||www.privatehotvalue.ru^
 ||www.privatemedsgroup.ru^
@@ -11029,6 +11096,7 @@
 ||www.purepillsquality.su^
 ||www.puresafegroup.ru^
 ||www.puresmartwebmart.ru^
+||www.puretabssale.com^
 ||www.pvbarr.xn--j1aafhy6bpm.xn--p1ai^
 ||www.pyaveqfhb.trygroupa.su^
 ||www.pyramidgroups.co.in^
@@ -11205,6 +11273,7 @@
 ||www.rxbestez365.ru^
 ||www.rxbestmart724.ru^
 ||www.rxbrandmeds.com^
+||www.rxcanadapharmacy.com^
 ||www.rxcanadian-pharmacy.com^
 ||www.rxcanadianmarket.com^
 ||www.rxcanadianpills.com^
@@ -11340,6 +11409,9 @@
 ||www.salepillscheap.ru^
 ||www.saleplus.su^
 ||www.sales-generic.com^
+||www.salesupporta.su^
+||www.salesupportb.su^
+||www.salesupportc.su^
 ||www.saletrade.su^
 ||www.saletradeinfo.ru^
 ||www.saletrust.su^
@@ -11772,10 +11844,12 @@
 ||www.thenaturalstore.ru^
 ||www.theodosiamarjie.ru^
 ||www.theonlinevalue.ru^
+||www.theorganicshop.su^
 ||www.thepharmacyexpress.net^
 ||www.thepharmacymart.ru^
 ||www.thepharmacytrade.ru^
 ||www.thepharmprogram.ru^
+||www.thepillbargain.com^
 ||www.thepilldeal.ru^
 ||www.thepillsupply.su^
 ||www.theprivateoutlet.ru^
@@ -13018,4 +13092,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 12997
+! Hosts: 13070
