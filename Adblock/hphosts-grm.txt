@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mG6mFJvyuWGWgk31Xvjhbw
-! Version: 201809111400
+! Checksum: +Cwxc40PNTicGFeGxw2GjA
+! Version: 201809131400
 ! Title: HP Hosts grm list
-! Last modified: 11 Sep 2018 14:00 UTC
+! Last modified: 13 Sep 2018 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -12,7 +12,7 @@
 ! all of the domains listed here by hpHosts. The definitions of those codes can be found here:
 ! http://hosts-file.net/?s=classifications
 !
-! Please report any issues by creating a ticket on GitHub
+! Please report any issues by creating a ticket on GitHub or SourceForge
 !
 !
 ! hpHosts - GRM only

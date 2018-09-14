@@ -48,7 +48,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 					printf '! My thanks go to those listed here under "Credits" for these filters:'
 					printf ' https://easylist.adblockplus.org/en/about\n'
 					printf '!\n'
-					printf '! Please report any issues by creating a ticket on GitHub\n'
+					printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
 					printf '!\n'
 					printf '!\n'
 					grep -iFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
@@ -110,7 +110,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! Expires: 1 days\n'
 			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 			printf '!\n'
-			printf '! Please report any issues by creating a ticket on GitHub\n'
+			printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
 			printf '!\n'
 			printf '!\n'
 			grep -viFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
@@ -159,7 +159,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! Expires: 1 days\n'
 			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 			printf '!\n'
-			printf '! Please report any issues by creating a ticket on GitHub\n'
+			printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
 			printf '!\n'
 			printf '!\n'
 			grep -viFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
@@ -219,7 +219,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 				printf '! all of the domains listed here by hpHosts. The definitions of those codes can be found here:\n'
 				printf '! http://hosts-file.net/?s=classifications\n'
 				printf '!\n'
-				printf '! Please report any issues by creating a ticket on GitHub\n'
+				printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
 				printf '!\n'
 				printf '!\n'
 				cat "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 70lvPSBH2b1YP3Kz1IQIlQ
-! Version: 201809111400
+! Checksum: wFZ9kqp6JhfAUTzdz6QtHQ
+! Version: 201809131400
 ! Title: HP Hosts pha list
-! Last modified: 11 Sep 2018 14:00 UTC
+! Last modified: 13 Sep 2018 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -12,7 +12,7 @@
 ! all of the domains listed here by hpHosts. The definitions of those codes can be found here:
 ! http://hosts-file.net/?s=classifications
 !
-! Please report any issues by creating a ticket on GitHub
+! Please report any issues by creating a ticket on GitHub or SourceForge
 !
 !
 ! hpHosts - PHA only
@@ -5181,6 +5181,7 @@
 ||ritini.ru^
 ||riupzazyne.trygroupb.su^
 ||rivaleeivonne.ru^
+||rivista.turismo-attualita.it^
 ||rkbproductions.com^
 ||rlafegoquvu.trygroupa.su^
 ||rmaf-rtaf.rtaf.mi.th^
@@ -13092,4 +13093,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13070
+! Hosts: 13071

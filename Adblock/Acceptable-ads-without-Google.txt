@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: bu79FOVJOCD8CQKYDzl/qg
-! Version: 201809111400
+! Checksum: Kh42/SDsHZ1Hn2IcFbv1OQ
+! Version: 201809131400
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 11 Sep 2018 14:00 UTC
+! Last modified: 13 Sep 2018 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
-! Please report any issues by creating a ticket on GitHub
+! Please report any issues by creating a ticket on GitHub or SourceForge
 !
 !
 !
@@ -3923,6 +3923,7 @@ mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investm
 wnd.com#@#.top-ad-container
 mako.co.il#@#.ad
 mako.co.il#@#.feed-ad
+articlesvally.com#@#.ad-side
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
 @@||lucianne.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
