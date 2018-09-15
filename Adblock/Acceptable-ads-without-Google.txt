@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Kh42/SDsHZ1Hn2IcFbv1OQ
-! Version: 201809131400
+! Checksum: PDtZY+QICGRGPN3Bs8FjgQ
+! Version: 201809150749
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 13 Sep 2018 14:00 UTC
+! Last modified: 15 Sep 2018 07:49 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1166,7 +1166,6 @@ nana10.co.il#@#.item-thumbnail-href[rel="nofollow"][target="_blank"]
 nana10.co.il#@#.item-label-href[rel="nofollow"][target="_blank"]
 buzzissime.com#@#.quads-ad3_widget
 buzzissime.com#@##quads-ad3_widget
-lepoint.fr,lesviolets.com,tomshardware.fr,sde.co.ke,systemed.fr,cafedeclic.com,unmonde2fou.fr,brocabrac.fr,pourquoidocteur.fr#@#a[href^="https://plarium.com/"]
 weightlossgroove.com,healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.com,gameofglam.com,investmentguru.com,financeblvd.com,refinancegold.com,medicalmatters.com,directhealthy.com,financenancy.com,mortgageafterlife.com,misspennystocks.com,militarybud.com,psychicmonday.com,tummytuckhipo.com,medicaregranny.com#@#div[id^="advads-"]
 healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.com,gameofglam.com,investmentguru.com,financeblvd.com,refinancegold.com,medicalmatters.com,directhealthy.com,financenancy.com,mortgageafterlife.com#@#div[id^="advads_"]
 seloger.com#@#div[id^="div-gpt-ad"]
@@ -2546,6 +2545,7 @@ usasupreme.com###revslider
 katrinapierson.com,patriotbeat.com,truthfeednews.com,themindfuel.com,guyhut.com#@#.quads-location
 truthfeednews.com#@##quads-ad2
 truthfeednews.com#@#.quads-ad2
+wnd.com#@#[style*="background-image:"]
 ! cuisinezpourvospapilles.fr ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=42852)
 ! jesus-without-language.net ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=42956)
 ! codemperium.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=42954)
@@ -3493,6 +3493,7 @@ bouwsteentjes.info#@#.td-adspot-title
 ! untouchableads Ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53737)
 @@||ad-delivery.net/px.gif?ch=1
 ||ad-delivery.net/px.gif?ch=2
+uscreditcardguide.com,usccgstaging.wpengine.com#@#ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
 kongregate.com,kongregatetrunk.com,rasmussen.mugo.ca,rasmussenreports.com#@#.ad728x90

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wFZ9kqp6JhfAUTzdz6QtHQ
-! Version: 201809131400
+! Checksum: Nv/h0QTiiEnJrOhPT5Le1g
+! Version: 201809150749
 ! Title: HP Hosts pha list
-! Last modified: 13 Sep 2018 14:00 UTC
+! Last modified: 15 Sep 2018 07:49 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1354,6 +1354,7 @@
 ||canadian-pharmacy-cheap.com^
 ||canadian-pharmacy-nc.net^
 ||canadian-pharmacy777.com^
+||canadian-pharmacya.com^
 ||canadian-pharmacycheap.net^
 ||canadian-pharmacye.com^
 ||canadian-pharman.com^
@@ -1646,6 +1647,7 @@
 ||chrysatamarra.ru^
 ||chuck.xn--f1afqzrjtrp.xn--p1ai^
 ||cial.gq^
+||cialekds.com^
 ||cialis-buytadalafil.org^
 ||cialis-canada-online.org^
 ||cialis-canadapharmacy.com^
@@ -1792,6 +1794,7 @@
 ||cialisoverthecounteratwalmart.com^
 ||cialisox.com^
 ||cialisp6i.soup.io^
+||cialispascherfr24.com^
 ||cialispcn.com^
 ||cialisphr.com^
 ||cialispills24h.com^
@@ -13093,4 +13096,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13071
+! Hosts: 13074
