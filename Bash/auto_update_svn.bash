@@ -1,6 +1,9 @@
 #!/bin/bash
 
 
+PATH=$PATH:$(grep 'PATH=' /etc/environment | sed 's/^.*=// ; s/\"//g')
+
+
 if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
 then
 	sDateTime=$(date -u +"%d %b %Y %H:%M")
@@ -339,7 +342,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	do
 		svn add "$sFile"
 	done
-	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache \
+	sshpass -v -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache \
 		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
 } 2> '/tmp/stderr-contents-auto_update_svn.txt'
 

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PDtZY+QICGRGPN3Bs8FjgQ
-! Version: 201809150749
+! Checksum: QVrDLDb6H2KHrkeZl6q6Hg
+! Version: 201809171841
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 15 Sep 2018 07:49 UTC
+! Last modified: 17 Sep 2018 18:41 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3693,7 +3693,7 @@ milanofinanza.it#@#div[id^="div-gpt-ad"]
 rtvdrenthe.nl,rtvnoord.nl,rtvoost.nl,nw.de,haller-kreisblatt.de,buonissimo.org,sport.be,out.be,omroepgelderland.nl,omroepzeeland.nl,zeit.de,mt.de,lz.de,nonstopnews.de#@##ligatus
 lesinrocks.com,20minutes.fr#@#[id^="ligatus-"]
 lachainemeteo.com#@##lig
-publico.es,lepopulaire.fr,lejdc.fr,leberry.fr,lechorepublicain.fr,lyonne.fr,viepratique.fr,viamichelin.fr,monacomatin.mc,varmatin.com,nicematin.com,vroom.be,suedtirolnews.it,tvgids24.nl,leerwiki.nl,tradingsat.com,hln.be,cinenews.be,skynet.be,programme-tv.com,mon-programme-tv.be,mijn-tv-gids.be,omroepbrabant.nl,viamichelin.de,vaterland.li#@#.ligatus
+publico.es,lepopulaire.fr,lejdc.fr,leberry.fr,lechorepublicain.fr,lyonne.fr,viepratique.fr,viamichelin.fr,monacomatin.mc,varmatin.com,nicematin.com,vroom.be,suedtirolnews.it,tvgids24.nl,leerwiki.nl,tradingsat.com,hln.be,cinenews.be,skynet.be,programme-tv.com,mon-programme-tv.be,mijn-tv-gids.be,omroepbrabant.nl,viamichelin.de,vaterland.li,rtl.be#@#.ligatus
 valeursactuelles.com#@#.nos-partenaires
 ilfoglio.it,liberoquotidiano.it,iltempo.it#@#.bannervcms
 slateafrique.com#@##bottom_ad
@@ -3961,20 +3961,20 @@ adtechdaily.com#@#.img_ad
 goldenline.pl#@#.img_ad
 goldenline.pl#@#div[id^="div-gpt-ad"]
 ! Ads by MGID (https://adblockplus.org/forum/viewtopic.php?f=12&t=58560)
-@@||a.mgid.com/mgsensor.js?d=$script,third-party
-@@||a.mgid.com^$image,third-party
-||mgid.com/px.gif?ch=2&rn=$domain=tintaynguyen.com
-@@||mgid.com/px.gif?ch=1&rn=$domain=tintaynguyen.com
-@@||cdn.mgid.com/images/by_mgid_adc_logo_mini.svg$image,domain=tintaynguyen.com
-@@||imgg-cdn.marketgid.com/$image,domain=tintaynguyen.com
-@@||imgg-cdn.mgid.com/$image,domain=tintaynguyen.com
-@@||mgid.com/*/tintaynguyen.com*.js?t=$script,domain=tintaynguyen.com
-@@||mgid.com/ghits/$popup,domain=tintaynguyen.com
-@@||servicer.mgid.com/*?w=$script,domain=tintaynguyen.com
-tintaynguyen.com#@#[id*="MarketGid"]
-tintaynguyen.com#@#[id*="ScriptRoot"]
-tintaynguyen.com#@#div[id^="MarketGid"]
-tintaynguyen.com##[id$="ScriptRootC74277"]
+! @@||a.mgid.com/mgsensor.js?d=$script,third-party
+! @@||a.mgid.com^$image,third-party
+! ||mgid.com/px.gif?ch=2&rn=$domain=tintaynguyen.com
+! @@||mgid.com/px.gif?ch=1&rn=$domain=tintaynguyen.com
+! @@||cdn.mgid.com/images/by_mgid_adc_logo_mini.svg$image,domain=tintaynguyen.com
+! @@||imgg-cdn.marketgid.com/$image,domain=tintaynguyen.com
+! @@||imgg-cdn.mgid.com/$image,domain=tintaynguyen.com
+! @@||mgid.com/*/tintaynguyen.com*.js?t=$script,domain=tintaynguyen.com
+! @@||mgid.com/ghits/$popup,domain=tintaynguyen.com
+! @@||servicer.mgid.com/*?w=$script,domain=tintaynguyen.com
+! tintaynguyen.com#@#[id*="MarketGid"]
+! tintaynguyen.com#@#[id*="ScriptRoot"]
+! tintaynguyen.com#@#div[id^="MarketGid"]
+! tintaynguyen.com##[id$="ScriptRootC74277"]
 ! G+J ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=59374)
 ||brigitte.de/px.js?ch=2$domain=brigitte.de
 @@||brigitte.de/px.js?ch=1$domain=brigitte.de

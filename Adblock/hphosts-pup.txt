@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +r+/Jip45ukv5ap1xrZlHA
-! Version: 201809150749
+! Checksum: dAO2xwOo0AnEZg57JEJw2w
+! Version: 201809171841
 ! Title: HP Hosts pup list
-! Last modified: 15 Sep 2018 07:49 UTC
+! Last modified: 17 Sep 2018 18:41 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7463,6 +7463,7 @@
 ||packagetracker.co^
 ||packagetracking.net^
 ||paddlersbeqyt.download^
+||pagecupdev.cool^
 ||pagemarkerext.xyz^
 ||painingmqcpaonav.website^
 ||paintnet.es^
@@ -10044,6 +10045,7 @@
 ||theconstantupgrading.review^
 ||theconstantupgrading.trade^
 ||theconstantupgrading.win^
+||thecontenthub.fun^
 ||thecoolestmoviesearch.com^
 ||thedebug2upgrades.bid^
 ||thedebug2upgrades.download^
@@ -18962,6 +18964,7 @@
 ||www.packagetracker.co^
 ||www.packagetracking.net^
 ||www.paddlersbeqyt.download^
+||www.pagecupdev.cool^
 ||www.pageloveflash.date^
 ||www.pagemarkerext.xyz^
 ||www.painingmqcpaonav.website^
@@ -21773,6 +21776,7 @@
 ||www.theconstantupgrading.review^
 ||www.theconstantupgrading.trade^
 ||www.theconstantupgrading.win^
+||www.thecontenthub.fun^
 ||www.thecoolestmoviesearch.com^
 ||www.thedebug2upgrades.bid^
 ||www.thedebug2upgrades.download^
@@ -25132,4 +25136,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 25111
+! Hosts: 25115
