@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+PS4='$LINENO: '
 PATH=$PATH:$(grep 'PATH=' /etc/environment | sed 's/^.*=// ; s/\"//g')
 
 
@@ -342,7 +343,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	do
 		svn add "$sFile"
 	done
-	sshpass -v -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache \
+	sshpass -v -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache --force-interactive \
 		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
 } 2> '/tmp/stderr-contents-auto_update_svn.txt'
 
