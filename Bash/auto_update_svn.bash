@@ -2,7 +2,7 @@
 
 
 PS4='$LINENO: '
-PATH=$PATH:$(grep 'PATH=' /etc/environment | sed 's/^.*=// ; s/\"//g')
+PATH=$PATH:$(sed -n '/PATH=/s/^.*=// ; s/\"//gp' '/etc/environment')
 
 
 if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
@@ -226,7 +226,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 				printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
 				printf '!\n'
 				printf '!\n'
-				cat "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
+				$(<"$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt")
 			} > "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
 			# Delete duplicate lines except comments
 			awk '/^!/ || !a[$0]++' "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt" \
@@ -343,13 +343,13 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	do
 		svn add "$sFile"
 	done
-	sshpass -v -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache --force-interactive \
+	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache --force-interactive \
 		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
 } 2> '/tmp/stderr-contents-auto_update_svn.txt'
 
 if [ -f '/tmp/stderr-contents-auto_update_svn.txt' ]
 then
-	errors+=$(cat '/tmp/stderr-contents-auto_update_svn.txt')
+	errors+=$(<'/tmp/stderr-contents-auto_update_svn.txt')
 	rm -f '/tmp/stderr-contents-auto_update_svn.txt'
 fi
 
