@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1/zIJl6qGEYAj3jhlZDBkQ
-! Version: 201809181415
+! Checksum: j057FOPXtDF+ICBW+K1CsQ
+! Version: 201809191415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Sep 2018 14:15 UTC
+! Last modified: 19 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -134,18 +134,6 @@ ehow.com#@#.zergnet-widget
 suche.chip.de#@##sponsored_link_bottom
 suche.chip.de#@##sponsored_link
 ! Sponsored links (image + text) and static banners on Reddit.com (https://adblockplus.org/forum/viewtopic.php?f=12&t=11954)
-reddit.com#@##siteTable_organic
-reddit.com#@##ad-frame
-reddit.com#@#.sponsorshipbox
-reddit.com#@#.promotedlink
-reddit.com#@#a[href^="http://bs.serving-sys.com/"]
-reddit.com#@##ad_main
-reddit.com#@##ad_main_top
-@@||redditmedia.com/ads/display/$subdocument,domain=reddit.com
-@@||engine.a.redditmedia.com/ados?$script,domain=redditmedia.com
-@@||zkcdn.net/Advertisers/$image,domain=redditmedia.com
-@@||adzerk.net/Advertisers/$image,domain=redditmedia.com
-@@||zkcdn.net^$stylesheet,domain=redditmedia.com,script
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -1556,6 +1544,7 @@ equideow.com#@#.ad-160x600
 equideow.com#@#.banner-728x90
 equideow.com#@#.ad-728x90
 equideow.com#@#.banner-300x250
+@@||ariva.de/werb/adcount.m?$image,domain=ariva.de
 ariva.de#@#div[id^="div-gpt-ad"]
 ariva.de#@##adunit
 ariva.de##.right-placement.posFixed	
@@ -3460,6 +3449,7 @@ bouwsteentjes.info#@#.td-adspot-title
 ! hancinema.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53111)
 ! olx.pl ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53375)
 @@||olx.pl^*/prebid.js$domain=olx.pl
+@@||tracking.olx-st.com^$image,domain=olx.pl
 ! Brightcast Ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53412)
 @@||search.sportstrackerx.com^$elemhide
 @@||search2.sportstrackerx.com^$elemhide
@@ -3516,7 +3506,7 @@ britannica.com#@#.header-ad
 britannica.com#@#.sticky-ad
 britannica.com#@#.ad-with-header-wrapper
 destructoid.com#@#center > div > iframe
-destructoid.com,hockey.realgm.com#@#div[id^="div-gpt-ad"]
+destructoid.com,realgm.com#@#div[id^="div-gpt-ad"]
 wikia.com#@#.home-top-right-ads
 xlr8r.com,peanutallergy.com#@#.m-header-ad
 xlr8r.com,peanutallergy.com#@#.m-header-ad--slot
@@ -3526,7 +3516,7 @@ cnsnews.com#@#.region-top-ad
 cnsnews.com#@#.ad
 hearthpwn.com#@#.ad-atf-medRect
 phonearena.com#@#.spot_disclaimer
-hockey.realgm.com#@#.leaderboard-ad-container
+realgm.com#@#.leaderboard-ad-container
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -5471,6 +5461,9 @@ linkedin.com#@#.ad-hdr
 linkedin.com#@#.ad-banner
 linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
+linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-text-view span:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
+linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com###inbox-ads-module
 linkedin.com###pymk_cards_container > #ad-unit
 linkedin.com###right-rail > #right-ad-container > #ad-contacts-pymk-fs-2

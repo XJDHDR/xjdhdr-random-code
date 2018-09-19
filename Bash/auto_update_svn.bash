@@ -226,7 +226,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 				printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
 				printf '!\n'
 				printf '!\n'
-				$(<"$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt")
+				cat "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
 			} > "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
 			# Delete duplicate lines except comments
 			awk '/^!/ || !a[$0]++' "/home/svn/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt" \
@@ -349,7 +349,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 
 if [ -f '/tmp/stderr-contents-auto_update_svn.txt' ]
 then
-	errors+=$(<'/tmp/stderr-contents-auto_update_svn.txt')
+	errors+=$(cat '/tmp/stderr-contents-auto_update_svn.txt')
 	rm -f '/tmp/stderr-contents-auto_update_svn.txt'
 fi
 
