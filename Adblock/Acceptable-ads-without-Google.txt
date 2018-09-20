@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j057FOPXtDF+ICBW+K1CsQ
-! Version: 201809191415
+! Checksum: F8xjKJLqzHBgfAIkBLWBaw
+! Version: 201809201415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 19 Sep 2018 14:15 UTC
+! Last modified: 20 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3084,6 +3084,7 @@ tranzgendr.com#@##amzn_assoc_ad_div_adunit0_0
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?*&mc=imp&$image,domain=myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||criteo.com/delivery/rta/rta.js$domain=myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||track.adform.net/adfserve/?bn=$image,domain=myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||imrworldwide.com/cgi-bin/m?*&ce=agora&$image,domain=myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
 myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl#@#.adviewDFPBanner
 myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl#@#[href*=".hit.gemius.pl"]
 myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl#@#A[href*="k.tradedoubler.com/click"]
@@ -3951,8 +3952,21 @@ adtechdaily.com#@#.img_ad
 goldenline.pl#@#.img_ad
 goldenline.pl#@#div[id^="div-gpt-ad"]
 ! Ads by MGID (https://adblockplus.org/forum/viewtopic.php?f=12&t=58560)
-! @@||a.mgid.com/mgsensor.js?d=$script,third-party
-! @@||a.mgid.com^$image,third-party
+@@||a.mgid.com/mgsensor.js?d=$script,third-party
+@@||a.mgid.com^$image,third-party
+@@||mgid.com^*/vigilantcitizen.com.$script,domain=vigilantcitizen.com
+@@||servicer.mgid.com^*?w=$script,domain=vigilantcitizen.com
+||mgid.com/px.gif?ch=2&rn=$domain=vigilantcitizen.com
+@@||mgid.com/px.gif?ch=1&rn=$domain=vigilantcitizen.com
+@@||cdn.mgid.com^$domain=vigilantcitizen.com
+@@||cm.mgid.com^$domain=vigilantcitizen.com
+@@||imggprx.mgid.com^$image,domain=vigilantcitizen.com
+@@|https://$popup,domain=vigilantcitizen.com
+@@|http://$popup,domain=vigilantcitizen.com
+vigilantcitizen.com#@#[id*="ScriptRoot"]
+vigilantcitizen.com#@#div[id^="MarketGid"]
+vigilantcitizen.com#@#[id*="MarketGid"]
+vigilantcitizen.com#@#div[id^="M"][id*="Composite"]
 ! ||mgid.com/px.gif?ch=2&rn=$domain=tintaynguyen.com
 ! @@||mgid.com/px.gif?ch=1&rn=$domain=tintaynguyen.com
 ! @@||cdn.mgid.com/images/by_mgid_adc_logo_mini.svg$image,domain=tintaynguyen.com
