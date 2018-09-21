@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F8xjKJLqzHBgfAIkBLWBaw
-! Version: 201809201415
+! Checksum: JsRGV70mfDAxeqAAqfRbmA
+! Version: 201809211415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 20 Sep 2018 14:15 UTC
+! Last modified: 21 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1160,6 +1160,14 @@ seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
 expressandstar.com#@#.advert
+boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
+chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
+cnet.com#@#[data-component="taboola"]
+floridatravellife.com#@#[data-feed-main-container-id="taboola-placement-2"]
+floridatravellife.com#@#[data-parent-placement-name="Below Article Thumbnails"]
+gamespot.com#@#[data-placement-name="front_door Below Main Column Thumbnails"]
+gamespot.com#@#[data-placement-name="front_door Right Rail Thumbnails"]
+spox.com#@#[data-feed-main-container-id="taboola-below-article-thumbnails"]
 ! pexels.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=25874)
 @@||carbonads.com^$script,domain=pexels.com
 @@||carbonads.net^$domain=pexels.com
@@ -2419,6 +2427,7 @@ developpez.net#@#.ad_global_header
 @@||servedby-buysellads.com/p/manage/asset/id/$image
 @@||fallbacks.carbonads.com^
 @@||jsfiddle.net/ads/*&callback=_carbonads_go$script,domain=jsfiddle.net
+@@||m.servedby-buysellads.com/monetization.js
 alistapart.com#@#a[href^="//srv.buysellads.com/"]
 dribbble.com#@#.ad
 iconfinder.com#@#.carbon_ads
@@ -2920,6 +2929,7 @@ avito.ru#@#.avito-ads-container
 @@||ads.adfox.ru^*/event?$domain=avito.ru
 @@||awaps.yandex.ru/0/9947/001001.htm$subdocument,domain=avito.ru,document
 @@||yastatic.net/pcode/adfox/loader.js$domain=avito.ru
+@@||yastatic.net/safeframe-bundles/$domain=avito.ru
 ! kodi-xbmc.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=45171)
 ! walkhighlands.co.uk ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=45172)
 ! Ads on Leaf Group content channels (https://adblockplus.org/forum/viewtopic.php?f=12&t=45314)
@@ -4228,6 +4238,7 @@ ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##ad-header
 247wallst.com#@#.iframe-ad
 247wallst.com#@#.box-ad
+speedtest.net#@#div[id^="div-gpt-ad"]
 !A2
 !A5
 @@||beso.com^$elemhide
@@ -5476,6 +5487,7 @@ linkedin.com#@#.ad-banner
 linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-text-view span:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com###inbox-ads-module
