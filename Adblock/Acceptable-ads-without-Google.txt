@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JsRGV70mfDAxeqAAqfRbmA
-! Version: 201809211415
+! Checksum: z8eaKKf65WWtKrp9BPMU/w
+! Version: 201809221415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 21 Sep 2018 14:15 UTC
+! Last modified: 22 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -621,6 +621,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||karma.mdpcdn.com/service/js-min/karma.header.js$domain=fitnessmagazine.com
 @@||karma.mdpcdn.com/service/js-min/karma.footer.js$domain=fitnessmagazine.com
 cnn.com#@#a[href^="http://www.nextadvisor.com/"]
+cnn.com#@#a[href^="https://www.nextadvisor.com/"]
 bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 foxnews.com,stuff.co.nz#@##outbrain_widget_1
 allocine.fr#@#.jtp
@@ -3528,6 +3529,7 @@ cnsnews.com#@#.ad
 hearthpwn.com#@#.ad-atf-medRect
 phonearena.com#@#.spot_disclaimer
 realgm.com#@#.leaderboard-ad-container
+gamepedia.com#@##siderail
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -5258,6 +5260,42 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||obamacare-guide.org/get-quotes/$elemhide
 @@||socialwisdomtoday.com/results.php?$elemhide
 @@||duckhk.com/hotsearch.php?$elemhide
+@@||discounthubb.com/browse?$elemhide
+@@||shopstores.net/sch?$elemhide
+@@||highstreetdeals.net/sch?$elemhide
+@@||rocketfacts.com/?s=$elemhide
+@@||automaatic.com/?s=$elemhide
+@@||sparkfacts.com/?s=$elemhide
+@@||jobcase.com/jobs/search?$elemhide
+@@||experttopics.com/search?$elemhide
+@@||themoneydaily.com/?$elemhide
+@@||hc.o2o.tw/search?$elemhide
+@@||aboutzenlife.com/?s=$elemhide
+@@||eveningclassifieds.com/jobs/?$elemhide
+@@||everyjobforme.com^$elemhide
+@@||jobhat.com^$elemhide
+@@||kikinote.net/s/$elemhide
+@@||getcouponhere.com/search?$elemhide
+@@||getcouponhere.co.uk/search?$elemhide
+@@||moobe.com.tw/search.php$elemhide
+@@||moobe.tw/search.php$elemhide
+@@||searchello.com/search?$elemhide
+@@||myfortune.cc/search/$elemhide
+@@||xuite.net/search_index.php$elemhide
+@@||yes-news.com/search.php$elemhide
+@@||littlepet.cc/search/$elemhide
+@@||dongtw.com/?s=$elemhide
+@@||search.yam.com/Search/$elemhide
+@@||ettoday.net^*/doSearch.php$elemhide
+@@||gamefan.cc/search/$elemhide
+@@||healthtip.cc/search/$elemhide
+@@||lifehow.cc/search/$elemhide
+@@||japhub.com/?search=$elemhide
+@@||ramihaha.tw/?s=$elemhide
+@@||pixpo.net^*^searchword=$elemhide
+@@||facty.com/?s=$elemhide
+@@||3pmhk.online/?s=$elemhide
+@@||fafaup.com/search/$elemhide
 @@||xdirectx.com/js/creative/$script,domain=formen.com
 @@||api.xdirectx.com^$document,image,subdocument,domain=formen.com
 answers.yahoo.com#@##ya-center-rail > [id^="ya-q-"][id$="-textads"]
