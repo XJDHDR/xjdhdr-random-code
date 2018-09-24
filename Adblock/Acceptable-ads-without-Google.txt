@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hY6W5ZvOwsyjN9ipS7PIOg
-! Version: 201809231415
+! Checksum: YXMzEL6sGxxE+qFahitnyQ
+! Version: 201809241415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 23 Sep 2018 14:15 UTC
+! Last modified: 24 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3530,6 +3530,8 @@ hearthpwn.com#@#.ad-atf-medRect
 phonearena.com#@#.spot_disclaimer
 realgm.com#@#.leaderboard-ad-container
 gamepedia.com#@##siderail
+iwn.io#@#.ad-one
+iwn.io#@#.footer-advert
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -4241,6 +4243,10 @@ ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@#.iframe-ad
 247wallst.com#@#.box-ad
 speedtest.net#@#div[id^="div-gpt-ad"]
+speedtest.net#@#.ads-left
+speedtest.net#@#.ads-right
+speedtest.net#@#.ad-left
+speedtest.net#@#.ads-column
 !A2
 !A5
 @@||beso.com^$elemhide
@@ -5296,6 +5302,59 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||facty.com/?s=$elemhide
 @@||3pmhk.online/?s=$elemhide
 @@||fafaup.com/search/$elemhide
+@@||toolslover.club/?s=$elemhide
+@@||read01.com/search/?q=$elemhide
+@@||feedtrip.club/?s=$elemhide
+@@||ikachalife.com/?s=$elemhide
+@@||happies.club/?s=$elemhide
+@@||circle01.life/?s=$elemhide
+@@||wongyau.com/?s=$elemhide
+@@||how01.com/search/?q=$elemhide
+@@||moonpoet.com/?s=$elemhide
+@@||easylife.tw/search/$elemhide
+@@||kiwsy.cc/?s=$elemhide
+@@||vdo01.club/?s=$elemhide
+@@||iso2.cc/?s=$elemhide
+@@||lifeonea.co/?s=$elemhide
+@@||kknews.cc/search/?q=$elemhide
+@@||hkgolden.com/Default_test.aspx$elemhide
+@@||tagmum.com/search?$elemhide
+@@||joeitravel.tw/search?$elemhide
+@@||hotnews.host/?s=$elemhide
+@@||fupo.tw/?s=$elemhide
+@@||go2tutor.com/search.php$elemhide
+@@||nowsfeed.club/?s=$elemhide
+@@||tagpopular.com/search?$elemhide
+@@||tagsis.com/search?$elemhide
+@@||babyonea.co/?s=$elemhide
+@@||3boys2girls.com/search.php$elemhide
+@@||lifelove01.com/?s=$elemhide
+@@||buzzjoker.com/search/$elemhide
+@@||shikoto.com/search.html?$elemhide
+@@||isheart.co/?s=$elemhide
+@@||jojo01.me/?s=$elemhide
+@@||meirihaowen.co/?s=$elemhide
+@@||nickhow.tw/blog/search/$elemhide
+@@||healinggraphics.net/?s=$elemhide
+@@||sofree.cc^$elemhide
+@@||eilly.co/?s=$elemhide
+@@||joyce8.com/?s=$elemhide
+@@||clickme.net/s/$elemhide
+@@||sofun.tw^$elemhide
+@@||interview.tw^$elemhide
+@@||pentaxfans.net/search.php$elemhide
+@@||ieatcandy.tw/?s=$elemhide
+@@||ineeddeco.club/?s=$elemhide
+@@||sina.com.hk/p/search/$elemhide
+@@||mikatogo.com/?s=$elemhide
+@@||sakehero.com/?s=$elemhide
+@@||okmall.tw/search.php$elemhide
+@@||lillian.tw/?s=$elemhide
+@@||mrtang.tw^$elemhide
+@@||taiwan17go.com/?s=$elemhide
+@@||hiromishi.com/?s=$elemhide
+@@||larid.hk/?s=$elemhide
+@@||applealmond.com/?s=$elemhide
 @@||xdirectx.com/js/creative/$script,domain=formen.com
 @@||api.xdirectx.com^$document,image,subdocument,domain=formen.com
 answers.yahoo.com#@##ya-center-rail > [id^="ya-q-"][id$="-textads"]
