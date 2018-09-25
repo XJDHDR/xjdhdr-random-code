@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YXMzEL6sGxxE+qFahitnyQ
-! Version: 201809241415
+! Checksum: Us4WfRvltDw57936rXkwGQ
+! Version: 201809251415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 24 Sep 2018 14:15 UTC
+! Last modified: 25 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1164,11 +1164,13 @@ expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 cnet.com#@#[data-component="taboola"]
-floridatravellife.com#@#[data-feed-main-container-id="taboola-placement-2"]
+floridatravellife.com,workingmother.com#@#[data-feed-main-container-id="taboola-placement-2"]
 floridatravellife.com#@#[data-parent-placement-name="Below Article Thumbnails"]
 gamespot.com#@#[data-placement-name="front_door Below Main Column Thumbnails"]
 gamespot.com#@#[data-placement-name="front_door Right Rail Thumbnails"]
 spox.com#@#[data-feed-main-container-id="taboola-below-article-thumbnails"]
+metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Below Main Column Thumbnails"]
+metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Right Rail Thumbnails"]
 ! pexels.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=25874)
 @@||carbonads.com^$script,domain=pexels.com
 @@||carbonads.net^$domain=pexels.com
@@ -1554,9 +1556,9 @@ equideow.com#@#.banner-728x90
 equideow.com#@#.ad-728x90
 equideow.com#@#.banner-300x250
 @@||ariva.de/werb/adcount.m?$image,domain=ariva.de
+@@||ariva.de/ariva_analytics/$image,domain=ariva.de
 ariva.de#@#div[id^="div-gpt-ad"]
 ariva.de#@##adunit
-ariva.de##.right-placement.posFixed	
 ! ebaumsworld.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=39655)
 ! @@||a.postrelease.com/serve/load.js$domain=ebaumsworld.com
 ! @@||jadserve.postrelease.com/t?ntv_url=$script,domain=ebaumsworld.com
@@ -5584,7 +5586,7 @@ linkedin.com#@#.ad-banner
 linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-text-view span:-abp-contains(/Sponsored|Promoted/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com###inbox-ads-module

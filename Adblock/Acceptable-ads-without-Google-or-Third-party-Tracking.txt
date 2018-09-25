@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 13+RPFK5k9qu1sFi3Jpq7Q
-! Version: 201809241415
+! Checksum: o2yg/39u+V37834/mi2AAw
+! Version: 201809251415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters or third-party tracking
-! Last modified: 24 Sep 2018 14:15 UTC
+! Last modified: 25 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -147,7 +147,7 @@ linkedin.com#@#.ad-banner
 linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-text-view span:-abp-contains(/Sponsored|Promoted/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com###inbox-ads-module
