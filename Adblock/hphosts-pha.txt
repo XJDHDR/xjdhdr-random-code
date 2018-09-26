@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U1fkWtRjGIzjDaAFzjvoMQ
-! Version: 201809251415
+! Checksum: /mqLtSsmPZuGOaohZPozSg
+! Version: 201809261415
 ! Title: HP Hosts pha list
-! Last modified: 25 Sep 2018 14:15 UTC
+! Last modified: 26 Sep 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1396,6 +1396,7 @@
 ||canadian-pharmacye.com^
 ||canadian-pharman.com^
 ||canadian-pharmasy.com^
+||canadian-pharmshop-247.com^
 ||canadian-pharmshop-24x7.com^
 ||canadian-rx-drugstore.com^
 ||canadian-trustpharmacy.com^
@@ -2883,6 +2884,7 @@
 ||globalaaapharm.ru^
 ||globalcarerx.com^
 ||globaldrugsale.ru^
+||globalexim.uz^
 ||globalfastmart.ru^
 ||globalherbsgroup.ru^
 ||globalherbsvalue.ru^
@@ -4491,6 +4493,7 @@
 ||newhotsale.ru^
 ||newhottrade.ru^
 ||newinfokey.ru^
+||newlucks.su^
 ||newmarket.su^
 ||newmedicalmarts.xyz^
 ||newmedicmart.com^
@@ -4839,6 +4842,7 @@
 ||orange.us.org^
 ||order-pills-today.com^
 ||order-pills.ru^
+||order-tablets.com^
 ||orderastelin.info^
 ||orderbloga.su^
 ||orderblogb.su^
@@ -5000,6 +5004,7 @@
 ||pharmacistsupport.net^
 ||pharmacy--shop.com^
 ||pharmacy-365-pills.com^
+||pharmacy-discounter.com^
 ||pharmacy-generic-top-pills.com^
 ||pharmacy-health.net^
 ||pharmacy-mall.store^
@@ -5118,6 +5123,7 @@
 ||pollybrita.com^
 ||pomed.net^
 ||poppers-market.ru^
+||popular-pills-online.com^
 ||popular.best-pills.net^
 ||poseidonasia.com^
 ||potency-my.com^
@@ -5563,6 +5569,7 @@
 ||rxpricecut.com^
 ||rxquality.net^
 ||rxquicknetwork724.ru^
+||rxrvu.com^
 ||rxsave365.ru^
 ||rxshop.md^
 ||rxshop.su^
@@ -6331,19 +6338,24 @@
 ||trennapearla.su^
 ||tressamarge.ru^
 ||trianglefitnesscenter.com^
+||true-rx-tabs.com^
 ||true-tablets.com^
 ||trueecosale.ru^
 ||truehealth.su^
 ||truerxcenter365.ru^
+||truerxtab.com^
 ||trust-medstore24.com^
 ||trust-pharmacy.co^
 ||trust-pharmacyonline.com^
 ||trust123rxbest.ru^
 ||trustassist.ru^
+||trustcanadiandrugstore.com^
 ||trustdelivery.ru^
 ||trustdiscount.su^
 ||trusted-online-generic.com^
 ||trusted-online-pharmacy.org^
+||trusted-rx-pharmacy.net^
+||trusted-rx-pharmacy.org^
 ||trusted-tablets-online-911.com^
 ||trusted-tablets.club^
 ||trusted-tablets.org^
@@ -6412,6 +6424,7 @@
 ||trustwinother.su^
 ||trustworthybillingpage.com^
 ||trustymedshop.net^
+||trustypharm.com^
 ||trustytabstore.com^
 ||trybestevent.ru^
 ||trybestshop.ru^
@@ -6497,6 +6510,7 @@
 ||us-online-pharmacy.com^
 ||us.cheapmyrx.com^
 ||us2us-rx.com^
+||usa-fast-generics.com^
 ||usamedichq.com^
 ||usamultiservice.website^
 ||usaonlineprescription.com^
@@ -6893,6 +6907,7 @@
 ||world-rx.com^
 ||world-rx.net^
 ||worlddelivery.su^
+||worldhealthcare24.com^
 ||worldhealthyshop.com^
 ||worldonmylife.com^
 ||worldsafestbilling.com^
@@ -7925,6 +7940,7 @@
 ||www.canadian-pharmacycheap.net^
 ||www.canadian-pharman.com^
 ||www.canadian-pharmasy.com^
+||www.canadian-pharmshop-247.com^
 ||www.canadian-pharmshop-24x7.com^
 ||www.canadian-rx-drugstore.com^
 ||www.canadian-sale.com^
@@ -9411,6 +9427,7 @@
 ||www.globalaaapharm.ru^
 ||www.globalcarerx.com^
 ||www.globaldrugsale.ru^
+||www.globalexim.uz^
 ||www.globalfastmart.ru^
 ||www.globalherbsgroup.ru^
 ||www.globalherbsvalue.ru^
@@ -11242,6 +11259,7 @@
 ||www.optimumgenerics.com^
 ||www.orallaodelia.su^
 ||www.order-pills.ru^
+||www.order-tablets.com^
 ||www.orderastelin.info^
 ||www.orderbloga.su^
 ||www.orderblogb.su^
@@ -11388,6 +11406,7 @@
 ||www.pharmacierx.com^
 ||www.pharmacy--shop.com^
 ||www.pharmacy-365-pills.com^
+||www.pharmacy-discounter.com^
 ||www.pharmacy-generic-top-pills.com^
 ||www.pharmacy-health.net^
 ||www.pharmacy-mall.store^
@@ -11500,6 +11519,7 @@
 ||www.poiphid.getrestinfom.su^
 ||www.pollybrita.com^
 ||www.poppers-market.ru^
+||www.popular-pills-online.com^
 ||www.popular.best-pills.net^
 ||www.poseidonasia.com^
 ||www.potency-my.com^
@@ -11902,6 +11922,7 @@
 ||www.rxpricecut.com^
 ||www.rxquality.net^
 ||www.rxquicknetwork724.ru^
+||www.rxrvu.com^
 ||www.rxsave365.ru^
 ||www.rxshop.md^
 ||www.rxshop.su^
@@ -12460,24 +12481,3 @@
 ||www.theorganicshop.su^
 ||www.thepharmacyexpress.net^
 ||www.thepharmacymart.ru^
-||www.thepharmacytrade.ru^
-||www.thepharmprogram.ru^
-||www.thepillbargain.com^
-||www.thepilldeal.ru^
-||www.thepillsupply.su^
-||www.theprivateoutlet.ru^
-||www.theremedialshop.ru^
-||www.therineedna.ru^
-||www.therxbest.ru^
-||www.thesafevalue.su^
-||www.thesafewebmart.su^
-||www.thesecurecompany.su^
-||www.thesecurereward.ru^
-||www.theseostar.com^
-||www.thesmartcompany.su^
-||www.thesmartstore.ru^
-||www.thetrustedsale.ru^
-||www.theworldpharmacyonline.com^
-||www.thjsildenafiljkvc.com^
-||www.thomasinanallise.ru^
-||www.tildiecele.ru^
