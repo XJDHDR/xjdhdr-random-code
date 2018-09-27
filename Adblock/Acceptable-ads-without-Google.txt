@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Us4WfRvltDw57936rXkwGQ
-! Version: 201809251415
+! Checksum: +h2mGzkvGm0nZIKWyDLFRA
+! Version: 201809271415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 25 Sep 2018 14:15 UTC
+! Last modified: 27 Sep 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -134,6 +134,13 @@ ehow.com#@#.zergnet-widget
 suche.chip.de#@##sponsored_link_bottom
 suche.chip.de#@##sponsored_link
 ! Sponsored links (image + text) and static banners on Reddit.com (https://adblockplus.org/forum/viewtopic.php?f=12&t=11954)
+reddit.com#@##siteTable_organic
+reddit.com#@##ad-frame
+reddit.com#@#.sponsorshipbox
+reddit.com#@#.promotedlink
+reddit.com#@#a[href^="http://bs.serving-sys.com/"]
+reddit.com#@##ad_main
+reddit.com#@##ad_main_top
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -1184,12 +1191,13 @@ metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Right Rail Thumbnail
 @@||an.yandex.ru/page/*^callback^$script,domain=doorinworld.ru
 ! Mered.de ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=26210)
 ! Linkedin.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=26244)
-@@||adnxs.com/px^$domain=linkedin.com
-@@||adnxs.com/getuid^$domain=linkedin.com
-@@||adnxs.com/setuid^$domain=linkedin.com
-@@||adnxs.com/bounce^$domain=linkedin.com
-@@||adnxs.com/seg^$domain=linkedin.com
-@@||adnxs.com/mapuid?member=$domain=linkedin.com
+||adnxs.com^$domain=linkedin.com|slideshare.net
+! @@||adnxs.com/px^$domain=linkedin.com
+! @@||adnxs.com/getuid^$domain=linkedin.com
+! @@||adnxs.com/setuid^$domain=linkedin.com
+! @@||adnxs.com/bounce^$domain=linkedin.com
+! @@||adnxs.com/seg^$domain=linkedin.com
+! @@||adnxs.com/mapuid?member=$domain=linkedin.com
 @@||ad.atdmt.com^$domain=linkedin.com
 @@||bs.serving-sys.com/serving/adServer.bs?$popup,domain=linkedin.com
 @@||bizographics.com/collect^
@@ -1857,19 +1865,19 @@ thevarsity.ca#@#.ad-med-rect
 otz.de,tlz.de,thueringer-allgemeine.de#@##adunit
 thueringer-allgemeine.de#@#.advertising
 ! Ads by Criteo (https://adblockplus.org/forum/viewtopic.php?f=12&t=41128)
-@@||static.criteo.net/images/pixel.gif?ch=1$domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||static.criteo.net/js/px.js?ch=1$domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=1*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=2*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=3*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=4*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=5*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=6*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
+@@||static.criteo.net/images/pixel.gif?ch=1$domain=~yahoo.com|~mmo-champion.com
+||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com|~mmo-champion.com
+@@||static.criteo.net/js/px.js?ch=1$domain=~yahoo.com|~mmo-champion.com
+||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=1*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=2*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=3*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=4*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=5*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=6*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
 @@||criteo.com/delivery/ck.php?$popup,domain=criteo.com
 @@||criteo.com/delivery/lg.php?$image,domain=criteo.com
 @@||criteo.net/flash/icon/$image,domain=criteo.com
@@ -1878,11 +1886,11 @@ thueringer-allgemeine.de#@#.advertising
 @@||pix.*.*.criteo.net^$domain=criteo.com
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
-@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com|~cuantarazon.com|~cuantocabron.com
-~mmo-champion.com,~cuantarazon.com,~cuantocabron.com#@#div[id^="crt-"][style*="width:"]
-~mmo-champion.com,~cuantarazon.com,~cuantocabron.com#@#div[id^="crt-"][style]
-~mmo-champion.com,~cuantarazon.com,~cuantocabron.com#@#div[id^="crt-"][data-criteo-id]
-~mmo-champion.com,~cuantarazon.com,~cuantocabron.com#@#.criteo-ban
+@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com
+~mmo-champion.com#@#div[id^="crt-"][style*="width:"]
+~mmo-champion.com#@#div[id^="crt-"][style]
+~mmo-champion.com#@#div[id^="crt-"][data-criteo-id]
+~mmo-champion.com#@#.criteo-ban
 ettoday.net#@#div[id^="abp"]
 ettoday.net#@#.ad_300
 ecranlarge.com#@#.sidebar-banner
@@ -1890,6 +1898,8 @@ forumactif.fr#@##criteoDiv1
 pixnet.net#@#div[style="width: 620px; height: 250px; padding-bottom: 10px;"]
 lavieimmo.com#@#.unForceAdBlock
 speedtest.net#@#.top-placeholder
+cuantarazon.com###cri-705619_cto_iframe
+cuantarazon.com###cri-714952_cto_iframe
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
 ||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
 @@||criteo.com/delivery/ajs.php?*zoneid=292403$xmlhttprequest,domain=wetteronline.de
@@ -4029,6 +4039,7 @@ brigitte.de#@#.sb-ad
 @@*$image,script,third-party,domain=brigitte.de
 @@||adalliance.io^$third-party,domain=brigitte.de
 @@||amazon-adsystem.com^$third-party,domain=brigitte.de
+@@||emsservice.de^$domain=brigitte.de
 ! Conversion tracking whitelisting (https://adblockplus.org/forum/viewtopic.php?f=12&t=13771)
 ! @@/pagead/conversion/*$image,subdocument
 ! @@/pagead/viewthroughconversion/*$image,subdocument
@@ -5357,6 +5368,91 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||hiromishi.com/?s=$elemhide
 @@||larid.hk/?s=$elemhide
 @@||applealmond.com/?s=$elemhide
+@@||clo.tw/?s=$elemhide
+@@||coolmac.tw^$elemhide
+@@||gag-daily.com/search/$elemhide
+@@||char.tw/?s=$elemhide
+@@||jennifer4.com/?s=$elemhide
+@@||aboutfighter.com/hotsearch.html$elemhide
+@@||healthalover.club/?s=$elemhide
+@@||choyce.tw/?s=$elemhide
+@@||fun-life.com.tw/?s=$elemhide
+@@||bigfang.tw/?s=$elemhide
+@@||funtory.tw^$elemhide
+@@||azofreeware.com/search$elemhide
+@@||17t17p.club/?s=$elemhide
+@@||tomchun.tw^$elemhide
+@@||vivawei.tw/?s=$elemhide
+@@||athena77.com/?s=$elemhide
+@@||permio1.com/?s=$elemhide
+@@||lyes.tw^$elemhide
+@@||wudani.com/?s=$elemhide
+@@||niniandblue.com/?s=$elemhide
+@@||icream.tw/?s=$elemhide
+@@||classifieds.craigclassifiedads.com/?s=$elemhide
+@@||boo2k.com/?s=$elemhide
+@@||gosearchresults.com/?$elemhide
+@@||imccp.com/?s=$elemhide
+@@||invest360.net/?s=$elemhide
+@@||hkdecoman.com^*^keyword=$elemhide
+@@||chevigal.com/?s=$elemhide
+@@||hojenjen.com/?s=$elemhide
+@@||kkplay3c.net/search$elemhide
+@@||japancosmelab.com/?s=$elemhide
+@@||ksk.tw/blog/search/$elemhide
+@@||faye.tw/search/$elemhide
+@@||wikihow.com/wikiHowTo?$elemhide
+@@||careerboutique.com^$elemhide
+@@||alberthsieh.com/?s=$elemhide
+@@||rayzen-dev.com/?s=$elemhide
+@@||nellydyu.tw/?s=$elemhide
+@@||ibj.tw/?q=$elemhide
+@@||taiwantour.info/?s=$elemhide
+@@||eater.tw/?s=$elemhide
+@@||darren0322.com/?s=$elemhide
+@@||wenkaiin.com/?s=$elemhide
+@@||4freeapp.com/search?$elemhide
+@@||ahui3c.com/?s=$elemhide
+@@||pcrookie.com^*^q=$elemhide
+@@||ricelala.com/?s=$elemhide
+@@||jumpman.tw^$elemhide
+@@||soeyewear.com/Search/$elemhide
+@@||letitia.tw/?s=$elemhide
+@@||sophiee.tw/?s=$elemhide
+@@||selectclassifieds.com/jobs/?q=$elemhide
+@@||aniseblog.tw/?s=$elemhide
+@@||inmap.tw/?s=$elemhide
+@@||dm0520.com/?s=$elemhide
+@@||ipapago.tw/?s=$elemhide
+@@||ifunny.blog/?s=$elemhide
+@@||papacat.xyz^$elemhide
+@@||mq2.tw/?s=$elemhide
+@@||blake.com.tw/?s=$elemhide
+@@||twbear.cc/?s=$elemhide
+@@||cheercut.com/?s=$elemhide
+@@||ants.tw/?s=$elemhide
+@@||walker-a.com/?s=$elemhide
+@@||iwaishin.com/?s=$elemhide
+@@||anniekoko.com/?s=$elemhide
+@@||inote.tw/?s=$elemhide
+@@||wendellyu.com/search.php$elemhide
+@@||tn911868.com/search$elemhide
+@@||difeny.com/?s=$elemhide
+@@||cythia0805.com^$elemhide
+@@||softc.tw/?s=$elemhide
+@@||savemoney.com.tw/?s=$elemhide
+@@||kai3c.com/?s=$elemhide
+@@||rin.tw/?s=$elemhide
+@@||starwing.cc/search$elemhide
+@@||mable.tw/?s=$elemhide
+@@||abrabbit.com/?s=$elemhide
+@@||candicecity.com/?s=$elemhide
+@@||apple01.co/?s=$elemhide
+@@||maghk.net/?s=$elemhide
+@@||tiyama.tw/?s=$elemhide
+@@||blog.mixflavor.com^$elemhide
+@@||basiclife.tw/?s=$elemhide
+@@||hulong.tw/?s=$elemhide
 @@||xdirectx.com/js/creative/$script,domain=formen.com
 @@||api.xdirectx.com^$document,image,subdocument,domain=formen.com
 answers.yahoo.com#@##ya-center-rail > [id^="ya-q-"][id$="-textads"]
@@ -5585,7 +5681,7 @@ linkedin.com#@#.ad-hdr
 linkedin.com#@#.ad-banner
 linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
-linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-text-view span:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
