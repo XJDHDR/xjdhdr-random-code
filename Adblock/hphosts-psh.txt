@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T+yPPrTLv6+rCpMb/nQ1FA
-! Version: 201809291415
+! Checksum: c6jp0YBh5doP2/fGirWwXw
+! Version: 201809301415
 ! Title: HP Hosts psh list
-! Last modified: 29 Sep 2018 14:15 UTC
+! Last modified: 30 Sep 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -18677,6 +18677,7 @@
 ||cib-sberbank.com^
 ||cib-sberbank.ru^
 ||cibc-clients.com^
+||cibc-online-banking.com^
 ||cibcbankalert.com^
 ||cibcc.ca^
 ||cibcfcibalerts.tk^
@@ -69057,6 +69058,7 @@
 ||remax-bigfork-mt.com^
 ||remax-global-realestate.a78.org^
 ||remaxdirot.co.il^
+||rembour-imposit.fr^
 ||remboursement-assure-ameli.com^
 ||remboursement-electronique.000webhostapp.com^
 ||remboursemnt-ameliassurance-enligne.com^
@@ -82410,6 +82412,7 @@
 ||tlkzs.com^
 ||tllcasting.com^
 ||tlmaxwells.com^
+||tlmbcom.com^
 ||tlmkt.mx^
 ||tlq.goqavat.yi.org^
 ||tltinsaat.com^
@@ -105862,6 +105865,7 @@
 ||www.cib-sberbank.com^
 ||www.cib-sberbank.ru^
 ||www.cibc-clients.com^
+||www.cibc-online-banking.com^
 ||www.cibc.com.en.personal-banking.html.ccibc.ws^
 ||www.cibc.mobi.ebm-mobile-anp.cilbc.ws^
 ||www.cibcbankalert.com^
@@ -137584,6 +137588,3 @@
 ||www.openorange.org^
 ||www.openreach01.com^
 ||www.opensao.mandalabs.com^
-||www.openservercenterppgger.com^
-||www.opentoearn.com^
-||www.openwebmail-taiwan-2018.weebly.com^

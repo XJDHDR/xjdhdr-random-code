@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RMRDzHz/66X/JocIi48ojQ
-! Version: 201809291415
+! Checksum: NeGMxHpiCPmvUt8w8WpB/w
+! Version: 201809301415
 ! Title: HP Hosts pha list
-! Last modified: 29 Sep 2018 14:15 UTC
+! Last modified: 30 Sep 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -607,6 +607,7 @@
 ||ailemarysa.ru^
 ||ailinaantonie.su^
 ||ailismavra.ru^
+||aimclubb.su^
 ||aimepriscella.su^
 ||ainsleeannis.com^
 ||ainsleeberet.be^
@@ -1031,6 +1032,7 @@
 ||beverlyh.com^
 ||bfd.webtradeplus.su^
 ||bftadalafiletuikh.com^
+||bfuser001.brinkster.net^
 ||bfviagrajlu.com^
 ||bhcoho.topkservise.su^
 ||bhscialisdjy.com^
@@ -2087,6 +2089,7 @@
 ||davidprice.net^
 ||davidsulava.xn--f1acf4e4a.xn--p1ai^
 ||davinekirbytoni.su^
+||davricmovers.ca^
 ||daylephilippa.ru^
 ||daynighthealthcare.com^
 ||daytonfoodtruckassociation.com^
@@ -2761,6 +2764,7 @@
 ||genericdrugs.us^
 ||genericdrugsinc.ru^
 ||genericedonlineprice.com^
+||genericfastdeal.com^
 ||genericfastvalue.ru^
 ||genericfastvalue.su^
 ||genericfirstreward.be^
@@ -5880,7 +5884,6 @@
 ||sonora-purwokerto.com^
 ||sosnihuyca24health.com^
 ||southernexpressstore.com^
-||southernhighlandshoa.com^
 ||sovaldi-store.com^
 ||sovaldionlinestore.com^
 ||space.mai.org.my^
@@ -6156,6 +6159,7 @@
 ||testbuyo.su^
 ||tetracyclineantibioticsforsale.ru^
 ||texaschemist.com^
+||tfuua.aimclubb.su^
 ||tgjcialisopfg.com^
 ||thaliamichal.ru^
 ||theaidmall.ru^
@@ -7144,6 +7148,7 @@
 ||www.ailemarysa.ru^
 ||www.ailinaantonie.su^
 ||www.ailismavra.ru^
+||www.aimclubb.su^
 ||www.aimepriscella.su^
 ||www.ainsleeannis.com^
 ||www.ainsleeberet.be^
@@ -8661,6 +8666,7 @@
 ||www.davidprice.net^
 ||www.davidsulava.xn--f1acf4e4a.xn--p1ai^
 ||www.davinekirbytoni.su^
+||www.davricmovers.ca^
 ||www.daylephilippa.ru^
 ||www.daynighthealthcare.com^
 ||www.daytonfoodtruckassociation.com^
@@ -9311,6 +9317,7 @@
 ||www.genericdrugs.us^
 ||www.genericdrugsinc.ru^
 ||www.genericedonlineprice.com^
+||www.genericfastdeal.com^
 ||www.genericfastvalue.ru^
 ||www.genericfastvalue.su^
 ||www.genericfirstreward.be^
@@ -13808,4 +13815,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13786
+! Hosts: 13793
