@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +51TH9MjSTEyxBB14PgYOw
-! Version: 201809301415
+! Checksum: Ci+TbXDSY8aug0GEWO+0vw
+! Version: 201810011415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 30 Sep 2018 14:15 UTC
+! Last modified: 01 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -155,14 +155,6 @@ reddit.com#@##ad_main_top
 ! reddit.com#@##ad_9
 ! @@||amazon-adsystem.com^$domain=reddit.com
 ! @@||amazon-adsystem.com^$document,domain=reddit.com
-! suche.freenet.de search ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=12466)
-suche.freenet.de#@#.wide_ads
-suche.freenet.de#@##adblock1
-! freenet.de content ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=12467)
-freenet.de#@##contentAd
-freenet.de#@##adBox13
-freenet.de#@#.frn_adbox
-freenet.de#@#.frn_adbox_placeholder
 ! Static text/image ads by FusionAds (https://adblockplus.org/forum/viewtopic.php?f=12&t=12851)
 ! @@||adn.fusionads.net^$image,script
 ! #@#a[href^="http://fusionads.net"]
@@ -3545,7 +3537,7 @@ realgm.com#@#.leaderboard-ad-container
 gamepedia.com#@##siderail
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
-popularmechanics.com,esquire.com,menshealth.com#@#.leaderboard-ad
+cosmopolitan.com,delish.com,popularmechanics.com,esquire.com,menshealth.com#@#.leaderboard-ad
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
