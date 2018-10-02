@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ci+TbXDSY8aug0GEWO+0vw
-! Version: 201810011415
+! Checksum: GyWsDW7ZysVoyBZZ/u6yiw
+! Version: 201810021415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 01 Oct 2018 14:15 UTC
+! Last modified: 02 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3537,7 +3537,6 @@ realgm.com#@#.leaderboard-ad-container
 gamepedia.com#@##siderail
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
-cosmopolitan.com,delish.com,popularmechanics.com,esquire.com,menshealth.com#@#.leaderboard-ad
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
