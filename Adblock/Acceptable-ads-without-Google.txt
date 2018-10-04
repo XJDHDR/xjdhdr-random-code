@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NjgAqBuTxwC/yod5jkW1Og
-! Version: 201810031415
+! Checksum: NchmlSKVC8s1zBmXMTUIzw
+! Version: 201810041415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 03 Oct 2018 14:15 UTC
+! Last modified: 04 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3973,19 +3973,19 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 ! Ads by MGID (https://adblockplus.org/forum/viewtopic.php?f=12&t=58560)
 @@||a.mgid.com/mgsensor.js?d=$script,third-party
 @@||a.mgid.com^$image,third-party
-@@||mgid.com^*/vigilantcitizen.com.$script,domain=vigilantcitizen.com
-@@||servicer.mgid.com^*?w=$script,domain=vigilantcitizen.com
-||mgid.com/px.gif?ch=2&rn=$domain=vigilantcitizen.com
-@@||mgid.com/px.gif?ch=1&rn=$domain=vigilantcitizen.com
-@@||cdn.mgid.com^$domain=vigilantcitizen.com
-@@||cm.mgid.com^$domain=vigilantcitizen.com
-@@||imggprx.mgid.com^$image,domain=vigilantcitizen.com
-@@|https://$popup,domain=vigilantcitizen.com
-@@|http://$popup,domain=vigilantcitizen.com
-vigilantcitizen.com#@#[id*="ScriptRoot"]
-vigilantcitizen.com#@#div[id^="MarketGid"]
-vigilantcitizen.com#@#[id*="MarketGid"]
-vigilantcitizen.com#@#div[id^="M"][id*="Composite"]
+! @@||mgid.com^*/vigilantcitizen.com.$script,domain=vigilantcitizen.com
+! @@||servicer.mgid.com^*?w=$script,domain=vigilantcitizen.com
+! ||mgid.com/px.gif?ch=2&rn=$domain=vigilantcitizen.com
+! @@||mgid.com/px.gif?ch=1&rn=$domain=vigilantcitizen.com
+! @@||cdn.mgid.com^$domain=vigilantcitizen.com
+! @@||cm.mgid.com^$domain=vigilantcitizen.com
+! @@||imggprx.mgid.com^$image,domain=vigilantcitizen.com
+! @@|https://$popup,domain=vigilantcitizen.com
+! @@|http://$popup,domain=vigilantcitizen.com
+! vigilantcitizen.com#@#[id*="ScriptRoot"]
+! vigilantcitizen.com#@#div[id^="MarketGid"]
+! vigilantcitizen.com#@#[id*="MarketGid"]
+! vigilantcitizen.com#@#div[id^="M"][id*="Composite"]
 ! ||mgid.com/px.gif?ch=2&rn=$domain=tintaynguyen.com
 ! @@||mgid.com/px.gif?ch=1&rn=$domain=tintaynguyen.com
 ! @@||cdn.mgid.com/images/by_mgid_adc_logo_mini.svg$image,domain=tintaynguyen.com
