@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NchmlSKVC8s1zBmXMTUIzw
-! Version: 201810041415
+! Checksum: ELV8uqwjUbiNMK2RTqhcMg
+! Version: 201810051415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Oct 2018 14:15 UTC
+! Last modified: 05 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -141,6 +141,7 @@ reddit.com#@#.promotedlink
 reddit.com#@#a[href^="http://bs.serving-sys.com/"]
 reddit.com#@##ad_main
 reddit.com#@##ad_main_top
+reddit.com##.promotedvideolink
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -723,6 +724,8 @@ fortune.com,ew.com,people.com#@#.desktop-ad
 people.com#@##outbrain_widget_1 > .ob-widget > .ob-widget-section.ob-first
 heraldsun.com.au,dailytelegraph.com.au,couriermail.com.au,adelaidenow.com.au#@#.w_ad
 1011now.com##.OUTBRAIN > .CRAB_4
+one.co.il##.OUTBRAIN[data-widget-id="AR_2"]
+one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 @@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
 @@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
 @@||bonappetit.com/ads/js/cn.dart.bun.min.js$script,domain=bonappetit.com
@@ -741,8 +744,6 @@ widgets.outbrain.com##.ADBox
 widgets.outbrain.com##.ob_ad
 widgets.outbrain.com##.abp_ob_exist
 widgets.outbrain.com#@#.abp_ob_wl
-#@#.OUTBRAIN
-@@||widgets.outbrain.com^$third-party
 ! VigLink affiliate links (https://adblockplus.org/forum/viewtopic.php?f=12&t=23242)
 ||viglink.com/images/pixel.gif?ch=2$third-party
 @@||viglink.com/api/insert^$third-party
@@ -3537,6 +3538,7 @@ realgm.com#@#.leaderboard-ad-container
 gamepedia.com#@##siderail
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
+directexpose.com#@#.ad_placeholder
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad

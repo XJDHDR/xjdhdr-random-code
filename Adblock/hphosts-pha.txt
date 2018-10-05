@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ScQms+Etoode3qGpAUabAg
-! Version: 201810041415
+! Checksum: +NKyA5BgkGymapn4wS9/Tw
+! Version: 201810051415
 ! Title: HP Hosts pha list
-! Last modified: 04 Oct 2018 14:15 UTC
+! Last modified: 05 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -677,6 +677,8 @@
 ||allrxsales.net^
 ||allrxscenter365.ru^
 ||allstockinfo.ru^
+||allsupplyr.su^
+||allsupplyt.su^
 ||allsweetprice.ru^
 ||alltabmall.com^
 ||allworkbargain.ru^
@@ -3094,6 +3096,9 @@
 ||heloiseerminie.ru^
 ||helpeslive.com^
 ||helpexpert.su^
+||helphousep.su^
+||helphouseq.su^
+||helphouser.su^
 ||helppage.ru^
 ||helpshop.su^
 ||henkacecile.com^
@@ -3413,6 +3418,9 @@
 ||jorrieallsun.su^
 ||josephasekaraine.ru^
 ||joyeainslee.ru^
+||joygroupe.su^
+||joygroupr.su^
+||joygroupt.su^
 ||joyson.genericapteka24.ru^
 ||joyson.ru^
 ||jpw001.com^
@@ -4500,6 +4508,8 @@
 ||newhottrade.ru^
 ||newinfokey.ru^
 ||newlucks.su^
+||newluckt.su^
+||newlucku.su^
 ||newmarket.su^
 ||newmedicalmarts.xyz^
 ||newmedicmart.com^
@@ -5739,6 +5749,9 @@
 ||sertacesin.com^
 ||serviceglobal724.ru^
 ||servicehelp.su^
+||servicehousek.su^
+||servicehousel.su^
+||servicehousem.su^
 ||sevenartzpublicidad.com^
 ||severastana.kz^
 ||sexpillsmaster.com^
@@ -5990,11 +6003,17 @@
 ||suo.im^
 ||super-pills-online.org^
 ||superactivity.ru^
+||superadda.su^
+||superaddb.su^
+||superaddc.su^
 ||superbestweb.ru^
 ||superbgenerics.com^
 ||superbrandx.su^
 ||superbrandy.su^
 ||superbrandz.su^
+||superdealt.su^
+||superdealu.su^
+||superdealv.su^
 ||superfasttrade.ru^
 ||supergood.su^
 ||superhott.su^
@@ -6082,6 +6101,7 @@
 ||sweetbuyer.ru^
 ||sweetchance.ru^
 ||sweetestprice.ru^
+||sweetpriceg.su^
 ||sweetpricetop.ru^
 ||sweetprises.su^
 ||sweetpriset.su^
@@ -6791,6 +6811,9 @@
 ||viphotsale.ru^
 ||vipmagicprice.ru^
 ||viponlyforyou.ru^
+||vipordero.su^
+||viporderp.su^
+||viporderr.su^
 ||viprxmall24.com^
 ||vipsale.name^
 ||vipsalebuy.ru^
@@ -7217,6 +7240,8 @@
 ||www.allrxsales.net^
 ||www.allrxscenter365.ru^
 ||www.allstockinfo.ru^
+||www.allsupplyr.su^
+||www.allsupplyt.su^
 ||www.allsweetprice.ru^
 ||www.alltabmall.com^
 ||www.allworkbargain.ru^
@@ -9621,6 +9646,9 @@
 ||www.heloiseerminie.ru^
 ||www.helpeslive.com^
 ||www.helpexpert.su^
+||www.helphousep.su^
+||www.helphouseq.su^
+||www.helphouser.su^
 ||www.helppage.ru^
 ||www.helpshop.su^
 ||www.henkacecile.com^
@@ -9891,6 +9919,9 @@
 ||www.jorrieallsun.su^
 ||www.josephasekaraine.ru^
 ||www.joyeainslee.ru^
+||www.joygroupe.su^
+||www.joygroupr.su^
+||www.joygroupt.su^
 ||www.joyson.genericapteka24.ru^
 ||www.joyson.ru^
 ||www.jqmoymygoti.infosimplyx.su^
@@ -10947,6 +10978,9 @@
 ||www.newhotsale.ru^
 ||www.newhottrade.ru^
 ||www.newinfokey.ru^
+||www.newlucks.su^
+||www.newluckt.su^
+||www.newlucku.su^
 ||www.newmarket.su^
 ||www.newmedicmart.com^
 ||www.newmedsservice.ru^
@@ -12079,6 +12113,7 @@
 ||www.sertacesin.com^
 ||www.serviceglobal724.ru^
 ||www.servicehelp.su^
+||www.servicehousem.su^
 ||www.sexpillsmaster.com^
 ||www.sexualitymenshop.com^
 ||www.shanahyacintha.su^
@@ -12308,11 +12343,17 @@
 ||www.sunrx.net^
 ||www.super-pills-online.org^
 ||www.superactivity.ru^
+||www.superadda.su^
+||www.superaddb.su^
+||www.superaddc.su^
 ||www.superbestweb.ru^
 ||www.superbgenerics.com^
 ||www.superbrandx.su^
 ||www.superbrandy.su^
 ||www.superbrandz.su^
+||www.superdealt.su^
+||www.superdealu.su^
+||www.superdealv.su^
 ||www.superfasttrade.ru^
 ||www.supergood.su^
 ||www.superhott.su^
@@ -12395,6 +12436,7 @@
 ||www.sweetbuyer.ru^
 ||www.sweetchance.ru^
 ||www.sweetestprice.ru^
+||www.sweetpriceg.su^
 ||www.sweetpricetop.ru^
 ||www.sweetprises.su^
 ||www.sweetpriset.su^
@@ -13026,6 +13068,9 @@
 ||www.viphotsale.ru^
 ||www.vipmagicprice.ru^
 ||www.viponlyforyou.ru^
+||www.vipordero.su^
+||www.viporderp.su^
+||www.viporderr.su^
 ||www.viprxmall24.com^
 ||www.vipsale.name^
 ||www.vipsalebuy.ru^
@@ -13816,4 +13861,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13794
+! Hosts: 13839
