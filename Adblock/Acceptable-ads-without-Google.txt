@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ELV8uqwjUbiNMK2RTqhcMg
-! Version: 201810051415
+! Checksum: UBabqnocFqa1nUCLyJb8Zw
+! Version: 201810061415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 05 Oct 2018 14:15 UTC
+! Last modified: 06 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -622,6 +622,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||karma.mdpcdn.com/service/js-min/karma.footer.js$domain=fitnessmagazine.com
 cnn.com#@#a[href^="http://www.nextadvisor.com/"]
 cnn.com#@#a[href^="https://www.nextadvisor.com/"]
+cnn.com##.module-body > .summary-list a[href^="https://www.nextadvisor.com/"]
+cnn.com##.module-body > .summary-list a[href^="http://www.nextadvisor.com/"]
 bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 foxnews.com,stuff.co.nz#@##outbrain_widget_1
 allocine.fr#@#.jtp
@@ -969,6 +971,7 @@ jeu-tu-preferes.fr###taboola-mid-article-bulk-2
 goldpara.com#@#.reklam2
 dikaiologitika.gr#@#.contentAds
 saveur.com#@#.pane-taboola
+buzzfeed.com#@#.js-ad
 the-share.club###taboola-right-rail-photo-gallery-thumbnails
 spunteblu.it###taboola-above-gallery-thumbnails
 pinoytvshows.me###taboola-below-article-thumbnails-2
@@ -3524,7 +3527,7 @@ britannica.com#@#.header-ad
 britannica.com#@#.sticky-ad
 britannica.com#@#.ad-with-header-wrapper
 destructoid.com#@#center > div > iframe
-destructoid.com,realgm.com#@#div[id^="div-gpt-ad"]
+famousbirthdays.com,destructoid.com,realgm.com#@#div[id^="div-gpt-ad"]
 wikia.com#@#.home-top-right-ads
 xlr8r.com,peanutallergy.com#@#.m-header-ad
 xlr8r.com,peanutallergy.com#@#.m-header-ad--slot
@@ -3539,6 +3542,8 @@ gamepedia.com#@##siderail
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
 directexpose.com#@#.ad_placeholder
+famousbirthdays.com#@#.adspot
+famousbirthdays.com#@#.adspot1
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
