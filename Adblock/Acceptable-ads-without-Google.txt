@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lXysPgo0p/iFBY+qFrWqcw
-! Version: 201810071415
+! Checksum: imkb3ofJMgaQ73ySBCmn4A
+! Version: 201810081415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 07 Oct 2018 14:15 UTC
+! Last modified: 08 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3504,7 +3504,7 @@ bouwsteentjes.info#@#.td-adspot-title
 ! untouchableads Ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53737)
 @@||ad-delivery.net/px.gif?ch=1
 ||ad-delivery.net/px.gif?ch=2
-uscreditcardguide.com,usccgstaging.wpengine.com#@#ad-holder
+uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
 kongregate.com,kongregatetrunk.com,rasmussen.mugo.ca,rasmussenreports.com#@#.ad728x90
