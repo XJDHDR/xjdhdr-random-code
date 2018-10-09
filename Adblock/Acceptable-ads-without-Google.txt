@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: imkb3ofJMgaQ73ySBCmn4A
-! Version: 201810081415
+! Checksum: zqX0lnrOjHKSP/d5UMJVMg
+! Version: 201810091415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 08 Oct 2018 14:15 UTC
+! Last modified: 09 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -292,6 +292,7 @@ comunicom.ru#@#.ya-partner
 /px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
 @@/px.js?ch=1$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
 @@||images.smartname.com/scripts/nmads_caf_$script,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
+@@/nmads_$script,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
 ! spielwiki.de ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=16837)
 ! animeblogreviews.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=16658)
 ! AdGoal in-text affiliate links (https://adblockplus.org/forum/viewtopic.php?f=12&t=16622)
@@ -959,7 +960,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
 @@||trc.taboola.com/*/trc/3/json$script,domain=butfootballclub.fr
-@@||projectagora.tech/libs/projectagora.min.js$script,domain=3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com
+@@||projectagora.tech/libs/projectagora.min.js$script,domain=3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -971,7 +972,7 @@ jeu-tu-preferes.fr###taboola-mid-article-bulk-2
 goldpara.com#@#.reklam2
 dikaiologitika.gr#@#.contentAds
 saveur.com#@#.pane-taboola
-buzzfeed.com#@#.js-ad
+buzzfeed.com,buzzfeednews.com#@#.js-ad
 the-share.club###taboola-right-rail-photo-gallery-thumbnails
 spunteblu.it###taboola-above-gallery-thumbnails
 pinoytvshows.me###taboola-below-article-thumbnails-2
@@ -1175,6 +1176,7 @@ gamespot.com#@#[data-placement-name="front_door Right Rail Thumbnails"]
 spox.com#@#[data-feed-main-container-id="taboola-below-article-thumbnails"]
 metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Below Main Column Thumbnails"]
 metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Right Rail Thumbnails"]
+nezzsorozatokat.info#@##taboola-ad
 ! pexels.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=25874)
 @@||carbonads.com^$script,domain=pexels.com
 @@||carbonads.net^$domain=pexels.com
@@ -3128,6 +3130,7 @@ mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
+! For testing
 ! bedandchai.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=47742)
 ! kevera.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=48039)
 ! prohiphop.org ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=48055)
