@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KmDGbEYHRKli66AnqRMzgA
-! Version: 201810091415
+! Checksum: HZTBsLQsdpT3+pMJEuFKfg
+! Version: 201810101415
 ! Title: HP Hosts pha list
-! Last modified: 09 Oct 2018 14:15 UTC
+! Last modified: 10 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1805,6 +1805,7 @@
 ||cialismdz.com^
 ||cialismeme.com^
 ||cialismer.com^
+||cialismerx.com^
 ||cialismilo.com^
 ||cialismsc.com^
 ||cialismth.com^
@@ -4295,6 +4296,7 @@
 ||my-reorder.com^
 ||myactivity.su^
 ||myaidinc.ru^
+||myapplepharma.com^
 ||mybestgroup.ru^
 ||mybestmart.com^
 ||mybestorder.ru^
@@ -13918,4 +13920,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13896
+! Hosts: 13898
