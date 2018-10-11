@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xVwC603i4n5oFY9CGNyQ2Q
-! Version: 201810101415
+! Checksum: TXwX6fm9jS/Rd/hOxSnPpg
+! Version: 201810111415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 Oct 2018 14:15 UTC
+! Last modified: 11 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -961,11 +961,12 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
 @@||trc.taboola.com/*/trc/3/json$script,domain=butfootballclub.fr
-@@||projectagora.tech/libs/projectagora.min.js$script,domain=3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@||projectagora.tech/libs/projectagora.min.js$script,domain=filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
 @@||nydailynews.com/*taboola/render.js?$script,domain=nydailynews.com
+@@||twpasol.com/c/filmehd.js$domain=filmehd.net
 nydailynews.com#@##ra-taboola-bottom
 caughtoffside.com#@#.adcontainer
 otvfoco.com.br,sguru.org#@#.herald-ad

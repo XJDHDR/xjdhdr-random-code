@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HZTBsLQsdpT3+pMJEuFKfg
-! Version: 201810101415
+! Checksum: H4SjvlsyL4yqyuH8J2DM8g
+! Version: 201810111415
 ! Title: HP Hosts pha list
-! Last modified: 10 Oct 2018 14:15 UTC
+! Last modified: 11 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4258,6 +4258,7 @@
 ||modafinilzec.com^
 ||modify.secureorganictrade.ru^
 ||moist.secureorganictrade.ru^
+||mokwosu.webtradep.su^
 ||molapple.ru^
 ||molliemarcille.su^
 ||mollyannetta.ru^
@@ -13920,4 +13921,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13898
+! Hosts: 13899
