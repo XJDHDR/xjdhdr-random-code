@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TXwX6fm9jS/Rd/hOxSnPpg
-! Version: 201810111415
+! Checksum: 3LWAgm8USk1IilfJuH6qNw
+! Version: 201810121415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 11 Oct 2018 14:15 UTC
+! Last modified: 12 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -730,6 +730,7 @@ heraldsun.com.au,dailytelegraph.com.au,couriermail.com.au,adelaidenow.com.au#@#.
 one.co.il##.OUTBRAIN[data-widget-id="AR_2"]
 one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 topappli.fr##.ob-widget.ob-strip-layout.CRAB_1
+techadvisor.fr,techadvisor.co.uk,digitalartsonline.co.uk,computerworlduk.com,techworld.com,macworld.co.uk##.CRAB_2
 @@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
 @@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
 @@||bonappetit.com/ads/js/cn.dart.bun.min.js$script,domain=bonappetit.com
@@ -3134,6 +3135,8 @@ sports.fr#@##banner-full
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 ! For testing
+proceso.com.mx,joemonster.org#@#div[id^="div-gpt-ad"]
+proceso.com.mx,joemonster.org#@#.img_ad
 ! bedandchai.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=47742)
 ! kevera.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=48039)
 ! prohiphop.org ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=48055)
@@ -4270,6 +4273,14 @@ speedtest.net#@#.ads-left
 speedtest.net#@#.ads-right
 speedtest.net#@#.ad-left
 speedtest.net#@#.ads-column
+reddit.com#@#div[id^="overlay-sidebar-atf-"]
+reddit.com#@#div[id^="overlay-sidebar-btf-"]
+reddit.com#@#div[id^="sidebar-atf-"]
+reddit.com#@#div[id^="sidebar-btf-"]
+firstpost.com#@#.ad-300x250
+firstpost.com#@#.ad728x90
+firstpost.com#@#.ad-section
+firstpost.com#@#div[id^="div-gpt-ad"]
 !A2
 !A5
 @@||beso.com^$elemhide
