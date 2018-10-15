@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hoz9hsM/67LVFUbpx7fUwA
-! Version: 201810141415
+! Checksum: gUo8Z2np0skIAy30V8AvBw
+! Version: 201810151415
 ! Title: HP Hosts pha list
-! Last modified: 14 Oct 2018 14:15 UTC
+! Last modified: 15 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1045,6 +1045,9 @@
 ||bieberclub.net^
 ||big-canada-sales.com^
 ||big-online-pharmacy.org^
+||bigdiscounts.su^
+||bigdiscountw.su^
+||bigdiscountx.su^
 ||bigfoot.smartnaturalshop.su^
 ||biggy.smartnaturalshop.su^
 ||bighealthshop.ru^
@@ -2205,6 +2208,7 @@
 ||doctorsolve.com^
 ||dogecoinpharmacy-com.256bit-ssl-checkout.com^
 ||dogecoinpharmacy.256bit-ssl-checkout.com^
+||doglabs.com.br^
 ||doktorcock.ru^
 ||domesticrx.com^
 ||dominic.xn--90afum2a2fcb.xn--p1ai^
@@ -3012,6 +3016,7 @@
 ||greatoffer.ru^
 ||greatorder.ru^
 ||greatportal.su^
+||greatrest.su^
 ||greatsaleq.su^
 ||greatsaler.su^
 ||greatsales.su^
@@ -3439,6 +3444,9 @@
 ||joygroupe.su^
 ||joygroupr.su^
 ||joygroupt.su^
+||joyhousea.su^
+||joyhouseq.su^
+||joyhousez.su^
 ||joyson.genericapteka24.ru^
 ||joyson.ru^
 ||jpw001.com^
@@ -3808,6 +3816,7 @@
 ||ltolink.group^
 ||lucitasaba.su^
 ||luckdiscount.ru^
+||luckshop.su^
 ||luckyaidmart.ru^
 ||luckybestinc.ru^
 ||luckybestmart.su^
@@ -5778,6 +5787,9 @@
 ||servicehousek.su^
 ||servicehousel.su^
 ||servicehousem.su^
+||servicelanda.su^
+||servicelandb.su^
+||servicelandc.su^
 ||sevenartzpublicidad.com^
 ||severastana.kz^
 ||sexpillsmaster.com^
@@ -5817,6 +5829,9 @@
 ||shopgood.su^
 ||shopgroupa.su^
 ||shopillicious.com^
+||shopmagicd.su^
+||shopmagicf.su^
+||shopmagics.su^
 ||shopmedssavemoney.com^
 ||shopnorxmed.com^
 ||shoppharm.com^
@@ -6915,7 +6930,9 @@
 ||webtradegroup.ru^
 ||webtradelife.ru^
 ||webtrademarket.name^
+||webtradep.su^
 ||webtradeplus.ru^
+||webtrader.su^
 ||webuniversal.su^
 ||webweavings.net^
 ||wecupeva.topinfowebm.su^
@@ -7642,6 +7659,9 @@
 ||www.biddyjobyna.be^
 ||www.big-canada-sales.com^
 ||www.big-online-pharmacy.org^
+||www.bigdiscounts.su^
+||www.bigdiscountw.su^
+||www.bigdiscountx.su^
 ||www.bigfoot.smartnaturalshop.su^
 ||www.biggy.smartnaturalshop.su^
 ||www.bighealthshop.ru^
@@ -8825,6 +8845,7 @@
 ||www.docrxgp.com^
 ||www.doctormyrx.com^
 ||www.doctorsolve.com^
+||www.doglabs.com.br^
 ||www.domesticrx.com^
 ||www.dominic.xn--90afum2a2fcb.xn--p1ai^
 ||www.domporter.xn--90acpdvs9eta.xn--p1ai^
@@ -9603,6 +9624,7 @@
 ||www.greatoffer.ru^
 ||www.greatorder.ru^
 ||www.greatportal.su^
+||www.greatrest.su^
 ||www.greatsaleq.su^
 ||www.greatsaler.su^
 ||www.greatsales.su^
@@ -9970,6 +9992,9 @@
 ||www.joygroupe.su^
 ||www.joygroupr.su^
 ||www.joygroupt.su^
+||www.joyhousea.su^
+||www.joyhouseq.su^
+||www.joyhousez.su^
 ||www.joyson.genericapteka24.ru^
 ||www.joyson.ru^
 ||www.jqmoymygoti.infosimplyx.su^
@@ -10301,6 +10326,7 @@
 ||www.ltolink.group^
 ||www.lucitasaba.su^
 ||www.luckdiscount.ru^
+||www.luckshop.su^
 ||www.luckyaidmart.ru^
 ||www.luckybestinc.ru^
 ||www.luckybestmart.su^
@@ -12168,6 +12194,9 @@
 ||www.serviceglobal724.ru^
 ||www.servicehelp.su^
 ||www.servicehousem.su^
+||www.servicelanda.su^
+||www.servicelandb.su^
+||www.servicelandc.su^
 ||www.sexpillsmaster.com^
 ||www.sexualitymenshop.com^
 ||www.shanahyacintha.su^
@@ -12200,6 +12229,9 @@
 ||www.shopgood.su^
 ||www.shopgroupa.su^
 ||www.shopillicious.com^
+||www.shopmagicd.su^
+||www.shopmagicf.su^
+||www.shopmagics.su^
 ||www.shopmedssavemoney.com^
 ||www.shopnorxmed.com^
 ||www.shoppharm.com^
@@ -13222,7 +13254,9 @@
 ||www.webtradegroup.ru^
 ||www.webtradelife.ru^
 ||www.webtrademarket.name^
+||www.webtradep.su^
 ||www.webtradeplus.ru^
+||www.webtrader.su^
 ||www.webuniversal.su^
 ||www.webweavings.net^
 ||www.webxdirect.su^
@@ -13921,4 +13955,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13899
+! Hosts: 13933

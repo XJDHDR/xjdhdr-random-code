@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0Jb0YLjRpK4UxaAbKnqCig
-! Version: 201810141415
+! Checksum: C9rFKqegii+tFiAB5lvtcQ
+! Version: 201810151415
 ! Title: HP Hosts psh list
-! Last modified: 14 Oct 2018 14:15 UTC
+! Last modified: 15 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -29682,6 +29682,7 @@
 ||ghantasalaift.com^
 ||gharnatahschool.com^
 ||ghasrramsar.ir^
+||ghc4n19r.apps.lair.io^
 ||ghdbfdfg.ia-waziri.com^
 ||ghdeal.com^
 ||ghdihair.com^
@@ -41858,7 +41859,6 @@
 ||lekkerluister.cf^
 ||lelectrum.com^
 ||lelekmosoly-soulsmile.com^
-||leleya.org^
 ||lelinhagentil.com.br^
 ||leliz.com.br^
 ||lem94.net^
@@ -52898,7 +52898,6 @@
 ||onlinefilesharingplatformforwindows.healthyhealingcy.com^
 ||onlinefileviewers.zohosites.com^
 ||onlinefilm.su^
-||onlinefinanceacademy.com^
 ||onlinefundpaypal.com^
 ||onlinegames27.com^
 ||onlineganpati.com^
@@ -72779,7 +72778,6 @@
 ||tout-pour-demenager.com^
 ||tout.pbphgwbr.in^
 ||toutsurlemali.ml^
-||tovagliolijoly.com^
 ||tovqhszumvprfcj.usa.cc^
 ||toward.pbphgwbr.in^
 ||towergatefreight.com^
@@ -107541,7 +107539,6 @@
 ||www.imtnagpur.ac.in^
 ||www.imuni.in^
 ||www.imunizarvacinas.com^
-||www.imxprs.com^
 ||www.imyetherbonus.com^
 ||www.imzabilgisayar.com.tr^
 ||www.in-appleid.com^
@@ -134493,7 +134490,6 @@
 ||www.tourtrends.com^
 ||www.tousavostapis.ca^
 ||www.toutsurlemali.ml^
-||www.tovagliolijoly.com^
 ||www.towergatefreight.com^
 ||www.towerrestoration.com^
 ||www.towersbuild.sa.com^
@@ -143627,4 +143623,4 @@
 ||zzypjyywn.fiepiux.maxgrowth.ru^
 ||zzz.nosu.yi.org^
 ||zzzha.com^
-! Hosts: 143611
+! Hosts: 143607
