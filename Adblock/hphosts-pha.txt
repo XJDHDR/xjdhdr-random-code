@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 22pGNQcoyF35N0EBD/JITw
-! Version: 201810161415
+! Checksum: leI29GZ7QkVnk+VJfkjLcQ
+! Version: 201810171415
 ! Title: HP Hosts pha list
-! Last modified: 16 Oct 2018 14:15 UTC
+! Last modified: 17 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2378,6 +2378,7 @@
 ||ellenliuka.su^
 ||elmiraandreana.ru^
 ||em.targetxweb.su^
+||emailsupport-ph-cs.net^
 ||emanuelebedeschi.xn--80adinac0a4h.xn--p1ai^
 ||emed-outlet.com^
 ||emedsoutlet.com^
@@ -13955,4 +13956,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13933
+! Hosts: 13934
