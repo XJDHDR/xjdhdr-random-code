@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T2ZwmyMp0cj8bbYtC1MPNQ
-! Version: 201810171415
+! Checksum: 15yll0UurjpaetOSFvIpGA
+! Version: 201810181415
 ! Title: HP Hosts wrz list
-! Last modified: 17 Oct 2018 14:15 UTC
+! Last modified: 18 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -188,10 +188,8 @@
 ||crackslink.com^
 ||cracksnow.com^
 ||cracksoftwarez.com^
-||cracksone.com^
 ||crackspider.net^
 ||cracksurl.com^
-||cracktower.com^
 ||crackvilla.com^
 ||crackway.com^
 ||crackzplanet.com^
@@ -315,7 +313,6 @@
 ||filegood.ru^
 ||filejungle.com^
 ||filelocation.vv.si^
-||filesfort.me^
 ||filetubeproxy.com^
 ||filmbuffstuff.com^
 ||filmoff.net^
@@ -334,7 +331,6 @@
 ||free-movies-downloads.com^
 ||free.appnee.com^
 ||free.getlink.vn^
-||freeappstorepc.com^
 ||freecrackpatch.com^
 ||freecracksoftwares.net^
 ||freecrackzone.com^
@@ -344,7 +340,6 @@
 ||freemoviedownloads3.com^
 ||freemp3.fm^
 ||freeoldies.com^
-||freepcsofts.net^
 ||freerus.ru^
 ||freesoftonic.com^
 ||frendz4m.com^
@@ -367,7 +362,6 @@
 ||fullreleasez.com^
 ||fullserialkey.com^
 ||fullsoftversion.com^
-||fullstuff.co^
 ||fullversions.org^
 ||fullversionsoftwaredownload.blogspot.com^
 ||fzmovies.net^
@@ -442,7 +436,6 @@
 ||imost.com^
 ||imzdl.com^
 ||infoint3rnet.com^
-||insiderex.com^
 ||integratedmed.org^
 ||iphonebooks.info^
 ||ir2media.net^
@@ -491,7 +484,6 @@
 ||korsar.tv^
 ||koskomputer.blogspot.co.uk^
 ||koskomputer.blogspot.com^
-||kotargyiee.com^
 ||kubalibre.cocosfilms.com^
 ||kubalibre.com^
 ||laser-dentaire.org^
@@ -731,7 +723,6 @@
 ||pavv.ru^
 ||pbcrew.info^
 ||pc-software.ru^
-||pcfullversion.com^
 ||pcgames-download.com^
 ||pckeysoft.com^
 ||pcsoftncrack.com^
@@ -912,7 +903,6 @@
 ||softreliz.net^
 ||softsapk.com^
 ||softsclub.com^
-||softserialkey.com^
 ||software-free.net^
 ||softwarebits.net^
 ||softwarecrackworks.com^
@@ -1108,6 +1098,7 @@
 ||wilsongriak.com^
 ||win2crack.blogspot.com^
 ||win2crack.blogspot.in^
+||windows-soft.site^
 ||windows10ny.com^
 ||windows8iso.org^
 ||worldofcracksoft.com^
@@ -1304,9 +1295,7 @@
 ||www.crackslink.com^
 ||www.cracksnow.com^
 ||www.cracksoftwarez.com^
-||www.cracksone.com^
 ||www.cracksurl.com^
-||www.cracktower.com^
 ||www.crackvilla.com^
 ||www.crackway.com^
 ||www.crackz.ws^
@@ -1434,7 +1423,6 @@
 ||www.filehouse.tk^
 ||www.filejungle.com^
 ||www.filelocation.vv.si^
-||www.filesfort.me^
 ||www.filetubeproxy.com^
 ||www.filmbuffstuff.com^
 ||www.filmoff.net^
@@ -1455,7 +1443,6 @@
 ||www.freemoviedownloads3.com^
 ||www.freemp3.fm^
 ||www.freeoldies.com^
-||www.freepcsofts.net^
 ||www.freesoftonic.com^
 ||www.frendz4m.com^
 ||www.freshsofts.com^
@@ -1468,7 +1455,6 @@
 ||www.fullreleasez.com^
 ||www.fullserialkey.com^
 ||www.fullsoftversion.com^
-||www.fullstuff.co^
 ||www.fullversions.org^
 ||www.fzmovies.net^
 ||www.fzmoviez.org^
@@ -1540,7 +1526,6 @@
 ||www.imost.com^
 ||www.imzdl.com^
 ||www.infoint3rnet.com^
-||www.insiderex.com^
 ||www.integratedmed.org^
 ||www.iphonebooks.info^
 ||www.ir2media.net^
@@ -1582,7 +1567,6 @@
 ||www.kinozavr.org^
 ||www.klub777.ru^
 ||www.korsar.tv^
-||www.kotargyiee.com^
 ||www.laser-dentaire.org^
 ||www.leakshare.net^
 ||www.leechfree.com^
@@ -1890,7 +1874,6 @@
 ||www.softreliz.net^
 ||www.softsapk.com^
 ||www.softsclub.com^
-||www.softserialkey.com^
 ||www.software-free.net^
 ||www.softwarebits.net^
 ||www.softwarecrackworks.com^
@@ -2174,4 +2157,4 @@
 ||zonawarez.net^
 ||zoomtorrents.com^
 ||zoozle.org^
-! Hosts: 2152
+! Hosts: 2135

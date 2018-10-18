@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zXh0l9fvYXvxev1Sf1jB6A
-! Version: 201810171415
+! Checksum: bSnR1hUAD6YLfsTtFvGZAg
+! Version: 201810181415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 17 Oct 2018 14:15 UTC
+! Last modified: 18 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -968,6 +968,10 @@ thenoob.net#@#.adinjwidget
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
 @@||nydailynews.com/*taboola/render.js?$script,domain=nydailynews.com
 @@||twpasol.com/c/filmehd.js$domain=filmehd.net
+@@||dasibogilink.com/wp-content/plugins/better-adsmanager/js/advertising.min.js$domain=dasibogilink.com
+dasibogilink.com#@#.bsac
+dasibogilink.com#@#.bsac-container
+dasibogilink.com#@#.widget_better-ads
 nydailynews.com#@##ra-taboola-bottom
 caughtoffside.com#@#.adcontainer
 otvfoco.com.br,sguru.org#@#.herald-ad
@@ -4277,6 +4281,11 @@ reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
+old.reddit.com#@##ad_1
+old.reddit.com#@##ad_2
+old.reddit.com#@##ad_4
+old.reddit.com#@##ad_5
+old.reddit.com#@##ad_6
 firstpost.com#@#.ad-300x250
 firstpost.com#@#.ad728x90
 firstpost.com#@#.ad-section

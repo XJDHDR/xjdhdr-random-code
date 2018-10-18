@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: leI29GZ7QkVnk+VJfkjLcQ
-! Version: 201810171415
+! Checksum: QIFeUVtL6Xnj3KCfOjLI/A
+! Version: 201810181415
 ! Title: HP Hosts pha list
-! Last modified: 17 Oct 2018 14:15 UTC
+! Last modified: 18 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3247,6 +3247,7 @@
 ||huntleyvoice.com^
 ||hvootdodow.focusyweb.su^
 ||hxabpritaw.mytopcluby.su^
+||hxg.winlifer.su^
 ||hyywidutin.topfortunem.su^
 ||i-tracking.com.sg^
 ||i365pills.com^
@@ -13956,4 +13957,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 13934
+! Hosts: 13935
