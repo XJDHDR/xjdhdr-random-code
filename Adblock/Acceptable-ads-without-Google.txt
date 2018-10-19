@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bSnR1hUAD6YLfsTtFvGZAg
-! Version: 201810181415
+! Checksum: dewbuNvIXbeStVUwv5RbPg
+! Version: 201810191415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Oct 2018 14:15 UTC
+! Last modified: 19 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3139,8 +3139,8 @@ sports.fr#@##banner-full
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 ! For testing
-proceso.com.mx,joemonster.org#@#div[id^="div-gpt-ad"]
-proceso.com.mx,joemonster.org#@#.img_ad
+wykop.pl,gsmarena.com,readms.net,demotywatory.pl,sports.fr,libertatea.ro,phonearena.com,proceso.com.mx,joemonster.org#@#div[id^="div-gpt-ad"]
+wykop.pl,gsmarena.com,readms.net,demotywatory.pl,sports.fr,libertatea.ro,phonearena.com,proceso.com.mx,joemonster.org#@#.img_ad
 ! bedandchai.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=47742)
 ! kevera.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=48039)
 ! prohiphop.org ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=48055)
@@ -3975,8 +3975,8 @@ thecrimson.com#@#.ad-tag
 thecrimson.com#@#.leader-ad
 thecrimson.com#@#.ad-label
 ! zenya ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=56962)
-@@||zenya.com/search?$elemhide
-@@||zenya.co.uk/search?$elemhide
+@@||zenya.com^$elemhide
+@@||zenya.co.uk^$elemhide
 ! fbgamesgifts.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=57403)
 @@||static.fbgamesgifts.com/js/advertisements.js$domain=fbgamesgifts.com
 ! adtechdaily.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=58018)
