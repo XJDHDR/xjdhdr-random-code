@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F9VVcsB3JDIVrY+IdypvKw
-! Version: 201810211415
+! Checksum: po154qn6Xb2VAK37acXdEA
+! Version: 201810221415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 21 Oct 2018 14:15 UTC
+! Last modified: 22 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2435,8 +2435,8 @@ developpez.net,developpez.com#@##banner600
 developpez.net#@#.ad_global_header
 ! Ads by Carbon (https://adblockplus.org/forum/viewtopic.php?f=12&t=42309)
 @@||carbonads.com/carbon.js
-@@||srv.buysellads.com/ads/*^callback=_carbonads_go$script
-@@||srv.carbonads.net/ads/*^callback=_carbonads_go$script
+@@||srv.buysellads.com/ads/$script
+@@||srv.carbonads.net/ads/$script
 @@||cdn*.buysellads.net/uu/$image,third-party
 @@||fusionads.net/fusion.js
 @@||adn.fusionads.net/launchbit/$script
@@ -2563,6 +2563,7 @@ katrinapierson.com,patriotbeat.com,truthfeednews.com,themindfuel.com,guyhut.com#
 truthfeednews.com#@##quads-ad2
 truthfeednews.com#@#.quads-ad2
 wnd.com#@#[style*="background-image:"]
+cbsnews.com#@#.ad-unit
 ! cuisinezpourvospapilles.fr ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=42852)
 ! jesus-without-language.net ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=42956)
 ! codemperium.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=42954)
@@ -3714,6 +3715,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||lemde.fr/*ligatus.js$script,domain=lemonde.fr
 @@||a-ssl.ligatus.com^$third-party,domain=as.com
 @@/publicidad.$~object-subrequest,~stylesheet,domain=canalsur.es
+@@||adserver.adtech.de/adlink/$popup,domain=money.it
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad
