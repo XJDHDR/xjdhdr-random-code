@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: po154qn6Xb2VAK37acXdEA
-! Version: 201810221415
+! Checksum: rhDzXzrx2xzI2asPoWo28w
+! Version: 201810231415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 22 Oct 2018 14:15 UTC
+! Last modified: 23 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -201,7 +201,7 @@ cylex.be,cylex-bedrijvengids.be,cylex.de,cylex.nl,cylex-branchenbuch.ch,cylex-uk
 ! Cylex search ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=14067)
 ! rctgo.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=14324)
 @@||assets.maingateads.com^$image,domain=rctgo.com
-! winfuture.de content ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=9282&p=73934#p73934)
+! winfuture.de content ads (https://adblockplus.org/forum/viewtopic.php?p=73934#p73934)
 @@||o0.winfuture.de^$script,image,domain=winfuture.de
 winfuture.de###news_content > DIV[style="width:424px;min-height:95px;background-color:white;margin-bottom:10px;"]
 winfuture.de###news_content DIV[style="width:424px;min-height:200px;background-color:white;margin-bottom:10px;"]
@@ -2995,7 +2995,7 @@ bbc.com#@#.bbccom_advert
 habr.com,geektimes.com#@#.bmenu_inner
 habr.com,geektimes.com,toster.ru#@#.img_ad
 habr.com,geektimes.com,toster.ru#@#iframe[width="240"][height="400"]
-! atr-nov.ru ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=45570&start=0)
+! atr-nov.ru ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=45570)
 ! blog.defi-ecologique.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=45660)
 blog.defi-ecologique.com#@##footer-ads
 blog.defi-ecologique.com#@#.oio-banner-zone
@@ -3558,9 +3558,9 @@ iwn.io#@#.footer-advert
 directexpose.com#@#.ad_placeholder
 famousbirthdays.com#@#.adspot
 famousbirthdays.com#@#.adspot1
-stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
-stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
-stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
+rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
+rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
+rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
 ! Bodis ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53747)
 @@/glp?r=$script,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ
 @@$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ
@@ -3952,7 +3952,9 @@ wnd.com#@#.left_prom_160
 yad2.co.il#@#div[id^="dfp-slot-"]
 yad2.co.il#@#[id$="bottom_banner"]
 heraldweekly.com#@#.single-ad
-mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com#@#.advads_widget
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#.advads_widget
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#.advads-widget
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@##div[id^="advads_"]
 wnd.com#@#.top-ad-container
 mako.co.il#@#.ad
 mako.co.il#@#.feed-ad
