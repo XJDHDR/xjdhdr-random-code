@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rhDzXzrx2xzI2asPoWo28w
-! Version: 201810231415
+! Checksum: PFd/83wKqiyPBuc4Ie51YA
+! Version: 201810241415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 23 Oct 2018 14:15 UTC
+! Last modified: 24 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1908,6 +1908,7 @@ cuantarazon.com###cri-705619_cto_iframe
 cuantarazon.com###cri-714952_cto_iframe
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
 ||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
+! legacy whitelisting
 @@||criteo.com/delivery/ajs.php?*zoneid=292403$xmlhttprequest,domain=wetteronline.de
 @@||criteo.com/delivery/ajs.php?*zoneid=320142$xmlhttprequest,domain=wetteronline.de
 @@||criteo.com/delivery/ajs.php?*zoneid=320143$xmlhttprequest,domain=wetteronline.de
@@ -3502,12 +3503,12 @@ bouwsteentjes.info#@#.td-adspot-title
 ! @@||ad.yieldlab.net/m?dt_id=*&ext_id=*
 ! fussballcup.de#@#.ad-frame
 ! fussballcup.de#@##ad-rectangle
-! @@||ads.*.criteo.com/delivery/r/afr.php?did=$subdocument,domain=web.de,document
-! @@||ad.yieldlab.net/d/2456081/8461/300x250^*^ab=1^$script,domain=web.de
-! @@||counts.yieldlab.net^$domain=web.de
-! ||ad.yieldlab.net/static/pixel.gif?ch=2&rn=$domain=web.de
-! @@||ad.yieldlab.net/static/pixel.gif?ch=1&rn=$domain=web.de
-! @@||ad.yieldlab.net/d/2456081/8461/300x250?ab=1^$subdocument,domain=web.de,document
+@@||ads.*.criteo.com/delivery/r/afr.php?did=$subdocument,domain=web.de,document
+@@||ad.yieldlab.net/d/2456081/8461/300x250^*^ab=1^$script,domain=web.de
+@@||counts.yieldlab.net^$domain=web.de
+||ad.yieldlab.net/static/pixel.gif?ch=2&rn=$domain=web.de
+@@||ad.yieldlab.net/static/pixel.gif?ch=1&rn=$domain=web.de
+@@||ad.yieldlab.net/d/2456081/8461/300x250?ab=1^$subdocument,domain=web.de,document
 ! search.ichro.me ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53717)
 @@||search.ichro.me^$elemhide
 ! owntitle.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=53716)
@@ -3954,7 +3955,7 @@ yad2.co.il#@#[id$="bottom_banner"]
 heraldweekly.com#@#.single-ad
 mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#.advads_widget
 mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#.advads-widget
-mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@##div[id^="advads_"]
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#div[id^="advads_"]
 wnd.com#@#.top-ad-container
 mako.co.il#@#.ad
 mako.co.il#@#.feed-ad
@@ -4231,6 +4232,7 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 @@||postrelease.com/conversion?$image,third-party
 @@||zemanta.com/p/$image,third-party
 @@||conv.nativexxx.com/img_conversion?$image,third-party
+!
 ! Global whitelists for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup
 ! Prerequisite for whitelisting ads on AMP pages
