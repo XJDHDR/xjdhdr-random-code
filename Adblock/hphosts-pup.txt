@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +NIE9ekLe0x1HOnCExcxJQ
-! Version: 201810251415
+! Checksum: gV1oI8H3Q1ps0R3SicLjVw
+! Version: 201810261415
 ! Title: HP Hosts pup list
-! Last modified: 25 Oct 2018 14:15 UTC
+! Last modified: 26 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -22,6 +22,8 @@
 !
 ! BAD SITES START HERE
 !
+||000ms3q.wcomhost.com^
+||000mssi.wcomhost.com^
 ||0aqlo2ctf.pro^
 ||0fbbi6mx.space^
 ||0ncjausjiw.download-tech.pw^
@@ -114,8 +116,11 @@
 ||312edsqdr214dr12.usa.cc^
 ||36ulm.contrarieswhhko.site^
 ||3blcvjsjhy5.info^
+||3defrgtrhy.com^
 ||404errorrepair.com^
 ||42newupdate.xyz^
+||498855.com^
+||49k7.com^
 ||4c3.estaminetsrnryqngl.site^
 ||4cq.doglikeivyswd.site^
 ||4privacybrowsing.com^
@@ -141,6 +146,7 @@
 ||9dkcppyxhs.site^
 ||9m7dj4bb.site^
 ||9xf.palominosjzvml.top^
+||a-perfect-resume.com^
 ||a.audienceline.com^
 ||a.gokilofa.com^
 ||aaexwfainchoated.review^
@@ -156,7 +162,9 @@
 ||abolishedcjeulx.download^
 ||abourth.com^
 ||abqkyseobjectors.review^
+||absewer.com^
 ||abstainingbngkski.download^
+||abstractvies.com^
 ||abstrictedtanavb.download^
 ||abwpqgwdharbors.download^
 ||abyxofixers.download^
@@ -177,6 +185,7 @@
 ||acrgttrait.review^
 ||acrolithzilyzj.download^
 ||acropolisadvnw.website^
+||acs.sup0rt-servidre0ver.bremkontlo.com^
 ||activeakamaigreatflash.icu^
 ||activealwaysdealflash.icu^
 ||activebestalwaysflash.icu^
@@ -240,6 +249,7 @@
 ||adwcleaner.ru^
 ||adztxmaepolemarchs.review^
 ||aelfaimthirteens.download^
+||aeroelectriccompany.com^
 ||aervybawls.review^
 ||aesumafouled.review^
 ||aexfqzeglentourages.review^
@@ -273,6 +283,7 @@
 ||aihnwtwoimshi.download^
 ||aijlewbzvclonally.review^
 ||aileronsvkokghz.win^
+||aimshydpak.edu.pk^
 ||aimwjrtlrbooms.review^
 ||aioamemancipate.review^
 ||aioxkgshence.review^
@@ -300,6 +311,7 @@
 ||akzjpxuxorious.review^
 ||alert-service.org^
 ||alertsfromfriends.com^
+||alhaithamlogistics.com^
 ||alhmwvpfknarls.review^
 ||alkalisingcyjfzj.website^
 ||alknjciconspiring.review^
@@ -309,6 +321,7 @@
 ||allgoodfind.com^
 ||allgreatupdatesforyouthisyear.date^
 ||allgreatupdatesforyoutoday.review^
+||alliejones.com^
 ||allin1convert.com^
 ||allinonedocs.com^
 ||allongepdnaxj.download^
@@ -388,6 +401,7 @@
 ||ameerswogifyc.website^
 ||amenestcoixkbk.website^
 ||amethystgcpsnr.download^
+||amexopen.creditpointe.com^
 ||amhpbhyxfgvd.com^
 ||amjaztimist.review^
 ||amkbffwtotrussing.review^
@@ -435,6 +449,7 @@
 ||aofdssbasalts.download^
 ||aoftqnhenthymemes.review^
 ||ap1.simsim24.pw^
+||apacheleadsusa.com^
 ||apcncgsquishes.review^
 ||apetalousvqzxp.download^
 ||api.badolina.com^
@@ -451,13 +466,18 @@
 ||appfixing.space^
 ||appfocus.go2cloud.org^
 ||applaudewmfya.website^
+||apple-icloud-itunes.com^
 ||apple.com-systems.support^
 ||appleassist.pro^
 ||applecartsesgsx.download^
+||appleid-manage-support-apple.com^
+||appleid.apple.com.streaminvasion.com^
+||appleidmailjp.com^
 ||applicationerrorfixer.com^
 ||apportionsgajono.download^
 ||appraisaljhrft.download^
 ||apprehendsywzhk.website^
+||appsupportgeneralinformation.com^
 ||aptestbffch.download^
 ||aptitude.all4updateyouwilleverneed.bid^
 ||aptitude.all4updateyouwilleverneed.win^
@@ -638,6 +658,7 @@
 ||balancersnpqjthz.website^
 ||ballyhooeduimprlo.win^
 ||balooseaqmzb.website^
+||baltra.bar^
 ||balzarinesdxnddg.download^
 ||bandoleersosdrwuvaq.website^
 ||bank.housebucket.bid^
@@ -649,6 +670,7 @@
 ||barbolacbidaduqw.website^
 ||bargeboardeizbl.website^
 ||baronetomisg.website^
+||bartlettroofingservices.com^
 ||baryspherevupljl.download^
 ||battlerszvcsxcjb.download^
 ||batwingkwvrvfh.website^
@@ -710,6 +732,7 @@
 ||benzoinoshwcqx.download^
 ||bepwawcceblears.review^
 ||berefodjre.download^
+||bermangouilire.com^
 ||berthinghtxyhfq.download^
 ||bes.nut.cc^
 ||bescreenedygvkbzvr.download^
@@ -947,6 +970,7 @@
 ||birthdayxkhraupm.download^
 ||bitchedvsviib.website^
 ||bivzgxjzkcohesion.review^
+||bizfiber.net^
 ||bjbdzfiscull.review^
 ||bjdapuflytes.review^
 ||bjicvxyotaries.download^
@@ -986,6 +1010,7 @@
 ||bmzjljgypsyism.review^
 ||bnaaspphtrailers.review^
 ||bnorctayras.download^
+||bobssigns.net^
 ||bodachsgttwmed.website^
 ||bogucmeflisking.review^
 ||boiaoeyherborizes.review^
@@ -1586,6 +1611,7 @@
 ||celestia.fr^
 ||cellularsqequjyiz.website^
 ||ceniuteunsated.review^
+||centrosnab.com.ua^
 ||cfcpdcentiare.review^
 ||cflkfczesynapsis.review^
 ||cflttqdgunboat.review^
@@ -1603,10 +1629,12 @@
 ||cgwfheafkhuffed.download^
 ||chafesbxewd.website^
 ||champedurolk.website^
+||champenoirjulesrt.godaddysites.com^
 ||championpwkgkp.website^
 ||champlaintechnology.com^
 ||channel1vids.com^
 ||channelchooser.info^
+||chantiers-ecoles.org.ma^
 ||chaumonttechnology.com^
 ||chcsqguypalmtops.review^
 ||cheapestzuslsqig.website^
@@ -1879,6 +1907,7 @@
 ||click-on-this-now.online^
 ||click-to-have-fun.online^
 ||clickeu.teracreative.com^
+||climanceaussare.com^
 ||clinamenlndcedv.download^
 ||clk.logsession.com^
 ||clkzfnxtarsioid.download^
@@ -1937,6 +1966,7 @@
 ||conariayqbsge.website^
 ||conceivingqsjmrq.download^
 ||conductorsvfqwzwj.download^
+||conelvaoperadora.com^
 ||confereesnqfypzf.download^
 ||confiderjkjejvgwu.website^
 ||config.yeadesktop.com^
@@ -2049,6 +2079,7 @@
 ||constantupgradingnew.trade^
 ||constantupgradingnew.win^
 ||contactinformations.info^
+||contatti.citroenrubini.com^
 ||contentprotector-w1.com^
 ||convert-myfiles.link^
 ||converterguru-api.olympuswaymarketing.com^
@@ -2110,6 +2141,7 @@
 ||cqmktiilameness.review^
 ||cqrwnpglided.review^
 ||cqyjquchernia.review^
+||cra2018-gst-hst-return.com^
 ||crackjawjyaoc.download^
 ||crassitudeeeyzvxk.website^
 ||crazyforcrafts.com^
@@ -2119,6 +2151,7 @@
 ||crjaigmpskatepark.download^
 ||crkdhenouncing.review^
 ||crlqkballerine.download^
+||crm.ccft-fcok.cz^
 ||crossfirexcgyyk.win^
 ||crozesmvcmvpxtb.download^
 ||crpvswtutrhino.website^
@@ -2177,6 +2210,7 @@
 ||cvuwimpeccant.download^
 ||cvzeumetfolacin.review^
 ||cvzuuqhurleys.review^
+||cwatuj.com^
 ||cwfasgaquatinted.review^
 ||cwiupgwsorriest.review^
 ||cwloqbpowforeday.review^
@@ -2343,6 +2377,7 @@
 ||datpndydqmotioning.review^
 ||datumglobal.com^
 ||daubierwmllx.website^
+||davidveyossef.co.il^
 ||dawbauxedivinised.review^
 ||daxcifmleeches.review^
 ||daxsktupbinding.review^
@@ -2405,6 +2440,8 @@
 ||deqnzweighages.review^
 ||derangevbemrf.win^
 ||dercjrabatos.download^
+||dermatological-para.000webhostapp.com^
+||desbloqueio.itau20cadastramento.ml^
 ||descendantckvvbcfu.win^
 ||deserveigvwk.download^
 ||designersptjogyrc.download^
@@ -2421,6 +2458,7 @@
 ||devcdn.avanquest.com^
 ||devicedoctor.com^
 ||devnonpwsalesrooms.review^
+||dewajudi88.net^
 ||deyqxvztetragon.review^
 ||dezvjchicane.download^
 ||dfeggknpenurious.review^
@@ -2440,6 +2478,7 @@
 ||dgurfzpsvivaing.download^
 ||dgxatavzpvagues.review^
 ||dgyiacrbattering.review^
+||dhamee.org^
 ||dhatbweird.review^
 ||dhbdyhunburdened.review^
 ||dhdernwtstrays.website^
@@ -2453,6 +2492,7 @@
 ||dictionaryext.xyz^
 ||difdnaccorded.review^
 ||diffidencexlrzwn.website^
+||digitalmarketing.adscenter.edu.vn^
 ||digressivekuqwp.download^
 ||dikeypmhwcda.download^
 ||dilutingnclcbc.website^
@@ -2749,6 +2789,7 @@
 ||drivingdirectionsfast.com^
 ||drivsinfosproduits.info^
 ||drivsnfosproduits.info^
+||dropboxgp.gq^
 ||drsgcmdjsmalts.review^
 ||dryrtyzlfsiphon.download^
 ||ds.moviegoat.com^
@@ -2829,6 +2870,7 @@
 ||eanmrqqmwredded.review^
 ||eaptjvcvenators.download^
 ||earthbornybfjjx.website^
+||easthobby.com^
 ||easy-driving-directions.co^
 ||easyclassifiedsaccess.com^
 ||easycleanpc.com^
@@ -3114,6 +3156,7 @@
 ||esecureshoppe.com^
 ||esfcapzhhived.review^
 ||esizddyzxmercies.review^
+||esklepzbutami.pl^
 ||esrqqchltharlotry.download^
 ||essential-software.com^
 ||estradeslcxysgqmh.download^
@@ -3134,6 +3177,7 @@
 ||euvdyfphknonplusses.review^
 ||euzppbbleprous.review^
 ||evacuatedrgbjy.download^
+||evangelische-grundschule-meckenheim.us^
 ||evbqwexnqbaffled.review^
 ||evcczmxverdicts.review^
 ||evdoocxhalitus.review^
@@ -3153,6 +3197,7 @@
 ||ewlwumpxescufts.review^
 ||ewqwwnebirles.review^
 ||ewvzfoqrushed.review^
+||excelsign.ml^
 ||excitativerftvhh.download^
 ||exdcjdeaspirate.review^
 ||exfwnroinweaving.download^
@@ -4140,6 +4185,7 @@
 ||gqzeushaggymane.download^
 ||gqzyfubricotta.download^
 ||gradevlckixkyn.website^
+||grandparentsintoaction.com^
 ||graphiumsmhgtqy.download^
 ||grasperzhmzdhxs.website^
 ||grasscsklarlz.download^
@@ -4890,6 +4936,7 @@
 ||hoaxersjdaixv.website^
 ||hoedlsdnqnz.website^
 ||hoetecithern.review^
+||hohtechlabs.com^
 ||hoickingrszqvz.download^
 ||holidayingappopfazd.download^
 ||home.bt.com^
@@ -5161,11 +5208,13 @@
 ||icgunnsledgers.download^
 ||icihblidherotesis.review^
 ||icivkvdolphin.review^
+||icloudsysalert.com^
 ||icmeklcalembour.download^
 ||icpcxrevamps.download^
 ||icvgvifmapping.download^
 ||iczykdiawwort.download^
 ||id.newtab-media.com^
+||identifiento445.godaddysites.com^
 ||identityprotector.co^
 ||idmbuwtoucans.review^
 ||idrosjtwoseater.review^
@@ -5383,6 +5432,7 @@
 ||ins.entireactiv.com^
 ||insculpingazmzb.website^
 ||insfekcbackslides.download^
+||instagrammedia-agency.com^
 ||install-apps.com^
 ||install.24-stream.com^
 ||install.bhuygv.com^
@@ -5483,6 +5533,7 @@
 ||isupercleansystem.com^
 ||isvjvlnucellus.download^
 ||isygyinnermost.download^
+||itauunibanco.lojadocolaborador.com.br^
 ||itemizedbtfrza.website^
 ||itnygszlbgazing.download^
 ||itqswltmftrampolin.download^
@@ -5627,6 +5678,7 @@
 ||jucnjwhereby.download^
 ||jugizjfdlsurceasing.review^
 ||julbyrcweprolative.download^
+||julice.info^
 ||jumpinessrhbijjq.download^
 ||jumsxzabseil.review^
 ||junkcleaner.net^
@@ -5663,6 +5715,7 @@
 ||jzzlpmrpmanlier.download^
 ||kaeezkegoistic.review^
 ||kainbdefender.review^
+||kamerague.com^
 ||kampongpdqsv.download^
 ||kampongsnylsyoa.download^
 ||kamsinseuexlw.download^
@@ -5872,11 +5925,13 @@
 ||lcqhxqzjoys.download^
 ||lcqosjkhhgutty.download^
 ||lcrmcqsinded.review^
+||lcvaldemarsvik.se^
 ||ldaiddystrophin.download^
 ||ldekzedteasel.review^
 ||ldgghgpfluxions.review^
 ||ldxxxduimburses.review^
 ||leanedfodcajqo.website^
+||leantjepkema2.co.uk^
 ||leapinglhahtkky.win^
 ||learn2upgrade.settingallreadyforupgradethismonth.stream^
 ||learn2upgrade.yourbetterandreliable2upgrade.stream^
@@ -6556,9 +6611,11 @@
 ||loginemailaccounts.com^
 ||loginfaster.com^
 ||logmpsuid.review^
+||logoped31.beluo.ru^
 ||logsession.com^
 ||logyan.com^
 ||lojmazgoihilum.review^
+||lokkkk.godaddysites.com^
 ||lokolast.com^
 ||lokuqpronators.review^
 ||lolqqaunremoved.review^
@@ -6634,6 +6691,7 @@
 ||lucrtbrayed.review^
 ||ludd.me^
 ||lufulysrhwhiling.review^
+||lulikandihighschool.edu.bd^
 ||lumbererewqzavq.website^
 ||lumcerhachides.review^
 ||luminsoftware.com^
@@ -6667,6 +6725,7 @@
 ||lzncrforelay.review^
 ||lzpsobxguest.review^
 ||lzzlizspalting.download^
+||m.gruppo-mps.com^
 ||maaesacreations.com^
 ||macadscleaner.com^
 ||macadwarecleaner.com^
@@ -6738,6 +6797,7 @@
 ||mapstrek.com^
 ||mapwallop.com^
 ||marasmuspukaktq.website^
+||marchesiincisawines.it^
 ||marinadedfjmffleq.download^
 ||marirtr3.com^
 ||marirtr4.com^
@@ -6753,6 +6813,7 @@
 ||maximalsysforupgrades.win^
 ||maximalsysforupgrading.download^
 ||maximalsysforupgrading.review^
+||maxonturf.com^
 ||maxpcexperts.com^
 ||maxsearch.live^
 ||maxwebsearch.com^
@@ -6769,12 +6830,14 @@
 ||mcbjhzwpolemic.download^
 ||mcjsdcdhominids.review^
 ||mcrqkmtethers.review^
+||mcscd.com^
 ||mcvzqlthunders.review^
 ||mdokmopatronized.download^
 ||mdsegdisloyally.download^
 ||mdtergermans.review^
 ||mdtyowygfigs.download^
 ||meaurcjrkafro.download^
+||mecatronica.ind.br^
 ||mediaaccess.live^
 ||mediaday.org^
 ||mediafindplugin.com^
@@ -7208,6 +7271,7 @@
 ||nagiwtseemalaguetta.review^
 ||nakwpnnubarostat.review^
 ||nallnenjambed.download^
+||nammaschoolradio.com^
 ||nauoelncdangler.review^
 ||navsmart.info^
 ||nazmoevocomeliness.download^
@@ -7325,6 +7389,7 @@
 ||nfltab.com^
 ||nfltabsearch.com^
 ||nfsduwzvswallet.review^
+||ngc-ollie.de^
 ||nglhgiixunwearable.review^
 ||nglxiafqfidgety.download^
 ||ngmfusulfonic.review^
@@ -7490,6 +7555,7 @@
 ||octanefvwzt.website^
 ||octaswvrqt.download^
 ||ocuypgsozealful.review^
+||ocwic.hosting.acm.org^
 ||oddfellowthwyic.website^
 ||odfp2bb3.space^
 ||odqzfqityjovially.review^
@@ -7535,6 +7601,7 @@
 ||om-cmf.com^
 ||omaplxedqsectators.download^
 ||omowuweradiation.review^
+||omparameswaranursery.com^
 ||omqbwh.flu.cc^
 ||omwgpzbndcoronation.review^
 ||ondatraskbmgdnkpq.website^
@@ -7553,6 +7620,8 @@
 ||online.liveupdate1568632.download^
 ||online.ready4maintainsafesystem4setnow.download^
 ||onlineformfinder.com^
+||onlinehmrc.co.vu^
+||onlineicsdashboard.s4y-web.de^
 ||onlinerecipes.download^
 ||onlineupdate.askupdatesafesystem4nowset.club^
 ||onlineupdate.askupdatesafesystem4nowset.download^
@@ -7582,6 +7651,7 @@
 ||oqvzeqkhedgerows.review^
 ||oqykdbeefeater.review^
 ||orbitpcmechanic.com^
+||order-apple-verify.club^
 ||ordycmachos.review^
 ||organizedderides.pw^
 ||oroxmhsimulacra.download^
@@ -7688,6 +7758,7 @@
 ||pastilzhqiiq.download^
 ||patagialaakayux.download^
 ||patlypxu.download^
+||paypal.co.uk.co2i.xyz^
 ||paypal.com.influcent-balance-information-login.usa.cc^
 ||pbnqzdulretama.review^
 ||pbspielevator.review^
@@ -7846,7 +7917,9 @@
 ||phvmfzsminternee.download^
 ||phycymshacked.review^
 ||physicifmjeml.download^
+||pichinchagua2.webcindario.com^
 ||pickabacksptqbquq.download^
+||pifasandiego.com^
 ||pilaffsgoepqmjsy.download^
 ||pilgrimerssombta.download^
 ||pilotdirtflash.bid^
@@ -7879,6 +7952,7 @@
 ||plainingibwtn.download^
 ||planetviajes.com^
 ||plastiqueikyzxxh.download^
+||plataforma-material-escolar.com^
 ||platinisesvwynrehrs.win^
 ||play-bar-search.com^
 ||playgroupvrqic.website^
@@ -7911,6 +7985,7 @@
 ||poisonehqka.website^
 ||pokierjgnvtm.website^
 ||polemizesopanb.download^
+||poneors.xyz^
 ||ponieselyqtjymc.download^
 ||popularvideos.top^
 ||popupgoals.co.uk^
@@ -8099,6 +8174,7 @@
 ||puggeryxxsxdkhlz.download^
 ||pullinfo.info^
 ||pumicatembkgh.download^
+||pushused.com^
 ||pvh.nut.cc^
 ||pvm.nut.cc^
 ||pvxneglecclimaxes.review^
@@ -8425,6 +8501,7 @@
 ||revengerszfbdhk.download^
 ||reviewedbygeek.com^
 ||revilertkatymik.download^
+||rexfordindustrial.igg.biz^
 ||rezwjmuckiest.review^
 ||rfhzyyrtturnstones.review^
 ||rfjpgdukishkes.download^
@@ -8747,11 +8824,13 @@
 ||safevirus.com^
 ||safewebsurfing.xyz^
 ||safewebtoolext.biz^
+||sagesseinfoline.godaddysites.com^
 ||sahibsdmwmmxdq.download^
 ||sahrvdlarabbitry.review^
 ||sajqbcpvhinstinct.review^
 ||salicingtgcu.download^
 ||salifiedespdagsur.website^
+||salinenkapelle.at^
 ||saltchuckcsgicglyi.download^
 ||saltiersgigmqey.download^
 ||saltoingwynffcpyt.download^
@@ -9197,6 +9276,7 @@
 ||servicemanager.host^
 ||servicemanager.tech^
 ||servicemanager.xyz^
+||servico-on-sms.ga^
 ||servitresshbrjofrb.website^
 ||set2updatenow.setupupgradesetandgo.bid^
 ||set2updatenow.thetrustedcentral-forcontentperfect.review^
@@ -9615,6 +9695,7 @@
 ||static.helpplayflash.stream^
 ||static.tweakbit.com^
 ||statuetteghgkeloz.download^
+||staunchmachineryug.000webhostapp.com^
 ||stcybdxcscalelike.download^
 ||steamshipfbtrxga.download^
 ||steevingurxhebaa.download^
@@ -9669,6 +9750,7 @@
 ||streamradionow.com^
 ||streamsoccerlive.net^
 ||streetlamppurqm.website^
+||studiotachyon.com^
 ||stupasdorzbtbn.website^
 ||stupendouspuiacrvua.download^
 ||subbasalxmdsb.website^
@@ -9757,6 +9839,7 @@
 ||syscleanerutils.com^
 ||sysinfo.pcvark.com^
 ||system-internals.com^
+||system-supportcomcast-user.000webhostapp.com^
 ||systembooster.co^
 ||systemcare.safe-cart.store^
 ||systemhealer.com^
@@ -9810,6 +9893,7 @@
 ||team2upgrading.bid^
 ||team2upgrading.stream^
 ||team2upgrading.top^
+||teaminc-my.sharepoint.com^
 ||techglobal-ltd.co.uk^
 ||technologiebeloeil.com^
 ||technologiemounac.com^
@@ -9873,6 +9957,7 @@
 ||thatsolidcontentsall.date^
 ||thatsolidcontentsall.trade^
 ||thatsolidcontentsall.win^
+||the-edgemarketing.com^
 ||the-quantumcode.com^
 ||the.offerland.mobi^
 ||thealwaysbetter4updatebuddy.bid^
@@ -10276,6 +10361,7 @@
 ||thedebug2upgrading.download^
 ||thedebug2upgrading.top^
 ||thedebug2upgrading.win^
+||thefarmhouseindia.com^
 ||thefree2updating.trade^
 ||thefree4alwaysupdates.date^
 ||thefree4alwaysupdates.win^
@@ -10446,6 +10532,8 @@
 ||thegroupserviceupdatingnew.stream^
 ||thegroupserviceupdatingnew.trade^
 ||thegroupserviceupdatingnew.win^
+||thehopkinsreview.com^
+||theitalianjobpizzeria.co.uk^
 ||thejokevault.com^
 ||themainplacetogetgoodupdating.bid^
 ||themovie-hub.net^
@@ -10694,6 +10782,7 @@
 ||thesoftwareroundupgradingall.review^
 ||thesoftwareroundupgradingall.stream^
 ||thesoftwareroundupgradingall.win^
+||thespiritualarc.com^
 ||thestrategic-content4you.bid^
 ||thestrategic-content4you.review^
 ||thestrategic-content4you.stream^
@@ -10912,6 +11001,7 @@
 ||traviously.pro^
 ||trdev.site^
 ||trekihikpaua.download^
+||trexiolknxzn.000webhostapp.com^
 ||triaxialgkprud.download^
 ||tribasicusnglcsn.download^
 ||trichinaeghyuyak.download^
@@ -11020,6 +11110,8 @@
 ||ubar.pro^
 ||ubibmstock.review^
 ||ubiquitouslsojwadmv.website^
+||ubs-switerlandorjrplmc6.adorer.us^
+||ubs-switerlandvdhsxp2a.okmqr.us^
 ||ubwxeccoastlines.review^
 ||ubybnhchinkie.download^
 ||ucisxrhottish.download^
@@ -11029,6 +11121,7 @@
 ||uczjnreproached.review^
 ||udauvasswage.download^
 ||udddzdeodars.download^
+||uddoktahub.com^
 ||uddzxordksurveyings.review^
 ||udjqtdunfasten.review^
 ||udzikvpbsamplings.review^
@@ -11078,6 +11171,7 @@
 ||umlndwuzzle.review^
 ||unactablekkpzxxh.download^
 ||unchurchedbmzgkzrw.website^
+||undivested-tear.000webhostapp.com^
 ||undoupgrade24.videosearchingforupdate.review^
 ||undoupgrade24.videosearchingforupdate.stream^
 ||undoupgrade24.videosearchingforupdate.win^
@@ -11093,6 +11187,7 @@
 ||universalpcoptimizer.com^
 ||unjustlyrkvrkyiea.download^
 ||unlifelikejbpay.website^
+||unlockrequierd-id.icu^
 ||unmolesteddoigx.top^
 ||unpollutemymac.com^
 ||unpriestclcquiwf.download^
@@ -11338,7 +11433,9 @@
 ||urzbqlyoutranged.website^
 ||us.dekagram338vk.icu^
 ||usbvcwpbroons.review^
+||usedtoyotalexusparts.com^
 ||usefulext.site^
+||user-login-icorner.aba.ae^
 ||usingbestiseasywiththisupdates.bid^
 ||usingbestiseasywiththisupdates.date^
 ||usingbestiseasywiththisupdates.download^
@@ -11413,6 +11510,7 @@
 ||valuedkaspdszz.download^
 ||valusc.com^
 ||vandalsxlaadkbcv.website^
+||vaporterbaik.com^
 ||vawdcurticate.review^
 ||vaweksskaoliangs.review^
 ||vbcdduboth.review^
@@ -11491,7 +11589,9 @@
 ||vifgbakswritership.review^
 ||vijfcndwhumorously.download^
 ||vikcg.igg.biz^
+||vikingantiques.com^
 ||violatertssqp.website^
+||viralereal.com^
 ||viralvideos.technology^
 ||viruscheck.club^
 ||virusspywareprotection.com^
@@ -11504,6 +11604,7 @@
 ||vkcompodarki.gq^
 ||vkdzxay.review^
 ||vkllog.usa.cc^
+||vksupport-mail.pro^
 ||vkwkucservile.review^
 ||vljqdicenters.review^
 ||vljttboynecks.review^
@@ -11540,6 +11641,7 @@
 ||vtmwfhunfettered.review^
 ||vtrtdkcnhroystered.review^
 ||vtyxdqascribable.review^
+||vukkladovo.nasaskola.rs^
 ||vulemdbsterreens.review^
 ||vuowmttwheatears.review^
 ||vurlvblustring.review^
@@ -11549,6 +11651,7 @@
 ||vwtxvolturbulence.review^
 ||vwzrxedzgrafting.review^
 ||vxiynf.usa.cc^
+||vxmo.valyzo.us^
 ||vxr.usa.cc^
 ||vxuueylgdenaries.review^
 ||vynuakxtoobtempers.review^
@@ -11852,6 +11955,7 @@
 ||wiebisdeinstallieren.com^
 ||wifimaster.tech^
 ||wiki4pc.com^
+||wils.co.kr^
 ||win-fixer.com^
 ||win-guru.com^
 ||win-refresh.com^
@@ -25867,6 +25971,7 @@
 ||xfedpofhvampiric.review^
 ||xfhdeviqsheila.review^
 ||xfsuvbthatching.review^
+||xg246.com^
 ||xgaloajdsdesinent.review^
 ||xgfyvjpclamjamfry.review^
 ||xgmxksyngamic.review^
@@ -25895,6 +26000,7 @@
 ||xmeqquaisizable.download^
 ||xmigxkdetonators.download^
 ||xmizlofelinity.download^
+||xn--80abmuei.xn--p1ai^
 ||xngtvlberths.download^
 ||xnhglrakehelly.review^
 ||xnketzxmiunderstood.review^
@@ -26416,4 +26522,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 26395
+! Hosts: 26501
