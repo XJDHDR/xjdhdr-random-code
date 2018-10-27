@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RcOi8msZq/xr0bu43dBv5A
-! Version: 201810261415
+! Checksum: NTB+ssxVf/qGT+juVUiJNw
+! Version: 201810271415
 ! Title: HP Hosts psh list
-! Last modified: 26 Oct 2018 14:15 UTC
+! Last modified: 27 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -36400,6 +36400,7 @@
 ||iiee.edu.pk^
 ||iiefonline.in^
 ||iiesinc.com^
+||iiestedu.org^
 ||iiforgot-appleid.com^
 ||iiforgotapple.com^
 ||iii.com.na^
@@ -60308,6 +60309,7 @@
 ||psinesfitz.000webhostapp.com^
 ||psipw8thaward.org^
 ||psisprings.com^
+||pskitsolution.com^
 ||pskschools.com^
 ||pslvale.com^
 ||pslvym.usa.cc^
@@ -64351,6 +64353,7 @@
 ||saggos.gr^
 ||saglikdefteri.com^
 ||sagun.com^
+||sahaas.com^
 ||sahabatbaliholidays.com^
 ||sahabatsuksesbersama.com^
 ||sahajcare.org^
@@ -81038,6 +81041,7 @@
 ||wtiair.com^
 ||wtpcorp.com^
 ||wts-cartasi-titolari-portale-sicurezza-2017-sdasdssds.dynamic-dns.net^
+||wtsconsultancy.com^
 ||wtxsalva2.me^
 ||wu-coin-wugithub-onewu-amazon2016wu.com^
 ||wu2.hu^
@@ -109845,6 +109849,7 @@
 ||www.iiee.edu.pk^
 ||www.iiefonline.in^
 ||www.iiesinc.com^
+||www.iiestedu.org^
 ||www.iiforgot-appleid.com^
 ||www.iiforgotapple.com^
 ||www.iii.com.na^
@@ -127001,6 +127006,7 @@
 ||www.psicotemas.com^
 ||www.psihologbrasov.ro^
 ||www.psinesfitz.000webhostapp.com^
+||www.pskitsolution.com^
 ||www.pslvale.com^
 ||www.psmnndt.in^
 ||www.psn.gratuitfile.com^
@@ -129867,6 +129873,7 @@
 ||www.saggioart.com^
 ||www.saglikdefteri.com^
 ||www.sagun.com^
+||www.sahaas.com^
 ||www.sahabatbaliholidays.com^
 ||www.sahabatsuksesbersama.com^
 ||www.sahajcare.org^
@@ -142170,6 +142177,7 @@
 ||www.wtahawaii.com^
 ||www.wtc.la^
 ||www.wtiair.com^
+||www.wtsconsultancy.com^
 ||www.wttgjumanji.gq^
 ||www.wu-coin-wugithub-onewu-amazon2016wu.com^
 ||www.wuhanapple.com^
@@ -146814,4 +146822,4 @@
 ||zzypjyywn.fiepiux.maxgrowth.ru^
 ||zzz.nosu.yi.org^
 ||zzzha.com^
-! Hosts: 146798
+! Hosts: 146806
