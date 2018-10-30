@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QxoteTPyChzed1qpx4ifCA
-! Version: 201810291415
+! Checksum: wha/bs0GuB769TKleF8tSg
+! Version: 201810301415
 ! Title: HP Hosts pha list
-! Last modified: 29 Oct 2018 14:15 UTC
+! Last modified: 30 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -970,6 +970,7 @@
 ||bestnewmart.ru^
 ||bestnewmart365.ru^
 ||bestofferx.su^
+||bestoffery.su^
 ||bestofferz.su^
 ||bestonlinehelp.ru^
 ||bestonlinepharmacy365.com^
@@ -1978,6 +1979,9 @@
 ||clubgreatprice.ru^
 ||clubhealthonline.com^
 ||clubkeysale.ru^
+||clubmagict.su^
+||clubmagicu.su^
+||clubmagicv.su^
 ||clubrx24.su^
 ||clubtopshop.ru^
 ||clubwebsale.su^
@@ -3904,6 +3908,9 @@
 ||ltolink.group^
 ||lucitasaba.su^
 ||luckdiscount.ru^
+||luckportalr.su^
+||luckportals.su^
+||luckportalt.su^
 ||luckshop.su^
 ||lucktradep.su^
 ||lucktrader.su^
@@ -4868,6 +4875,7 @@
 ||offerpills.ru^
 ||office.udofun.ru^
 ||official-drugstore.net^
+||officialshop1.ru^
 ||offshorepharmacy.co.in^
 ||ofgoxwd.bestpdirect.su^
 ||ofilialeda.ru^
@@ -5954,6 +5962,8 @@
 ||servicelandc.su^
 ||servicelive.su^
 ||servicemarket.su^
+||serviceshopo.su^
+||serviceshopp.su^
 ||sevenartzpublicidad.com^
 ||severastana.kz^
 ||sexpillsmaster.com^
@@ -6533,6 +6543,9 @@
 ||topmeds.org^
 ||topmedsonline.com^
 ||topmedsonline24h.com^
+||toponlineg.su^
+||toponlineh.su^
+||toponlinej.su^
 ||toporderj.su^
 ||toporderk.su^
 ||toporderl.su^
@@ -6665,6 +6678,9 @@
 ||trusterworkonline.com^
 ||trusterworkshop.com^
 ||trustevent.ru^
+||trusthelpf.su^
+||trusthelpr.su^
+||trusthelpv.su^
 ||trusthitweba.su^
 ||trusthitwebc.su^
 ||trustinfoplus.ru^
@@ -7806,6 +7822,7 @@
 ||www.bestntarget.su^
 ||www.bestofall.ru^
 ||www.bestofferx.su^
+||www.bestoffery.su^
 ||www.bestofferz.su^
 ||www.bestonlinehelp.ru^
 ||www.bestonlinepharmacy365.com^
@@ -8861,6 +8878,9 @@
 ||www.clubfastsale.ru^
 ||www.clubgreatprice.ru^
 ||www.clubkeysale.ru^
+||www.clubmagict.su^
+||www.clubmagicu.su^
+||www.clubmagicv.su^
 ||www.clubpricer.su^
 ||www.clubprices.su^
 ||www.clubpricev.su^
@@ -10638,6 +10658,9 @@
 ||www.ltolink.group^
 ||www.lucitasaba.su^
 ||www.luckdiscount.ru^
+||www.luckportalr.su^
+||www.luckportals.su^
+||www.luckportalt.su^
 ||www.luckshop.su^
 ||www.lucktradep.su^
 ||www.lucktrader.su^
@@ -11551,6 +11574,7 @@
 ||www.officialcanadadrugs.com^
 ||www.officialcanadianpharmacy.com^
 ||www.officialiqquiz.com^
+||www.officialshop1.ru^
 ||www.officinelocati.com^
 ||www.offrack.com^
 ||www.offshore-pharmacies.com^
@@ -12584,6 +12608,8 @@
 ||www.servicelandc.su^
 ||www.servicelive.su^
 ||www.servicemarket.su^
+||www.serviceshopo.su^
+||www.serviceshopp.su^
 ||www.sexpillsmaster.com^
 ||www.sexualitymenshop.com^
 ||www.shanahyacintha.su^
@@ -13111,6 +13137,9 @@
 ||www.topmeds.org^
 ||www.topmedsonline.com^
 ||www.topmedsonline24h.com^
+||www.toponlineg.su^
+||www.toponlineh.su^
+||www.toponlinej.su^
 ||www.toporderj.su^
 ||www.toporderk.su^
 ||www.toporderl.su^
@@ -13231,6 +13260,9 @@
 ||www.trustedtabsmed.com^
 ||www.trustedtabsrx.net^
 ||www.trustevent.ru^
+||www.trusthelpf.su^
+||www.trusthelpr.su^
+||www.trusthelpv.su^
 ||www.trusthitweba.su^
 ||www.trusthitwebc.su^
 ||www.trustinfoplus.ru^
@@ -14447,4 +14479,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14425
+! Hosts: 14457

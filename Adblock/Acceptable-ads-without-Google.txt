@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QlKdoeTV7dbePXLxSIADRg
-! Version: 201810291415
+! Checksum: 9gmo5aUAQahbGe4Y2HVp/A
+! Version: 201810301415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 29 Oct 2018 14:15 UTC
+! Last modified: 30 Oct 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4233,7 +4233,7 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 ! Global whitelists for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup
 ! Prerequisite for whitelisting ads on AMP pages
-@@||cdn.ampproject.org^*/amp-ad-*.js$script,domain=~spiegel.de
+@@||cdn.ampproject.org^*/amp-ad-*.js$script
 ! Combined element hinding whitelists for sites using AFC ads
 ! Combined whitelists for sites using AFC ads
 ! Combined whitelists for sites using AFS ads
