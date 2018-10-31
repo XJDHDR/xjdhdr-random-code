@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wha/bs0GuB769TKleF8tSg
-! Version: 201810301415
+! Checksum: 3bjO1XxG2YkOr/Egnmuqyw
+! Version: 201810311415
 ! Title: HP Hosts pha list
-! Last modified: 30 Oct 2018 14:15 UTC
+! Last modified: 31 Oct 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2184,6 +2184,7 @@
 ||diabetesandbloodsugar.org^
 ||diariosdefutbol.com^
 ||diary.ru^
+||dietline4healths.world^
 ||dietlines-health.world^
 ||dietlines4health.world^
 ||dietnfit.com^
@@ -3215,6 +3216,8 @@
 ||hithousej.su^
 ||hithousem.su^
 ||hithouseu.su^
+||hitmarkete.su^
+||hitmarketw.su^
 ||hixf.newdrugsale.link^
 ||hk936.com^
 ||hkiuxiqhnoa.stockmarketa.su^
@@ -7133,6 +7136,7 @@
 ||wdbyyi.winlifer.su^
 ||wdhsxte.forumcircle.com^
 ||webcomelook.ru^
+||webforumh.su^
 ||webgenericpharmacyonline.com^
 ||webgeoclub.ru^
 ||webgiveall.ru^
@@ -9066,6 +9070,7 @@
 ||www.dhysocehyt.aimclubv.su^
 ||www.diariosdefutbol.com^
 ||www.diary.ru^
+||www.dietline4healths.world^
 ||www.dietlines-health.world^
 ||www.dietlines4health.world^
 ||www.dietnfit.com^
@@ -10051,6 +10056,8 @@
 ||www.hithousej.su^
 ||www.hithousem.su^
 ||www.hithouseu.su^
+||www.hitmarkete.su^
+||www.hitmarketw.su^
 ||www.hixf.newdrugsale.link^
 ||www.hk936.com^
 ||www.hkiuxiqhnoa.stockmarketa.su^
@@ -14233,6 +14240,7 @@
 ||www.zhipsfht.thepharmacymart.ru^
 ||www.zi.superwink.su^
 ||www.ziagen-patient-assistance-nn.soup.io^
+||www.ziekirwe.hitmarketr.su^
 ||www.ziizijy.aimclubv.su^
 ||www.zip2phone.com^
 ||www.zippery.com^
@@ -14451,6 +14459,7 @@
 ||zhgilbamf.luckyhousee.su^
 ||zhipsfht.thepharmacymart.ru^
 ||zi.superwink.su^
+||ziekirwe.hitmarketr.su^
 ||ziizijy.aimclubv.su^
 ||zithromax247.com^
 ||zithromaxonline.name^
@@ -14479,4 +14488,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14457
+! Hosts: 14466
