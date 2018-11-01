@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SsKngzycqYGq9OjFCrRr3Q
-! Version: 201810311415
+! Checksum: osaOTo9aS2pj/78xmkqh6Q
+! Version: 201811011415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 31 Oct 2018 14:15 UTC
+! Last modified: 01 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -112,23 +112,6 @@ ehow.com.br#@#.inlinead
 @@||ehowenespanol.com/frames/directas_336.html?$subdocument,document
 ehow.com#@#.zergnet-widget
 @@||zergnet.com^$domain=ehow.com
-! suche.golem.de#@##wide_ad_unit2
-! suche.golem.de#@##narrow_ad_unit
-! suche.golem.de#@##wide_ad_unit
-! suche.golem.de#@#.wide_ads
-! @@||golem.de/_js/rl_art_afc1.js
-! www.golem.de#@#.iqadlinebottom
-! golem.de content ads (https://adblockplus.org/forum/viewtopic.php?p=151666#p151666)
-! www.golem.de#@#.iqadmarker
-! www.golem.de#@##iqadtile4
-! www.golem.de#@##iqadtile4gol
-! www.golem.de#@##iqadtile9
-! www.golem.de#@##iqadtile1
-! www.golem.de#@##superbanner
-! forum.golem.de#@#.iqadmarker
-! forum.golem.de#@##iqadtile9
-! forum.golem.de#@##superbanner
-! forum.golem.de#@##iqadtile1
 ! chip.de search ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=12073)
 @@||suche.chip.de/cxo_adtech/js/cxo_adtech-*-min.js
 suche.chip.de#@##sponsored_link_bottom
@@ -459,37 +442,6 @@ homework.net.ua#@##reklama
 ! ||a.intentmedia.net/images/abp_pixel/px.gif?ch=2$domain=orbitz.com|cheaptickets.com|hotwire.com
 ! @@||a.intentmedia.net/images/abp_pixel/px.gif?ch=1$domain=orbitz.com|cheaptickets.com|hotwire.com
 ! ||a.intentmedia.net/exit_unit.html?$popup,domain=cheaptickets.com|hotwire.com
-! Cracked.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=19961)
-@@||3lift.com^$domain=cracked.com
-@@||3lift.com^$subdocument,domain=cracked.com,document
-@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=cracked.com
-@@||adnxs.com/mob?inv_code=cracked_main_feed^$script,domain=cracked.com
-cracked.com#@#a[href^="http://bs.serving-sys.com/"]
-@@||bttrack.com^$domain=cracked.com
-@@||api.bidtellect.com^$domain=cracked.com
-@@||adnxs.com^*^inv_code=cracked_$script,domain=cracked.com
-@@||amazon-adsystem.com/aax2/apstag.js$domain=cracked.com
-@@||zergnet.com^$image,script,domain=cracked.com
-cracked.com#@##boxes-box-zergnet_module
-cracked.com#@##zergnet
-cracked.com#@##zergnet-widget
-cracked.com#@##zergnet-wrapper
-cracked.com#@#.module-zerg
-cracked.com#@#.widget-ami-zergnet
-cracked.com#@#.widget_ok_zergnet_widget
-cracked.com#@#.zergnet
-cracked.com#@#.zergnet-widget-container
-cracked.com#@#.zergnetBLock
-cracked.com#@#.zergnetpower
-cracked.com#@#div[id^="zergnet-widget-"]
-cracked.com#@#a[href^="http://www.zergnet.com/i/"]
-cracked.com#@#div[id^="zergnet-widget"]
-@@||sharethrough.com^$subdocument,domain=cracked.com,document
-@@||sharethrough.com^$domain=cracked.com
-@@||moatads.com/sharethroughv*/moatad.js?$script,domain=cracked.com
-@@||moatads.com/pixel.gif?*^i=SHARETHROUGHV21^$domain=cracked.com
-@@||adsnative.com^$script,domain=cracked.com,image
-@@||visiblemeasures.com/adsnativeidswap$image,domain=cracked.com
 ! Chip.de ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=20336)
 @@||ad.yieldlab.net/yp/*?ts=*&json=$xmlhttprequest,domain=chip.de
 @@||bf-ad.net/pubjs/chip/container.js$domain=chip.de
@@ -2436,6 +2388,7 @@ developpez.net,developpez.com#@##banner600
 developpez.net#@#.ad_global_header
 ! Ads by Carbon (https://adblockplus.org/forum/viewtopic.php?f=12&t=42309)
 @@||carbonads.com/carbon.js
+@@||buysellads.com/ac/bsa.js
 @@||srv.buysellads.com/ads/$script
 @@||srv.carbonads.net/ads/$script
 @@||cdn*.buysellads.net/uu/$image,third-party
@@ -2448,7 +2401,8 @@ developpez.net#@#.ad_global_header
 @@||fallbacks.carbonads.com^
 @@||jsfiddle.net/ads/*&callback=_carbonads_go$script,domain=jsfiddle.net
 @@||m.servedby-buysellads.com/monetization.js
-alistapart.com,svgrepo.com#@#a[href^="//srv.buysellads.com/"]
+#@#a[href^="//srv.buysellads.com/"]
+base64-image.de#@#.native-ad
 dribbble.com#@#.ad
 iconfinder.com#@#.carbon_ads
 ! free-blog.net ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=40953)
@@ -3869,9 +3823,28 @@ freemmogamer.com##IFRAME[src^="//server.cpmstar.com/"]
 nicoblog.org,cdromance.com#@#.td-header-ad-wrap
 nicoblog.org#@#.td-a-rec-id-custom_ad_1
 ! iponweb ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=54920)
-! @@||s.pubmine.com/head.js
-! @@||s.pubmine.com/hbconf
-! ||s.pubmine.com^
+wordpress.com#@#.wpa
+wordpress.com#@#.wpmrec
+wordpress.com#@##adimg
+wordpress.com#@#.wpwidesky
+@@||s.pubmine.com/head.js$domain=wordpress.com
+@@||s.pubmine.com/adj/$domain=wordpress.com
+@@||s.pubmine.com/jslog?$domain=wordpress.com
+@@||s.pubmine.com/outstream.js$domain=wordpress.com
+@@||s.pubmine.com/push_sync?$domain=wordpress.com
+@@||s.pubmine.com/wl_pixel/$domain=wordpress.com
+@@||s.pubmine.com/match?$domain=wordpress.com
+@@||s.pubmine.com/hbconf?$domain=wordpress.com
+@@||s.pubmine.com/hbstat$domain=wordpress.com
+@@||s.pubmine.com/passback/$domain=wordpress.com
+@@||s.pubmine.com/userfeedback$domain=wordpress.com
+@@||s.pubmine.com/passback.html$subdocument,document,domain=wordpress.com
+@@||s.pubmine.com/sandbox.html$subdocument,document,domain=wordpress.com
+@@||s.pubmine.com/imp_pixel$domain=wordpress.com
+@@||s.pubmine.com/hba$domain=wordpress.com
+@@||s.pubmine.com/adv?$xmlhttprequest,domain=wordpress.com
+@@||pubpress.net/houseads/$domain=wordpress.com
+||s.pubmine.com/pixel?id=15&type=img$domain=wordpress.com
 ! guardengine.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=54922)
 @@||guardengine.com/search/$elemhide
 @@||guardengine.com^*/search/$elemhide
@@ -4228,7 +4201,7 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 @@||clickserve.dartsearch.net/link/click?$popup
 ! Prerequisite for whitelisting ads on AMP pages
 @@||cdn.ampproject.org^*/amp-ad-*.js$script
-! Combined element hinding whitelists for sites using AFC ads
+! Combined element hiding whitelists for sites using AFC ads
 ! Combined whitelists for sites using AFC ads
 ! Combined whitelists for sites using AFS ads
 ! Combined rules for sites using detection
