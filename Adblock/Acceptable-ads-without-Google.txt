@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: osaOTo9aS2pj/78xmkqh6Q
-! Version: 201811011415
+! Checksum: DHNpKQkM7v2iFDJEho7XQQ
+! Version: 201811021415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 01 Nov 2018 14:15 UTC
+! Last modified: 02 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1136,6 +1136,7 @@ spox.com#@#[data-feed-main-container-id="taboola-below-article-thumbnails"]
 metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Below Main Column Thumbnails"]
 metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Right Rail Thumbnails"]
 nezzsorozatokat.info#@##taboola-ad
+ajc.com#@#.story-ad-container
 ! pexels.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=25874)
 @@||carbonads.com^$script,domain=pexels.com
 @@||carbonads.net^$domain=pexels.com
@@ -3271,6 +3272,7 @@ ket-noi.com#@#.Ad-label
 @@||musicktab.com^$elemhide
 @@||myweathertab.com^$elemhide
 @@||handy-tab.com^$elemhide
+@@||gexsi.com/search/$elemhide
 ! bookinist.com.ua ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=50685)
 ! allremont59.ru ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=50741)
 @@||an.yandex.ru/system/context.js$domain=allremont59.ru
@@ -3506,9 +3508,10 @@ realgm.com#@#.leaderboard-ad-container
 gamepedia.com#@##siderail
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
-directexpose.com,history101.com,tiebreaker.com#@#.ad_placeholder
+directexpose.com,history101.com,tiebreaker.com,icepop.com#@#.ad_placeholder
 famousbirthdays.com#@#.adspot
 famousbirthdays.com#@#.adspot1
+themezy.com#@#.adunit
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -3661,7 +3664,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||lemde.fr/*ligatus.js$script,domain=lemonde.fr
 @@||a-ssl.ligatus.com^$third-party,domain=as.com
 @@/publicidad.$~object-subrequest,~stylesheet,domain=canalsur.es
-@@||adserver.adtech.de/adlink/$popup,domain=money.it
+@@||adserver.adtech.de$popup,domain=money.it|supereva.it
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad
@@ -3701,6 +3704,7 @@ nouvelobs.com#@#.ObsBox-Ligatus
 1erforum.de,mercedes-forum.com,dasheimwerkerforum.de#@##Rectangle
 skodacommunity.de#@#.section.funbox
 femmeactuelle.fr#@#div[data-ligatus-container]
+supereva.it#@#.se-ligatus
 ! Content recommendations
 @@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 @@||updater.hyde.ligatus.com/js^$script,domain=lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
@@ -3917,9 +3921,9 @@ wnd.com#@#.left_prom_160
 yad2.co.il#@#div[id^="dfp-slot-"]
 yad2.co.il#@#[id$="bottom_banner"]
 heraldweekly.com#@#.single-ad
-mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#.advads_widget
-mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#.advads-widget
-mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com#@#div[id^="advads_"]
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com,financenancy.com,refinancegold.com,cashroadster.com,tummytuckhippo.com,loanpride.com,healthygeorge.com,tradingblvd.com,therapyjoker.com,investmentguru.com,directhealthy.com#@#.advads_widget
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com,financenancy.com,refinancegold.com,cashroadster.com,tummytuckhippo.com,loanpride.com,healthygeorge.com,tradingblvd.com,therapyjoker.com,investmentguru.com,directhealthy.com#@#.advads-widget
+mortgageafterlife.com,cashroadster.com,loanpride.com,misspennystocks.com,investmentguru.com,medicalmatters.com,financeblvd.com,militarybud.com,psychicmonday.com,weightlossgroove.com,financenancy.com,refinancegold.com,cashroadster.com,tummytuckhippo.com,loanpride.com,healthygeorge.com,tradingblvd.com,therapyjoker.com,investmentguru.com,directhealthy.com#@#div[id^="advads_"]
 wnd.com#@#.top-ad-container
 mako.co.il#@#.ad
 mako.co.il#@#.feed-ad
