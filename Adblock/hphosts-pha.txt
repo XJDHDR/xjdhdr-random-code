@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KW6kYHMoWHw7HvDAQEJzTA
-! Version: 201811041415
+! Checksum: ns/n1hsVpr64Vp/uue+tew
+! Version: 201811051415
 ! Title: HP Hosts pha list
-! Last modified: 04 Nov 2018 14:15 UTC
+! Last modified: 05 Nov 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -848,6 +848,7 @@
 ||avapro.gq^
 ||avipharmacy.com^
 ||avipharmacy.net^
+||aviryyizu.yoursupplyk.su^
 ||avivahkimbra.su^
 ||avodartaustralia.com^
 ||avtonomnoeteplo.ru^
@@ -4503,6 +4504,7 @@
 ||myhotprice.su^
 ||myhousemarket.su^
 ||myluckyweb.ru^
+||mymagicshop.su^
 ||mymaillock.com^
 ||mymedicareoutlet.ru^
 ||mymedicaresolution.com^
@@ -14519,4 +14521,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14497
+! Hosts: 14499
