@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i6eo8Fn7Zz93AeRzzqp+Cw
-! Version: 201811051415
+! Checksum: p1YphmYciMU3j2FE7FznKw
+! Version: 201811061415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 05 Nov 2018 14:15 UTC
+! Last modified: 06 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1224,9 +1224,6 @@ guterhut.de#@#.img_ad
 @@#/nativendo/aid/*/cid/$elemhide
 @@||nativendo.de^$third-party
 @@||nativeads.de^$third-party
-! filedir.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=28108)
-filedir.com#@#.abox300
-filedir.com#@#.atit
 ! wallpaperme.de ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=28113)
 wallpaperme.de#@#.werbung
 ! ufsin.com ads (https://adblockplus.org/forum/viewtopic.php?f=12&t=28115)
@@ -3149,6 +3146,7 @@ bbc.com#@#.bbccom_advert
 @@/px.gif?ch=1&rn=$domain=habr.com|geektimes.com|toster.ru
 @@||an.yandex.ru/system/context.js$domain=habr.com|geektimes.com|toster.ru
 @@||an.yandex.ru/resource/context_static_r*.js$domain=habr.com|geektimes.com|toster.ru
+@@||an.yandex.ru/meta/$xmlhttprequest,domain=habr.com|geektimes.com|toster.ru
 @@||yandex.net/get-direct/$image,domain=habr.com|geektimes.com|toster.ru
 @@||an.yandex.ru/partner-code-bundles/$script,domain=habr.com|geektimes.com|toster.ru
 @@||an.yandex.ru^*^callback^$script,domain=habr.com|geektimes.com|toster.ru

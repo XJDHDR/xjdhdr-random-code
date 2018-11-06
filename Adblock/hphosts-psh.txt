@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8sIQyWLNATbvdlV3gAfvvQ
-! Version: 201811051415
+! Checksum: /f3fBxXyZIX55h0bW97h1w
+! Version: 201811061415
 ! Title: HP Hosts psh list
-! Last modified: 05 Nov 2018 14:15 UTC
+! Last modified: 06 Nov 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -36748,7 +36748,6 @@
 ||iglesiaelencuentro.cl^
 ||iglfitness.com^
 ||igmaran.pl^
-||ignacio.com.py^
 ||ignite-tricities.com^
 ||ignite.me^
 ||ignite.qpujpkws.in^
@@ -110999,7 +110998,6 @@
 ||www.iglesiaelencuentro.cl^
 ||www.iglfitness.com^
 ||www.igmaran.pl^
-||www.ignacio.com.py^
 ||www.ignite.me^
 ||www.ignive.com^
 ||www.ignorable-pieces.000webhostapp.com^
@@ -148381,4 +148379,4 @@
 ||zzypjyywn.fiepiux.maxgrowth.ru^
 ||zzz.nosu.yi.org^
 ||zzzha.com^
-! Hosts: 148365
+! Hosts: 148363
