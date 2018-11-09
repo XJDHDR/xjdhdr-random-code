@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9v3+NCtKKZBgWRem96zWeA
-! Version: 201811081415
+! Checksum: p1D6sWIeUC4aclG9twrL/w
+! Version: 201811091415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 08 Nov 2018 14:15 UTC
+! Last modified: 09 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6614,6 +6614,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||a-ssl.ligatus.com^$third-party,domain=as.com
 @@/publicidad.$~object-subrequest,~stylesheet,domain=canalsur.es
 @@||adserver.adtech.de$popup,domain=money.it|supereva.it
+@@||ads.leadcapitalcrp.com/*click$popup,domain=punto-informatico.it
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad
@@ -7464,6 +7465,21 @@ firstpost.com#@#.ad-300x250
 firstpost.com#@#.ad728x90
 firstpost.com#@#.ad-section
 firstpost.com#@#div[id^="div-gpt-ad"]
+sporcle.com#@##div-gpt-atf-bnr
+sporcle.com#@##div-gpt-atf-box
+sporcle.com#@##div-gpt-btf-box
+sporcle.com#@##div-gpt-flex-btf
+sporcle.com#@##div-gpt-middle-ad
+sporcle.com#@##div-gpt-btf2-box
+sporcle.com#@#.ad-square
+sporcle.com#@#.adsbox
+sporcle.com#@#.adtop
+sporcle.com#@##atf-300x600
+sporcle.com#@#.display-wide
+sporcle.com#@#.pubnation
+sporcle.com#@#iframe[width="300"]
+sporcle.com#@#iframe[width="728"]
+sporcle.com#@#.pub_300x250
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
