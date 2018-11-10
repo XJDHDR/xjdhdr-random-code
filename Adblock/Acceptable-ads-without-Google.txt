@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p1D6sWIeUC4aclG9twrL/w
-! Version: 201811091415
+! Checksum: vogTeOPMI8xw3hebVPqyKg
+! Version: 201811101415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 09 Nov 2018 14:15 UTC
+! Last modified: 10 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3725,18 +3725,19 @@ developpez.net#@#.ad_global_header
 ! Ads by Carbon
 @@||carbonads.com/carbon.js
 @@||buysellads.com/ac/bsa.js
-@@||srv.buysellads.com/ads/$script
-@@||srv.carbonads.net/ads/$script
+@@||srv.buysellads.com/ads/$script,xmlhttprequest
+@@||srv.carbonads.net/ads/$script,xmlhttprequest
 @@||cdn*.buysellads.net/uu/$image,third-party
 @@||fusionads.net/fusion.js
 @@||adn.fusionads.net/launchbit/$script
 @@||launchbit.com/carbon-i/$image
 @@||launchbit.com/carbon-pixel/$image
-@@||convertro.com/view/*.gif?*^utm_source=carbon^$image
+@@||convertro.com^*carbon$image
 @@||servedby-buysellads.com/p/manage/asset/id/$image
 @@||fallbacks.carbonads.com^
 @@||jsfiddle.net/ads/*&callback=_carbonads_go$script,domain=jsfiddle.net
 @@||m.servedby-buysellads.com/monetization.js
+codewars.com#@##carbonads-container
 @@||bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=23383096^$image
 @@||bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=23383233^$image
 @@||bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=23383234^$image
@@ -3827,13 +3828,7 @@ developpez.net#@#.ad_global_header
 @@||bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=26087410^$image
 @@||bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=26087412^$image
 @@||bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=26087414^$image
-@@||luno.go2cloud.org/aff_c?offer_id=9&aff_id=1008&source=bitcoin.com_cryptobar&aff_sub=bitcoin.com
-@@||luno.go2cloud.org/aff_c?offer_id=9&aff_id=1008&source=bitcoin.com_native&aff_sub=bitcoin.com
-@@||luno.go2cloud.org/aff_i?offer_id=6&aff_id=1008&source=cryptobar&aff_sub=cryptobar
-@@||luno.go2cloud.org/aff_i?offer_id=9&aff_id=1&source=bitcoin.com_banners&aff_sub=bitcoin.com
-@@||luno.go2cloud.org/aff_i?offer_id=9&aff_id=1&source=bitcoin.com_cryptobar&aff_sub=bitcoin.com
-@@||luno.go2cloud.org/aff_i?offer_id=9&aff_id=1008&source=bitcoin.com_cryptobar&aff_sub=bitcoin.com
-@@||luno.go2cloud.org/aff_i?offer_id=9&aff_id=1008&source=bitcoin.com_native&aff_sub=bitcoin.com
+@@||luno.go2cloud.org/aff_c?offer_id=*bitcoin.com$image
 @@||pixel.adsafeprotected.com/rfw/st/113732/18942068/skeleton.gif$image
 @@||pixel.adsafeprotected.com/rfw/st/113735/18920524/skeleton.gif$image
 @@||pixel.adsafeprotected.com/rfw/st/113740/18940343/skeleton.gif$image
@@ -3914,39 +3909,37 @@ developpez.net#@#.ad_global_header
 @@||pixel.adsafeprotected.com/rfw/st/163180/26884445/skeleton.gif$image
 @@||pixel.adsafeprotected.com/rfw/st/163180/26884449/skeleton.gif$image
 @@||pixel.sitescout.com/iap/4b2d96f92ecf9924$image
-@@||convertro.com/view/*.gif?cvosrc=general%20promotion.fancybar.design&utm_source=fancybar&utm_medium=general%20promotion&utm_campaign=pink%20design
-@@||convertro.com/view/*.gif?cvosrc=general%20promotion.fancybar.dev&utm_source=fancybar&utm_medium=general%20promotion&utm_campaign=pink%20dev
-@@||convertro.com/view/*.gif?cvosrc=general%20promotion.fancybar.japan&cvo_creative=productivity&utm_source=fancybar&utm_medium=newsletter&utm_content=productivity
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=101696031&pi=221624386&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=101714935&pi=221624380&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=104131369&pi=225853124&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=104131369&pi=225930415&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=104131369&pi=227911945&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97467304&pi=211846151&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97467304&pi=227811341&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97583477&pi=211846160&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97583477&pi=227815142&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99616360&pi=217836263&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99616360&pi=227911942&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99635106&pi=217836263&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99635106&pi=228090753&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99768838&pi=218232219&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99770113&pi=218094266&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99770113&pi=227809331&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=104131369&pi=227911945&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=97467304&pi=227811341&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=97583477&pi=227815142&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=99616360&pi=227911942&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=99635106&pi=228090753&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
-@@||myvisualiq.net/impression_pixel?r=[CACHEBUSTER]&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=99770113&pi=227809331&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||convertro.com^*fancybar$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=101696031&pi=221624386&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=101714935&pi=221624380&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=104131369&pi=225853124&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=104131369&pi=225930415&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=104131369&pi=227911945&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97467304&pi=211846151&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97467304&pi=227811341&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97583477&pi=211846160&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=97583477&pi=227815142&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99616360&pi=217836263&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99616360&pi=227911942&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99635106&pi=217836263&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99635106&pi=228090753&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99768838&pi=218232219&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99770113&pi=218094266&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719&si=4204723&ci=99770113&pi=227809331&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=104131369&pi=227911945&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=97467304&pi=227811341&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=97583477&pi=227815142&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=99616360&pi=227911942&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=99635106&pi=228090753&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
+@@||myvisualiq.net/impression_pixel?r=*&et=i&ago=212&ao=835&aca=20576719+&si=4204723&ci=99770113&pi=227809331&ad=-7&advt=-7&chnl=-7&vndr=1471&sz=5939&u=-7&pt=i$image
 @@||tapad.com/tapestry/1?ta_partner_id=950&ta_redirect=https%3A%2F%2Ft.myvisualiq.net%2Fsync%3Fprid%3D1001%26ao%3D0%26pruuid%3DTAPAD_%24%7BIDS%3Akey%7D$image
 @@||tapad.com/tapestry/1?ta_partner_id=950&ta_redirect=https://t.myvisualiq.net/sync?prid%3D1001%26ao%3D0%26pruuid%3DTAPAD_${IDS:key}$image
 @@||analytics.twitter.com/i/adsct?txn_id=nzxhp&p_id=Twitter^$image
-@@||singular.net/api/v1/imp?st=566252527131&h=4f0c8cdc98dad3b75b7df13606cc05bee121a051
-@@||impus.tradedoubler.com/imp?type(img)g(22978020)a(2947467)
-@@||jsecoin.com/pixels.php?rt=buysellads
-@@||facebook.com/tr?id=500910373434901&ev=PageView&noscript=1
-@@||ad.atdmt.com/i/img;*;s.a=Carbon;$image
+@@||singular.net/api/v1/imp?st=566252527131&h=4f0c8cdc98dad3b75b7df13606cc05bee121a051$image
+@@||impus.tradedoubler.com/imp?type(img)g(22978020)a(2947467)$image
+@@||jsecoin.com/pixels.php?rt=buysellads$image
+@@||facebook.com/tr?id=500910373434901&ev=PageView&noscript=1$image
+@@||ad.atdmt.com/i/*carbon$image
 #@#a[href^="//srv.buysellads.com/"]
 base64-image.de#@#.native-ad
 dribbble.com#@#.ad
