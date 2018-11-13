@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rbtDwQVmppF4cFcxNUyD6g
-! Version: 201811121415
+! Checksum: rhJ8LaGHHLqmuIa/YZQH+A
+! Version: 201811131415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 12 Nov 2018 14:15 UTC
+! Last modified: 13 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7478,6 +7478,10 @@ sporcle.com#@#.pub_300x250
 wowhead.com#@##ad-horizontal
 wowhead.com#@##ad-vertical
 wowhead.com#@##ad-horizontalBTF
+toocool2betrue.com#@##RTK_ATbH
+toocool2betrue.com#@##RTK_XKKV
+toocool2betrue.com#@##RTK_5T1k
+toocool2betrue.com#@##RTK_KEcG
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
