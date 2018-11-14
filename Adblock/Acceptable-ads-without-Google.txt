@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rhJ8LaGHHLqmuIa/YZQH+A
-! Version: 201811131415
+! Checksum: 7t15qo+fF5EAF61crIYjoA
+! Version: 201811141415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 13 Nov 2018 14:15 UTC
+! Last modified: 14 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5206,19 +5206,6 @@ goldencurrents.com#@#.adWrap
 @@||adv.presscommtech.com/www/delivery/spc.php?zones=577%7C578%7C579%7C580%7C1019%7C1126%7C1139%7C1496%7C1513&$script,domain=riviera24.it
 ||static.presscommtech.com/mediastoke/$image,domain=riviera24.it
 riviera24.it##.skinLink
-!:partner_token=ComboTag Technologies Ltd
-!:partner_id=4f629706a4f78403
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45876
-! ComboTag ads
-@@||p.acceptableserver.com/px.gif?ch=1$domain=p.acceptableserver.com
-||p.acceptableserver.com/px.gif?ch=2$domain=p.acceptableserver.com
-@@||serve.acceptableserver.com/show_lay$script
-@@||banners.acceptableserver.com/banners$document,subdocument
-@@||p.acceptableserver.com/loader$subdocument
-@@||pixel.acceptableserver.com/
-@@||feedback.acceptableserver.com/
-@@||resources.acceptableserver.com/
 !:partner_token=chelsea-balkan.com
 !:partner_id=a9bc5db0d4ace2c2
 !:type=partner
@@ -6358,6 +6345,7 @@ directexpose.com,history101.com,tiebreaker.com,icepop.com#@#.ad_placeholder
 famousbirthdays.com#@#.adspot
 famousbirthdays.com#@#.adspot1
 themezy.com#@#.adunit
+chess24.com#@#.banner160x600
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
