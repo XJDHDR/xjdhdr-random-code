@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7t15qo+fF5EAF61crIYjoA
-! Version: 201811141415
+! Checksum: mwwfwIjyC7Q5KU5J8/qVbA
+! Version: 201811151415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 14 Nov 2018 14:15 UTC
+! Last modified: 15 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1254,6 +1254,7 @@ techadvisor.fr,techadvisor.co.uk,digitalartsonline.co.uk,computerworlduk.com,tec
 @@||ui-portal.de/c/ads/adservice/adservice-2-connector-current.js$script,domain=gmx.net|web.de
 @@||adition.com/*boxoutbrain$script,domain=gmx.net|web.de
 @@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
+@@||*logo_mediamond_m.gif$image,domain=meteo.it|sportmediaset.mediaset.it
 widgets.outbrain.com##.Ads_4
 widgets.outbrain.com##.AD_area
 widgets.outbrain.com##.AdsRec
@@ -7141,6 +7142,13 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 ! cheatsheet.com ads
 @@||inspsearchapi.com^$domain=cheatsheet.com
 @@||cheatsheet.com/search$elemhide
+!:partner_token=filezilla
+!:partner_id=828dc1abec78f00e
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60704
+! filezilla-project.org ads
+@@||ads.filezilla-project.org/images/$domain=filezilla-project.org
+filezilla-project.org#@#.TopAd
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
