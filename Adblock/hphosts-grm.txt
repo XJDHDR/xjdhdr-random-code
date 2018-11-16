@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TnlPlVfM/8ZSOzioxtGeFA
-! Version: 201811151415
+! Checksum: RN6/08e9sC82oxwcrFow3A
+! Version: 201811161415
 ! Title: HP Hosts grm list
-! Last modified: 15 Nov 2018 14:15 UTC
+! Last modified: 16 Nov 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -40,7 +40,6 @@
 ||affiliate-payment.com^
 ||affiliatestartmechanic.com^
 ||agreatertown.com^
-||alariarxreview.org^
 ||ali-ina.com^
 ||all4chats.com^
 ||allhomes.ru^
@@ -132,7 +131,6 @@
 ||heathergate.co.uk^
 ||homecold.ru^
 ||hororyashki.ru^
-||howtoremove.guide^
 ||howtouninstallamalware.com^
 ||ididl.com^
 ||ilizium.com^
@@ -163,6 +161,7 @@
 ||luckies.co.uk^
 ||magnetlead.ie^
 ||mail-qe.org^
+||mailing.internoc24.com^
 ||maisoljostions.tumblr.com^
 ||makeupschoollondon.co.uk^
 ||mallfordress.com^
@@ -226,7 +225,6 @@
 ||replyme.pw^
 ||respector.by^
 ||ruplans.ru^
-||salesfish.com^
 ||sanuk.com^
 ||satkhira24.com^
 ||satside.com^
@@ -397,7 +395,6 @@
 ||www.hamdantouristik.com^
 ||www.heathergate.co.uk^
 ||www.homecold.ru^
-||www.howtoremove.guide^
 ||www.howtouninstallamalware.com^
 ||www.ididl.com^
 ||www.ilizium.com^
@@ -549,4 +546,4 @@
 ||youzend.net^
 ||zaimer.kz^
 ||zaymer.ru^
-! Hosts: 527
+! Hosts: 524
