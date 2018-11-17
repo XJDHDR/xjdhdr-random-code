@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v7/wOKGLz2wBWDhM3ukH7A
-! Version: 201811161415
+! Checksum: Yo06zxTpzdQr5yJvhcst2w
+! Version: 201811171415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 16 Nov 2018 14:15 UTC
+! Last modified: 17 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7478,6 +7478,7 @@ toocool2betrue.com#@##RTK_ATbH
 toocool2betrue.com#@##RTK_XKKV
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_KEcG
+moneycontrol.com#@#.promoBanner
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
