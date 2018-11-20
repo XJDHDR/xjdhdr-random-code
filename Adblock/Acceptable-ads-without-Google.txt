@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bLi+y7KzqEqR6o39yaITpQ
-! Version: 201811191415
+! Checksum: K1jqARa4+rnPVNBJEr+j/A
+! Version: 201811201415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 19 Nov 2018 14:15 UTC
+! Last modified: 20 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6347,6 +6347,9 @@ famousbirthdays.com#@#.adspot
 famousbirthdays.com#@#.adspot1
 themezy.com#@#.adunit
 chess24.com#@#.banner160x600
+clubroadster.net#@#.ad-card
+clubroadster.net#@#.bottom-ad
+clubroadster.net#@#.in-content-ad
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -7149,6 +7152,12 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 ! filezilla-project.org ads
 @@||ads.filezilla-project.org/images/$domain=filezilla-project.org
 filezilla-project.org#@#.TopAd
+!:partner_token=gamesflow.com
+!:partner_id=0055d2dc1912df76
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60707
+! gamesflow.com ads
+gamesflow.com#@#.iconads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7427,11 +7436,11 @@ forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 netzwelt.de#@##leaderboard-wrapper
 netzwelt.de#@##skyscraper-wrapper
-netzwelt.de###rectangle_sidebar
-netzwelt.de###leaderboard
-netzwelt.de###Left1
-netzwelt.de###skyscraper
-netzwelt.de###Left2
+netzwelt.de#@##rectangle_sidebar
+netzwelt.de#@##leaderboard
+netzwelt.de#@##Left1
+netzwelt.de#@##skyscraper
+netzwelt.de#@##Left2
 ebaumsworld.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
