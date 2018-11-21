@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K1jqARa4+rnPVNBJEr+j/A
-! Version: 201811201415
+! Checksum: THKob+ku+7K45t4LM8lGcw
+! Version: 201811211415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 20 Nov 2018 14:15 UTC
+! Last modified: 21 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5718,6 +5718,7 @@ troyhunt.com#@#.message_of_support
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=49880
 ! jeuxclic.com ads
+jeuxclic.com#@#.iconads
 !:partner_token=ankitupadhyay.com
 !:partner_id=c614f97c6afa0856
 !:type=partner
