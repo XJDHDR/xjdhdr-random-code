@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7QtVB40R/3J3jTyf8FvZDA
-! Version: 201811231415
+! Checksum: zU8t9ajLwCp/8j2ZZ+H3NA
+! Version: 201811241415
 ! Title: HP Hosts pup list
-! Last modified: 23 Nov 2018 14:15 UTC
+! Last modified: 24 Nov 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -10447,6 +10447,7 @@
 ||techglobal-ltd.co.uk^
 ||technologiebeloeil.com^
 ||technologiemounac.com^
+||technologietazo.com^
 ||techpcutils.com^
 ||techtipsforpc.com^
 ||techypctools.com^
@@ -22999,6 +23000,7 @@
 ||www.techglobal-ltd.co.uk^
 ||www.technologiebeloeil.com^
 ||www.technologiemounac.com^
+||www.technologietazo.com^
 ||www.techpcutils.com^
 ||www.techtipsforpc.com^
 ||www.techypctools.co^
@@ -27618,4 +27620,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 27597
+! Hosts: 27599
