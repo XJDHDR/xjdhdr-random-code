@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 23W6dDSByGrAQaem2j7UMA
-! Version: 201811261415
+! Checksum: meQyYw9cCmgn1AnEpzaYGQ
+! Version: 201811271415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 26 Nov 2018 14:15 UTC
+! Last modified: 27 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2544,18 +2544,6 @@ nzz.at#@#.ad-content
 ! justegeek.fr ads
 @@||rcm-*.amazon-adsystem.com^$subdocument,domain=justegeek.fr,document
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=justegeek.fr,document
-!:partner_token=community.spiceworks.com
-!:partner_id=b211696bf92a606c
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=37538
-! community.spiceworks.com ads
-||gekko.spiceworks.com/px.js?ch=2
-@@||gekko.spiceworks.com/px/impr?$image,domain=community.spiceworks.com
-@@||gekko.spiceworks.com/frameContent/$subdocument,document
-@@||xact.spiceworks.com/u/unicorn/$image
-@@||moatads.com/pixel.gif?$image,domain=community.spiceworks.com
-@@||moatads.com/spiceworksdfp*/moatad.js$domain=community.spiceworks.com
-@@||moatads.com/swf/$object,domain=community.spiceworks.com
 !:partner_token=gearshout.net
 !:partner_id=7897e38bb0ece875
 !:type=partner
@@ -8007,7 +7995,7 @@ moneycontrol.com#@#.promoBanner
 @@||webcrawler.com^$elemhide
 @@||zoo.com^$elemhide
 !A34
-@@||wp.pl^$elemhide
+@@||szukaj.wp.pl^$elemhide
 !A35
 @@||virgilio.it^$elemhide
 @@||libero.it^$elemhide
