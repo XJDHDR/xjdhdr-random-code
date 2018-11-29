@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g5ZpyMpQ/pLSyOeaBl3MCA
-! Version: 201811281415
+! Checksum: yatwEu/Iim5SZpkph3HEVA
+! Version: 201811291415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 28 Nov 2018 14:15 UTC
+! Last modified: 29 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -98,9 +98,6 @@
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10027
 ! Renego sponsored search results
 @@||renego.$elemhide,domain=renego.de|renego.at|renego.be|renego.ca|renego.ch|renego.cl|renego.co.in|renego.co.nz|renego.co.uk|renego.co.za|renego.com|renego.com.ar|renego.com.br|renego.co|renego.com.mx|renego.com.pe|renego.com.pt|renego.com.sg|renego.com.ve|renego.cz|renego.dk|renego.es|renego.ec|renego.fi|renego.fr|renego.hu|renego.ie|renego.it|renego.nl|renego.no|renego.ph|renego.pl|renego.se
-!:partner_id=1a96c4aeb23459cd
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10287
 !:partner_token=heise.de
 !:partner_id=ee1f510910c7063c
 !:type=partner
@@ -137,13 +134,6 @@ heise.de#@#.hinweis_anzeige
 @@||ixquick.de^$elemhide
 ||ixquick.com*px.gif?ch=2&rn=$domain=ixquick.com
 ||startpage.com*px.gif?ch=2&rn=$domain=startpage.com
-!:partner_token=Stilanzeigen
-!:partner_id=7586a12a43cda199
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10728
-! Text/image ads by Stilanzeigen
-@@||stilanzeigen.net^$script,image
-@@||stilanzeigen.de^$script,image
 !:partner_token=StandS4
 !:partner_id=36e26891a192a205
 !:type=partner
@@ -1275,12 +1265,6 @@ widgets.outbrain.com#@#.abp_ob_wl
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
-!:partner_token=dogspot.de
-!:partner_id=e142e6430dd597a0
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23233
-! dogspot.de ads
-@@||smartadserver.com^*usesABP%3Dtrue$script,domain=dogspot.de|dogspot.ch|dogspot.at|catspot.de|catspot.at|catspot.ch|horsespot.de|horsespot.at|horsespot.ch
 !:partner_token=glavpoezdrus.ru
 !:partner_id=bfd7769575cd5623
 !:type=partner
@@ -1687,7 +1671,7 @@ libertatea.ro#@#.strawberry-ads
 thepoke.co.uk,thefreethoughtproject.com#@#.trc_rbox_container
 proceso.com.mx##.trc_rbox.thumbnails-b
 standardnews.com,itsthevibe.com##.execphpwidget
-autoguru.de,funandnews.de,stylevamp.de#@#.content-ad
+autoguru.de,funandnews.de,stylevamp.de,unnuetzes.com,fussballfieber.de#@#.content-ad
 noticiariodirecto.com##.sidebar-widget.widget_text
 conserve-energy-future.com,solidesnake.com#@##quads-ad4
 conserve-energy-future.com,solidesnake.com#@#.quads-ad4
@@ -1770,7 +1754,7 @@ thecinemaholic.com,ibtimes.co.uk,theweek.com#@#.taboola-ad
 tickld.com,pref.com#@#.adcode
 autoexpress.co.uk#@#.block-taboola
 vocativ.com#@#.sponsored-links
-politico.com#@#.ad-slot
+politico.com,kizlarsoruyor.com#@#.ad-slot
 crestviewbulletin.com,srpressgazette.com#@##btmsponsoredcontent
 hollywoodreporter.com#@#.taboola-left-rail-wrapper
 rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
@@ -4276,32 +4260,6 @@ pianobuyer.com#@#.img_ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43673
 ! kagns.ru ads
-!:partner_token=filehippo.com
-!:partner_id=fe494d490897eaf3
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43938
-! filehippo.com ads
-@@||admarketplace.net/ad_tag/$script,domain=filehippo.com
-@@||imp.admarketplace.net^$domain=filehippo.com
-@@||ampxchange.com/adtag/*/ad-min.js$domain=filehippo.com
-@@||outbrain.com/outbrain.js$domain=filehippo.com
-filehippo.com##.OUTBRAIN > .AR_2
-filehippo.com#@##header-above-content-leaderboard
-filehippo.com#@#.abp_ob_wl
-filehippo.com#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-filehippo.com#@#a[href^="http://paid.outbrain.com/network/redir?"]
-filehippo.com#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
-filehippo.com#@#a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-filehippo.com#@#.item-container-ad
-filehippo.com#@#.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
-filehippo.com#@#a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
-filehippo.com#@#a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"]
-@@||paid.outbrain.com/network/redir?$popup,domain=filehippo.com
-@@||adtechus.com/dt/common/DAC.js$domain=filehippo.com
-filehippo.com###program-header + #ad-slot-1
-filehippo.com#@##ad-slot-1
-filehippo.com#@##ad-slot-2
-filehippo.com#@#.ad-unit-label
 !:partner_token=telearroba.es
 !:partner_id=69e4ae60898b08c2
 !:type=partner
