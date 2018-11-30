@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yatwEu/Iim5SZpkph3HEVA
-! Version: 201811291415
+! Checksum: OFq5sfNy+EigLXypbho65g
+! Version: 201811301415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 29 Nov 2018 14:15 UTC
+! Last modified: 30 Nov 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1628,6 +1628,7 @@ thenoob.net#@#.adinjwidget
 @@||nydailynews.com/*taboola/render.js?$script,domain=nydailynews.com
 @@||twpasol.com/c/filmehd.js$domain=filmehd.net
 @@||dasibogilink.com/wp-content/plugins/better-adsmanager/js/advertising.min.js$domain=dasibogilink.com
+@@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
@@ -1675,7 +1676,7 @@ autoguru.de,funandnews.de,stylevamp.de,unnuetzes.com,fussballfieber.de#@#.conten
 noticiariodirecto.com##.sidebar-widget.widget_text
 conserve-energy-future.com,solidesnake.com#@##quads-ad4
 conserve-energy-future.com,solidesnake.com#@#.quads-ad4
-topimag.fr,ancient-code.com,newsroom24.co.uk,alternativemediasyndicate.com,conserve-energy-future.com,zipbr.com,larecette.net,slavorum.org,themindcircle.com,solidesnake.com,thewildchild.co.za,soo-healthy.com,soolide.com#@#.quads-location
+topimag.fr,ancient-code.com,newsroom24.co.uk,alternativemediasyndicate.com,conserve-energy-future.com,zipbr.com,larecette.net,slavorum.org,themindcircle.com,solidesnake.com,thewildchild.co.za,soo-healthy.com,soolide.com,livenewson.com#@#.quads-location
 daddysgame.com#@#.add300
 healevate.com#@#.ad_space
 manoramaonline.com,huffingtonpost.com#@#.advertisement
@@ -1819,7 +1820,7 @@ timesnownews.com#@#.ad-panel
 thepoke.co.uk#@#.trc_related_container
 gazetaexpress.com#@#.ads-bottom
 edaily.co.kr#@#.trc_rbox_div a[target="_blank"][href^="http://tab"]
-skinnypointsonly.com#@##quads-ad2_widget
+skinnypointsonly.com,livenewson.com#@##quads-ad2_widget
 needrom.com#@#.ad-codes
 daily-choices.com#@#.single-ad
 nana10.co.il#@#.item-thumbnail-href[rel="nofollow"][target="_blank"]
@@ -1844,6 +1845,8 @@ metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Below Main Column Th
 metacritic.com#@#[data--beaprtbtci-cpbt="desktop front_door Right Rail Thumbnails"]
 nezzsorozatokat.info#@##taboola-ad
 ajc.com#@#.story-ad-container
+livenewson.com#@##quads-ad2
+livenewson.com#@#.quads-ad2
 !:partner_token=pexels.com
 !:partner_id=70e80e4784a82f7b
 !:type=partner
