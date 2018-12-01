@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OFq5sfNy+EigLXypbho65g
-! Version: 201811301415
+! Checksum: xZ0DU8uzkV4QFZrdpiHxZw
+! Version: 201812011415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 30 Nov 2018 14:15 UTC
+! Last modified: 01 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6206,24 +6206,6 @@ bouwsteentjes.info#@#.td-adspot-title
 !:partner_id=5684153dbeb6db01
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53664
-!:partner_token=Yieldlab
-!:partner_id=756333aad4616e39
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53686
-! yieldlab.net ads
-! ||yieldlab.net/static/pixel.gif?ch=2&rn=$image,domain=fussballcup.de
-! @@||yieldlab.net/static/pixel.gif?ch=1&rn=$image,domain=fussballcup.de
-! @@||fussballcup.de/ad.php?type=mediumrectangle^$subdocument,domain=fussballcup.de
-! @@||ad.yieldlab.net^*/300x250?ab=1^$subdocument,domain=fussballcup.de,document
-! @@||ad.yieldlab.net/m?dt_id=*&ext_id=*
-! fussballcup.de#@#.ad-frame
-! fussballcup.de#@##ad-rectangle
-@@||ads.*.criteo.com/delivery/r/afr.php?did=$subdocument,domain=web.de,document
-@@||ad.yieldlab.net/d/2456081/8461/300x250^*^ab=1^$script,domain=web.de
-@@||counts.yieldlab.net^$domain=web.de
-||ad.yieldlab.net/static/pixel.gif?ch=2&rn=$domain=web.de
-@@||ad.yieldlab.net/static/pixel.gif?ch=1&rn=$domain=web.de
-@@||ad.yieldlab.net/d/2456081/8461/300x250?ab=1^$subdocument,domain=web.de,document
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -6578,7 +6560,7 @@ viepratique.fr###ligatus_ad_viepratique_side
 journaldesfemmes.fr#@#.jLinkSponsored
 orange.fr#@##commercial-links
 cronachemaceratesi.it#@##ligatus_cronachemaceratesi_cronachemaceratesi_smartbox
-gmuender-tagespost.de,schwaebische-post.de#@#div :-abp-properties(content: "*Anzeige*")
+wetter.de,gmuender-tagespost.de,schwaebische-post.de#@#div :-abp-properties(content: "*Anzeige*")
 rtl.be#@#.w-content-details-ligatus
 clm24.es#@#.ad-inner
 clm24.es#@#.ad-slot
@@ -7109,6 +7091,11 @@ filezilla-project.org#@#.TopAd
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60707
 ! gamesflow.com ads
 gamesflow.com#@#.iconads
+!:partner_token=istiller.com
+!:partner_id=f4ea31eba3eb0988
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60866
+! istiller.com ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
