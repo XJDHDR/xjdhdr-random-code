@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M+W+LjAyGkyPTIEyFvuIBw
-! Version: 201812011415
+! Checksum: qw+o0r7fIoblmPw0NfNE8A
+! Version: 201812021415
 ! Title: HP Hosts wrz list
-! Last modified: 01 Dec 2018 14:15 UTC
+! Last modified: 02 Dec 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -24,7 +24,6 @@
 !
 ||0daycn.net^
 ||100-postal2.blogspot.com^
-||1337x.to^
 ||160kbps.4files.net^
 ||1clickdown.com^
 ||22jumpstreetonlinenow.comunidades.net^
@@ -723,7 +722,6 @@
 ||pavv.ru^
 ||pbcrew.info^
 ||pc-software.ru^
-||pcgames-download.com^
 ||pckeysoft.com^
 ||pcsoftncrack.com^
 ||pcsoftpro.com^
@@ -1022,7 +1020,6 @@
 ||uraxhayer.ru^
 ||usemeplz.com^
 ||usenext.com^
-||users.otenet.gr^
 ||uwatch.to^
 ||v.grinderz.org^
 ||varez-besplatno.ru^
@@ -1128,7 +1125,6 @@
 ||wwv.4files.net^
 ||wwvw.4files.net^
 ||www.0daycn.net^
-||www.1337x.to^
 ||www.1clickdown.com^
 ||www.1street.ru^
 ||www.22jumpstreetonlinenow.comunidades.net^
@@ -1706,7 +1702,6 @@
 ||www.pavv.ru^
 ||www.pbcrew.info^
 ||www.pc-software.ru^
-||www.pcgames-download.com^
 ||www.pckeysoft.com^
 ||www.pcsoftpro.com^
 ||www.perfectddl.com^
@@ -2079,7 +2074,6 @@
 ||www.yify-torrents.to^
 ||www.yifymovietorrent.com^
 ||www.yifytorrents.net^
-||www.yjerome.typepad.com^
 ||www.yoadobehekku.com^
 ||www.youhaveavirus.com^
 ||www.youronlinemovies.net^
@@ -2129,7 +2123,6 @@
 ||yify-torrents.to^
 ||yifymovietorrent.com^
 ||yifytorrents.net^
-||yjerome.typepad.com^
 ||yoadobehekku.com^
 ||youhaveavirus.com^
 ||youronlinemovies.net^
@@ -2157,4 +2150,4 @@
 ||zonawarez.net^
 ||zoomtorrents.com^
 ||zoozle.org^
-! Hosts: 2135
+! Hosts: 2128

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ObrAS31n2Wgf8r7HHigfhA
-! Version: 201812011415
+! Checksum: DR4rUsHaRFDAcgIVytH+7Q
+! Version: 201812021415
 ! Title: HP Hosts psh list
-! Last modified: 01 Dec 2018 14:15 UTC
+! Last modified: 02 Dec 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -15123,7 +15123,6 @@
 ||brisasdealdeia.com.br^
 ||brisbanefashion.com^
 ||brisbanerecycling.com^
-||brisbanevolvo.com.au^
 ||brisbug.asn.au^
 ||brisketfest.com^
 ||bristolhcs.com^
@@ -25210,7 +25209,6 @@
 ||dtbatna.com^
 ||dtcqatar.com^
 ||dtech21c.com^
-||dtechs.typepad.com^
 ||dtensk.org^
 ||dtf.lt^
 ||dthxhg.000webhostapp.com^
@@ -157464,4 +157462,4 @@
 ||zzz.nosu.yi.org^
 ||zzzha.com^
 ||zzzzzqp.com^
-! Hosts: 157448
+! Hosts: 157446
