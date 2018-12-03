@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tgTFerbTBntkZk44I1MdRA
-! Version: 201812021415
+! Checksum: IkcMUhz/5LpmFXYtLegIVg
+! Version: 201812031415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 02 Dec 2018 14:15 UTC
+! Last modified: 03 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6533,6 +6533,9 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@/publicidad.$~object-subrequest,~stylesheet,domain=canalsur.es
 @@||adserver.adtech.de$popup,domain=money.it|supereva.it
 @@||ads.leadcapitalcrp.com/*click$popup,domain=punto-informatico.it
+@@||d.ligatus.com/?ids=66847$script,domain=humo.be
+@@||adserver.binqmedia.nl/shared/*.js$script,domain=faillissementsdossier.be
+@@||adserver.binqmedia.nl/ad.ashx?host=www.faillissementsdossier.be$script,domain=faillissementsdossier.be
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad
@@ -6573,6 +6576,8 @@ nouvelobs.com#@#.ObsBox-Ligatus
 skodacommunity.de#@#.section.funbox
 femmeactuelle.fr#@#div[data-ligatus-container]
 supereva.it#@#.se-ligatus
+p-magazine.be#@#.bsac
+p-magazine.be#@#.bsac-container
 ! Content recommendations
 @@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 @@||updater.hyde.ligatus.com/js^$script,domain=sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
