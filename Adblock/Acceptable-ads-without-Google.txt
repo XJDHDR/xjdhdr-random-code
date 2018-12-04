@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IkcMUhz/5LpmFXYtLegIVg
-! Version: 201812031415
+! Checksum: 8q0/7hod0wgtLswUqeAz7A
+! Version: 201812041415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 03 Dec 2018 14:15 UTC
+! Last modified: 04 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1717,7 +1717,7 @@ israelnationalnews.com#@#.znn
 latimes.com,chicagotribune.com,sun-sentinel.com,orlandosentinel.com,baltimoresun.com,mcall.com,dailypress.com,courant.com,southflorida.com,redeyechicago.com,citypaper.com#@#.trb_taboola
 ecofoot.fr,yoamoloszapatos.com,ijreview.com,liftbump.com#@#.widget-ad
 liftbump.com#@#.desktop_ad
-huffingtonpost.com.mx,huffingtonpost.com.au,huffingtonpost.com,huffingtonpost.it,huffingtonpost.kr,huffpostmaghreb.com#@#.ad_spot
+huffingtonpost.com.mx,huffingtonpost.com.au,huffingtonpost.com,huffingtonpost.it,huffingtonpost.kr,huffpostmaghreb.com,huffpostbrasil.com#@#.ad_spot
 nbcnews.com#@#.ad-s-rendered
 didyouknowfacts.com,nbcnews.com,today.com,postize.com#@#.ad-content
 etonline.com,didyouknowfacts.com#@#.footer-ad
