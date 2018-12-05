@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8q0/7hod0wgtLswUqeAz7A
-! Version: 201812041415
+! Checksum: Z8eL5L121dBD/zxYWURIcg
+! Version: 201812051415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Dec 2018 14:15 UTC
+! Last modified: 05 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6283,6 +6283,7 @@ chess24.com#@#.banner160x600
 clubroadster.net#@#.ad-card
 clubroadster.net#@#.bottom-ad
 clubroadster.net#@#.in-content-ad
+headphonereview.com#@#.home-ad
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6536,6 +6537,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||d.ligatus.com/?ids=66847$script,domain=humo.be
 @@||adserver.binqmedia.nl/shared/*.js$script,domain=faillissementsdossier.be
 @@||adserver.binqmedia.nl/ad.ashx?host=www.faillissementsdossier.be$script,domain=faillissementsdossier.be
+@@||u.videostep.com/User/GetOptIn?callback=invibes.cb_$script,domain=linternaute.com
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad
