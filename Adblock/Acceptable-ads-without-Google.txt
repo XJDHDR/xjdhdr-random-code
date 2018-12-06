@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z8eL5L121dBD/zxYWURIcg
-! Version: 201812051415
+! Checksum: v9Hoq/j/k/unSbAKX4pSyg
+! Version: 201812061415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 05 Dec 2018 14:15 UTC
+! Last modified: 06 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5323,8 +5323,6 @@ sports.fr#@##banner-full
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 ! For testing
-wykop.pl,gsmarena.com,readms.net,demotywatory.pl,sports.fr,libertatea.ro,phonearena.com,proceso.com.mx,joemonster.org#@#div[id^="div-gpt-ad"]
-wykop.pl,gsmarena.com,readms.net,demotywatory.pl,sports.fr,libertatea.ro,phonearena.com,proceso.com.mx,joemonster.org#@#.img_ad
 !:partner_token=bedandchai.com
 !:partner_id=bd81f3c03cb0d280
 !:type=partner
