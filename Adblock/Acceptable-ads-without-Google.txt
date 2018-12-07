@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v9Hoq/j/k/unSbAKX4pSyg
-! Version: 201812061415
+! Checksum: OffmPbYDrKTTrZ3eQfaTrA
+! Version: 201812071415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 06 Dec 2018 14:15 UTC
+! Last modified: 07 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7037,45 +7037,6 @@ goldenline.pl#@#div[id^="div-gpt-ad"]
 ! tintaynguyen.com#@#[id*="ScriptRoot"]
 ! tintaynguyen.com#@#div[id^="MarketGid"]
 ! tintaynguyen.com##[id$="ScriptRootC74277"]
-!:partner_token=Gruner und Jahr GmbH
-!:partner_id=be01c567eebfdd74
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=59374
-! G+J ads
-! ||brigitte.de/px.js?ch=2$domain=brigitte.de
-! @@||brigitte.de/px.js?ch=1$domain=brigitte.de
-! @@||brigitte.de/gujAd.js$script,domain=brigitte.de
-! @@||criteo.com/cdb?ptv=$xmlhttprequest,domain=brigitte.de
-! @@||criteo.com/delivery/ajs.php?*zoneid=1305467$xmlhttprequest,domain=brigitte.de
-! @@||criteo.com/delivery/ajs.php?*zoneid=1305468$xmlhttprequest,domain=brigitte.de
-! @@||criteo.com/delivery/ajs.php?*zoneid=1305469$xmlhttprequest,domain=brigitte.de
-! @@||criteo.net/flash/icon/$image,domain=brigitte.de
-! brigitte.de#@#.gujAd
-! brigitte.de#@#.sb-ad
-! @@||*/content_binder.js$script,domain=brigitte.de
-! @@||*/integrator.js?$script,domain=brigitte.de
-! @@||2mdn.net/$image,domain=brigitte.de
-! @@||2mdn.net/instream/video/client.js$script,domain=brigitte.de
-! @@||3lift.com/xuid?mid=$image,domain=brigitte.de
-! @@||active-agent.com/reporting/?$image,domain=brigitte.de
-! @@||adalliance.io/$image,domain=brigitte.de
-! @@||adalliance.io/ck?$script,domain=brigitte.de
-! @@||adition.com/$image,domain=brigitte.de
-! @@||ads.converge-digital.com/match?$image,domain=brigitte.de
-! @@||adsrvr.org/track/cmf/generic?$image,domain=brigitte.de
-! @@||amazon-adsystem.com/aax2/apstag.js$script,domain=brigitte.de
-! @@||omnitagjs.com/visitor/sync?$image,domain=brigitte.de
-! @@||sharethrough.com/sync/$image,domain=brigitte.de
-! @@||smartclip.net/$image,domain=brigitte.de
-! @@||spotxchange.com/partner?$image,domain=brigitte.de
-! @@||switchadhub.com/set?$image,domain=brigitte.de
-! @@||tidaltv.com/GenericUserSync.ashx?$image,domain=brigitte.de
-! @@||videoplaza.tv/proxy/sync?$image,domain=brigitte.de
-! @@||yieldlab.net/yp/$script,domain=brigitte.de
-! @@*$image,script,third-party,domain=brigitte.de
-! @@||adalliance.io^$third-party,domain=brigitte.de
-! @@||amazon-adsystem.com^$third-party,domain=brigitte.de
-! @@||emsservice.de^$domain=brigitte.de
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
