@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oeFpOZn+OKdeo/TuKDoroA
-! Version: 201812131415
+! Checksum: LmpuFqW/2mc+ExMhO47Utg
+! Version: 201812141415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 13 Dec 2018 14:15 UTC
+! Last modified: 14 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1123,12 +1123,14 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 ! Outbrain ads
 @@||karma.mdpcdn.com/service/js-min/karma.header.js$domain=fitnessmagazine.com
 @@||karma.mdpcdn.com/service/js-min/karma.footer.js$domain=fitnessmagazine.com
+cnn.com,epicurious.com#@#.ob-widget-section > .ob-widget-header
+tvline.com#@##outbrain_widget_1 > .ob-widget > .ob-first
 cnn.com#@#a[href^="http://www.nextadvisor.com/"]
 cnn.com#@#a[href^="https://www.nextadvisor.com/"]
 cnn.com##.module-body > .summary-list a[href^="https://www.nextadvisor.com/"]
 cnn.com##.module-body > .summary-list a[href^="http://www.nextadvisor.com/"]
 bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
-foxnews.com,stuff.co.nz#@##outbrain_widget_1
+foxnews.com,stuff.co.nz,cnn.com,cracked.com#@##outbrain_widget_1
 allocine.fr#@#.jtp
 www.cnn.com,us.cnn.com,edition.cnn.com,money.cnn.com,cnnespanol.cnn.com,smh.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au,canberratimes.com.au,instyle.com,hellomagazine.com,insider.foxnews.com,football365.com,afr.com,slate.fr,www.aarp.org#@#.ob_ads_header
 smh.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au,canberratimes.com.au,insider.foxnews.com,afr.com#@#.ob_dual_right > .ob_ads_header ~ .odb_div
@@ -1833,6 +1835,7 @@ healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.co
 seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
+spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
 expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
@@ -6286,6 +6289,7 @@ headphonereview.com#@#.home-ad
 howtheyplay.com,pethelpful.com#@#.ad-wrapper
 howtheyplay.com,pethelpful.com#@#.moduleAdSpot
 wowhead.com#@#.afs_ads
+urbandictionary.com#@#.ad-panel
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
