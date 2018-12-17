@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 67p3S/8SkFD1qNGLW95pVA
-! Version: 201812161415
+! Checksum: 8Q5CTs26mWZK3RsEbQYu0g
+! Version: 201812171415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 16 Dec 2018 14:15 UTC
+! Last modified: 17 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -205,7 +205,7 @@ suche.chip.de#@##sponsored_link
 !:partner_id=3aca09c7c0924e97
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=11954
-! Sponsored links (image + text) and static banners on Reddit.com
+! Reddit.com ads
 reddit.com#@##siteTable_organic
 reddit.com#@##ad-frame
 reddit.com#@#.sponsorshipbox
@@ -214,6 +214,32 @@ reddit.com#@#a[href^="http://bs.serving-sys.com/"]
 reddit.com#@##ad_main
 reddit.com#@##ad_main_top
 reddit.com##.promotedvideolink
+@@||z.moatads.com^$image,domain=reddit.com
+@@||secure-gl.imrworldwide.com^$image,domain=reddit.com
+@@||pixel.quantserve.com^$image,domain=reddit.com
+@@||pixel.adsafeprotected.com^$image,domain=reddit.com
+@@||tps.doubleverify.com^$image,domain=reddit.com
+@@||secure.insightexpressai.com^$image,domain=reddit.com
+@@||ev.surveywall-api.survata.com^$image,domain=reddit.com
+@@||tracker.samplicio.us^$image,domain=reddit.com
+@@||control.kochava.com^$image,domain=reddit.com
+@@||08j-0.tlnk.io^$image,domain=reddit.com
+@@||app.adjust.com^$image,domain=reddit.com
+@@||app.appsflyer.com^$image,domain=reddit.com
+@@||ad.apsalar.com^$image,domain=reddit.com
+@@||branchster.app.link^$image,domain=reddit.com
+@@||c.singular.net^$image,domain=reddit.com
+@@||bs.serving-sys.com^$image,domain=reddit.com
+@@||tenjin.deltadna.net^$image,domain=reddit.com
+@@||lciapi.ninthdecimal.com^$image,domain=reddit.com
+@@||p.placed.com^$image,domain=reddit.com
+@@||pixel.mtrcs.samba.tv^$image,domain=reddit.com
+@@||trkn.us^$image,domain=reddit.com
+@@||id.rlcdn.com^$image,domain=reddit.com
+@@||tag.researchnow.com^$image,domain=reddit.com
+@@||adfarm.mediaplex.com^$image,domain=reddit.com
+@@||scorecardresearch.com^$image,domain=reddit.com
+@@||voicefive.com^$image,domain=reddit.com
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
