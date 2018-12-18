@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8Q5CTs26mWZK3RsEbQYu0g
-! Version: 201812171415
+! Checksum: tN6scl0+NTIiRL0vIFqZzQ
+! Version: 201812181415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 17 Dec 2018 14:15 UTC
+! Last modified: 18 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6312,8 +6312,6 @@ clubroadster.net#@#.ad-card
 clubroadster.net#@#.bottom-ad
 clubroadster.net#@#.in-content-ad
 headphonereview.com#@#.home-ad
-howtheyplay.com,pethelpful.com#@#.ad-wrapper
-howtheyplay.com,pethelpful.com#@#.moduleAdSpot
 wowhead.com#@#.afs_ads
 urbandictionary.com#@#.ad-panel
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
@@ -6560,6 +6558,9 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||analytics.ladmedia.fr/football/pub_football.js$domain=football.fr
 @@||ligatus.com/?t=js*&ids=103724^$script,domain=studentville.it
 @@||ligatus.com/?t=js*&ids=98494^$script,domain=hi-tech.leonardo.it
+@@||ligatus.com/?t=js*&ids=110390^$script,domain=diredonna.it
+@@||ligatus.com/?t=js*&ids=110385^$script,domain=motori.it
+@@||ligatus.com/?t=js*&ids=110387^$script,domain=agrodolce.it
 @@||fr.antivirustop10.com^$popup,domain=weather.com
 @@||lemde.fr/*ligatus.js$script,domain=lemonde.fr
 @@||a-ssl.ligatus.com^$third-party,domain=as.com
