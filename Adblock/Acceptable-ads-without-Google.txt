@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tN6scl0+NTIiRL0vIFqZzQ
-! Version: 201812181415
+! Checksum: y6BsGFtrQT1e1vzfrAtsAw
+! Version: 201812191415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Dec 2018 14:15 UTC
+! Last modified: 19 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1280,6 +1280,10 @@ widgets.outbrain.com##.ADBox
 widgets.outbrain.com##.ob_ad
 widgets.outbrain.com##.abp_ob_exist
 widgets.outbrain.com#@#.abp_ob_wl
+focus.de##.AdsRec
+focus.de##.AD_area
+focus.de##.ADBox
+focus.de##.Ads_4
 !:partner_token=VigLink
 !:partner_id=ea93b6c9f9f7f29b
 !:type=partner
@@ -6314,6 +6318,7 @@ clubroadster.net#@#.in-content-ad
 headphonereview.com#@#.home-ad
 wowhead.com#@#.afs_ads
 urbandictionary.com#@#.ad-panel
+wikia.com#@##WikiaTopAds
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6822,7 +6827,7 @@ wordpress.com#@#.wpmrec
 wordpress.com#@##adimg
 wordpress.com#@#.wpwidesky
 @@||s.pubmine.com/head.js$domain=wordpress.com
-@@||s.pubmine.com/adj/$domain=wordpress.com
+@@||s.pubmine.com/adjr/$domain=wordpress.com
 @@||s.pubmine.com/jslog?$domain=wordpress.com
 @@||s.pubmine.com/outstream.js$domain=wordpress.com
 @@||s.pubmine.com/push_sync?$domain=wordpress.com
@@ -6839,6 +6844,8 @@ wordpress.com#@#.wpwidesky
 @@||s.pubmine.com/adv?$xmlhttprequest,domain=wordpress.com
 @@||pubpress.net/houseads/$domain=wordpress.com
 ||s.pubmine.com/pixel?id=15&type=img$domain=wordpress.com
+! temporary
+@@||s.pubmine.com/adj/$domain=wordpress.com
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -6977,6 +6984,8 @@ articlesvally.com#@#.ad-side
 israelnationalnews.com#@#[style] > iframe
 israelnationalnews.com#@#[style] > [scrolling]
 israelnationalnews.com#@#[src*="blob:"]
+israelnationalnews.com#@#div > iframe:first-child
+israelnationalnews.com#@##divTopAd
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
 @@||lucianne.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
