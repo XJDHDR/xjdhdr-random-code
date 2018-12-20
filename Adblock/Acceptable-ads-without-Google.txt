@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y6BsGFtrQT1e1vzfrAtsAw
-! Version: 201812191415
+! Checksum: NEfA9voNEVsZ/YnNya/wow
+! Version: 201812201415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 19 Dec 2018 14:15 UTC
+! Last modified: 20 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7388,6 +7388,7 @@ forbes.com#@#.fbs-ad--topx-wrapper
 forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
+forbes.com#@#.header-ad
 netzwelt.de#@##leaderboard-wrapper
 netzwelt.de#@##skyscraper-wrapper
 netzwelt.de#@##rectangle_sidebar
