@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kOjcxt5L4BfH/TXxJVD2OQ
-! Version: 201812211415
+! Checksum: w+Zo+azL5sTmzIL7aQEjIw
+! Version: 201812221415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 21 Dec 2018 14:15 UTC
+! Last modified: 22 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1865,7 +1865,7 @@ healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.co
 seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
-spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
+mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
 expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
@@ -6305,6 +6305,10 @@ hearthpwn.com#@#.ad-atf-medRect
 phonearena.com#@#.spot_disclaimer
 realgm.com#@#.leaderboard-ad-container
 gamepedia.com#@##siderail
+gamepedia.com#@##header-ad-container
+gamepedia.com#@#div[id^="cdm-zone"]
+gamepedia.com#@##btflb
+gamepedia.com#@#.ad-placement
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
 directexpose.com,history101.com,tiebreaker.com,icepop.com#@#.ad_placeholder
