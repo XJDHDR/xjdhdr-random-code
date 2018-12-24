@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EEgCaJLSjNhfFUmJydXjUA
-! Version: 201812231415
+! Checksum: DYwd5ym3YXxRJ/blPym1Kg
+! Version: 201812241415
 ! Title: HP Hosts psh list
-! Last modified: 23 Dec 2018 14:15 UTC
+! Last modified: 24 Dec 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -31837,7 +31837,6 @@
 ||flourishgardens.com.au^
 ||flourishglass.com^
 ||flourishnutritioncentre.com^
-||flowcontrolgroup.com^
 ||flowdynamicsinc.com^
 ||flowerandcrow.com^
 ||flowers-shop.lxos-xlmfv.hohaisan.com^
@@ -34626,7 +34625,6 @@
 ||globalpta.ga^
 ||globalrexib.com^
 ||globalrock.com.pk^
-||globalscient.com^
 ||globalservices123.com^
 ||globalskytravel.com^
 ||globalsmartschool.gb.net^
@@ -62107,7 +62105,6 @@
 ||paluniqueenterprise.com^
 ||palvelin1.omatkotisivut.fi^
 ||paly-alternates.000webhostapp.com^
-||palyme.org^
 ||pambadiyal.com^
 ||pambaheritage.com^
 ||pamchambers.com^
@@ -72871,6 +72868,7 @@
 ||scotiabanklivehelpsupport.com^
 ||scotiaenlima.xyz^
 ||scotiaonline.com-ssl-m.top^
+||scotiavbzz.com^
 ||scotlandislandlodge.com.au^
 ||scotlandlands.ga^
 ||scotran.in.net^
@@ -115342,7 +115340,6 @@
 ||www.floslasershow.de^
 ||www.flossyscakes.com.au^
 ||www.flourishglass.com^
-||www.flowcontrolgroup.com^
 ||www.flowdog.de^
 ||www.flowdynamicsinc.com^
 ||www.flowerandcrow.com^
@@ -117413,7 +117410,6 @@
 ||www.globalpta.ga^
 ||www.globalrexib.com^
 ||www.globalrock.com.pk^
-||www.globalscient.com^
 ||www.globalservices123.com^
 ||www.globalskytravel.com^
 ||www.globalsn.org^
@@ -136737,7 +136733,6 @@
 ||www.paluniqueenterprise.com^
 ||www.palvelin1.omatkotisivut.fi^
 ||www.paly-alternates.000webhostapp.com^
-||www.palyme.org^
 ||www.pambadiyal.com^
 ||www.pamchambers.com^
 ||www.pamgolding.000webhostapp.com^
@@ -144472,6 +144467,7 @@
 ||www.scotiabankalert-trinidad.com^
 ||www.scotiabankalerts-trinidad.com^
 ||www.scotiabanklivehelpsupport.com^
+||www.scotiavbzz.com^
 ||www.scotlandislandlodge.com.au^
 ||www.scotran.in.net^
 ||www.scottcafe.com^
@@ -162485,4 +162481,4 @@
 ||zzz.nosu.yi.org^
 ||zzzha.com^
 ||zzzzzqp.com^
-! Hosts: 162469
+! Hosts: 162465
