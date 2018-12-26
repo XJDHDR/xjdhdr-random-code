@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vEqJPnMNNmjehu4Kwm0Pqg
-! Version: 201812251415
+! Checksum: qTB2Wb2C5D2O5LgLE/Ct6A
+! Version: 201812261415
 ! Title: HP Hosts psh list
-! Last modified: 25 Dec 2018 14:15 UTC
+! Last modified: 26 Dec 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -63589,6 +63589,7 @@
 ||pbiummaspul.ac.id^
 ||pbiviterbo.it^
 ||pbnamd.com^
+||pbogroup.ru^
 ||pbphgwbr.in^
 ||pbrlp.com^
 ||pbrpc.com^
@@ -73988,6 +73989,7 @@
 ||seplbusservice.com^
 ||seplecacaovieu.com^
 ||sepolonnetqw.usa.cc^
+||sepolseguros.com.br^
 ||seporscres.000webhostapp.com^
 ||sepsa-sa.com.ar^
 ||september-bonus.com^
@@ -137792,6 +137794,7 @@
 ||www.pbi-international.com^
 ||www.pbiat.pl^
 ||www.pbnamd.com^
+||www.pbogroup.ru^
 ||www.pbphgwbr.in^
 ||www.pbrpc.com^
 ||www.pbtexbd.com^
@@ -145187,6 +145190,7 @@
 ||www.seotint.com^
 ||www.seotuneup.net^
 ||www.sepatusafetyking.com^
+||www.sepolseguros.com.br^
 ||www.seporscres.000webhostapp.com^
 ||www.sepsa-sa.com.ar^
 ||www.september-bonus.com^
@@ -162481,4 +162485,4 @@
 ||zzz.nosu.yi.org^
 ||zzzha.com^
 ||zzzzzqp.com^
-! Hosts: 162465
+! Hosts: 162469
