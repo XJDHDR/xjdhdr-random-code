@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: az07wYweDiyZK73/1ixQCA
-! Version: 201812271415
+! Checksum: N0zX1Vpc9mtuNqpL9nmJHQ
+! Version: 201812281415
 ! Title: HP Hosts pha list
-! Last modified: 27 Dec 2018 14:15 UTC
+! Last modified: 28 Dec 2018 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1058,6 +1058,7 @@
 ||betterpharm365.ru^
 ||betterpharm724.ru^
 ||bettersale.su^
+||betterstore.su^
 ||bettersuper365.ru^
 ||beveriecaren.ru^
 ||beverlyh.com^
@@ -2041,6 +2042,7 @@
 ||colinp.xn--80aglaiio2ee.xn--p1ai^
 ||combivent.xyz^
 ||comex.pl^
+||comfortprice.su^
 ||comical.secureorganictrade.ru^
 ||commentarreterdefumer.name^
 ||commercialbesancon.xn--e1ahf5ax.xn--p1ai^
@@ -8057,6 +8059,7 @@
 ||www.betterpharm365.ru^
 ||www.betterpharm724.ru^
 ||www.bettersale.su^
+||www.betterstore.su^
 ||www.bettersuper365.ru^
 ||www.beveriecaren.ru^
 ||www.bfd.webtradeplus.su^
@@ -9086,6 +9089,7 @@
 ||www.colinp.xn--80aglaiio2ee.xn--p1ai^
 ||www.colon-therapie.fr^
 ||www.combivent.xyz^
+||www.comfortprice.su^
 ||www.commentarreterdefumer.name^
 ||www.commercialbesancon.xn--e1ahf5ax.xn--p1ai^
 ||www.comprar-propecia.com^
@@ -14784,4 +14788,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14762
+! Hosts: 14766

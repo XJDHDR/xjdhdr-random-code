@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: crvTaRKf2C6WTRDcxJ+Fyw
-! Version: 201812271415
+! Checksum: izd8T2cwfvYxbF1CMEn+pg
+! Version: 201812281415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 27 Dec 2018 14:15 UTC
+! Last modified: 28 Dec 2018 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6990,6 +6990,7 @@ israelnationalnews.com#@#[style] > [scrolling]
 israelnationalnews.com#@#[src*="blob:"]
 israelnationalnews.com#@#div > iframe:first-child
 israelnationalnews.com#@##divTopAd
+gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com##.ad-side
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
 @@||lucianne.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
