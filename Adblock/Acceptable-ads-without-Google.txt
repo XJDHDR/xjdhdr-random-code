@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lwpdTs81k/sGzj38b6LxNg
-! Version: 201812311415
+! Checksum: Qf7LBuPWhhZS+3ccol8DuA
+! Version: 201901011415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 31 Dec 2018 14:15 UTC
+! Last modified: 01 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1284,19 +1284,6 @@ focus.de##.AdsRec
 focus.de##.AD_area
 focus.de##.ADBox
 focus.de##.Ads_4
-!:partner_token=VigLink
-!:partner_id=ea93b6c9f9f7f29b
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23242
-! VigLink affiliate links
-||viglink.com/images/pixel.gif?ch=2$third-party
-@@||viglink.com/api/insert^$third-party
-@@||viglink.com/api/optimize^$third-party
-@@||viglink.com/api/ping^$xmlhttprequest,third-party
-@@||viglink.com/api/domains^$third-party
-@@||viglink.com/api/vglnk.js$third-party
-@@||viglink.com/api/pixel.gif$third-party
-@@||viglink.com/images/pixel.gif?ch=1$third-party
 !:partner_token=glavpoezdrus.ru
 !:partner_id=bfd7769575cd5623
 !:type=partner

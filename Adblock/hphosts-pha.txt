@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xoi6SCHey6SzWc00agtzyQ
-! Version: 201812311415
+! Checksum: X4m6LI20LVzbCUvXjZGqBw
+! Version: 201901011415
 ! Title: HP Hosts pha list
-! Last modified: 31 Dec 2018 14:15 UTC
+! Last modified: 01 Jan 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -36,6 +36,7 @@
 ||0rx.ru^
 ||0uz.com^
 ||1-718-475-9088.com^
+||1-800-532-4808.com^
 ||1-800-can-drug.com^
 ||1-online-pharm.com^
 ||1-pharm.com^
@@ -978,6 +979,7 @@
 ||bestnetworkrx724.ru^
 ||bestnewmart.ru^
 ||bestnewmart365.ru^
+||bestofferofgenerics.com^
 ||bestofferx.su^
 ||bestoffery.su^
 ||bestofferz.su^
@@ -1028,6 +1030,7 @@
 ||bestsalehouse.ru^
 ||bestsaleplus.ru^
 ||bestsecuremall.com^
+||bestsedmdproducts.com^
 ||bestservicegroup.ru^
 ||bestservicepro.com^
 ||bestshoppingk.su^
@@ -1113,6 +1116,7 @@
 ||blue-pill-shop.com^
 ||bluemountainpharmacycanada.ru^
 ||bluepharma.ws^
+||bluepillformen.com^
 ||bluepillsforsale.com^
 ||blueskydrugs.com^
 ||bluetail.org^
@@ -1978,6 +1982,7 @@
 ||cindymaryjane.com^
 ||cipla-pharmaceuticals.com^
 ||cipla.ws^
+||ciplabestmdbrand.com^
 ||ciplabrandeddrugs.com^
 ||citonet.cl^
 ||cjaluuaroli.shoppricew.su^
@@ -2412,6 +2417,7 @@
 ||editajorrie.ru^
 ||edivaminetta.su^
 ||edlinerx.com^
+||edmdsuppliereurope.com^
 ||edntsulede.xn--80aspra3ac6a.xn--p1ai^
 ||edommele.xn--d1afdmn3afl.xn--p1ai^
 ||edonlinepharmacy.com^
@@ -2452,6 +2458,7 @@
 ||elissaroda.su^
 ||elizabetkore.ru^
 ||elizalishe.su^
+||elladagenerics.com^
 ||ellenliuka.su^
 ||elmiraandreana.ru^
 ||em.targetxweb.su^
@@ -2504,6 +2511,7 @@
 ||eu-health-centre.com^
 ||eu-medshop.com^
 ||eumedstock.com^
+||eumedstore.com^
 ||eupharmacy.org^
 ||euphemiahedy.ru^
 ||eurecas.org^
@@ -2523,8 +2531,11 @@
 ||europe-pharm.com^
 ||europe-pills-online.com^
 ||europeanedgenerics.com^
+||europeanmdsolution.com^
+||europeanmedsolution.com^
 ||europills.net^
 ||europillsonline.com^
+||euroshopgen.com^
 ||eva-pharmacy.com^
 ||evan.xn--d1ajakoz1elc.xn--p1ai^
 ||evangeliagreer.su^
@@ -2821,6 +2832,7 @@
 ||gecialishjufh.com^
 ||gellada.ru^
 ||gelnhausen.de^
+||geneerinen.com^
 ||generaldrugstore.com^
 ||generic-cialis-lowestprice.store^
 ||generic-cialislowestprice.org^
@@ -2900,6 +2912,7 @@
 ||genericsildenafil24.com^
 ||genericsildenafilus.com^
 ||genericsonlinestore.com^
+||genericssavehealth.com^
 ||genericsuperviagra.ru^
 ||generictadalafilusa.com^
 ||genericusaonline.com^
@@ -3031,6 +3044,7 @@
 ||gloednitz.com^
 ||glonli.ru^
 ||glorianevivianne.ru^
+||glviagragtr.com^
 ||gm777.com^
 ||gmab.hitmarketr.su^
 ||gmedrx.com^
@@ -3153,6 +3167,7 @@
 ||gsviagraridfj.com^
 ||gtlhoot.onlinestoreh.su^
 ||gtoucheque.xn--80arcbgt0b.xn--p1ai^
+||gtviagracan.com^
 ||guglielmajazmin.su^
 ||guianovafriburgo.com^
 ||guineveredrucie.ru^
@@ -3848,6 +3863,7 @@
 ||levitraforsale.ru^
 ||levitrafrance.net^
 ||levitrafromcanada.ru^
+||levitragtr.com^
 ||levitrahqm.com^
 ||levitrahsr.com^
 ||levitrainb.com^
@@ -4319,11 +4335,13 @@
 ||meds-eu.com^
 ||meds-express.com^
 ||meds-for-life.com^
+||meds-foryou.com^
 ||meds-from-india.com^
 ||meds.su^
 ||meds24x7.net^
 ||meds365best.ru^
 ||medsafeshop.com^
+||medsalltheworld.com^
 ||medscom.net^
 ||medsforsale.net^
 ||medshealth.com^
@@ -4554,6 +4572,7 @@
 ||mydiscountb.su^
 ||mydiscountc.su^
 ||mydrugassist.ru^
+||mydrugbasket.com^
 ||myeasystart.ru^
 ||myfastassist.ru^
 ||myfasthelp.ru^
@@ -5045,6 +5064,7 @@
 ||onlinegenericrxshop.com^
 ||onlinegenericrxshop.net^
 ||onlinegenericrxshop.org^
+||onlinegenericsforyou.com^
 ||onlinegenpharmacy.com^
 ||onlinegrandsale.ru^
 ||onlineherbalmart.ru^
@@ -5060,6 +5080,7 @@
 ||onlinepharmacy-ca.com^
 ||onlinepharmacy-e.com^
 ||onlinepharmacy-levitra.com^
+||onlinepharmacyau.com^
 ||onlinepharmacycanadaus.com^
 ||onlinepharmacydirectly.com^
 ||onlinepharmacydrugstore24.com^
@@ -5068,6 +5089,7 @@
 ||onlinepharmacymedications.ru^
 ||onlinepharmacyno-prescription.com^
 ||onlinepharmacynorx.ru^
+||onlinepharmacynz.net^
 ||onlinepharmacyrp.com^
 ||onlinepharmacyshop.biz^
 ||onlinepharmacytabs24.com^
@@ -5284,6 +5306,7 @@
 ||pharm-store.com^
 ||pharm-top.com^
 ||pharm-trust.com^
+||pharm-usa-se.com^
 ||pharm-workrx365.ru^
 ||pharm.to^
 ||pharma-doc.net^
@@ -5857,6 +5880,7 @@
 ||rxeurovendor.com^
 ||rxeustore.com^
 ||rxfastfind.net^
+||rxforpeople.com^
 ||rxfreeho-ing.com^
 ||rxhealthy-lifetime.com^
 ||rxindexer.com^
@@ -5956,6 +5980,7 @@
 ||safemedicals.com^
 ||safemedselement.ru^
 ||safemedsgroup.com^
+||safemedssupplier.com^
 ||safemedstore.com^
 ||safeonlinesale.ru^
 ||safepharmoutlet.ru^
@@ -6490,6 +6515,7 @@
 ||tadalafil.ws^
 ||tadalafil5m4.soup.io^
 ||tadalafil5mg-cialis.store^
+||tadalafilatwalmart.net^
 ||tadalafilbestprice.ru^
 ||tadalafilcialisfromindia.ru^
 ||tadalafildrugs.com^
@@ -6648,6 +6674,7 @@
 ||topdiscountclub.com^
 ||topdiscountedrx.ru^
 ||topdrugshop24-7.com^
+||topedsolution.com^
 ||topeuropeangenerics.com^
 ||topgenericmeds.com^
 ||topgenericmeds.net^
@@ -7190,6 +7217,7 @@
 ||viagrawithoutadoctorprescription-usa.com^
 ||viagrawithoutapersxritpion.ru^
 ||viagrawithoutdoctorkjju.com^
+||viagrawithoutdoctorx.com^
 ||viagrawithoutperscription.ru^
 ||viagrawnf9er.soup.io^
 ||viagrayityjg.com^
@@ -7383,6 +7411,7 @@
 ||wwpyeciid.topsalebidc.su^
 ||www.07eh4q8916.forumcircle.com^
 ||www.1-718-475-9088.com^
+||www.1-800-532-4808.com^
 ||www.1-meds.com^
 ||www.1-online-pharm.com^
 ||www.1-pharm.com^
@@ -7976,6 +8005,7 @@
 ||www.bestnewmart365.ru^
 ||www.bestntarget.su^
 ||www.bestofall.ru^
+||www.bestofferofgenerics.com^
 ||www.bestofferx.su^
 ||www.bestoffery.su^
 ||www.bestofferz.su^
@@ -8030,6 +8060,7 @@
 ||www.bestsalehouse.ru^
 ||www.bestsaleplus.ru^
 ||www.bestsecuremall.com^
+||www.bestsedmdproducts.com^
 ||www.bestservicegroup.ru^
 ||www.bestshoppingk.su^
 ||www.bestshoppingl.su^
@@ -8109,6 +8140,7 @@
 ||www.blue-pill-shop.com^
 ||www.bluemountainpharmacycanada.ru^
 ||www.bluepharma.ws^
+||www.bluepillformen.com^
 ||www.bluepillsforsale.com^
 ||www.blueskydrugs.com^
 ||www.bluetail.org^
@@ -9016,6 +9048,7 @@
 ||www.cindymaryjane.com^
 ||www.cipla-pharmaceuticals.com^
 ||www.cipla.ws^
+||www.ciplabestmdbrand.com^
 ||www.ciplabrandeddrugs.com^
 ||www.cissykelcie.ru^
 ||www.citonet.cl^
@@ -9417,6 +9450,7 @@
 ||www.editajorrie.ru^
 ||www.edivaminetta.su^
 ||www.edlinerx.com^
+||www.edmdsuppliereurope.com^
 ||www.edntsulede.xn--80aspra3ac6a.xn--p1ai^
 ||www.edoceciof.lucktradeq.su^
 ||www.edommele.xn--d1afdmn3afl.xn--p1ai^
@@ -9456,6 +9490,7 @@
 ||www.elissaroda.su^
 ||www.elizabetkore.ru^
 ||www.elizalishe.su^
+||www.elladagenerics.com^
 ||www.ellenliuka.su^
 ||www.elmiraandreana.ru^
 ||www.em.targetxweb.su^
@@ -9502,6 +9537,7 @@
 ||www.eu-health-centre.com^
 ||www.eu-medshop.com^
 ||www.eumedstock.com^
+||www.eumedstore.com^
 ||www.euphemiahedy.ru^
 ||www.euro-pharm-store.com^
 ||www.euro-pharm.net^
@@ -9517,8 +9553,11 @@
 ||www.europe-pharm.com^
 ||www.europe-pills-online.com^
 ||www.europeanedgenerics.com^
+||www.europeanmdsolution.com^
+||www.europeanmedsolution.com^
 ||www.europills.net^
 ||www.europillsonline.com^
+||www.euroshopgen.com^
 ||www.euroversandapotheke.com^
 ||www.eva-pharmacy.com^
 ||www.evan.xn--d1ajakoz1elc.xn--p1ai^
@@ -9834,6 +9873,7 @@
 ||www.gecialishjufh.com^
 ||www.gellada.ru^
 ||www.gelnhausen.de^
+||www.geneerinen.com^
 ||www.generaldrugstore.com^
 ||www.generic-cialis-lowestprice.store^
 ||www.generic-cialislowestprice.org^
@@ -9911,6 +9951,7 @@
 ||www.genericsildenafil24.com^
 ||www.genericsildenafilus.com^
 ||www.genericsonlinestore.com^
+||www.genericssavehealth.com^
 ||www.genericsuperviagra.ru^
 ||www.generictadalafilusa.com^
 ||www.genericusaonline.com^
@@ -10037,6 +10078,7 @@
 ||www.gloednitz.com^
 ||www.glonli.ru^
 ||www.glorianevivianne.ru^
+||www.glviagragtr.com^
 ||www.gmab.hitmarketr.su^
 ||www.gmedrx.com^
 ||www.gmwcialisfnw.com^
@@ -10145,6 +10187,7 @@
 ||www.gsmeds.to^
 ||www.gsviagraridfj.com^
 ||www.gtoucheque.xn--80arcbgt0b.xn--p1ai^
+||www.gtviagracan.com^
 ||www.guglielmajazmin.su^
 ||www.guineveredrucie.ru^
 ||www.guineverekaty.su^
@@ -10759,6 +10802,7 @@
 ||www.levitraforsale.ru^
 ||www.levitrafrance.net^
 ||www.levitrafromcanada.ru^
+||www.levitragtr.com^
 ||www.levitrahqm.com^
 ||www.levitrahsr.com^
 ||www.levitrainb.com^
@@ -11255,11 +11299,13 @@
 ||www.meds-eu.com^
 ||www.meds-express.com^
 ||www.meds-for-life.com^
+||www.meds-foryou.com^
 ||www.meds-from-india.com^
 ||www.meds.su^
 ||www.meds24x7.net^
 ||www.meds365best.ru^
 ||www.medsafeshop.com^
+||www.medsalltheworld.com^
 ||www.medsforsale.net^
 ||www.medshealth.com^
 ||www.medshome724.ru^
@@ -11461,6 +11507,7 @@
 ||www.mydiscountb.su^
 ||www.mydiscountc.su^
 ||www.mydrugassist.ru^
+||www.mydrugbasket.com^
 ||www.myeasystart.ru^
 ||www.myfastassist.ru^
 ||www.myfasthelp.ru^
@@ -11933,6 +11980,7 @@
 ||www.onlinegenericrxshop.com^
 ||www.onlinegenericrxshop.net^
 ||www.onlinegenericrxshop.org^
+||www.onlinegenericsforyou.com^
 ||www.onlinegenpharmacy.com^
 ||www.onlinegrandsale.ru^
 ||www.onlineherbalmart.ru^
@@ -11947,6 +11995,7 @@
 ||www.onlinepharmacy-ca.com^
 ||www.onlinepharmacy-e.com^
 ||www.onlinepharmacy-levitra.com^
+||www.onlinepharmacyau.com^
 ||www.onlinepharmacycanadaus.com^
 ||www.onlinepharmacydirectly.com^
 ||www.onlinepharmacydrugstore24.com^
@@ -11955,6 +12004,7 @@
 ||www.onlinepharmacymedications.ru^
 ||www.onlinepharmacyno-prescription.com^
 ||www.onlinepharmacynorx.ru^
+||www.onlinepharmacynz.net^
 ||www.onlinepharmacyrp.com^
 ||www.onlinepharmacytabs24.com^
 ||www.onlinepharmacywithoutaprescription.ru^
@@ -12146,6 +12196,7 @@
 ||www.pharm-store.com^
 ||www.pharm-top.com^
 ||www.pharm-trust.com^
+||www.pharm-usa-se.com^
 ||www.pharm-workrx365.ru^
 ||www.pharm.to^
 ||www.pharma-doc.net^
@@ -12671,6 +12722,7 @@
 ||www.rxeurovendor.com^
 ||www.rxeustore.com^
 ||www.rxfastfind.net^
+||www.rxforpeople.com^
 ||www.rxhealthy-lifetime.com^
 ||www.rxindexer.com^
 ||www.rxinternational.com^
@@ -12763,6 +12815,7 @@
 ||www.safemedicals.com^
 ||www.safemedselement.ru^
 ||www.safemedsgroup.com^
+||www.safemedssupplier.com^
 ||www.safemedstore.com^
 ||www.safeonlinesale.ru^
 ||www.safepharmoutlet.ru^
@@ -13252,6 +13305,7 @@
 ||www.tadalafil.ws^
 ||www.tadalafil5m4.soup.io^
 ||www.tadalafil5mg-cialis.store^
+||www.tadalafilatwalmart.net^
 ||www.tadalafilbestprice.ru^
 ||www.tadalafilcialisfromindia.ru^
 ||www.tadalafildrugs.com^
@@ -13391,6 +13445,7 @@
 ||www.topdelivery.su^
 ||www.topdiscountedrx.ru^
 ||www.topdrugshop24-7.com^
+||www.topedsolution.com^
 ||www.topeuropeangenerics.com^
 ||www.topgenericmeds.com^
 ||www.topgenericmeds.net^
@@ -13863,6 +13918,7 @@
 ||www.viagrawithoutadoctor-prescription.net^
 ||www.viagrawithoutadoctorprescription-usa.com^
 ||www.viagrawithoutapersxritpion.ru^
+||www.viagrawithoutdoctorx.com^
 ||www.viagrawithoutperscription.ru^
 ||www.viagrawnf9er.soup.io^
 ||www.viagrazakazat.ru^
@@ -14334,6 +14390,8 @@
 ||www.xkwibyod.priceforuma.su^
 ||www.xl-pharmacy.com^
 ||www.xlpharmacy.com^
+||www.xlviagracan.com^
+||www.xlviagragtr.com^
 ||www.xmasgiftwatch.ru^
 ||www.xn----ftbgqyl5h.xn--p1ai^
 ||www.xn----gtbdadoabpc1a4ah9am1m.com^
@@ -14646,6 +14704,8 @@
 ||xjdjwjfke.co.uk^
 ||xkwibyod.priceforuma.su^
 ||xl-pharmacy.com^
+||xlviagracan.com^
+||xlviagragtr.com^
 ||xn----ftbgqyl5h.xn--p1ai^
 ||xn----gtbdadoabpc1a4ah9am1m.com^
 ||xn--45-6kc5ap8a.xn--p1ai^
@@ -14788,4 +14848,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14766
+! Hosts: 14826
