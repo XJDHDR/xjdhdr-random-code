@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: par7kFtoPqX6BMCcWUK90Q
-! Version: 201901011415
+! Checksum: pjcMuLovnK1v3kzZ200ymw
+! Version: 201901021415
 ! Title: HP Hosts pup list
-! Last modified: 01 Jan 2019 14:15 UTC
+! Last modified: 02 Jan 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -11135,6 +11135,7 @@
 ||speedknow.co^
 ||speedpcutils.com^
 ||speedtest-com.com^
+||speedtest3.com^
 ||speedtest4.me^
 ||speeduppc.download^
 ||speeduppc.host^
@@ -24655,6 +24656,7 @@
 ||www.speedroutinesystemmarkup4progressreport.review^
 ||www.speedroutinesystemmarkup4progressreport.stream^
 ||www.speedtest-com.com^
+||www.speedtest3.com^
 ||www.speedtest4.me^
 ||www.speeduppc.download^
 ||www.speeduppc.host^
@@ -29617,4 +29619,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 29596
+! Hosts: 29598
