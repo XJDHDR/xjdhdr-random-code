@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eJmwJYZ32VOJEQNj5msweQ
-! Version: 201901031415
+! Checksum: 7Kn6/Mfb3SnglNEdpDFasg
+! Version: 201901041415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 03 Jan 2019 14:15 UTC
+! Last modified: 04 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1663,7 +1663,7 @@ buzzfeed.com,buzzfeednews.com#@#.js-ad
 the-share.club###taboola-right-rail-photo-gallery-thumbnails
 spunteblu.it###taboola-above-gallery-thumbnails
 pinoytvshows.me###taboola-below-article-thumbnails-2
-darkhorizons.com,tops.easyvoyage.de,tops.easyviajar.com#@#.td-a-rec-id-custom_ad_4
+darkhorizons.com,tops.easyvoyage.de,tops.easyviajar.com,tops.easyvoyage.com#@#.td-a-rec-id-custom_ad_4
 newsner.com#@#.ad-placement
 lifezette.com###taboola-native-thumbnails
 dailydosepolitics.com###exitpopup-modal
@@ -1771,7 +1771,7 @@ inquisitr.com,lifed.com,lifedaily.com#@#.WP_Widget_Ad_manager
 lexpress.fr#@#.block_partners
 lexpress.fr#@#.content_inside_partner
 theweek.com#@#.sr-in-feed-ads
-thecinemaholic.com,ibtimes.co.uk,theweek.com#@#.taboola-ad
+thecinemaholic.com,ibtimes.co.uk,theweek.com,odelices.ouest-france.fr#@#.taboola-ad
 tickld.com,pref.com#@#.adcode
 autoexpress.co.uk#@#.block-taboola
 vocativ.com#@#.sponsored-links
@@ -8432,6 +8432,49 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||bestbuy.com^$elemhide
 !A105
 @@||start.att.net^$elemhide
+!A106
+@@||skyscanner.net^$elemhide
+@@||skyscanner.it^$elemhide
+@@||skyscanner.ru^$elemhide
+@@||skyscanner.de^$elemhide
+@@||skyscanner.es^$elemhide
+@@||skyscanner.com^$elemhide
+@@||skyscanner.co.kr^$elemhide
+@@||skyscanner.com.au^$elemhide
+@@||skyscanner.fr^$elemhide
+@@||skyscanner.nl^$elemhide
+@@||skyscanner.jp^$elemhide
+@@||skyscanner.com.br^$elemhide
+@@||espanol.skyscanner.com^$elemhide
+@@||skyscanner.pl^$elemhide
+@@||skyscanner.com.tr^$elemhide
+@@||gr.skyscanner.com^$elemhide
+@@||skyscanner.com.hk^$elemhide
+@@||skyscanner.com.sg^$elemhide
+@@||skyscanner.ie^$elemhide
+@@||skyscanner.ca^$elemhide
+@@||skyscanner.com.tw^$elemhide
+@@||skyscanner.ch^$elemhide
+@@||skyscanner.co.il^$elemhide
+@@||skyscanner.ae^$elemhide
+@@||skyscanner.pt^$elemhide
+@@||skyscanner.co.in^$elemhide
+@@||skyscanner.cz^$elemhide
+@@||skyscanner.com.my^$elemhide
+@@||skyscanner.se^$elemhide
+@@||skyscanner.co.th^$elemhide
+@@||skyscanner.com.ua^$elemhide
+@@||skyscanner.fi^$elemhide
+@@||skyscanner.at^$elemhide
+@@||skyscanner.co.nz^$elemhide
+@@||skyscanner.hu^$elemhide
+@@||skyscanner.dk^$elemhide
+@@||skyscanner.ro^$elemhide
+@@||skyscanner.no^$elemhide
+@@||skyscanner.com.ph^$elemhide
+@@||skyscanner.co.id^$elemhide
+@@||skyscanner.com.vn^$elemhide
+@@||skyscanner.gg^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
