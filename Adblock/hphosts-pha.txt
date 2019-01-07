@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: chHevabxZq+nOYS/SZ5hDQ
-! Version: 201901061415
+! Checksum: EFdSXmaiVA0HMdRVHH9zvw
+! Version: 201901071415
 ! Title: HP Hosts pha list
-! Last modified: 06 Jan 2019 14:15 UTC
+! Last modified: 07 Jan 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1102,6 +1102,7 @@
 ||biography.nbuv.gov.ua^
 ||biorremediacion.cl^
 ||biostartnow.ru^
+||bird.firstdrugsdeal.com^
 ||birdjulina.su^
 ||birgittadanyelle.su^
 ||bkeya.supplyprofy.su^
@@ -5771,7 +5772,6 @@
 ||rightchoise.ru^
 ||rimbeq.stableclub.su^
 ||rinafaunie.su^
-||rippedknees.co.uk^
 ||ripple.privatefaststore.ru^
 ||ritedrugstore.com^
 ||ritini.ru^
@@ -12623,7 +12623,6 @@
 ||www.rianonlaure.ru^
 ||www.rightchoise.ru^
 ||www.rinafaunie.su^
-||www.rippedknees.co.uk^
 ||www.ripple.privatefaststore.ru^
 ||www.ritedrugstore.com^
 ||www.ritini.ru^
@@ -14848,4 +14847,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14826
+! Hosts: 14825
