@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 58ju0RNe6eSnguqcczEnaA
-! Version: 201901081415
+! Checksum: 1sg2hfLvztNQ1q0NWDnTXg
+! Version: 201901091415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 08 Jan 2019 14:15 UTC
+! Last modified: 09 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1649,6 +1649,7 @@ thenoob.net#@#.adinjwidget
 @@||dasibogilink.com/wp-content/plugins/better-adsmanager/js/advertising.min.js$domain=dasibogilink.com
 @@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=kw.arabiaweather.com
+@@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
@@ -1852,7 +1853,7 @@ healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.co
 seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
-mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
+chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
 expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
@@ -1868,6 +1869,7 @@ nezzsorozatokat.info#@##taboola-ad
 ajc.com#@#.story-ad-container
 livenewson.com#@##quads-ad2
 livenewson.com#@#.quads-ad2
+45.ru#@#.adv-container
 !:partner_token=pexels.com
 !:partner_id=70e80e4784a82f7b
 !:type=partner
@@ -6314,6 +6316,9 @@ wikia.com#@##WikiaTopAds
 iogames.space#@#.view-advertisements
 iogames.space#@#.view-id-advertisements
 wordfind.com#@##adbox_right
+mrexcel.com#@##ad_global_above_footer
+mrexcel.com#@#.ad-unit
+mrexcel.com#@#.ad_global_header
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
