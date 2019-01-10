@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1sg2hfLvztNQ1q0NWDnTXg
-! Version: 201901091415
+! Checksum: IaTR/EkVUZ19n5loQCj22Q
+! Version: 201901101415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 09 Jan 2019 14:15 UTC
+! Last modified: 10 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6319,6 +6319,8 @@ wordfind.com#@##adbox_right
 mrexcel.com#@##ad_global_above_footer
 mrexcel.com#@#.ad-unit
 mrexcel.com#@#.ad_global_header
+androidguys.com#@#.td-a-rec-id-custom_ad_2
+urbandictionary.com#@##dark_top
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6984,6 +6986,8 @@ israelnationalnews.com#@#[style] > [scrolling]
 israelnationalnews.com#@#[src*="blob:"]
 israelnationalnews.com#@#div > iframe:first-child
 israelnationalnews.com#@##divTopAd
+timesofisrael.com#@#.banner
+timesofisrael.com#@#.b300x250
 gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.ad-side
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -7947,15 +7951,27 @@ moneycontrol.com#@#.promoBanner
 @@||mylusfiber.net^$elemhide
 @@||mycci.net/search/$elemhide
 !A33
-@@||infospace.com^$elemhide
+@@||autoversed.com^$elemhide
+@@||careerjob360.com^$elemhide
+@@||carsgenius.com^$elemhide
 @@||dogpile.com^$elemhide
 @@||excite.com^$elemhide
+@@||fastbrowsersearch.com^$elemhide
+@@||gopher.com^$elemhide
+@@||healthnwell.com^$elemhide
+@@||info.co.uk^$elemhide
+@@||info.com^$elemhide
+@@||info.com.au^$elemhide
+@@||infospace.com^$elemhide
 @@||howstuffworks.com/search.php$elemhide
 @@||metacrawler.com^$elemhide
+@@||myloveluxe.com^$elemhide
+@@||myloveluxe.store^$elemhide
+@@||myloveluxe.today^$elemhide
 @@||nation.com^$elemhide
 @@||savesmart.com^$elemhide
-@@||fastbrowsersearch.com^$elemhide
 @@||tattoodle.com^$elemhide
+@@||walletgenius.com^$elemhide
 @@||webcrawler.com^$elemhide
 @@||zoo.com^$elemhide
 !A34
@@ -8433,7 +8449,6 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||olx.ro^$elemhide
 @@||olx.uz^$elemhide
 !A103
-@@||info.com^$elemhide
 !A104
 @@||bestbuy.com^$elemhide
 !A105
