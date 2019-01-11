@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IaTR/EkVUZ19n5loQCj22Q
-! Version: 201901101415
+! Checksum: s8KSGVT2Vx/G9AWgYSXYxg
+! Version: 201901111415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 Jan 2019 14:15 UTC
+! Last modified: 11 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6321,6 +6321,9 @@ mrexcel.com#@#.ad-unit
 mrexcel.com#@#.ad_global_header
 androidguys.com#@#.td-a-rec-id-custom_ad_2
 urbandictionary.com#@##dark_top
+urbandictionary.com#@#.dfp-panel
+androidguys.com#@#.td-a-rec-id-custom_ad_3
+androidguys.com#@#.td-a-rec-id-custom_ad_4
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -7359,6 +7362,9 @@ gamesflow.com#@#.iconads
 ! Combined whitelists for popup
 !:type=temporary
 ! Experimental
+!:type=temporary
+! Temporary exception rule for testing
+@@||bernitt.biz/eco_shoes.html$elemhide
 !:type=qa
 ! Exception rule for testpages.adblockplus.org
 testpages.adblockplus.org#@##abptest
@@ -7377,14 +7383,12 @@ testpages.adblockplus.org#@##abptest
 @@||assistpub.com^$subdocument,document
 @@||assistpub.com^
 @@||tags-cdn.deployads.com/a/dfp.ebaumsworld.com.js$domain=ebaumsworld.com
-@@||related.ebaumsworld.com/display.html$domain=ebaumsworld.com
-! biography.com,mtonews.com#@#.m-header-ad
-! biography.com,mtonews.com#@#.m-header-ad--slot
-! biography.com,mtonews.com#@#.m-sidebar-ad
-! biography.com,mtonews.com#@#.m-sidebar-ad--slot
-! biography.com,mtonews.com#@#.m-in-content-ad--slot
-! biography.com,mtonews.com#@#.m-in-content-ad
-! biography.com,mtonews.com#@#.m-in-content-ad-row
+@@||redditad.com^$domain=reddit.com
+@@||related.speedtest.net^$domain=speedtest.net
+@@||aax.forbes.com^$domain=forbes.com
+@@||aax.moneycontrol.com^$domain=moneycontrol.com
+@@||related.gamepress.gg^$domain=gamepress.gg
+@@||related.ebaumsworld.com^$domain=ebaumsworld.com
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
 forbes.com#@#.fbs-ad--topx-wrapper
@@ -7446,6 +7450,7 @@ toocool2betrue.com#@##RTK_XKKV
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_KEcG
 moneycontrol.com#@#.promoBanner
+gamepress.gg#@##block-sidebarad1
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
