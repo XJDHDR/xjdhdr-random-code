@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s8KSGVT2Vx/G9AWgYSXYxg
-! Version: 201901111415
+! Checksum: RAKYLvo4L2jLNDzZ8638TQ
+! Version: 201901121415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 11 Jan 2019 14:15 UTC
+! Last modified: 12 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6991,6 +6991,11 @@ israelnationalnews.com#@#div > iframe:first-child
 israelnationalnews.com#@##divTopAd
 timesofisrael.com#@#.banner
 timesofisrael.com#@#.b300x250
+colourlovers.com#@##ga-above-footer
+colourlovers.com#@##ga-below-header
+colourlovers.com#@#.ad
+colourlovers.com#@#[style*="background-image:"]
+colourlovers.com#@#div > iframe:first-child
 gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.ad-side
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -6998,6 +7003,8 @@ gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.
 @@||tamilo.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
 @@||jpost.com^$csp=script-src 'self' 'unsafe-inline' http: https: blob:
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||convertcase.net^$csp=script-src 'self' * blob: data:
+@@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
