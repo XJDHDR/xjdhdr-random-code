@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jjZ2uzJTTG9zpWwJp4Fo8g
-! Version: 201901171415
+! Checksum: stQlAg9dKwD/6j6OeLhQcw
+! Version: 201901181415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 17 Jan 2019 14:15 UTC
+! Last modified: 18 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1855,7 +1855,7 @@ healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.co
 seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
-chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
+boston.com,orlandosentinel.com,chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
 expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
@@ -7000,6 +7000,14 @@ colourlovers.com#@#[style*="background-image:"]
 colourlovers.com#@#div > iframe:first-child
 gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.ad-side
 broadwayworld.com#@#.ezoic-ad
+soolide.com#@##quads-ad1_widget
+soolide.com#@##quads-ad2
+soolide.com#@##quads-ad2_widget
+soolide.com#@#.quads-ad1_widget
+soolide.com#@#.quads-ad2
+tetrisfriends.com#@#.home_advertisement
+tetrisfriends.com#@#div :-abp-properties(display: inline-table !important;)
+@@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
 @@||lucianne.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -7321,6 +7329,8 @@ gamesflow.com#@#.iconads
 @@||tarru.tradedoubler.com^
 @@||cxt.tradedoubler.com^
 @@||clk.tradedoubler.com^
+boutiquesensolde.fr,cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr#@#a[href*="//clk.tradedoubler.com/click?"]
+premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
 ! Generic conversion tracking
@@ -7988,6 +7998,7 @@ gamepress.gg#@##block-sidebarad1
 @@||nation.com^$elemhide
 @@||savesmart.com^$elemhide
 @@||tattoodle.com^$elemhide
+@@||taxinfo.today^$elemhide
 @@||walletgenius.com^$elemhide
 @@||webcrawler.com^$elemhide
 @@||zoo.com^$elemhide
