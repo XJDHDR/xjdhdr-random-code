@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: stQlAg9dKwD/6j6OeLhQcw
-! Version: 201901181415
+! Checksum: ae5eXP/JGuONdhNJNILSFQ
+! Version: 201901191415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Jan 2019 14:15 UTC
+! Last modified: 19 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6326,6 +6326,10 @@ urbandictionary.com#@##dark_top
 urbandictionary.com#@#.dfp-panel
 androidguys.com#@#.td-a-rec-id-custom_ad_3
 androidguys.com#@#.td-a-rec-id-custom_ad_4
+netzwelt.de#@##leaderboard
+netzwelt.de#@##skyscraper
+netzwelt.de#@##leaderboard-wrapper
+netzwelt.de#@##skyscraper-wrapper
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -7136,6 +7140,15 @@ gamesflow.com#@#.iconads
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60991
 ! Au-ja ads
 @@||au-ja.de/banner/$image,domain=au-ja.de
+!:partner_token=codefund
+!:partner_id=3e9235d2b51bb097
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=61184
+! codefund ads
+||codefund.app/assets/px.js?ch=2
+@@||codefund.app/assets/px.js?ch=1
+@@||codefund.app/properties/*/funder.js$third-party
+@@||codefund.app/display/$image,third-party
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7418,13 +7431,6 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-netzwelt.de#@##leaderboard-wrapper
-netzwelt.de#@##skyscraper-wrapper
-netzwelt.de#@##rectangle_sidebar
-netzwelt.de#@##leaderboard
-netzwelt.de#@##Left1
-netzwelt.de#@##skyscraper
-netzwelt.de#@##Left2
 ebaumsworld.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
@@ -7473,6 +7479,10 @@ toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_KEcG
 moneycontrol.com#@#.promoBanner
 gamepress.gg#@##block-sidebarad1
+koutsompolio.gr#@#.MediumRectangleAdPanel
+koutsompolio.gr#@#.adv_left
+koutsompolio.gr#@#.browse-banner_ad
+koutsompolio.gr#@#div[id^="div-gpt-ad"]
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
