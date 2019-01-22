@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0mfKe2WHNvUVLHH5I8Dh7A
-! Version: 201901211415
+! Checksum: Y/HaIvJgbx5HSnrNA4thnQ
+! Version: 201901221415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 21 Jan 2019 14:15 UTC
+! Last modified: 22 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6261,6 +6261,8 @@ bouwsteentjes.info#@#.td-adspot-title
 ||ad-delivery.net/px.gif?ch=2
 @@||btserve.com^$document,subdocument,image
 @@||lijit.com/bidder/impression
+@@||bt.fandom.com^$document,subdocument,domain=fandom.com
+@@||bt.wikia.com^$document,subdocument,domain=wikia.com
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -7011,6 +7013,7 @@ soolide.com#@#.quads-ad1_widget
 soolide.com#@#.quads-ad2
 tetrisfriends.com#@#.home_advertisement
 tetrisfriends.com#@#div :-abp-properties(display: inline-table !important;)
+science-a2z.com,lifestyle-a2z.com,history-a2z.com#@#.single-ad
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
