@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Y/HaIvJgbx5HSnrNA4thnQ
-! Version: 201901221415
+! Checksum: rkXOY0XiFJamM9gMxM9mHw
+! Version: 201901231415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 22 Jan 2019 14:15 UTC
+! Last modified: 23 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1601,7 +1601,7 @@ thenoob.net#@#.adinjwidget
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
 ! Taboola ads
-@@||taboola.com^$popup,domain=gorillavid.in
+@@||taboola.com^$popup,domain=gorillavid.in|khabar.ndtv.com
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
 @@||adsafeprotected.com^$script,domain=entrepreneur.com
