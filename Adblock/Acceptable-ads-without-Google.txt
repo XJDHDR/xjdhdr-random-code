@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rkXOY0XiFJamM9gMxM9mHw
-! Version: 201901231415
+! Checksum: y8zOzRVzg7FWCMZRSnGfNQ
+! Version: 201901241415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 23 Jan 2019 14:15 UTC
+! Last modified: 24 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7151,7 +7151,10 @@ gamesflow.com#@#.iconads
 ||codefund.app/assets/px.js?ch=2
 @@||codefund.app/assets/px.js?ch=1
 @@||codefund.app/properties/*/funder.js$third-party
-@@||codefund.app/display/$image,third-party
+@@||codefund.app^$image,third-party
+! legacy
+@@||codefund.io/scripts/*/embed.js$third-party
+@@||codefund.io/display/$image,third-party
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
