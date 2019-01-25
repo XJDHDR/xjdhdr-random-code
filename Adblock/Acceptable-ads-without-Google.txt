@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y8zOzRVzg7FWCMZRSnGfNQ
-! Version: 201901241415
+! Checksum: IwFY8jb9eJgDMlc4MPzgEQ
+! Version: 201901251415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 24 Jan 2019 14:15 UTC
+! Last modified: 25 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -583,6 +583,7 @@ comunicom.ru#@#.ya-partner
 @@/px.js?ch=1$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
 @@||images.smartname.com/scripts/nmads_caf_$script,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
 @@/nmads_$script,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
+@@&gerf=*&guro=$subdocument,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
 !:partner_token=spielwiki.de
 !:partner_id=3a5c7943fe3021b8
 !:type=partner
@@ -6263,6 +6264,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||lijit.com/bidder/impression
 @@||bt.fandom.com^$document,subdocument,domain=fandom.com
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
+@@||videoplayerhub.com^$third-party
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -6332,6 +6334,13 @@ netzwelt.de#@##leaderboard
 netzwelt.de#@##skyscraper
 netzwelt.de#@##leaderboard-wrapper
 netzwelt.de#@##skyscraper-wrapper
+gogy.com#@#.adBox
+gogy.com#@#.adRight
+gogy.com#@#.adbottom
+gogy.com#@#.adtop
+gogy.com#@#.rightAd
+totalprosports.com#@#.cube-ad
+accuweather.com#@#.panel-ad-mr
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
