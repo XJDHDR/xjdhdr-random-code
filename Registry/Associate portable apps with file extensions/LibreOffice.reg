@@ -45,13 +45,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\comma_separated_values_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\comma_separated_values_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\comma_separated_values_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CLASSES_ROOT\comma_separated_values_file\shell\print]
 
@@ -79,13 +79,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\spreadsheet_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\spreadsheet_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\spreadsheet_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.dif]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dif]
@@ -108,13 +108,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\tab_delimited_text_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\tab_delimited_text_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\tab_delimited_text_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CLASSES_ROOT\tab_delimited_text_file\shell\print]
 
@@ -136,10 +136,10 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\labview_spreadsheet_file\shell\Edit]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\labview_spreadsheet_file\shell\Edit\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.lvm]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.lvm]
@@ -154,13 +154,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\opendocument_database_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeBasePortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeBasePortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\opendocument_database_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeBasePortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeBasePortable.exe,0"
 
 [HKEY_CLASSES_ROOT\opendocument_database_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeBasePortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeBasePortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.odb]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odb]
@@ -191,13 +191,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\opendocument_graphics_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeDrawPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeDrawPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\opendocument_graphics_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeDrawPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeDrawPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\opendocument_graphics_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeDrawPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeDrawPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.odg]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odg]
@@ -231,13 +231,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\opendocument_presentation_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeImpressPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeImpressPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\opendocument_presentation_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeImpressPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeImpressPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\opendocument_presentation_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeImpressPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeImpressPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.odp]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odp]
@@ -280,13 +280,13 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\opendocument_spreadsheet_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\opendocument_spreadsheet_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\opendocument_spreadsheet_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.ods]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ods]
@@ -335,13 +335,13 @@ Windows Registry Editor Version 5.00
 @="ODF Text Document"
 
 [HKEY_CLASSES_ROOT\opendocument_text_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\opendocument_text_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\opendocument_text_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\" \"%1\""
 
 [-HKEY_CLASSES_ROOT\opendocument_text_file\shell\print]
 
@@ -367,13 +367,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\doc_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\doc_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\doc_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.doc]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.doc]
@@ -392,31 +392,19 @@ Windows Registry Editor Version 5.00
 @="OOXML Text Document"
 
 [HKEY_CLASSES_ROOT\docxfile\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\docxfile\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\docxfile\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\" \"%1\""
 
 [-HKEY_CLASSES_ROOT\docxfile\shell\print]
 [-HKEY_CLASSES_ROOT\docxfile\shell\printto]
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.docx]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.docx]
-
-
-[-HKEY_CLASSES_ROOT\.ppt]
-[HKEY_CLASSES_ROOT\.ppt]
-@="opendocument_presentation_file"
-
-[HKEY_CLASSES_ROOT\.ppt\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.odp]
-[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odp]
 
 
 [-HKEY_CLASSES_ROOT\.rt]
@@ -467,13 +455,13 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.txe]
 
 [HKEY_CLASSES_ROOT\rtffile\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\rtffile\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\rtffile\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe\" \"%1\""
 
 
 [-HKEY_CLASSES_ROOT\.xls]
@@ -485,13 +473,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\xls_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\xls_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\xls_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.xls]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xls]
@@ -506,13 +494,13 @@ Windows Registry Editor Version 5.00
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\xlsx_file\DefaultIcon]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\",0"
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\",0"
 
 [HKEY_CLASSES_ROOT\xlsx_file\shell\open]
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe,0"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\xlsx_file\shell\open\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeCalcPortable.exe\" \"%1\""
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeCalcPortable.exe\" \"%1\""
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.xlsx]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xlsx]
@@ -521,7 +509,7 @@ Windows Registry Editor Version 5.00
 ; Register LibreOffice to Default Programs
 [HKEY_LOCAL_MACHINE\SOFTWARE\Portable\LibreOffice\Capabilities]
 "ApplicationDescription"="LibreOffice is a free and open source office suite, a project of The Document Foundation. It was forked from OpenOffice.org in 2010, which was an open-sourced version of the earlier StarOffice. The LibreOffice suite comprises programs for word processing, the creation and editing of spreadsheets, slideshows, diagrams and drawings, working with databases, and composing mathematical formulae. It is available in 110 languages."
-"ApplicationIcon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortable\\LibreOfficeWriterPortable.exe,0"
+"ApplicationIcon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeWriterPortable.exe,0"
 "ApplicationName"="LibreOffice"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Portable\LibreOffice\Capabilities\FileAssociations]
@@ -551,7 +539,6 @@ Windows Registry Editor Version 5.00
 ".doc"="doc_file"
 ".doc#"="doc_file"
 ".docx"="docxfile"
-".ppt"="opendocument_presentation_file"
 ".rt"="rtffile"
 ".rtf"="rtffile"
 ".rtx"="rtffile"

@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+; This registry file will associate various file extensions with HxD such that they
+; can be opened by using the "Edit with HxD" option in the file's context menu.
+:
+; A restart is not required to apply these registry values
+;
+; NOTE!
+; While I've tried to ensure that these registry settings don't cause problems,
+; using this file may damage your PC's configuration. Specifically, it might cause certain
+; files to not behave the way they should. While I would appreciate any bug reports
+; resulting from the use of this file, I do not take responsibility for any
+; problems that would result from using these registry settings.
+; You have been warned!
+
+
+[HKEY_CLASSES_ROOT\exefile\shell\EditWithXnResourceEditor]
+@="Edit with XN Resource Editor"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\XNResourceEditorPortable\\XNResourceEditorPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\exefile\shell\EditWithXnResourceEditor\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\XNResourceEditorPortable\\XNResourceEditorPortable.exe\" \"%1\""

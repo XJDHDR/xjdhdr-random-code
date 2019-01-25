@@ -17,7 +17,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.!!!]
 [HKEY_CLASSES_ROOT\.!!!]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.!!!\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -29,7 +29,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.1st]
 [HKEY_CLASSES_ROOT\.1st]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.1st\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -41,7 +41,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.abs]
 [HKEY_CLASSES_ROOT\.abs]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.abs\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -53,7 +53,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.actionScriptProperties]
 [HKEY_CLASSES_ROOT\.actionScriptProperties]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.actionScriptProperties\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -65,7 +65,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ad2]
 [HKEY_CLASSES_ROOT\.ad2]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ad2\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -77,7 +77,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ada]
 [HKEY_CLASSES_ROOT\.ada]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ada\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -89,7 +89,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ans]
 [HKEY_CLASSES_ROOT\.ans]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ans\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -101,7 +101,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ap]
 [HKEY_CLASSES_ROOT\.ap]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ap\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -113,7 +113,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.appcache]
 [HKEY_CLASSES_ROOT\.appcache]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.appcache\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -125,7 +125,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.apxl]
 [HKEY_CLASSES_ROOT\.apxl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.apxl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -137,7 +137,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ascii]
 [HKEY_CLASSES_ROOT\.ascii]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ascii\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -149,7 +149,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.att]
 [HKEY_CLASSES_ROOT\.att]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.att\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -161,7 +161,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.aupreset]
 [HKEY_CLASSES_ROOT\.aupreset]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.aupreset\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -173,7 +173,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.axs]
 [HKEY_CLASSES_ROOT\.axs]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.axs\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -185,7 +185,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bashrc]
 [HKEY_CLASSES_ROOT\.bashrc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bashrc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -197,7 +197,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bbs]
 [HKEY_CLASSES_ROOT\.bbs]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bbs\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -209,7 +209,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bif]
 [HKEY_CLASSES_ROOT\.bif]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bif\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -221,7 +221,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bml]
 [HKEY_CLASSES_ROOT\.bml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -233,7 +233,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bms]
 [HKEY_CLASSES_ROOT\.bms]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bms\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -245,7 +245,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bs2]
 [HKEY_CLASSES_ROOT\.bs2]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bs2\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -257,7 +257,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bsdl]
 [HKEY_CLASSES_ROOT\.bsdl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bsdl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -269,7 +269,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.bss]
 [HKEY_CLASSES_ROOT\.bss]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.bss\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -325,7 +325,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.cho]
 [HKEY_CLASSES_ROOT\.cho]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.cho\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -337,7 +337,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.chord]
 [HKEY_CLASSES_ROOT\.chord]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.chord\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -349,7 +349,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.chtml]
 [HKEY_CLASSES_ROOT\.chtml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.chtml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -361,7 +361,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.cl]
 [HKEY_CLASSES_ROOT\.cl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.cl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -373,7 +373,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.cm0013]
 [HKEY_CLASSES_ROOT\.cm0013]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.cm0013\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -385,7 +385,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.cnn]
 [HKEY_CLASSES_ROOT\.cnn]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.cnn\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -397,7 +397,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.cor]
 [HKEY_CLASSES_ROOT\.cor]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.cor\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -409,7 +409,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.crd]
 [HKEY_CLASSES_ROOT\.crd]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.crd\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -421,7 +421,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.csassembly]
 [HKEY_CLASSES_ROOT\.csassembly]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.csassembly\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -433,7 +433,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.csmanifest]
 [HKEY_CLASSES_ROOT\.csmanifest]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.csmanifest\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -445,7 +445,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ctt]
 [HKEY_CLASSES_ROOT\.ctt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ctt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -457,7 +457,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dcd]
 [HKEY_CLASSES_ROOT\.dcd]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dcd\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -469,7 +469,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.de]
 [HKEY_CLASSES_ROOT\.de]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.de\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -481,7 +481,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dea]
 [HKEY_CLASSES_ROOT\.dea]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dea\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -493,7 +493,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dfm]
 [HKEY_CLASSES_ROOT\.dfm]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dfm\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -505,7 +505,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dkz]
 [HKEY_CLASSES_ROOT\.dkz]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dkz\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -517,7 +517,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dml]
 [HKEY_CLASSES_ROOT\.dml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -529,7 +529,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dok]
 [HKEY_CLASSES_ROOT\.dok]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dok\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -541,7 +541,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dp]
 [HKEY_CLASSES_ROOT\.dp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -553,7 +553,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dsml]
 [HKEY_CLASSES_ROOT\.dsml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dsml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -565,7 +565,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.dvb]
 [HKEY_CLASSES_ROOT\.dvb]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.dvb\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -577,7 +577,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.en]
 [HKEY_CLASSES_ROOT\.en]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.en\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -589,7 +589,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.err]
 [HKEY_CLASSES_ROOT\.err]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.err\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -601,7 +601,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.es]
 [HKEY_CLASSES_ROOT\.es]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.es\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -613,7 +613,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.etx]
 [HKEY_CLASSES_ROOT\.etx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.etx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -625,7 +625,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.exc]
 [HKEY_CLASSES_ROOT\.exc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.exc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -637,7 +637,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.extra]
 [HKEY_CLASSES_ROOT\.extra]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.extra\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -649,7 +649,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.faq]
 [HKEY_CLASSES_ROOT\.faq]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.faq\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -661,7 +661,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.fdoc]
 [HKEY_CLASSES_ROOT\.fdoc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.fdoc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -673,7 +673,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.fff]
 [HKEY_CLASSES_ROOT\.fff]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.fff\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -685,7 +685,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ffpreset]
 [HKEY_CLASSES_ROOT\.ffpreset]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ffpreset\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -697,7 +697,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.fgl]
 [HKEY_CLASSES_ROOT\.fgl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.fgl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -709,7 +709,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.first]
 [HKEY_CLASSES_ROOT\.first]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.first\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -721,7 +721,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.flr]
 [HKEY_CLASSES_ROOT\.flr]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.flr\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -733,7 +733,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.fountain]
 [HKEY_CLASSES_ROOT\.fountain]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.fountain\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -745,7 +745,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.fr]
 [HKEY_CLASSES_ROOT\.fr]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.fr\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -757,7 +757,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ger]
 [HKEY_CLASSES_ROOT\.ger]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ger\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -769,7 +769,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.gmanifest]
 [HKEY_CLASSES_ROOT\.gmanifest]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.gmanifest\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -781,7 +781,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.gpl]
 [HKEY_CLASSES_ROOT\.gpl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.gpl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -793,7 +793,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.gs]
 [HKEY_CLASSES_ROOT\.gs]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.gs\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -805,7 +805,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.gws]
 [HKEY_CLASSES_ROOT\.gws]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.gws\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -817,7 +817,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.gyp]
 [HKEY_CLASSES_ROOT\.gyp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.gyp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -829,7 +829,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.hdt]
 [HKEY_CLASSES_ROOT\.hdt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.hdt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -841,7 +841,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.hex]
 [HKEY_CLASSES_ROOT\.hex]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.hex\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -853,7 +853,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.hvc]
 [HKEY_CLASSES_ROOT\.hvc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.hvc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -865,7 +865,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.hsk]
 [HKEY_CLASSES_ROOT\.hsk]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.hsk\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -877,7 +877,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.htaccess]
 [HKEY_CLASSES_ROOT\.htaccess]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.htaccess\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -889,7 +889,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ide]
 [HKEY_CLASSES_ROOT\.ide]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ide\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -901,7 +901,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.inc]
 [HKEY_CLASSES_ROOT\.inc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.inc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -941,6 +941,9 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\.ini]
 @="inifile"
 
+[HKEY_CLASSES_ROOT\.ini\ShellNew]
+"NullFile"=""
+
 [HKEY_CLASSES_ROOT\.ini\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
@@ -974,7 +977,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.inuse]
 [HKEY_CLASSES_ROOT\.inuse]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.inuse\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -986,7 +989,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ion]
 [HKEY_CLASSES_ROOT\.ion]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ion\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -998,7 +1001,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.it]
 [HKEY_CLASSES_ROOT\.it]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.it\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1010,7 +1013,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.jacl]
 [HKEY_CLASSES_ROOT\.jacl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.jacl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1022,7 +1025,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.jtx]
 [HKEY_CLASSES_ROOT\.jtx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.jtx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1034,7 +1037,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.kcl]
 [HKEY_CLASSES_ROOT\.kcl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.kcl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1046,7 +1049,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.kl3]
 [HKEY_CLASSES_ROOT\.kl3]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.kl3\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1058,7 +1061,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.klg]
 [HKEY_CLASSES_ROOT\.klg]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.klg\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1070,7 +1073,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lge]
 [HKEY_CLASSES_ROOT\.lge]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lge\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1082,7 +1085,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lin]
 [HKEY_CLASSES_ROOT\.lin]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lin\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1094,7 +1097,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.linx]
 [HKEY_CLASSES_ROOT\.linx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.linx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1106,7 +1109,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lisp]
 [HKEY_CLASSES_ROOT\.lisp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lisp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1118,7 +1121,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lng]
 [HKEY_CLASSES_ROOT\.lng]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lng\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1130,7 +1133,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.log]
 [HKEY_CLASSES_ROOT\.log]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.log\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1142,7 +1145,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lol]
 [HKEY_CLASSES_ROOT\.lol]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lol\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1154,7 +1157,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lols]
 [HKEY_CLASSES_ROOT\.lols]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lols\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1166,7 +1169,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lsp]
 [HKEY_CLASSES_ROOT\.lsp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lsp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1178,7 +1181,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ltt]
 [HKEY_CLASSES_ROOT\.ltt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ltt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1190,7 +1193,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.lua]
 [HKEY_CLASSES_ROOT\.lua]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.lua\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1202,7 +1205,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.m2r]
 [HKEY_CLASSES_ROOT\.m2r]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.m2r\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1214,7 +1217,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.maf]
 [HKEY_CLASSES_ROOT\.maf]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.maf\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1226,7 +1229,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.manifest]
 [HKEY_CLASSES_ROOT\.manifest]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.manifest\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1238,7 +1241,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mcml]
 [HKEY_CLASSES_ROOT\.mcml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mcml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1250,7 +1253,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mdle]
 [HKEY_CLASSES_ROOT\.mdle]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mdle\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1262,7 +1265,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.me]
 [HKEY_CLASSES_ROOT\.me]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.me\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1274,7 +1277,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mit]
 [HKEY_CLASSES_ROOT\.mit]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mit\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1286,7 +1289,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mmt]
 [HKEY_CLASSES_ROOT\.mmt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mmt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1298,7 +1301,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mkp]
 [HKEY_CLASSES_ROOT\.mkp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mkp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1310,7 +1313,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mlf]
 [HKEY_CLASSES_ROOT\.mlf]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mlf\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1322,7 +1325,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mml]
 [HKEY_CLASSES_ROOT\.mml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1334,7 +1337,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.morse]
 [HKEY_CLASSES_ROOT\.morse]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.morse\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1346,7 +1349,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.mrl]
 [HKEY_CLASSES_ROOT\.mrl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.mrl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1358,7 +1361,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.nfo]
 [HKEY_CLASSES_ROOT\.nfo]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.nfo\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1370,7 +1373,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.now]
 [HKEY_CLASSES_ROOT\.now]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.now\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1382,7 +1385,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.nvi]
 [HKEY_CLASSES_ROOT\.nvi]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.nvi\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1394,7 +1397,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ocr]
 [HKEY_CLASSES_ROOT\.ocr]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ocr\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1406,7 +1409,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ojp]
 [HKEY_CLASSES_ROOT\.ojp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ojp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1418,7 +1421,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.omn]
 [HKEY_CLASSES_ROOT\.omn]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.omn\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1430,7 +1433,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.oplm]
 [HKEY_CLASSES_ROOT\.oplm]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.oplm\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1442,7 +1445,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.opml]
 [HKEY_CLASSES_ROOT\.opml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.opml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1454,7 +1457,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.p3x]
 [HKEY_CLASSES_ROOT\.p3x]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.p3x\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1466,7 +1469,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.pdu]
 [HKEY_CLASSES_ROOT\.pdu]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.pdu\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1478,7 +1481,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.pl]
 [HKEY_CLASSES_ROOT\.pl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.pl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1490,7 +1493,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.plg]
 [HKEY_CLASSES_ROOT\.plg]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.plg\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1520,7 +1523,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.pls]
 [HKEY_CLASSES_ROOT\.pls]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.pls\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1532,7 +1535,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.plsx]
 [HKEY_CLASSES_ROOT\.plsx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.plsx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1562,7 +1565,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.pnach]
 [HKEY_CLASSES_ROOT\.pnach]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.pnach\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1574,7 +1577,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.po]
 [HKEY_CLASSES_ROOT\.po]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.po\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1586,7 +1589,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.pod]
 [HKEY_CLASSES_ROOT\.pod]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.pod\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1598,7 +1601,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.poix]
 [HKEY_CLASSES_ROOT\.poix]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.poix\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1636,7 +1639,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.properties]
 [HKEY_CLASSES_ROOT\.properties]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.properties\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1666,7 +1669,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.ptxml]
 [HKEY_CLASSES_ROOT\.ptxml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.ptxml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1678,7 +1681,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.qdl]
 [HKEY_CLASSES_ROOT\.qdl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.qdl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1690,7 +1693,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.qdt]
 [HKEY_CLASSES_ROOT\.qdt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.qdt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1702,7 +1705,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.qud]
 [HKEY_CLASSES_ROOT\.qud]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.qud\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1714,7 +1717,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.readme]
 [HKEY_CLASSES_ROOT\.readme]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.readme\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1726,7 +1729,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.resp]
 [HKEY_CLASSES_ROOT\.resp]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.resp\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1738,7 +1741,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.rml]
 [HKEY_CLASSES_ROOT\.rml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.rml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1750,7 +1753,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.rng]
 [HKEY_CLASSES_ROOT\.rng]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.rng\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1762,7 +1765,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.rsl]
 [HKEY_CLASSES_ROOT\.rsl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.rsl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1774,7 +1777,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.rtl]
 [HKEY_CLASSES_ROOT\.rtl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.rtl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1786,7 +1789,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.rub]
 [HKEY_CLASSES_ROOT\.rub]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.rub\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1798,7 +1801,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.rzn]
 [HKEY_CLASSES_ROOT\.rzn]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.rzn\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1810,7 +1813,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.s]
 [HKEY_CLASSES_ROOT\.s]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.s\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1822,7 +1825,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.s19]
 [HKEY_CLASSES_ROOT\.s19]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.s19\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1834,7 +1837,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.s1p]
 [HKEY_CLASSES_ROOT\.s1p]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.s1p\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1846,7 +1849,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.s2p]
 [HKEY_CLASSES_ROOT\.s2p]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.s2p\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1858,7 +1861,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.s3p]
 [HKEY_CLASSES_ROOT\.s3p]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.s3p\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1870,7 +1873,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.s4p]
 [HKEY_CLASSES_ROOT\.s4p]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.s4p\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1882,7 +1885,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.saas]
 [HKEY_CLASSES_ROOT\.saas]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.saas\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1894,7 +1897,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.sbv]
 [HKEY_CLASSES_ROOT\.sbv]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.sbv\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1906,7 +1909,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.set]
 [HKEY_CLASSES_ROOT\.set]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.set\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1918,7 +1921,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.sfb]
 [HKEY_CLASSES_ROOT\.sfb]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.sfb\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1930,7 +1933,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.skudef]
 [HKEY_CLASSES_ROOT\.skudef]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.skudef\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1942,7 +1945,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.sls]
 [HKEY_CLASSES_ROOT\.sls]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.sls\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1954,7 +1957,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.smali]
 [HKEY_CLASSES_ROOT\.smali]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.smali\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1966,7 +1969,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.soap]
 [HKEY_CLASSES_ROOT\.soap]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.soap\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1978,7 +1981,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.soundscript]
 [HKEY_CLASSES_ROOT\.soundscript]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.soundscript\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -1990,7 +1993,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.src]
 [HKEY_CLASSES_ROOT\.src]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.src\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2002,7 +2005,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.srt]
 [HKEY_CLASSES_ROOT\.srt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.srt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2014,7 +2017,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.srx]
 [HKEY_CLASSES_ROOT\.srx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.srx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2026,7 +2029,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.t]
 [HKEY_CLASSES_ROOT\.t]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.t\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2038,7 +2041,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.text]
 [HKEY_CLASSES_ROOT\.text]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.text\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2050,7 +2053,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.tgml]
 [HKEY_CLASSES_ROOT\.tgml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.tgml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2062,7 +2065,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.tlx]
 [HKEY_CLASSES_ROOT\.tlx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.tlx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2074,7 +2077,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.tur]
 [HKEY_CLASSES_ROOT\.tur]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.tur\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2086,7 +2089,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.tx8]
 [HKEY_CLASSES_ROOT\.tx8]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.tx8\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2098,7 +2101,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.txh]
 [HKEY_CLASSES_ROOT\.txh]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.txh\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2110,7 +2113,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.txml]
 [HKEY_CLASSES_ROOT\.txml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.txml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2122,24 +2125,36 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.txt]
 [HKEY_CLASSES_ROOT\.txt]
-@="txtfile"
+@="txt_file"
 "PerceivedType"="text"
 "Content Type"="text/plain"
 
-[HKEY_CLASSES_ROOT\.txt\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
 [HKEY_CLASSES_ROOT\.txt\ShellNew]
-"ItemName"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
-  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
-  00,6e,00,6f,00,74,00,65,00,70,00,61,00,64,00,2e,00,65,00,78,00,65,00,2c,00,\
-  2d,00,34,00,37,00,30,00,00,00
+"ItemName"="Template.txt"
 "NullFile"=""
 
 [HKEY_CLASSES_ROOT\.txt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[HKEY_CLASSES_ROOT\txt_file]
+@="Text Document"
+
+[HKEY_CLASSES_ROOT\txt_file\DefaultIcon]
+@="%SystemRoot%\system32\imageres.dll,-102"
+
+[HKEY_CLASSES_ROOT\txt_file\shell\open]
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
+
+[HKEY_CLASSES_ROOT\txt_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\txtfile]
+@="Text Document"
+
+[HKEY_CLASSES_ROOT\txtfile\DefaultIcon]
+@="%SystemRoot%\system32\imageres.dll,-102"
 
 [HKEY_CLASSES_ROOT\txtfile\shell\open]
 "Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
@@ -2164,7 +2179,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.txt12]
 [HKEY_CLASSES_ROOT\.txt12]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.txt12\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2176,7 +2191,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.uccapilog]
 [HKEY_CLASSES_ROOT\.uccapilog]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.uccapilog\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2188,7 +2203,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.uhtml]
 [HKEY_CLASSES_ROOT\.uhtml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.uhtml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2200,7 +2215,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.uk]
 [HKEY_CLASSES_ROOT\.uk]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.uk\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2212,7 +2227,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.uni]
 [HKEY_CLASSES_ROOT\.uni]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.uni\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2224,7 +2239,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.us]
 [HKEY_CLASSES_ROOT\.us]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.us\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2254,7 +2269,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.usf]
 [HKEY_CLASSES_ROOT\.usf]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.usf\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2266,7 +2281,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.vxml]
 [HKEY_CLASSES_ROOT\.vxml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.vxml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2278,7 +2293,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.wccf]
 [HKEY_CLASSES_ROOT\.wccf]
-@="txtfile"
+@="txt_file"
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Roaming\OpenWith\FileExts\.wccf]
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wccf]
@@ -2286,7 +2301,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.websettings]
 [HKEY_CLASSES_ROOT\.websettings]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.websettings\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2298,7 +2313,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.wml]
 [HKEY_CLASSES_ROOT\.wml]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.wml\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2310,7 +2325,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.wmlc]
 [HKEY_CLASSES_ROOT\.wmlc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.wmlc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2322,7 +2337,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.wmls]
 [HKEY_CLASSES_ROOT\.wmls]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.wmls\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2334,7 +2349,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.wmlsc]
 [HKEY_CLASSES_ROOT\.wmlsc]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.wmlsc\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2346,7 +2361,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.wtx]
 [HKEY_CLASSES_ROOT\.wtx]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.wtx\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2383,7 +2398,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.xpd]
 [HKEY_CLASSES_ROOT\.xpd]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.xpd\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2395,7 +2410,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.xsd]
 [HKEY_CLASSES_ROOT\.xsd]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.xsd\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2407,7 +2422,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.xsl]
 [HKEY_CLASSES_ROOT\.xsl]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.xsl\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2419,7 +2434,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.xslt]
 [HKEY_CLASSES_ROOT\.xslt]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.xslt\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2431,7 +2446,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.xtd]
 [HKEY_CLASSES_ROOT\.xtd]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.xtd\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2443,7 +2458,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.yml2]
 [HKEY_CLASSES_ROOT\.yml2]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.yml2\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2455,7 +2470,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\.zeg]
 [HKEY_CLASSES_ROOT\.zeg]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\.zeg\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2467,7 +2482,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\._me]
 [HKEY_CLASSES_ROOT\._me]
-@="txtfile"
+@="txt_file"
 
 [HKEY_CLASSES_ROOT\._me\PersistentHandler]
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
@@ -2488,202 +2503,202 @@ Windows Registry Editor Version 5.00
 "ApplicationName"="Notepad++"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Portable\Notepad++\Capabilities\FileAssociations]
-".!!!"="txtfile"
-".1st"="txtfile"
-".abs"="txtfile"
-".actionScriptProperties"="txtfile"
-".ad2"="txtfile"
-".ada"="txtfile"
-".ans"="txtfile"
-".ap"="txtfile"
-".appcache"="txtfile"
-".apxl"="txtfile"
-".ascii"="txtfile"
-".att"="txtfile"
-".aupreset"="txtfile"
-".axs"="txtfile"
-".bashrc"="txtfile"
-".bbs"="txtfile"
-".bif"="txtfile"
-".bml"="txtfile"
-".bms"="txtfile"
-".bs2"="txtfile"
-".bsdl"="txtfile"
-".bss"="txtfile"
+".!!!"="txt_file"
+".1st"="txt_file"
+".abs"="txt_file"
+".actionScriptProperties"="txt_file"
+".ad2"="txt_file"
+".ada"="txt_file"
+".ans"="txt_file"
+".ap"="txt_file"
+".appcache"="txt_file"
+".apxl"="txt_file"
+".ascii"="txt_file"
+".att"="txt_file"
+".aupreset"="txt_file"
+".axs"="txt_file"
+".bashrc"="txt_file"
+".bbs"="txt_file"
+".bif"="txt_file"
+".bml"="txt_file"
+".bms"="txt_file"
+".bs2"="txt_file"
+".bsdl"="txt_file"
+".bss"="txt_file"
 ".cfg"="configuration_file"
 ".conf"="configuration_file"
 ".pcf"="configuration_file"
-".cho"="txtfile"
-".chord"="txtfile"
-".chtml"="txtfile"
-".cl"="txtfile"
-".cm0013"="txtfile"
-".cnn"="txtfile"
-".cor"="txtfile"
-".crd"="txtfile"
-".csassembly"="txtfile"
-".csmanifest"="txtfile"
-".ctt"="txtfile"
-".dcd"="txtfile"
-".de"="txtfile"
-".dea"="txtfile"
-".dfm"="txtfile"
-".dkz"="txtfile"
-".dml"="txtfile"
-".dok"="txtfile"
-".dp"="txtfile"
-".dsml"="txtfile"
-".dvb"="txtfile"
-".en"="txtfile"
-".err"="txtfile"
-".es"="txtfile"
-".etx"="txtfile"
-".exc"="txtfile"
-".extra"="txtfile"
-".faq"="txtfile"
-".fdoc"="txtfile"
-".fff"="txtfile"
-".ffpreset"="txtfile"
-".fgl"="txtfile"
-".first"="txtfile"
-".flr"="txtfile"
-".fountain"="txtfile"
-".fr"="txtfile"
-".ger"="txtfile"
-".gmanifest"="txtfile"
-".gpl"="txtfile"
-".gs"="txtfile"
-".gws"="txtfile"
-".gyp"="txtfile"
-".hdt"="txtfile"
-".hex"="txtfile"
-".hvc"="txtfile"
-".hsk"="txtfile"
-".htaccess"="txtfile"
-".ide"="txtfile"
-".inc"="txtfile"
+".cho"="txt_file"
+".chord"="txt_file"
+".chtml"="txt_file"
+".cl"="txt_file"
+".cm0013"="txt_file"
+".cnn"="txt_file"
+".cor"="txt_file"
+".crd"="txt_file"
+".csassembly"="txt_file"
+".csmanifest"="txt_file"
+".ctt"="txt_file"
+".dcd"="txt_file"
+".de"="txt_file"
+".dea"="txt_file"
+".dfm"="txt_file"
+".dkz"="txt_file"
+".dml"="txt_file"
+".dok"="txt_file"
+".dp"="txt_file"
+".dsml"="txt_file"
+".dvb"="txt_file"
+".en"="txt_file"
+".err"="txt_file"
+".es"="txt_file"
+".etx"="txt_file"
+".exc"="txt_file"
+".extra"="txt_file"
+".faq"="txt_file"
+".fdoc"="txt_file"
+".fff"="txt_file"
+".ffpreset"="txt_file"
+".fgl"="txt_file"
+".first"="txt_file"
+".flr"="txt_file"
+".fountain"="txt_file"
+".fr"="txt_file"
+".ger"="txt_file"
+".gmanifest"="txt_file"
+".gpl"="txt_file"
+".gs"="txt_file"
+".gws"="txt_file"
+".gyp"="txt_file"
+".hdt"="txt_file"
+".hex"="txt_file"
+".hvc"="txt_file"
+".hsk"="txt_file"
+".htaccess"="txt_file"
+".ide"="txt_file"
+".inc"="txt_file"
 ".inf"="inffile"
 ".ini"="inifile"
 ".ini2"="inifile"
-".inuse"="txtfile"
-".ion"="txtfile"
-".it"="txtfile"
-".jacl"="txtfile"
-".jtx"="txtfile"
-".kcl"="txtfile"
-".kl3"="txtfile"
-".klg"="txtfile"
-".lge"="txtfile"
-".lin"="txtfile"
-".linx"="txtfile"
-".lisp"="txtfile"
-".lng"="txtfile"
-".log"="txtfile"
-".lol"="txtfile"
-".lols"="txtfile"
-".lsp"="txtfile"
-".ltt"="txtfile"
-".lua"="txtfile"
-".m2r"="txtfile"
-".maf"="txtfile"
-".manifest"="txtfile"
-".mcml"="txtfile"
-".mdle"="txtfile"
-".me"="txtfile"
-".mit"="txtfile"
-".mmt"="txtfile"
-".mkp"="txtfile"
-".mlf"="txtfile"
-".mml"="txtfile"
-".morse"="txtfile"
-".mrl"="txtfile"
-".nfo"="txtfile"
-".now"="txtfile"
-".nvi"="txtfile"
-".ocr"="txtfile"
-".ojp"="txtfile"
-".omn"="txtfile"
-".oplm"="txtfile"
-".opml"="txtfile"
-".p3x"="txtfile"
-".pdu"="txtfile"
-".pl"="txtfile"
-".plg"="txtfile"
+".inuse"="txt_file"
+".ion"="txt_file"
+".it"="txt_file"
+".jacl"="txt_file"
+".jtx"="txt_file"
+".kcl"="txt_file"
+".kl3"="txt_file"
+".klg"="txt_file"
+".lge"="txt_file"
+".lin"="txt_file"
+".linx"="txt_file"
+".lisp"="txt_file"
+".lng"="txt_file"
+".log"="txt_file"
+".lol"="txt_file"
+".lols"="txt_file"
+".lsp"="txt_file"
+".ltt"="txt_file"
+".lua"="txt_file"
+".m2r"="txt_file"
+".maf"="txt_file"
+".manifest"="txt_file"
+".mcml"="txt_file"
+".mdle"="txt_file"
+".me"="txt_file"
+".mit"="txt_file"
+".mmt"="txt_file"
+".mkp"="txt_file"
+".mlf"="txt_file"
+".mml"="txt_file"
+".morse"="txt_file"
+".mrl"="txt_file"
+".nfo"="txt_file"
+".now"="txt_file"
+".nvi"="txt_file"
+".ocr"="txt_file"
+".ojp"="txt_file"
+".omn"="txt_file"
+".oplm"="txt_file"
+".opml"="txt_file"
+".p3x"="txt_file"
+".pdu"="txt_file"
+".pl"="txt_file"
+".plg"="txt_file"
 ".pln"="ms_flight_simulator_flight_plan_data_file"
-".pls"="txtfile"
-".plsx"="txtfile"
+".pls"="txt_file"
+".plsx"="txt_file"
 ".pml"="pml_file"
-".pnach"="txtfile"
-".po"="txtfile"
-".pod"="txtfile"
-".poix"="txtfile"
+".pnach"="txt_file"
+".po"="txt_file"
+".pod"="txt_file"
+".poix"="txt_file"
 ".ppnl"="printer_instructions_file"
 ".prn"="printer_instructions_file"
-".properties"="txtfile"
+".properties"="txt_file"
 ".psc"="papyrus_script_source_file"
-".ptxml"="txtfile"
-".qdl"="txtfile"
-".qdt"="txtfile"
-".qud"="txtfile"
-".readme"="txtfile"
-".resp"="txtfile"
-".rml"="txtfile"
-".rng"="txtfile"
-".rsl"="txtfile"
-".rtl"="txtfile"
-".rub"="txtfile"
-".rzn"="txtfile"
-".s"="txtfile"
-".s19"="txtfile"
-".s1p"="txtfile"
-".s2p"="txtfile"
-".s3p"="txtfile"
-".s4p"="txtfile"
-".saas"="txtfile"
-".sbv"="txtfile"
-".set"="txtfile"
-".sfb"="txtfile"
-".skudef"="txtfile"
-".sls"="txtfile"
-".smali"="txtfile"
-".soap"="txtfile"
-".soundscript"="txtfile"
-".src"="txtfile"
-".srt"="txtfile"
-".srx"="txtfile"
-".t"="txtfile"
-".text"="txtfile"
-".tgml"="txtfile"
-".tlx"="txtfile"
-".tur"="txtfile"
-".tx8"="txtfile"
-".txh"="txtfile"
-".txml"="txtfile"
-".txt"="txtfile"
-".txt12"="txtfile"
-".uccapilog"="txtfile"
-".uhtml"="txtfile"
-".uk"="txtfile"
-".uni"="txtfile"
-".us"="txtfile"
+".ptxml"="txt_file"
+".qdl"="txt_file"
+".qdt"="txt_file"
+".qud"="txt_file"
+".readme"="txt_file"
+".resp"="txt_file"
+".rml"="txt_file"
+".rng"="txt_file"
+".rsl"="txt_file"
+".rtl"="txt_file"
+".rub"="txt_file"
+".rzn"="txt_file"
+".s"="txt_file"
+".s19"="txt_file"
+".s1p"="txt_file"
+".s2p"="txt_file"
+".s3p"="txt_file"
+".s4p"="txt_file"
+".saas"="txt_file"
+".sbv"="txt_file"
+".set"="txt_file"
+".sfb"="txt_file"
+".skudef"="txt_file"
+".sls"="txt_file"
+".smali"="txt_file"
+".soap"="txt_file"
+".soundscript"="txt_file"
+".src"="txt_file"
+".srt"="txt_file"
+".srx"="txt_file"
+".t"="txt_file"
+".text"="txt_file"
+".tgml"="txt_file"
+".tlx"="txt_file"
+".tur"="txt_file"
+".tx8"="txt_file"
+".txh"="txt_file"
+".txml"="txt_file"
+".txt"="txt_file"
+".txt12"="txt_file"
+".uccapilog"="txt_file"
+".uhtml"="txt_file"
+".uk"="txt_file"
+".uni"="txt_file"
+".us"="txt_file"
 ".user"="user_options_file"
-".usf"="txtfile"
-".vxml"="txtfile"
-".websettings"="txtfile"
-".wml"="txtfile"
-".wmlc"="txtfile"
-".wmls"="txtfile"
-".wmlsc"="txtfile"
-".wtx"="txtfile"
+".usf"="txt_file"
+".vxml"="txt_file"
+".websettings"="txt_file"
+".wml"="txt_file"
+".wmlc"="txt_file"
+".wmls"="txt_file"
+".wmlsc"="txt_file"
+".wtx"="txt_file"
 ".xml"="xmlfile"
-".xpd"="txtfile"
-".xsd"="txtfile"
-".xsl"="txtfile"
-".xslt"="txtfile"
-".xtd"="txtfile"
-".yml2"="txtfile"
-".zeg"="txtfile"
-"._me"="txtfile"
+".xpd"="txt_file"
+".xsd"="txt_file"
+".xsl"="txt_file"
+".xslt"="txt_file"
+".xtd"="txt_file"
+".yml2"="txt_file"
+".zeg"="txt_file"
+"._me"="txt_file"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
 "Notepad++"="Software\\Portable\\Notepad++\\Capabilities"

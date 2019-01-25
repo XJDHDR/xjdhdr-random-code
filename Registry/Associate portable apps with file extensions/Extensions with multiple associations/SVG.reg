@@ -12,12 +12,18 @@ Windows Registry Editor Version 5.00
 @="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
 "OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
+[-HKEY_CLASSES_ROOT\svgfile]
+[HKEY_CLASSES_ROOT\svgfile]
+@="SVG Document"
+
 [HKEY_CLASSES_ROOT\svgfile\shell\open]
-@="E&dit"
+@="O&pen"
 "Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe,0"
 
 [HKEY_CLASSES_ROOT\svgfile\shell\open\command]
 @="\"D:\\Portable\\PortableApps.com\\PortableApps\\FirefoxPortable\\FirefoxPortable.exe\" \"%1\""
+
+[-HKEY_CLASSES_ROOT\svgfile\shell\opennew]
 
 [HKEY_CLASSES_ROOT\svgfile\shell\edit]
 @="E&dit"
