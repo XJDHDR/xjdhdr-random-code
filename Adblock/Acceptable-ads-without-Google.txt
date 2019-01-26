@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IwFY8jb9eJgDMlc4MPzgEQ
-! Version: 201901251415
+! Checksum: 46/A1wc6i9mr1qiQxvWhEg
+! Version: 201901261415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 25 Jan 2019 14:15 UTC
+! Last modified: 26 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1673,7 +1673,7 @@ lifezette.com###taboola-native-thumbnails
 dailydosepolitics.com###exitpopup-modal
 lensois.com#@#.betteradscontainer
 dinamani.com,newindianexpress.com#@#div[id^="ad_script_"]
-mangahasu.com###,theamericanbacon.com,mibrujula.com,uconservative.com,dailydosepolitics.com,world-politicus.com,tvstanici.net###taboola-above-article-thumbnails
+mangahasu.com,theamericanbacon.com,mibrujula.com,uconservative.com,dailydosepolitics.com,world-politicus.com,tvstanici.net###taboola-above-article-thumbnails
 filthyrichstar.com#@##ad-unit
 globalvidz.ga###taboola-below-article-thumbnails
 topimag.fr,uconservative.com,ytssubtitles.com,dailydosepolitics.com,rightforever.com,dramapop.net,espectador.com.mx,ideapod.com,hackspirit.com,lebalooshow.com###taboola-mid-article-thumbnails
