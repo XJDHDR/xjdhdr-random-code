@@ -1,0 +1,1 @@
+The 4096 texture tweaks contianed in this folder have been known to cause crashes even on powerful PCs. If you want to play it safe or are experienceing these crashes, please use the "2048 res texture Creatures" folder instead.
