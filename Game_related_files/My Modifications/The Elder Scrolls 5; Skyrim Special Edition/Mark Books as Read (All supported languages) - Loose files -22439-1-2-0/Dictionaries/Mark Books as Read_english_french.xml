@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Mark Books as Read</Addon>
+    <Source>english</Source>
+    <Dest>french</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000001">
+      <EDID>XjMBARBookMarkedMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Book marked as read.</Source>
+      <Dest>Livre marqué comme lu.</Dest>
+    </String>
+    <String List="0" sID="000003">
+      <EDID>XjMbarUseBookNotOwnedMessage</EDID>
+      <REC id="2" idMax="2">MESG:ITXT</REC>
+      <Source>Leave it alone</Source>
+      <Dest>Ne rien faire avec</Dest>
+    </String>
+    <String List="0" sID="000004">
+      <EDID>XjMbarUseBookNotOwnedMessage</EDID>
+      <REC id="1" idMax="2">MESG:ITXT</REC>
+      <Source>Read it</Source>
+      <Dest>Le lire</Dest>
+    </String>
+    <String List="0" sID="000005">
+      <EDID>XjMbarUseBookNotOwnedMessage</EDID>
+      <REC id="0" idMax="2">MESG:ITXT</REC>
+      <Source>Take it</Source>
+      <Dest>Le prendre</Dest>
+    </String>
+    <String List="0" sID="000007">
+      <EDID>XjMbarUseBookOwnedMessage</EDID>
+      <REC id="2" idMax="2">MESG:ITXT</REC>
+      <Source>Leave it alone</Source>
+      <Dest>Ne rien faire avec</Dest>
+    </String>
+    <String List="0" sID="000008">
+      <EDID>XjMbarUseBookOwnedMessage</EDID>
+      <REC id="1" idMax="2">MESG:ITXT</REC>
+      <Source>Read it</Source>
+      <Dest>Le lire</Dest>
+    </String>
+    <String List="0" sID="000009">
+      <EDID>XjMbarUseBookOwnedMessage</EDID>
+      <REC id="0" idMax="2">MESG:ITXT</REC>
+      <Source>Steal it</Source>
+      <Dest>Le voler</Dest>
+    </String>
+    <String List="0" sID="00000B">
+      <EDID>XjMBARSKSETooOld</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>SKSE is too old</Source>
+      <Dest>SKSE est trop ancien</Dest>
+    </String>
+    <String List="0" sID="00000D">
+      <EDID>XjMBARSKSENotFound</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>SKSE was not found</Source>
+      <Dest>SKSE n&apos;a pas été trouvé</Dest>
+    </String>
+    <String List="0" sID="00000F">
+      <EDID>XjMBARImproperINISettings</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Improper Skyrim.ini settings detected</Source>
+      <Dest>Paramètres Skyrim.ini incorrects détectés</Dest>
+    </String>
+    <String List="0" sID="000011">
+      <EDID>XjMBARMarkPlacedOnBooks</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>~(Read)</Source>
+      <Dest>~(Lu)</Dest>
+    </String>
+    <String List="0" sID="000013">
+      <EDID>XjMBARPlayerAliasQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Quest that holds the alias that attaches itself to the Player Character.</Source>
+      <Dest>Quest that holds the alias that attaches itself to the Player Character.</Dest>
+    </String>
+    <String List="0" sID="000014">
+      <EDID>XjMBARBookAliasQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Quest that holds the aliases that attach themselves to unread books.</Source>
+      <Dest>Quest that holds the aliases that attach themselves to unread books.</Dest>
+    </String>
+    <String List="0" sID="000015">
+      <EDID>XjMbarPlayerAliasInventoryFilterQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Quest that holds an alias that attaches itself to the Player Character to manage adding books to the inventory filter form list.</Source>
+      <Dest>Quest that holds an alias that attaches itself to the Player Character to manage adding books to the inventory filter form list.</Dest>
+    </String>
+    <String List="0" sID="000016">
+      <EDID>XjMBARFunctionsQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Quest that holds the various functions called by my other scripts.</Source>
+      <Dest>Quest that holds the various functions called by my other scripts.</Dest>
+    </String>
+    <String List="0" sID="000017">
+      <EDID>XjMBARTrackPlayerCellChangeHoldingLocation</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Holding cell for tracker XMarker.</Source>
+      <Dest>Holding cell for tracker XMarker.</Dest>
+    </String>
+    <String List="0" sID="000018">
+      <EDID>XjMbarEmptyBookToForceInventoryUpdate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Book that forces the player&apos;s inventory screen to update itself.</Source>
+      <Dest>Book that forces the player&apos;s inventory screen to update itself.</Dest>
+    </String>
+    <String List="0" sID="00001A">
+      <EDID>XjMBARTrackPlayerCellChangeSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Player tracker ability</Source>
+      <Dest>Player tracker ability</Dest>
+    </String>
+    <String List="0" sID="00001B">
+      <EDID>XjMBARTrackPlayerCellChangeMagicEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Magic effect used to track player moving to a new cell.</Source>
+      <Dest>Magic effect used to track player moving to a new cell.</Dest>
+    </String>
+    <String List="1" sID="000002">
+      <EDID>XjMBARBookMarkedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Book marked as read.</Source>
+      <Dest>Livre marqué comme lu.</Dest>
+    </String>
+    <String List="1" sID="000006">
+      <EDID>XjMbarUseBookNotOwnedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>What do you want to do with this book?</Source>
+      <Dest>Que veux-tu faire avec ce livre?</Dest>
+    </String>
+    <String List="1" sID="00000A">
+      <EDID>XjMbarUseBookOwnedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>What do you want to do with this book?</Source>
+      <Dest>Que veux-tu faire avec ce livre?</Dest>
+    </String>
+    <String List="1" sID="00000C">
+      <EDID>XjMBARSKSETooOld</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Skyrim Script Extender (SKSE) was detected but it is too old to properly run my mod.
+
+Please exit the game and upgrade your copy of SKSE to at least version 2.0.12 (though I recommend the latest version).</Source>
+      <Dest>Skyrim Script Extender (SKSE) a été détecté mais est trop ancien pour faire correctement fonctionner mon mod.
+
+Veuillez quitter le jeu et mettre à jour votre version de SKSE pour la version 2.0.12 au moins (bien que je recommande la version la plus récente).</Dest>
+    </String>
+    <String List="1" sID="00000E">
+      <EDID>XjMBARSKSENotFound</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Skyrim Script Extender (SKSE) was not detected. My mod requires SKSE to function properly.
+
+Please exit the game and either install SKSE version 2.0.12 (or later) or check that it is installed properly.</Source>
+      <Dest>Skyrim Script Extender (SKSE) n&apos;a pas été détecté. SKSE est nécessaire au fonctionnement correct de mon mod. 
+
+Veuillez quitter le jeu et soit installer la version 2.0.12 de SKSE (ou une version plus récente), soit vérifier que SKSE est installé correctement.</Dest>
+    </String>
+    <String List="1" sID="000010">
+      <EDID>XjMBARImproperINISettings</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>It appears that one or more of the following settings in Skyrim.ini has been changed from their defaults:
+[Papyrus]
+fUpdateBudgetMS=1.2
+fExtraTaskletBudgetMS=1.2
+iMinMemoryPageSize=128
+iMaxMemoryPageSize=512
+iMaxAllocatedMemoryBytes=76800
+
+Changing these settings can reduce your game&apos;s performance and stability. I do not support installing my mod in a game with these setting changed. 
+Please exit the game, open your Skyrim.ini file and change the above settings back to their defaults.</Source>
+      <Dest>Il semble que la configuration par défaut d&apos;un ou plusieurs des paramètres suivants dans Skyrim.ini a été modifiée:
+[Papyrus]
+fUpdateBudgetMS=1.2
+fExtraTaskletBudgetMS=1.2
+iMinMemoryPageSize=128
+iMaxMemoryPageSize=512
+iMaxAllocatedMemoryBytes=76800
+
+Modifier ces paramètres peut altérer la performance et la stabilité de votre jeu. Je ne suis pas favorable à l&apos;installation de mon mod avec ces paramètres modifiés. 
+Veuillez quitter le jeu, ouvrir votre dossier Skyrim.ini et restaurer les valeurs par défaut des paramètres.</Dest>
+    </String>
+    <String List="1" sID="000012">
+      <EDID>XjMBARMarkPlacedOnBooks</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>~(Read) </Source>
+      <Dest>~(Lu)</Dest>
+    </String>
+    <String List="1" sID="000019">
+      <EDID>XjMBARTrackPlayerCellChangeSpell</EDID>
+      <REC>SPEL:DESC</REC>
+      <Source>This magic ability is used to track the player moving to a new cell.</Source>
+      <Dest>This magic ability is used to track the player moving to a new cell.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
