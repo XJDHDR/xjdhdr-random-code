@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sJM0eQlVBJ9iG5rThqIAKQ
-! Version: 201901291415
+! Checksum: Td1rD7Ix8ZrnhF7Am9CuzA
+! Version: 201901301415
 ! Title: HP Hosts pha list
-! Last modified: 29 Jan 2019 14:15 UTC
+! Last modified: 30 Jan 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -575,6 +575,7 @@
 ||activeblogy.su^
 ||activenetworkrx.ru^
 ||activerxcenter.ru^
+||activesales.su^
 ||activeshopl.su^
 ||activeshopm.su^
 ||activestore.su^
@@ -995,6 +996,7 @@
 ||bestpharmline.com^
 ||bestpillsreward.ru^
 ||bestpillstoday.com^
+||bestpluscheap.ru^
 ||bestpriceb.su^
 ||bestpricecialis.ru^
 ||bestpricecialis20mg.ru^
@@ -4672,6 +4674,7 @@
 ||mytopgroup.ru^
 ||mytopmarket.su^
 ||mytopprice.ru^
+||mytoptrade.su^
 ||mytradeclub.su^
 ||mytrustedmart.ru^
 ||mytrustedmeds.com^
@@ -4692,6 +4695,7 @@
 ||mywelnessassist.ru^
 ||mywelnesseshop.ru^
 ||mywelnesswebmart.ru^
+||mywinonline.su^
 ||naca2011.340music.net^
 ||nadaraquela.ru^
 ||nadeanmimi.su^
@@ -5550,6 +5554,7 @@
 ||pro48pro.ru^
 ||proactivity.su^
 ||proamar.org^
+||probeststore.su^
 ||probrandclub.ru^
 ||probrandlife.ru^
 ||probrandshop.ru^
@@ -6114,6 +6119,7 @@
 ||serviceshopo.su^
 ||serviceshopp.su^
 ||serviceshopq.su^
+||servicestore.su^
 ||sevenartzpublicidad.com^
 ||severastana.kz^
 ||sexpillsmaster.com^
@@ -6147,6 +6153,7 @@
 ||shopevent.su^
 ||shopfastbestmed.com^
 ||shopforrest.ru^
+||shopfortune.su^
 ||shopforus.ru^
 ||shopforyoub.su^
 ||shopforyoug.su^
@@ -6160,6 +6167,7 @@
 ||shopmedssavemoney.com^
 ||shopnorxmed.com^
 ||shoppharm.com^
+||shoppingfest.su^
 ||shopprice.su^
 ||shoppriceu.su^
 ||shoppricev.su^
@@ -7610,6 +7618,7 @@
 ||www.activeblogy.su^
 ||www.activenetworkrx.ru^
 ||www.activerxcenter.ru^
+||www.activesales.su^
 ||www.activeshopl.su^
 ||www.activeshopm.su^
 ||www.activestore.su^
@@ -8029,6 +8038,7 @@
 ||www.bestpharmline.com^
 ||www.bestpillsquality.ru^
 ||www.bestpillsreward.ru^
+||www.bestpluscheap.ru^
 ||www.bestprice100mggenericviagra.ru^
 ||www.bestpriceb.su^
 ||www.bestpricecialis.ru^
@@ -11609,6 +11619,7 @@
 ||www.mytopgroup.ru^
 ||www.mytopmarket.su^
 ||www.mytopprice.ru^
+||www.mytoptrade.su^
 ||www.mytradeclub.su^
 ||www.mytrustedmart.ru^
 ||www.mytrustedmeds.com^
@@ -11629,6 +11640,7 @@
 ||www.mywelnessassist.ru^
 ||www.mywelnesseshop.ru^
 ||www.mywelnesswebmart.ru^
+||www.mywinonline.su^
 ||www.naca2011.340music.net^
 ||www.nadaraquela.ru^
 ||www.nadeanmimi.su^
@@ -12434,6 +12446,7 @@
 ||www.pro-sumerki.ru^
 ||www.pro48pro.ru^
 ||www.proactivity.su^
+||www.probeststore.su^
 ||www.probrandclub.ru^
 ||www.probrandlife.ru^
 ||www.probrandshop.ru^
@@ -12940,6 +12953,7 @@
 ||www.serviceshopo.su^
 ||www.serviceshopp.su^
 ||www.serviceshopq.su^
+||www.servicestore.su^
 ||www.sexpillsmaster.com^
 ||www.sexualitymenshop.com^
 ||www.shanahyacintha.su^
@@ -12966,6 +12980,7 @@
 ||www.shopevent.su^
 ||www.shopfastbestmed.com^
 ||www.shopforrest.ru^
+||www.shopfortune.su^
 ||www.shopforus.ru^
 ||www.shopforyoub.su^
 ||www.shopforyoug.su^
@@ -12979,6 +12994,7 @@
 ||www.shopmedssavemoney.com^
 ||www.shopnorxmed.com^
 ||www.shoppharm.com^
+||www.shoppingfest.su^
 ||www.shopprice.su^
 ||www.shoppriceu.su^
 ||www.shoppricev.su^
@@ -14860,4 +14876,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14838
+! Hosts: 14854

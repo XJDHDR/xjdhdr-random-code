@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FkBoyPz4ys8cPGl+9GONdA
-! Version: 201901291415
+! Checksum: YS/XzoNbapD23VrfPf3i8w
+! Version: 201901301415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 29 Jan 2019 14:15 UTC
+! Last modified: 30 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1861,6 +1861,7 @@ expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 cnet.com#@#[data-component="taboola"]
+rotoworld.com#@#a[href^="http://popup.taboola.com/"]
 floridatravellife.com,workingmother.com#@#[data-feed-main-container-id="taboola-placement-2"]
 floridatravellife.com#@#[data-parent-placement-name="Below Article Thumbnails"]
 gamespot.com#@#[data-placement-name="front_door Below Main Column Thumbnails"]
@@ -4937,7 +4938,7 @@ avito.ru#@#.avito-ads-container
 @@||an.yandex.ru/jserr/$domain=avito.ru
 @@||yandex.net/get-direct/$image,domain=avito.ru
 @@/prepareCode?$script,domain=avito.ru
-@@||ads.adfox.ru^*/event?$domain=avito.ru
+@@||ads.adfox.ru^$domain=avito.ru
 @@||awaps.yandex.ru/0/9947/001001.htm$subdocument,domain=avito.ru,document
 @@||yastatic.net/pcode/adfox/loader.js$domain=avito.ru
 @@||yastatic.net/safeframe-bundles/$domain=avito.ru
