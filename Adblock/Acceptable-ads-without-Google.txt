@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YS/XzoNbapD23VrfPf3i8w
-! Version: 201901301415
+! Checksum: HKhN9XLI5T2khaPARUA5Zw
+! Version: 201901311415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 30 Jan 2019 14:15 UTC
+! Last modified: 31 Jan 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8045,12 +8045,12 @@ koutsompolio.gr#@#div[id^="div-gpt-ad"]
 @@||shoppeet.jp^$elemhide
 @@||peeplo.it^$elemhide
 !A38
-@@||commentcamarche.net^$elemhide
-@@||linternaute.com^$elemhide
-@@||journaldesfemmes.com^$elemhide
-@@||journaldunet.com^$elemhide
-@@||copainsdavant.com^$elemhide
-@@||ccm.net^$elemhide
+@@||commentcamarche.net/s/$elemhide
+@@||linternaute.com/recherche/$elemhide
+@@||journaldesfemmes.fr/recherche/$elemhide
+@@||journaldunet.com/recherche/$elemhide
+@@||linternaute.com/s/$elemhide
+@@||ccm.net/s/$elemhide
 @@||hayatouki.com^$elemhide
 !A39
 @@||ayosdito.ph^$elemhide
