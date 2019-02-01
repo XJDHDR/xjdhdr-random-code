@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HKhN9XLI5T2khaPARUA5Zw
-! Version: 201901311415
+! Checksum: 5L/sQ928gnez2r4+loHZzg
+! Version: 201902011415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 31 Jan 2019 14:15 UTC
+! Last modified: 01 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1861,7 +1861,6 @@ expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 cnet.com#@#[data-component="taboola"]
-rotoworld.com#@#a[href^="http://popup.taboola.com/"]
 floridatravellife.com,workingmother.com#@#[data-feed-main-container-id="taboola-placement-2"]
 floridatravellife.com#@#[data-parent-placement-name="Below Article Thumbnails"]
 gamespot.com#@#[data-placement-name="front_door Below Main Column Thumbnails"]
@@ -7166,6 +7165,13 @@ gamesflow.com#@#.iconads
 ! legacy
 @@||codefund.io/scripts/*/embed.js$third-party
 @@||codefund.io/display/$image,third-party
+!:partner_token=Polskapress
+!:partner_id=f03836cbf29e2fde
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=62985
+! POLSKA PRESS GRUPA ads
+||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl
+||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
