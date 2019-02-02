@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5L/sQ928gnez2r4+loHZzg
-! Version: 201902011415
+! Checksum: m+44P0i+uWv+LjtTgIPywg
+! Version: 201902021415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 01 Feb 2019 14:15 UTC
+! Last modified: 02 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7024,6 +7024,9 @@ soolide.com#@#.quads-ad2
 tetrisfriends.com#@#.home_advertisement
 tetrisfriends.com#@#div :-abp-properties(display: inline-table !important;)
 science-a2z.com,lifestyle-a2z.com,history-a2z.com#@#.single-ad
+soolide.com#@#.quads-ad2_widget
+soolide.com#@#.quads-ad1
+soolide.com#@##quads-ad1
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -7447,6 +7450,7 @@ testpages.adblockplus.org#@##abptest
 @@||related.ebaumsworld.com^$domain=ebaumsworld.com
 @@||sociomantic.com/js/2010-07-01/$script
 @@||sociomantic.com/html/$subdocument
+@@||seattletimes.com^*/pubmatic_openwrap.js$domain=seattletimes.com
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
 forbes.com#@#.fbs-ad--topx-wrapper
