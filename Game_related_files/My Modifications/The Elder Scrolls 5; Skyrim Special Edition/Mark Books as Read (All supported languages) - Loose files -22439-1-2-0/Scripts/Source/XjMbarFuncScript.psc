@@ -1,5 +1,5 @@
 ScriptName XjMBARFuncScript Extends Quest
-; Most recent edits made: 26 January 2019
+; Most recent edits made: 31 January 2019
 
 
 Import StringUtil
@@ -194,14 +194,10 @@ EndFunction
 
 
 Function AddMarkToAllReadBooksBeforeInstallFunc()
-	Debug.Notification("Mark Books as Read: Started marking previously read books")
-	
 	If ( frmlstXjMbarReadBooksList.GetSize() == 0 ) && ( SKSE.GetVersionRelease() != 0 )
 		If Game.GetModByName("Skyrim.esm") != 255		; Requires SKSE
-			RegisterForModEvent("XjMbarSendThreadResults", "OnSendThreadResults")
 			iThreadsProcessed = 0
 			XjMbarFirstInstallThreadMasterScript XjMbarFunctionsQuest = Game.GetFormFromFile(0x00000801, "Mark Books as Read.esp") As XjMbarFirstInstallThreadMasterScript
-			XjMbarFunctionsQuest.StartupThreadingMasterScript()
 			XjMbarFunctionsQuest.StartThreadedTasks(frmlstXjMbarReadBooksList)
 			Book bkCurrentlySelectedBook = None
 			If Game.GetModByName("HearthFires.esm") != 255		; Requires SKSE
@@ -234,21 +230,16 @@ Function AddMarkToAllReadBooksBeforeInstallFunc()
 				Utility.Wait(0.5)
 			EndWhile
 			XjMbarFunctionsQuest = None
-			UnregisterForAllModEvents()
 	
 			iThreadsProcessed = 0
 			bkCurrentlySelectedBook = None
 		EndIf
 	EndIf
-	Debug.Notification("Mark Books as Read: Finished marking previously read books")
 EndFunction
 
-;Event OnSendThreadResults(String sUnneededModEventName, String sUnneededPassedString, Float fUnneededPassedFloat, Form frmUnneededSender)
-Event OnSendThreadResults()
-	RegisterForModEvent("XjMbarSendThreadResults", "OnSendThreadResults")
+Function AddMarkToAllReadBooksBeforeInstallThreadDoneFunc()
 	iThreadsProcessed += 1
-	Debug.Trace("Mbar: iThreadsProcessed = " + iThreadsProcessed)
-EndEvent
+EndFunction
 
 
 Bool Function TestIfFormHasExcludedModIDFunc(Form frmPassedBookBaseObject)

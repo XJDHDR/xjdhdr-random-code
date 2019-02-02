@@ -220,7 +220,7 @@ As for slow performance, I believe this is caused by changing Papyrus related se
 
 History
 =======
-1.2.1 - 2019/01/22 - Added a workaround to fix the inventory screen not immediately updating itself after reading a book in your inventory.
+1.2.1 - 2019/01/31 - Added a workaround to fix the inventory screen not immediately updating itself after reading a book in your inventory.
 					- Added a workaround to fix the UI not immediately updating itself after reading a book in the game's world.
 					- Added a workaround to fix a quirk in Skyrim that causes OnInit events to be sent twice.
 					- Added a messagebox to unread books in the game's world with various options. This message box will allow you to choose to read the book or pick it up without reading it.
@@ -228,8 +228,9 @@ History
 					- Added a Russian and Italian translation.
 					- Added a failsafe for message boxes that adds text to them if there is none present.
 					- Fixed typos in new install script that caused the script to not work at all. Other small fixes also made to that code.
+					- Added multithreading to new install script which massively shortens the time taken to complete.
 
-1.2.0 - 2019/01/10 - Ported version 1.2.0 of this mod from Oldrim to Special Edition.
+1.2.0 - 2019/02/01 - Ported version 1.2.0 of this mod from Oldrim to Special Edition.
 					- Flagged the plugin as an ESL.
 
 
