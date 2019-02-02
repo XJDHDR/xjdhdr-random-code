@@ -1,0 +1,9 @@
+- Send first translates the characters into keystrokes. If this translation is not possible (that is, if the current keyboard layout does not contain a key or key combination which produces that character), the character is sent by one of the following fallback methods:
+
+- SendEvent and SendInput use SendInput() with the KEYEVENTF_UNICODE flag. ANSI builds of AutoHotkey convert the character to Unicode before sending it. https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-sendinput https://docs.microsoft.com/en-us/windows/desktop/api/winuser/ns-winuser-tagkeybdinput#keyeventf_unicode
+
+- SendPlay uses the Alt+nnnnn method, which produces Unicode only if supported by the target application. https://autohotkey.com/docs/commands/Send.htm#asc
+
+- ControlSend posts a WM_CHAR message. https://docs.microsoft.com/en-gb/windows/desktop/inputdev/wm-char
+
+More info: https://autohotkey.com/docs/commands/Send.htm#Remarks
