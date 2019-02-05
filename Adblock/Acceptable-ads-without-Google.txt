@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zjl5Yq0/3ukmaGgdIRL5Wg
-! Version: 201902041415
+! Checksum: rDvBGVCX80fQNMiVcaasSA
+! Version: 201902051415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Feb 2019 14:15 UTC
+! Last modified: 05 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6436,6 +6436,7 @@ freenet.de#@##frnAdSky
 freenet.de#@##frnBannerAd
 t-online.de#@##Tadspacehead
 t-online.de#@##vmsky
+t-online.de#@##Tlibelle
 autozeitung.de#@#.adColumn
 autozeitung.de#@#.adBox
 autozeitung.de#@#.dikr-responsive-ads-slot
