@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rDvBGVCX80fQNMiVcaasSA
-! Version: 201902051415
+! Checksum: kNk4E64nX8QEVJkdwnGe+g
+! Version: 201902061415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 05 Feb 2019 14:15 UTC
+! Last modified: 06 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2997,6 +2997,7 @@ sporcle.com#@##top-banner-ad
 @@||adgtw.orangeads.fr/adgw/js/oan_common-$script,domain=orange.fr
 @@||adgtw.orangeads.fr/build/oan_common-$script,domain=orange.fr
 @@||adgtw.orangeads.fr/adgw/js/adobeDIL.js$domain=orange.fr
+@@||adgtw.orangeads.fr^*/adgw.js$script,domain=orange.fr
 @@||revsci.net/pql?$script,domain=orange.fr
 @@||ligatus.com/angular_front/tags/fr/orange_article/tags/angular-tag.js$domain=orange.fr
 @@||ligatus.com/angular_front/tags/fr/orange-portail/tags/angular-tag_side.js$domain=orange.fr
@@ -6340,8 +6341,26 @@ gogy.com#@#.adRight
 gogy.com#@#.adbottom
 gogy.com#@#.adtop
 gogy.com#@#.rightAd
+gogy.com#@#.adunitContainer
+gogy.com#@#.leftAd
 totalprosports.com#@#.cube-ad
 accuweather.com#@#.panel-ad-mr
+cosmopolitan.com#@#.ad-sticky
+phonearena.com#@##footeradvert
+phonearena.com#@#.ad_300_250
+phonearena.com#@#.ad_728_90
+phonearena.com#@#.adswidget
+dailywire.com#@#.ad-unit
+dailywire.com#@#.sponsored-content
+dailywire.com#@#div[id^="div-gpt-ad"]
+dailywire.com#@#[id*="ScriptRoot"]
+dailywire.com#@#.ADBox
+dailywire.com#@#.AD_area
+dailywire.com#@#.AdsRec
+dailywire.com#@#.Ads_4
+dailywire.com#@#.adsbox
+novi.ba#@#div[id^="div-gpt-ad"]
+novi.ba#@##ad-container
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6835,12 +6854,14 @@ alilove.pl#@#.td-adspot-title
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54300#p173819
 ! Ads by Ad2Games
-||a2gw.com/px.gif?ch=2&rn=$domain=gogoanime.se|211games.com|899games.com|gamefz.com|play337.com|566games.com|share-games.com|cdromance.com|nicoblog.org|gogoanime.in|mmobomb.com|freesteamkeys.com|freemmogamer.com|freegamekeys.com|giochi-mmo.it|mmofront.com
-@@||a2gw.com/px.gif?ch=1&rn=$domain=gogoanime.se|211games.com|899games.com|gamefz.com|play337.com|566games.com|share-games.com|cdromance.com|nicoblog.org|gogoanime.in|mmobomb.com|freesteamkeys.com|freemmogamer.com|freegamekeys.com|giochi-mmo.it|mmofront.com
+||a2gw.com/px.gif?ch=2&rn=$domain=gogoanime.se|211games.com|899games.com|gamefz.com|play337.com|566games.com|share-games.com|cdromance.com|nblog.org|gogoanime.in|mmobomb.com|freesteamkeys.com|freemmogamer.com|freegamekeys.com|giochi-mmo.it|mmofront.com
+@@||a2gw.com/px.gif?ch=1&rn=$domain=gogoanime.se|211games.com|899games.com|gamefz.com|play337.com|566games.com|share-games.com|cdromance.com|nblog.org|gogoanime.in|mmobomb.com|freesteamkeys.com|freemmogamer.com|freegamekeys.com|giochi-mmo.it|mmofront.com
 mmobomb.com##IFRAME[src^="https://server.cpmstar.com/"]
 freemmogamer.com##IFRAME[src^="//server.cpmstar.com/"]
-nicoblog.org,cdromance.com#@#.td-header-ad-wrap
-nicoblog.org#@#.td-a-rec-id-custom_ad_1
+nblog.org,cdromance.com#@#.td-header-ad-wrap
+nblog.org#@#.td-a-rec-id-custom_ad_1
+nblog.org#@#.td-header-sp-rec
+nblog.org#@##glade-aslot-1
 !:partner_token=IPONWEB limited
 !:partner_id=967207b79f9e1e00
 !:type=partner
