@@ -1,5 +1,5 @@
 ScriptName XjMbarPlayerAliasScript Extends ReferenceAlias
-; Most recent edits made: 23 January 2019
+; Most recent edits made: 03 February 2019
 
 
 Bool bGameLoaded
@@ -54,6 +54,9 @@ Event OnObjectEquipped(Form EquippedObjectBase, ObjectReference UnneededReferenc
 			; These two commands force Skyrim to update the inventory menu.
 			actPlayerRef.AddItem(bookXjMbarEmptyBookToForceInventoryUpdate, 1, true)
 			actPlayerRef.RemoveItem(bookXjMbarEmptyBookToForceInventoryUpdate, 1, true)
+			
+			; Restart the alias quest. If another copy of the book just read is in the world near the player, we need to remove the alias from it.
+			XjMbarFunctionsQuest.RestartAliasQuestFunc()
 		EndIf
 	EndIf
 EndEvent

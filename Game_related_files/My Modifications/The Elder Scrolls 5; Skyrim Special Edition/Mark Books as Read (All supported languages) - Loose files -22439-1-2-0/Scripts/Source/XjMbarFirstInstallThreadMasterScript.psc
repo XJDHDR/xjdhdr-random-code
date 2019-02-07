@@ -19,12 +19,10 @@ Function StartThreadedTasks(FormList frmlstPassedReadBooksList)
 	((Self As Quest) as XjMbarFirstInstallThread10Script).PrepareThread(0x00026B69,   0,  90, "Dragonborn.esm", 10)	; DLC02QASpellTomeContainer
 	
 	RegisterForModEvent("XjMbarRunThreadedPreInstallCode", "OnRunThreadedPreInstallCode")
-	ObjectReference objrefContainerSpawnMarker = Game.GetFormFromFile(0x0000080E, "Mark Books as Read.esp") As ObjectReference
 	Int iModEventHandle = ModEvent.Create("XjMbarRunThreadedPreInstallCode")
 	ModEvent.PushForm(iModEventHandle, frmlstPassedReadBooksList)									; Read Books Form List
 	ModEvent.PushForm(iModEventHandle, Game.GetFormFromFile(0x0000080E, "Mark Books as Read.esp"))	; Container Spawn Marker
 	ModEvent.Send(iModEventHandle)
-	objrefContainerSpawnMarker = None
 	UnregisterForAllModEvents()
 EndFunction
 

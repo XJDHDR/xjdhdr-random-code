@@ -76,9 +76,11 @@ My mod has the following languages integrated and will select the correct one ba
 - English
 - French
 - German
+- Italian
+- Russian
 - Spanish
 
-If you are interested in helping or simply want this mod in other languages, please send me a message.
+If you are interested in helping or simply want this mod in other languages, please send me a message. Please note that I only understand English and so please try to use English if possible in your communications with me.
 
 
 Future plans
@@ -184,6 +186,7 @@ If you know of any other incompatibilities, please let me know.
 
 Known Issues or Bugs
 ====================
+- Do not save your game immeditately after reading a book. Otherwise, bad things can happen. Just wait 2 or 3 seconds first.
 - In the following rare circumstances, a book on the ground might not be marked when you read them. The three possible solutions if this happens is to: 1. Pick up the book then read it from your inventory. 2. Leave the area containing the book then re-enter it. 3. Open the console and type "StopQuest XjMbarBookAliasQuest" then "StartQuest XjMbarBookAliasQuest"
 	- An NPC drops a book on the ground.
 	- A script spawns a book on the ground.
@@ -220,7 +223,7 @@ As for slow performance, I believe this is caused by changing Papyrus related se
 
 History
 =======
-1.2.1 - 2019/01/31 - Added a workaround to fix the inventory screen not immediately updating itself after reading a book in your inventory.
+1.2.1 - 2019/02/06 - Added a workaround to fix the inventory screen not immediately updating itself after reading a book in your inventory.
 					- Added a workaround to fix the UI not immediately updating itself after reading a book in the game's world.
 					- Added a workaround to fix a quirk in Skyrim that causes OnInit events to be sent twice.
 					- Added a messagebox to unread books in the game's world with various options. This message box will allow you to choose to read the book or pick it up without reading it.

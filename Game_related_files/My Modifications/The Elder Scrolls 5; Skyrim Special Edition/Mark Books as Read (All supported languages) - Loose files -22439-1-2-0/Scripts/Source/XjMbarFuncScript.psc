@@ -1,5 +1,5 @@
 ScriptName XjMBARFuncScript Extends Quest
-; Most recent edits made: 31 January 2019
+; Most recent edits made: 06 February 2019
 
 
 Import StringUtil
@@ -108,7 +108,7 @@ EndFunction
 
 
 Function MarkCurrentBookRuntimeFunc(Form frmPassedBookBaseObject, Bool bPassedSneakingDetectionRequired = False)
-	If ( bPassedSneakingDetectionRequired == False ) || ( actPlayerRef.IsSneaking() == 0 )
+	If ( bPassedSneakingDetectionRequired == False ) || ( actPlayerRef.IsSneaking() == 0 )		; Possibly remove this sometime in future.
 		If TestIfFormHasExcludedModIDFunc(frmPassedBookBaseObject) == True
 			Return
 		EndIf
@@ -197,8 +197,7 @@ Function AddMarkToAllReadBooksBeforeInstallFunc()
 	If ( frmlstXjMbarReadBooksList.GetSize() == 0 ) && ( SKSE.GetVersionRelease() != 0 )
 		If Game.GetModByName("Skyrim.esm") != 255		; Requires SKSE
 			iThreadsProcessed = 0
-			XjMbarFirstInstallThreadMasterScript XjMbarFunctionsQuest = Game.GetFormFromFile(0x00000801, "Mark Books as Read.esp") As XjMbarFirstInstallThreadMasterScript
-			XjMbarFunctionsQuest.StartThreadedTasks(frmlstXjMbarReadBooksList)
+			((Self As Quest) as XjMbarFirstInstallThreadMasterScript).StartThreadedTasks(frmlstXjMbarReadBooksList)
 			Book bkCurrentlySelectedBook = None
 			If Game.GetModByName("HearthFires.esm") != 255		; Requires SKSE
 				Int[] iBookFormIDArray = New Int[10]
@@ -229,7 +228,6 @@ Function AddMarkToAllReadBooksBeforeInstallFunc()
 			While iThreadsProcessed < 10
 				Utility.Wait(0.5)
 			EndWhile
-			XjMbarFunctionsQuest = None
 	
 			iThreadsProcessed = 0
 			bkCurrentlySelectedBook = None

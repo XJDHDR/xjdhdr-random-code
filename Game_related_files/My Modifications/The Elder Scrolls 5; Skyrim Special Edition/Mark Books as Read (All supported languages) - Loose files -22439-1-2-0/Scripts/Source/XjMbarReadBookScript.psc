@@ -1,5 +1,5 @@
 ScriptName XjMbarReadBookScript Extends ReferenceAlias
-; Most recent edits made: 23 January 2019
+; Most recent edits made: 03 February 2019
 
 
 Bool bActivationAlreadyBlocked
@@ -72,11 +72,16 @@ EndEvent
 
 
 Event OnRead()
-	(Game.GetFormFromFile(0x00000801, "Mark Books as Read.esp") As XjMbarFuncScript).MarkCurrentBookRuntimeFunc(objrefBookAliasAttachedTo.GetBaseObject())	; XjMbarFunctionsQuest
+	XjMbarFuncScript XjMbarFunctionsQuest = Game.GetFormFromFile(0x00000801, "Mark Books as Read.esp") As XjMbarFuncScript
+	XjMbarFunctionsQuest.MarkCurrentBookRuntimeFunc(objrefBookAliasAttachedTo.GetBaseObject())
 
 	; These next two commands force Skyrim to update the UI.
 	Game.DisablePlayerControls(False, False, False, False, False, False, True)
 	Game.EnablePlayerControls(False, False, False, False, False, False, True)
+
+	; Restart the alias quest. If another copy of the book just read is in the world near the player, we need to remove the alias from it.
+	XjMbarFunctionsQuest.RestartAliasQuestFunc()
+	XjMbarFunctionsQuest = None
 	GoToState("DetatchmentRequired")
 EndEvent
 
