@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kNk4E64nX8QEVJkdwnGe+g
-! Version: 201902061415
+! Checksum: UanTbB2kBVA6HKyK2q08Aw
+! Version: 201902071415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 06 Feb 2019 14:15 UTC
+! Last modified: 07 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7532,6 +7532,12 @@ koutsompolio.gr#@#.MediumRectangleAdPanel
 koutsompolio.gr#@#.adv_left
 koutsompolio.gr#@#.browse-banner_ad
 koutsompolio.gr#@#div[id^="div-gpt-ad"]
+seattletimes.com#@#.dfp-ad
+seattletimes.com#@##ad-flex-top
+seattletimes.com#@##ad-right-top
+seattletimes.com#@##ad-bottom
+seattletimes.com#@#div[id^="div-gpt-ad"]
+gizmodo.com#@#div[id^="dfp-ad-"] 
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
@@ -8842,6 +8848,7 @@ yahoo.com#@##my-adsLREC4-base
 ||yahoo.com/px.gif?ch=2$domain=yahoo.com
 @@||yahoo.com/px.gif?ch=1$domain=yahoo.com
 @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
+yahoo.com#@##sticky-lrec2-footer
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner
