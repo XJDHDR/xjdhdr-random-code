@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UanTbB2kBVA6HKyK2q08Aw
-! Version: 201902071415
+! Checksum: wUVp6Usu58ZkHHuRJCTFGw
+! Version: 201902081415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 07 Feb 2019 14:15 UTC
+! Last modified: 08 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1653,6 +1653,8 @@ thenoob.net#@#.adinjwidget
 @@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=kw.arabiaweather.com
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
+@@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net
+@@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
@@ -6267,6 +6269,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
 @@||videoplayerhub.com^$third-party
 @@||cdnjquery.com^$script,third-party
+@@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -6361,6 +6364,11 @@ dailywire.com#@#.Ads_4
 dailywire.com#@#.adsbox
 novi.ba#@#div[id^="div-gpt-ad"]
 novi.ba#@##ad-container
+newsbusters.org#@##block-block-13
+newsbusters.org#@##ad_top
+tmn.today#@#.ad-728x90
+tmn.today#@#.ad-300x250
+phonearena.com#@#.ad_300_600
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -7392,6 +7400,7 @@ gamesflow.com#@#.iconads
 @@||clk.tradedoubler.com^
 boutiquesensolde.fr,cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr#@#a[href*="//clk.tradedoubler.com/click?"]
 premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
+@@||clk.tradedoubler.com/click?$popup,domain=mappy.com
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
 ! Generic conversion tracking
@@ -7537,7 +7546,8 @@ seattletimes.com#@##ad-flex-top
 seattletimes.com#@##ad-right-top
 seattletimes.com#@##ad-bottom
 seattletimes.com#@#div[id^="div-gpt-ad"]
-gizmodo.com#@#div[id^="dfp-ad-"] 
+gizmodo.com#@#div[id^="dfp-ad-"]
+fanpage.gr#@#div[id^="div-gpt-ad"]
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
