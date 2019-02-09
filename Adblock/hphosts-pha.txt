@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UPjbnOEv8QERj5BvLjLS3Q
-! Version: 201902081415
+! Checksum: axQwfwcNh7T7yzGDkbXW2Q
+! Version: 201902091415
 ! Title: HP Hosts pha list
-! Last modified: 08 Feb 2019 14:15 UTC
+! Last modified: 09 Feb 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2676,6 +2676,7 @@
 ||fdviagrakdgjfh.com^
 ||fdzesynu.goodportala.su^
 ||federicadotstorm.ru^
+||feifar.org.br^
 ||feleciaperle.su^
 ||felicdadfarah.su^
 ||felipatonya.su^
@@ -9747,6 +9748,7 @@
 ||www.fdviagrakdgjfh.com^
 ||www.fdzesynu.goodportala.su^
 ||www.federicadotstorm.ru^
+||www.feifar.org.br^
 ||www.feleciaperle.su^
 ||www.felicdadfarah.su^
 ||www.felipatonya.su^
@@ -14883,4 +14885,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14861
+! Hosts: 14863
