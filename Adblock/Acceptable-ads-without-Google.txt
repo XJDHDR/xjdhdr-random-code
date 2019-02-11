@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X8ZNc4T84265nowMAFOVfw
-! Version: 201902101415
+! Checksum: DP8OtXQHZNq/Q85RAZPemg
+! Version: 201902111415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 Feb 2019 14:15 UTC
+! Last modified: 11 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7057,6 +7057,8 @@ science-a2z.com,lifestyle-a2z.com,history-a2z.com#@#.single-ad
 soolide.com#@#.quads-ad2_widget
 soolide.com#@#.quads-ad1
 soolide.com#@##quads-ad1
+temp-mail.org#@#.ezoic-ad
+temp-mail.org#@#.ezo_ad
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -7400,7 +7402,6 @@ gamesflow.com#@#.iconads
 @@||clk.tradedoubler.com^
 boutiquesensolde.fr,cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr#@#a[href*="//clk.tradedoubler.com/click?"]
 premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
-@@||clk.tradedoubler.com/click?$popup,domain=mappy.com
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
 ! Generic conversion tracking
@@ -7548,6 +7549,13 @@ seattletimes.com#@##ad-right-top
 seattletimes.com#@##ad-bottom
 seattletimes.com#@#div[id^="div-gpt-ad"]
 gizmodo.com#@#div[id^="dfp-ad-"]
+gizmodo.com#@#.ad-top
+gizmodo.com#@#.ad-top-banner
+gizmodo.com#@#.contained-ad-shaft
+gizmodo.com#@#.contained-ad-wrapper
+gizmodo.com#@#.contained-ad-container
+gizmodo.com#@#.ad-wide
+gizmodo.com#@#.js_contained-ad-container
 fanpage.gr#@#div[id^="div-gpt-ad"]
 !:partner_id=1771032db7d723d7
 !:type=partner
