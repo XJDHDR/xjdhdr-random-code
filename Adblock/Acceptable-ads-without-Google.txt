@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ne23NnHuL/97EaclSh0SoA
-! Version: 201902121415
+! Checksum: 24CeknUpg1cbwyNdqfClaQ
+! Version: 201902131415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 12 Feb 2019 14:15 UTC
+! Last modified: 13 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -225,6 +225,7 @@ reddit.com##.promotedvideolink
 @@||control.kochava.com^$image,domain=reddit.com
 @@||08j-0.tlnk.io^$image,domain=reddit.com
 @@||app.adjust.com^$image,domain=reddit.com
+@@||s2s.adjust.com^$image,domain=reddit.com
 @@||app.appsflyer.com^$image,domain=reddit.com
 @@||ad.apsalar.com^$image,domain=reddit.com
 @@||branchster.app.link^$image,domain=reddit.com
@@ -7516,21 +7517,6 @@ firstpost.com#@#.ad-300x250
 firstpost.com#@#.ad728x90
 firstpost.com#@#.ad-section
 firstpost.com#@#div[id^="div-gpt-ad"]
-sporcle.com#@##div-gpt-atf-bnr
-sporcle.com#@##div-gpt-atf-box
-sporcle.com#@##div-gpt-btf-box
-sporcle.com#@##div-gpt-flex-btf
-sporcle.com#@##div-gpt-middle-ad
-sporcle.com#@##div-gpt-btf2-box
-sporcle.com#@#.ad-square
-sporcle.com#@#.adsbox
-sporcle.com#@#.adtop
-sporcle.com#@##atf-300x600
-sporcle.com#@#.display-wide
-sporcle.com#@#.pubnation
-sporcle.com#@#iframe[width="300"]
-sporcle.com#@#iframe[width="728"]
-sporcle.com#@#.pub_300x250
 wowhead.com#@##ad-horizontal
 wowhead.com#@##ad-vertical
 wowhead.com#@##ad-horizontalBTF
@@ -7549,16 +7535,21 @@ seattletimes.com#@##ad-flex-top
 seattletimes.com#@##ad-right-top
 seattletimes.com#@##ad-bottom
 seattletimes.com#@#div[id^="div-gpt-ad"]
-gizmodo.com#@#div[id^="dfp-ad-"]
-gizmodo.com#@#.ad-top
-gizmodo.com#@#.ad-top-banner
-gizmodo.com#@#.contained-ad-shaft
-gizmodo.com#@#.contained-ad-wrapper
-gizmodo.com#@#.contained-ad-container
-gizmodo.com#@#.ad-wide
-gizmodo.com#@#.js_contained-ad-container
-gizmodo.com#@#.ad-billboard
-gizmodo.com#@#.ad-bottom
+seattletimes.com#@#.ad
+seattletimes.com#@#.footer-ad
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top-banner
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-unit
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-wide
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.contained-ad-container
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.contained-ad-shaft
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.contained-ad-wrapper
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#div[id^="dfp-ad-"]
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.js_contained-ad-container
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.dfp
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad
 fanpage.gr#@#div[id^="div-gpt-ad"]
 !:partner_id=1771032db7d723d7
 !:type=partner
