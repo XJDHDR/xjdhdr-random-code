@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 24CeknUpg1cbwyNdqfClaQ
-! Version: 201902131415
+! Checksum: sxnB6plspCMRM4JLnR5qSw
+! Version: 201902141415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 13 Feb 2019 14:15 UTC
+! Last modified: 14 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7550,6 +7550,8 @@ jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.co
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.js_contained-ad-container
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.dfp
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@##dfp-ad-1
+jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@##dfp-ad-2
 fanpage.gr#@#div[id^="div-gpt-ad"]
 !:partner_id=1771032db7d723d7
 !:type=partner
