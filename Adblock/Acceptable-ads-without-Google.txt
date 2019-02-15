@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sxnB6plspCMRM4JLnR5qSw
-! Version: 201902141415
+! Checksum: doMIzM9HjSD15/o+WW+frg
+! Version: 201902151415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 14 Feb 2019 14:15 UTC
+! Last modified: 15 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2951,6 +2951,10 @@ slideshare.net#@#.mediumRectangleAd
 @@||ssl-images-amazon.com^*/sf/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
 @@||ssl-images-amazon.com^*/ape/sf/desktop/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
 @@/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html?$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-link-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
 !
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
 !:partner_token=NZZ Osterreich
