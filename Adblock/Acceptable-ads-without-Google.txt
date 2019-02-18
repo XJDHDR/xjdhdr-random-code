@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U22jxyvx8G8WUG0P3B1MSg
-! Version: 201902171415
+! Checksum: 4Zjw2HzWfuCcsFCFhIQXdg
+! Version: 201902181415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 17 Feb 2019 14:15 UTC
+! Last modified: 18 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6369,7 +6369,7 @@ dailywire.com#@#.AD_area
 dailywire.com#@#.AdsRec
 dailywire.com#@#.Ads_4
 dailywire.com#@#.adsbox
-novi.ba#@#div[id^="div-gpt-ad"]
+novi.ba,greetingsisland.com#@#div[id^="div-gpt-ad"]
 novi.ba#@##ad-container
 newsbusters.org#@##block-block-13
 newsbusters.org#@##ad_top
@@ -6377,6 +6377,7 @@ tmn.today#@#.ad-728x90
 tmn.today#@#.ad-300x250
 phonearena.com#@#.ad_300_600
 phonearena.com#@##bottom_banner
+greetingsisland.com#@#.ad-placeholder
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
