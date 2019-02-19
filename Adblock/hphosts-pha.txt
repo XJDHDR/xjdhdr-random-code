@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GGQYzck4fuPDmVzWbqZd9w
-! Version: 201902181415
+! Checksum: 58pcKFx0O6ItngcIuqpf4A
+! Version: 201902191415
 ! Title: HP Hosts pha list
-! Last modified: 18 Feb 2019 14:15 UTC
+! Last modified: 19 Feb 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4100,6 +4100,7 @@
 ||magicfirstvalue.ru^
 ||magicgenericmall.ru^
 ||magichealthsale.su^
+||magicherbmarket.com^
 ||magicherbstore.ru^
 ||magichotassist.ru^
 ||magicmedicaleshop.eu^
@@ -4573,6 +4574,7 @@
 ||mycanadianpharmacy.info^
 ||mycanadianpharmacycorp.ru^
 ||mycanadianrx.com^
+||mycanadiansale.ru^
 ||mycareshop.ru^
 ||mycarewebmart.com^
 ||mycheapdrugs24.com^
@@ -4584,6 +4586,7 @@
 ||mydrugassist.ru^
 ||mydrugbasket.com^
 ||myeasystart.ru^
+||myfamilyeshop.com^
 ||myfastassist.ru^
 ||myfasthelp.ru^
 ||myfreetermlifequote.com^
@@ -4631,6 +4634,8 @@
 ||mypharmacymarket.ru^
 ||mypharmaworld.com^
 ||mypharmelement.ru^
+||mypharmreward.com^
+||mypillprogram.eu^
 ||mypillsbox.com^
 ||mypowerpack.net^
 ||myprivaterx.com^
@@ -4820,6 +4825,7 @@
 ||newsecureinc.ru^
 ||newshoptrust.su^
 ||newsimplylife.ru^
+||newsmartoutlet.com^
 ||newsmartquality.ru^
 ||newstartnow.ru^
 ||newstorea.su^
@@ -5625,6 +5631,7 @@
 ||purchaseviagra.name^
 ||pureaidbargain.ru^
 ||pureaidgroup.ru^
+||purecareprogram.ru^
 ||puredrugbargain.ru^
 ||pureglobalmall.su^
 ||pureglobalmart.ru^
@@ -5650,6 +5657,7 @@
 ||puresafegroup.ru^
 ||puresmartwebmart.ru^
 ||puretabssale.com^
+||puretrustedtrade.ru^
 ||putribenang.com^
 ||puzofya.superwink.su^
 ||pvbarr.xn--j1aafhy6bpm.xn--p1ai^
@@ -5982,12 +5990,14 @@
 ||safeed-tabs.com^
 ||safefamilygroup.ru^
 ||safefamilymarket.ru^
+||safefamilytrade.eu^
 ||safefastpurchase.ru^
 ||safefirstsale.su^
 ||safegeneric.com^
 ||safeglobaloutlet.ru^
 ||safehealingdeal.su^
 ||safehealingvalue.ru^
+||safehealthstore.icu^
 ||safeherbssale.ru^
 ||safeherbssale.su^
 ||safeherbsshop.ru^
@@ -6259,8 +6269,11 @@
 ||smartglobalgroup.ru^
 ||smartglobalmall.ru^
 ||smarthealingmart.ru^
+||smartherbeshop.su^
 ||smartherbsdeal.su^
 ||smartherbshop.ru^
+||smartherbsmart.com^
+||smartherbsoutlet.ru^
 ||smarthotassist.su^
 ||smarthotdeal.su^
 ||smartnaturalshop.su^
@@ -6285,6 +6298,7 @@
 ||sonnnieloella.su^
 ||sonora-purwokerto.com^
 ||sosnihuyca24health.com^
+||soulja.newsmartoutlet.com^
 ||southernexpressstore.com^
 ||sovaldi-store.com^
 ||sovaldionlinestore.com^
@@ -7381,6 +7395,7 @@
 ||wheahmgn.trygroupa.su^
 ||wheretobuydoxycyclinefordogs.ru^
 ||wheretobuymetronidazole.ru^
+||whip.mypharmreward.com^
 ||wholesaleviagra100mg.ru^
 ||wikirx.net^
 ||wilhelminaalverta.ru^
@@ -11054,6 +11069,7 @@
 ||www.magicgadget.com^
 ||www.magicgenericmall.ru^
 ||www.magichealthsale.su^
+||www.magicherbmarket.com^
 ||www.magicherbstore.ru^
 ||www.magichotassist.ru^
 ||www.magicmedicaleshop.eu^
@@ -11527,6 +11543,7 @@
 ||www.mycanadianpharmacy.info^
 ||www.mycanadianpharmacycorp.ru^
 ||www.mycanadianrx.com^
+||www.mycanadiansale.ru^
 ||www.mycareshop.ru^
 ||www.mycarewebmart.com^
 ||www.mycheapdrugs24.com^
@@ -11537,6 +11554,7 @@
 ||www.mydrugassist.ru^
 ||www.mydrugbasket.com^
 ||www.myeasystart.ru^
+||www.myfamilyeshop.com^
 ||www.myfastassist.ru^
 ||www.myfasthelp.ru^
 ||www.myfreetermlifequote.com^
@@ -11581,6 +11599,8 @@
 ||www.mypharmacymarket.ru^
 ||www.mypharmaworld.com^
 ||www.mypharmelement.ru^
+||www.mypharmreward.com^
+||www.mypillprogram.eu^
 ||www.mypillsbox.com^
 ||www.mypowerpack.net^
 ||www.myprivaterx.com^
@@ -11726,6 +11746,7 @@
 ||www.newfashionstore.ru^
 ||www.newfastbuy.ru^
 ||www.newfastmart.ru^
+||www.newfirstreward.eu^
 ||www.newfirstshop.ru^
 ||www.newgenericsdeal.ru^
 ||www.newglobalbargain.ru^
@@ -11768,6 +11789,7 @@
 ||www.newsecureinc.ru^
 ||www.newshoptrust.su^
 ||www.newsimplylife.ru^
+||www.newsmartoutlet.com^
 ||www.newsmartquality.ru^
 ||www.newstartnow.ru^
 ||www.newstorea.su^
@@ -12511,6 +12533,7 @@
 ||www.purchaseviagra.name^
 ||www.pureaidbargain.ru^
 ||www.pureaidgroup.ru^
+||www.purecareprogram.ru^
 ||www.puredrugbargain.ru^
 ||www.pureglobalmall.su^
 ||www.pureglobalmart.ru^
@@ -12532,9 +12555,11 @@
 ||www.purepillmarket.su^
 ||www.purepillsoutlet.ru^
 ||www.purepillsquality.su^
+||www.puresafeelement.eu^
 ||www.puresafegroup.ru^
 ||www.puresmartwebmart.ru^
 ||www.puretabssale.com^
+||www.puretrustedtrade.ru^
 ||www.puzofya.superwink.su^
 ||www.pvbarr.xn--j1aafhy6bpm.xn--p1ai^
 ||www.pvusude.superwink.su^
@@ -12836,11 +12861,13 @@
 ||www.safeed-tabs.com^
 ||www.safefamilygroup.ru^
 ||www.safefamilymarket.ru^
+||www.safefamilytrade.eu^
 ||www.safefastpurchase.ru^
 ||www.safefirstsale.su^
 ||www.safeglobaloutlet.ru^
 ||www.safehealingdeal.su^
 ||www.safehealingvalue.ru^
+||www.safehealthstore.icu^
 ||www.safeherbssale.ru^
 ||www.safeherbssale.su^
 ||www.safeherbsshop.ru^
@@ -13087,8 +13114,11 @@
 ||www.smartglobalgroup.ru^
 ||www.smartglobalmall.ru^
 ||www.smarthealingmart.ru^
+||www.smartherbeshop.su^
 ||www.smartherbsdeal.su^
 ||www.smartherbshop.ru^
+||www.smartherbsmart.com^
+||www.smartherbsoutlet.ru^
 ||www.smarthotassist.su^
 ||www.smarthotdeal.su^
 ||www.smartnaturalshop.su^
@@ -13111,6 +13141,7 @@
 ||www.sonnniejanice.com^
 ||www.sonnnieloella.su^
 ||www.sosnihuyca24health.com^
+||www.soulja.newsmartoutlet.com^
 ||www.southernexpressstore.com^
 ||www.sovaldi-store.com^
 ||www.sovaldionlinestore.com^
@@ -14136,6 +14167,7 @@
 ||www.wheahmgn.trygroupa.su^
 ||www.wheretobuydoxycyclinefordogs.ru^
 ||www.wheretobuymetronidazole.ru^
+||www.whip.mypharmreward.com^
 ||www.wholesaleviagra100mg.ru^
 ||www.wikirx.net^
 ||www.wilhelminaalverta.ru^
@@ -14557,6 +14589,7 @@
 ||www.yourpriceless.net^
 ||www.yourrelymedsprovider.com^
 ||www.yourremedystore.ru^
+||www.yourrxmall.su^
 ||www.yourrxmeds.com^
 ||www.yourrxshop.ru^
 ||www.yourrxtrade.com^
@@ -14822,6 +14855,7 @@
 ||yourpillssale.su^
 ||yourpriceless.net^
 ||yourremedystore.ru^
+||yourrxmall.su^
 ||yourrxmeds.com^
 ||yoursetting.com^
 ||yourshopland.ru^
@@ -14885,4 +14919,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 14863
+! Hosts: 14897
