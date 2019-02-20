@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4Zjw2HzWfuCcsFCFhIQXdg
-! Version: 201902181415
+! Checksum: C/3Mcqzti6Cl13fFEx1pEg
+! Version: 201902201415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Feb 2019 14:15 UTC
+! Last modified: 20 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2367,23 +2367,23 @@ what-character-are-you.com#@#.ad728
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=34892
 ! Plista.com ads
-@@||farm.plista.com/iframeShowItem.php?$subdocument,document,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||static.plista.com/image/resized/$image,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||static.plista.com/image/adchoices/$image,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||static.plista.com/image/adhints/$image,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||farm-*.plista.com/iframeShowItem.php?$subdocument,document,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||static-*.plista.com/image/resized/$image,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||static-*.plista.com/image/adchoices/$image,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||static-*.plista.com/image/adhints/$image,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-@@||serving-sys.com/*adServer.bs?$popup,third-party,domain=chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch###plwldplwldplwld
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="http://click.plista.com/pets"]
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[data-redirect^="http://click.plista.com/pets"]
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="https://click.plista.com/pets"]
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#.plistaList > .itemLinkPET
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="https://bs.serving-sys.com"]
-chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="http://bs.serving-sys.com/"]
+@@||farm.plista.com/iframeShowItem.php?$subdocument,document,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||static.plista.com/image/resized/$image,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||static.plista.com/image/adchoices/$image,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||static.plista.com/image/adhints/$image,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||farm-*.plista.com/iframeShowItem.php?$subdocument,document,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||static-*.plista.com/image/resized/$image,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||static-*.plista.com/image/adchoices/$image,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||static-*.plista.com/image/adhints/$image,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|smh.com.au|theage.com.au|canberratimes.com.au|brisbanetimes.com.au|watoday.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+@@||serving-sys.com/*adServer.bs?$popup,third-party,domain=motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|nachrichten.at|tvzvezda.ru|radiozet.pl|theroar.com.au|nine.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch###plwldplwldplwld
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="http://click.plista.com/pets"]
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[data-redirect^="http://click.plista.com/pets"]
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="https://click.plista.com/pets"]
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#.plistaList > .itemLinkPET
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="https://bs.serving-sys.com"]
+motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch#@#a[href^="http://bs.serving-sys.com/"]
 @@||ui-portal.de/c/ads/adservice/adservice-2-connector-current.js$domain=gmx.at|gmx.net|web.de|gmx.ch
 @@||adition.com/lt?*^lt=portal(gmxch)category(magazine)section(news)tagid(relatedbox)$script,domain=gmx.ch
 @@||adition.com/lt?*^lt=portal(gmxat)category(magazine)section(news)tagid(relatedbox)$script,domain=gmx.at|gmx.net|web.de
@@ -4888,6 +4888,7 @@ pressfire.no,framerate.no#@#.ad-disclaimer
 pressfire.no,framerate.no#@#.ad-top
 pressfire.no,framerate.no#@#.ad-center
 pressfire.no#@#a[href^="http://track.adform.net/"]
+pressfire.no#@#a[href^="https://track.adform.net/"]
 !:partner_token=Addoor Native Ads
 !:partner_id=df14e98d7a9a587c
 !:type=partner
@@ -6347,12 +6348,12 @@ netzwelt.de#@##skyscraper
 netzwelt.de#@##leaderboard-wrapper
 netzwelt.de#@##skyscraper-wrapper
 gogy.com#@#.adBox
-gogy.com#@#.adRight
+slickdeals.com,gogy.com#@#.adRight
 gogy.com#@#.adbottom
 gogy.com#@#.adtop
 gogy.com#@#.rightAd
 gogy.com#@#.adunitContainer
-gogy.com#@#.leftAd
+slickdeals.com,gogy.com#@#.leftAd
 totalprosports.com#@#.cube-ad
 accuweather.com#@#.panel-ad-mr
 cosmopolitan.com#@#.ad-sticky
@@ -6370,7 +6371,12 @@ dailywire.com#@#.AdsRec
 dailywire.com#@#.Ads_4
 dailywire.com#@#.adsbox
 novi.ba,greetingsisland.com#@#div[id^="div-gpt-ad"]
-novi.ba#@##ad-container
+slickdeals.com,novi.ba#@##ad-container
+slickdeals.com#@##bottomBannerAd
+slickdeals.com#@#.ADbox
+slickdeals.com#@#.variableHeightAd
+slickdeals.com#@#[data-adlocation]
+slickdeals.net#@#.sideGridBox.abc
 newsbusters.org#@##block-block-13
 newsbusters.org#@##ad_top
 tmn.today#@#.ad-728x90
@@ -6769,6 +6775,7 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .m
 @@||yandex.net/get-direct/$image,domain=pixmafia.com
 @@||an.yandex.ru/partner-code-bundles/$script,domain=pixmafia.com
 @@||an.yandex.ru/meta/$xmlhttprequest,domain=pixmafia.com
+pixmafia.com#@#div[id^="yandex_rtb"]
 !:partner_token=canalwp.com
 !:partner_id=6dd9daa0260bcf4d
 !:type=partner
@@ -7077,6 +7084,7 @@ temp-mail.org#@#.ezo_ad
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||convertcase.net^$csp=script-src 'self' * blob: data:
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
@@ -7481,16 +7489,59 @@ testpages.adblockplus.org#@##abptest
 @@||assistpub.com^
 @@||tags-cdn.deployads.com/a/dfp.ebaumsworld.com.js$domain=ebaumsworld.com
 @@||redditad.com^$domain=reddit.com
+@@||redditad.com^$domain=reddit.com,document
 @@||related.speedtest.net^$domain=speedtest.net
 @@||related.speedtest.net^$domain=speedtest.net,document
 @@||aax.forbes.com^$domain=forbes.com
-@@||aax.moneycontrol.com^$domain=moneycontrol.com
+@@||aax.forbes.com^$domain=forbes.com,document
+@@||aaxads.moneycontrol.com^$domain=moneycontrol.com
+@@||aaxads.moneycontrol.com^$domain=moneycontrol.com,document
 @@||related.gamepress.gg^$domain=gamepress.gg
+@@||related.gamepress.gg^$domain=gamepress.gg,document
 @@||related.ebaumsworld.com^$domain=ebaumsworld.com
+@@||related.ebaumsworld.com^$domain=ebaumsworld.com,document
 @@||sociomantic.com/js/2010-07-01/$script
 @@||sociomantic.com/html/$subdocument
 @@||c1.rfihub.net/js/tc.min.js
 @@||seattletimes.com^*/pubmatic_openwrap.js$domain=seattletimes.com
+@@||ocm.fanpage.gr^$domain=fanpage.gr
+@@||ocm.fanpage.gr^$domain=fanpage.gr,document
+@@||related.ccm.net^$domain=ccm.net
+@@||related.ccm.net^$domain=ccm.net,document
+@@||related.magazinedelledonne.it^$domain=magazinedelledonne.it
+@@||related.magazinedelledonne.it^$domain=magazinedelledonne.it,document
+@@||related.recht-finanzen.de^$domain=recht-finanzen.de
+@@||related.recht-finanzen.de^$domain=recht-finanzen.de,document
+@@||related.thetakeout.com^$domain=thetakeout.com
+@@||related.thetakeout.com^$domain=thetakeout.com,document
+@@||related.clickhole.com^$domain=clickhole.com
+@@||related.clickhole.com^$domain=clickhole.com,document
+@@||related.theinventory.com^$domain=theinventory.com
+@@||related.theinventory.com^$domain=theinventory.com,document
+@@||related.kotaku.com^$domain=kotaku.com
+@@||related.kotaku.com^$domain=kotaku.com,document
+@@||related.lifehacker.com^$domain=lifehacker.com
+@@||related.lifehacker.com^$domain=lifehacker.com,document
+@@||related.splinternews.com^$domain=splinternews.com
+@@||related.splinternews.com^$domain=splinternews.com,document
+@@||related.jezebel.com^$domain=jezebel.com
+@@||related.jezebel.com^$domain=jezebel.com,document
+@@||related.theroot.com^$domain=theroot.com
+@@||related.theroot.com^$domain=theroot.com,document
+@@||related.theonion.com^$domain=theonion.com
+@@||related.theonion.com^$domain=theonion.com,document
+@@||related.adtechdaily.com^$domain=adtechdaily.com
+@@||related.adtechdaily.com^$domain=adtechdaily.com,document
+@@||related.domesticatedcompanion.com^$domain=domesticatedcompanion.com
+@@||related.domesticatedcompanion.com^$domain=domesticatedcompanion.com,document
+@@||related.firstpost.com^$domain=firstpost.com
+@@||related.firstpost.com^$domain=firstpost.com,document
+@@||related.seattletimes.com^$domain=seattletimes.com
+@@||related.seattletimes.com^$domain=seattletimes.com,document
+@@||topics.247wallst.com^$domain=247wallst.com
+@@||topics.247wallst.com^$domain=247wallst.com,document
+@@||aax.koutsompolio.gr^$domain=koutsompolio.gr
+@@||aax.koutsompolio.gr^$domain=koutsompolio.gr,document
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
 forbes.com#@#.fbs-ad--topx-wrapper
@@ -7542,6 +7593,7 @@ seattletimes.com#@##ad-bottom
 seattletimes.com#@#div[id^="div-gpt-ad"]
 seattletimes.com#@#.ad
 seattletimes.com#@#.footer-ad
+domesticatedcompanion.com#@#.single-ad
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
