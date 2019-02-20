@@ -1,0 +1,12 @@
+s/const_2.x\([^a-z]\+\)/3\1/g
+s/const_1.x\([^a-z]\+\)/7\1/g
+s/const_0.x\([^a-z]\+\)/8\1/g
+s/const_2.y\([^a-z]\+\)/4\1/g
+s/const_1.y\([^a-z]\+\)/0\1/g
+s/const_0.y\([^a-z]\+\)/0\1/g
+s/const_2.z\([^a-z]\+\)/5\1/g
+s/const_1.z\([^a-z]\+\)/0\1/g
+s/const_0.z\([^a-z]\+\)/1\1/g
+s/const_2.w\([^a-z]\+\)/6\1/g
+s/const_1.w\([^a-z]\+\)/0\1/g
+s/const_0.w\([^a-z]\+\)/2\1/g
