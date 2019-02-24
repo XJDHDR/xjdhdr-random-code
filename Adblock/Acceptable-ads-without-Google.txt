@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cdmmWukZR/utrD43TQfUWQ
-! Version: 201902221415
+! Checksum: COkUINN2/Ck4u1dmFZU6oQ
+! Version: 201902241415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 22 Feb 2019 14:15 UTC
+! Last modified: 24 Feb 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -113,8 +113,6 @@ heise.de#@#.hinweis_anzeige
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=9803
 ! Text/image ads on heise.de
 @@||adcloud.net^$domain=heise.de,script,image,document,subdocument
-||heise.de/assets/akwa/v15/js/px.js?ch=2$domain=heise.de
-@@||heise.de/assets/akwa/v15/js/px.js?ch=1$domain=heise.de
 heise.de#@#.ad-container
 heise.de##a-ad:not([acceptable])
 !:partner_token=izito.com
@@ -5311,15 +5309,15 @@ tranzgendr.com#@##amzn_assoc_ad_div_adunit0_0
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=47655
 ! Agora ads
 @@||gazeta.pl/dfptools/adview/$subdocument,script,domain=gazeta.pl
-@@||gde-default.hit.gemius.pl^*/redot.gif?id=$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl|tokfm.pl
-@@||bs.serving-sys.com/BurstingPipe/adServer.bs?*&mc=imp&$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl|tokfm.pl
-@@||criteo.com/delivery/rta/rta.js$domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl|tokfm.pl
-@@||track.adform.net/adfserve/?bn=$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl|tokfm.pl
-@@||imrworldwide.com/cgi-bin/m?*&ce=agora&$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl|tokfm.pl
-myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl,tokfm.pl#@#.adviewDFPBanner
-myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl,tokfm.pl#@#[href*=".hit.gemius.pl"]
-myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl,tokfm.pl#@#A[href*="k.tradedoubler.com/click"]
-myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl,tokfm.pl#@##adunit
+@@||gde-default.hit.gemius.pl^*/redot.gif?id=$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||bs.serving-sys.com/BurstingPipe/adServer.bs?*&mc=imp&$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||criteo.com/delivery/rta/rta.js$domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||track.adform.net/adfserve/?bn=$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||imrworldwide.com/cgi-bin/m?*&ce=agora&$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|ladnydom.pl|bryla.pl|avanti24.pl|logo24.pl
+myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@#.adviewDFPBanner
+myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@#[href*=".hit.gemius.pl"]
+myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@#A[href*="k.tradedoubler.com/click"]
+myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,ladnydom.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@##adunit
 !:partner_token=cuve
 !:partner_id=3447466af1029b11
 !:type=partner
@@ -6352,12 +6350,12 @@ netzwelt.de#@##skyscraper
 netzwelt.de#@##leaderboard-wrapper
 netzwelt.de#@##skyscraper-wrapper
 gogy.com#@#.adBox
-slickdeals.com,gogy.com#@#.adRight
+slickdeals.net,gogy.com#@#.adRight
 gogy.com#@#.adbottom
 gogy.com#@#.adtop
 gogy.com#@#.rightAd
 gogy.com#@#.adunitContainer
-slickdeals.com,gogy.com#@#.leftAd
+slickdeals.net,gogy.com#@#.leftAd
 totalprosports.com#@#.cube-ad
 accuweather.com#@#.panel-ad-mr
 cosmopolitan.com#@#.ad-sticky
@@ -6375,11 +6373,11 @@ dailywire.com#@#.AdsRec
 dailywire.com#@#.Ads_4
 dailywire.com#@#.adsbox
 novi.ba,greetingsisland.com#@#div[id^="div-gpt-ad"]
-slickdeals.com,novi.ba#@##ad-container
-slickdeals.com#@##bottomBannerAd
-slickdeals.com#@#.ADbox
-slickdeals.com#@#.variableHeightAd
-slickdeals.com#@#[data-adlocation]
+slickdeals.net,novi.ba#@##ad-container
+slickdeals.net#@##bottomBannerAd
+slickdeals.net#@#.ADbox
+slickdeals.net#@#.variableHeightAd
+slickdeals.net#@#[data-adlocation]
 slickdeals.net#@#.sideGridBox.abc
 newsbusters.org#@##block-block-13
 newsbusters.org#@##ad_top
