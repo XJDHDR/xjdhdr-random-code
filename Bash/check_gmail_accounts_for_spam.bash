@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
 then
@@ -8,24 +8,29 @@ then
 	exit 1
 fi
 
+bSpamDetected=0
 while read -r sAddress sPassword
 do
 	if [ "$sAddress" != "" ] && [ "$sPassword" != "" ]
 	then
-		sCurlOutput=$(sshpass -p "$sPassword" curl --url 'imaps://imap.gmail.com' --user "$sAddress" -X 'STATUS [Gmail]/Spam (MESSAGES)')
+		sCurlOutput=$(curl -s --url 'imaps://imap.gmail.com' --user "$sAddress":"$sPassword" -X 'STATUS [Gmail]/Spam (MESSAGES)')
 		sCurlOutputCopy=$sCurlOutput
 		sCurlOutput=${sCurlOutput#'* STATUS "[Gmail]/Spam" ('}
-		sCurlOutput=${sCurlOutput#')'}
-		if [ "$sCurlOutput" != "MESSAGES 0" ]
+		sCurlOutput=${sCurlOutput/)/}
+		if [[ $sCurlOutput != "MESSAGES 0" ]]
 		then
-			sDateTime=$(date -u +"%d %b %Y %H:%M")
+			if [[ $bSpamDetected == 0 ]]
+			then
+				bSpamDetected=1
+				sDateTime=$(date -u +"%d %b %Y %H:%M")
+				printf 'check_gmail_accounts_for_spam.bash:\n%s UTC\n' "$sDateTime"
+			fi
 			if [[ $sCurlOutput == "MESSAGES "* ]]
 			then
-				printf 'check_gmail_accounts_for_spam.bash:\n%s UTC\n-  Spam detected while checking %s: %s\n\n' "$sDateTime" "$sAddress" "$sCurlOutputCopy"
+				printf '%s Spam detected while checking %s: %s\n' "-" "$sAddress" "$sCurlOutput"
 			else
-				printf 'check_gmail_accounts_for_spam.bash:\n%s UTC\n-  Error occured while checking %s: %s\n\n' "$sDateTime" "$sAddress" "$sCurlOutputCopy"
+				printf '%s Error occured while checking %s: %s\n' "-" "$sAddress" "$sCurlOutputCopy"
 			fi
 		fi
 	fi
 done < "$HOME/gmail_details.txt" >> '/home/error_reports_to_email.txt'
-
