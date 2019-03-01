@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wolYzodsR7pxlbN3PPvnKg
-! Version: 201902281415
+! Checksum: VYypayYnSyPyMicFCApnqQ
+! Version: 201903011415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 28 Feb 2019 14:15 UTC
+! Last modified: 01 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6381,6 +6381,8 @@ phonearena.com#@#.ad_300_600
 phonearena.com#@##bottom_banner
 greetingsisland.com#@#.ad-placeholder
 news.grabien.com#@##ads_header
+usmagazine.com#@#.ad-spot
+usmagazine.com,mensjournal.com#@#.ad-slot
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6682,8 +6684,8 @@ supereva.it#@#.se-ligatus
 p-magazine.be#@#.bsac
 p-magazine.be#@#.bsac-container
 ! Content recommendations
-@@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
-@@||updater.hyde.ligatus.com/js^$script,domain=sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
+@@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
+@@||updater.hyde.ligatus.com/js^$script,domain=linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -7555,6 +7557,9 @@ testpages.adblockplus.org#@##abptest
 @@||related.kinjadeals.com^$domain=kinjadeals.com,document
 @@||aax.oriel.io^$domain=aax.demo.oriel.io
 @@||aax.oriel.io^$domain=aax.demo.oriel.io,document
+! temp
+@@||adrecover.com^$domain=redditad.com
+!
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
 forbes.com#@#.fbs-ad--topx-wrapper
