@@ -1,5 +1,8 @@
 #!/bin/bash
 
+PATH=$PATH:$(sed -n '/PATH=/s/^.*=// ; s/\"//gp' '/etc/environment')
+
+
 if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
 then
 	exit 1

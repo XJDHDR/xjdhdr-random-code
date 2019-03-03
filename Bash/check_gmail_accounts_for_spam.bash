@@ -1,4 +1,7 @@
-#!/bin/bash -x
+#!/bin/bash
+
+PATH=$PATH:$(sed -n '/PATH=/s/^.*=// ; s/\"//gp' '/etc/environment')
+
 
 if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
 then
@@ -11,13 +14,13 @@ fi
 bSpamDetected=0
 while read -r sAddress sPassword
 do
-	if [ "$sAddress" != "" ] && [ "$sPassword" != "" ]
+	if [[ $sAddress != "" ]] && [[ $sPassword != "" ]]
 	then
 		sCurlOutput=$(curl -s --url 'imaps://imap.gmail.com' --user "$sAddress":"$sPassword" -X 'STATUS [Gmail]/Spam (MESSAGES)')
 		sCurlOutputCopy=$sCurlOutput
 		sCurlOutput=${sCurlOutput#'* STATUS "[Gmail]/Spam" ('}
 		sCurlOutput=${sCurlOutput/)/}
-		if [[ $sCurlOutput != "MESSAGES 0" ]]
+		if [[ $sCurlOutput != "MESSAGES 0"* ]]
 		then
 			if [[ $bSpamDetected == 0 ]]
 			then
