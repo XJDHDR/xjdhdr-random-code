@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nOyb5ksW2S7qux+bBOxiNg
-! Version: 201903041415
+! Checksum: HslCt0940Eef+wLNWHYaWA
+! Version: 201903051415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Mar 2019 14:15 UTC
+! Last modified: 05 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1271,6 +1271,7 @@ topappli.fr##.ob-widget.ob-strip-layout.CRAB_1
 techadvisor.fr,techadvisor.co.uk,digitalartsonline.co.uk,computerworlduk.com,techworld.com,macworld.co.uk##.CRAB_2
 express.co.uk,dailystar.co.uk,ok.co.uk##.OUTBRAIN > [class*="AR_"] > .ob-first .ob-p
 dailystar.co.uk,ok.co.uk##.OUTBRAIN > [class*="SB_"] > .ob-first .ob-p
+bleacherreport.com##div[data-widget-id="SL_1"]
 @@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
 @@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
 @@||bonappetit.com/ads/js/cn.dart.bun.min.js$script,domain=bonappetit.com
@@ -5363,7 +5364,6 @@ mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
-! For testing
 !:partner_token=bedandchai.com
 !:partner_id=bd81f3c03cb0d280
 !:type=partner
@@ -7214,10 +7214,13 @@ gamesflow.com#@#.iconads
 ||codefund.app/assets/px.js?ch=2
 @@||codefund.app/assets/px.js?ch=1
 @@||codefund.app/properties/*/funder.js$third-party
+@@||codefund.app/properties/*/funder.html?$third-party
 @@||codefund.app^$image,third-party
 ! legacy
 @@||codefund.io/scripts/*/embed.js$third-party
 @@||codefund.io/display/$image,third-party
+@@||codefund.io/properties/*/funder.js$third-party
+@@||codefund.io/properties/*/funder.html?$third-party
 !:partner_token=Polskapress
 !:partner_id=f03836cbf29e2fde
 !:type=partner
@@ -7559,6 +7562,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.kinjadeals.com^$domain=kinjadeals.com,document
 @@||aax.oriel.io^$domain=aax.demo.oriel.io
 @@||aax.oriel.io^$domain=aax.demo.oriel.io,document
+@@||admiral.broadwayworld.com^$domain=broadwayworld.com
+@@||admiral.broadwayworld.com^$domain=broadwayworld.com,document
 ! temp
 @@||adrecover.com^$domain=redditad.com
 @@||static-cdn.adblade.com^$domain=web.adblade.com
