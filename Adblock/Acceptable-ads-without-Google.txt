@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HslCt0940Eef+wLNWHYaWA
-! Version: 201903051415
+! Checksum: o7wz5CurAn7HldYPMqMOyg
+! Version: 201903061415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 05 Mar 2019 14:15 UTC
+! Last modified: 06 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -503,8 +503,8 @@ computerbase.de#@##afc-box
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=16247
 ! eaveselectrical.co.uk ads
-!:partner_token=minecraft.dlk.pl
-!:partner_id=cdb671c13a98c9e9
+!:partner_token=pdasite.pl
+!:partner_id=9e1694015b5bf1fc
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=16305
 ! minecraft.dlk.pl ads
@@ -518,11 +518,6 @@ computerbase.de#@##afc-box
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=16248
 ! tabletsbaratas.net ads
-!:partner_token=bancmoteur.com
-!:partner_id=ad85cc90577ec1a5
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=16447
-! bancmoteur.com ads
 !:partner_token=blogdemigueldiaz.com
 !:partner_id=120662b72843b66c
 !:type=partner
@@ -1247,6 +1242,7 @@ telegraph.co.uk#@##outbrain_widget_0
 foxnews.com#@##sponsored-stories
 t3n.de#@#.adsbox
 lesnumeriques.com#@##product-ads
+seattlepi.com,chron.com,sfgate.com,mysanantonio.com#@#[data-load-complete="true"]
 myplainview.com,yourconroenews.com,thehour.com,ourmidland.com,michigansthumb.com,mrt.com,lmtonline.com,theintelligencer.com,nhregister.com##.OUTBRAIN > .AR_3 > .ob-first .ob-p
 sensacine.com##.OUTBRAIN > .CRAB_2
 sensacine.com##.OUTBRAIN > .CRAB_3
@@ -1866,7 +1862,6 @@ healthygeorge.com,tradingblvd.com,cashroadster.com,loanpride.com,therapyjoker.co
 seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
-boston.com,orlandosentinel.com,chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com#@#[observeid]
 expressandstar.com#@#.advert
 boston.com#@#[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com#@#[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
@@ -2438,8 +2433,8 @@ rmfmaxxx.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=31654
 ! web.cofp.ru ads
-!:partner_token=bitser.org
-!:partner_id=07fc051e1d001e90
+!:partner_token=Bazwise Technology
+!:partner_id=2648bb7a91dcdf9a
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=31658
 ! bitser.org ads
@@ -3677,8 +3672,8 @@ minecraftforum.net#@#.atf-ad-medRect
 @@||adtech.de/dt/common/postscribe.js$domain=20min.ch
 @@||bs.serving-sys.com^$popup,domain=20min.ch
 @@||track.adform.net^$popup,domain=20min.ch
-!:partner_token=rechneronline.de
-!:partner_id=0b3fd841da330681
+!:partner_token=Kummer und Oster GbR
+!:partner_id=b2ffad8d17662ce8
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42211
 ! rechneronline.de ads
@@ -4643,8 +4638,8 @@ strojar.com#@#[id^="aswift"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44483
 ! Amazon affiliate links on shop-writingbull.de
 @@||amazon-adsystem.com/widgets/q?*&ad_type=product_link&$subdocument,domain=shop-writingbull.de,document
-!:partner_token=cuve.co
-!:partner_id=5e96fd744c49e64f
+!:partner_token=cuve
+!:partner_id=3447466af1029b11
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44168
 ! cuve.co ads
@@ -4976,6 +4971,7 @@ classroom.synonym.com##.article-text > .summary + .text-ad
 pocketsense.com#@#.desktop-ad
 pocketsense.com#@#.side-ad
 traveltips.usatoday.com#@#adReplacement
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com,education.seattlepi.com,homeguides.sfgate.com,healthyeating.sfgate.com#@#[data-load-complete="true"]
 !:partner_token=jeuxonline.info
 !:partner_id=f8f70a3f6bdc2f30
 !:type=partner
@@ -6126,8 +6122,8 @@ wequizs.com#@#.ad-row
 ! lookany.com ads
 @@||lookany.com/search/$elemhide
 @@||lookany.com^*/search/$elemhide
-!:partner_token=playfin.com
-!:partner_id=599678d5ed6648d0
+!:partner_token=Tightrope Interactive
+!:partner_id=276ee83ee50f18cc
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52601
 ! playfin.com ads
@@ -7075,6 +7071,8 @@ soolide.com#@##quads-ad1
 temp-mail.org#@#.ezoic-ad
 temp-mail.org#@#.ezo_ad
 gosunoob.com#@##reklama
+detaly.co.il,nep.co.il#@#.herald-ad
+broadwayworld.com#@#.adtester-container
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
