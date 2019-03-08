@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DF+wTBEsllbaGygFhQWYqg
-! Version: 201903071415
+! Checksum: KBlZTqm1JYMGpRhChG6LTg
+! Version: 201903081415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 07 Mar 2019 14:15 UTC
+! Last modified: 08 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5059,22 +5059,6 @@ bbc.com#@#.bbccom_advert
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45490#p152473
 ! euromilliononline.com ads
 @@||ads.partner.lottoland.com/redirect.aspx?$popup,domain=euromilliononline.com
-!:partner_token=tmtm.ru
-!:partner_id=a037846113c643e5
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45568
-! tmtm.ru ads
-/px.gif?ch=2&rn=$domain=habr.com|geektimes.com|toster.ru
-@@/px.gif?ch=1&rn=$domain=habr.com|geektimes.com|toster.ru
-@@||an.yandex.ru/system/context.js$domain=habr.com|geektimes.com|toster.ru
-@@||an.yandex.ru/resource/context_static_r*.js$domain=habr.com|geektimes.com|toster.ru
-@@||an.yandex.ru/meta/$xmlhttprequest,domain=habr.com|geektimes.com|toster.ru
-@@||yandex.net/get-direct/$image,domain=habr.com|geektimes.com|toster.ru
-@@||an.yandex.ru/partner-code-bundles/$script,domain=habr.com|geektimes.com|toster.ru
-@@||an.yandex.ru^*^callback^$script,domain=habr.com|geektimes.com|toster.ru
-habr.com,geektimes.com#@#.bmenu_inner
-habr.com,geektimes.com,toster.ru#@#.img_ad
-habr.com,geektimes.com,toster.ru#@#iframe[width="240"][height="400"]
 !:partner_token=atr-nov.ru
 !:partner_id=8cdba3f8a884d3d7
 !:type=partner
@@ -6379,6 +6363,9 @@ greetingsisland.com#@#.ad-placeholder
 news.grabien.com#@##ads_header
 usmagazine.com#@#.ad-spot
 usmagazine.com,mensjournal.com#@#.ad-slot
+offbeat.topix.com#@#.js-ad
+offbeat.topix.com#@#.js-ad-hover
+offbeat.topix.com#@#.str-300x250-ad
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -7214,11 +7201,13 @@ gamesflow.com#@#.iconads
 @@||codefund.app/properties/*/funder.js$third-party
 @@||codefund.app/properties/*/funder.html?$third-party
 @@||codefund.app^$image,third-party
+@@||codefund.app/impressions/$third-party
 ! legacy
 @@||codefund.io/scripts/*/embed.js$third-party
 @@||codefund.io/display/$image,third-party
 @@||codefund.io/properties/*/funder.js$third-party
 @@||codefund.io/properties/*/funder.html?$third-party
+@@||codefund.io/impressions/$third-party
 !:partner_token=Polskapress
 !:partner_id=f03836cbf29e2fde
 !:type=partner
@@ -7562,6 +7551,8 @@ testpages.adblockplus.org#@##abptest
 @@||aax.oriel.io^$domain=aax.demo.oriel.io,document
 @@||admiral.broadwayworld.com^$domain=broadwayworld.com
 @@||admiral.broadwayworld.com^$domain=broadwayworld.com,document
+||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
+@@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 ! temp
 @@||adrecover.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com,document
