@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r4TU6lRFwTw0H7luwC+zbw
-! Version: 201903101415
+! Checksum: Y59mAr+ihZE7yXsjPPYdHg
+! Version: 201903111415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 Mar 2019 14:15 UTC
+! Last modified: 11 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1373,7 +1373,7 @@ popculture-y.com#@#.wpInsertInPostAd
 ! t-online.de ads
 t-online.de#@#a[target="_blank"][href*=".sptopf.de/tshp/RE?ID="]
 t-online.de#@#a[href^="http://count.shopping.t-online.de/RE?ID="]
-t-online.de#@#a[href^="https://count.shopping.t-online.de/RE?ID="]
+! t-online.de#@#a[href^="https://count.shopping.t-online.de/RE?ID="]
 t-online.de#@#a[href^="http://logc206.xiti.com/go.click?"]
 t-online.de#@#a[href^="http://im.banner.t-online.de/?adlink|"]
 t-online.de#@#a[target="_blank"][href^="http://im.banner.t-online.de/?adlink"] > img
@@ -7060,6 +7060,8 @@ temp-mail.org#@#.ezo_ad
 gosunoob.com#@##reklama
 detaly.co.il,nep.co.il#@#.herald-ad
 broadwayworld.com#@#.adtester-container
+buzznet.com#@#.ad-holder
+@@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
