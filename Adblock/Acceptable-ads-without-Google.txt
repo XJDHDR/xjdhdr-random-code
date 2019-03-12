@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Y59mAr+ihZE7yXsjPPYdHg
-! Version: 201903111415
+! Checksum: XElNvhRbB3tfOhHHXThwFg
+! Version: 201903121415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 11 Mar 2019 14:15 UTC
+! Last modified: 12 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1335,14 +1335,6 @@ medspecial.ru#@##yandex_ad
 /px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAL/3/SrV7P8AsTHMFSpPmYbyv2PkACHwmG9Z+1IFZq3vA54IN7pQcGnhgNo+8SN9r/KtUWCb9OPqTfWM1N4w/EUCAwEAAQ
 @@/px.gif?ch=1&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAL/3/SrV7P8AsTHMFSpPmYbyv2PkACHwmG9Z+1IFZq3vA54IN7pQcGnhgNo+8SN9r/KtUWCb9OPqTfWM1N4w/EUCAwEAAQ
 @@/abp2-$script,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAL/3/SrV7P8AsTHMFSpPmYbyv2PkACHwmG9Z+1IFZq3vA54IN7pQcGnhgNo+8SN9r/KtUWCb9OPqTfWM1N4w/EUCAwEAAQ
-!:partner_token=Netzathleten
-!:partner_id=9b948db4e4b8b157
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23992
-! Ads by Netzathleten
-@@||adadapter.netzathleten-media.de^*/naMediaAd.js
-! ||adadapter.netzathleten-media.de/API-*/dct/abp/px.gif?ch=2&rn=$xmlhttprequest
-@@||utils.adadapter.netzathleten-media.de/API-*/utils/abp/$subdocument
 !:partner_id=0d4492bba9087f67
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23743
@@ -3974,26 +3966,6 @@ iconfinder.com#@#.carbon_ads
 @@||track.adform.net^$popup,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
 @@||populisengage.com/RealMedia/ads/click_$popup,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
 autoblog.it,blogosfere.it,motoblog.it,excite.it,motorsportblog.it,appblog.it,blogvoip.it,clickblog.it,downloadblog.it,gadgetblog.it,gamesblog.it,melablog.it,mobileblog.it,ossblog.it,betsblog.it,calcioblog.it,outdoorblog.it,02blog.it,06blog.it,benessereblog.it,crimeblog.it,ecoblog.it,finanzablog.it,polisblog.it,soldiblog.it,blogapuntate.it,cineblog.it,soundsblog.it,tvblog.it,artsblog.it,booksblog.it,comicsblog.it,designerblog.it,happyblog.it,petsblog.it,toysblog.it,travelblog.it,bebeblog.it,deluxeblog.it,fashionblog.it,gossipblog.it,gustoblog.it,pinkblog.it,ilmessaggero.it,kijiji.it#@#.ads_content
-!:partner_token=Sharethrough
-!:partner_id=2850bc891304c527
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42421
-! Ads by Sharethrough
-@@||b.sharethrough.com^$image,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||moatads.com/pixel.gif?*^i=SHARETHROUGHV$image,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||moatads.com/sharethroughv*/moatad.js$domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||platform.sharethrough.com/placements/$domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||sharethrough.com/assets/$image,script,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||sharethrough.com/creatives/$subdocument,document,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||sharethrough.com/m/campaigns/$image,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||sharethrough.com/m/creative_thumbnails/$image,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||sharethrough.com^*^placement_key=$subdocument,document,domain=cbssports.com|health.com|m.eonline.com|m.tmz.com|foodnetwork.com|mobi.perezhilton.com|ftw.usatoday.com|cnet.com|abcnews.go.com|thenextweb.com
-@@||mono.vizu.com/cdn/*/offsite_survey_mobile.html?vzsid=sharethroughmobile^$document
-@@||ntv.io/serve/load.js$domain=abcnews.go.com
-@@||jadserve.postrelease.com/t?$script,domain=abcnews.go.com
-cbssports.com###skin_ad_call
-cbssports.com,cnet.com#@#.skinAd
-ftw.usatoday.com#@#div[id^="acm-ad-tag-"]
 !:partner_token=yepman.ru
 !:partner_id=b4bb0b15fed633b7
 !:type=partner
@@ -6383,13 +6355,6 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53983
 ! jsmaps.io ads
-!:partner_token=OK.RU
-!:partner_id=ea94f1254cccb86d
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
-! Mail.ru ads
-@@||rs.mail.ru/d27329702.gif$image,domain=ok.ru
-||rs.mail.ru/d27329704.gif$image,domain=ok.ru
 !:partner_token=Surfingbird
 !:partner_id=12071ed44b271043
 !:type=partner
@@ -6910,30 +6875,6 @@ wordpress.com#@#.wpwidesky
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54949
 ! mabandepassante.com ads
-!:partner_token=Define Media GmbH
-!:partner_id=60b32aa95a866131
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54974
-! Definemedia Ads
-||cdn.conative.de/libs/px.gif?ch=2&rn=$domain=heilpraxisnet.de|heilpraxisnet.de
-@@||cdn.conative.de/libs/px.gif?ch=1&rn=$domain=heilpraxisnet.de
-@@||cdn.conative.de^$script,domain=heilpraxisnet.de
-@@||tcc.conative.de^$domain=heilpraxisnet.de
-@@||cdn.conative.de/serve/$domain=heilpraxisnet.de
-@@||cdn.conative.de/libs/$subdocument,domain=heilpraxisnet.de,document
-@@||cdn.conative.de/gfx/$domain=heilpraxisnet.de
-@@||a.twiago.com^$popup,domain=heilpraxisnet.de
-@@||bs.serving-sys.com^$popup,domain=heilpraxisnet.de
-@@||bidder.criteo.com/cdb?ptv=*&profileId=184&cb=$xmlhttprequest,domain=heilpraxisnet.de
-@@||a.twiago.com/adview.php?*&pid=3227&$image,domain=heilpraxisnet.de
-@@||a.twiago.com/adview.php?*&pid=3418&$image,domain=heilpraxisnet.de
-@@||a.twiago.com/adview.php?*&pid=3749&$image,domain=heilpraxisnet.de
-@@||a.twiago.com/adview.php?*&pid=3750&$image,domain=heilpraxisnet.de
-@@||a.twiago.com/adview.php?*&pid=3751&$image,domain=heilpraxisnet.de
-@@||a.twiago.com/adview.php?*&pid=3765&$image,domain=heilpraxisnet.de
-@@||track.adform.net/adfserve/?bn=14499456;$image,domain=heilpraxisnet.de
-@@||track.adform.net/adfserve/?bn=19872886;$image,domain=heilpraxisnet.de
-@@||ad.yieldlab.net/yp/$script,domain=heilpraxisnet.de
 !:partner_token=mafojobs.de
 !:partner_id=8e68dd25b7c4a0e2
 !:type=partner
@@ -6965,14 +6906,6 @@ mafojobs.de,studentenjobs4u.de#@##adunit
 @@||search.selfbutler.com/px.gif?ch=1&rn=$domain=search.selfbutler.com
 ||shopping.selfbutler.com/px.gif?ch=2&rn=$domain=shopping.selfbutler.com
 @@||shopping.selfbutler.com/px.gif?ch=1&rn=$domain=shopping.selfbutler.com
-!:partner_token=OB Media
-!:partner_id=8b5b0a0ec8f38dbb
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55388
-! OB Media ads
-@@$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
-/abp/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
-@@/abp/px.gif?ch=1&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -7130,38 +7063,6 @@ adtechdaily.com#@#.img_ad
 ||goldenline.pl/bundles/utils/img/px.gif?ch=2&rn=$domain=goldenline.pl
 goldenline.pl#@#.img_ad
 goldenline.pl#@#div[id^="div-gpt-ad"]
-!:partner_token=MGID Inc.
-!:partner_id=d5fa18b8018c601d
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=58560
-! Ads by MGID
-@@||a.mgid.com/mgsensor.js?d=$script,third-party
-@@||a.mgid.com^$image,third-party
-! @@||mgid.com^*/vigilantcitizen.com.$script,domain=vigilantcitizen.com
-! @@||servicer.mgid.com^*?w=$script,domain=vigilantcitizen.com
-! ||mgid.com/px.gif?ch=2&rn=$domain=vigilantcitizen.com
-! @@||mgid.com/px.gif?ch=1&rn=$domain=vigilantcitizen.com
-! @@||cdn.mgid.com^$domain=vigilantcitizen.com
-! @@||cm.mgid.com^$domain=vigilantcitizen.com
-! @@||imggprx.mgid.com^$image,domain=vigilantcitizen.com
-! @@|https://$popup,domain=vigilantcitizen.com
-! @@|http://$popup,domain=vigilantcitizen.com
-! vigilantcitizen.com#@#[id*="ScriptRoot"]
-! vigilantcitizen.com#@#div[id^="MarketGid"]
-! vigilantcitizen.com#@#[id*="MarketGid"]
-! vigilantcitizen.com#@#div[id^="M"][id*="Composite"]
-! ||mgid.com/px.gif?ch=2&rn=$domain=tintaynguyen.com
-! @@||mgid.com/px.gif?ch=1&rn=$domain=tintaynguyen.com
-! @@||cdn.mgid.com/images/by_mgid_adc_logo_mini.svg$image,domain=tintaynguyen.com
-! @@||imgg-cdn.marketgid.com/$image,domain=tintaynguyen.com
-! @@||imgg-cdn.mgid.com/$image,domain=tintaynguyen.com
-! @@||mgid.com/*/tintaynguyen.com*.js?t=$script,domain=tintaynguyen.com
-! @@||mgid.com/ghits/$popup,domain=tintaynguyen.com
-! @@||servicer.mgid.com/*?w=$script,domain=tintaynguyen.com
-! tintaynguyen.com#@#[id*="MarketGid"]
-! tintaynguyen.com#@#[id*="ScriptRoot"]
-! tintaynguyen.com#@#div[id^="MarketGid"]
-! tintaynguyen.com##[id$="ScriptRootC74277"]
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -7254,28 +7155,6 @@ gamesflow.com#@#.iconads
 @@||intelliad.de/cl/*.js
 @@||intelliad.de/gcm.php?$image
 @@||bidobserver.com^$third-party
-!:partner_token=Linkconnector
-!:partner_id=b22068df0211753e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=93029#p93029
-! Linkconnector conversion tracking
-@@||linkconnector.com/js/uts_landing.php
-@@||linkconnector.com/js/uts_landing_nlt.php
-@@||linkconnector.com/member/JS/traffic_link_client.php
-@@||linkconnector.com/member/JS/traffic_link_client_async.php
-@@||linkconnector.com/tc.php
-@@||linkconnector.com/tl.php
-@@||linkconnector.com/tm.php
-@@||linkconnector.com/tmjs.php
-@@||linkconnector.com/traffic_coupon.php
-@@||linkconnector.com/traffic_data.php
-@@||linkconnector.com/traffic_link.php
-@@||linkconnector.com/traffic_merchant.php
-@@||linkconnector.com/traffic_validate.php
-@@||linkconnector.com/tu.php
-@@||linkconnector.com/tv.php
-@@||linkconnector.com/uts_lp.php
-@@||linkconnector.com/uts_tm.php
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=116807#p116807
 ! vitrado conversion tracking
@@ -7382,20 +7261,6 @@ gamesflow.com#@#.iconads
 @@||an.yandex.ru/count/$image
 @@||an.yandex.ru/rtbcount/$image
 @@||an.yandex.ru/mapuid/$image
-!:partner_token=eBay Enterprise Marketing Solutions
-!:partner_id=1ebc27e58cb9e14a
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=150886#p150886
-! EBay Enterprise Affiliate Network tracking
-@@||pepperjamnetwork.com/tracking^
-@@||pepperjamnetwork.com/track^
-@@||t.pepperjamnetwork.com^
-@@||pjtra.com/t/
-@@||gopjn.com/t/
-@@||pntrs.com/t/
-@@||pntrac.com/t/
-@@||pjatr.com/t/
-@@||pntra.com/t/
 !:partner_token=Tradedoubler
 !:partner_id=95219d69e6e074ea
 !:type=partner
