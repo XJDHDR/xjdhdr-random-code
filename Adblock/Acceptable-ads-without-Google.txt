@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XElNvhRbB3tfOhHHXThwFg
-! Version: 201903121415
+! Checksum: QHzirpM+gg5XAR8AfLJxfg
+! Version: 201903131415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 12 Mar 2019 14:15 UTC
+! Last modified: 13 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6859,6 +6859,7 @@ wordpress.com#@#.wpwidesky
 @@||s.pubmine.com/hba$domain=wordpress.com
 @@||s.pubmine.com/adv?$xmlhttprequest,domain=wordpress.com
 @@||pubpress.net/houseads/$domain=wordpress.com
+@@||s.pubmine.com/ata.js$domain=wordpress.com
 ||s.pubmine.com/pixel?id=15&type=img$domain=wordpress.com
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
