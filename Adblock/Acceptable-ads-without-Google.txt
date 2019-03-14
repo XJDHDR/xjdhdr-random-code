@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QHzirpM+gg5XAR8AfLJxfg
-! Version: 201903131415
+! Checksum: fQCk/3vC9xNA5c/wgZSM/Q
+! Version: 201903141415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 13 Mar 2019 14:15 UTC
+! Last modified: 14 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6338,6 +6338,7 @@ usmagazine.com,mensjournal.com#@#.ad-slot
 offbeat.topix.com#@#.js-ad
 offbeat.topix.com#@#.js-ad-hover
 offbeat.topix.com#@#.str-300x250-ad
+hometalk.com#@#.ad-item
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6955,7 +6956,7 @@ wnd.com#@#iframe[id][style]
 wnd.com#@#[style] > [scrolling]
 wnd.com#@#[style] > iframe
 wnd.com#@#iframe[marginheight]
-wnd.com#@#div > iframe:first-child
+wnd.com,israelnationalnews.com,colourlovers.com,convertcase.net#@#div > iframe:first-child
 wnd.com#@#.left_prom_160
 yad2.co.il#@#div[id^="dfp-slot-"]
 yad2.co.il#@#[id$="bottom_banner"]
@@ -6967,7 +6968,6 @@ articlesvally.com#@#.ad-side
 israelnationalnews.com#@#[style] > iframe
 israelnationalnews.com#@#[style] > [scrolling]
 israelnationalnews.com#@#[src*="blob:"]
-israelnationalnews.com#@#div > iframe:first-child
 israelnationalnews.com#@##divTopAd
 timesofisrael.com#@#.banner
 timesofisrael.com#@#.b300x250
@@ -6975,7 +6975,6 @@ colourlovers.com#@##ga-above-footer
 colourlovers.com#@##ga-below-header
 colourlovers.com#@#.ad
 colourlovers.com#@#[style*="background-image:"]
-colourlovers.com#@#div > iframe:first-child
 gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.ad-side
 broadwayworld.com#@#.ezoic-ad
 soolide.com#@##quads-ad1_widget

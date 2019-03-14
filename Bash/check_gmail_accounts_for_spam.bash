@@ -37,3 +37,10 @@ do
 		fi
 	fi
 done < "$HOME/gmail_details.txt" >> '/home/error_reports_to_email.txt'
+
+if [[ $bSpamDetected == 1 ]]
+then
+	printf '\n' >> '/home/error_reports_to_email.txt'
+fi
+
+exit 0
