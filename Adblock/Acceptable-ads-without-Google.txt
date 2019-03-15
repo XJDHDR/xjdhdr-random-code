@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fQCk/3vC9xNA5c/wgZSM/Q
-! Version: 201903141415
+! Checksum: 0eGdtWumhhh0g0C4xedkhA
+! Version: 201903151415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 14 Mar 2019 14:15 UTC
+! Last modified: 15 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1365,7 +1365,7 @@ popculture-y.com#@#.wpInsertInPostAd
 ! t-online.de ads
 t-online.de#@#a[target="_blank"][href*=".sptopf.de/tshp/RE?ID="]
 t-online.de#@#a[href^="http://count.shopping.t-online.de/RE?ID="]
-! t-online.de#@#a[href^="https://count.shopping.t-online.de/RE?ID="]
+t-online.de#@#a[href^="https://count.shopping.t-online.de/RE?ID="]
 t-online.de#@#a[href^="http://logc206.xiti.com/go.click?"]
 t-online.de#@#a[href^="http://im.banner.t-online.de/?adlink|"]
 t-online.de#@#a[target="_blank"][href^="http://im.banner.t-online.de/?adlink"] > img
@@ -2800,155 +2800,6 @@ slideshare.net#@#.mediumRectangleAd
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40426
 ! kudrim.ru ads
-!:partner_token=Amazon Advertising
-!:partner_id=ec725ef475df5236
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40579
-! Amazon.com ads
-! @@||dew9ckzjyt2gn.cloudfront.net/sf/sf-1.25.html$subdocument,domain=amazon.com
-! @@||ssl-images-amazon.com/images/*/adFeedback/Feedback-$script,domain=amazon.com|amazon.co.uk|amazon.de
-! @@||amazon-adsystem.com/e/loi/imp?b=$image,domain=amazon.com
-! @@||cloudfront.net/sf/DAsf-$script,domain=amazon.com|amazon.co.uk|amazon.de
-! @@||amazon-adsystem.com/x/getad^*^slot=ams-detail-right^$script,domain=amazon.com|amazon.co.uk|amazon.de
-!
-! @@||images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.com|amazon.co.uk|amazon.de
-!:partner_token=Amazon Advertising
-!:partner_id=ec725ef475df5236
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=142870#p142870
-! Amazon.com ads
-! @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right-ebook-tall^$script,domain=amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right-ebook^$script,domain=amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right-pbook^$script,domain=amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right-wide^$script,domain=amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right^$script,domain=amazon.co.jp
-! @@||amazon-adsystem.com/x/getad?*^slot=auto-bottom-advertising-0^$script,domain=dew9ckzjyt2gn.cloudfront.net|z-ecx.images-amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=hero-quick-promo^$script,domain=amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=ilm^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=nav-sitewide-msg^$script,domain=z-ecx.images-amazon.com
-! @@||amazon-adsystem.com/x/getadi?*^sz=1x1^$image,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon.co.jp/aan/2009-09-09/static/amazon/iframeproxy-39.html$subdocument,domain=amazon.co.jp
-! @@||c.amazon-adsystem.com^*_728x90.$image,domain=z-ecx.images-amazon.com|dew9ckzjyt2gn.cloudfront.net
-! @@||cloudfront.net/NA-$script,domain=amazon.co.jp|amazon.es
-! @@||cloudfront.net/sf/DAsf-$script,domain=amazon.ca|amazon.co.jp|amazon.es|amazon.it|amazon.fr
-! @@||d2o307dm5mqftz.cloudfront.net^$image,domain=z-ecx.images-amazon.com
-! @@||dew9ckzjyt2gn.cloudfront.net/sf/feedback-us.$script,domain=amazon.com
-! @@||dew9ckzjyt2gn.cloudfront.net/sf/sf-1.22.html$subdocument,domain=amazon.co.jp
-! @@||dew9ckzjyt2gn.cloudfront.net/sf/sf-1.24.html$subdocument,domain=amazon.co.uk|amazon.fr|amazon.es|amazon.it
-! @@||dew9ckzjyt2gn.cloudfront.net/sf/sf-1.27.html$subdocument,domain=amazon.co.jp|amazon.co.uk|amazon.it|amazon.de|amazon.fr|amazon.es
-! @@||dew9ckzjyt2gn.cloudfront.net/sf/sf-1.31.html$subdocument,domain=amazon.ca
-! @@||df9v6ngw2bw7n.cloudfront.net^$image,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.co.jp|amazon.es|amazon.fr
-! @@||images-amazon.com/images/G/01/dacx/sf/sf-1.33._V290604980_.html$subdocument,domain=amazon.com
-! @@||images-amazon.com/images/G/01/dacx/sf/sf-X.33_IFX2._V290823002_.html$subdocument,domain=amazon.com
-! @@||images-amazon.com/images/G/01/dacx/sf/sf-X.33_IFX4._V288798696_.html$subdocument,domain=amazon.com
-! @@||ssl-images-amazon.com/images/$image,domain=amazon.fr|amazon.it|amazon.es|dew9ckzjyt2gn.cloudfront.net|images-na.ssl-images-amazon.com
-! @@||ssl-images-amazon.com/images/*/adFeedback/Feedback-$script,domain=amazon.ca|amazon.es|amazon.fr|amazon.it|amazon.co.jp
-! @@||ssl-images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.co.uk|amazon.es|amazon.com
-!
-! @@||amazon-adsystem.com/x/getad?*^slot=auto-left-advertising-1^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=customer-reviews-top^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=desktop-ad-btf-2^$script,domain=z-ecx.images-amazon.com|images-fe.ssl-images-amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=right-2^$script,domain=dew9ckzjyt2gn.cloudfront.net|images-na.ssl-images-amazon.com|z-ecx.images-amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=right-7^$script,domain=dew9ckzjyt2gn.cloudfront.net|z-ecx.images-amazon.com|images-na.ssl-images-amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=right-ad-1^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getadi?*^slot=customer-reviews-top^$subdocument,domain=z-ecx.images-amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=right-1^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=right-3^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=right-4^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=display-ad-right^$script,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||amazon-adsystem.com/x/getad?*^slot=ad-endcap-1^$script,domain=dew9ckzjyt2gn.cloudfront.net|z-ecx.images-amazon.com|amazon.fr
-! @@||amazon.com/getad?*^slot=right-ad-1^$script,domain=z-ecx.images-amazon.com
-! @@||images-amazon.com/images/$image,domain=dew9ckzjyt2gn.cloudfront.net|amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es|g-ec2.images-amazon.com|g-ec4.images-amazon.com|g-ecx.images-amazon.com|z-ecx.images-amazon.com|images-na.ssl-images-amazon.com|images-eu.ssl-images-amazon.com|images-fe.ssl-images-amazon.com|images-cn.ssl-images-amazon.com
-!
-! @@||g-ecx.images-amazon.com/images/*-728x90-$image,domain=dew9ckzjyt2gn.cloudfront.net|amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es|g-ec2.images-amazon.com|g-ec4.images-amazon.com|g-ecx.images-amazon.com|z-ecx.images-amazon.com|images-na.ssl-images-amazon.com|images-eu.ssl-images-amazon.com|images-fe.ssl-images-amazon.com|images-cn.ssl-images-amazon.com
-! @@||ecx.images-amazon.com/images/I/$image,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||g-ecx.images-amazon.com/images/S/abs-image-upload-na/*/ams/$image,domain=dew9ckzjyt2gn.cloudfront.net
-! @@||g-ecx.images-amazon.com/images/G/02/$image,domain=dew9ckzjyt2gn.cloudfront.net
-!
-! @@||aax-eu.amazon-adsystem.com/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||aax-fe-pek.amazon-adsystem.com/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||aax-fe-sin.amazon-adsystem.com/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||aax-fe.amazon-adsystem.com/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||aax-us-east.amazon-adsystem.com/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||aax-us-pdx.amazon-adsystem.com/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||dew9ckzjyt2gn.cloudfront.net/sf$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec2.images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec2.images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec2.images-amazon.com/images/G/01/dacx/sf/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec4.images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec4.images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec4.images-amazon.com/images/G/01/dacx/sf/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ecx.images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ecx.images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ecx.images-amazon.com/images/G/01/dacx/sf/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-cn.ssl-images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-cn.ssl-images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-cn.ssl-images-amazon.com/images/G/01/dacx/sf$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-eu.ssl-images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-eu.ssl-images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-eu.ssl-images-amazon.com/images/G/01/dacx/sf$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-fe.ssl-images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-fe.ssl-images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-fe.ssl-images-amazon.com/images/G/01/dacx/sf$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-na.ssl-images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-na.ssl-images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-na.ssl-images-amazon.com/images/G/01/dacx/sf$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||z-ecx.images-amazon.com/images/G/01/adFeedback$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||z-ecx.images-amazon.com/images/G/01/advertising/dev/js/live$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||z-ecx.images-amazon.com/images/G/01/dacx/sf/$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||z-ecx.images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ecx.images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec4.images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||g-ec2.images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-na.ssl-images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-eu.ssl-images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-fe.ssl-images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-! @@||images-cn.ssl-images-amazon.com/images/G/01/ads/advertising$domain=amazon.com|amazon.ca|amazon.co.uk|amazon.de|amazon.fr|amazon.it|amazon.co.jp|amazon.es
-!
-!
-! @@||images-amazon.com/images/*300x250$image,domain=z-ecx.images-amazon.com|amazon.com
-! @@||amazon-adsystem.com/x/getad?*^slot=right-ad-1^$script,domain=z-ecx.images-amazon.com|amazon.com
-! @@||amazon.com/getad?*^slot=right-ad-1^$script,domain=z-ecx.images-amazon.com|amazon.com
-!
-@@||amazon-adsystem.com/aan/de?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/es?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/fr?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/in?Operation=GetDecoratedOffers^$script,domain=images-amazon.com
-@@||amazon-adsystem.com/aan/it?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/jp?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/uk?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/us?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/ca?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/aan/cn?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/e/loi/imp?b=$image,domain=amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.in|amazon.ca|amazon.cn|amazon.fr|amazon.es|amazon.it
-@@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right$script,domain=amazon.cn|amazon.co.jp|amazon.in|images-amazon.com|ssl-images-amazon.com|amazon.ca
-@@||amazon-adsystem.com/x/getad?*^slot=hero-quick-promo^$script,domain=images-eu.ssl-images-amazon.com|images-na.ssl-images-amazon.com
-@@||ams-ads-cornerstone-creatives-*.s3.amazonaws.com^$script,domain=amazon.cn|images-amazon.com|ssl-images-amazon.com
-@@||cloudfront.net/aan/de?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/es?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/fr?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/in?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/it?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/jp?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/uk?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/us?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/ca?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/aan/cn?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||cloudfront.net/NA-$script,domain=amazon.co.jp
-@@||images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.cn|amazon.co.jp|amazon.in
-@@||ssl-images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.cn|amazon.co.jp|amazon.in
-@@||ssl-images-amazon.com^*/dacx/sf/$subdocument,domain=amazon.co.uk|amazon.com|amazon.de
-@@||ssl-images-amazon.com^*/dacx/sf/sf-$subdocument,domain=amazon.co.jp|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
-@@||ssl-images-amazon.com^*/sf/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
-@@||ssl-images-amazon.com^*/ape/sf/desktop/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
-@@/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html?$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
-@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
-@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-link-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
-@@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
-@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
-!
-@@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
 !:partner_token=NZZ Osterreich
 !:partner_id=8ebf62181c40e888
 !:type=partner
@@ -6249,7 +6100,7 @@ britannica.com#@#.header-ad
 britannica.com#@#.sticky-ad
 britannica.com#@#.ad-with-header-wrapper
 destructoid.com#@#center > div > iframe
-famousbirthdays.com,destructoid.com,realgm.com#@#div[id^="div-gpt-ad"]
+famousbirthdays.com,destructoid.com,realgm.com,dailywire.com,novi.ba,greetingsisland.com,escapistmagazine.com#@#div[id^="div-gpt-ad"]
 wikia.com,fandom.com#@#.home-top-right-ads
 xlr8r.com,peanutallergy.com#@#.m-header-ad
 xlr8r.com,peanutallergy.com#@#.m-header-ad--slot
@@ -6311,14 +6162,12 @@ phonearena.com#@#.ad_728_90
 phonearena.com#@#.adswidget
 dailywire.com#@#.ad-unit
 dailywire.com#@#.sponsored-content
-dailywire.com#@#div[id^="div-gpt-ad"]
 dailywire.com#@#[id*="ScriptRoot"]
 dailywire.com#@#.ADBox
 dailywire.com#@#.AD_area
 dailywire.com#@#.AdsRec
 dailywire.com#@#.Ads_4
 dailywire.com#@#.adsbox
-novi.ba,greetingsisland.com#@#div[id^="div-gpt-ad"]
 slickdeals.net,novi.ba#@##ad-container
 slickdeals.net#@##bottomBannerAd
 slickdeals.net#@#.ADbox
@@ -7496,6 +7345,49 @@ jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.co
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@##dfp-ad-1
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@##dfp-ad-2
+!:partner_token=Amazon Advertising
+!:partner_id=ec725ef475df5236
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?p=142870#p142870
+! Amazon.com ads
+@@||amazon-adsystem.com/aan/de?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/es?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/fr?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/in?Operation=GetDecoratedOffers^$script,domain=images-amazon.com
+@@||amazon-adsystem.com/aan/it?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/jp?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/uk?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/us?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/ca?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/aan/cn?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||amazon-adsystem.com/e/loi/imp?b=$image,domain=amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.in|amazon.ca|amazon.cn|amazon.fr|amazon.es|amazon.it
+@@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right$script,domain=amazon.cn|amazon.co.jp|amazon.in|images-amazon.com|ssl-images-amazon.com|amazon.ca
+@@||amazon-adsystem.com/x/getad?*^slot=hero-quick-promo^$script,domain=images-eu.ssl-images-amazon.com|images-na.ssl-images-amazon.com
+@@||ams-ads-cornerstone-creatives-*.s3.amazonaws.com^$script,domain=amazon.cn|images-amazon.com|ssl-images-amazon.com
+@@||cloudfront.net/aan/de?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/es?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/fr?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/in?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/it?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/jp?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/uk?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/us?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/ca?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/aan/cn?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
+@@||cloudfront.net/NA-$script,domain=amazon.co.jp
+@@||images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.cn|amazon.co.jp|amazon.in
+@@||ssl-images-amazon.com/images/*/browser-scripts/DA-$script,domain=amazon.cn|amazon.co.jp|amazon.in
+@@||ssl-images-amazon.com^*/dacx/sf/$subdocument,domain=amazon.co.uk|amazon.com|amazon.de
+@@||ssl-images-amazon.com^*/dacx/sf/sf-$subdocument,domain=amazon.co.jp|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
+@@||ssl-images-amazon.com^*/sf/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
+@@||ssl-images-amazon.com^*/ape/sf/desktop/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html?$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-link-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+!
+@@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
