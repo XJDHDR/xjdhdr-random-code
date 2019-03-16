@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0eGdtWumhhh0g0C4xedkhA
-! Version: 201903151415
+! Checksum: MmwX/fg9AbCemU6jC9A5Jw
+! Version: 201903161415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 15 Mar 2019 14:15 UTC
+! Last modified: 16 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6556,6 +6556,7 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp###ad-slider-wrapper
 softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad-slider-wrapper
 softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .js-modal-overlay
 softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .modal__overlay + .ad--displayed
+softonic.com.br,softonic.pl,softonic.jp#@#.ad-content
 !
 !
 @@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp
@@ -6843,6 +6844,8 @@ gosunoob.com#@##reklama
 detaly.co.il,nep.co.il#@#.herald-ad
 broadwayworld.com#@#.adtester-container
 buzznet.com#@#.ad-holder
+yad2.co.il#@##desktop-top-banners
+yad2.co.il#@##martef
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6855,6 +6858,7 @@ buzznet.com#@#.ad-holder
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
+@@||hb.vntsm.com/*/live/ad-manager.min.js$script,domain=venatusmedia.com
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
