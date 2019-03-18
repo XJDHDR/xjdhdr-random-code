@@ -780,14 +780,6 @@ if (varExists(showConfigAlerts) and ($showConfigAlerts))
     alert "not localized" 2003 -info -always # 7d3
 endif
 
-intProp skinpaintTextureSize 4096 # If the game begins to slow down, change the 2048 
-floatProp skinpaintBumpHeight 15 
-floatProp skinpaintGlossMultiplier 0.5 
-floatProp skinpaintPhongMultiplier 1 
-floatProp skinpaintPartBumpScale 1 
-floatProp skinpaintAmbOccDiffuse 1 
-floatProp skinpaintAmbOccSpecular 0.5
-
 setOption OptionShadows             $High
 setOption OptionTextureDetail       $High
 setOption OptionEffects             $High
@@ -797,6 +789,16 @@ setOption OptionPlanetQuality       $High
 setOption OptionDOF                 $High
 
 setOption OptionGameQuality         $High
+
+
+# High resolution texture edits
+intProp skinpaintTextureSize 4096 # If the game begins to slow down, change the 2048 
+floatProp skinpaintBumpHeight 15 
+floatProp skinpaintGlossMultiplier 0.5 
+floatProp skinpaintPhongMultiplier 1 
+floatProp skinpaintPartBumpScale 1 
+floatProp skinpaintAmbOccDiffuse 1 
+floatProp skinpaintAmbOccSpecular 0.5
 
 
 # XJDHDR's optional tweaks

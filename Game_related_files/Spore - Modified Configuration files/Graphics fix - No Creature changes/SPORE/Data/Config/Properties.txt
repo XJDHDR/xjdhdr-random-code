@@ -160,16 +160,6 @@ property Support51Audio          0x063ab656 bool
 property HasShownExportToolEULA 0x087c4363 bool
 
 
-# property skinpaintTextureSize        (hash(skinpaintTextureSize))    int   2048   # Reduce if creature painting is taking to long 
-# property skinpaintBumpHeight         (hash(skinpaintBumpHeight))     float 5.0   # range = 0-10   
-# property skinpaintGlossMultiplier    (hash(skinpaintGlossMultiplier)) float 0.7  # range = 0-2, neutral = 1.0   
-# property skinpaintPhongMultiplier    (hash(skinpaintPhongMultiplier)) float 0.95  # range = 0-2, neutral = 1.0   
-# property skinpaintPartBumpScale      (hash(skinpaintPartBumpScale))  float 0.8   # range = 0-1   
-# property skinpaintAmbOccEnabled      (hash(skinpaintAmbOccEnabled))  bool  true   
-# property skinpaintAmbOccDiffuse      (hash(skinpaintAmbOccDiffuse))  float 0.5   # range = 0-1   
-# property skinpaintAmbOccSpecular     (hash(skinpaintAmbOccSpecular)) float 0.3   # range = 0-1   
-
-
 # XJDHDR's optional tweaks
 # Skip intro
 property playOpeningMovie (hash(playOpeningMovie)) bool
