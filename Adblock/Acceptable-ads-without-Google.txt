@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wzCrL7V5llVd34CTFDpLww
-! Version: 201903181415
+! Checksum: a1XbT1uZZHE8Wsn2Kim5QA
+! Version: 201903191415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Mar 2019 14:15 UTC
+! Last modified: 19 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6076,6 +6076,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||videoplayerhub.com^$third-party
 @@||cdnjquery.com^$script,third-party
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
+@@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -6845,6 +6846,7 @@ broadwayworld.com#@#.adtester-container
 buzznet.com#@#.ad-holder
 yad2.co.il#@##desktop-top-banners
 yad2.co.il#@##martef
+zerohedge.com#@#.placement
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -7270,6 +7272,8 @@ testpages.adblockplus.org#@##abptest
 @@||aax.oriel.io^$domain=aax.demo.oriel.io,document
 @@||admiral.broadwayworld.com^$domain=broadwayworld.com
 @@||admiral.broadwayworld.com^$domain=broadwayworld.com,document
+@@||related.boredpanda.com^$domain=boredpanda.com
+@@||related.boredpanda.com^$domain=boredpanda.com,document
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 ! temp
@@ -7292,7 +7296,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
@@ -7326,13 +7330,16 @@ gamepress.gg#@##block-sidebarad1
 koutsompolio.gr#@#.MediumRectangleAdPanel
 koutsompolio.gr#@#.adv_left
 koutsompolio.gr#@#.browse-banner_ad
-seattletimes.com#@#.dfp-ad
+seattletimes.com,boredpanda.com#@#.dfp-ad
 seattletimes.com#@##ad-flex-top
 seattletimes.com#@##ad-right-top
 seattletimes.com#@##ad-bottom
 seattletimes.com#@#.ad
 seattletimes.com#@#.footer-ad
 domesticatedcompanion.com#@#.single-ad
+boredpanda.com#@#.adsbox
+boredpanda.com#@#.pub_300x250
+boredpanda.com#@#.text-ad
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
