@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: a1XbT1uZZHE8Wsn2Kim5QA
-! Version: 201903191415
+! Checksum: PU0phCKCv9Kzf84RF9YovQ
+! Version: 201903201415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 19 Mar 2019 14:15 UTC
+! Last modified: 20 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -244,6 +244,9 @@ reddit.com##.promotedvideolink
 @@||adfarm.mediaplex.com^$image,domain=reddit.com
 @@||scorecardresearch.com^$image,domain=reddit.com
 @@||voicefive.com^$image,domain=reddit.com
+@@||t.myvisualiq.net^$image,domain=reddit.com
+@@||d.agkn.com^$image,domain=reddit.com
+@@||tps30.doubleverify.com^$image,domain=reddit.com
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -3869,9 +3872,98 @@ yepman.ru#@#span[style="font-size:14px;"] + *
 !:partner_id=c5e23ab784525267
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42441
-! pch.com ads
+! System1 Search ads
+@@||inspsearchapi.com^$domain=cheatsheet.com
+search.avira.net#@#.ad-zone
+search.avira.net##.top-ad-zone:not(#top-ad-zone)
+search.avira.net##.bottom-ad-zone:not(#bottom-ad-zone)
+search.avira.net##.right-ad-zone
 @@||search.pch.com^*^q=$elemhide
 @@||frontpage.pch.com^*^q=$elemhide
+@@||fanshoe.com^$elemhide
+@@||alhea.com^$elemhide
+@@||easydialsearch.com^$elemhide
+@@||parallaxsearch.com^$elemhide
+@@||searchall.com^$elemhide
+@@||knowzo.com/search/$elemhide
+@@||knowzo.com^*/search/$elemhide
+@@||looksmart.com^$elemhide
+@@||info.com^$elemhide,domain=~images.info.com|~news.info.com|~video.info.com
+@@||info.co.uk^$elemhide,domain=~images.info.co.uk|~news.info.co.uk|~video.info.co.uk
+@@||info.com.au^$elemhide,domain=~images.info.com.au|~news.info.com.au|~video.info.com.au
+@@||search.iminent.com^$elemhide
+@@||crawlercenter.com/search/^$elemhide
+@@||crawler.com^$elemhide
+@@||inbox.com^$elemhide
+@@||search.avast.com^$elemhide
+@@||yoursearch.me^$elemhide
+@@||ehealthiq.com/topic/$elemhide
+@@||search.sidecubes.com^$elemhide
+@@||thenexttask.com/search^$elemhide
+@@||lifescript.com/search.aspx$elemhide
+@@||search.socialdownloadr.com/search.php$elemhide
+@@||mypoints.com^*^q^$elemhide
+@@||comparison411.com/search.php^$elemhide
+@@||zipfilesearch.com/Home/Search^$elemhide
+@@||pdfconvertsearch.com/search^$elemhide
+@@||checkspeedsearch.com/Home/Search^$elemhide
+@@||mystart.space/search^$elemhide
+@@||allgameshome.com/results.php$elemhide
+@@||myplaycity.com/results.php$elemhide
+@@||igropark.ru/results.php$elemhide
+@@||seekit.com/search^$elemhide
+@@||buzzfinance.net/?s=$elemhide
+@@||buzztechnology.net/?s=$elemhide
+@@||search.navegaki.com^$elemhide
+@@||search.atajitos.com^$elemhide
+@@||search.portalsepeti.com^$elemhide
+@@||privatizeme.com/search^$elemhide
+@@||search.avira.com^$elemhide
+@@||usdirectory.com/ypr.aspx?$elemhide
+@@||search.monstercrawler.com^$elemhide
+@@||myflightapp.com^$elemhide
+@@||polarisearch.com^$elemhide
+@@||musicktab.com^$elemhide
+@@||myweathertab.com^$elemhide
+@@||handy-tab.com^$elemhide
+@@||gexsi.com/search/$elemhide
+@@||search.ozby.com/search/$elemhide
+@@||search.soundrad.net^$elemhide
+@@||yidio.com/search/$elemhide
+@@||getsearch.club/search.html$elemhide
+@@||search.scanguard.com/search/$elemhide
+@@||search.totalav.com/search/$elemhide
+@@||search.pcprotect.com/search/$elemhide
+@@||bitmotion-tab.com/search/$elemhide
+@@||incognito-search.com/search^$elemhide
+@@||quizcourt.com^*^q=$elemhide
+@@||search.emailaccountlogin.co^$elemhide
+@@||lightdials.com/web^$elemhide
+@@||results.ur-search.com/search^$elemhide
+@@||boost.ur-search.com/search^$elemhide
+@@||offeroftheday.co.uk/search.asp$elemhide
+@@||homenewtab.com/search/$elemhide
+@@||lookany.com/search/$elemhide
+@@||lookany.com^*/search/$elemhide
+@@||search.sportstrackerx.com^$elemhide
+@@||search2.sportstrackerx.com^$elemhide
+@@||alientab.net/search/$elemhide
+@@||search.relola.com^$elemhide
+@@||search.ichro.me^$elemhide
+@@||owntitle.com/search^$elemhide
+@@||chilimovie.com/search^$elemhide
+@@||gopher.com/search/$elemhide
+@@||uchat.com/?s=$elemhide
+@@||browser.start.fyi/search^$elemhide
+@@||web.start.fyi/search^$elemhide
+@@||guardengine.com/search/$elemhide
+@@||guardengine.com^*/search/$elemhide
+@@||baysearch.co^$elemhide
+@@||shopping.selfbutler.com^$elemhide
+@@||search.selfbutler.com^$elemhide
+@@||zenya.com^$elemhide
+@@||zenya.co.uk^$elemhide
+@@||cheatsheet.com/search$elemhide
 !:partner_token=fxsforexsrbijaforum.com
 !:partner_id=cea3a1abdacc481b
 !:type=partner
@@ -4287,30 +4379,6 @@ androidcorps.com#@#.desktop_ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44278
 ! grandoldteam.com ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44391
-! alhea.com ads
-@@||alhea.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44392
-! fanshoe.com ads
-@@||fanshoe.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44393
-! easydialsearch.com ads
-@@||easydialsearch.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44394
-! parallaxsearch.com ads
-@@||parallaxsearch.com^$elemhide
 !:partner_token=keengamer.com
 !:partner_id=f09fbfb8ae095f11
 !:type=partner
@@ -4341,34 +4409,6 @@ yachts-boat.com#@#.ads_300
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43797
 ! expatriate.pl ads
 expatriate.pl#@#.Ad-label
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44642
-! upslope media ads
-@@||searchall.com^$elemhide
-@@||knowzo.com/search/$elemhide
-@@||knowzo.com^*/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44645
-! looksmart search ads
-@@||looksmart.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44648
-! info.com search ads
-@@||info.com^$elemhide,domain=~images.info.com|~news.info.com|~video.info.com
-@@||info.co.uk^$elemhide,domain=~images.info.co.uk|~news.info.co.uk|~video.info.co.uk
-@@||info.com.au^$elemhide,domain=~images.info.com.au|~news.info.com.au|~video.info.com.au
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44649
-! iminent search ads
-@@||search.iminent.com^$elemhide
 !:partner_token=ASAP Ventures Ltd
 !:partner_id=c46c74c605b13198
 !:type=partner
@@ -4376,26 +4416,6 @@ expatriate.pl#@#.Ad-label
 ! ASAP compare search ads
 @@||idealprice.co.uk^$elemhide
 @@||compare99.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44652
-! xacti search ads
-@@||crawlercenter.com/search/^$elemhide
-@@||crawler.com^$elemhide
-@@||inbox.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44654
-! avast software search ads
-@@||search.avast.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44650
-! speed dial search ads
-@@||yoursearch.me^$elemhide
 !:partner_token=closetcasefiles.com
 !:partner_id=ac0e26fb80ad46b2
 !:type=partner
@@ -4491,18 +4511,6 @@ fabcrusaders.com#@##ad_text:not(textarea)
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44820
 ! Ennovative ads
 @@||financeweb.org/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44822
-! Ehealth ads
-@@||ehealthiq.com/topic/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44823
-! Veristaff ads
-@@||search.sidecubes.com^$elemhide
 !:partner_token=Halal.ad
 !:partner_id=c3c7c45571a80ff5
 !:type=partner
@@ -4644,29 +4652,11 @@ seekingalpha.com#@##article-right-slot-1
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44920
 ! speechtexter.com ads
 speechtexter.com#@#.Ad-label
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44928
-! thenexttask.com ads
-@@||thenexttask.com/search^$elemhide
 !:partner_token=kangsigit.com
 !:partner_id=fe58b6e390621654
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44935
 ! kangsigit.com ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44963
-! Lifescript.com ads
-@@||lifescript.com/search.aspx$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44964
-! Htto Group Ltd. - FB Dowloader ads
-@@||search.socialdownloadr.com/search.php$elemhide
 !:partner_token=abaixoassinado.org
 !:partner_id=41cc4affff1036d1
 !:type=partner
@@ -4739,18 +4729,6 @@ bandwagonbible.com#@#.Ad-label
 ! clansplanner.com ads
 @@||liveadexchanger.com/script/java.php?option=rotateur&r=1166537$script,domain=clansplanner.com
 @@||adcash.com/script/visu.php?id=*&r=1166537&$subdocument,domain=clansplanner.com,document
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45194
-! mypoints.com ads
-@@||mypoints.com^*^q^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45193
-! Comparison 411 ads
-@@||comparison411.com/search.php^$elemhide
 !:partner_token=avito.ru
 !:partner_id=bc9477319e2d989c
 !:type=partner
@@ -4847,24 +4825,6 @@ bbc.com#@#.bbccom_advert
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45483
 ! Freizeitfreak.de affiliate links
 @@||imp*.tradedoubler.com/imp?type(inv)g(21088238)a(2511828)$image,domain=freizeitfreak.de
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45514
-! zipfilesearch.com ads
-@@||zipfilesearch.com/Home/Search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45513
-! pdfconvertsearch.com ads
-@@||pdfconvertsearch.com/search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45512
-! checkspeedsearch.com ads
-@@||checkspeedsearch.com/Home/Search^$elemhide
 !:partner_token=sysmasters.ne
 !:partner_id=ee05fea5c03212a2
 !:type=partner
@@ -4954,20 +4914,6 @@ alistapart.com#@#.sponsor-logo
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43785
 ! spravočnik.su ads
 %d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%be%d1%87%d0%bd%d0%b8%d0%ba.su,справочник.su#@#.Ad-label
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45768
-! MyStart Space ads
-@@||mystart.space/search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45769
-! My Play City ads
-@@||allgameshome.com/results.php$elemhide
-@@||myplaycity.com/results.php$elemhide
-@@||igropark.ru/results.php$elemhide
 !:partner_token=greatschools.org
 !:partner_id=fdc87e400f002bcf
 !:type=partner
@@ -5207,43 +5153,6 @@ sports.fr#@##banner-full
 @@||yandex.net/get-direct/$image,domain=obzorka.net
 @@||blogistarts.com^$popup,domain=obzorka.net
 @@||shakesin.com^$popup,domain=obzorka.net
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48154
-! BeeStripe ads
-@@||seekit.com/search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48153
-! Buzzclick Ads
-@@||buzzfinance.net/?s=$elemhide
-@@||buzztechnology.net/?s=$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48163
-! navegaki.com ads
-@@||search.navegaki.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48165
-! atajitos.com ads
-@@||search.atajitos.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48166
-! portalsepeti.com ads
-@@||search.portalsepeti.com^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48177
-! privatizeme.com ads
-@@||privatizeme.com/search^$elemhide
 !:partner_token=freedirectorywebsites.com
 !:partner_id=8843bdf9228e6271
 !:type=partner
@@ -5355,16 +5264,6 @@ toolslib.net#@#.advert-block
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48889
 ! piconion.com ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48920
-! search.avira.net/.com ads
-search.avira.net#@#.ad-zone
-search.avira.net##.top-ad-zone:not(#top-ad-zone)
-search.avira.net##.bottom-ad-zone:not(#bottom-ad-zone)
-search.avira.net##.right-ad-zone
-@@||search.avira.com^$elemhide
 !:partner_token=unfassbar.es
 !:partner_id=37a6d4693381aa19
 !:type=partner
@@ -5444,12 +5343,6 @@ gamecoupongrid.com#@#.header-feature
 @@||amazon-adsystem.com^$domain=cheapchimney.com
 cheapchimney.com#@##amzn-native-ad-0
 cheapchimney.com#@##amzn_assoc_ad_div_adunit0_0
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=49722
-! usdirectory.com ads
-@@||usdirectory.com/ypr.aspx?$elemhide
 !:partner_token=forum.saransk.ru
 !:partner_id=a0307afbadf1f64d
 !:type=partner
@@ -5463,12 +5356,6 @@ cheapchimney.com#@##amzn_assoc_ad_div_adunit0_0
 ! mophone.ru ads
 @@||catcut.net/adv/$script,domain=mophone.ru
 @@||catcut.net/adv/public.php?a=$subdocument,domain=mophone.ru
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=49762
-! monstercrawler.com ads
-@@||search.monstercrawler.com^$elemhide
 !:partner_token=troyhunt.com
 !:partner_id=f104576aa662fdee
 !:type=partner
@@ -5589,17 +5476,6 @@ ket-noi.com#@#.Ad-label
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=50344
 ! Ads on Fish.team
 @@||fish.team/sellbannermaster/modules/banners/banner.php?id=$subdocument,domain=fish.team
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=-none-
-! Ads by Infospace
-@@||myflightapp.com^$elemhide
-@@||polarisearch.com^$elemhide
-@@||musicktab.com^$elemhide
-@@||myweathertab.com^$elemhide
-@@||handy-tab.com^$elemhide
-@@||gexsi.com/search/$elemhide
 !:partner_token=bookinist.com.ua
 !:partner_id=fba47899f49bf5f9
 !:type=partner
@@ -5747,18 +5623,6 @@ linuxthebest.net#@#.advert2
 linuxthebest.net#@#.quads-location
 linuxthebest.net#@#.advert_top
 linuxthebest.net#@#a[href*="thehost.ua"] > img
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=51796
-! search.ozby.com ads
-@@||search.ozby.com/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=51797
-! search.soundrad.net ads
-@@||search.soundrad.net^$elemhide
 !:partner_token=dance-charts.de
 !:partner_id=0ad1af65c4468b73
 !:type=partner
@@ -5771,31 +5635,6 @@ dance-charts.de#@#.Ad-label
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=51900
 ! höhle-der-löwen.com ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=51998
-! Yidio ads
-@@||yidio.com/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=51999
-! Nevada Enterprise (GetTab) ads
-@@||getsearch.club/search.html$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52050
-! Just Develop It ads
-@@||search.scanguard.com/search/$elemhide
-@@||search.totalav.com/search/$elemhide
-@@||search.pcprotect.com/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52058
-! search.mapsnt.com ads
 !:partner_token=chinesetools.eu
 !:partner_id=99c036e640e6ac32
 !:type=partner
@@ -5806,42 +5645,12 @@ dance-charts.de#@#.Ad-label
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52060
 ! online2pdf.com ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52065
-! Bitmotion-tab.com ads
-@@||bitmotion-tab.com/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52066
-! incognito-search.com ads
-@@||incognito-search.com/search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52067
-! quizcourt.com ads
-@@||quizcourt.com^*^q=$elemhide
 !:partner_token=chine.in
 !:partner_id=f32245f63fc82a14
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52092
 ! chine.in ads
 @@||chine.in/images/publicite_label.png$domain=chine.in
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52100
-! search.emailaccountlogin.co ads
-@@||search.emailaccountlogin.co^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52157
-! lightdials.com ads
-@@||lightdials.com/web^$elemhide
 !:partner_token=readingsanctuary.com
 !:partner_id=0e7522910429bcd4
 !:type=partner
@@ -5880,13 +5689,6 @@ readingsanctuary.com#@#.quads-location
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52295
 ! bitchop.net ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52447
-! AdaptiveBee ads
-@@||results.ur-search.com/search^$elemhide
-@@||boost.ur-search.com/search^$elemhide
 !:partner_token=cbanque.com
 !:partner_id=891479fdd295a583
 !:type=partner
@@ -5902,18 +5704,6 @@ readingsanctuary.com#@#.quads-location
 @@||adnxs.com/ast/ast.js$domain=ooreka.fr
 @@||ib.adnxs.com/ut/$xmlhttprequest,domain=ooreka.fr
 commentfaiton.com#@#.ad_468x60
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52473
-! offeroftheday.co.uk ads
-@@||offeroftheday.co.uk/search.asp$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52535
-! Home New Tab ads
-@@||homenewtab.com/search/$elemhide
 !:partner_token=Wequizs.com
 !:partner_id=9da00d73de0ba0c5
 !:type=partner
@@ -5921,13 +5711,6 @@ commentfaiton.com#@#.ad_468x60
 ! Wequizs.com ads
 wequizs.com#@#.ad_banner
 wequizs.com#@#.ad-row
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52590
-! lookany.com ads
-@@||lookany.com/search/$elemhide
-@@||lookany.com^*/search/$elemhide
 !:partner_token=Tightrope Interactive
 !:partner_id=276ee83ee50f18cc
 !:type=partner
@@ -6011,52 +5794,15 @@ bouwsteentjes.info#@#.td-adspot-title
 ! olx.pl ads
 @@||olx.pl^*/prebid.js$domain=olx.pl
 @@||tracking.olx-st.com^$image,domain=olx.pl
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53412
-! Brightcast Ads
-@@||search.sportstrackerx.com^$elemhide
-@@||search2.sportstrackerx.com^$elemhide
 !:partner_token=cleantechnica.com
 !:partner_id=fe0f30f7b0e3e7de
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53483
 ! cleantechnica.com ads
 @@||solarleadfactory.com^$domain=cleantechnica.com
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53541
-! alientab.net ads
-@@||alientab.net/search/$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53558
-! search.relola.com ads
-@@||search.relola.com^$elemhide
 !:partner_id=5684153dbeb6db01
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53664
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53717
-! search.ichro.me ads
-@@||search.ichro.me^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53716
-! owntitle.com ads
-@@||owntitle.com/search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53715
-! chilimovie.com ads
-@@||chilimovie.com/search^$elemhide
 !:partner_token=polskastrefa.pl
 !:partner_id=d8615d70dff80595
 !:type=partner
@@ -6341,14 +6087,6 @@ viamichelin.fr##.ads > .magazine-item
 @@||smartadserver.com/config.js?nwid=$script,domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 @@||smart.idmnet.pl^$domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.pl,voxfm.pl,muratordom.pl,gazetki-promocyjne.net.pl,poradnikzdrowie.pl,eskainfo.pl,mjakmama24.pl,menshealth.pl,auto-motor-i-sport.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl#@#[id^="aswift_"]
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54374
-! Ads on gopher.com
-@@||gopher.com/search/$elemhide
-@@|https://$popup,domain=gopher.com
-@@|http://$popup,domain=gopher.com
 !:partner_token=skyrie.net
 !:partner_id=3279a14bf184152d
 !:type=partner
@@ -6484,12 +6222,6 @@ p-magazine.be#@#.bsac-container
 ! Content recommendations
 @@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 @@||updater.hyde.ligatus.com/js^$script,domain=linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54485
-! uchat.com ads
-@@||uchat.com/?s=$elemhide
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -6659,18 +6391,6 @@ alilove.pl#@#.td-adspot-title
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54903
 ! Offerista Ads
 @@||widget.marktjagd.de/dist/$script,domain=wetteronline.de|chip.de
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54904
-! browser.start.fyi ads
-@@||browser.start.fyi/search^$elemhide
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54905
-! web.start.ly ads
-@@||web.start.fyi/search^$elemhide
 !:partner_token=Ad2Games
 !:partner_id=53cdd2b804081f39
 !:type=partner
@@ -6712,13 +6432,6 @@ wordpress.com#@#.wpwidesky
 @@||pubpress.net/houseads/$domain=wordpress.com
 @@||s.pubmine.com/ata.js$domain=wordpress.com
 ||s.pubmine.com/pixel?id=15&type=img$domain=wordpress.com
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54922
-! guardengine.com ads
-@@||guardengine.com/search/$elemhide
-@@||guardengine.com^*/search/$elemhide
 !:partner_id=1a8580989e736521
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54940
@@ -6739,29 +6452,6 @@ mafojobs.de,studentenjobs4u.de#@##adunit
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55283
 ! gondolathief.com ads
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55386
-! baysearch.co ads
-@@||baysearch.co^$elemhide
-||baysearch.co/px.gif?ch=2&rn=$domain=baysearch.co
-@@||baysearch.co/px.gif?ch=1&rn=$domain=baysearch.co
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55374
-! selfbutler.com ads
-@@||shopping.selfbutler.com^$elemhide
-@@||search.selfbutler.com^$elemhide
-||search.selfbutler.com/px.gif?ch=2&rn=$domain=search.selfbutler.com
-@@||search.selfbutler.com/px.gif?ch=1&rn=$domain=search.selfbutler.com
-||shopping.selfbutler.com/px.gif?ch=2&rn=$domain=shopping.selfbutler.com
-@@||shopping.selfbutler.com/px.gif?ch=1&rn=$domain=shopping.selfbutler.com
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55842
 !:partner_token=buzer.de
 !:partner_id=8f5bd96060d3e821
 !:type=partner
@@ -6885,13 +6575,6 @@ thecrimson.com#@#div[id^="div-gpt-ad"]
 thecrimson.com#@#.ad-tag
 thecrimson.com#@#.leader-ad
 thecrimson.com#@#.ad-label
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=56962
-! zenya ads
-@@||zenya.com^$elemhide
-@@||zenya.co.uk^$elemhide
 !:partner_token=fbgamesgifts.com
 !:partner_id=6ea714bd18498c0f
 !:type=partner
@@ -6917,13 +6600,6 @@ adtechdaily.com#@#.img_ad
 ||goldenline.pl/bundles/utils/img/px.gif?ch=2&rn=$domain=goldenline.pl
 goldenline.pl#@#.img_ad
 goldenline.pl#@#div[id^="div-gpt-ad"]
-!:partner_token=System1 Search
-!:partner_id=c5e23ab784525267
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60347
-! cheatsheet.com ads
-@@||inspsearchapi.com^$domain=cheatsheet.com
-@@||cheatsheet.com/search$elemhide
 !:partner_token=filezilla
 !:partner_id=828dc1abec78f00e
 !:type=partner
@@ -7288,6 +6964,7 @@ testpages.adblockplus.org#@##abptest
 @@||criteo.com^$domain=redditad.com
 @@||criteo.net^$domain=redditad.com
 @@||static-cdn.adblade.com^$domain=web.adblade.com
+@@||s2s.adpushup.com/AdWebService/feedback?bidRequestId=5f718ea0-4ae3-11e9-9352-000d3a042ea5&impId=1&ts=1553067603102$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
