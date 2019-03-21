@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PU0phCKCv9Kzf84RF9YovQ
-! Version: 201903201415
+! Checksum: fJJtfpwvl87Z1nXM0Yy9og
+! Version: 201903211415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 20 Mar 2019 14:15 UTC
+! Last modified: 21 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6648,6 +6648,13 @@ gamesflow.com#@#.iconads
 ! POLSKA PRESS GRUPA ads
 ||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl
 ||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl
+!:partner_token=OLX Global B.V.
+!:partner_id=42b71aaf433714e0
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
+! OLX Global B.V. ads
+@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.ro
+||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.ro
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
