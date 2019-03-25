@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2F3iqY6D1dbQcDGw2Ps1kA
-! Version: 201903241415
+! Checksum: 0jK5iMh/EhkqzZV0aALZeg
+! Version: 201903251415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 24 Mar 2019 14:15 UTC
+! Last modified: 25 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5846,7 +5846,7 @@ britannica.com#@#.header-ad
 britannica.com#@#.sticky-ad
 britannica.com#@#.ad-with-header-wrapper
 destructoid.com#@#center > div > iframe
-famousbirthdays.com,destructoid.com,realgm.com,dailywire.com,novi.ba,greetingsisland.com,escapistmagazine.com#@#div[id^="div-gpt-ad"]
+famousbirthdays.com,destructoid.com,realgm.com,dailywire.com,novi.ba,greetingsisland.com,escapistmagazine.com,themeparktourist.com,naturallivingideas.com#@#div[id^="div-gpt-ad"]
 wikia.com,fandom.com#@#.home-top-right-ads
 xlr8r.com,peanutallergy.com#@#.m-header-ad
 xlr8r.com,peanutallergy.com#@#.m-header-ad--slot
@@ -5921,7 +5921,7 @@ slickdeals.net#@#.variableHeightAd
 slickdeals.net#@#[data-adlocation]
 slickdeals.net#@#.sideGridBox.abc
 newsbusters.org#@##block-block-13
-newsbusters.org#@##ad_top
+newsbusters.org,cnsnews.com#@##ad_top
 tmn.today#@#.ad-728x90
 tmn.today#@#.ad-300x250
 phonearena.com#@#.ad_300_600
@@ -5934,6 +5934,7 @@ offbeat.topix.com#@#.js-ad
 offbeat.topix.com#@#.js-ad-hover
 offbeat.topix.com#@#.str-300x250-ad
 hometalk.com#@#.ad-item
+ets2.lt#@#.ads-top
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6660,6 +6661,15 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=(
 ! rimessolides.com ads
+!:partner_token=Neweb
+!:partner_id=72a029fb5c713195
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65194
+! Neweb ads
+gamekult.com#@#div[class^="gk__ads"]
+gamekult.com#@#.ed__news-h--native
+@@||cloudfront.net/optim/images/native_ad/$xmlhttprequest,domain=gamekult.com
+@@||gamekult.com/publicite/$xmlhttprequest,domain=gamekult.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -6962,6 +6972,8 @@ testpages.adblockplus.org#@##abptest
 @@||admiral.broadwayworld.com^$domain=broadwayworld.com,document
 @@||related.boredpanda.com^$domain=boredpanda.com
 @@||related.boredpanda.com^$domain=boredpanda.com,document
+@@||noviniad.com^$domain=novini.bg
+@@||noviniad.com^$domain=novini.bg,document
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 ! temp
@@ -6985,7 +6997,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
