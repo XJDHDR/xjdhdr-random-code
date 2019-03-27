@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Cin2zewLZA87SXdDdDAmiQ
-! Version: 201903261415
+! Checksum: mzu5ljjycEq4i9P7IQVXCQ
+! Version: 201903271415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 26 Mar 2019 14:15 UTC
+! Last modified: 27 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2369,6 +2369,7 @@ motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl
 motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch,flugrevue.de,runnersworld.de#@#a[href^="https://bs.serving-sys.com"]
 motorradonline.de,auto-motor-und-sport.de,caravaning.de,promobil.de,chillizet.pl,innpoland.pl,mamadu.pl,transfery.info,warszawa.wyborcza.pl,cda.pl,polityka.pl,polki.pl,gotujmy.pl,party.pl,nachrichten.at,tvzvezda.ru,radiozet.pl,theroar.com.au,nine.com.au,mamamia.com.au,yourmovies.com.au,news.com.au,9news.com.au,smh.com.au,theage.com.au,canberratimes.com.au,brisbanetimes.com.au,watoday.com.au,mistrzowie.org,joemonster.org,demotywatory.pl,gmx.at,gmx.net,web.de,tips.at,rmfmaxxx.pl,telegraaf.nl,natemat.pl,wizaz.pl,meloradio.pl,planeta.fm,antyradio.pl,gmx.ch,flugrevue.de,runnersworld.de#@#a[href^="http://bs.serving-sys.com/"]
 @@||ui-portal.de/c/ads/adservice/adservice-2-connector-current.js$domain=gmx.at|gmx.net|web.de|gmx.ch
+@@||uicdn.com/uimag/*/assets/adservice-2-connector.min.js$domain=gmx.at|gmx.net|web.de|gmx.ch
 @@||adition.com/lt?*^lt=portal(gmxch)category(magazine)section(news)tagid(relatedbox)$script,domain=gmx.ch
 @@||adition.com/lt?*^lt=portal(gmxat)category(magazine)section(news)tagid(relatedbox)$script,domain=gmx.at|gmx.net|web.de
 @@||adition.com/lt?*^lt=portal%28gmxat%29category%28magazine%29section%28news%29tagid%28relatedbox%29$script,domain=gmx.at|gmx.net|web.de
@@ -4742,7 +4743,6 @@ avito.ru#@#.avito-ads-container
 @@||awaps.yandex.ru/0/9947/001001.htm$subdocument,domain=avito.ru,document
 @@||yastatic.net/pcode/adfox/loader.js$domain=avito.ru
 @@||yastatic.net/safeframe-bundles/$domain=avito.ru
-@@||an.yandex.ru/count/$popup,domain=avito.ru
 !:partner_token=kodi-xbmc.com
 !:partner_id=b9b1e0edade2f7cc
 !:type=partner
@@ -5441,7 +5441,6 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 @@||an.yandex.ru/jserr/$domain=fotostrana.ru
 @@||yandex.net/get-direct/$image,domain=fotostrana.ru
 @@||an.yandex.ru/meta/$xmlhttprequest,domain=fotostrana.ru
-@@||an.yandex.ru/partner-code-bundles/*.js$script,domain=fotostrana.ru
 fotostrana.ru#@#.img_ad
 @@||ad.mail.ru/adq/?callback=mailru_ad$script,domain=fotostrana.ru
 @@||ad.mail.ru/static/ads-async.js$domain=fotostrana.ru
@@ -6167,6 +6166,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||adserver.binqmedia.nl/shared/*.js$script,domain=faillissementsdossier.be
 @@||adserver.binqmedia.nl/ad.ashx?host=www.faillissementsdossier.be$script,domain=faillissementsdossier.be
 @@||u.videostep.com/User/GetOptIn?callback=invibes.cb_$script,domain=linternaute.com
+@@/aff_ad?$popup,domain=ilfattoquotidiano.it
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad
@@ -6293,7 +6293,6 @@ softonic.com.br,softonic.pl,softonic.jp#@#.ad-content
 @@||an.yandex.ru/resource/context_static_r*.js$domain=pixmafia.com
 @@||an.yandex.ru^*^callback^$script,domain=pixmafia.com
 @@||yandex.net/get-direct/$image,domain=pixmafia.com
-@@||an.yandex.ru/partner-code-bundles/$script,domain=pixmafia.com
 @@||an.yandex.ru/meta/$xmlhttprequest,domain=pixmafia.com
 pixmafia.com#@#div[id^="yandex_rtb"]
 !:partner_token=canalwp.com
@@ -6342,7 +6341,6 @@ kto-irkutsk.ru#@#.td-a-rec
 @@||an.yandex.ru/resource/context_static_r*.js$domain=kto-irkutsk.ru
 @@||an.yandex.ru^*^callback^$script,domain=kto-irkutsk.ru
 @@||yandex.net/get-direct/$image,domain=kto-irkutsk.ru
-@@||an.yandex.ru/partner-code-bundles/$script,domain=kto-irkutsk.ru
 !:partner_token=mikanani.me
 !:partner_id=f4174d4b5ab9c60d
 !:type=partner
@@ -6362,7 +6360,6 @@ kto-irkutsk.ru#@#.td-a-rec
 @@||an.yandex.ru/system/context.js$domain=record-russia.ru
 @@||an.yandex.ru/resource/context_static_r*.js$domain=record-russia.ru
 @@||an.yandex.ru^*^callback^$script,domain=record-russia.ru
-@@||an.yandex.ru/partner-code-bundles/$script,domain=record-russia.ru
 @@||yandex.net/get-direct/$image,domain=record-russia.ru
 !:partner_token=beauvais.me
 !:partner_id=36c9b34c16d4b545
@@ -6539,7 +6536,7 @@ zerohedge.com#@#.placement
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
-@@||hb.vntsm.com/*/live/ad-manager.min.js$script,domain=venatusmedia.com
+@@||hb.vntsm.com/*/live/ad-manager.min.js$script,domain=venatusmedia.com|gosunoob.com
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
@@ -6547,7 +6544,6 @@ zerohedge.com#@#.placement
 ! anyaplanet.net ads
 @@||an.yandex.ru/system/context.js$domain=anyaplanet.net
 @@||an.yandex.ru/resource/context_static_r*.js$domain=anyaplanet.net
-@@||an.yandex.ru/partner-code-bundles/$script,domain=anyaplanet.net
 @@||an.yandex.ru^*^callback^$script,domain=anyaplanet.net
 @@||yandex.net/get-direct/$image,domain=anyaplanet.net
 !:partner_token=vie-naturelle.info
@@ -6802,6 +6798,8 @@ gamekult.com#@#.ed__news-h--native
 @@||an.yandex.ru/count/$image
 @@||an.yandex.ru/rtbcount/$image
 @@||an.yandex.ru/mapuid/$image
+@@||an.yandex.ru/count/$popup
+@@||an.yandex.ru/partner-code-bundles/$script
 !:partner_token=Tradedoubler
 !:partner_id=95219d69e6e074ea
 !:type=partner
