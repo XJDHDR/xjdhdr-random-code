@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mzu5ljjycEq4i9P7IQVXCQ
-! Version: 201903271415
+! Checksum: t2Rst23dshllgJ1nRAqopg
+! Version: 201903281415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 27 Mar 2019 14:15 UTC
+! Last modified: 28 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1862,6 +1862,10 @@ ajc.com#@#.story-ad-container
 livenewson.com#@##quads-ad2
 livenewson.com#@#.quads-ad2
 45.ru#@#.adv-container
+espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.taboola-container
+espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-headlines
+espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-links
+espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-content
 !:partner_token=pexels.com
 !:partner_id=70e80e4784a82f7b
 !:type=partner
@@ -6536,7 +6540,7 @@ zerohedge.com#@#.placement
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
-@@||hb.vntsm.com/*/live/ad-manager.min.js$script,domain=venatusmedia.com|gosunoob.com
+@@||hb.vntsm.com/*/live/ad-manager.min.js$script,domain=venatusmedia.com|gosunoob.com|futbin.com
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
@@ -6961,6 +6965,7 @@ testpages.adblockplus.org#@##abptest
 @@||related.boredpanda.com^$domain=boredpanda.com,document
 @@||noviniad.com^$domain=novini.bg
 @@||noviniad.com^$domain=novini.bg,document
+@@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 ! temp
@@ -8139,6 +8144,8 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||skyscanner.co.id^$elemhide
 @@||skyscanner.com.vn^$elemhide
 @@||skyscanner.gg^$elemhide
+!A107
+@@||milanuncios.com^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
