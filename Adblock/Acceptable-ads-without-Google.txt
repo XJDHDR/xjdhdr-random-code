@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t2Rst23dshllgJ1nRAqopg
-! Version: 201903281415
+! Checksum: 3tdZ8ZXg4AmgmCdS4a97dg
+! Version: 201903291415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 28 Mar 2019 14:15 UTC
+! Last modified: 29 Mar 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1719,7 +1719,7 @@ order-order.com#@#.mid-bar-post-container-unit
 vgpwn.com#@#.ad-inserter-widget
 vgpwn.com#@#div > #sidebar
 wtop.com,federalnewsradio.com#@#.Ad
-eonline.com,dbltap.com,latimes.com,journal-news.com,gocarolinas.com,10tv.com,fox23.com,fox30jax.com,uk.ign.com,curiouscat.me,dayton.com,daytondailynews.com,austin360.com,kiro7.com,palmbeachpost.com,columbiatribune.com,chicago.suntimes.com,wthr.com,xpatnation.com,wsbtv.com,wsoctv.com,wpxi.com,wftv.com,theonion.com,fox13memphis.com,accessatlanta.com,actionnewsjax.com,ajc.com,minhavida.com.br,nascar.com,boston25news.com#@#.taboola-container
+desired.de,espncricinfo.com,espn.com,fantasy.espn.com,espn.com.ar,espn.cl,espndeportes.espn.com,global.espn.com,espn.com.mx,tv5.espn.com,espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve,eonline.com,dbltap.com,latimes.com,journal-news.com,gocarolinas.com,10tv.com,fox23.com,fox30jax.com,uk.ign.com,curiouscat.me,dayton.com,daytondailynews.com,austin360.com,kiro7.com,palmbeachpost.com,columbiatribune.com,chicago.suntimes.com,wthr.com,xpatnation.com,wsbtv.com,wsoctv.com,wpxi.com,wftv.com,theonion.com,fox13memphis.com,accessatlanta.com,actionnewsjax.com,ajc.com,minhavida.com.br,nascar.com,boston25news.com#@#.taboola-container
 cnn.gr,onsports.gr,thesun.co.uk,journal-news.com,gamona.de,walla.co.il,aplus.com,gazetaesportiva.com,dayton.com,daytondailynews.com,accessatlanta.com,ajc.com,lakersnation.com,kapook.com,sheee.co.il#@#.taboola-widget
 saloona.co.il#@##popular_top
 balkandownload.org#@#.ipsAd
@@ -1778,7 +1778,7 @@ theweek.com#@#.sr-in-feed-ads
 thecinemaholic.com,ibtimes.co.uk,theweek.com,odelices.ouest-france.fr#@#.taboola-ad
 tickld.com,pref.com#@#.adcode
 autoexpress.co.uk#@#.block-taboola
-vocativ.com#@#.sponsored-links
+desired.de,espncricinfo.com,vocativ.com#@#.sponsored-links
 politico.com,kizlarsoruyor.com#@#.ad-slot
 crestviewbulletin.com,srpressgazette.com#@##btmsponsoredcontent
 hollywoodreporter.com#@#.taboola-left-rail-wrapper
@@ -1862,8 +1862,7 @@ ajc.com#@#.story-ad-container
 livenewson.com#@##quads-ad2
 livenewson.com#@#.quads-ad2
 45.ru#@#.adv-container
-espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.taboola-container
-espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-headlines
+desired.de,espncricinfo.com,espn.com,fantasy.espn.com,espn.com.ar,espn.cl,espndeportes.espn.com,global.espn.com,espn.com.mx,tv5.espn.com,espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-headlines
 espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-links
 espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-content
 !:partner_token=pexels.com
@@ -6648,7 +6647,7 @@ gamesflow.com#@#.iconads
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
 !:type=partner
-!:forum=(
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64884
 ! rimessolides.com ads
 !:partner_token=Neweb
 !:partner_id=72a029fb5c713195
