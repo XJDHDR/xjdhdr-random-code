@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IJ3bJITNIXfPtK/2C862RQ
-! Version: 201903311415
+! Checksum: zQWLP1dOLQabPfu3p+Iomw
+! Version: 201904011415
 ! Title: HP Hosts pha list
-! Last modified: 31 Mar 2019 14:15 UTC
+! Last modified: 01 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3545,6 +3545,7 @@
 ||inhousepharmacy.ru^
 ||inimex-pharma.com^
 ||inmobiliario.name^
+||inside.navitravel.ro^
 ||instant-solution-online.com^
 ||insurgent.secureorganictrade.ru^
 ||intcareshop.com^
@@ -4082,6 +4083,7 @@
 ||luckybrando.su^
 ||luckybrandp.su^
 ||luckybrandq.su^
+||luckychance.su^
 ||luckycuringtrade.ru^
 ||luckydrugprogram.ru^
 ||luckydrugsreward.ru^
@@ -10683,6 +10685,7 @@
 ||www.inhousepharmacy.ru^
 ||www.inimex-pharma.com^
 ||www.inmobiliario.name^
+||www.inside.navitravel.ro^
 ||www.instant-solution-online.com^
 ||www.international-drug-mart.com^
 ||www.intpharmacy.com^
@@ -11153,6 +11156,7 @@
 ||www.luckybrando.su^
 ||www.luckybrandp.su^
 ||www.luckybrandq.su^
+||www.luckychance.su^
 ||www.luckycuringtrade.ru^
 ||www.luckydrugprogram.ru^
 ||www.luckydrugsreward.ru^
@@ -15157,4 +15161,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15135
+! Hosts: 15139
