@@ -25,6 +25,8 @@ property OptionPlanetQuality  0x046170a7 uint32
 property OptionGameQuality    0x05c9482d uint32
 property OptionDOF            0x4c0dd839 uint32
 
+property OptionHighResTextures 0x08488f95 uint32 #note: this one is controlled by a cheat
+
 property OptionPhotoRes       0x0473b8cb uint32	
 property OptionVideoRes       0x0473b8cc uint32
 property OptionAudioPerformance 0x7d8ed666 uint32
@@ -161,7 +163,7 @@ property HasShownExportToolEULA 0x087c4363 bool
 
 
 # High resolution texture edits
-property skinpaintTextureSize        (hash(skinpaintTextureSize))    int   2048   # Reduce if creature painting is taking to long 
+property skinpaintTextureSize        (hash(skinpaintTextureSize))    int   4096   # Reduce if creature painting is taking to long 
 property skinpaintBumpHeight         (hash(skinpaintBumpHeight))     float 5.0   # range = 0-10   
 property skinpaintGlossMultiplier    (hash(skinpaintGlossMultiplier)) float 0.7  # range = 0-2, neutral = 1.0   
 property skinpaintPhongMultiplier    (hash(skinpaintPhongMultiplier)) float 0.95  # range = 0-2, neutral = 1.0   
@@ -172,8 +174,28 @@ property skinpaintAmbOccSpecular     (hash(skinpaintAmbOccSpecular)) float 0.3  
 
 
 # XJDHDR's optional tweaks
+# Do not change any of the values here. To tweak these options, edit the corresponding option in "ConfigManager.txt"
 # Skip intro
 property playOpeningMovie (hash(playOpeningMovie)) bool
+
+# Autosave the game in space stage every time you leave a planet's atmosphere
+property SPGAutoSave (hash(SPGAutoSave)) bool
+
 # Increase framerate limit
 property frameLimitMS   44   int
 # Do not change this number. To edit the framerate cap, open ConfigManager.txt
+
+# Sets whether validation is performed when saving a creation in any of the editors.
+property disableValidation 0x055d7ca1 bool true
+
+# Sets the length of recorded videos
+property recordMovieLength 0x0456f974 float 120
+
+# Sets the quality of recorded videos
+property recordMovieWidth 0x0456f975 int 1280
+property recordMovieHeight 0x0456f975 int 720
+property recordMovieFPS 0x0456f977 float 60.0
+property recordMovieQuality 0x0456f978 float 1
+property recordMovieAudio 0x0456f979 bool true
+property recordMovieNoUI 0x0456f97a bool true
+property recordMovieFrameUI 0x0641021a bool false

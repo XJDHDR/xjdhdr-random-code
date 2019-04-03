@@ -69,7 +69,9 @@ setOption OptionEffects             $High
 setOption OptionBakeQuality         $High
 setOption OptionLighting            $High
 setOption OptionPlanetQuality       $High
-setOption OptionDOF                 $High
+setOption OptionDOF                 1
+
+setOption OptionHighResTextures     $High
 
 setOption OptionPhotoRes            $High
 setOption OptionVideoRes            $High
@@ -786,13 +788,15 @@ setOption OptionEffects             $High
 setOption OptionBakeQuality         $High
 setOption OptionLighting            $High
 setOption OptionPlanetQuality       $High
-setOption OptionDOF                 $High
+setOption OptionDOF                 1
+
+setOption OptionHighResTextures     $High
 
 setOption OptionGameQuality         $High
 
 
 # High resolution texture edits
-intProp skinpaintTextureSize 4096 # If the game begins to slow down, change the 2048 
+intProp skinpaintTextureSize 2048 # If the game begins to slow down, change the 2048 
 floatProp skinpaintBumpHeight 15 
 floatProp skinpaintGlossMultiplier 0.5 
 floatProp skinpaintPhongMultiplier 1 
@@ -806,10 +810,14 @@ floatProp skinpaintAmbOccSpecular 0.5
 boolProp playOpeningMovie false
 
 
+# Autosave the game in space stage every time you leave a planet's atmosphere. Replace "false" with "true" to enable this tweak.
+boolProp SPGAutoSave false
+
+
 # Increase framerate limit
 # Remove the # to the left of the "intProp" option you want.
 # 60 FPS limit
-#intProp   frameLimitMS   16
+intProp   frameLimitMS   16
 
 # 90 FPS limit
 #intProp   frameLimitMS   11
@@ -819,4 +827,22 @@ boolProp playOpeningMovie false
 
 # 144 FPS limit
 #intProp   frameLimitMS   6
-# To set your own cap, the number to use is (1000 / desired framerate) then chop off any decimals.
+# To set your own cap, replace the "16" above with (1000 / desired framerate) then chop off any decimals.
+
+
+# Disable all validation checks in game's editors if "false" is replaced with "true"
+boolProp disableValidation false
+
+
+# Sets the length of recorded videos in seconds. By default it is 2 minutes
+floatprop recordMovieLength 120
+
+
+# Sets the quality of recorded videos
+IntProp recordMovieWidth 1280		# Width 
+IntProp recordMovieHeight 720		# Height 
+floatprop recordMovieFPS 60.0		# FPS limit, we change it to 60 
+floatprop recordMovieQuality 1		# Recording quality, from 0.1 to 1 
+boolprop recordMovieAudio true		# Toggle sound capture
+boolprop recordMovieNoUI false		# Toggle whether UI is hidden
+boolprop recordMovieFrameUI false	# Toggle whether Frame UI (border) is hidden

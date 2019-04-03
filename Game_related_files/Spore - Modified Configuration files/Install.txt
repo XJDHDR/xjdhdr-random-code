@@ -1,3 +1,29 @@
 Download the contents of the folder you wish to install. Navigate to the location you installed Spore then copy-paste the downloaded files into Spore's root folder, overwriting any files that need to be overwritten. 
 
 You have now improved your game's graphics just be doing this but you can also use the "high resolution graphics" cheat to possibly improve graphics even further. You can type in this cheat yourself every time you start the game or, if you start the game using "Start Spore.exe" in SporeBin, this cheat will be typed in every time.
+
+
+
+1. Navigate to the location where you installed Spore. The default location is a folder called "SPORE" in either "C:\Program Files (x86)\Electronic Arts" or "C:\Program Files\Electronic Arts" (though, due to the security settings Windows uses by default, I don't recommend installing the game there). Steam copies will be found under "{Steam install location}\SteamApps\common". Retail, Origin and GOG copies will be wherever you told the installer to install it.
+
+2. If you have Spore: Galactic Adventures installed, now is a good time to figure out where it's files are. Usually, they will be in one of two locations. The first is in a separate folder alongside "SPORE" that is called "SPORE Galactic Adventures". The second is in the "SPORE" folder itself (if this is the case, you will see a "DataEP1" and "SporebinEP1" folder inside "SPORE").
+
+3. Next, look at the three folders that are in the same place as these installation instructions. The only difference between these folders is the texture resolution the game will use. Open the folder that is named the option you want to go for. 
+"Graphics fix - No texture resolution changes" uses the texture resolution that Spore uses by default: 1024p
+"Graphics fix - 2048 resolution textured Creatures" doubles the default texture resolution to 2048p
+"Graphics fix - 4096 resolution textured Creatures" doubles this resolution even further to 4096p. Do note that some people have reported crashes with this configuration even on powerful PCs. If you want to play it safe or are experienceing these crashes, please use the "2048 res texture Creatures" folder instead or even the "No texture resolution changes" folder.
+
+4. Open the "SPORE" folder then navigate to "Data\Config". Rename the files "ConfigManager.txt" and "Properties.txt" to something else. This is just to create backups of them if you ever want to revert to the original files. Next, copy the "ConfigManager.txt" and "Properties.txt" files from the "Graphics fix" folder you opened in Step 3 into the "Config" folder you opened in this step. 
+
+5. If you have Galactic Adventures installed, navigate to it's "Config" folder. This will be either "{location you installed Spore: GA}\Data\Config" or "SPORE\DataEP1\Config". After that, repeat Step 4 in GA's "Config" folder
+
+
+
+There is one more thing you can do if you are experiencing "Out of Memory" bugs or crashes with Spore. Do note that this fix isn't without risks and applying it could increase the number of problems you have with the game.
+This change you can try is to apply the Large Address Aware flag to Spore's EXE. This is only really useful on 64-bit versions of Windows (though, these days, just about everyone is using 64-bit). How this works is that Spore (as well as all other 32-bit programs without the LAA flag), by default, can only use up to 2GB of RAM for all the data it needs. Windows will not allow them to use more than that and the program will sometimes crash when that happens, depending on how it was coded. 
+The LAA flag changes this rule by increasing the limit. On a 64-bit version of Windows, the LAA flag tells Windows to let the program use up to 4GB of RAM. It is not as useful on 32-bit Windows, where the program is still limited to 2GB unless Windows was started with the /3GB switch, in which case, it gets 3GB.
+You can apply the flag to Spore using this program: https://www.techpowerup.com/forums/threads/large-address-aware.112556/
+
+
+More info here: https://www.copsmodels.com/gp-laa.htm
+And here: https://stackoverflow.com/questions/2288728/drawbacks-of-using-largeaddressaware-for-32-bit-windows-executables
