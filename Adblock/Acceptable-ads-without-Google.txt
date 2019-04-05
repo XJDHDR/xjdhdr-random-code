@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pc6aNllYWUVQOSaBUtyxAQ
-! Version: 201904041415
+! Checksum: aHkiig/oRoPKthzvnXqC0g
+! Version: 201904051415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Apr 2019 14:15 UTC
+! Last modified: 05 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5817,6 +5817,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||cdnjquery.com^$script,third-party
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 @@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
+@@^btserve=true$domain=healthline.com|fandom.com|wikia.com|imgur.com|slickdeals.net|drudgereport.com
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.middle-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.right-ad
@@ -6671,6 +6672,14 @@ gamekult.com#@#.ed__tn__n--ad
 frognews.bg#@#.top-news-area-ad.brc
 frognews.bg#@#.inside-area-right-middle-ad
 frognews.bg#@#.inside-area-right-top-ad.brc
+!:partner_token=correrunamaraton.com
+!:partner_id=14fec613a4037122
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64596
+! correrunamaraton.com ads
+@@||awin1.com/cshow.php?$image,domain=correrunamaraton.com
+@@||belboon.de/adtracking/$image,domain=correrunamaraton.com
+@@||zanox.com/images/$image,domain=correrunamaraton.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
