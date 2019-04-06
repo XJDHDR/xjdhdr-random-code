@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VvMLSLKy0yhnpkW8w1dz8A
-! Version: 201904051415
+! Checksum: ubMjkLH6xtKq1ZwGSB/hwQ
+! Version: 201904061415
 ! Title: HP Hosts pup list
-! Last modified: 05 Apr 2019 14:15 UTC
+! Last modified: 06 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7592,6 +7592,7 @@
 ||mycleanpc.pw^
 ||mycleanpc.site^
 ||mycleanpc.website^
+||mycleanpcformac.com^
 ||mycomputermechanics.com^
 ||mycomputerupdate.com^
 ||mydownloaddomain.com^
@@ -8127,6 +8128,7 @@
 ||oursafesearch.com^
 ||ourtoolbar.com^
 ||oustingelgnoxce.download^
+||outbyte.com^
 ||outguardsalje.website^
 ||outweighsofmcxca.website^
 ||ovaushcheeks.review^
@@ -21402,6 +21404,7 @@
 ||www.mycleanpc.pw^
 ||www.mycleanpc.site^
 ||www.mycleanpc.website^
+||www.mycleanpcformac.com^
 ||www.mycomputermechanics.com^
 ||www.mycomputerupdate.com^
 ||www.myconcretetypeflash.icu^
@@ -21877,6 +21880,7 @@
 ||www.oursafesearch.com^
 ||www.ourtoolbar.com^
 ||www.oustingelgnoxce.download^
+||www.outbyte.com^
 ||www.outguardsalje.website^
 ||www.outweighsofmcxca.website^
 ||www.ovaushcheeks.review^
@@ -30367,4 +30371,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 30346
+! Hosts: 30350
