@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dcmphJRqHvkXzpQd+0fHuw
-! Version: 201904081415
+! Checksum: Kmuc6NuaHBQXt/FhPKdrKA
+! Version: 201904091415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 08 Apr 2019 14:15 UTC
+! Last modified: 09 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6299,8 +6299,8 @@ supereva.it#@#.se-ligatus
 p-magazine.be#@#.bsac
 p-magazine.be#@#.bsac-container
 ! Content recommendations
-@@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
-@@||updater.hyde.ligatus.com/js^$script,domain=linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
+@@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
+@@||updater.hyde.ligatus.com/js^$script,domain=routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -6689,6 +6689,23 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||awin1.com/cshow.php?$image,domain=correrunamaraton.com
 @@||belboon.de/adtracking/$image,domain=correrunamaraton.com
 @@||zanox.com/images/$image,domain=correrunamaraton.com
+!:partner_token=LivesportMedia
+!:partner_id=73491d1b58fe9013
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65562
+! LivesportMedia ads
+@@||flashscores.co.uk/res/image/advert/icon-adverth.png$domain=flashscores.co.uk
+@@||flashscore.se/res/image/advert/icon-adverth.png$domain=flashscore.se
+@@||flashscore.de/res/image/advert/icon-adverth.png$domain=flashscore.de
+@@||advert.livesportmedia.eu/block/right-7.php?id=383718^$subdocument,document,domain=flashscores.co.uk
+@@||advert.livesportmedia.eu/block/right-7.php?id=405813^$subdocument,document,domain=flashscore.se
+@@||advert.livesportmedia.eu/block/right-7.php?id=590098^$subdocument,document,domain=flashscore.de
+@@||content.livesportmedia.eu/delivery?zones=$script,domain=flashscores.co.uk|flashscore.se|flashscore.de
+flashscores.co.uk,flashscore.se,flashscore.de##.adsbackground-wrapper
+flashscores.co.uk,flashscore.se,flashscore.de##.seoAdWrapper
+flashscores.co.uk,flashscore.se,flashscore.de#@#.adstextpad
+flashscores.co.uk,flashscore.se,flashscore.de#@#.adsenvelope
+flashscores.co.uk,flashscore.se,flashscore.de#@#.adsghori
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
