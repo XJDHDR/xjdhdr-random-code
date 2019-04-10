@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Kmuc6NuaHBQXt/FhPKdrKA
-! Version: 201904091415
+! Checksum: vCGA9h2ncCCL5h0rZRGtUw
+! Version: 201904101415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 09 Apr 2019 14:15 UTC
+! Last modified: 10 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -120,7 +120,6 @@ heise.de#@#a[href^="https://paid.outbrain.com/network/redir?"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=9803
 ! Text/image ads on heise.de
-@@||adcloud.net^$domain=heise.de,script,image,document,subdocument
 @@||heise.de/js/prebid*.js$domain=heise.de
 heise.de#@#.ad-container
 heise.de##a-ad:not([acceptable])
@@ -5831,6 +5830,9 @@ tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,jooral
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.top-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.big-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.left-ad
+haaretz.co.il,themarker.com#@#div[class*="banner"]
+haaretz.co.il,themarker.com#@##top_banners
+telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 broadwayworld.com#@#.ad-desktop
 kizi.com#@#.banner_holder
 ynet.co.il#@#.general_banner_ad
@@ -6012,6 +6014,7 @@ fstoppers.com#@#.ad-unit-wrapper
 fstoppers.com#@#.adunit
 fstoppers.com###block-fs_helpers-freestar_InContent
 legacy.com#@#.RightAdWrapper
+prosportsdaily.com#@#.ad-header
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MzfnLpFCa+Xc4HTgLPyBUA
-! Version: 201904091415
+! Checksum: M1BPwZtxjcntXvDK/RVCtw
+! Version: 201904101415
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Apr 2019 14:15 UTC
+! Last modified: 10 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1430,6 +1430,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||hcycanmscyg.com^$third-party
 ||hoyqhygv.com^$third-party
 ||hqsgnzvjkyog.com^$third-party
+||hyurzuxoksg.com^$third-party
 ||ikupicwg.com^$third-party
 ||ilkphyyzg.com^$third-party
 ||isxwajatbig.com^$third-party
@@ -1485,6 +1486,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||wjevvjxwg.com^$third-party
 ||wrrytjtsyhrnfg.com^$third-party
 ||xcgebfplttrdg.com^$third-party
+||xcwnwrgvwg.com^$third-party
 ||xpgcrmxejlgig.com^$third-party
 ||xwavfvpzg.com^$third-party
 ||yflyluiqdig.com^$third-party
@@ -2430,6 +2432,7 @@ google.com.au###mclip_control
 xxlmag.com###medium-rec
 at40.com,king-mag.com###mediumrec
 americanidol.com,mindjolt.com,watchmojo.com,xxlmag.com###medrec
+youtube.com###merch-shelf
 ginbig.com,rushlane.com###message_box
 theweedblog.com###meteor-slides-widget-3
 goodhousekeeping.com###moduleEcomm
@@ -2764,6 +2767,7 @@ current.org,religionnews.com##.widget_doubleclick_widget
 automobilemag.com##.widget_ten_automobilemag_outbrain
 breaking911.com,breakingac.com,haitiantimes.com,hotelemarketer.com,kakuchopurei.com,lbo-news.com,mediabiasfactcheck.com,michaelsavage.com,mynintendonews.com,premiumtimesng.com,theconservativetreehouse.com,thecryptosphere.com,thehungaryjournal.com,them0vieblog.com,thenationalsentinel.com,whysayanything.com,wordpress.com##.wpa
 notjustok.com,punchng.com##.wpbrbanner
+youtube.com##.ytd-merch-shelf-renderer
 youtube.com##.ytd-search-pyv-renderer
 allenwestrepublic.com,clashdaily.com,conservativebyte.com,dailyheadlines.net,fandustry.com,joeforamerica.com,libertyunyielding.com,minutemennews.com,newszoom.com,politichicks.com,reviveusa.com,theblacksphere.net,valuewalk.com##.zone
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
