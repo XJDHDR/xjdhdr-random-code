@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M1BPwZtxjcntXvDK/RVCtw
-! Version: 201904101415
+! Checksum: mihpwDwxcSeNNuXRku6ATA
+! Version: 201904111415
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Apr 2019 14:15 UTC
+! Last modified: 11 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1458,6 +1458,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||pcbfhotfyuyg.com^$third-party
 ||pqajjgjg.com^$third-party
 ||ptrahwwg.com^$third-party
+||qdgpsfmg.com^$third-party
 ||qlatsfeyg.com^$third-party
 ||qoyagwzholjofg.com^$third-party
 ||qqtqicbvrwg.com^$third-party

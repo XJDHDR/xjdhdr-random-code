@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vCGA9h2ncCCL5h0rZRGtUw
-! Version: 201904101415
+! Checksum: II8dVJIlnY65/NRkNDz5Qw
+! Version: 201904111415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 Apr 2019 14:15 UTC
+! Last modified: 11 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1652,13 +1652,13 @@ thenoob.net#@#.adinjwidget
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
 @@||nydailynews.com/*taboola/render.js?$script,domain=nydailynews.com
-@@||twpasol.com/c/filmehd.js$domain=filmehd.net
+@@||twpasol.com/c/$script,domain=filmehd.net|kech24.com|dzexams.com|assarih.com
 @@||dasibogilink.com/wp-content/plugins/better-adsmanager/js/advertising.min.js$domain=dasibogilink.com
 @@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=kw.arabiaweather.com
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net
-@@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com
+@@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
@@ -6015,6 +6015,9 @@ fstoppers.com#@#.adunit
 fstoppers.com###block-fs_helpers-freestar_InContent
 legacy.com#@#.RightAdWrapper
 prosportsdaily.com#@#.ad-header
+w3schools.com#@##mainLeaderboard
+w3schools.com#@#.bottomad
+sporcle.com#@#.display-wide
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6652,8 +6655,8 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=62985
 ! POLSKA PRESS GRUPA ads
-||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl
-||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl
+||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl
+||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl
 !:partner_token=OLX Global B.V.
 !:partner_id=42b71aaf433714e0
 !:type=partner
