@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: II8dVJIlnY65/NRkNDz5Qw
-! Version: 201904111415
+! Checksum: UZywzeDtgk2n2DRXC27UFQ
+! Version: 201904121415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 11 Apr 2019 14:15 UTC
+! Last modified: 12 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -59,17 +59,27 @@
 @@||search.gmx.com^$elemhide
 @@||smartsearch.de^$elemhide
 @@||discover.mail.com^$elemhide
-@@||news.gmx.es^$elemhide
-@@||news.gmx.com^$elemhide
-@@||news.gmx.co.uk^$elemhide
-@@||news.gmx.fr^$elemhide
-@@||news.it.gmx.com^$elemhide
-@@||news.hs.gmx.com^$elemhide
-@@||news.gmx.net^$elemhide
 @@||search.1and1.com^$elemhide
+@@||s01.gmx.com^$elemhide
 @@||s.gmx.net^$elemhide
+@@||s.gmx.com^$elemhide
+@@||s.gmx.ca^$elemhide
+@@||s.gmx.it^$elemhide
+@@||s.gmx.se^$elemhide
+@@||s.gmx.co.uk^$elemhide
+@@||s.gmx.ch^$elemhide
+@@||s.gmx.fr^$elemhide
+@@||s.gmx.nl^$elemhide
+@@||s.gmx.es^$elemhide
+@@||s.gmx.co^$elemhide
+@@||s.web.de^$elemhide
+@@||find.gmx.net^$elemhide
+@@||find.gmx.co.uk^$elemhide
+@@||find.gmx.fr^$elemhide
+@@||find.gmx.com^$elemhide
+@@||find.gmx.es^$elemhide
 !
-@@||worthathousandwords.com^$image,domain=news.gmx.co.uk|news.gmx.com|news.gmx.es|news.gmx.fr|news.it.gmx.com|news.hs.gmx.com|news.gmx.net|search.1and1.com
+@@||worthathousandwords.com^$image,domain=search.1and1.com
 !
 !
 @@||suche.web.de/uns/amazon?$xmlhttprequest
@@ -350,12 +360,6 @@ helpster.de#@#.csiAd_medium
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13776
 ! catzware.com ads
-!:partner_token=gutefrage.net GmbH
-!:partner_id=36c493e6b1e32bb8
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13464
-! pointoo.de search & content ads
-||pointoo.de/px.js?ch=2$domain=pointoo.de
 !:partner_token=tv-nostalgie.de
 !:partner_id=15785c0213492133
 !:type=partner
@@ -2252,18 +2256,6 @@ jeanviet.info#@##publicite
 ! grobmeier.de ads
 @@||c.amazon-adsystem.com^$script,domain=grobmeier.de
 @@||amazon-adsystem.com/x/getad?$script,domain=grobmeier.de
-!:partner_token=Codeplex.com
-!:partner_id=caffbfa6c9dab9e9
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=29367
-! Developer media ads on Codeplex.com
-@@||developermedia.com/a.min.js$domain=codeplex.com
-@@||developermedia.com/Ads/$xmlhttprequest,domain=codeplex.com
-@@||ad.atdmt.com/i/a.html$subdocument,domain=codeplex.com,document
-@@||2mdn.net/viewad/$image,domain=codeplex.com
-codeplex.com#@##LoungeAdsDiv
-codeplex.com#@##adzerk_by
-codeplex.com#@#.LoungeAdsBottomLinks
 !:partner_token=ask.patch.cat
 !:partner_id=e8a8dec10f7eb902
 !:type=partner
@@ -6260,6 +6252,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||adserver.binqmedia.nl/ad.ashx?host=www.faillissementsdossier.be$script,domain=faillissementsdossier.be
 @@||u.videostep.com/User/GetOptIn?callback=invibes.cb_$script,domain=linternaute.com
 @@/aff_ad?$popup,domain=ilfattoquotidiano.it
+@@||adventori.com/ad/adClick^*_cartoucheId=LIGATUS_$popup,domain=abcbourse.com
 oe24.at#@#.contentAd
 letelegramme.fr#@#.bloc-ligatus-500
 e-sante.fr#@#.block-gc-ad

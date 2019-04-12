@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mihpwDwxcSeNNuXRku6ATA
-! Version: 201904111415
+! Checksum: Td2gKfPrdsVpPFlgW/SpgQ
+! Version: 201904121415
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 Apr 2019 14:15 UTC
+! Last modified: 12 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2826,7 +2826,7 @@ capricornfm.co.za,jazzfm.com,readmng.com##a[href^="https://itunes.apple.com/"]
 readmng.com##a[href^="https://play.google.com/"]
 thehornnews.com##a[href^="https://pro.nutritionandhealing.com/"]
 247sports.com##a[href^="https://servedby.flashtalking.com/"]
-9to5google.com,9to5mac.com,9to5toys.com,ancient-origins.net,aol.co.uk,arstechnica.com,catholicculture.org,electrek.co,gamenguide.com,ign.com,indianexpress.com,lewrockwell.com,livescience.com,macworld.co.uk,marineelectronics.com,marinelink.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,myanimelist.net,oneangrygamer.net,parentherald.com,pcgamer.com,segmentnext.com,spartareport.com,ssbcrack.com,techradar.com,thewirecutter.com,wonkette.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
+9to5google.com,9to5mac.com,9to5toys.com,ancient-origins.net,aol.co.uk,arstechnica.com,catholicculture.org,electrek.co,gamenguide.com,ign.com,indianexpress.com,lewrockwell.com,livescience.com,macworld.co.uk,marineelectronics.com,marinelink.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,myanimelist.net,mydramalist.com,oneangrygamer.net,parentherald.com,pcgamer.com,segmentnext.com,spartareport.com,ssbcrack.com,techradar.com,thewirecutter.com,wonkette.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
 youtube.com##a[href^="https://www.youtube.com/cthru?"]
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 watchers.to,yogisoftworld.blogspot.co.nz,yogisoftworld.blogspot.co.uk,yogisoftworld.blogspot.com##a[onclick]
