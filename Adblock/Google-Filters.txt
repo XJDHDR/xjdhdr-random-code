@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: V/Dh4sLW0Q91meoWlxNL4Q
-! Version: 201904131415
+! Checksum: tOr8r5sl34nvsezfk0jgsA
+! Version: 201904141415
 ! Title: Block Google's adverts and tracking only
-! Last modified: 13 Apr 2019 14:15 UTC
+! Last modified: 14 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1415,6 +1415,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||donhyxngg.com^$third-party
 ||drsemkuhpg.com^$third-party
 ||dwopbruzifg.com^$third-party
+||dwuvmraztukg.com^$third-party
 ||eqhawyidkdug.com^$third-party
 ||esfzbdwg.com^$third-party
 ||fdxdjkswppg.com^$third-party
@@ -1486,6 +1487,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||vpndcpxavg.com^$third-party
 ||wfjdmkjetpbgv.com^$third-party
 ||whjibbprhng.com^$third-party
+||whlvjuprdpkg.com^$third-party
 ||wjevvjxwg.com^$third-party
 ||wrrytjtsyhrnfg.com^$third-party
 ||xcgebfplttrdg.com^$third-party
@@ -2052,8 +2054,8 @@ $script,third-party,domain=0dt.net|123videos.tv|171gifs.com|1proxy.de|2ddl.downl
 @@||apis.google.com^$script,domain=onhax.me
 @@||translate.google.com^$script,domain=onhax.me
 @@||ajax.googleapis.com^$script,domain=limetorrents.info|torrentdownload.ch|torrentdownloads.me|torrentfunk2.com
-@@||googleapis.com^$script,stylesheet,domain=123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unlockproject.icu|unlockproject.live
-||chrome.google.com^$popup,domain=123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unlockproject.icu|unlockproject.live
+@@||googleapis.com^$script,stylesheet,domain=123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unlockproject.icu|unlockproject.live
+||chrome.google.com^$popup,domain=123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unlockproject.icu|unlockproject.live
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com)\/).*)$/$script,third-party,domain=oladblock.xyz|oload.cc|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.site|oload.space|oload.stream|oload.tv|oload.win|openload.co|openload.pw|openloed.co
 @@||google.com/recaptcha/$script,subdocument,domain=vidtodo.com
 @@||google.com/complete/search?$script,domain=tamilrockerss.ch
