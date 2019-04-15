@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z7EAtfIyGxTvQhnROhWmbg
-! Version: 201904141415
+! Checksum: iGrwyfJh/Vc6fcwZ+/et7g
+! Version: 201904151415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 14 Apr 2019 14:15 UTC
+! Last modified: 15 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5876,6 +5876,8 @@ buzznet.com#@#.ad-holder
 yad2.co.il#@##desktop-top-banners
 yad2.co.il#@##martef
 zerohedge.com#@#.placement
+knowyourmeme.com#@#.header-unit-wrapper
+knowyourmeme.com#@#.rectangle-unit-wrapper
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'

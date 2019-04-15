@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tOr8r5sl34nvsezfk0jgsA
-! Version: 201904141415
+! Checksum: f7UB9JN4gNnXchUGtHL8lg
+! Version: 201904151415
 ! Title: Block Google's adverts and tracking only
-! Last modified: 14 Apr 2019 14:15 UTC
+! Last modified: 15 Apr 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1405,6 +1405,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||advmaiotg.com^$third-party
 ||ajttqxeqg.com^$third-party
 ||atrcoikdyagv.com^$third-party
+||boaawvdg.com^$third-party
 ||brfyubakyg.com^$third-party
 ||caucqpoeg.com^$third-party
 ||cbzkrwjdskg.com^$third-party
@@ -1416,6 +1417,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||drsemkuhpg.com^$third-party
 ||dwopbruzifg.com^$third-party
 ||dwuvmraztukg.com^$third-party
+||ekbiwwngwig.com^$third-party
 ||eqhawyidkdug.com^$third-party
 ||esfzbdwg.com^$third-party
 ||fdxdjkswppg.com^$third-party
@@ -1436,6 +1438,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||ikupicwg.com^$third-party
 ||ilkphyyzg.com^$third-party
 ||isxwajatbig.com^$third-party
+||iwapwcqg.com^$third-party
 ||jkcvevwvgfopog.com^$third-party
 ||jotpybmcjvg.com^$third-party
 ||juqakqgv.com^$third-party
@@ -1453,6 +1456,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||lyyenjcocog.com^$third-party
 ||mfxxpyhzofbsg.com^$third-party
 ||mrtehsag.com^$third-party
+||nticqzrucdg.com^$third-party
 ||nwxwaxhfg.com^$third-party
 ||ogyhsyuhczvjg.com^$third-party
 ||ohrdpvkzhzbg.com^$third-party
