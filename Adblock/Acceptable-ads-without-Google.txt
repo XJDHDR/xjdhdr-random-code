@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iGrwyfJh/Vc6fcwZ+/et7g
-! Version: 201904151415
+! Checksum: AhCpllcib7s2DdiWMx+E3w
+! Version: 201904161415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 15 Apr 2019 14:15 UTC
+! Last modified: 16 Apr 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1768,7 +1768,7 @@ seriouseats.com,newrepublic.com#@#.taboola-unit
 thinkprogress.org#@##ad_zone1
 www.msn.com#@#a[href^="http://adfarm.mediaplex.com/"]
 msn.com#@##taboola-above-homepage-thumbnails
-yatahonga.com,sofoot.com#@#.pub
+ouest-france.fr,yatahonga.com,sofoot.com#@#.pub
 scout.com,247sports.com#@#.taboola_blk
 radaronline.com,thechive.com#@#[class] > [class] > a[target][href*="/"]:first-child
 radaronline.com,thechive.com#@#[id] > [class] > a[target="_blank"][href*="/"]
@@ -6065,14 +6065,6 @@ fishki.net#@#[class^="side"][class*="right"] div[class*="promo"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54139
 ! casinuevo.com ads
-!:partner_token=Waytogrow Sp. z o.o. Sp.k.
-!:partner_id=3a46084325666064
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54156
-! waytogrow ads
-polityka.pl#@#.adslot
-polityka.pl#@#.adrect
-polityka.pl#@#.adheader
 !:partner_token=system-kanban.pl
 !:partner_id=bbfb57244af5b8d9
 !:type=partner
@@ -6657,8 +6649,9 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
 ! OLX Global B.V. ads
-@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.ro|olx.bg
-||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.ro|olx.bg
+@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.ro|olx.bg|olx.pt
+||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.ro|olx.bg|olx.pt
+olx.pt#@#div[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
 !:type=partner
@@ -6869,6 +6862,44 @@ flashscores.co.uk,flashscore.se,flashscore.de#@#.adsghori
 boutiquesensolde.fr,cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr#@#a[href*="//clk.tradedoubler.com/click?"]
 premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
+!:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
+! Generic conversion tracking
+@@||insight.adsrvr.org/track/$image,third-party
+@@||r.turn.com/r/beacon^$image,third-party
+@@||d.turn.com/r/$image,third-party
+@@||clickserv.sitescout.com/conv/$image,third-party
+@@||tags.bluekai.com/site/$image,third-party
+@@||l.betrad.com/pub/p.gif?$image,third-party
+@@||s.amazon-adsystem.com/iui3?$image,third-party
+@@||tag.apxlv.com/tag/partner/$image,third-party
+@@||ads.yahoo.com/cms/$image,third-party
+@@||bttrack.com/Pixel/$image,third-party
+@@||fastclick.net/w/tre?$image,third-party
+@@||ad.yieldmanager.com/cms/$image,third-party
+@@||api.connatix.com/pixel.png$image,third-party
+@@||tribalfusion.com/ti.ad?$image,third-party
+@@||dianomi.com/pixeltrack.pl?$image,third-party
+@@||zedo.com/img/bh.gif?$image,third-party
+@@||ad.yieldmanager.com/pixel?$image,third-party
+@@||casalemedia.com/j.gif?$image,third-party
+@@||panel.gwallet.com/network-node/$image,third-party
+@@||adtech.de/pcsale/$image,third-party
+@@||pixel.rubiconproject.com/tap.php?$image,third-party
+@@||token.rubiconproject.com/token?$image,third-party
+@@||360yield.com/match?$image,third-party
+@@||openx.net/w/1.0/sd?$image,third-party
+@@||casalemedia.com/rum?$image,third-party
+@@||pubmatic.com/AdServer/Pug?$image,third-party
+@@||postrelease.com/conversion?$image,third-party
+@@||zemanta.com/p/$image,third-party
+@@||conv.nativexxx.com/img_conversion?$image,third-party
+@@||rt.spongecell.com/v1/r$image,third-party
+@@||fei.pro-market.net/engine$image,third-party
+@@||c1.adform.net/imatch/pixels$image,third-party
+@@||track.adform.net/Serving/TrackPoint$image,third-party
+@@||d.adroll.com/ipixel$image,third-party
+@@||stags.bluekai.com/site/$image,third-party
+!:type=combined
 ! Global whitelists for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup
 !:type=combined
@@ -6985,6 +7016,7 @@ testpages.adblockplus.org#@##abptest
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 ! temp
+@@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com,document
 @@||adnxs.com^$domain=redditad.com
