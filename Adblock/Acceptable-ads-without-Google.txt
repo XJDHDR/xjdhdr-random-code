@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wWCe3aSeMFRlY16okbXExA
-! Version: 201904171415
+! Checksum: SzbG2CaKABTb4anH68IcJg
+! Version: 201904180215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 17 Apr 2019 14:15 UTC
+! Last modified: 18 Apr 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1611,6 +1611,7 @@ thenoob.net#@#.adinjwidget
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
 ! Taboola ads
+@@||escolaeducacao.com.br/wp-content/plugins/better-adsmanager/js/advertising.min.js$script,domain=escolaeducacao.com.br
 @@||taboola.com^$popup,domain=gorillavid.in|khabar.ndtv.com
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
@@ -1663,6 +1664,9 @@ thenoob.net#@#.adinjwidget
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
+telva.com#@#.content-ad
+bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
+submanga.online#@#.ads-large
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
@@ -7038,7 +7042,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
