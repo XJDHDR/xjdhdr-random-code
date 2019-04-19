@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SzbG2CaKABTb4anH68IcJg
-! Version: 201904180215
+! Checksum: ITErcXf8hzJjUoVdWh4zdg
+! Version: 201904190215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Apr 2019 02:15 UTC
+! Last modified: 19 Apr 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5831,7 +5831,7 @@ haaretz.co.il,themarker.com#@##top_banners
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 broadwayworld.com#@#.ad-desktop
 kizi.com#@#.banner_holder
-ynet.co.il#@#.general_banner_ad
+vesty.co.il,ynet.co.il#@#.general_banner_ad
 ynet.co.il#@##ads\.top
 ynet.co.il#@#.pplus_hdr_ad
 wnd.com#@#.widget_wnd_prom_widget
@@ -7042,7 +7042,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
@@ -8199,6 +8199,99 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||skyscanner.gg^$elemhide
 !A107
 @@||milanuncios.com^$elemhide
+!A108
+@@||cheapflights.ca^$elemhide
+@@||cheapflights.co.id^$elemhide
+@@||cheapflights.co.nz^$elemhide
+@@||cheapflights.co.uk^$elemhide
+@@||cheapflights.co.za^$elemhide
+@@||cheapflights.com^$elemhide
+@@||cheapflights.com.au^$elemhide
+@@||cheapflights.com.hk^$elemhide
+@@||cheapflights.com.my^$elemhide
+@@||cheapflights.com.ph^$elemhide
+@@||cheapflights.com.sg^$elemhide
+@@||cheapflights.qa^$elemhide
+@@||cheapflights.vn^$elemhide
+@@||kayak.ae^$elemhide
+@@||kayak.cl^$elemhide
+@@||kayak.co.id^$elemhide
+@@||kayak.co.jp^$elemhide
+@@||kayak.co.kr^$elemhide
+@@||kayak.co.th^$elemhide
+@@||kayak.com.ar^$elemhide
+@@||kayak.com.co^$elemhide
+@@||kayak.com.my^$elemhide
+@@||kayak.com.pe^$elemhide
+@@||kayak.com.ph^$elemhide
+@@||kayak.com.pl^$elemhide
+@@||kayak.gl^$elemhide
+@@||kayak.lt^$elemhide
+@@||kayak.qa^$elemhide
+@@||momondo.at^$elemhide
+@@||momondo.be^$elemhide
+@@||momondo.by^$elemhide
+@@||momondo.ca^$elemhide
+@@||momondo.ch^$elemhide
+@@||momondo.cl^$elemhide
+@@||momondo.co.nz^$elemhide
+@@||momondo.co.uk^$elemhide
+@@||momondo.co.za^$elemhide
+@@||momondo.com^$elemhide
+@@||momondo.com.ar^$elemhide
+@@||momondo.com.au^$elemhide
+@@||momondo.com.br^$elemhide
+@@||momondo.com.co^$elemhide
+@@||momondo.com.pe^$elemhide
+@@||momondo.com.tr^$elemhide
+@@||momondo.cz^$elemhide
+@@||momondo.de^$elemhide
+@@||momondo.dk^$elemhide
+@@||momondo.ee^$elemhide
+@@||momondo.es^$elemhide
+@@||momondo.fi^$elemhide
+@@||momondo.fr^$elemhide
+@@||momondo.hk^$elemhide
+@@||momondo.ie^$elemhide
+@@||momondo.in^$elemhide
+@@||momondo.it^$elemhide
+@@||momondo.kz^$elemhide
+@@||momondo.mx^$elemhide
+@@||momondo.nl^$elemhide
+@@||momondo.no^$elemhide
+@@||momondo.pl^$elemhide
+@@||momondo.pt^$elemhide
+@@||momondo.ro^$elemhide
+@@||momondo.ru^$elemhide
+@@||momondo.se^$elemhide
+@@||momondo.tw^$elemhide
+@@||momondo.ua^$elemhide
+@@||mundi.com.br^$elemhide
+@@||swoodoo.at^$elemhide
+@@||swoodoo.ch^$elemhide
+!A109
+@@||auone.jp^$elemhide
+@@||search.auone.jp^$elemhide
+@@||sp-image.search.auone.jp^$elemhide
+@@||sp-news.search.auone.jp^$elemhide
+@@||sp-pass.search.auone.jp^$elemhide
+@@||sp-realtime.search.auone.jp^$elemhide
+@@||sp-shopping.search.auone.jp^$elemhide
+@@||sp-web.search.auone.jp^$elemhide
+!A110
+@@||ebaystatic.com^*/ScandalJS-
+@@||ebaystatic.com^
+@@||ebay.com^*/ScandalLoader.js
+@@||ebay.at^*/ScandalLoader.js
+@@||ebay.be^*/ScandalLoader.js
+@@||ebay.fr^*/ScandalLoader.js
+@@||ebay.de^*/ScandalLoader.js
+@@||ebay.it^*/ScandalLoader.js
+@@||ebay.nl^*/ScandalLoader.js
+@@||ebay.es^*/ScandalLoader.js
+@@||ebay.ch^*/ScandalLoader.js
+@@||ebay.ie^*/ScandalLoader.js
+@@||ebay.pl^*/ScandalLoader.js
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
