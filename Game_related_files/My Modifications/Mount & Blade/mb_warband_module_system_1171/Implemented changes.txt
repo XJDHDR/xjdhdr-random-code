@@ -15,3 +15,4 @@
 - Cattle follow you instead of running away.
 - Allow access to inventory and party menus in siege menu.
 - Allow access to inventory during sieges.
+- Mills give 5% prosperity every month (assembled code only - not Python source).

@@ -14,3 +14,5 @@
 - Change delay before offering same quest again.
 - Modify the way village cattle population changes.
 - Allow access to inventory and party menus in siege menu.
+- Mills give 5% prosperity every month (assembled code only - not Python source).
+- Collect taxes from all your fiefs after visiting one of them.
