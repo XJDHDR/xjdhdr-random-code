@@ -1,0 +1,26 @@
+module_mission_templates.py:
+Search for the following line (line 818 for me):
+    [(lt, "$defender_reinforcement_stage", 7),
+The number indicates the number of waves defenders get during a siege.
+
+Search for the following line (line 858 for me):
+    (lt,"$attacker_reinforcement_stage",5),
+The number indicates the number of waves attackers get during a siege.
+
+Search for the following line (line 2315 for me):
+    (assign, "$g_defender_reinforcement_limit", 2),
+The number indicates the number of waves defenders get during a regular battle.
+
+Search for the following line (line 2362 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during a regular battle.
+
+Search for the following line (line 2511 for me):
+    (1, 0, 5, [(lt,"$defender_reinforcement_stage",2),
+The number indicates the number of waves defenders get during a village raid battle.
+
+Search for the following line (line 2517 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during a village raid battle.
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1230011.html#msg1230011

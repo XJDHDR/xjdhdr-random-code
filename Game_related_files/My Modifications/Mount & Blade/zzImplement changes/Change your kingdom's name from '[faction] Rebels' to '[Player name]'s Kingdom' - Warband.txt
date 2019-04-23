@@ -1,0 +1,16 @@
+module_dialogs.py:
+Change this line (line 5772 for me):
+            (faction_set_name, "fac_player_supporters_faction", "@{s1} Rebels"),
+to say this:
+            (faction_set_name, "fac_player_supporters_faction", "@{playername}'s Kingdom"),
+This line sets the name of the kingdom that is created when you take up a claimant's cause.
+
+
+module_scripts.py:
+Change this line (line 31557 for me):
+		(faction_set_name, "fac_player_supporters_faction", "@{s1} Rebels"),
+to say this:
+		(faction_set_name, "fac_player_supporters_faction", "@{playername}'s Kingdom"),
+This line sets the name of the kingdom that is created when you rebel against your current lord.
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1223331.html#msg1223331

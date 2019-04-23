@@ -1,0 +1,5 @@
+module_triggers.py:
+Delete or comment out the line (line 251 for me) containing:
+(neq, ":cur_kingdom", "fac_player_supporters_faction"),
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1363963.html#msg1363963

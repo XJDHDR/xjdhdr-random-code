@@ -1,0 +1,26 @@
+module_scripts.py:
+Find these lines (lines 4122 - 4135 for me):
+  ("game_get_total_wage",
+    [
+      (assign, ":total_wage", 0),
+      (party_get_num_companion_stacks, ":num_stacks", "p_main_party"),
+      (try_for_range, ":i_stack", 0, ":num_stacks"),
+        (party_stack_get_troop_id, ":stack_troop", "p_main_party", ":i_stack"),
+        (party_stack_get_size, ":stack_size", "p_main_party", ":i_stack"),
+        (call_script, "script_game_get_troop_wage", ":stack_troop", 0),
+        (val_mul, reg0, ":stack_size"),
+        (val_add, ":total_wage", reg0),
+      (try_end),
+      (assign, reg0, ":total_wage"),
+      (set_trigger_result, reg0),
+  ]),
+and replace them with this:
+   ("game_get_total_wage",
+    [
+      (assign, ":total_wage", 0),
+      (call_script, "script_calculate_player_faction_wage"),
+      (assign, reg0, ":total_wage"),
+      (set_trigger_result, reg0),
+  ]),
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1262949.html#msg1262949

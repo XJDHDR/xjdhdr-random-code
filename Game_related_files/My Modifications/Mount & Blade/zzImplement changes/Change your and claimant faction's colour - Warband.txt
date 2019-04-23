@@ -1,0 +1,18 @@
+module_dialogs.py:
+Find the two lines (lines 1746 and 5773 for me) that say:
+	(faction_set_color, "fac_player_supporters_faction", 0xFF0000)
+The "0xFF0000" part defines the colour in hexidecimal notation taking the form: RRGGBB. 
+These lines defines the colour of the kingdom that is created when you take up a claimant's cause.
+
+
+module_scripts.py:
+Find the line (line 31562 for me) that says:
+	(faction_set_color, "fac_player_supporters_faction", 0xFF0000)
+The "0xFF0000" part defines the colour in hexidecimal notation taking the form: RRGGBB. 
+This line defines the colour of the kingdom that is created when you rebel against your current lord.
+
+
+In all cases, you may use tools such as this one to help you define your chosen colour in these scripts.
+https://www.w3schools.com/colors/colors_picker.asp
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1225711.html#msg1225711

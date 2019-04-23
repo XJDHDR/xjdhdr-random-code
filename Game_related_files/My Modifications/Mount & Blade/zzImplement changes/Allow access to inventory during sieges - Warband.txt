@@ -1,0 +1,15 @@
+module_mission_templates.py:
+Find the code blocks that start with this (lines 2961 - 2964 for me):
+  (
+    "castle_attack_walls_belfry",mtf_battle_mode|mtf_synch_inventory,-1,
+    "You attack the walls of the castle...",
+    [
+and this (lines 3042 - 3045 for me):
+  (
+    "castle_attack_walls_ladder",mtf_battle_mode|mtf_synch_inventory,-1,
+    "You attack the walls of the castle...",
+    [
+and in each case, delete or comment out this line (lines 3034 and 3081 for me):
+      common_inventory_not_available,
+
+Source: https://forums.taleworlds.com/index.php/topic,46514.msg1210550.html#msg1210550

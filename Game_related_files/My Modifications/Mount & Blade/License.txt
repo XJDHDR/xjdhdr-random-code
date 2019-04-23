@@ -1,0 +1,10 @@
+The contents of "aapython2" are all part of "Python" which is owned by the "Python Software Foundation" and licensed under the terms and conditions found here: https://docs.python.org/3/license.html
+
+The contents of the "Diplomacy" directory are part of the "Diplomacy" mod for "Mount & Blade: Warband". I have not been able to figure out what license this code is licensed under. 
+https://steamcommunity.com/workshop/filedetails/discussion/285119009/451850849180281143/
+
+The contents of the "mb_warband_module_system_1171" and "mb_wfas_module_system_1143" directories are part of the "Module System" for "Mount & Blade: Warband" and "Mount & Blade: With Fire and Sword", respectively. I have not been able to figure out what license this code is licensed under but I'm assuming it uses the EULA for each game.
+https://www.taleworlds.com/en/Games/warband/Download
+https://forums.taleworlds.com/index.php?topic=322339.0
+
+The contents of the "zzImplement changes" directory are my notes and instructions for implementing various tweaks to the game files noted above. I am licensing everything in there under the "Creative Commons Attribution-ShareAlike 4.0 International License".

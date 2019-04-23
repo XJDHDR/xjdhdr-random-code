@@ -1,0 +1,24 @@
+module_dialogs.py:
+To adjust costs, find these three lines (lines 17785 - 17787 for me):
+    (assign, "$lady_restore_cost_1", 1000),
+    (assign, "$lady_restore_cost_2", 2000),
+    (assign, "$lady_restore_cost_3", 3000),
+The numbers at the end dictate the cost of a small, medium and large gift, respectively.
+
+To adjust the relationship boost, find these three lines (lines 17800, 17804 and 17808 for me):
+   "I think a gift of {reg10} denars will do.", "lady_restore_relation_5",[(assign, "$temp", 1), (assign, "$temp_2", "$lady_restore_cost_1")]],
+   "Maybe I can afford {reg11} denars.", "lady_restore_relation_5",[(assign, "$temp", 2), (assign, "$temp_2", "$lady_restore_cost_2")]],
+   "In that case, I am ready to spend {reg12} denars.", "lady_restore_relation_5",[(assign, "$temp", 3), (assign, "$temp_2", "$lady_restore_cost_3")]],
+The number inside the "(assign, "$temp", 1)" portion of the code controls the relationship boost the gift offers.
+
+Finally, to adjust the maximum relationship you can boost someone to, find these lines (lines 17771 - 17777 for me):
+  [anyone|plyr|repeat_for_troops,"lady_restore_relation_2", [(store_repeat_object, ":troop_no"),
+                                                             (is_between, ":troop_no", active_npcs_begin, active_npcs_end),
+                                                             (store_troop_faction, ":faction_no", ":troop_no"),
+                                                             (eq, "$g_talk_troop_faction", ":faction_no"),
+                                                             (call_script, "script_troop_get_player_relation", ":troop_no"),
+                                                             (lt, reg0, 0),
+                                                             (str_store_troop_name, s1, ":troop_no")],
+The last number in the "(lt, reg0, 0)" part defines the cap that is applied. Adjust this number to raise or lower the cap.
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1261877.html#msg1261877

@@ -1,0 +1,16 @@
+module_simple_triggers.py:
+Find the following code block (lines 2136 - 2145 for me):
+  # School
+  (30 * 24,
+   [(try_for_range, ":cur_village", villages_begin, villages_end),
+      (party_slot_eq, ":cur_village", slot_town_lord, "trp_player"),
+      (party_get_slot, ":cur_relation", ":cur_village", slot_center_player_relation),
+      (val_add, ":cur_relation", 1),
+      (val_min, ":cur_relation", 100),
+      (party_set_slot, ":cur_village", slot_center_player_relation, ":cur_relation"),
+    (try_end),
+    ]),
+The "30*24" is how often the relation bonus is added, in game hours (24*30 means 1 month).
+The "(val_add, ":cur_relation", 1)," line is the number of relation points that are added per time period.
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1253488.html#msg1253488

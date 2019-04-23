@@ -1,0 +1,9 @@
+module_scripts.py:
+Find the following line (line 5446 for me):
+    (str_store_string, s0, "@{reg6?:{reg4?{s54} is the ruler of {s56}.^:{s54} is a vassal of {s55} of {s56}.^}}Renown: {reg5}.^{reg9?{reg3?She:He} is the {reg3?lady:lord} of {s58}.:{reg3?She:He} has no fiefs.}{s59}"),
+Change it to say:
+    (str_store_string, s0, "@{reg6?:{reg4?{s54} is the ruler of {s56}.^:{s54} is a vassal of {s55} of {s56}.^}}Renown: {reg5}.^Relation:_{reg0} ({s59}).^{reg9?{reg3?She:He} is the {reg3?lady:lord} of {s58}.:{reg3?She:He} has no fiefs.}"),
+
+Note: The above is probably wrong. I haven't been able to test if this works but WFaS seems to use a completely different way of displaying the contents of the character menu and I haven't been able to find the correct text to edit.
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1260561.html#msg1260561

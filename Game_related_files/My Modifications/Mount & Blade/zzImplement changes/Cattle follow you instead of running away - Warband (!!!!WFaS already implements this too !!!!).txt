@@ -1,0 +1,16 @@
+module_game_menus.py:
+Find the following block of code (lines 3592 - 3599 for me):
+      ("cattle_drive_away",[],"Drive the cattle onward.",
+       [
+        (party_set_slot, "$g_encountered_party", slot_cattle_driven_by_player, 1),
+        (party_set_ai_behavior, "$g_encountered_party", ai_bhvr_driven_by_party),
+        (party_set_ai_object,"$g_encountered_party", "p_main_party"),
+        (change_screen_return),
+        ]
+       ),
+Change this line:
+    (party_set_ai_behavior, "$g_encountered_party", ai_bhvr_driven_by_party),
+to say this instead:
+    (party_set_ai_behavior, "$g_encountered_party", ai_bhvr_escort_party),
+
+Source: http://forums.taleworlds.com/index.php/topic,45900.0.html

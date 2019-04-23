@@ -1,0 +1,6 @@
+module_game_menus.py:
+Delete or comment out the lines (lines 3997 and 4038 for me) containing:
+    (eq, "$encountered_party_friendly", 0),
+These lines is found in the "encounter_attack" block of code (lines 3995 - 4034 for me) and "encounter_order_attack" block (lines 4036 - 4045 for me).
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1270097.html#msg1270097

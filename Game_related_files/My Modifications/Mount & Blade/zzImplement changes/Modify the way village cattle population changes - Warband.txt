@@ -1,0 +1,83 @@
+module_simple_triggers.py:
+Find this block of code (lines 1418 - 1491 for me):
+  # Refresh number of cattle in villages
+  (24 * 7,
+   [
+     (try_for_range, ":village_no", centers_begin, centers_end),
+	   (neg|is_between, ":village_no", castles_begin, castles_end),
+	   (party_get_slot, ":num_cattle", ":village_no", slot_center_head_cattle),
+	   (party_get_slot, ":num_sheep", ":village_no", slot_center_head_sheep),
+	   (party_get_slot, ":num_acres", ":village_no", slot_center_acres_pasture),
+	   (val_max, ":num_acres", 1),
+	   
+	   (store_mul, ":grazing_capacity", ":num_cattle", 400),
+	   (store_mul, ":sheep_addition", ":num_sheep", 200),
+	   (val_add, ":grazing_capacity", ":sheep_addition"),
+	   (val_div, ":grazing_capacity", ":num_acres"),
+	   
+	   (store_random_in_range, ":random_no", 0, 100),
+	   (try_begin), #Disaster
+	     (eq, ":random_no", 0),#1% chance of epidemic - should happen once every two years
+		 (val_min, ":num_cattle", 10),
+		 
+       (else_try), #Overgrazing
+         (gt, ":grazing_capacity", 100),
+		
+         (val_mul, ":num_sheep", 90), #10% decrease at number of cattles
+         (val_div, ":num_sheep", 100),
+		
+         (val_mul, ":num_cattle", 90), #10% decrease at number of sheeps
+         (val_div, ":num_cattle", 100),
+		 
+       (else_try), #superb grazing
+         (lt, ":grazing_capacity", 30),
+
+         (val_mul, ":num_cattle", 120), #20% increase at number of cattles
+         (val_div, ":num_cattle", 100),
+         (val_add, ":num_cattle", 1),
+		
+         (val_mul, ":num_sheep", 120), #20% increase at number of sheeps
+         (val_div, ":num_sheep", 100),
+         (val_add, ":num_sheep", 1),
+		
+       (else_try), #very good grazing
+         (lt, ":grazing_capacity", 60),
+
+         (val_mul, ":num_cattle", 110), #10% increase at number of cattles
+         (val_div, ":num_cattle", 100),
+         (val_add, ":num_cattle", 1),
+		
+         (val_mul, ":num_sheep", 110), #10% increase at number of sheeps
+         (val_div, ":num_sheep", 100),
+         (val_add, ":num_sheep", 1),
+
+       (else_try), #good grazing
+         (lt, ":grazing_capacity", 100),
+         (lt, ":random_no", 50),
+
+         (val_mul, ":num_cattle", 105), #5% increase at number of cattles
+         (val_div, ":num_cattle", 100),
+         (try_begin), #if very low number of cattles and there is good grazing then increase number of cattles also by one
+           (le, ":num_cattle", 20),
+           (val_add, ":num_cattle", 1),
+         (try_end),
+		
+         (val_mul, ":num_sheep", 105), #5% increase at number of sheeps
+         (val_div, ":num_sheep", 100),
+         (try_begin), #if very low number of sheeps and there is good grazing then increase number of sheeps also by one
+           (le, ":num_sheep", 20),
+           (val_add, ":num_sheep", 1),
+         (try_end),		
+       (try_end),
+
+       (party_set_slot, ":village_no", slot_center_head_cattle, ":num_cattle"),
+       (party_set_slot, ":village_no", slot_center_head_sheep, ":num_sheep"),	  	  	  
+     (try_end),
+    ]),
+This code controls how each village's livestock population changes over time. There are a number of things you can do with this code. For example, the "24 * 7" near the top is the number of hours between changes occurring. The default means that the population changes every 7 days. You can also play around with the numbers to adjust probabilities and change.
+Personally, the only change I make is to remove this block to remove the 1% chance of the entire livestock population dying off:
+	     (eq, ":random_no", 0),#1% chance of epidemic - should happen once every two years
+		 (val_min, ":num_cattle", 10),
+       (else_try),
+
+Source: http://forums.taleworlds.com/index.php/topic,46239.msg1205323.html#msg1205323

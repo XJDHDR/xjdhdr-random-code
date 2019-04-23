@@ -1,0 +1,16 @@
+- Spawn extra caravans & based on owned land
+- Don't block caravan spawns in player kingdom
+- Set faction of caravan guards.
+- Option to back out of "Assess Prices" menu.
+- Remove chance of permanent stat damage
+- Change your kingdom's name from "<faction> Rebels" to "<Player name>'s Kingdom"
+- Change your and claimant faction's colour
+- Adjust cost and relationship you can get with lady gifts
+- Display relationship with lord as a number in character menu. (need to check this)
+- Alter the chance of lords escaping after being defeated in battle.
+- Allow fighting parties you have positive relation with.
+- Modify number of reinforcement waves.
+- Change amount and frequency of school bonus.
+- Change delay before offering same quest again.
+- Modify the way village cattle population changes.
+- Allow access to inventory and party menus in siege menu.

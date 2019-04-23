@@ -1,0 +1,50 @@
+module_mission_templates.py:
+Search for the following line (line 1117 for me):
+    [(lt, "$defender_reinforcement_stage", 7),
+The number indicates the number of waves defenders get during a siege.
+
+Search for the following line (line 1157 for me):
+    (lt,"$attacker_reinforcement_stage",5),
+The number indicates the number of waves attackers get during a siege.
+
+Search for the following line (line 2798 for me):
+    (assign, "$g_defender_reinforcement_limit", 2),
+The number indicates the number of waves defenders get during a regular battle.
+
+Search for the following line (line 2845 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during a regular battle.
+
+Search for the following line (line 3000 for me):
+    (1, 0, 5, [(lt,"$defender_reinforcement_stage",2),
+The number indicates the number of waves defenders get during a village raid battle.
+
+Search for the following line (line 3006 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during a village raid battle.
+
+Search for the following line (line 14836 for me):
+    (assign, "$g_defender_reinforcement_limit", 2),
+The number indicates the number of waves defenders get during a mounted wagon battle.
+
+Search for the following line (line 14883 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during a mounted wagon battle.
+
+Search for the following line (line 15061 for me):
+    (assign, "$g_defender_reinforcement_limit", 2),
+The number indicates the number of waves defenders get during a dismounted wagon battle.
+
+Search for the following line (line 14883 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during a dismounted wagon battle.
+
+Search for the following line (line 15711 for me):
+    (assign, "$g_defender_reinforcement_limit", 2),
+The number indicates the number of waves defenders get during the Chenstohova battle.
+
+Search for the following line (line 15758 for me):
+    (1, 0, 5, [(lt,"$attacker_reinforcement_stage",2),
+The number indicates the number of waves attackers get during the Chenstohova battle.
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1230011.html#msg1230011

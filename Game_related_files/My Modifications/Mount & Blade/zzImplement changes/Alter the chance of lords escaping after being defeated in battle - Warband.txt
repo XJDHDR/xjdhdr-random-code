@@ -1,0 +1,6 @@
+module_constants.py:
+Look for the following line (line 1349 for me):
+    hero_escape_after_defeat_chance = 70
+The number at the end is the percent chance that the lord will escape. Set it to an integer between 0 and 100.
+
+Source: http://forums.taleworlds.com/index.php/topic,37023.msg958292.html#msg958292

@@ -1,0 +1,8 @@
+module_game_menus.py:
+Add the following to the "town_trade_assessment_begin" menu block after the "continue" block (I inserted mine on line 8783):
+      ("go_back_dot",[],"Go back.",
+       [
+           (jump_to_menu,"mnu_town_trade"),
+        ]),
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1270211.html#msg1270211

@@ -1,0 +1,28 @@
+module_game_menus.py:
+Find the following block of code (lines 3043 - 3056 for me):
+          (try_begin),
+            (neq, "$g_player_surrenders", 1),
+            (store_random_in_range, ":random_no", 0, 100),
+            (ge, ":random_no", "$g_player_luck"),
+            (jump_to_menu, "mnu_permanent_damage"),
+          (else_try),
+            (try_begin),
+              (eq, "$g_next_menu", -1),
+              (leave_encounter),
+              (change_screen_return),
+            (else_try),
+              (jump_to_menu, "$g_next_menu"),
+            (try_end),
+          (try_end),
+and change it to say:
+          (try_begin),
+            (try_begin),
+              (eq, "$g_next_menu", -1),
+              (leave_encounter),
+              (change_screen_return),
+            (else_try),
+              (jump_to_menu, "$g_next_menu"),
+            (try_end),
+          (try_end),
+
+Source: http://forums.taleworlds.com/index.php/topic,47787.msg1237281.html#msg1237281

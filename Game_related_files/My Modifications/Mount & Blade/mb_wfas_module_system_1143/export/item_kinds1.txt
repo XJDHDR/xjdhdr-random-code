@@ -1,0 +1,3782 @@
+itemsfile version 3
+922
+ itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
+0
+
+ itm_tutorial_spear Spear Spear 1  spear 0  138674180 13229324106727680 0 8202 4.500000 100 0 0 0 0 0 80 0 158 0 275 0
+ 0
+0
+
+ itm_tutorial_club Club Club 1  club 0  4587522 9223388529554358286 0 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
+ 0
+0
+
+ itm_tutorial_battle_axe Battle_Axe Battle_Axe 1  battle_ax 0  73662467 9223635923965575392 0 262164 5.000000 100 0 0 0 0 27648 88 0 108 0 256 27
+ 0
+0
+
+ itm_tutorial_arrows Arrows Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 20 256 0
+ 0
+0
+
+ itm_tutorial_bolts Bullets Bullets 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 90 0 0 0 0 0 0 0 55 18 256 0
+ 0
+0
+
+ itm_tutorial_short_bow Short_Bow Short_Bow 2  short_bow 0  short_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.000000 100 0 0 0 0 0 98 49 0 0 268 0
+ 0
+0
+
+ itm_tutorial_crossbow Crossbow Crossbow 1  crossbow 0  7340041 5637160960 0 131082 3.000000 100 0 0 0 0 0 42 68 0 1 288 0
+ 0
+0
+
+ itm_tutorial_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046511112 3.500000 100 0 0 0 0 0 102 25 0 14 16 0
+ 0
+0
+
+ itm_tutorial_saddle_horse Saddle_Horse Saddle_Horse 1  sedlo_konik_b 0  1 0 0 41876193280 0.000000 90 0 3 0 0 0 38 40 0 0 8 0
+ 0
+0
+
+ itm_tutorial_shield Kite_Shield Kite_Shield 1  shield_kite_a 0  262151 4831838208 118 167772194 2.500000 100 0 1 0 0 480 82 0 150 0 0 0
+ 0
+0
+
+ itm_tutorial_staff_no_attack Staff Staff 1  wooden_staff 0  138805252 4222129214062592 9 0 3.500000 100 0 0 0 0 0 120 0 115 0 512 512
+ 0
+0
+
+ itm_tutorial_staff Staff Staff 1  wooden_staff 0  138805252 4222129415393024 9 0 3.500000 100 0 0 0 0 16384 120 0 115 0 528 528
+ 0
+0
+
+ itm_tutorial_sword Sword Sword 2  long_sword 0  scab_longsw_a 3458764513820540928  4194306 9223388564182532111 0 24596 1.500000 100 0 0 0 0 18432 100 0 102 0 271 18
+ 0
+0
+
+ itm_tutorial_axe Axe Axe 1  iron_ax 0  73662467 9223635923965575392 0 262164 4.000000 100 0 0 0 0 19456 91 0 108 0 256 19
+ 0
+0
+
+ itm_tutorial_dagger Dagger Dagger 1  practice_dagger 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 40 0 522 528
+ 0
+0
+
+ itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 40.000000 100 30 0 0 0 0 0 0 0 40 0 0
+ 0
+0
+
+ itm_practice_sword Practice_Sword Practice_Sword 1  practice_sword 0  12976130 9223388529554358287 3 0 1.500000 100 0 0 0 0 22528 103 0 90 0 532 534
+ 0
+0
+
+ itm_heavy_practice_sword Heavy_Practice_Sword Heavy_Practice_Sword 1  heavy_practicesword 0  6684675 9223635919737716976 21 0 6.250000 100 0 0 0 0 30720 94 0 128 0 536 542
+ 0
+0
+
+ itm_practice_dagger Practice_Dagger Practice_Dagger 1  practice_dagger 0  12730370 9223372037685248015 2 0 0.500000 100 0 0 0 0 16384 110 0 47 0 526 528
+ 0
+0
+
+ itm_practice_axe Practice_Axe Practice_Axe 1  hatchet 0  79953922 9223388530091229198 24 262164 2.000000 100 0 0 0 0 24576 95 0 75 0 256 536
+ 0
+0
+
+ itm_arena_axe Axe Axe 1  arena_axe 0  79953922 9223388530091229198 137 262164 1.500000 100 0 0 0 0 24576 100 0 69 0 256 536
+ 0
+0
+
+ itm_arena_sword Sword Sword 2  arena_sword_one_handed 0  sword_medieval_b_scabbard 3458764513820540928  4194306 9223388564182532111 243 155668 1.500000 100 0 0 0 0 22528 99 0 95 0 532 534
+ 0
+0
+
+ itm_arena_sword_two_handed Two_Handed_Sword Two_Handed_Sword 1  arena_sword_two_handed 0  6291459 9223635924301119728 670 155668 2.750000 100 0 0 0 0 30720 93 0 110 0 536 542
+ 0
+0
+
+ itm_arena_lance Lance Lance 1  arena_lance 0  2286157828 4222131026005760 90 8202 2.500000 100 0 0 0 0 20480 96 0 150 0 537 532
+ 0
+0
+
+ itm_practice_staff Practice_Staff Practice_Staff 1  wooden_staff 0  138805252 4222129415393024 9 0 2.500000 100 0 0 0 0 18432 103 0 118 0 530 530
+ 0
+0
+
+ itm_practice_lance Practice_Lance Practice_Lance 1  joust_of_peace 0  2286288900 201326848 18 0 4.250000 100 0 0 0 0 0 58 0 240 0 527 512
+ 0
+0
+
+ itm_practice_shield Practice_Shield Practice_Shield 1  shield_round_a 0  262151 5100273664 20 0 3.500000 100 0 1 0 0 200 100 0 50 0 0 0
+ 0
+0
+
+ itm_practice_bow Practice_Bow Practice_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.500000 100 0 0 0 0 0 90 40 0 0 533 0
+ 0
+0
+
+ itm_practice_crossbow Practice_Musket Practice_Musket 1  crossbow_a 0  6291465 5637160960 0 131082 3.000000 100 0 0 0 0 0 42 68 0 1 544 0
+ 0
+0
+
+ itm_practice_javelin Practice_Javelin Practice_Javelin 2  javelin 0  javelins_quiver_new 3458764513820540928  541065226 36507484160 0 4398046781448 5.000000 100 0 0 0 0 0 91 28 75 50 539 0
+ 0
+0
+
+ itm_practice_javelin_melee Practice_Javelin_melee Practice_Javelin_melee 1  javelin 0  138674180 4222124851990272 0 8202 1.000000 100 0 0 0 0 12288 91 0 75 0 526 524
+ 0
+0
+
+ itm_practice_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046781448 3.500000 100 0 0 0 0 0 102 25 0 10 528 0
+ 0
+0
+
+ itm_practice_throwing_daggers_100_amount Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046781448 3.500000 100 0 0 0 0 0 102 25 0 100 528 0
+ 0
+0
+
+ itm_practice_horse Bloodstock_Horse Bloodstock_Horse 1  sedlo_konik 0  1 0 37 0 0.000000 100 0 10 0 0 0 37 40 0 0 14 0
+ 0
+0
+
+ itm_practice_arrows Practice_Arrows Practice_Arrows 3  arena_arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.500000 100 0 0 0 0 0 0 0 95 80 0 0
+ 0
+0
+
+ itm_practice_bolts Practice_Bullets Practice_Bullets 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 100 0 0 0 0 0 0 0 55 49 0 0
+ 0
+0
+
+ itm_practice_arrows_10_amount Practice_Arrows Practice_Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.500000 100 0 0 0 0 0 0 0 95 10 0 0
+ 0
+0
+
+ itm_practice_arrows_100_amount Practice_Arrows Practice_Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.500000 100 0 0 0 0 0 0 0 95 100 0 0
+ 0
+0
+
+ itm_practice_bolts_9_amount Practice_Bullets Practice_Bullets 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 100 0 0 0 0 0 0 0 55 9 0 0
+ 0
+0
+
+ itm_practice_boots Practice_Boots Practice_Boots 1  boot_nomad_a 0  536874766 0 11 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_tourney_armor Red_Tourney_Armor Red_Tourney_Armor 1  tourn_armor_a 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_tourney_armor Blue_Tourney_Armor Blue_Tourney_Armor 1  mail_shirt 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_green_tourney_armor Green_Tourney_Armor Green_Tourney_Armor 1  leather_vest 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gold_tourney_armor Gold_Tourney_Armor Gold_Tourney_Armor 1  padded_armor 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_tourney_helmet Red_Tourney_Helmet Red_Tourney_Helmet 1  flattop_helmet 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_tourney_helmet Blue_Tourney_Helmet Blue_Tourney_Helmet 1  segmented_helm 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_green_tourney_helmet Green_Tourney_Helmet Green_Tourney_Helmet 1  hood_c 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gold_tourney_helmet Gold_Tourney_Helmet Gold_Tourney_Helmet 1  hood_a 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_shield_red Shield Shield 1  arena_shield_red 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_shield_blue Shield Shield 1  arena_shield_blue 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_shield_green Shield Shield 1  arena_shield_green 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_shield_yellow Shield Shield 1  arena_shield_yellow 0  262151 4831838208 42 167772194 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
+0
+
+ itm_arena_armor_white Arena_Armor_White Arena_Armor_White 1  arena_armorW_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_red Arena_Armor_Red Arena_Armor_Red 1  arena_armorR_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_blue Arena_Armor_Blue Arena_Armor_Blue 1  arena_armorB_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_green Arena_Armor_Green Arena_Armor_Green 1  arena_armorG_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_armor_yellow Arena_Armor_Yellow Arena_Armor_Yellow 1  arena_armorY_new 0  16777229 0 650 704643236 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_white Arena_Tunic_White_ Arena_Tunic_White_ 1  arena_tunicW_new 0  16777229 0 47 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_red Arena_Tunic_Red Arena_Tunic_Red 1  arena_tunicR_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_blue Arena_Tunic_Blue Arena_Tunic_Blue 1  arena_tunicB_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_green Arena_Tunic_Green Arena_Tunic_Green 1  arena_tunicG_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_tunic_yellow Arena_Tunic_Yellow Arena_Tunic_Yellow 1  arena_tunicY_new 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_red Arena_Helmet_Red Arena_Helmet_Red 1  arena_helmetR 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_blue Arena_Helmet_Blue Arena_Helmet_Blue 1  arena_helmetB 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_green Arena_Helmet_Green Arena_Helmet_Green 1  arena_helmetG 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_helmet_yellow Arena_Helmet_Yellow Arena_Helmet_Yellow 1  arena_helmetY 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_white Steppe_Helmet_White Steppe_Helmet_White 1  steppe_helmetW 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_red Steppe_Helmet_Red Steppe_Helmet_Red 1  steppe_helmetR 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_blue Steppe_Helmet_Blue Steppe_Helmet_Blue 1  steppe_helmetB 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_green Steppe_Helmet_Green Steppe_Helmet_Green 1  steppe_helmetG 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steppe_helmet_yellow Steppe_Helmet_Yellow Steppe_Helmet_Yellow 1  steppe_helmetY 0  1073741836 0 187 704643238 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_white Tourney_Helm_White Tourney_Helm_White 1  tourney_helmR 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_red Tourney_Helm_Red Tourney_Helm_Red 1  tourney_helmR 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_blue Tourney_Helm_Blue Tourney_Helm_Blue 1  tourney_helmB 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_green Tourney_Helm_Green Tourney_Helm_Green 1  tourney_helmG 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tourney_helm_yellow Tourney_Helm_Yellow Tourney_Helm_Yellow 1  tourney_helmY 0  2147483660 0 760 704643238 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_turban_red Arena_Turban Arena_Turban 1  tuareg_open 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_turban_blue Arena_Turban Arena_Turban 1  tuareg_open 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_turban_green Arena_Turban Arena_Turban 1  tuareg_open 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_arena_turban_yellow Arena_Turban Arena_Turban 1  tuareg_open 0  1073741836 0 187 704643238 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_tactics De_Re_Militari,_Vegetius De_Re_Militari,_Vegetius 1  book_a 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_persuasion Rhetoric_of_Philipp_Melanchthon Rhetoric_of_Philipp_Melanchthon 1  book_b 0  20 0 5000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_leadership Maxims_of_State,_Armand_Jean_du_Plessis_de_Richelieu Maxims_of_State,_Armand_Jean_du_Plessis_de_Richelieu 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_intelligence A_Grammatical_Outline_of_the_Russian_Language,_Juraj_Krizanic A_Grammatical_Outline_of_the_Russian_Language,_Juraj_Krizanic 1  book_e 0  20 0 2900 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_trade A_Discourse_of_Trade_from_England_unto_the_East_Indies,_pamphlet_by_Thomas_Mun_ A_Discourse_of_Trade_from_England_unto_the_East_Indies,_pamphlet_by_Thomas_Mun_ 1  book_f 0  20 0 3100 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_weapon_mastery On_the_Art_of_Fighting_with_Swords,_Antonio_Lovino On_the_Art_of_Fighting_with_Swords,_Antonio_Lovino 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_engineering Geometry,_Rene_Descartes Geometry,_Rene_Descartes 1  book_open 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_wound_treatment_reference Healing,_Adam_Olearius Healing,_Adam_Olearius 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_training_reference Art_of_War,_Niccolo_Machiavelli Art_of_War,_Niccolo_Machiavelli 1  book_open 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_book_surgery_reference On_Surgery_and_Instruments,_Abu_al-Kasim On_Surgery_and_Instruments,_Abu_al-Kasim 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_spice Spice Spice 1  spice_sack 0  33619979 0 880 0 40.000000 25 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_salt Salt Salt 1  salt_sack 0  65547 0 255 0 50.000000 120 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oil Oil Oil 1  oil 0  33619979 0 450 0 50.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_pottery Pottery Pottery 1  jug 0  65547 0 100 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_flax Flax_Bundle Flax_Bundle 1  raw_flax 0  65547 0 150 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_linen Linen Linen 1  linen 0  65547 0 250 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wool Wool Wool 1  wool_sack 0  65547 0 130 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wool_cloth Wool_Cloth Wool_Cloth 1  linen 0  65547 0 250 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_silk Raw_Silk Raw_Silk 1  linen 0  65547 0 600 0 30.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_dyes Dyes Dyes 1  dyes 0  65547 0 200 0 10.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_velvet Velvet Velvet 1  velvet 0  65547 0 1025 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_iron Iron Iron 1  iron 0  65547 0 264 0 60.000000 60 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tools Tools Tools 1  iron_hammer 0  65547 0 410 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_leather Hides Hides 1  leatherwork_inventory 0  65547 0 120 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leatherwork Leatherwork_ Leatherwork_ 1  leatherwork_frame 0  65547 0 220 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_raw_date_fruit Date_Fruit Date_Fruit 1  date_inventory 0  34144267 0 120 0 40.000000 100 10 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_furs Furs Furs 1  fur_pack 0  65547 0 391 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oim_powder Powder Powder 1  bochka 0  65547 0 400 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oim_alcohol Vodka Vodka 1  butil 0  65547 0 350 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oim_penka Hemp Hemp 1  motuzka 0  65547 0 125 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oim_tutun Shag Shag 1  box_a 0  65547 0 400 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wine Wine Wine 1  amphora_slim 0  33619979 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_ale Beer Beer 1  ale_barrel 0  33619979 0 120 0 30.000000 70 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_smoked_fish Smoked_Fish Smoked_Fish 1  smoked_fish 0  34144267 0 65 0 15.000000 110 50 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_cheese Cheese Cheese 1  cheese_b 0  34144267 0 75 0 6.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_honey Honey Honey 1  honey_pot 0  34144267 0 220 0 5.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_sausages Sausages Sausages 1  sausages 0  34144267 0 85 0 10.000000 110 40 0 0 0 0 0 0 0 40 0 0
+ 0
+0
+
+ itm_cabbages Cabbages Cabbages 1  cabbage 0  34144267 0 30 0 15.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_dried_meat Dried_Meat Dried_Meat 1  smoked_meat 0  34144267 0 85 0 15.000000 100 70 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_apples Apples Apples 1  apple_basket 0  34144267 0 44 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_raw_grapes Grapes Grapes 1  grapes_inventory 0  33619979 0 75 0 40.000000 90 10 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_raw_olives Olives Olives 1  olive_inventory 0  33619979 0 100 0 40.000000 90 10 0 0 0 0 0 0 0 10 0 0
+ 0
+0
+
+ itm_grain Wheat Wheat 1  wheat_sack 0  33619979 0 30 0 30.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_flour Flour Flour 1  salt_sack 0  33619979 0 85 0 50.000000 100 45 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_cattle_meat Beef Beef 1  raw_meat 0  34144267 0 80 0 20.000000 100 80 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_bread Bread Bread 1  bread_a 0  34144267 0 50 0 30.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_chicken Chicken Chicken 1  chicken 0  34144267 0 95 0 10.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_pork Pork Pork 1  pork 0  34144267 0 75 0 15.000000 100 70 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_butter Butter Butter 1  butter_pot 0  34144267 0 150 0 6.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
+0
+
+ itm_siege_supply Supplies Supplies 1  ale_barrel 0  11 0 96 0 40.000000 70 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_quest_wine Wine Wine 1  amphora_slim 0  11 0 46 0 40.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_quest_ale Beer Beer 1  ale_barrel 0  11 0 31 0 40.000000 70 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_tutorial_sword Sword Sword 2  long_sword 0  scab_longsw_a 3458764513820540928  4194306 9223388564182532111 0 24596 1.500000 100 0 0 0 0 18432 100 0 102 0 271 18
+ 0
+0
+
+ itm_tutorial_axe Axe Axe 1  iron_ax 0  73662467 9223635923965575392 0 262164 4.000000 100 0 0 0 0 19456 91 0 108 0 256 19
+ 0
+0
+
+ itm_tutorial_spear Spear Spear 1  spear 0  138674180 13229324106727680 0 8202 4.500000 100 0 0 0 0 0 80 0 158 0 275 0
+ 0
+0
+
+ itm_tutorial_club Club Club 1  club 0  4587522 9223388529554358286 0 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
+ 0
+0
+
+ itm_tutorial_battle_axe Battle_Axe Battle_Axe 1  battle_ax 0  73662467 9223635923965575392 0 262164 5.000000 100 0 0 0 0 27648 88 0 108 0 256 27
+ 0
+0
+
+ itm_tutorial_arrows Arrows Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 20 256 0
+ 0
+0
+
+ itm_tutorial_bolts Bolts Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 90 0 0 0 0 0 0 0 63 18 256 0
+ 0
+0
+
+ itm_tutorial_short_bow Short_Bow Short_Bow 2  short_bow 0  short_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.000000 100 0 0 0 0 0 98 49 0 0 268 0
+ 0
+0
+
+ itm_tutorial_crossbow Crossbow Crossbow 1  crossbow_a 0  7340041 5637160960 0 131082 3.000000 100 0 0 0 0 0 42 68 0 1 288 0
+ 0
+0
+
+ itm_tutorial_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046511112 3.500000 100 0 0 0 0 0 102 25 0 14 16 0
+ 0
+0
+
+ itm_tutorial_saddle_horse Saddle_Horse Saddle_Horse 1  sedlo_konik 0  1 0 0 41876193280 0.000000 90 0 3 0 0 0 38 40 0 0 8 0
+ 0
+0
+
+ itm_tutorial_shield Kite_Shield Kite_Shield 1  shield_kite_a 0  262151 4831838208 118 167772194 2.500000 100 0 1 0 0 480 82 0 150 0 0 0
+ 0
+0
+
+ itm_tutorial_staff_no_attack Staff Staff 1  wooden_staff 0  138805252 4222129214062592 9 0 3.500000 100 0 0 0 0 0 120 0 115 0 512 512
+ 0
+0
+
+ itm_tutorial_staff Staff Staff 1  wooden_staff 0  138805252 4222129415393024 9 0 3.500000 100 0 0 0 0 16384 120 0 115 0 528 528
+ 0
+0
+
+ itm_sumpter_horse Sumpter_Horse Sumpter_Horse 1  selo_konik 0  65537 0 300 41876193280 0.000000 100 0 6 0 0 100 38 35 0 0 7 0
+ 0
+0
+
+ itm_saddle_horse Saddle_Horse Saddle_Horse 1  sedlo_konik 0  65537 0 900 41876193280 0.000000 95 0 6 0 1 100 40 40 0 0 7 0
+ 0
+0
+
+ itm_saddle_horse_b Saddle_Horse Saddle_Horse 1  sedlo_konik_b 0  65537 0 1200 41876193280 0.000000 90 0 7 0 2 110 45 40 0 0 7 0
+ 0
+0
+
+ itm_saddle_horse_c Saddle_Horse Saddle_Horse 1  sedlo_konik_a 0  65537 0 1400 41876193280 0.000000 80 0 6 0 2 110 40 44 0 0 7 0
+ 0
+0
+
+ itm_steppe_horse Steppe_Horse Steppe_Horse 1  step_konik 0  65537 0 2600 41876193280 0.000000 60 0 7 0 3 100 45 47 0 0 7 0
+ 2
+ 16 18
+0
+
+ itm_steppe_horse_b Steppe_Horse Steppe_Horse 1  step_konik_b 0  65537 0 3000 41876193280 0.000000 60 0 7 0 3 100 52 44 0 0 7 0
+ 2
+ 16 18
+0
+
+ itm_courser Courser Courser 1  corser_oim 0  65537 0 3500 41876193280 0.000000 50 0 8 0 4 120 48 50 0 0 9 0
+ 0
+0
+
+ itm_hunter Hunter Hunter 1  hunter_oim 0  65537 0 2600 41876193280 0.000000 60 0 10 0 4 140 43 42 0 0 12 0
+ 0
+0
+
+ itm_rich_horse Thoroughbred_Horse Thoroughbred_Horse 1  unik_konik 0  65537 0 4250 41876193280 0.000000 30 0 10 0 5 150 52 48 0 0 22 0
+ 0
+0
+
+ itm_rich_horse_b Thoroughbred_Horse Thoroughbred_Horse 1  rich_konik 0  65537 0 3750 41876193280 0.000000 35 0 10 0 5 150 47 46 0 0 16 0
+ 0
+0
+
+ itm_warhorse Warhorse Warhorse 1  hunting_horse 0  1 0 1224 110595670016 0.000000 50 0 40 0 4 165 41 39 110 0 28 0
+ 0
+0
+
+ itm_charger Charger Charger 1  hunting_horse 0  1 0 1811 110595670016 0.000000 40 0 58 0 4 165 44 39 112 0 32 0
+ 2
+ 14 18
+0
+
+ itm_arrows Arrows Arrows 4  strela_shiroka 0  flying_missile 2305843009213693952  arrows_a_kolchan 3458764513820540928  arrows_a_kolchan_I 1152921504606846976  65541 1610612736 100 4398046511112 2.000000 100 0 0 0 0 0 0 0 95 27 256 0
+ 0
+0
+
+ itm_khergit_arrows Tatar_Arrows Tatar_Arrows 4  strela_list 0  flying_missile 2305843009213693952  arrows_b_kolchan 3458764513820540928  arrows_b_kolchan_I 1152921504606846976  65541 1610612736 300 4398046511112 2.250000 50 0 0 0 0 0 0 0 95 27 257 0
+ 0
+0
+
+ itm_east_arrows Eastern_Arrows Eastern_Arrows 4  strela_list 0  flying_missile 2305843009213693952  kalmyk_kolchan_I 3458764513820540928  kalmyk_kolchan 1152921504606846976  65541 1610612736 500 4398046511112 2.500000 30 0 0 0 0 0 0 0 95 30 257 0
+ 0
+0
+
+ itm_barbed_arrows Barbed_Arrows Barbed_Arrows 4  strela_zazubrena 0  flying_missile 2305843009213693952  arrows_c_kolchan 3458764513820540928  arrows_c_kolchan_I 1152921504606846976  65541 1610612736 800 4398046511112 2.500000 30 0 0 0 0 0 0 0 95 27 258 0
+ 0
+0
+
+ itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 4  strela_shilo 0  flying_missile 2305843009213693952  arrows_d_kolchan 3458764513820540928  arrows_d_kolchan_I 1152921504606846976  65541 1610612736 1200 4398046511112 2.750000 10 0 0 0 0 0 0 0 95 27 259 0
+ 0
+0
+
+ itm_bolts Bullets Bullets 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_1 1152921504606846976  16875526 0 400 4398046511112 2.500000 70 0 0 0 0 0 0 0 6 15 260 0
+ 0
+1
+-52.000000  1 1 1 936748722493063884 
+
+ itm_steel_bolts Heavy_bullets Heavy_bullets 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_2 1152921504606846976  16842758 0 1000 4398046511112 3.000000 30 0 0 0 0 0 0 0 7 14 261 0
+ 0
+1
+-52.000000  1 1 1 936748722493063884 
+
+ itm_cartridges Light_bullets Light_bullets 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_4 1152921504606846976  16842758 0 150 4398046511112 2.000000 100 0 0 0 0 0 0 0 5 16 259 0
+ 0
+1
+-52.000000  1 1 1 936748722493063884 
+
+ itm_pilgrim_disguise Pilgrim_Disguise Pilgrim_Disguise 1  pilgrim_outfit 0  553648141 0 25 123731968 2.000000 100 0 19 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pilgrim_hood Pilgrim_Hood Pilgrim_Hood 1  pilgrim_hood 0  536870924 0 35 123731968 1.250000 100 14 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_cavalry_gloves Cavalry_Gloves Cavalry_Gloves 1  kava_L 0  65551 0 300 123731968 0.250000 50 0 3 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_infantry_gloves Infantry_Gloves Infantry_Gloves 1  black_L 0  65551 0 100 123731968 0.250000 80 0 1 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_armor_gauntlets Armor_Gauntlets Armor_Gauntlets 1  lat_simple_L 0  65551 0 2000 704643238 1.000000 40 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_gloves Kojanie_perchatki Kojanie_perchatki 1  brown_L 0  65551 0 200 123731968 0.250000 60 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_reytar_gauntlets Reiter_Gauntlets Reiter_Gauntlets 1  lat_reytar_L 0  65551 0 2500 704643238 1.250000 30 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_black_reytar_gauntlets Armor_Gauntlets Armor_Gauntlets 1  lat_black_L 0  65551 0 2500 704643238 1.250000 20 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wrapping_boots Wrapping_Boots Wrapping_Boots 1  wrapping_boots_a 0  536874766 0 3 123731968 1.000000 100 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woolen_hose Woolen_Hose Woolen_Hose 1  woolen_hose_a 0  536874766 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_blue_hose Blue_Hose Blue_Hose 1  blue_hose_a 0  536874766 0 11 123731968 1.000000 100 0 0 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hide_boots Hide_Boots Hide_Boots 1  hide_boots_a 0  536874766 0 34 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_boots Nomad_Boots Nomad_Boots 1  nomad_boots_a 0  536874766 0 116 123731968 1.250000 100 0 0 14 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_boots Leather_Boots Leather_Boots 1  leather_boots_a 0  536874766 0 174 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_selo_boots Village_Boots Village_Boots 1  selo_boots 0  536940302 0 100 123731968 1.000000 100 0 0 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_old_cavalry_boots Old_Cavalry_Boots Old_Cavalry_Boots 1  sapogi_kavaleria_black 0  536940302 0 550 123731968 2.000000 70 0 0 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_infantry_boots Infantry_Boots Infantry_Boots 1  infantry_boots_a 0  536940302 0 490 123731968 3.000000 70 0 0 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_cavalry_boots Cavalry_Boots Cavalry_Boots 1  sapogi_kavaleria_red 0  536940302 0 660 123731968 2.000000 60 0 0 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_cavalry_boots Good_Cavalry_Boots Good_Cavalry_Boots 1  sapogi_kavaleria_yellow 0  536940302 0 770 123731968 2.000000 50 0 0 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_boots Cossack_Boots Cossack_Boots 1  sapogi_pehota_red 0  536940302 0 530 123731968 2.000000 70 0 0 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskowit_postoli Bast_Shoes Bast_Shoes 1  mosk_postoli_a 0  536940302 0 50 123731968 1.000000 100 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskowit_postoli_b Bast_Shoes Bast_Shoes 1  mosk_postoli_b 0  536940302 0 50 123731968 1.000000 100 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sapogi Old_Boots Old_Boots 1  sapogi_pehota_black 0  536940302 0 400 123731968 4.000000 80 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_sapogi Good_Boots Good_Boots 1  sapogi_pehota_yellow 0  536940302 0 600 123731968 4.000000 60 0 0 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_botinki Boots_with_Stockings Boots_with_Stockings 1  botinki 0  536940302 0 60 123731968 1.000000 80 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_old_cavalry_botforts Old_Jackboots Old_Jackboots 1  botforts_black 0  536940302 0 800 123731968 3.000000 70 0 0 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_cavalry_botforts Good_Jackboots Good_Jackboots 1  botforts_yellow 0  536940302 0 1000 123731968 3.000000 40 0 0 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_cavalry_botforts Jackboots Jackboots 1  botforts_brown 0  536940302 0 900 123731968 3.000000 60 0 0 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_pehot_tufli Shoes_with_Stockings Shoes_with_Stockings 1  tufli 0  536940302 0 75 123731968 1.000000 80 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_janissary_tapki Janissary_Shoes Janissary_Shoes 1  janissary_tapki 0  536874766 0 100 123731968 1.000000 40 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kalmyk_boots Eastern_Boots Eastern_Boots 1  kalmyk_tapki 0  536940302 0 550 123731968 1.500000 40 0 0 5 0 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_courtly_outfit Courtly_Outfit Courtly_Outfit 1  nobleman_outf 0  553648141 0 348 123731968 4.000000 100 0 14 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nobleman_outfit Nobleman_Outfit Nobleman_Outfit 1  nobleman_outfit_b_new 0  553648141 0 348 123731968 4.000000 100 0 15 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_jacket Leather_Jacket Leather_Jacket 1  leather_jacket 0  536870925 0 50 123731968 3.000000 100 0 15 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rawhide_coat Rawhide_Coat Rawhide_Coat 1  coat_of_plates_b 0  553648141 0 12 123731968 5.000000 100 0 10 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_woolen_dress Woolen_Dress Woolen_Dress 1  woolen_dress 0  553648141 0 10 123731968 1.750000 100 0 8 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_linen_tunic Linen_Tunic Linen_Tunic 1  shirt_a 0  553648141 0 6 123731968 1.000000 100 0 6 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_shirt Red_Shirt Red_Shirt 1  rich_tunic_a 0  553648141 0 10 123731968 1.000000 100 0 7 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_tunic Red_Tunic Red_Tunic 1  arena_tunicR_new 0  553648141 0 10 123731968 1.000000 100 0 7 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_robe Robe Robe 1  robe 0  553648141 0 31 123731968 1.500000 100 0 8 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_coarse_tunic Coarse_Tunic Coarse_Tunic 1  coarse_tunic_a 0  553648141 0 47 123731968 2.000000 100 0 11 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_apron Leather_Apron Leather_Apron 1  leather_apron 0  553648141 0 61 123731968 3.000000 100 0 12 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tabard Tabard Tabard 1  tabard_b 0  553648141 0 107 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_red_gambeson Red_Gambeson Red_Gambeson 1  red_gambeson_a 0  553648141 0 275 123731968 5.000000 100 0 21 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_padded_cloth Padded_Cloth Padded_Cloth 1  padded_cloth_a 0  16777229 0 297 123731968 11.000000 100 0 22 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_jerkin Leather_Jerkin Leather_Jerkin 1  ragged_leather_jerkin 0  553648141 0 321 123731968 6.000000 100 0 23 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nomad_vest Nomad_Vest Nomad_Vest 1  nomad_vest_a 0  553648141 0 360 123731968 7.000000 50 0 22 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tribal_warrior_outfit Tribal_Warrior_Outfit Tribal_Warrior_Outfit 1  tribal_warrior_outfit_a_new 0  553648141 0 520 123731968 14.000000 100 0 30 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_svitka_a Kuntush Kuntush 1  Pol_svitka_pure_a 0  553713677 0 50 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_svitka_b Kuntush Kuntush 1  Pol_svitka_pure_b 0  553713677 0 50 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dobrotna_svitka_a Good_Kuntush Good_Kuntush 1  Pol_svitka_rich_a 0  553713677 0 100 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dobrotna_svitka_b Good_Kuntush Good_Kuntush 1  Pol_svitka_rich_b 0  553713677 0 100 123731968 1.500000 80 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dobrotna_svitka_c Good_Kuntush Good_Kuntush 1  Pol_svitka_rich_c 0  553713677 0 100 123731968 1.500000 80 0 4 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_pikiner_uniform Hajduk_Uniform Hajduk_Uniform 1  poland_shinel 0  16842765 0 130 123731968 1.500000 100 0 4 2 0 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_poland_musketer_uniform Hajduk_Uniform Hajduk_Uniform 1  poland_musket_shinel 0  16842765 0 130 123731968 1.500000 100 0 4 2 0 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_poland_dragoon_uniform Polish_Dragoon_Uniform Polish_Dragoon_Uniform 1  poland_dragoon 0  16842765 0 550 123731968 1.500000 90 0 14 8 0 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_ukraine_svitka_a Broadcloth_Dress Broadcloth_Dress 1  ukr_pure_jupan_1 0  553713677 0 50 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ukraine_svitka_b Broadcloth_Dress Broadcloth_Dress 1  ukr_pure_jupan_2 0  553713677 0 50 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_civil_jupan_a Cossack_Zupan Cossack_Zupan 1  ukr_civil_jupan_1 0  553713677 0 170 123731968 1.500000 70 0 6 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_civil_jupan_b Cossack_Zupan Cossack_Zupan 1  ukr_civil_jupan_2 0  553713677 0 170 123731968 1.500000 70 0 6 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prostoy_jupan Simple_Zupan Simple_Zupan 1  ukr_prostoy_jupan_1 0  553713677 0 60 123731968 1.500000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prostoy_jupan_b Simple_Zupan Simple_Zupan 1  ukr_prostoy_jupan_2 0  553713677 0 60 123731968 1.500000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_jupan Cossack_Zupan Cossack_Zupan 1  ukr_jupan_siniy 0  553713677 0 200 123731968 1.500000 100 0 8 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_jupan_b Cossack_Zupan Cossack_Zupan 1  ukr_jupan_red 0  553713677 0 200 123731968 1.500000 100 0 8 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_streletzkiy_mundir Marksman_Caftan Marksman_Caftan 1  mosk_streletz_pure 0  16842765 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_pure_streletzkiy_mundir_spear Marksman_Caftan Marksman_Caftan 1  mosk_streletz_pure_spear 0  16842765 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_streletzkiy_mundir Marksman_Uniform Marksman_Uniform 1  mosk_streletz 0  16842765 0 350 123731968 1.500000 100 0 12 2 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_new_line_uniform New_Line_Uniform New_Line_Uniform 1  new_line_musketer 0  16842765 0 300 123731968 1.500000 100 0 12 2 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_streletzkiy_mundir_spear Marksman_Uniform Marksman_Uniform 1  mosk_streletz_spear 0  16842765 0 350 123731968 1.500000 100 0 12 2 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_new_line_uniform_spear New_Line_Uniform New_Line_Uniform 1  new_line_pikeman 0  16842765 0 350 123731968 1.500000 100 0 12 2 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_reestr_kozak_uniform Rank_Cossack_Uniform Rank_Cossack_Uniform 1  reestr_kozak 0  16842765 0 220 123731968 1.500000 100 0 8 4 0 0 0 0 0 0 0 0
+ 2
+ 14 18
+0
+
+ itm_poland_uniforma_german_line_musketeer German_Musketeer_Line_Uniform German_Musketeer_Line_Uniform 1  german_line_musketeer 0  16842765 0 400 123731968 1.500000 60 0 13 4 0 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_mosk_sermyaga Broadcloth Broadcloth 1  sermyaga 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mosk_armyak Caftan Caftan 1  armyak 0  553713677 0 50 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mosk_civil_a Civil_Dress Civil_Dress 1  mosk_civil1 0  553713677 0 200 123731968 1.500000 60 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mosk_civil_b Civil_Dress Civil_Dress 1  mosk_civil2 0  553713677 0 200 123731968 1.500000 60 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_odejda_sela Village_Dress Village_Dress 1  swed_selyanin 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_odejda_sela_b Village_Dress Village_Dress 1  swed_selyanin_b 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_swed_civil_a Civil_Dress Civil_Dress 1  swed_civil_1 0  553713677 0 200 123731968 1.500000 70 0 3 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_swed_civil_b Civil_Dress Civil_Dress 1  swed_civil_2 0  553713677 0 200 123731968 1.500000 70 0 3 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_halat_pure_a Robe Robe 1  simple_halat1 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_halat_pure_b Robe Robe 1  simple_halat2 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ttr_civil_a Civil_Dress Civil_Dress 1  ttr_civil_1 0  553713677 0 200 123731968 1.500000 70 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ttr_civil_b Civil_Dress Civil_Dress 1  ttr_civil_2 0  553713677 0 200 123731968 1.500000 70 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_yanichar_forma_a Janissary_Uniform Janissary_Uniform 1  janichar1 0  16777229 0 240 123731968 2.000000 80 0 8 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_yanichar_forma_b Janissary_Uniform Janissary_Uniform 1  janichar2 0  16777229 0 240 123731968 2.000000 80 0 8 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_merc_musket_uniforma_a Musketeer_Camisole Musketeer_Camisole 1  merc_musketeer_a 0  16842765 0 500 123731968 1.500000 100 0 16 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_merc_musket_uniforma_b Musketeer_Camisole Musketeer_Camisole 1  merc_musketeer_b 0  16842765 0 500 123731968 1.500000 100 0 16 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prostoy_jupan_c Simple_Zupan Simple_Zupan 1  ukr_prostoy_jupan_3 0  553713677 0 60 123731968 1.500000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ukraine_svitka_c Svitka Svitka 1  ukr_pure_jupan_3 0  553713677 0 50 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_jupan_c Cossack_Zupan Cossack_Zupan 1  ukr_jupan_brown 0  553713677 0 175 123731968 1.500000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_halat_pure_c Simple_Robe Simple_Robe 1  simple_halat3 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_svitka_c Kuntush Kuntush 1  Pol_svitka_pure_c 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_svitka_d Kuntush Kuntush 1  Pol_svitka_pure_d 0  553713677 0 60 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dobrotna_svitka_d Rich_Kuntush Rich_Kuntush 1  Pol_svitka_rich_d 0  553713677 0 120 123731968 1.500000 80 0 4 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_dobrotna_svitka_e Rich_Kuntush Rich_Kuntush 1  Pol_svitka_rich_e 0  553713677 0 120 123731968 1.500000 80 0 4 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_azap_forma Turkish_Attire Turkish_Attire 1  turk_azap 0  16777229 0 180 123731968 2.000000 80 0 3 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_scott_uniforma_musketeer Scottish_Musketeer_Camisole Scottish_Musketeer_Camisole 1  scotland_musketeer 0  16777229 0 400 123731968 1.500000 60 0 13 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_musket_uniforma Swedish_Musketeer_Uniform Swedish_Musketeer_Uniform 1  swed_musketeer 0  16842765 0 425 123731968 1.500000 100 0 14 2 0 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_evropa_dragoon_uniforma Swedish_Dragoon_Uniform Swedish_Dragoon_Uniform 1  swed_dragoon 0  16842765 0 600 123731968 1.500000 100 0 17 6 0 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_evropa_gvardia_uniforma Bodyguard_Camisole Bodyguard_Camisole 1  swed_leibguard 0  553713677 0 840 123731968 5.000000 70 0 20 4 0 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_tatar_steg_halat_a Quilted_Robe Quilted_Robe 1  ttr_stega_halat1 0  553713677 0 1120 123731968 3.500000 70 0 20 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_steg_halat_b Quilted_Robe Quilted_Robe 1  ttr_stega_halat2 0  553713677 0 1120 123731968 3.500000 70 0 20 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_halat_a Robe Robe 1  ttr_halat1 0  553713677 0 550 123731968 3.000000 80 0 14 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_halat_b Robe Robe 1  ttr_halat2 0  553713677 0 550 123731968 3.000000 80 0 14 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rinda_shuba Rynda_Caftan Rynda_Caftan 1  rinda 0  16777229 0 1260 123731968 1.500000 50 0 16 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_jupan_usileniy Leather-clad_Zupan Leather-clad_Zupan 1  ukr_jupan_usilenuy 0  16842765 0 1190 123731968 5.000000 80 0 23 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_serduk_jupan Serduk_Zupan Serduk_Zupan 1  ukr_serdyuk 0  16842765 0 2160 123731968 4.000000 60 0 24 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_tulup_a Tegilai Tegilai 1  tegilyay1 0  16842765 0 3960 123731968 6.000000 60 0 28 20 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_tulup_b Tegilai Tegilai 1  tegilyay2 0  16842765 0 3960 123731968 6.000000 60 0 30 15 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_tulup_c Tegilai Tegilai 1  tegilyay3 0  16842765 0 3960 123731968 6.000000 60 0 32 10 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tzar_odyag Tsar_Dress Tsar_Dress 1  mosk_tzar 0  553648141 0 20000 123731968 3.500000 10 0 35 15 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_cavalry_koja_kurtka Armor-clad_Zupan Armor-clad_Zupan 1  ukr_koj_kurtka 0  16842765 0 1890 123731968 6.000000 70 0 25 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_koja_kurtka_s_podbivom Armor-clad_Kuntush Armor-clad_Kuntush 1  pol_koja_usilenaya 0  16842765 0 2070 123731968 6.000000 80 0 26 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kolchuga_panzernika Chain_Armor Chain_Armor 1  polish_panzernik 0  16842765 0 4200 704643236 14.000000 60 0 33 10 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_jupan_na_kolchuge Chain_Mail_Zupan Chain_Mail_Zupan 1  ukr_kolcha_jupan 0  16842765 0 6750 704643236 15.000000 50 0 36 20 9 0 0 0 0 0 0 0
+ 1
+ 18
+0
+
+ itm_kolchuga Chain_Armor Chain_Armor 1  ukr_kolcha 0  16842765 0 4000 704643236 13.000000 60 0 30 10 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_reytar_armor Moscow_Reiter_Uniform Moscow_Reiter_Uniform 1  moskow_reytar 0  16842765 0 4440 704643238 10.000000 50 0 38 6 8 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_moskow_bahter_a Behterets Behterets 1  moskow_bahter 0  16842765 0 6900 704643236 17.000000 50 0 40 10 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_kolcha Chain_Armor Chain_Armor 1  ttr_kolcha 0  16842765 0 4200 704643236 14.000000 50 0 30 14 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_bahter_b Simple_Behterets Simple_Behterets 1  ttr_bahter_a 0  16842765 0 4500 704643236 13.000000 50 0 35 8 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_seymen_armor Chain_Armor Chain_Armor 1  ttr_seymen 0  16842765 0 3720 704643236 11.000000 70 0 26 18 8 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_mosk_bahter_b Behterets Behterets 1  mosk_bahter_simple 0  16842765 0 3840 704643236 10.000000 60 0 29 11 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_kuyak Kuyak Kuyak 1  mosk_kuyak 0  16842765 0 7350 704643236 19.000000 40 0 45 10 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kirasa Breastplate Breastplate 1  swed_kirasa 0  16842765 0 2520 704643238 8.000000 70 0 30 3 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kirasa_b Half-Cuirass Half-Cuirass 1  swed_kirasa_b 0  16842765 0 2430 704643238 7.500000 90 0 27 8 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kirasa_c Half-Cuirass Half-Cuirass 1  swed_kirasa_c 0  16842765 0 2430 704643238 7.500000 90 0 30 1 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kirasa_rich Handmade_Half-Cuirass Handmade_Half-Cuirass 1  swed_kirasa_major 0  16842765 0 3720 704643238 8.000000 50 0 32 1 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_simple_reytar_armor Cuirass_On_Leather_Coat Cuirass_On_Leather_Coat 1  swd_reytar_simple 0  16842765 0 6300 704643238 11.000000 50 0 42 4 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_boyar_uniform Boyar_Militia_Uniform Boyar_Militia_Uniform 1  boyar_puzo 0  16842765 0 9975 704643236 22.000000 20 0 50 10 12 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_evropa_pika_uniforma Swedish_Pikeman_Uniform Swedish_Pikeman_Uniform 1  swed_pikeman 0  16842765 0 9450 704643238 14.000000 40 0 37 20 9 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_merc_pika_uniforma_a Pikeman_Uniform Pikeman_Uniform 1  merc_pikeman_a 0  16842765 0 9450 704643238 14.000000 40 0 35 26 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_merc_pika_uniforma_b Pikeman_Uniform Pikeman_Uniform 1  merc_pikeman_b 0  16842765 0 9450 704643238 14.000000 40 0 33 29 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_bahter_a Behterets Behterets 1  ttr_mega-yushman 0  16842765 0 10150 704643236 18.000000 30 0 52 15 10 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_tatar_yushman Yushman Yushman 1  yushman 0  16842765 0 9625 704643236 18.000000 40 0 50 14 10 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_poland_gusar_panzer Winged_Hussar_Coat_of_Mail Winged_Hussar_Coat_of_Mail 1  pol_krilatiy_gusar 0  16842765 0 8950 704643238 15.000000 30 0 50 6 10 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_poland_gusar_panzer_bez_kril Hussar_Coat_of_Mail Hussar_Coat_of_Mail 1  pol_krilatiy_gusar_b 0  16842765 0 8950 704643238 14.000000 30 0 48 12 10 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_poland_uniforma_german_line German_Infantry_Line_Uniform German_Infantry_Line_Uniform 1  german_line_pikiner 0  16842765 0 9450 704643238 14.000000 40 0 34 28 9 0 0 0 0 0 0 0
+ 2
+ 14 17
+0
+
+ itm_scott_uniforma Scottish_Uniform Scottish_Uniform 1  scotland_pikeman 0  16777229 0 9450 704643238 14.000000 40 0 38 17 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_zertzalo Rich_Mirror_Armor Rich_Mirror_Armor 1  mosk_zertzalo 0  16842765 0 12675 704643236 24.000000 15 0 60 15 13 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_poland_gusar_yaguar Hussar_Mail_With_Skin Hussar_Mail_With_Skin 1  pol_husar_yaguar 0  16842765 0 11600 704643238 18.000000 15 0 58 15 12 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_kalmyk_puzo Eastern_Brigandine Eastern_Brigandine 1  kalmyk_tors 0  16842765 0 12480 704643236 23.000000 10 0 52 28 13 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_reytar_armor Reiter_Half-Armor Reiter_Half-Armor 1  reytar_puzo 0  16842765 0 14700 704643238 19.000000 20 0 60 15 12 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_dospeh Half-Armor Half-Armor 1  swed_swordmaster 0  16842765 0 12675 704643238 18.000000 20 0 58 10 12 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_black_dospeh Black_Armor Black_Armor 1  swd_blck_reytar 0  16842765 0 19000 704643238 20.000000 15 0 62 30 12 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_rich_baba_mosk_1 Female_Dress Female_Dress 1  mosk_rich_baba_1 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_mosk_2 Female_Dress Female_Dress 1  mosk_rich_baba_2 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_mosk_3 Female_Dress Female_Dress 1  mosk_rich_baba_3 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_mosk_1 Female_Dress Female_Dress 1  mosk_pure_baba_1 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_mosk_2 Female_Dress Female_Dress 1  mosk_pure_baba_2 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_ttr_1 Female_Dress Female_Dress 1  tatar_rich_baba_1 0  553648141 0 300 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_ttr_2 Female_Dress Female_Dress 1  tatar_rich_baba_2 0  553648141 0 300 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_ttr_1 Female_Dress Female_Dress 1  tatar_pure_baba_1 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_ttr_2 Female_Dress Female_Dress 1  tatar_pure_baba_2 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_pol_1 Female_Dress Female_Dress 1  RP_rich_baba_1 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_pol_2 Female_Dress Female_Dress 1  RP_rich_baba_2 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_pol_3 Female_Dress Female_Dress 1  RP_rich_baba_3 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_pol_4 Female_Dress Female_Dress 1  RP_rich_baba_4 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_pol_1 Female_Dress Female_Dress 1  RP_pure_baba_1 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_pol_2 Female_Dress Female_Dress 1  RP_pure_baba_2 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_pol_3 Female_Dress Female_Dress 1  RP_pure_baba_3 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_swd_1 Female_Dress Female_Dress 1  swed_rich_baba_1 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_swd_2 Female_Dress Female_Dress 1  swed_rich_baba_2 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_swd_3 Female_Dress Female_Dress 1  swed_rich_baba_3 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rich_baba_swd_4 Female_Dress Female_Dress 1  swed_rich_baba_4 0  553648141 0 200 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_swd_1 Female_Dress Female_Dress 1  swed_pure_baba_1 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pure_baba_swd_2 Female_Dress Female_Dress 1  swed_pure_baba_2 0  553648141 0 100 123731968 2.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_heraldic_mail_with_surcoat Heraldic_Mail_with_Surcoat Heraldic_Mail_with_Surcoat 1  heraldic_armor_new_a 0  16777229 0 3454 704643236 22.000000 100 0 49 17 7 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270485 1224979098644774912 1224979098644774913 
+
+ itm_heraldic_mail_with_tunic Heraldic_Mail Heraldic_Mail 1  heraldic_armor_new_b 0  16777229 0 3520 704643236 22.000000 100 0 50 16 7 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270486 1224979098644774912 1224979098644774913 
+
+ itm_heraldic_mail_with_tunic_b Heraldic_Mail Heraldic_Mail 1  heraldic_armor_new_c 0  16777229 0 3610 704643236 22.000000 100 0 50 16 7 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270487 1224979098644774912 1224979098644774913 
+
+ itm_heraldic_mail_with_tabard Heraldic_Mail_with_Tabard Heraldic_Mail_with_Tabard 1  heraldic_armor_new_d 0  16777229 0 3654 704643236 21.000000 100 0 51 15 7 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270488 1224979098644774912 1224979098644774913 
+
+ itm_woolen_hood Woolen_Hood Woolen_Hood 1  woolen_hood 0  536870924 0 4 123731968 1.000000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fur_hat Fur_Hat Fur_Hat 1  fur_hat_a_new 0  536870924 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_segmented_helmet Segmented_Helmet Segmented_Helmet 1  segmented_helm_new 0  12 0 174 704643238 1.250000 100 31 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_musket_shlapa Hat Hat 1  shlapa_blue_b 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_musket_shlapa_b Hat Hat 1  shlapa_blue_c 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_kava_shlapa Hat Hat 1  shlapa_black_a 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_kava_shlapa_b Hat Hat 1  shlapa_black_b 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_kava_shlapa_c Hat Hat 1  shlapa_black_c 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_shlapa Hat Hat 1  shlapa_brown_a 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_shlapa_b Hat Hat 1  shlapa_brown_b 0  536936460 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_army_hat_simple Polish_uniform_hat Polish_uniform_hat 1  pol_hat_simple 0  65548 0 40 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_beret_a Beret Beret 1  beret_a 0  536936460 0 40 123731968 0.500000 50 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_beret_b Beret Beret 1  beret_b 0  536936460 0 40 123731968 0.500000 50 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_beret_c Beret Beret 1  beret_c 0  536936460 0 40 123731968 0.500000 50 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_guard_shlapa Hat Hat 1  shlapa_blue_a 0  65548 0 60 123731968 0.750000 80 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_parik Wig Wig 1  parik_a 0  536870924 0 100 123731968 0.500000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_evropa_shapka Hat Hat 1  shwed_shapka 0  536936460 0 200 123731968 1.000000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_reestr_shapka Rank_Cossack_Cap Rank_Cossack_Cap 1  reestr_shapka 0  536936460 0 160 123731968 0.750000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_shapka Cap Cap 1  pol_hat_mehova 0  536936460 0 240 123731968 1.000000 100 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_army_hat_a Polish_uniform_hat Polish_uniform_hat 1  pol_hat_pero1 0  65548 0 120 123731968 0.750000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_army_hat_b Polish_uniform_hat Polish_uniform_hat 1  pol_hat_pero2 0  65548 0 120 123731968 0.750000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_mehova_shapka Fur_Cap Fur_Cap 1  pol_hat_mehova_pero 0  536936460 0 280 123731968 1.000000 90 7 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_mehova_shapka_s_perom Fur_Cap Fur_Cap 1  pol_hat_good1 0  536936460 0 320 123731968 1.000000 70 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_good_shapka Fur_Cap Fur_Cap 1  pol_hat_good2 0  536936460 0 320 123731968 1.000000 70 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_ukrine_prosta_shapka Village_Cap Village_Cap 1  ukr_prosta_shapka 0  536936460 0 280 123731968 1.250000 90 7 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_prosta_shapka Simple_Cossack_Cap Simple_Cossack_Cap 1  ukr_kozak_prosta_shapka_a 0  536936460 0 240 123731968 1.000000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_shapka Cossack_Cap Cossack_Cap 1  ukr_kozak_shapka_a 0  536936460 0 240 123731968 1.000000 90 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_shapka_b Cossack_Cap Cossack_Cap 1  ukr_kozak_shapka_b 0  536936460 0 240 123731968 1.000000 90 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_shapka_c Cossack_Cap Cossack_Cap 1  ukr_shapka_s_perom_a 0  536936460 0 250 123731968 1.000000 90 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozak_shapka_d Cossack_Cap Cossack_Cap 1  ukr_shapka_s_perom_b 0  536936460 0 250 123731968 1.000000 90 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_serduk_shapka Serduk_Cap Serduk_Cap 1  ukr_shapka_serduka 0  536936460 0 280 123731968 1.000000 80 7 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskowit_shapka Cap Cap 1  moskow_shapka_a 0  536936460 0 200 123731968 0.750000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_streletz_shapka Marksman_Cap Marksman_Cap 1  mosk_hat_streletz_a 0  536936460 0 160 123731968 0.750000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_streletz_shapka_b Marksman_Cap Marksman_Cap 1  mosk_hat_streletz_b 0  536936460 0 160 123731968 0.750000 100 4 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_streletz_shapka_c Marksman_Cap Marksman_Cap 1  mosk_hat_streletz_c 0  536936460 0 240 123731968 1.000000 90 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_janissar_hat_a Janissary_hat Janissary_hat 1  janissary_hat_a 0  65548 0 250 123731968 1.250000 70 6 0 0 0 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_janissar_hat_b Janissary_hat Janissary_hat 1  janissary_hat_b 0  65548 0 250 123731968 1.250000 70 6 0 0 0 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_tatar_man_hat Hat Hat 1  ttr_shapka_civil 0  536936460 0 160 123731968 0.750000 100 4 0 0 0 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_turban Turban Turban 1  turban 0  536936460 0 280 123731968 1.500000 40 7 0 0 0 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_tatar_kolpak Tatar_Cap Tatar_Cap 1  ttr_kolpak 0  536936460 0 280 123731968 1.250000 90 7 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_bayrak_hat Hat Hat 1  rebro_hat_a 0  536936460 0 200 123731968 1.250000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_nogay_hat Hat Hat 1  rebro_hat_b 0  536936460 0 200 123731968 1.250000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_oglan_hat Hat Hat 1  rebro_hat_pero 0  536936460 0 220 123731968 1.250000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_kochevnik_hat_a Nomad_hat Nomad_hat 1  ttr_shapka_nogayska_a 0  536936460 0 320 123731968 1.500000 80 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_kochevnik_hat_b Nomad_hat Nomad_hat 1  ttr_shapka_nogayska_b 0  536936460 0 320 123731968 1.500000 80 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rinda_hat Hat Hat 1  durinda 0  12 0 400 123731968 0.750000 50 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shapka_boyara Noble_Hat Noble_Hat 1  mosk_shapka_boyara 0  536936460 0 450 123731968 2.500000 10 9 0 0 0 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_shapka_bumajna_a Paper_Cap Paper_Cap 1  shapka_bumajna_b 0  65548 0 935 123731968 1.000000 85 17 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shapka_bumajna_b Paper_Cap Paper_Cap 1  shapka_bumajna_a 0  65548 0 825 123731968 1.000000 80 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_misurka_s_barmizoy Misiurka Misiurka 1  misurka_c 0  65548 0 1575 704643236 1.500000 60 21 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_misurka_s_barmizoy_b Misiurka Misiurka 1  misurka_b 0  65548 0 1650 704643236 1.500000 60 22 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_misurka_s_barmizoy_c Misiurka Misiurka 1  misurka_e 0  65548 0 1800 704643236 1.500000 60 24 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_misurka_s_barmizoy_pure Simple_Misiurka Simple_Misiurka 1  misurka_d 0  65548 0 1500 704643236 1.500000 70 20 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_misurka_s_barmizoy_rich Rich_Misiurka Rich_Misiurka 1  misurka_rich_a 0  65548 0 1875 704643236 1.500000 50 25 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kozacka_shapka_s_misurkoy Misiurka_Cap Misiurka_Cap 1  ukr_shapka_s_misurkoy 0  65548 0 1950 704643236 1.750000 50 26 0 0 7 0 0 0 0 0 0 0
+ 1
+ 18
+0
+
+ itm_tatar_misurka Misiurka Misiurka 1  misurka_a 0  65548 0 1725 704643236 1.500000 60 23 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_misurka_rich Rich_Misiurka Rich_Misiurka 1  misurka_rich_b 0  65548 0 2000 704643236 1.500000 50 26 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_helmet_a Tatar_Helmet Tatar_Helmet 1  ttr_sholom_b 0  65548 0 2100 704643236 2.250000 50 28 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_helmet_b Tatar_Helmet Tatar_Helmet 1  ttr_sholom_a 0  65548 0 2880 704643236 2.750000 40 32 0 0 9 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_tatar_han_helmet Tatar_Helmet Tatar_Helmet 1  ttr_sholom_good 0  65548 0 3330 704643236 3.000000 30 37 0 0 9 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_shishak Iron_Cap Iron_Cap 1  shapka_jeleznaya 0  65548 0 2025 704643238 2.000000 80 27 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_new_line_helmet New_Line_Helmet New_Line_Helmet 1  gorshok 0  65548 0 2175 704643238 2.000000 70 29 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_morion Simple_Morion Simple_Morion 1  morion_simple 0  65548 0 2790 704643238 2.500000 70 31 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_morion_good Morion Morion 1  morion_good 0  65548 0 3420 704643238 3.000000 50 38 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_morion_perfect Perfect_Morion Perfect_Morion 1  morion_perfect 0  65548 0 4305 704643238 3.000000 30 41 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_moskow_reytar_helmet Moscow_Reiter_Helmet Moscow_Reiter_Helmet 1  rus_reytar_helm 0  65548 0 3150 704643238 2.500000 40 35 0 0 9 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_kabasset Cabasset Cabasset 1  kabasset 0  65548 0 2970 704643238 2.250000 80 33 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_poland_gusar_helmet Winged_Hussar_Helmet Winged_Hussar_Helmet 1  husar_sholom 0  65548 0 5040 704643238 3.750000 20 48 0 0 11 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_shelom Shelom Shelom 1  mosk_shelom 0  65548 0 2700 704643238 2.000000 70 30 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mosk_shishak Cone Cone 1  mosk_shishak 0  65548 0 3060 704643236 2.750000 40 34 0 0 9 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_kalmyk_helmet Eastern_Helmet Eastern_Helmet 1  kalmyk_helmet 0  65548 0 4515 704643238 3.250000 10 43 0 0 11 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_boyar_helmet Boyar_Militia_Helmet Boyar_Militia_Helmet 1  boyar_sholom 0  65548 0 4830 704643238 3.500000 30 46 0 0 10 0 0 0 0 0 0 0
+ 1
+ 15
+0
+
+ itm_reytar_helmet Reiter_Helmet Reiter_Helmet 1  reytar_sholom 0  65548 0 4725 704643238 3.500000 30 45 0 0 10 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_black_reytar_helmet Reiter_Helmet Reiter_Helmet 1  blck_reytar_sholom 0  65548 0 4575 704643238 3.500000 20 45 0 0 10 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_poland_gusar_helmet_greben Hussar_Helmet_With_Crest Hussar_Helmet_With_Crest 1  pol_husar_helm_greben 0  65548 0 5750 704643238 4.000000 20 50 0 0 11 0 0 0 0 0 0 0
+ 1
+ 14
+0
+
+ itm_armet Armet Armet 1  armet 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_shapka_monomaha Cap_of_Monomakh Cap_of_Monomakh 1  shapka_monomaha 0  536870924 0 20000 123731968 1.500000 100 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mosk_platok_1 Headscarf Headscarf 1  platok_1 0  536870924 0 25 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mosk_platok_2 Headscarf Headscarf 1  platok_2 0  536870924 0 25 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pol_bab_hat_1 Female_Hat Female_Hat 1  RP_rich_baba_hat_1 0  553648140 0 225 123731968 2.000000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pol_bab_hat_2 Female_Hat Female_Hat 1  RP_rich_baba_hat_2 0  553648140 0 225 123731968 2.000000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_bab_hat1 Female_Hat Female_Hat 1  tatar_bab_hat1 0  536870924 0 55 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_bab_hat2 Female_Hat Female_Hat 1  tatar_bab_hat2 0  536870924 0 55 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tatar_bab_hat_rich Female_Hat Female_Hat 1  rich_tatar_bab_hat 0  536870924 0 225 123731968 2.000000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wooden_stick Wooden_Stick Wooden_Stick 1  wooden_stick 0  4587522 9223388529554358286 4 0 2.500000 100 0 0 0 0 13312 99 0 90 0 256 525
+ 0
+0
+
+ itm_club Club Club 1  club 0  4587522 9223388529554358286 11 0 2.500000 100 0 0 0 0 15360 98 0 95 0 256 527
+ 0
+0
+
+ itm_knife Knife Knife 1  peasant_knife_new 0  12599298 9223372037685248015 18 24596 0.500000 100 0 0 0 0 21504 110 0 40 0 269 21
+ 0
+0
+
+ itm_dagger Dagger Dagger 4  dagger_b 0  dagger_b_scabbard 3458764513820540928  dagger_b 251658240  dagger_b_scabbard 3458764514072199168  12599298 9223372072044986383 37 155668 0.750000 100 0 0 0 0 22528 109 0 47 0 275 22
+ 0
+0
+
+ itm_axe Axe Axe 1  iron_ax 0  73662467 9223635923965575392 65 262164 4.000000 100 0 0 0 8 32768 91 0 108 0 256 32
+ 0
+0
+
+ itm_sword_two_handed_b Two_Handed_Sword Two_Handed_Sword 1  sword_two_handed_b 0  6291459 9223635924301119728 670 155668 2.750000 100 0 0 0 10 40960 97 0 110 0 284 40
+ 0
+0
+
+ itm_sword_two_handed_a Great_Sword Great_Sword 1  sword_two_handed_a 0  6291459 9223635924301119728 1123 155668 2.750000 100 0 0 0 10 43008 96 0 120 0 285 42
+ 0
+0
+
+ itm_bastard_sword_a Bastard_Sword Bastard_Sword 2  bastard_sword_a 0  bastard_sword_a_scabbard 3458764513820540928  4194307 9223635954298781951 594 155668 2.000000 100 0 0 0 9 35840 98 0 101 0 282 35
+ 0
+0
+
+ itm_bastard_sword_b Heavy_Bastard_Sword Heavy_Bastard_Sword 2  bastard_sword_b 0  bastard_sword_b_scabbard 3458764513820540928  4194307 9223635954298781951 626 155668 2.250000 100 0 0 0 9 37888 97 0 105 0 283 37
+ 0
+0
+
+ itm_great_axe Great_Axe Great_Axe 1  two_handed_battle_axe_e 0  34433400835 9223635923965575392 1316 262164 4.500000 100 0 0 0 10 48128 94 0 96 0 256 47
+ 0
+0
+
+ itm_shortened_military_scythe Shortened_Military_Scythe Shortened_Military_Scythe 1  two_handed_battle_scythe_a 0  6291459 8725728866602752 1264 262164 3.000000 100 0 0 0 10 46080 90 0 112 0 256 45
+ 0
+0
+
+ itm_sword_medieval_a Sword Sword 2  sword_medieval_a 0  sword_medieval_a_scabbard 3458764513820540928  4194306 9223388564182532111 163 155668 1.500000 100 0 0 0 0 27648 99 0 95 0 278 27
+ 0
+0
+
+ itm_sword_medieval_b Sword Sword 4  sword_medieval_b 0  sword_medieval_b_scabbard 3458764513820540928  sword_rusty_a 4  sword_rusty_a_scabbard 3458764513820540932  4194306 9223388564182532111 243 155668 1.500000 100 0 0 0 0 28672 99 0 95 0 279 28
+ 0
+0
+
+ itm_sword_medieval_c Arming_Sword Arming_Sword 2  sword_medieval_c 0  sword_medieval_c_scabbard 3458764513820540928  4194306 9223388564182532111 410 155668 1.500000 100 0 0 0 0 29696 99 0 95 0 280 29
+ 0
+0
+
+ itm_sword_khergit_1 Nomad_Sabre Nomad_Sabre 2  khergit_sword_b 0  khergit_sword_b_scabbard 3458764513820540928  4194306 9223388564182532110 152 155668 1.250000 100 0 0 0 0 29696 100 0 97 0 0 29
+ 0
+0
+
+ itm_sword_khergit_2 Sabre Sabre 2  khergit_sword_c 0  khergit_sword_c_scabbard 3458764513820540928  4194306 9223388564182532110 251 155668 1.500000 100 0 0 0 0 30720 99 0 97 0 0 30
+ 0
+0
+
+ itm_sword_khergit_3 Sabre Sabre 2  khergit_sword_a 0  khergit_sword_a_scabbard 3458764513820540928  4194306 9223388564182532110 375 155668 1.500000 100 0 0 0 0 31744 99 0 98 0 0 31
+ 0
+0
+
+ itm_sword_khergit_4 Heavy_Sabre Heavy_Sabre 2  khergit_sword_d 0  khergit_sword_d_scabbard 3458764513820540928  4194306 9223388564182532110 484 155668 1.750000 100 0 0 0 0 33792 98 0 96 0 0 33
+ 0
+0
+
+ itm_kosa Scythe Scythe 1  kosa 0  138739716 4222131026005760 20 8202 2.000000 100 0 0 0 0 16384 79 0 180 0 268 16
+ 0
+0
+
+ itm_vily Pitchfork Pitchfork 1  vily 0  2251799952424964 13229324106727680 20 8202 1.750000 100 0 0 0 0 0 82 0 165 0 272 512
+ 0
+0
+
+ itm_rusty_shpaga Old_Thrusting_Sword Old_Thrusting_Sword 2  shpaga_pure_c 0  shpaga_pure_c_scabbard 3458764513820540928  146866178 9223388564157366273 130 24596 0.750000 100 0 0 0 0 0 95 0 100 0 273 256
+ 0
+0
+
+ itm_prosta_shpaga Thrusting_Sword Thrusting_Sword 2  shpaga_pure_a 0  shpaga_pure_a_scabbard 3458764513820540928  146866178 9223388564157366273 200 24596 1.000000 100 0 0 0 0 0 96 0 100 0 275 256
+ 0
+0
+
+ itm_prosta_shpaga_b Thrusting_Sword Thrusting_Sword 2  shpaga_good_c 0  shpaga_good_c_scabbard 3458764513820540928  146866178 9223388564157366273 300 24596 0.750000 100 0 0 0 0 0 97 0 100 0 277 256
+ 0
+0
+
+ itm_prosta_shpaga_c Thrusting_Sword Thrusting_Sword 2  shpaga_pure_b 0  shpaga_pure_b_scabbard 3458764513820540928  146866178 9223388564157366273 370 24596 0.750000 100 0 0 0 0 0 99 0 100 0 279 256
+ 0
+0
+
+ itm_good_shpaga Good_Sword Good_Sword 2  shpaga_pure_d 0  shpaga_pure_d_scabbard 3458764513820540928  146866178 9223388564157366273 800 155668 0.750000 100 0 0 0 0 0 106 0 100 0 283 256
+ 0
+0
+
+ itm_good_shpaga_b Good_Sword Good_Sword 2  shpaga_good_a 0  shpaga_good_a_scabbard 3458764513820540928  146866178 9223388564157366273 500 155668 0.750000 100 0 0 0 0 0 102 0 100 0 279 256
+ 0
+0
+
+ itm_good_shpaga_c Good_Sword Good_Sword 2  shpaga_good_b 0  shpaga_good_b_scabbard 3458764513820540928  146866178 9223388564157366273 650 155668 0.750000 100 0 0 0 0 0 104 0 97 0 281 256
+ 0
+0
+
+ itm_good_shpaga_d Good_Sword Good_Sword 2  shpaga_good_d 0  shpaga_good_d_scabbard 3458764513820540928  146866178 9223388564157366273 1250 155668 1.000000 100 0 0 0 0 0 108 0 100 0 286 256
+ 0
+0
+
+ itm_sablya_a Saber Saber 2  polyak_sablya_a 0  polyak_sablya_a_scabbard 3458764513820540928  12648450 9223388564182532110 1100 155668 1.250000 100 0 0 0 7 25600 96 0 95 0 256 25
+ 0
+0
+
+ itm_sablya_b Saber Saber 2  polyak_sablya_b 0  polyak_sablya_b_scabbard 3458764513820540928  12648450 9223388564182532110 950 155668 1.250000 100 0 0 0 7 24576 95 0 95 0 256 24
+ 0
+0
+
+ itm_sablya_c Saber Saber 2  polyak_sablya_c 0  polyak_sablya_c_scabbard 3458764513820540928  12648450 9223388564182532110 650 155668 1.250000 100 0 0 0 7 22528 94 0 95 0 256 22
+ 0
+0
+
+ itm_sablya_d Saber Saber 2  polyak_sablya_d 0  polyak_sablya_d_scabbard 3458764513820540928  12648450 9223388564182532110 800 155668 1.250000 100 0 0 0 7 24576 97 0 95 0 256 24
+ 0
+0
+
+ itm_sablya_turk_a Saber Saber 2  turk_sablya_a 0  turk_sablya_a_scabbard 3458764513820540928  12648450 9223388564182532110 1300 155668 1.000000 100 0 0 0 7 26624 93 0 85 0 256 26
+ 0
+0
+
+ itm_sablya_turk_b Saber Saber 2  turk_sablya_b 0  turk_sablya_b_scabbard 3458764513820540928  12648450 9223388564182532110 1600 155668 1.250000 100 0 0 0 8 30720 95 0 90 0 256 30
+ 0
+0
+
+ itm_sablya_turk_c Saber Saber 2  turk_sablya_c 0  turk_sablya_c_scabbard 3458764513820540928  12648450 9223388564182532110 1450 155668 1.250000 100 0 0 0 8 28672 94 0 90 0 256 28
+ 0
+0
+
+ itm_sablya_tatar_a Tatar_Saber Tatar_Saber 2  tatar_sablya 0  tatar_sablya_scabbard 3458764513820540928  12648450 9223388564182532110 1200 155668 1.000000 100 0 0 0 0 21504 105 0 100 0 256 21
+ 0
+0
+
+ itm_sablya_pure_a Simple_Saber Simple_Saber 2  polyak_sablya_pure_a 0  polyak_sablya_pure_a_scabbard 3458764513820540928  12648450 9223388564182532110 525 24596 1.250000 100 0 0 0 7 24576 94 0 95 0 256 24
+ 0
+0
+
+ itm_sablya_pure_b Simple_Saber Simple_Saber 2  polyak_sablya_pure_b 0  polyak_sablya_pure_b_scabbard 3458764513820540928  12648450 9223388564182532110 420 24596 1.250000 100 0 0 0 7 22528 93 0 95 0 256 22
+ 0
+0
+
+ itm_sablya_pure_c Simple_Saber Simple_Saber 2  polyak_sablya_pure_c 0  polyak_sablya_pure_c_scabbard 3458764513820540928  12648450 9223388564182532110 330 24596 1.250000 100 0 0 0 7 20480 92 0 95 0 256 20
+ 0
+0
+
+ itm_sablya_pure_d Simple_Saber Simple_Saber 2  polyak_sablya_pure_d 0  polyak_sablya_pure_d_scabbard 3458764513820540928  12648450 9223388564182532110 380 24596 1.250000 100 0 0 0 7 21504 95 0 95 0 256 21
+ 0
+0
+
+ itm_sablya_turk_pure_a Simple_Saber Simple_Saber 2  turk_sablya_pure_a 0  turk_sablya_pure_a_scabbard 3458764513820540928  12648450 9223388564182532110 300 24596 1.000000 100 0 0 0 7 25600 97 0 85 0 256 25
+ 0
+0
+
+ itm_sablya_turk_pure_b Simple_Saber Simple_Saber 2  turk_sablya_pure_b 0  turk_sablya_pure_b_scabbard 3458764513820540928  12648450 9223388564182532110 400 24596 1.250000 100 0 0 0 8 22528 94 0 90 0 256 22
+ 0
+0
+
+ itm_sablya_turk_pure_c Simple_Saber Simple_Saber 2  turk_sablya_pure_c 0  turk_sablya_pure_c_scabbard 3458764513820540928  12648450 9223388564182532110 500 24596 1.250000 100 0 0 0 8 24576 95 0 90 0 256 24
+ 0
+0
+
+ itm_sablya_tatar_pure_a Simple_Tatar_Saber Simple_Tatar_Saber 2  tatar_sablya_pure 0  tatar_sablya_pure_scabbard 3458764513820540928  12648450 9223388564182532110 850 24596 1.000000 100 0 0 0 0 20480 103 0 100 0 256 20
+ 0
+0
+
+ itm_rusty_palash Old_Broadsword Old_Broadsword 2  kava_palash_pure_a 0  kava_palash_scabbard_a 3458764513820540928  12648450 9223388564182532111 300 24596 1.500000 100 0 0 0 9 21504 86 0 110 0 272 21
+ 0
+0
+
+ itm_palash Broadsword Broadsword 2  kava_palash_pure_b 0  kava_palash_scabbard_b 3458764513820540928  4259842 9223388564182532111 600 24596 1.500000 100 0 0 0 10 23552 87 0 110 0 274 23
+ 0
+0
+
+ itm_good_palash Good_Broadsword Good_Broadsword 2  kava_palash_rich_a 0  kava_palash_scabbard_a 3458764513820540928  12648450 9223388564182532111 800 155668 1.500000 100 0 0 0 10 26624 88 0 110 0 277 26
+ 0
+0
+
+ itm_good_palash_b Good_Broadsword Good_Broadsword 2  kava_palash_rich_b 0  kava_palash_scabbard_b 3458764513820540928  12648450 9223388564182532111 2000 155668 1.750000 100 0 0 0 10 32768 84 0 117 0 281 32
+ 0
+0
+
+ itm_pehot_palash_old Old_Short_Broadsword Old_Short_Broadsword 2  pehot_palash_pure_a 0  pehot_palash_scabbard_a 3458764513820540928  12648450 9223388564182532111 250 24596 1.500000 100 0 0 0 8 19456 92 0 95 0 270 19
+ 0
+0
+
+ itm_pehot_palash Short_Broadsword Short_Broadsword 2  pehot_palash_pure_b 0  pehot_palash_scabbard_b 3458764513820540928  12648450 9223388564182532111 450 24596 1.500000 100 0 0 0 9 22528 90 0 100 0 271 22
+ 0
+0
+
+ itm_good_pehot_palash Good_Short_Broadsword Good_Short_Broadsword 2  pehot_palash_rich_b 0  pehot_palash_scabbard_b 3458764513820540928  12648450 9223388564182532111 1000 155668 1.500000 100 0 0 0 9 28672 98 0 90 0 276 28
+ 0
+0
+
+ itm_good_pehot_palash_b Good_Short_Broadsword Good_Short_Broadsword 2  pehot_palash_rich_a 0  pehot_palash_scabbard_a 3458764513820540928  12648450 9223388564182532111 1200 155668 1.500000 100 0 0 0 9 29696 96 0 95 0 276 29
+ 0
+0
+
+ itm_yatagan_a Simple_Yataghan Simple_Yataghan 2  yatagan_simple 0  yatagan_simple_scabbard 3458764513820540928  12648450 9223388564719403022 425 24596 1.000000 100 0 0 0 0 21504 102 0 80 0 0 21
+ 0
+0
+
+ itm_yatagan_good Yataghan Yataghan 2  yatagan_good 0  yatagan_good_scabbard 3458764513820540928  12648450 9223388564719403022 750 24596 1.000000 100 0 0 0 0 24576 104 0 80 0 0 24
+ 0
+0
+
+ itm_yatagan_rich Good_Yataghan Good_Yataghan 2  yatagan_rich 0  yatagan_rich_scabbard 3458764513820540928  12648450 9223388564719403022 1200 155668 1.000000 100 0 0 0 0 26624 106 0 80 0 0 26
+ 0
+0
+
+ itm_kozak_shablya Simple_Cossack_Saber Simple_Cossack_Saber 2  turk_sablya_pure_d 0  turk_sablya_pure_d_scabbard 3458764513820540928  4259842 9223388564182532110 300 24596 1.000000 100 0 0 0 7 20480 98 0 95 0 256 20
+ 0
+0
+
+ itm_kozak_good_shablya Cossack_Saber Cossack_Saber 2  turk_sablya_d 0  turk_sablya_d_scabbard 3458764513820540928  12648450 9223388564182532110 625 155668 1.000000 100 0 0 0 7 22528 101 0 95 0 256 22
+ 0
+0
+
+ itm_old_pike Old_Pike Old_Pike 1  pika_b 0  2814754471346180 13229330280743168 200 8202 1.750000 100 0 0 0 7 0 74 0 320 0 276 0
+ 0
+0
+
+ itm_prosta_pike Pike Pike 1  pika_b 0  2814754471346180 13229330280743168 600 8202 1.750000 100 0 0 0 7 0 79 0 320 0 279 0
+ 0
+0
+
+ itm_pika Simple_Pike Simple_Pike 1  pika_a 0  2814754471346180 13229330280743168 800 8202 2.000000 100 0 0 0 7 0 73 0 325 0 282 0
+ 0
+0
+
+ itm_good_pike Pike Pike 1  pika_a 0  2814754471346180 13229330280743168 1000 8202 2.000000 100 0 0 0 8 0 75 0 325 0 284 0
+ 0
+0
+
+ itm_kopyo Simple_Lance Simple_Lance 1  spear_b_2-75m 0  2251804247392260 13229330280743168 220 8202 1.000000 100 0 0 0 0 0 85 0 175 0 279 0
+ 0
+0
+
+ itm_good_kopyo Lance Lance 1  spear_f_2-9m 0  2251804249489412 13229330280743168 550 8202 1.250000 100 0 0 0 8 0 81 0 190 0 281 0
+ 0
+0
+
+ itm_dubinka Bludgeon Bludgeon 1  wooden_stick 0  13041666 9223388532775583758 10 0 1.000000 100 0 0 0 0 9216 95 0 65 0 256 521
+ 0
+0
+
+ itm_plotnik_toporik Carpenter_Axe Carpenter_Axe 1  plotn_toporik 0  17592266063874 9223388530091229198 100 262164 1.500000 100 0 0 0 7 22528 85 0 60 0 256 22
+ 0
+0
+
+ itm_plotnik_topor Lumberman_Axe Lumberman_Axe 1  plotn_topor 0  17592528207875 9223635925844623584 300 262164 2.000000 100 0 0 0 8 25600 89 0 80 0 256 25
+ 0
+0
+
+ itm_pernach Mace Mace 1  pernach_a 0  17596493791234 9223388532775583758 750 262164 2.000000 100 0 0 0 12 26624 100 0 55 0 256 538
+ 0
+0
+
+ itm_palitza Club Club 1  palitza_a 0  17596493791234 9223388532775583758 850 262164 2.250000 100 0 0 0 12 28672 98 0 60 0 256 540
+ 0
+0
+
+ itm_klevetz Crowbill Crowbill 1  klevetz_pure_a 0  17592198955010 9223388530091229198 650 270356 1.250000 100 0 0 0 9 24576 96 0 60 0 256 280
+ 0
+0
+
+ itm_klevetz_good Good_Crowbill Good_Crowbill 1  klevetz_rich_a 0  17592198955010 9223388530091229198 850 270356 1.250000 100 0 0 0 10 27648 98 0 60 0 256 283
+ 0
+0
+
+ itm_chekan Chekan Chekan 1  chekan_pure_a 0  17592198955010 9223388530091229198 700 270356 1.500000 100 0 0 0 11 25600 93 0 70 0 256 281
+ 0
+0
+
+ itm_chekan_good Good_Chekan Good_Chekan 1  chekan_rich_a 0  17592198692866 9223388530091229198 900 270356 1.500000 100 0 0 0 12 28672 94 0 70 0 256 284
+ 0
+0
+
+ itm_rusty_toporik Old_Hatchet Old_Hatchet 1  toporik_pure_a 0  17592266063874 9223388530091229198 650 262164 1.250000 100 0 0 0 8 21504 100 0 50 0 256 21
+ 0
+0
+
+ itm_prostoy_toporik Simple_Hatchet Simple_Hatchet 1  toporik_pure_b 0  17592266063874 9223388530091229198 800 262164 1.500000 100 0 0 0 8 23552 97 0 60 0 256 23
+ 0
+0
+
+ itm_toporik_good Hatchet Hatchet 1  toporik_rich_a 0  17592266063874 9223388530091229198 1200 262164 1.250000 100 0 0 0 8 28672 102 0 50 0 256 28
+ 0
+0
+
+ itm_toporik_rich Good_Hatchet Good_Hatchet 1  toporik_rich_b 0  17592265801730 9223388530091229198 1450 262164 1.750000 100 0 0 0 9 30720 99 0 60 0 256 30
+ 0
+0
+
+ itm_cavalry_pika_a Cavalry_Lance Cavalry_Lance 1  cavalry_lance_a 0  2251806394875908 13229330280743168 500 8202 1.000000 100 0 0 0 6 0 88 0 160 0 278 0
+ 0
+0
+
+ itm_cavalry_pika_b Cavalry_Lance Cavalry_Lance 1  cavalry_lance_b 0  2251806394875908 13229330280743168 600 8202 1.000000 100 0 0 0 7 0 84 0 160 0 280 0
+ 0
+0
+
+ itm_gusar_lanza Hussar_Lance Hussar_Lance 1  pol_gusar_lansa_a 0  2251806394875908 13229330280743168 1600 8202 2.500000 100 0 0 0 12 0 55 0 320 0 286 0
+ 0
+0
+
+ itm_gusar_lanza_b Hussar_Lance Hussar_Lance 1  pol_gusar_lansa_b 0  2251806394875908 13229330280743168 1200 8202 2.500000 100 0 0 0 12 0 62 0 320 0 282 0
+ 0
+0
+
+ itm_kozacka_pika Cavalry_Lance Cavalry_Lance 1  kava_pika_a 0  2251806394875908 13229330280743168 900 8202 1.250000 100 0 0 0 9 0 78 0 180 0 282 0
+ 0
+0
+
+ itm_twohand_sword Two-handled_Sword Two-handled_Sword 1  twohand_sword_a 0  4636868611 9223635924301119728 3750 155668 4.000000 100 0 0 0 14 37888 84 0 140 0 286 37
+ 0
+0
+
+ itm_twohand_sword_b Two-handled_Sword Two-handled_Sword 1  twohand_sword_b 0  4636868611 9223635924301119728 4000 155668 4.500000 100 0 0 0 14 44032 80 0 140 0 278 43
+ 0
+0
+
+ itm_alebarda Halberd Halberd 1  alebarda 0  17596756066308 4222131026005760 1400 262164 3.000000 100 0 0 0 12 24576 77 0 160 0 282 24
+ 0
+0
+
+ itm_berdish Pole-axe Pole-axe 1  berdish 0  4637130755 9223635925844623584 2650 262164 2.250000 100 0 0 0 11 37888 83 0 120 0 256 37
+ 0
+0
+
+ itm_berdish_b Pole-axe Pole-axe 1  berfish_oim_b 0  4637130755 9223635925844623584 3750 262164 2.500000 100 0 0 0 11 43008 86 0 117 0 256 42
+ 0
+0
+
+ itm_sovnya Sovnya Sovnya 1  sovnya 0  6619140 4222131026005760 1100 262164 2.500000 100 0 0 0 0 26624 79 0 150 0 280 26
+ 0
+0
+
+ itm_black_hetman Black_Mace Black_Mace 1  black_hetman 0  17596560707586 9223388532775583758 50000 0 5.000000 100 0 0 0 16 51200 100 0 60 0 256 562
+ 0
+0
+
+ itm_scott_palash Scottish_Broadsword Scottish_Broadsword 2  scott_palash 0  scott_palash_scabbard 3458764513820540928  12648450 9223388564182532111 3000 24596 1.750000 100 0 0 0 10 32768 94 0 105 0 276 32
+ 0
+0
+
+ itm_scott_kleymor_a Claymore Claymore 1  kleymor_a 0  341901315 9223635924301119728 3500 155668 3.000000 100 0 0 0 13 34816 92 0 125 0 286 34
+ 0
+0
+
+ itm_scott_kleymor_b Claymore Claymore 1  kleymor_b 0  341901315 9223635924301119728 4000 155668 3.000000 100 0 0 0 13 40960 88 0 125 0 278 40
+ 0
+0
+
+ itm_konchar Koncerz Koncerz 1  konchar 0  17598775361538 9223388534092595201 2900 155668 1.500000 100 0 0 0 9 0 91 0 125 0 283 256
+ 0
+0
+
+ itm_shestoper Flanged_Mace Flanged_Mace 1  shestoper 0  17596493791234 9223388532775583758 1200 262164 2.000000 100 0 0 0 12 29696 99 0 55 0 256 541
+ 0
+0
+
+ itm_kalmyk_palash Eastern_Broadsword Eastern_Broadsword 2  kalmyk_palash 0  kalmyk_palash_scabbard 3458764513820540928  12648450 9223388564182532111 3000 155668 1.500000 100 0 0 0 0 25600 97 0 105 0 273 25
+ 0
+0
+
+ itm_mace_1 spiked_club spiked_club 1  mace_d 0  4456450 9223388532775583758 45 262164 1.500000 100 0 0 0 0 19456 99 0 70 0 256 275
+ 0
+0
+
+ itm_mace_2 Knobbed_Mace Knobbed_Mace 1  mace_a 0  4456450 9223388532775583758 98 262164 2.500000 100 0 0 0 0 21504 98 0 70 0 256 533
+ 0
+0
+
+ itm_mace_3 Spiked_Mace Spiked_Mace 1  mace_c 0  4456450 9223388532775583758 152 262164 2.500000 100 0 0 0 0 23552 98 0 70 0 256 535
+ 0
+0
+
+ itm_mace_4 Winged_Mace Winged_Mace 1  mace_b 0  4456450 9223388532775583758 212 262164 2.500000 100 0 0 0 0 24576 98 0 70 0 256 536
+ 0
+0
+
+ itm_club_with_spike_head Club_with_Spike Club_with_Spike 1  mace_e 0  4456451 9223635923965575423 122 262164 2.500000 100 0 0 0 9 27648 97 0 117 0 280 539
+ 0
+0
+
+ itm_staff Staff Staff 1  wooden_staff 0  138805252 4222129415393024 36 8202 1.500000 100 0 0 0 0 18432 100 0 130 0 531 530
+ 0
+0
+
+ itm_quarter_staff Quarter_Staff Quarter_Staff 1  quarter_staff 0  138805252 4222129415393024 60 8202 2.000000 100 0 0 0 0 20480 104 0 140 0 532 532
+ 0
+0
+
+ itm_pike Pike Pike 1  spear_a_3m 0  2814750176313348 13229324106727680 125 8202 3.000000 100 0 0 0 0 16384 81 0 245 0 282 528
+ 0
+0
+
+ itm_wooden_shield Wooden_Shield Wooden_Shield 1  shield_round_a 0  262151 5100273664 42 167772194 2.000000 100 0 1 0 0 360 100 0 50 0 0 0
+ 0
+0
+
+ itm_round_shield_steel_a Good_Steel_Shield Good_Steel_Shield 1  oim_shield_round_g 0  65543 5100273664 4000 167772194 5.500000 100 0 20 0 0 800 50 35 35 0 0 0
+ 0
+0
+
+ itm_round_shield_steel_b Steel_Shield Steel_Shield 1  oim_shield_round_f 0  65543 5100273664 3500 167772194 5.500000 100 0 15 0 0 700 45 35 35 0 0 0
+ 0
+0
+
+ itm_round_shield Simple_Shield Simple_Shield 1  oim_shield_round_a 0  327687 5100273664 1800 167772194 2.750000 100 0 4 0 0 600 89 35 35 0 0 0
+ 0
+0
+
+ itm_round_shield_b Kalkan_Shield Kalkan_Shield 1  oim_shield_round_b 0  327687 5100273664 1300 167772194 2.500000 100 0 3 0 0 500 91 35 35 0 0 0
+ 0
+0
+
+ itm_round_shield_c Tatar_Shield Tatar_Shield 1  oim_shield_round_d 0  327687 5100273664 700 167772194 2.250000 100 0 2 0 0 400 94 35 35 0 0 0
+ 0
+0
+
+ itm_round_shield_d Solid_Shield Solid_Shield 1  oim_shield_round_c 0  327687 5100273664 460 167772194 2.000000 100 0 2 0 0 325 96 35 35 0 0 0
+ 0
+0
+
+ itm_shield Shield Shield 1  oim_shield_round_e 0  327687 5100273664 220 167772194 2.000000 100 0 1 0 0 250 98 35 35 0 0 0
+ 0
+0
+
+ itm_tarch_a Turkish_Shield Turkish_Shield 1  tarch_a 0  327687 4831838208 1400 167772194 2.000000 100 0 4 0 0 450 90 40 30 0 0 0
+ 0
+0
+
+ itm_tarch_b Turkish_Shield Turkish_Shield 1  tarch_b 0  327687 4831838208 1200 167772194 2.000000 100 0 4 0 0 375 92 40 30 0 0 0
+ 0
+0
+
+ itm_rundash Buckler Buckler 1  rundash 0  65543 5100273664 5000 167772194 6.500000 100 0 30 0 0 550 40 35 35 0 0 0
+ 0
+0
+
+ itm_tab_shield_round_a Old_Round_Shield Old_Round_Shield 1  tableau_shield_round_5 0  262151 5100273664 26 167772194 2.500000 100 0 4 0 0 195 93 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270473 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_b Plain_Round_Shield Plain_Round_Shield 1  tableau_shield_round_3 0  262151 5100273664 65 167772194 3.000000 100 0 8 0 0 260 90 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270471 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_c Round_Shield Round_Shield 1  tableau_shield_round_2 0  262151 5100273664 105 167772194 3.500000 100 0 12 0 0 310 87 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270470 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_d Heavy_Round_Shield Heavy_Round_Shield 1  tableau_shield_round_1 0  262151 5100273664 210 167772194 4.000000 100 0 15 0 0 350 84 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270469 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_round_e Huscarl's_Round_Shield Huscarl's_Round_Shield 1  tableau_shield_round_4 0  7 5100273664 430 167772194 4.500000 100 0 19 0 0 410 81 0 50 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270472 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_a Old_Kite_Shield Old_Kite_Shield 1  tableau_shield_kite_1 0  262151 4831838208 33 167772194 2.000000 100 0 5 0 0 165 96 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270477 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_b Plain_Kite_Shield Plain_Kite_Shield 1  tableau_shield_kite_3 0  262151 4831838208 70 167772194 2.500000 100 0 10 0 0 215 93 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270479 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_c Kite_Shield Kite_Shield 1  tableau_shield_kite_2 0  262151 4831838208 156 167772194 3.000000 100 0 13 0 0 265 90 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270478 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_d Heavy_Kite_Shield Heavy_Kite_Shield 1  tableau_shield_kite_2 0  262151 4831838208 320 167772194 3.500000 100 0 18 0 0 310 87 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270478 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_cav_a Horseman's_Kite_Shield Horseman's_Kite_Shield 1  tableau_shield_kite_4 0  262151 4831838208 205 167772194 2.000000 100 0 14 0 0 165 103 50 30 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270480 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_kite_cav_b Knightly_Kite_Shield Knightly_Kite_Shield 1  tableau_shield_kite_4 0  7 4831838208 360 167772194 2.500000 100 0 23 0 0 225 100 50 30 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270480 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_a Old_Heater_Shield Old_Heater_Shield 1  tableau_shield_heater_1 0  262151 4831838208 36 167772194 2.000000 100 0 6 0 0 160 96 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270481 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_b Plain_Heater_Shield Plain_Heater_Shield 1  tableau_shield_heater_1 0  262151 4831838208 74 167772194 2.500000 100 0 11 0 0 210 93 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270481 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_c Heater_Shield Heater_Shield 1  tableau_shield_heater_1 0  262151 4831838208 160 167772194 3.000000 100 0 14 0 0 260 90 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270481 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_d Heavy_Heater_Shield Heavy_Heater_Shield 1  tableau_shield_heater_1 0  262151 4831838208 332 167772194 3.500000 100 0 19 0 0 305 87 70 36 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270481 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_cav_a Horseman's_Heater_Shield Horseman's_Heater_Shield 1  tableau_shield_heater_2 0  262151 4831838208 229 167772194 2.000000 100 0 16 0 0 160 103 50 30 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270482 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_heater_cav_b Knightly_Heater_Shield Knightly_Heater_Shield 1  tableau_shield_heater_2 0  262151 4831838208 390 167772194 2.500000 100 0 23 0 0 220 100 50 30 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270482 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_a Old_Board_Shield Old_Board_Shield 1  tableau_shield_pavise_2 0  268697607 6442450944 60 167772194 3.500000 100 0 4 0 0 280 89 100 43 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270484 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_b Plain_Board_Shield Plain_Board_Shield 1  tableau_shield_pavise_2 0  268697607 6442450944 114 167772194 4.000000 100 0 8 0 0 360 85 100 43 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270484 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_c Board_Shield Board_Shield 1  tableau_shield_pavise_1 0  268697607 6442450944 210 167772194 4.500000 100 0 10 0 0 430 81 100 43 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270483 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_pavise_d Heavy_Board_Shield Heavy_Board_Shield 1  tableau_shield_pavise_1 0  268697607 6442450944 370 167772194 5.000000 100 0 14 0 0 550 78 100 43 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270483 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_small_round_a Plain_Cavalry_Shield Plain_Cavalry_Shield 1  tableau_shield_small_round_3 0  262151 5100273664 96 167772194 2.000000 100 0 8 0 0 160 105 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270476 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_small_round_b Round_Cavalry_Shield Round_Cavalry_Shield 1  tableau_shield_small_round_1 0  262151 5100273664 195 167772194 2.500000 100 0 14 0 0 200 103 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270474 1224979098644774912 1224979098644774913 
+
+ itm_tab_shield_small_round_c Elite_Cavalry_Shield Elite_Cavalry_Shield 1  tableau_shield_small_round_2 0  7 5100273664 370 167772194 3.000000 100 0 22 0 0 250 100 0 40 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270475 1224979098644774912 1224979098644774913 
+
+ itm_jarid Jarid Jarid 2  jarid_new 0  jarid_quiver 3458764513820540928  541065226 36507484160 560 4398046781448 4.000000 100 0 0 0 2 0 89 24 65 4 301 0
+ 0
+0
+
+ itm_jarid_melee Jarid Jarid 2  jarid_new 0  jarid_quiver 3458764513820540928  138674180 4222124851990272 560 4398046781448 1.000000 100 0 0 0 2 16384 93 0 65 0 276 16
+ 0
+0
+
+ itm_stones Stones Stones 1  throwing_stone 0  4194314 65536 1 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 523 0
+ 0
+0
+
+ itm_throwing_knives Throwing_Knives Throwing_Knives 1  throwing_knife 0  4194314 131072 76 4398046781448 3.500000 100 0 0 0 0 0 121 25 0 14 19 0
+ 0
+0
+
+ itm_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 193 4398046781448 3.500000 100 0 0 0 0 0 110 24 0 13 25 0
+ 0
+0
+
+ itm_samopal Handmade_Firearm Handmade_Firearm 2  samopal_a 0  samopal_a_I 1152921504606846976  560005129 4222130825199616 225 131082 6.000000 100 0 0 69 7 0 23 122 0 1 322 0
+ 0
+0
+
+ itm_samopal_melee {!}do_not_translate {!}do_not_translate 1  samopal_a 0  3412884367605764 58265326353121472 0 131082 6.000000 100 0 0 0 7 11264 75 0 100 0 518 523
+ 0
+0
+
+ itm_samopal_b Handmade_Firearm Handmade_Firearm 2  samopal_b 0  samopal_b_I 1152921504606846976  560005129 4222130825199616 250 131082 6.000000 100 0 0 71 7 0 23 120 0 1 323 0
+ 0
+0
+
+ itm_samopal_b_melee {!}do_not_translate {!}do_not_translate 1  samopal_b 0  3412884367605764 58265326353121472 0 131082 6.000000 100 0 0 0 7 11264 75 0 100 0 518 523
+ 0
+0
+
+ itm_old_musket Matchlock_Musket Matchlock_Musket 2  mushket_old_a 0  mushket_old_a_I 1152921504606846976  829489161 4222130825199616 600 131082 7.000000 100 0 0 79 8 0 25 130 0 1 335 0
+ 0
+0
+
+ itm_old_musket_melee {!}do_not_translate {!}do_not_translate 1  mushket_old_a 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 8 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_old_musket_b Matchlock_Musket Matchlock_Musket 2  mushket_old_b 0  mushket_old_b_I 1152921504606846976  829489161 4222130825199616 640 131082 7.500000 100 0 0 78 8 0 26 129 0 1 336 0
+ 0
+0
+
+ itm_old_musket_b_melee {!}do_not_translate {!}do_not_translate 1  mushket_old_b 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 8 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_musket Simple_Wheellock_Musket Simple_Wheellock_Musket 2  mushket_a 0  mushket_a_I 1152921504606846976  829489161 4222130825199616 2100 131082 6.500000 100 0 0 82 9 0 29 140 0 1 339 0
+ 0
+0
+
+ itm_musket_melee {!}do_not_translate {!}do_not_translate 1  mushket_a 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_good_musket Wheellock_Musket Wheellock_Musket 2  mushket_b 0  mushket_b_I 1152921504606846976  829489161 4222130825199616 3600 131082 6.250000 100 0 0 86 9 0 31 152 0 1 341 0
+ 0
+0
+
+ itm_good_musket_melee {!}do_not_translate {!}do_not_translate 1  mushket_b_melee 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_turk_musket_fitil_a Matchlock_Musket Matchlock_Musket 2  musket_turk_fitil_pure 0  musket_turk_fitil_pure_I 1152921504606846976  829489161 4222130825199616 580 131082 7.750000 100 0 0 77 8 0 26 136 0 1 338 0
+ 0
+0
+
+ itm_turk_musket_fitil_a_melee {!}do_not_translate {!}do_not_translate 1  musket_turk_fitil_pure 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 8 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_turk_musket_fitil_b Good_Matchlock_Musket Good_Matchlock_Musket 2  musket_turk_fitil_rich 0  musket_turk_fitil_rich_I 1152921504606846976  829489161 4222130825199616 1800 131082 7.250000 100 0 0 79 8 0 29 139 0 1 340 0
+ 0
+0
+
+ itm_turk_musket_fitil_b_melee {!}do_not_translate {!}do_not_translate 1  musket_turk_fitil_rich 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 8 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_turk_musket_koleso Wheellock_Musket Wheellock_Musket 2  musket_turk_koleso 0  musket_turk_koleso_I 1152921504606846976  829489161 4222130825199616 3000 131082 6.750000 100 0 0 83 9 0 30 150 0 1 344 0
+ 0
+0
+
+ itm_turk_musket_koleso_melee {!}do_not_translate {!}do_not_translate 1  musket_turk_koleso 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_turk_musket Miquelet_Musket Miquelet_Musket 2  musket_turk_udarniy_a 0  musket_turk_udarniy_a_I 1152921504606846976  829489161 4222130825199616 5300 131082 6.250000 100 0 0 88 9 0 33 160 0 1 349 0
+ 0
+0
+
+ itm_turk_musket_melee {!}do_not_translate {!}do_not_translate 1  musket_turk_udarniy_a 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_turk_musket_b Good_Miquelet_Musket Good_Miquelet_Musket 2  musket_turk_udarniy_b 0  musket_turk_udarniy_b_I 1152921504606846976  829489161 4222130825199616 6900 131082 6.000000 100 0 0 89 9 0 34 170 0 1 351 0
+ 0
+0
+
+ itm_turk_musket_b_melee {!}do_not_translate {!}do_not_translate 1  musket_turk_udarniy_b 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_mushket_udarniy Miquelet_Musket Miquelet_Musket 2  evr_musket_udarniy_b 0  evr_musket_udarniy_b_I 1152921504606846976  829489161 4222130825199616 6000 131082 5.750000 100 0 0 89 9 0 35 154 0 1 346 0
+ 0
+0
+
+ itm_mushket_udarniy_melee {!}do_not_translate {!}do_not_translate 1  evr_musket_udarniy_b 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_mushket_udarniy_b Miquelet_Musket Miquelet_Musket 2  evr_musket_udarniy_a 0  evr_musket_udarniy_a_I 1152921504606846976  829489161 4222130825199616 7000 131082 5.750000 100 0 0 90 9 0 37 160 0 1 348 0
+ 0
+0
+
+ itm_mushket_udarniy_b_melee {!}do_not_translate {!}do_not_translate 1  evr_musket_udarniy_a 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_karabin_old_a Matchlock_Carbine Matchlock_Carbine 2  karabin_old_a 0  karabin_old_a_I 1152921504606846976  560005129 4222130825199616 480 131082 5.000000 100 0 0 72 7 0 35 120 0 1 327 0
+ 0
+0
+
+ itm_karabin_old_a_melee {!}do_not_translate {!}do_not_translate 1  karabin_old_a 0  3412884099170308 58265326353121472 0 131082 5.000000 100 0 0 0 7 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_karabin_old_b Matchlock_Carbine Matchlock_Carbine 2  karabin_old_b 0  karabin_old_b_I 1152921504606846976  560005129 4222130825199616 490 131082 5.250000 100 0 0 73 7 0 36 119 0 1 328 0
+ 0
+0
+
+ itm_karabin_old_b_melee {!}do_not_translate {!}do_not_translate 1  karabin_old_b 0  3412884099170308 58265326353121472 0 131082 5.250000 100 0 0 0 7 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_karabin Simple_Wheellock_Carbine Simple_Wheellock_Carbine 2  karabin_a 0  karabin_a_I 1152921504606846976  560005129 4222130825199616 2500 131082 4.500000 100 0 0 76 8 0 40 123 0 1 332 0
+ 0
+0
+
+ itm_karabin_melee {!}do_not_translate {!}do_not_translate 1  karabin_a 0  3412884099170308 58265326353121472 0 131082 4.500000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_karabin_good Wheellock_Carbine Wheellock_Carbine 2  karabin_b 0  karabin_b_I 1152921504606846976  560005129 4222130825199616 3400 131082 4.250000 100 0 0 78 8 0 42 125 0 1 334 0
+ 0
+0
+
+ itm_karabin_good_melee {!}do_not_translate {!}do_not_translate 1  karabin_b 0  3412884099170308 58265326353121472 0 131082 4.250000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_karabin_batarey Miquelet_Carbine Miquelet_Carbine 2  karabin_batarey 0  karabin_batarey_I 1152921504606846976  560005129 4222130825199616 4800 131082 4.250000 100 0 0 80 8 0 43 130 0 1 337 0
+ 0
+0
+
+ itm_karabin_batarey_melee {!}do_not_translate {!}do_not_translate 1  karabin_batarey 0  3412884099170308 58265326353121472 0 131082 4.250000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_karabin_batarey_good Good_Miquelet_Carbine Good_Miquelet_Carbine 2  karabin_batarey_good 0  karabin_batarey_good_I 1152921504606846976  560005129 4222130825199616 5500 131082 4.250000 100 0 0 81 8 0 44 132 0 1 339 0
+ 0
+0
+
+ itm_karabin_batarey_good_melee {!}do_not_translate {!}do_not_translate 1  karabin_batarey_good 0  3412884099170308 58265326353121472 0 131082 6.250000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_old_pistol Old_Pistol Old_Pistol 2  pistol_pure_a 0  pistol_pure_a_I 1152921504606846976  557907977 483721150464 475 131082 2.500000 100 0 0 60 6 0 43 90 0 1 298 0
+ 0
+0
+
+ itm_old_pistol_melee {!}do_not_translate {!}do_not_translate 1  pistol_pure_a 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 6 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_pistol Pistol Pistol 2  pistol_pure_b 0  pistol_pure_b_I 1152921504606846976  557907977 483721150464 600 131082 2.000000 100 0 0 66 6 0 45 100 0 1 304 0
+ 0
+1
+-51.000000  5 31 2 144115188075856957 1 2071 1 1224979098644774912 1700 1 1224979098644774913 31 2 1224979098644774912 1224979098644774913 2105 2 144115188075856956 1 
+
+ itm_pistol_melee {!}do_not_translate {!}do_not_translate 1  pistol_pure_b 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 6 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_pistol_b Pistol Pistol 2  pistol_pure_c 0  pistol_pure_c_I 1152921504606846976  557907977 483721150464 600 131082 2.250000 100 0 0 67 6 0 47 95 0 1 322 0
+ 0
+0
+
+ itm_pistol_b_melee {!}do_not_translate {!}do_not_translate 1  pistol_pure_c 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 6 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_good_pistol Good_Pistol Good_Pistol 2  pistol_rich_a 0  pistol_rich_a_I 1152921504606846976  557907977 483721150464 3600 131082 2.500000 100 0 0 75 6 0 59 110 0 1 327 0
+ 0
+0
+
+ itm_good_pistol_melee {!}do_not_translate {!}do_not_translate 1  pistol_rich_a 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 6 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_good_pistol_b Good_Pistol Good_Pistol 2  pistol_rich_b 0  pistol_rich_b_I 1152921504606846976  557907977 483721150464 3100 131082 2.000000 100 0 0 70 6 0 60 100 0 1 323 0
+ 0
+0
+
+ itm_good_pistol_b_melee {!}do_not_translate {!}do_not_translate 1  pistol_rich_b 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 6 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_good_pistol_c Good_Pistol Good_Pistol 2  pistol_rich_c 0  pistol_rich_c_I 1152921504606846976  557907977 483721150464 3400 131082 2.250000 100 0 0 73 6 0 61 105 0 1 325 0
+ 0
+0
+
+ itm_good_pistol_c_melee {!}do_not_translate {!}do_not_translate 1  pistol_rich_c 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 6 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_granata Large_Grenade Large_Grenade 1  bombaaa 0  17184129034 65536 1800 0 4.000000 100 0 0 0 0 0 65 17 30 3 687 0
+ 0
+1
+-52.000000  4 2071 1 1224979098644774912 701 1 51 719 2 51 1 1 4 936748722493063882 1224979098644774912 210 7 
+
+ itm_granata_medium Medium_Grenade Medium_Grenade 1  bombaaa_m 0  17184129034 65536 1400 0 4.000000 100 0 0 0 0 0 67 18 25 5 652 0
+ 0
+1
+-52.000000  4 2071 1 1224979098644774912 701 1 51 719 2 51 1 1 4 936748722493063882 1224979098644774912 150 5 
+
+ itm_granata_small Small_Grenade Small_Grenade 1  bombaaa_s 0  17184129034 65536 1000 0 4.000000 100 0 0 0 0 0 70 20 20 7 612 0
+ 0
+1
+-52.000000  4 2071 1 1224979098644774912 701 1 51 719 2 51 1 1 4 936748722493063882 1224979098644774912 90 3 
+
+ itm_luk Longbow Longbow 3  luk_a 0  luk_a_saadak 3458764513820540928  luk_a_saadak_I 1152921504606846976  4259848 37312532480 150 655370 0.750000 100 0 0 92 0 0 98 42 0 0 274 0
+ 0
+0
+
+ itm_luk_b Longbow Longbow 3  luk_b 0  luk_b_saadak 3458764513820540928  luk_b_saadak_I 1152921504606846976  4259848 37312532480 600 655370 0.750000 100 0 0 94 1 0 94 43 0 0 275 0
+ 0
+0
+
+ itm_luk_c Bow Bow 3  luk_b 0  kalmyk_naluch 3458764513820540928  kalmyk_naluch_I 1152921504606846976  4259848 37312532480 1500 655370 1.000000 100 0 0 96 2 0 90 45 0 0 280 0
+ 0
+0
+
+ itm_kompozit_bow_b Tatar_Bow Tatar_Bow 3  luk_koja_b 0  luk_c_saadak 3458764513820540928  luk_c_saadak_I 1152921504606846976  4259848 37312532480 2600 655370 1.000000 100 0 0 97 3 0 90 49 0 0 282 0
+ 0
+0
+
+ itm_kompozit_bow Composite_Bow Composite_Bow 3  luk_koja_a 0  luk_d_saadak 3458764513820540928  luk_d_saadak_I 1152921504606846976  4259848 37312532480 3500 655370 1.250000 100 0 0 99 4 0 85 54 0 0 286 0
+ 0
+0
+
+ itm_zakaz_pistol1 Hand-crafted_Pistol Hand-crafted_Pistol 2  pistol_rich_b 0  pistol_rich_b_I 1152921504606846976  557842441 483721150464 12000 131082 2.000000 100 0 0 79 6 0 64 115 0 1 334 0
+ 0
+0
+
+ itm_zakaz_pistol1_melee {!}do_not_translate {!}do_not_translate 1  pistol_rich_b 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 8 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_zakaz_pistol2 Dutch_Pistol Dutch_Pistol 2  pistol_rich_c 0  pistol_rich_c_I 1152921504606846976  557842441 483721150464 16000 131082 2.250000 100 0 0 82 6 0 63 125 0 1 337 0
+ 0
+0
+
+ itm_zakaz_pistol2_melee {!}do_not_translate {!}do_not_translate 1  pistol_rich_c 0  3412884097073154 9223388532238712846 0 131082 6.250000 100 0 0 0 8 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_zakaz_2stwol_koleso2 Double-barreled_Wheellock_Carbine Double-barreled_Wheellock_Carbine 2  karabin_2stwolB 0  karabin_2stwolB_I 1152921504606846976  559939593 4222130825199616 38000 131082 5.250000 100 0 0 79 9 0 30 120 0 2 333 0
+ 0
+0
+
+ itm_zakaz_2stwol_koleso2_melee {!}do_not_translate {!}do_not_translate 1  karabin_2stwolB 0  6553604 58265326353121472 0 131082 5.250000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_zakaz_2stwol_koleso Double-barreled_Dutch_Carbine Double-barreled_Dutch_Carbine 2  karabin_2stwol 0  karabin_2stwol_I 1152921504606846976  559939593 4222130825199616 45000 131082 5.250000 100 0 0 80 9 0 32 125 0 2 336 0
+ 0
+0
+
+ itm_zakaz_2stwol_koleso_melee {!}do_not_translate {!}do_not_translate 1  karabin_2stwol 0  6553604 58265326353121472 0 131082 5.250000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_zakaz_2stwol_udar1 Double-barreled_Miquelet_Pistol Double-barreled_Miquelet_Pistol 2  pistol_2stwol 0  pistol_2stwol_I 1152921504606846976  557842441 552440627200 55000 131082 3.250000 100 0 0 82 8 0 44 125 0 2 336 0
+ 0
+0
+
+ itm_zakaz_2stwol_udar1_melee {!}do_not_translate {!}do_not_translate 1  pistol_2stwol 0  3412884097073154 9223388532238712846 0 131082 3.250000 100 0 0 0 8 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_zakaz_2stwol_udar2 Double-barreled_Dutch_Pistol Double-barreled_Dutch_Pistol 2  pistol_2stwolB 0  pistol_2stwolB_I 1152921504606846976  557842441 483721150464 70000 131082 3.250000 100 0 0 85 8 0 46 145 0 2 341 0
+ 0
+0
+
+ itm_zakaz_2stwol_udar2_melee {!}do_not_translate {!}do_not_translate 1  pistol_2stwolB 0  3412884097073154 9223388532238712846 0 131082 3.250000 100 0 0 0 8 7168 95 0 40 0 515 519
+ 0
+0
+
+ itm_zakaz_karabin Hand-crafted_Carbine Hand-crafted_Carbine 2  karabin_batarey_good 0  karabin_batarey_good_I 1152921504606846976  559939593 4222130825199616 15000 131082 4.250000 100 0 0 78 8 0 29 142 0 1 346 0
+ 0
+0
+
+ itm_zakaz_karabin_melee {!}do_not_translate {!}do_not_translate 1  karabin_batarey_good 0  6553604 58265326353121472 0 131082 6.250000 100 0 0 0 8 10240 85 0 80 0 517 522
+ 0
+0
+
+ itm_zakaz_ewro_puha Hand-crafted_European_Musket Hand-crafted_European_Musket 2  evr_musket_udarniy_a 0  evr_musket_udarniy_a_I 1152921504606846976  829423625 4222130825199616 28000 131082 5.750000 100 0 0 97 9 0 40 165 0 1 353 0
+ 0
+0
+
+ itm_zakaz_ewro_puha_melee {!}do_not_translate {!}do_not_translate 1  evr_musket_udarniy_a 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_zakaz_turok_puha Hand-crafted_Turkish_Musket Hand-crafted_Turkish_Musket 2  musket_turk_udarniy_b 0  musket_turk_udarniy_b_I 1152921504606846976  829423625 4222130825199616 25000 131082 6.000000 100 0 0 95 9 0 39 163 0 1 359 0
+ 0
+0
+
+ itm_zakaz_turok_puha_melee {!}do_not_translate {!}do_not_translate 1  musket_turk_udarniy_b 0  3412884367605764 58265326353121472 0 131082 6.250000 100 0 0 0 9 12288 75 0 100 0 519 524
+ 0
+0
+
+ itm_zakaz_luk1 Tatar_Bow Tatar_Bow 3  luk_koja_b 0  luk_c_saadak 3458764513820540928  luk_c_saadak_I 1152921504606846976  4194312 37312532480 14000 655370 1.250000 100 0 0 94 5 0 91 50 0 0 281 0
+ 0
+0
+
+ itm_zakaz_luk2 Hand-crafted_Bow Hand-crafted_Bow 3  luk_koja_a 0  luk_d_saadak 3458764513820540928  luk_d_saadak_I 1152921504606846976  4194312 37312532480 25000 655370 1.250000 100 0 0 93 6 0 90 60 0 0 283 0
+ 0
+0
+
+ itm_zakaz_shield_s Hand-crafted_Shield Hand-crafted_Shield 1  oim_shield_round_g 0  7 5100273664 20000 167772194 5.500000 100 0 35 0 0 1000 40 0 36 0 0 0
+ 0
+0
+
+ itm_zakaz_armet Armet Armet 1  armet 0  2147483660 0 45000 704643238 5.250000 10 62 0 0 14 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_greben Hand-crafted_Hussar_Helmet Hand-crafted_Hussar_Helmet 1  pol_husar_helm_greben 0  12 0 35000 704643238 4.500000 20 57 0 0 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_boyar Hand-crafted_Noble_Helmet Hand-crafted_Noble_Helmet 1  boyar_sholom 0  12 0 30000 704643238 3.500000 30 53 0 0 11 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_morion Hand-crafted_Morion Hand-crafted_Morion 1  morion_perfect 0  12 0 20000 704643238 3.000000 30 50 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_reytar_b Hand-crafted_Reiter_Helmet Hand-crafted_Reiter_Helmet 1  blck_reytar_sholom 0  12 0 28000 704643238 3.500000 20 52 0 0 11 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_helm_tatar Hand-crafted_Tatar_Helmet Hand-crafted_Tatar_Helmet 1  ttr_sholom_good 0  12 0 15000 704643236 3.000000 30 47 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_panzer_shkura Hand-crafted_Hussar_Armor Hand-crafted_Hussar_Armor 1  pol_husar_yaguar 0  16777229 0 40000 704643238 18.000000 15 0 57 20 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_laty Hand-crafted_Armor Hand-crafted_Armor 1  swed_swordmaster 0  16777229 0 50000 704643238 18.000000 20 0 58 21 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_black_lat Hand-crafted_Black_Armor Hand-crafted_Black_Armor 1  swd_blck_reytar 0  16777229 0 60000 704643238 20.000000 15 0 58 36 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_zertzalo Hand-crafted_Mirror_Armor Hand-crafted_Mirror_Armor 1  mosk_zertzalo 0  16777229 0 45000 704643236 24.000000 15 0 59 20 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_ushman Hand-crafted_Yushman Hand-crafted_Yushman 1  ttr_mega-yushman 0  16777229 0 40000 704643236 18.000000 30 0 51 21 11 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zakaz_sabla1 Hand-crafted_Saber Hand-crafted_Saber 2  polyak_sablya_a 0  polyak_sablya_a_scabbard 3458764513820540928  12582914 9223388564182532110 11000 155668 1.250000 100 0 0 0 8 29696 100 0 95 0 256 29
+ 0
+0
+
+ itm_zakaz_sabla2 Hand-crafted_Damascus_steel_Saber Hand-crafted_Damascus_steel_Saber 2  turk_sablya_b 0  turk_sablya_b_scabbard 3458764513820540928  12582914 9223388564182532110 14000 155668 1.250000 100 0 0 0 9 32768 93 0 90 0 256 32
+ 0
+0
+
+ itm_zakaz_spaga Hand-crafted_Rapier Hand-crafted_Rapier 2  shpaga_good_d 0  shpaga_good_d_scabbard 3458764513820540928  146800642 9223388564157366273 16000 155668 1.000000 100 0 0 0 0 0 106 0 100 0 286 256
+ 0
+0
+
+ itm_zakaz_berd Hand-crafted_Pole-axe Hand-crafted_Pole-axe 1  berdish 0  342097923 9223635925844623584 15000 262164 2.250000 100 0 0 0 12 36864 80 0 120 0 256 36
+ 0
+0
+
+ itm_zakaz_palash Hand-crafted_Broadsword Hand-crafted_Broadsword 2  scott_palash 0  scott_palash_scabbard 3458764513820540928  12582914 9223388564182532111 18000 24596 1.750000 100 0 0 0 10 32768 85 0 105 0 280 32
+ 0
+0
+
+ itm_zakaz_twohand Hand-crafted_Two-handed_Sword Hand-crafted_Two-handed_Sword 1  kleymor_b 0  341835779 9223635924301119728 30000 155668 3.000000 100 0 0 0 13 37888 80 0 125 0 289 37
+ 0
+0
+
+ itm_zakaz_chekan Hand-crafted_Czekan Hand-crafted_Czekan 1  chekan_rich_a 0  17592198627330 9223388530091229198 20000 270356 1.500000 100 0 0 0 13 29696 79 0 70 0 256 285
+ 0
+0
+
+ itm_hunting_bow Hunting_Bow Hunting_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6291464 5905584128 17 655370 1.000000 100 0 0 0 0 0 100 52 0 0 271 0
+ 0
+0
+
+ itm_hunting_crossbow Hunting_Crossbow Hunting_Crossbow 1  crossbow_a 0  6291465 5637160960 22 131082 2.250000 100 0 0 0 0 0 47 50 0 1 293 0
+ 0
+0
+
+ itm_light_crossbow Light_Crossbow Light_Crossbow 1  crossbow_b 0  6291465 5637160960 67 131082 2.500000 100 0 0 0 8 0 45 59 0 1 300 0
+ 0
+0
+
+ itm_heavy_crossbow Heavy_Crossbow Heavy_Crossbow 1  crossbow_c 0  7340041 5637160960 349 131082 3.500000 100 0 0 0 9 0 41 68 0 1 314 0
+ 0
+0
+
+ itm_torch Torch Torch 1  club 0  4194306 9223388529554358286 11 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
+ 0
+1
+-50.000000  5 1955 3 0 60 0 1965 1 1008806316530991114 1965 1 1008806316530991117 1950 3 150 130 70 1960 2 10 30 
+
+ itm_practice_bow_2 Practice_Bow Practice_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.500000 100 0 0 0 0 0 90 40 0 0 533 0
+ 0
+0
+
+ itm_practice_arrows_2 Practice_Arrows Practice_Arrows 3  arena_arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.500000 100 0 0 0 0 0 0 0 95 80 0 0
+ 0
+0
+
+ itm_heraldic_mail_with_surcoat_for_tableau {!}Heraldic_Mail_with_Surcoat {!}Heraldic_Mail_with_Surcoat 1  heraldic_armor_new_a 0  16777229 0 1 704643236 22.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+1
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063565 1729382256910270485 1224979098644774912 1224979098644774913 
+
+ itm_mail_boots_for_tableau Chainmail_Boots Chainmail_Boots 1  mail_boots_a 0  3854 0 1 704643236 3.000000 100 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steel_bolts_10 Steel_Bolts Steel_Bolts 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_1 1152921504606846976  6 0 500 4398046511112 3.500000 90 0 0 0 0 0 0 0 3 10 263 0
+ 0
+0
+
+ itm_oim_qst_horse Thoroughbred_Stallion Thoroughbred_Stallion 1  rich_konik 0  1 0 45000 41876193280 0.000000 35 0 10 0 1 100 40 46 0 0 20 0
+ 0
+0
+
+ itm_speshitsa Dismount Dismount 1  raw_meat 0  524288 0 0 0 1.000000 100 1 0 0 0 0 0 0 0 1 0 0
+ 0
+0
+
+ itm_nichego [Nothing] [Nothing] 1  raw_meat 0  524288 0 0 0 1.000000 100 1 0 0 0 0 0 0 0 1 0 0
+ 0
+0
+
+ itm_very_bad_horse Dobbin Dobbin 1  selo_konik 0  1 0 200 41876193280 0.000000 100 0 6 0 0 90 38 35 0 0 7 0
+ 0
+0
+
+ itm_bad_horse Draught_Horse Draught_Horse 1  sedlo_konik 0  1 0 300 41876193280 0.000000 95 0 7 0 1 90 40 39 0 0 8 0
+ 0
+0
+
+ itm_norm_horse Saddle_Horse Saddle_Horse 1  sedlo_konik_b 0  1 0 400 41876193280 0.000000 90 0 8 0 2 110 45 40 0 0 9 0
+ 0
+0
+
+ itm_good_horse Steppe_Horse Steppe_Horse 1  step_konik 0  1 0 600 41876193280 0.000000 50 0 9 0 3 100 52 44 0 0 10 0
+ 0
+0
+
+ itm_fast_horse Racing_Horse Racing_Horse 1  corser_oim 0  1 0 900 41876193280 0.000000 60 0 6 0 4 100 48 50 0 0 7 0
+ 0
+0
+
+ itm_tank_horse War_Horse War_Horse 1  hunter_oim 0  1 0 900 41876193280 0.000000 60 0 13 0 4 140 43 42 0 0 17 0
+ 0
+0
+
+ itm_uber_horse Purebred_Horse Purebred_Horse 1  rich_konik 0  1 0 1200 41876193280 0.000000 35 0 11 0 5 130 47 46 0 0 14 0
+ 0
+0
+
+ itm_bad_arrows Cheap_Arrows Cheap_Arrows 4  strela_shiroka 0  flying_missile 2305843009213693952  arrows_a_kolchan 3458764513820540928  arrows_a_kolchan_I 1152921504606846976  5 1610612736 50 4398046511112 2.000000 100 0 0 0 0 0 0 0 95 30 0 0
+ 0
+0
+
+ itm_norm_arrows Arrows Arrows 4  strela_zazubrena 0  flying_missile 2305843009213693952  arrows_c_kolchan 3458764513820540928  arrows_c_kolchan_I 1152921504606846976  5 1610612736 200 4398046511112 2.500000 30 0 0 0 0 0 0 0 95 30 4 0
+ 0
+0
+
+ itm_good_arrows Piercing_Arrows Piercing_Arrows 4  strela_shilo 0  flying_missile 2305843009213693952  arrows_d_kolchan 3458764513820540928  arrows_d_kolchan_I 1152921504606846976  5 1610612736 410 4398046511112 2.750000 10 0 0 0 0 0 0 0 95 30 257 0
+ 0
+0
+
+ itm_bad_bullets Cheap_Bullets Cheap_Bullets 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_4 1152921504606846976  16777222 0 50 4398046511112 2.000000 100 0 0 0 0 0 0 0 5 16 256 0
+ 0
+1
+-52.000000  1 1 1 936748722493063884 
+
+ itm_norm_bullets Bullets Bullets 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_1 1152921504606846976  16777222 0 190 4398046511112 2.500000 70 0 0 0 0 0 0 0 6 16 260 0
+ 0
+1
+-52.000000  1 1 1 936748722493063884 
+
+ itm_good_bullets Quality_Bullets Quality_Bullets 3  bullet_patron 0  bullet_normal 2305843009213693952  porohovnitsa_2 1152921504606846976  16777222 0 370 4398046511112 3.000000 30 0 0 0 0 0 0 0 7 16 265 0
+ 0
+1
+-52.000000  1 1 1 936748722493063884 
+
+ itm_samopal_m Harquebus Harquebus 2  samopal_a 0  samopal_a_I 1152921504606846976  559939593 4222130825199616 0 131082 6.000000 100 0 0 65 8 0 60 112 0 1 295 0
+ 0
+0
+
+ itm_samopal_m_melee Harquebus Harquebus 1  samopal_a 0  3412888394137604 58265326353121472 0 131082 6.000000 100 0 0 0 8 16384 75 0 100 0 518 528
+ 0
+0
+
+ itm_bad_pistol Rusty_Pistol Rusty_Pistol 2  pistol_pure_b 0  pistol_pure_b_I 1152921504606846976  557842441 483721150464 200 131082 1.500000 100 0 0 63 6 0 45 110 0 1 298 0
+ 0
+0
+
+ itm_bad_pistol_melee Rusty_Pistol Rusty_Pistol 1  pistol_pure_b 0  3412884097073154 9223388532238712846 0 131082 1.500000 100 0 0 0 8 12288 103 0 35 0 512 524
+ 0
+0
+
+ itm_norm_pistol Pistol Pistol 2  pistol_pure_c 0  pistol_pure_c_I 1152921504606846976  557842441 483721150464 400 131082 1.250000 100 0 0 66 6 0 52 115 0 1 303 0
+ 0
+0
+
+ itm_norm_pistol_melee Pistol Pistol 1  pistol_pure_c 0  3412884097073154 9223388532238712846 0 131082 1.250000 100 0 0 0 8 12288 103 0 35 0 512 524
+ 0
+0
+
+ itm_fast_pistol Rapid-firing_Pistol Rapid-firing_Pistol 2  pistol_rich_b 0  pistol_rich_b_I 1152921504606846976  557842441 483721150464 700 131082 1.000000 100 0 0 62 6 0 66 120 0 1 302 0
+ 0
+0
+
+ itm_fast_pistol_melee Rapid-firing_Pistol Rapid-firing_Pistol 1  pistol_rich_b 0  3412884097073154 9223388532238712846 0 131082 1.000000 100 0 0 0 8 12288 103 0 35 0 512 524
+ 0
+0
+
+ itm_power_pistol Long-barreled_Pistol Long-barreled_Pistol 2  pistol_rich_a 0  pistol_rich_a_I 1152921504606846976  557842441 483721150464 750 131082 1.000000 100 0 0 78 6 0 46 130 0 1 308 0
+ 0
+0
+
+ itm_power_pistol_melee Long-barreled_Pistol Long-barreled_Pistol 1  pistol_rich_a 0  3412884097073154 9223388532238712846 0 131082 1.000000 100 0 0 0 8 12288 103 0 35 0 512 524
+ 0
+0
+
+ itm_uber_pistol Good_Pistol Good_Pistol 2  pistol_rich_c 0  pistol_rich_c_I 1152921504606846976  557842441 483721150464 1000 131082 0.750000 100 0 0 69 6 0 57 145 0 1 314 0
+ 0
+0
+
+ itm_uber_pistol_melee Good_Pistol Good_Pistol 1  pistol_rich_c 0  3412884097073154 9223388532238712846 0 131082 0.750000 100 0 0 0 8 12288 103 0 35 0 512 524
+ 0
+0
+
+ itm_bad_karabin Rusty_Carbine Rusty_Carbine 2  karabin_old_a 0  karabin_old_a_I 1152921504606846976  559939593 4222130288328704 300 131082 5.000000 100 0 0 71 8 0 38 130 0 1 305 0
+ 0
+0
+
+ itm_bad_karabin_melee Rusty_Carbine Rusty_Carbine 1  karabin_old_a 0  3412888394137604 58265325816250560 0 131082 5.000000 100 0 0 0 8 14336 89 0 80 0 519 526
+ 0
+0
+
+ itm_norm_karabin Carbine Carbine 2  karabin_a 0  karabin_a_I 1152921504606846976  559939593 4222130288328704 600 131082 5.000000 100 0 0 74 8 0 41 150 0 1 310 0
+ 0
+0
+
+ itm_norm_karabin_melee Carbine Carbine 1  karabin_a 0  3412888394137604 58265325816250560 0 131082 5.000000 100 0 0 0 8 14336 89 0 80 0 519 526
+ 0
+0
+
+ itm_good_karabin Good_Carbine Good_Carbine 2  karabin_b 0  karabin_b_I 1152921504606846976  559939593 4222130288328704 950 131082 5.000000 100 0 0 78 8 0 44 180 0 1 315 0
+ 0
+0
+
+ itm_good_karabin_melee Good_Carbine Good_Carbine 1  karabin_b 0  3412888394137604 58265325816250560 0 131082 5.000000 100 0 0 0 8 14336 90 0 80 0 519 526
+ 0
+0
+
+ itm_uber_karabin Miquelet_Carbine Miquelet_Carbine 2  karabin_batarey_good 0  karabin_batarey_good_I 1152921504606846976  559939593 4222130288328704 1200 131082 5.000000 100 0 0 82 8 0 47 200 0 1 322 0
+ 0
+0
+
+ itm_uber_karabin_melee Miquelet_Carbine Miquelet_Carbine 1  karabin_batarey_good 0  3412888394137604 58265325816250560 0 131082 5.000000 100 0 0 0 8 14336 90 0 80 0 519 526
+ 0
+0
+
+ itm_bad_musket Rusty_Musket Rusty_Musket 2  mushket_old_a 0  mushket_old_a_I 1152921504606846976  829423625 4222130825199616 250 131082 9.000000 100 0 0 79 9 0 34 160 0 1 308 0
+ 0
+0
+
+ itm_bad_musket_melee Rusty_Musket Rusty_Musket 1  mushket_old_a 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 83 0 100 0 525 527
+ 0
+0
+
+ itm_norm_musket Musket Musket 2  mushket_a 0  mushket_a_I 1152921504606846976  829423625 4222130825199616 500 131082 9.000000 100 0 0 83 9 0 37 180 0 1 313 0
+ 0
+0
+
+ itm_norm_musket_melee Musket Musket 1  mushket_a 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 83 0 100 0 525 527
+ 0
+0
+
+ itm_good_musket_m Good_Musket Good_Musket 2  mushket_b 0  mushket_b_I 1152921504606846976  829423625 4222130825199616 750 131082 9.000000 100 0 0 87 9 0 39 200 0 1 320 0
+ 0
+0
+
+ itm_good_musket_m_melee Good_Musket Good_Musket 1  mushket_b_melee 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 84 0 100 0 525 527
+ 0
+0
+
+ itm_uber_mushket Miquelet_Musket Miquelet_Musket 2  evr_musket_udarniy_b 0  evr_musket_udarniy_b_I 1152921504606846976  829423625 4222130825199616 1000 131082 9.000000 100 0 0 91 9 0 41 220 0 1 330 0
+ 0
+0
+
+ itm_uber_mushket_melee Miquelet_Musket Miquelet_Musket 1  evr_musket_udarniy_b 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 84 0 100 0 525 527
+ 0
+0
+
+ itm_t_bad_musket Rusty_Musket Rusty_Musket 2  musket_turk_fitil_pure 0  musket_turk_fitil_pure_I 1152921504606846976  829423625 4222130825199616 270 131082 9.000000 100 0 0 78 9 0 33 160 0 1 309 0
+ 0
+0
+
+ itm_t_bad_musket_melee Rusty_Musket Rusty_Musket 1  musket_turk_fitil_pure 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 85 0 100 0 524 527
+ 0
+0
+
+ itm_t_norm_musket Musket Musket 2  musket_turk_koleso 0  musket_turk_koleso_I 1152921504606846976  829423625 4222130825199616 520 131082 9.000000 100 0 0 83 9 0 36 180 0 1 314 0
+ 0
+0
+
+ itm_t_norm_musket_melee Musket Musket 1  musket_turk_koleso 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 85 0 100 0 524 527
+ 0
+0
+
+ itm_t_good_musket Good_Musket Good_Musket 2  musket_turk_udarniy_a 0  musket_turk_udarniy_a_I 1152921504606846976  829423625 4222130825199616 780 131082 9.000000 100 0 0 87 9 0 38 200 0 1 321 0
+ 0
+0
+
+ itm_t_good_musket_melee Good_Musket Good_Musket 1  musket_turk_udarniy_a 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 85 0 100 0 524 527
+ 0
+0
+
+ itm_t_uber_musket Miquelet_Musket Miquelet_Musket 2  musket_turk_udarniy_b 0  musket_turk_udarniy_b_I 1152921504606846976  829423625 4222130825199616 1040 131082 9.000000 100 0 0 91 9 0 40 220 0 1 331 0
+ 0
+0
+
+ itm_t_uber_musket_melee Miquelet_Musket Miquelet_Musket 1  musket_turk_udarniy_b 0  3412888662573060 58265326353121472 0 131082 9.000000 100 0 0 0 9 15360 85 0 100 0 524 527
+ 0
+0
+
+ itm_m_dwustwol_karabin Double-barreled_Carbine Double-barreled_Carbine 2  karabin_2stwolB 0  karabin_2stwolB_I 1152921504606846976  559939593 4222130288328704 2000 131082 5.250000 100 0 0 75 9 0 31 130 0 2 313 0
+ 0
+0
+
+ itm_m_dwustwol_karabin_melee Carbine Carbine 1  evr_musket_udarniy_a 0  3412884367605764 58265325816250560 0 131082 5.250000 100 0 0 0 9 15360 75 0 100 0 519 527
+ 0
+0
+
+ itm_m_dwustwol_pistol Double-barreled_Pistol Double-barreled_Pistol 2  pistol_2stwol 0  pistol_2stwol_I 1152921504606846976  557842441 552440627200 1500 131082 1.250000 100 0 0 59 8 0 49 96 0 2 300 0
+ 0
+0
+
+ itm_m_dwustwol_pistol_melee not_to_be_translated not_to_be_translated 1  pistol_2stwol 0  3412884097073154 9223388532238712846 0 131082 1.250000 100 0 0 0 8 8192 95 0 35 0 512 520
+ 0
+0
+
+ itm_bad_luk Hunting_Bow Hunting_Bow 3  luk_a 0  luk_a_saadak 3458764513820540928  luk_a_saadak_I 1152921504606846976  4194312 37312532480 200 655370 0.750000 100 0 0 92 0 0 98 42 0 0 274 0
+ 0
+0
+
+ itm_norm_luk Bow Bow 3  luk_b 0  luk_b_saadak 3458764513820540928  luk_b_saadak_I 1152921504606846976  4194312 37312532480 375 655370 0.750000 100 0 0 94 1 0 94 44 0 0 276 0
+ 0
+0
+
+ itm_gud_luk Powerful_Bow Powerful_Bow 3  luk_koja_b 0  luk_c_saadak 3458764513820540928  luk_c_saadak_I 1152921504606846976  4194312 37312532480 700 655370 1.000000 100 0 0 96 3 0 90 48 0 0 280 0
+ 0
+0
+
+ itm_uber_luk Composite_Bow Composite_Bow 3  luk_koja_a 0  luk_d_saadak 3458764513820540928  luk_d_saadak_I 1152921504606846976  4194312 37312532480 1100 655370 1.250000 100 0 0 99 4 0 86 53 0 0 286 0
+ 0
+0
+
+ itm_bad_shield Flimsy_Shield Flimsy_Shield 1  oim_shield_round_e 0  262151 5100273664 100 167772194 2.000000 100 0 0 0 0 125 97 35 35 0 0 0
+ 0
+0
+
+ itm_norm_shield Shield Shield 1  oim_shield_round_d 0  262151 5100273664 250 167772194 2.250000 100 0 0 0 0 200 96 35 35 0 0 0
+ 0
+0
+
+ itm_good_shield Thick_Shield Thick_Shield 1  oim_shield_round_a 0  262151 5100273664 450 167772194 2.750000 100 0 1 0 0 300 85 35 35 0 0 0
+ 0
+0
+
+ itm_stal_shield Iron_Shield Iron_Shield 1  oim_shield_round_f 0  7 5100273664 700 167772194 5.500000 100 0 8 0 0 400 50 35 35 0 0 0
+ 0
+0
+
+ itm_uber_shield Steel_Shield Steel_Shield 1  oim_shield_round_g 0  7 5100273664 900 167772194 5.500000 100 0 10 0 0 500 55 35 35 0 0 0
+ 0
+0
+
+ itm_bad_shpaga Rusty_Sword Rusty_Sword 2  shpaga_pure_a 0  shpaga_pure_a_scabbard 3458764513820540928  146800642 9223388564157366273 100 24596 1.000000 100 0 0 0 0 0 97 0 100 0 280 256
+ 0
+0
+
+ itm_norm_shpaga Sword Sword 2  shpaga_good_b 0  shpaga_good_b_scabbard 3458764513820540928  146800642 9223388564157366273 300 155668 0.750000 100 0 0 0 0 0 100 0 100 0 283 256
+ 0
+0
+
+ itm_good_shpaga_m Good_Sword Good_Sword 2  shpaga_good_d 0  shpaga_good_d_scabbard 3458764513820540928  146800642 9223388564157366273 500 155668 1.000000 100 0 0 0 0 0 103 0 100 0 286 256
+ 0
+0
+
+ itm_bad_palash Rusty_Broadsword Rusty_Broadsword 2  kava_palash_pure_a 0  kava_palash_scabbard_a 3458764513820540928  12582914 9223388564182532111 200 24596 1.500000 100 0 0 0 9 25600 84 0 110 0 274 25
+ 0
+0
+
+ itm_norm_palash Broadsword Broadsword 2  kava_palash_pure_b 0  kava_palash_scabbard_b 3458764513820540928  4194306 9223388564182532111 400 24596 1.500000 100 0 0 0 10 30720 87 0 110 0 277 30
+ 0
+0
+
+ itm_good_palash_m Good_Broadsword Good_Broadsword 2  kava_palash_rich_a 0  kava_palash_scabbard_a 3458764513820540928  12582914 9223388564182532111 600 155668 1.500000 100 0 0 0 10 35840 93 0 110 0 280 35
+ 0
+0
+
+ itm_bad_p_palash Rusty_Broadsword Rusty_Broadsword 2  pehot_palash_pure_a 0  pehot_palash_scabbard_a 3458764513820540928  12582914 9223388564182532111 150 24596 1.500000 100 0 0 0 8 24576 93 0 90 0 276 24
+ 0
+0
+
+ itm_norm_p_palash Broadsword Broadsword 2  pehot_palash_pure_b 0  pehot_palash_scabbard_b 3458764513820540928  12582914 9223388564182532111 350 24596 1.500000 100 0 0 0 9 28672 96 0 90 0 276 28
+ 0
+0
+
+ itm_good_p_palash Good_Broadsword Good_Broadsword 2  pehot_palash_rich_b 0  pehot_palash_scabbard_b 3458764513820540928  12582914 9223388564182532111 550 155668 1.500000 100 0 0 0 9 32768 98 0 90 0 281 32
+ 0
+0
+
+ itm_bad_sablya_a Good_Broadsword Good_Broadsword 2  polyak_sablya_pure_c 0  polyak_sablya_pure_c_scabbard 3458764513820540928  12582914 9223388564182532110 100 24596 1.250000 100 0 0 0 7 24576 93 0 95 0 256 24
+ 0
+0
+
+ itm_norm_sablya_a Saber Saber 2  polyak_sablya_pure_a 0  polyak_sablya_pure_a_scabbard 3458764513820540928  12582914 9223388564182532110 300 24596 1.250000 100 0 0 0 7 28672 94 0 95 0 256 28
+ 0
+0
+
+ itm_good_sablya_a Good_Saber Good_Saber 2  polyak_sablya_a 0  polyak_sablya_a_scabbard 3458764513820540928  12582914 9223388564182532110 500 155668 1.250000 100 0 0 0 7 30720 96 0 95 0 256 30
+ 0
+0
+
+ itm_bad_sablya_b Rusty_Saber Rusty_Saber 2  polyak_sablya_pure_b 0  polyak_sablya_pure_b_scabbard 3458764513820540928  12582914 9223388564182532110 100 24596 1.250000 100 0 0 0 7 20480 95 0 95 0 256 20
+ 0
+0
+
+ itm_norm_sablya_b Saber Saber 2  polyak_sablya_pure_d 0  polyak_sablya_pure_d_scabbard 3458764513820540928  12582914 9223388564182532110 300 24596 1.250000 100 0 0 0 7 23552 98 0 95 0 256 23
+ 0
+0
+
+ itm_good_sablya_b Good_Saber Good_Saber 2  polyak_sablya_d 0  polyak_sablya_d_scabbard 3458764513820540928  12582914 9223388564182532110 500 155668 1.250000 100 0 0 0 7 27648 100 0 95 0 256 27
+ 0
+0
+
+ itm_t_bad_sablya_a Rusty_Saber Rusty_Saber 2  turk_sablya_pure_a 0  turk_sablya_pure_a_scabbard 3458764513820540928  12582914 9223388564182532110 100 24596 1.000000 100 0 0 0 7 24576 92 0 85 0 256 24
+ 0
+0
+
+ itm_t_norm_sablya_a Saber Saber 2  turk_sablya_pure_c 0  turk_sablya_pure_c_scabbard 3458764513820540928  12582914 9223388564182532110 300 24596 1.250000 100 0 0 0 8 28672 94 0 90 0 256 28
+ 0
+0
+
+ itm_t_good_sablya_a Good_Saber Good_Saber 2  turk_sablya_c 0  turk_sablya_c_scabbard 3458764513820540928  12582914 9223388564182532110 500 155668 1.250000 100 0 0 0 8 32768 98 0 90 0 256 32
+ 0
+0
+
+ itm_norn_k_shablya Cossack_Saber Cossack_Saber 2  turk_sablya_pure_d 0  turk_sablya_pure_d_scabbard 3458764513820540928  4194306 9223388564182532110 200 24596 1.000000 100 0 0 0 7 22528 100 0 95 0 256 22
+ 0
+0
+
+ itm_good_k_shablya Good_Cossack_Saber Good_Cossack_Saber 2  turk_sablya_d 0  turk_sablya_d_scabbard 3458764513820540928  12582914 9223388564182532110 400 155668 1.000000 100 0 0 0 7 26624 103 0 95 0 256 26
+ 0
+0
+
+ itm_bad_toporik Hatchet Hatchet 1  toporik_pure_b 0  17596560965634 9223388530091229198 150 262164 1.500000 100 0 0 0 8 19456 101 0 60 0 256 19
+ 0
+0
+
+ itm_good_toporik Good_Hatchet Good_Hatchet 1  toporik_rich_b 0  17596560703490 9223388530091229198 400 262164 1.750000 100 0 0 0 9 23552 105 0 60 0 256 23
+ 0
+0
+
+ itm_bad_chekan Chekan Chekan 1  chekan_pure_a 0  17596493856770 9223388530091229198 250 270356 1.500000 100 0 0 0 11 23552 95 0 70 0 256 279
+ 0
+0
+
+ itm_good_chekan Good_Chekan Good_Chekan 1  chekan_rich_a 0  17596493594626 9223388530091229198 600 270356 1.500000 100 0 0 0 12 28672 97 0 70 0 256 284
+ 0
+0
+
+ itm_bad_bulava Mace Mace 1  shestoper 0  17596493725698 9223388532775583758 350 262164 2.000000 100 0 0 0 12 30720 92 0 60 0 256 542
+ 0
+0
+
+ itm_good_bulava Good_Mace Good_Mace 1  palitza_a 0  17596493725698 9223388532775583758 450 262164 2.250000 100 0 0 0 12 34816 96 0 60 0 256 546
+ 0
+0
+
+ itm_bad_berdish Pole-axe Pole-axe 1  berdish 0  38996803587 9223635925844623584 350 262164 2.250000 100 0 0 0 11 37888 83 0 120 0 256 37
+ 0
+0
+
+ itm_good_berdish Balanced_Pole-axe Balanced_Pole-axe 1  berfish_oim_b 0  38996803587 9223635925844623584 500 262164 2.500000 100 0 0 0 11 46080 86 0 120 0 256 45
+ 0
+0
+
+ itm_m_sovnya Sovnya Sovnya 1  sovnya 0  6553604 4222131026005760 375 262164 2.500000 100 0 0 0 0 32768 77 0 150 0 284 32
+ 0
+0
+
+ itm_m_alebarda Halberd Halberd 1  alebarda 0  17596756000772 4222131026005760 450 262164 3.000000 100 0 0 0 12 35840 80 0 160 0 288 35
+ 0
+0
+
+ itm_m_twohand_sword Two-handed_Sword Two-handed_Sword 1  twohand_sword_a 0  38996541443 9223635924301119728 750 155668 4.000000 100 0 0 0 14 49152 82 0 140 0 279 48
+ 0
+0
+
+ itm_m_kleymor Claymore Claymore 1  kleymor_a 0  341835779 9223635924301119728 650 155668 3.000000 100 0 0 0 13 38912 87 0 125 0 276 38
+ 0
+0
+
+ itm_bad_pike Old_Pike Old_Pike 1  pika_b 0  2814754471280644 13229330280743168 100 8202 1.750000 100 0 0 0 7 20480 76 0 320 0 280 20
+ 0
+0
+
+ itm_norm_pika Pike Pike 1  pika_a 0  2814754471280644 13229330280743168 200 8202 2.000000 100 0 0 0 7 22528 77 0 325 0 284 22
+ 0
+0
+
+ itm_good_pike_m Balanced_Pike Balanced_Pike 1  pika_a 0  2814754471280644 13229330280743168 350 8202 2.000000 100 0 0 0 8 24576 80 0 325 0 286 24
+ 0
+0
+
+ itm_bad_spear Old_Spear Old_Spear 1  spear_b_2-75m 0  2814754200748036 13229330280743168 50 8202 1.000000 100 0 0 0 0 20480 89 0 175 0 282 20
+ 0
+0
+
+ itm_good_spear Spear Spear 1  spear_f_2-9m 0  2814754202845188 13229330280743168 175 8202 1.250000 100 0 0 0 8 25600 93 0 190 0 288 25
+ 0
+0
+
+ itm_bad_lance Old_Lance Old_Lance 1  cavalry_lance_a 0  2251806394810372 13229330280743168 150 8202 1.000000 100 0 0 0 6 0 85 0 160 0 280 0
+ 0
+0
+
+ itm_norm_lance Lance Lance 1  cavalry_lance_b 0  2251806394810372 13229330280743168 250 8202 1.000000 100 0 0 0 7 0 89 0 160 0 284 0
+ 0
+0
+
+ itm_good_lance Heavy_Lance Heavy_Lance 1  kava_pika_a 0  2251806394810372 13229330280743168 400 8202 1.250000 100 0 0 0 9 0 77 0 180 0 288 0
+ 0
+0
+
+ itm_gusar_lance Hussar_Lance Hussar_Lance 1  pol_gusar_lansa_b 0  2251806394810372 13229330280743168 500 8202 2.500000 100 0 0 0 12 0 60 0 320 0 292 0
+ 0
+0
+
+ itm_m_mosk_pehota_forma Marksman_Uniform Marksman_Uniform 1  mosk_streletz_spear 0  16777229 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_strelok_forma Marksman_Uniform Marksman_Uniform 1  mosk_streletz 0  16777229 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_kava_forma Broadcloth Broadcloth 1  sermyaga 0  553648141 0 0 123731968 1.000000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_bad_armor Tegilai Tegilai 1  tegilyay3 0  16777229 0 400 123731968 6.000000 60 0 15 15 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_light_armor Short_Bakhterets Short_Bakhterets 1  mosk_bahter_simple 0  16777229 0 600 704643236 10.000000 60 0 23 7 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_norm_armor Bakhterets Bakhterets 1  moskow_bahter 0  16777229 0 900 704643236 17.000000 50 0 38 10 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_good_armor Mirror_Armor Mirror_Armor 1  mosk_zertzalo 0  16777229 0 1500 704643236 24.000000 15 0 53 13 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_notsogood_armor Brigandine Brigandine 1  kalmyk_tors 0  16777229 0 1000 704643236 23.000000 10 0 42 12 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_pehota_forma Pikemen_Uniform Pikemen_Uniform 1  poland_shinel 0  16777229 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_strelok_forma Musketeer_Uniform Musketeer_Uniform 1  poland_musket_shinel 0  16777229 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_kava_forma Dragoon_Uniform Dragoon_Uniform 1  poland_dragoon 0  16777229 0 0 123731968 1.500000 90 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_light_armor Armor-clad_Jacket Armor-clad_Jacket 1  pol_koja_usilenaya 0  16777229 0 350 123731968 6.000000 80 0 16 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_norm_armor Chain_mail Chain_mail 1  polish_panzernik 0  16777229 0 700 704643236 14.000000 60 0 25 11 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_good_k_armor Coat_of_mail Coat_of_mail 1  pol_krilatiy_gusar_b 0  16777229 0 1100 704643238 14.000000 30 0 50 2 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_good_p_armor Cuirass Cuirass 1  german_line_pikiner 0  16777229 0 1200 704643238 14.000000 40 0 35 20 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_uber_p_armor Armor Armor 1  swd_blck_reytar 0  16777229 0 1600 704643238 20.000000 15 0 50 30 12 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_uber_k_armor Hussar_Armor_with_Hide Hussar_Armor_with_Hide 1  pol_husar_yaguar 0  16777229 0 1500 704643238 18.000000 15 0 50 13 12 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_pehota_forma Zupan Zupan 1  ukr_jupan_siniy 0  553648141 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_strelok_forma Zupan Zupan 1  ukr_jupan_red 0  553648141 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_kava_forma Zupan Zupan 1  ukr_jupan_brown 0  553648141 0 0 123731968 1.500000 100 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_bad_armor Armor-clad_Zupan Armor-clad_Zupan 1  ukr_jupan_usilenuy 0  16777229 0 200 123731968 5.000000 80 0 10 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_light_armor Leather-clad_Zupan Leather-clad_Zupan 1  ukr_koj_kurtka 0  16777229 0 325 123731968 6.000000 70 0 15 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_norm_armor Chain_mail Chain_mail 1  ukr_kolcha 0  16777229 0 650 704643236 13.000000 60 0 23 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_good_armor Zupan_with_chain_mail Zupan_with_chain_mail 1  ukr_kolcha_jupan 0  16777229 0 950 704643236 15.000000 50 0 30 20 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_archer_forma Robe Robe 1  simple_halat1 0  553648141 0 0 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_kava_forma Robe Robe 1  simple_halat2 0  553648141 0 0 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_bad_armor_a Thick_Robe Thick_Robe 1  ttr_halat1 0  553648141 0 150 123731968 3.000000 80 0 5 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_bad_armor_b Thick_Robe Thick_Robe 1  ttr_halat2 0  553648141 0 150 123731968 3.000000 80 0 5 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_light_armor_a Quilted_Robe Quilted_Robe 1  ttr_stega_halat1 0  553648141 0 300 123731968 3.500000 70 0 10 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_light_armor_b Quilted_Robe Quilted_Robe 1  ttr_stega_halat2 0  553648141 0 300 123731968 3.500000 70 0 10 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_norm_armor Chain_mail Chain_mail 1  ttr_kolcha 0  16777229 0 700 704643236 14.000000 50 0 25 13 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_good_armor Yushman Yushman 1  yushman 0  16777229 0 1000 704643236 18.000000 40 0 40 15 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_pehot_forma Outfit Outfit 1  swed_selyanin_b 0  553648141 0 0 123731968 1.000000 100 0 3 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_strelok_forma Musketeer_Uniform Musketeer_Uniform 1  swed_musketeer 0  16777229 0 0 123731968 1.500000 100 0 3 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_kava_forma Dragoon_Uniform Dragoon_Uniform 1  swed_dragoon 0  16777229 0 0 123731968 1.500000 100 0 3 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_light_armor Leather_Camisole Leather_Camisole 1  swed_leibguard 0  553648141 0 200 123731968 5.000000 70 0 9 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_norm_armor Half-Cuirass Half-Cuirass 1  swed_kirasa_b 0  16777229 0 650 704643238 7.500000 90 0 25 1 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_good_p_armor Cuirass Cuirass 1  swed_pikeman 0  16777229 0 1000 704643238 14.000000 40 0 35 20 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_uber_p_armor Half-Armor Half-Armor 1  swed_swordmaster 0  16777229 0 1400 704643238 18.000000 20 0 50 15 12 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_good_k_armor Reiter_Half-Armor Reiter_Half-Armor 1  reytar_puzo 0  16777229 0 1500 704643238 19.000000 20 0 55 15 12 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_shapka Hat Hat 1  shlapa_blue_c 0  536870924 0 50 123731968 1.000000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_light_helmet Rusty_Morion Rusty_Morion 1  morion_simple 0  12 0 300 704643238 2.500000 70 30 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_norm_p_helmet Morion Morion 1  morion_good 0  12 0 650 704643238 3.000000 50 38 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_good_k_helmet Reiter_Helmet Reiter_Helmet 1  reytar_sholom 0  12 0 800 704643238 3.500000 30 45 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_swed_good_p_helmet Armet Armet 1  armet 0  2147483660 0 1000 704643238 4.250000 10 60 0 0 13 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_shapka Hat Hat 1  mosk_hat_streletz_c 0  536870924 0 50 123731968 1.000000 90 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_light_helmet Paper_Hat Paper_Hat 1  shapka_bumajna_a 0  12 0 150 123731968 1.000000 80 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_norm_helmet Iron_Hat Iron_Hat 1  shapka_jeleznaya 0  12 0 300 704643238 2.000000 80 25 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_good_helmet Cone Cone 1  mosk_shishak 0  12 0 600 704643236 2.750000 40 35 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_mosk_uber_helmet Boyar_Helmet Boyar_Helmet 1  boyar_sholom 0  12 0 900 704643238 3.500000 30 45 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_shapka Hat Hat 1  pol_hat_mehova_pero 0  536870924 0 50 123731968 1.000000 90 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_good_shapka Hat Hat 1  pol_hat_good2 0  536870924 0 100 123731968 1.000000 70 10 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_light_helmet Misiurka Misiurka 1  misurka_b 0  12 0 275 704643236 1.500000 60 21 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_norm_helmet Cabasset Cabasset 1  kabasset 0  12 0 400 704643238 2.250000 80 30 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_good_helmet Hussar_Helmet Hussar_Helmet 1  husar_sholom 0  12 0 1000 704643238 3.750000 20 50 0 0 11 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_pol_uber_helmet Reiter_Helmet Reiter_Helmet 1  blck_reytar_sholom 0  12 0 900 704643238 3.500000 20 45 0 0 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_shapka Hat Hat 1  ukr_shapka_s_perom_a 0  536870924 0 50 123731968 1.000000 90 6 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_light_helmet Misiurka Misiurka 1  misurka_c 0  12 0 200 704643236 1.500000 60 20 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ukr_norm_helmet Hat_with_Misiurka Hat_with_Misiurka 1  ukr_shapka_s_misurkoy 0  12 0 350 704643236 1.750000 50 28 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_shapka Hat Hat 1  rebro_hat_pero 0  536870924 0 50 123731968 1.250000 100 5 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_light_helmet Misiurka Misiurka 1  misurka_a 0  12 0 225 704643236 1.500000 60 25 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_norm_helmet Light_Helmet Light_Helmet 1  ttr_sholom_b 0  12 0 375 704643236 2.250000 50 30 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_ttr_good_helmet Helmet Helmet 1  ttr_sholom_good 0  12 0 500 704643236 3.000000 30 35 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_granata_small Grenade Grenade 1  bombaaa_s 0  4194314 65536 1200 0 4.000000 100 0 0 0 0 0 70 18 20 1 612 0
+ 0
+1
+-52.000000  4 2071 1 1224979098644774912 701 1 51 719 2 51 1 1 4 936748722493063882 1224979098644774912 60 6 
+
+ itm_bad_gloves Battered_Gloves Battered_Gloves 1  black_L 0  15 0 100 123731968 0.250000 80 0 1 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_norm_gloves Leather_Gloves Leather_Gloves 1  brown_L 0  15 0 200 123731968 0.250000 60 0 3 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_gloves Fur_Gloves Fur_Gloves 1  kava_L 0  15 0 300 123731968 0.250000 50 0 5 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_uber_gloves Gauntlets Gauntlets 1  lat_simple_L 0  15 0 500 704643238 1.000000 40 0 8 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bad_boots Village_Boots Village_Boots 1  selo_boots 0  536874766 0 0 123731968 1.000000 100 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bad_boots_mosk Bast_Shoes Bast_Shoes 1  mosk_postoli_a 0  536874766 0 0 123731968 1.000000 100 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bad_boots_swed Shoes Shoes 1  tufli 0  536874766 0 0 123731968 1.000000 80 0 0 1 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bad_boots_k Old_Cavalry_Boots Old_Cavalry_Boots 1  sapogi_kavaleria_black 0  536874766 0 200 123731968 2.000000 70 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_norm_boots_k Cavalry_Boots Cavalry_Boots 1  sapogi_kavaleria_red 0  536874766 0 300 123731968 2.000000 60 0 0 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_boots_k Good_Cavalry_Boots Good_Cavalry_Boots 1  sapogi_kavaleria_yellow 0  536874766 0 400 123731968 2.000000 50 0 0 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bad_boots_p Old_Boots Old_Boots 1  sapogi_pehota_black 0  536874766 0 175 123731968 4.000000 80 0 0 3 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_norm_boots_p Boots Boots 1  sapogi_pehota_red 0  536874766 0 275 123731968 2.000000 70 0 0 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_boots_p Good_Boots Good_Boots 1  sapogi_pehota_yellow 0  536874766 0 375 123731968 4.000000 60 0 0 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bad_botforts Old_Jackboots Old_Jackboots 1  botforts_black 0  536874766 0 250 123731968 3.000000 70 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_norm_botforts Jackboots Jackboots 1  botforts_brown 0  536874766 0 350 123731968 3.000000 60 0 0 7 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_botforts Good_Jackboots Good_Jackboots 1  botforts_yellow 0  536874766 0 450 123731968 3.000000 40 0 0 10 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_good_boots_ttr Good_Boots Good_Boots 1  kalmyk_tapki 0  536874766 0 425 123731968 1.500000 40 0 0 9 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_reserved_001 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_002 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_003 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_004 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_005 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_006 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_007 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_008 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_009 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_010 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_011 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_012 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_013 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_014 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_015 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_016 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_017 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_018 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_019 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_020 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_021 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_022 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_023 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_024 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_025 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_026 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_027 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_028 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_029 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_030 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_031 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_032 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_033 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_034 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_035 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_036 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_037 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_038 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_039 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_040 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_041 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_042 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_043 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_044 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_045 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_046 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_047 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_048 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_049 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_050 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_051 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_052 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_053 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_054 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_reserved_055 {!}reserved {!}reserved 1  amphora_slim 0  11 0 220 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
+0
+
+ itm_noob_dubinka Club Club 1  wooden_stick 0  12976130 9223388532775583758 5 0 1.000000 100 0 0 0 0 4096 70 0 65 0 256 516
+ 0
+0
+
+ itm_noob_toporik Hatchet Hatchet 1  plotn_toporik 0  17592265998338 9223388530091229198 20 262164 1.500000 100 0 0 0 7 8192 40 0 60 0 256 8
+ 0
+0
+
+ itm_m_janissar_hat Janissary_hat Janissary_hat 1  janissary_hat_a 0  12 0 20 123731968 1.250000 70 3 0 0 0 0 0 0 0 0 0 0
+ 1
+ 16
+0
+
+ itm_m_yanichar_forma Janissary_Uniform Janissary_Uniform 1  janichar1 0  16777229 0 50 123731968 2.000000 80 0 2 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_janissary_tapki Janissary_Shoes Janissary_Shoes 1  janissary_tapki 0  536874766 0 100 123731968 1.000000 40 0 0 2 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_m_yatagan_bad Yataghan Yataghan 2  yatagan_simple 0  yatagan_simple_scabbard 3458764513820540928  12582914 9223388564719403022 150 24596 1.000000 100 0 0 0 0 20480 108 0 80 0 0 20
+ 0
+0
+
+ itm_m_yatagan_good Damascus_steel_Yataghan Damascus_steel_Yataghan 2  yatagan_good 0  yatagan_good_scabbard 3458764513820540928  12582914 9223388564719403022 400 24596 1.000000 100 0 0 0 0 22528 110 0 80 0 0 22
+ 0
+0
+
+ itm_duel_sword Dueling_Sword Dueling_Sword 2  polyak_sablya_pure_c 0  polyak_sablya_pure_c_scabbard 3458764513820540928  12582914 9223388564182532110 330 24596 1.250000 100 0 0 0 0 20480 92 0 95 0 256 20
+ 0
+0
+
+ itm_items_end End_of_list End_of_list 1  shield_round_a 0  0 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+

@@ -1,0 +1,68 @@
+module_party_templates.py:
+Add this to the end of the file on the line just before the last "]" (line 194 for me):
+  ("kingdom_p_reinforcements_b", "kingdom_p_reinforcements_b", 0, 0, fac_commoners, 0, [(trp_watchman,2,6),(trp_mercenary_crossbowman,4,7)]),
+
+
+module_scripts.py:
+Find this line (line 381 for me):
+      (faction_set_slot, "fac_player_supporters_faction", slot_faction_marshall, "trp_player"),
+and add this line after it:
+      (faction_set_slot, "fac_player_supporters_faction", slot_faction_reinforcements_b, "pt_kingdom_p_reinforcements_b"),
+
+
+module_game_menus.py:
+Find "camp_action" (line 1499 for me) and add in this (I inserted these on line 1505):
+      ("action_caravan_troops",
+       [(faction_get_slot, ":active", "fac_player_supporters_faction", slot_faction_state),
+        (eq, ":active", sfs_active),
+        ],"Change your caravan troops.",
+       [(jump_to_menu, "mnu_camp_action_caravan_troops"),
+        ]
+       ),
+
+Then add this menu to the file (I inserted these on line 1549):
+  ("camp_action_caravan_troops",0,
+   "Select the type of troops you want to protect your caravans.",
+   "none",
+   [],
+    [
+      ("action_set_faction_1",[],"Polish Commonwealth.",
+       [(faction_set_slot, "fac_player_supporters_faction",  slot_faction_reinforcements_b, "pt_kingdom_1_reinforcements_b"),
+        (display_message, "@You have changed your caravan troops to The Polish Commonwealth."),
+        (change_screen_return),
+        ]
+       ),
+      ("action_set_faction_2",[],"Muscovite Tsardom.",
+       [(faction_set_slot, "fac_player_supporters_faction",  slot_faction_reinforcements_b, "pt_kingdom_2_reinforcements_b"),
+        (display_message, "@You have changed your caravan troops to The Muscovite Tsardom."),
+        (change_screen_return),
+        ]
+       ),
+      ("action_set_faction_3",[],"Crimean Khanate.",
+       [(faction_set_slot, "fac_player_supporters_faction",  slot_faction_reinforcements_b, "pt_kingdom_3_reinforcements_b"),
+        (display_message, "@You have changed your caravan troops to The Crimean Khanate."),
+        (change_screen_return),
+        ]
+       ),
+      ("action_set_faction_4",[],"Kingdom of Sweden.",
+       [(faction_set_slot, "fac_player_supporters_faction",  slot_faction_reinforcements_b, "pt_kingdom_4_reinforcements_b"),
+        (display_message, "@You have changed your caravan troops to The Kingdom of Sweden."),
+        (change_screen_return),
+        ]
+       ),
+      ("action_set_faction_5",[],"Cossack Hetmanate.",
+       [(faction_set_slot, "fac_player_supporters_faction",  slot_faction_reinforcements_b, "pt_kingdom_5_reinforcements_b"),
+        (display_message, "@You have changed your caravan troops to The Cossack Hetmanate."),
+        (change_screen_return),
+        ]
+       ),
+      ("action_set_faction_p",[],"Mercenaries.",
+       [(faction_set_slot, "fac_player_supporters_faction",  slot_faction_reinforcements_b, "pt_kingdom_p_reinforcements_b"),
+        (display_message, "@You have changed your caravan troops to mercenaries."),
+        (change_screen_return),
+        ]
+       ),
+      ]
+  ),
+
+Source: https://forums.taleworlds.com/index.php/topic,46290.msg1364053.html#msg1364053

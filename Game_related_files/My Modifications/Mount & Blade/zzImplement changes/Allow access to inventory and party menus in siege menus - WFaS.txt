@@ -1,0 +1,7 @@
+module_game_menus.py:
+Look for this line (line 4188 for me):
+    "castle_besiege",mnf_scale_picture,"You are laying siege to {s1}. {s2} {s3}",
+and change it to say:
+    "castle_besiege",mnf_enable_hot_keys|mnf_scale_picture,"You are laying siege to {s1}. {s2} {s3}",
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1241498.html#msg1241498

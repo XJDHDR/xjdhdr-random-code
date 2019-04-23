@@ -1,0 +1,39 @@
+module_scripts.py:
+Find the lines that contain the following:
+    (assign, ":quest_dont_give_again_period", <number>)
+The number is the number of days that must pass before a quest can be repeated.
+Due to the number of these lines, I will list the places I found them in my file and the quest affected below:
+- 17749 - Lord: Provoke war
+- 17767 - Lady or Hero: Rescue prisoner
+- 17824 - Village: Deliver grain
+- 17837 - Village: Deliver cattle
+- 17850 - Village: Train against bandits
+- 17891 - Town: Deliver wine
+- 17902 - Town: Troublesome bandits
+- 17902 - Town: Kidnapped girl
+- 17934 - Town: Move cattle herd
+- 17962 - Town: Persuade lords to make peace
+- 17976 - Town: Deal with looters
+- 17985 - Town: Deal with night bandits
+- 18037 - Lady: Rescue prisoner
+- 18061 - Lady: Deliver message to prisoner
+- 18081 - Lady: Duel for the lady
+- 18113 - Enemy lord: Lend surgeon
+- 18142 - Lord: Meet spy
+- 18165 - Lord: Raid caravan to start war
+- 18186 - Lord: Deliver message
+- 18233 - Lord: Escort lady
+- 18448 - Lord: Train troops
+- 18465 - Lord: Collect taxes
+- 18476 - Lord: Hunt down fugitive
+- 18511 - Lord: Murder local merchant
+- 18544 - Lord: Bring back runaway serfs
+- 18579 - Lord: Follow spy
+- 18597 - Lord: Capture enemy lord
+- 18657 - Lord: Lend companion
+- 18679 - Lord: Collect debt
+- 18829 - Lord: Incriminate commander
+- 18855 - Lord: Capture prisoners
+- 19108 - Minister: Political quests
+
+Source: http://forums.taleworlds.com/index.php/topic,46290.msg1212981.html#msg1212981
