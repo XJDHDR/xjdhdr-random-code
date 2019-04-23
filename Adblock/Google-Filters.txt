@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Y3LBEuAr66cTswormGQafA
-! Version: 201904220215
+! Checksum: o0e/38aWy6eqFhgOG3khtw
+! Version: 201904230215
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Apr 2019 02:15 UTC
+! Last modified: 23 Apr 2019 02:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1478,6 +1478,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||qqtqicbvrwg.com^$third-party
 ||rdooybwcuyg.com^$third-party
 ||rdwcvesg.com^$third-party
+||rigybdgiubwqg.com^$third-party
 ||rjwdhpxdrufbcg.com^$third-party
 ||rmjwdosemtg.com^$third-party
 ||roibwbjaclwgg.com^$third-party
@@ -5403,7 +5404,7 @@ comicbook.com,narew.info#@#.icon-googleplus
 flattr.com#@#.icon-youtube
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 californiasunday.com,youtube.com#@#.share-bar
-analyticsindiamag.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,comicbook.com,dogs-magazin.de,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,invisioncommunity.co.uk,livetheorganicdream.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,professorshouse.com,reefbuilders.com,sensationrock.net,stocksbeat.com,tripzilla.ph,zagranie.com#@#.share-container
+analyticsindiamag.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,comicbook.com,dogs-magazin.de,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,professorshouse.com,reefbuilders.com,sensationrock.net,stocksbeat.com,tripzilla.ph,zagranie.com#@#.share-container
 disqus.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,livelib.ru,tumblr.com#@#.share-menu
 flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 viewbug.com#@#.share-with-friends
