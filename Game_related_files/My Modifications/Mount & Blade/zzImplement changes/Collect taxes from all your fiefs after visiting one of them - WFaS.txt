@@ -45,3 +45,5 @@ and replace it with this:
         (assign, reg1, ":total_tax"),
         (call_script, "script_troop_add_gold", "trp_player", ":total_tax"),      ],
     [
+
+Source: https://forums.taleworlds.com/index.php/topic,48078.msg1244586.html#msg1244586

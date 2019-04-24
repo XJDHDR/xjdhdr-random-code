@@ -16,3 +16,4 @@
 - Allow access to inventory and party menus in siege menu.
 - Mills give 5% prosperity every month (assembled code only - not Python source).
 - Collect taxes from all your fiefs after visiting one of them.
+- Recruit villagers after your party has more then 12 people.

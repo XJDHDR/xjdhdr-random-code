@@ -1,0 +1,35 @@
+module_scripts.py:
+Search for this block of code (lines 29082 - 29109 for me):
+  ("cf_village_recruit_volunteers_cond",
+    [	
+	 (neg|party_slot_eq, "$current_town", slot_village_state, svs_looted),
+     (neg|party_slot_eq, "$current_town", slot_village_state, svs_being_raided),
+     (neg|party_slot_ge, "$current_town", slot_village_infested_by_bandits, 1),
+
+     (store_faction_of_party, ":village_faction", "$current_town"),	 
+     (party_get_slot, ":center_relation", "$current_town", slot_center_player_relation),
+     (store_relation, ":village_faction_relation", ":village_faction", "fac_player_faction"),
+     (ge, ":center_relation", 0),
+	 (ge, ":village_faction_relation", 0),
+	 
+	 (try_begin),
+	   (call_script, "script_party_count_members_with_full_health", "p_main_party"),
+	   (assign, ":number_of_members", reg0),
+	   (le, ":number_of_members", 10),	 
+	   (assign, ":player_has_center", 0),
+	   (try_for_range, ":cur_center", centers_begin, centers_end),
+	     (party_get_slot, ":center_lord", ":cur_center", slot_town_lord),
+	     (eq, ":center_lord", "trp_player"),
+	     (assign, ":player_has_center", 1),
+	   (try_end),
+	   (eq, ":player_has_center", 0),
+
+	   (assign, ":player_is_at_harsh_conditions", 1),
+     (else_try),
+	   (assign, ":player_is_at_harsh_conditions", 0),
+     (try_end),
+Comment out or delete these lines:
+	   (assign, ":number_of_members", reg0),
+	   (le, ":number_of_members", 10),	 
+
+Source: My own research.

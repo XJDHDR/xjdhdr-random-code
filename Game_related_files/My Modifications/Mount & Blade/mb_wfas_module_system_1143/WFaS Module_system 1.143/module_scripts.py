@@ -29093,8 +29093,8 @@ scripts = [
 	 
 	 (try_begin),
 	   (call_script, "script_party_count_members_with_full_health", "p_main_party"),
-	   (assign, ":number_of_members", reg0),
-	   (le, ":number_of_members", 10),	 
+##	   (assign, ":number_of_members", reg0),
+##	   (le, ":number_of_members", 10),	 
 	   (assign, ":player_has_center", 0),
 	   (try_for_range, ":cur_center", centers_begin, centers_end),
 	     (party_get_slot, ":center_lord", ":cur_center", slot_town_lord),
