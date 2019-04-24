@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vgWN1VaaLLyQ0zVhQ3Jcdg
-! Version: 201904230215
+! Checksum: j5FiuFSxQd14//BJA7xvJA
+! Version: 201904240215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 23 Apr 2019 02:15 UTC
+! Last modified: 24 Apr 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -29,10 +29,6 @@
 ! Static text/image ads by InfluAds
 @@||influads.com^$script,image
 #@##influads_block
-!:partner_token=hon30.org
-!:partner_id=8341714b11150d77
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=9778
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -338,19 +334,6 @@ wg-gesucht.de##DIV[id^="div-gpt-ad-"][style^="margin: 11px "]
 @@||an.yandex.ru/resource/context_static_r*.js$domain=droidmid.com.ua
 @@||an.yandex.ru/page/*^callback^$script,domain=droidmid.com.ua
 @@||droidmid.com.ua^$elemhide
-!:partner_token=gutefrage.net GmbH
-!:partner_id=36c493e6b1e32bb8
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13466
-! helpster.de search & content ads
-helpster.de#@#.ads-list
-helpster.de#@#.ads
-helpster.de#@#.csiAd_medium
-!:partner_token=cosmiq.de
-!:partner_id=933dd1f86a292167
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13465
-! cosmiq.de content ads
 !:partner_token=jakubmarian.com
 !:partner_id=a5582a6387868593
 !:type=partner
@@ -867,17 +850,6 @@ homework.net.ua#@##reklama
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=19503
 ! Wikihoops.com ads
-!:partner_token=cheaptickets.com
-!:partner_id=fe29e57725e51ea1
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=19515
-! orbitz.com, cheaptickets.com and hotwire.com ads
-! @@||s.btstatic.com/tag.js$domain=orbitz.com|cheaptickets.com
-! @@||a.intentmedia.net/adServer/$domain=orbitz.com|cheaptickets.com|hotwire.com
-! orbitz.com,cheaptickets.com,hotwire.com#@#.IM_ad_unit
-! ||a.intentmedia.net/images/abp_pixel/px.gif?ch=2$domain=orbitz.com|cheaptickets.com|hotwire.com
-! @@||a.intentmedia.net/images/abp_pixel/px.gif?ch=1$domain=orbitz.com|cheaptickets.com|hotwire.com
-! ||a.intentmedia.net/exit_unit.html?$popup,domain=cheaptickets.com|hotwire.com
 !:partner_token=Chip.de
 !:partner_id=2c194a73edde4e47
 !:type=partner
@@ -1436,14 +1408,6 @@ t-online.de#@##Tall > .Tpcpx + #Tasf
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24477
 ! teneriffa-news.com ads
 @@||ampproject.net/1457112743399/$subdocument,domain=teneriffa-news.com,document
-!:partner_token=windows-phone-8.ru
-!:partner_id=6ecdb09e2d606edd
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24647
-! windows-phone-8.ru ads
-@@||an.yandex.ru/system/context.js$domain=windows-phone-8.ru
-@@||an.yandex.ru/resource/context_static_r*.js$domain=windows-phone-8.ru
-@@||an.yandex.ru/page/*^callback^$script,domain=windows-phone-8.ru
 !:partner_token=math1.ru
 !:partner_id=53a6d85a2ace0310
 !:type=partner
@@ -1490,11 +1454,6 @@ banana.by#@#.top_banner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24724
 ! senseyeesports.com ads
 senseyeesports.com#@#.mom-ad
-!:partner_token=nakomputer.ru
-!:partner_id=1890331e79ae344e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24725
-! nakomputer.ru ads
 !:partner_token=101sovet.ucoz.net
 !:partner_id=393d070ac71632a2
 !:type=partner
@@ -1664,6 +1623,7 @@ thenoob.net#@#.adinjwidget
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
+@@||ads.taboola.com^$domain=taboola.com
 telva.com#@#.content-ad
 bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
 submanga.online#@#.ads-large
@@ -2009,11 +1969,6 @@ gislounge.com#@#.banner-ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=27379
 ! Theiapolis.com ads
-!:partner_token=urban-legend.net
-!:partner_id=87fb637c02c1af50
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=27522
-! urban-legend.net ads
 !:partner_token=divertir.eu
 !:partner_id=fe66f5f44ec12e48
 !:type=partner
@@ -2131,13 +2086,6 @@ netzwelt.de#@#.ligatus
 ! techstream.org ads
 @@||carbonads.com/carbon.js$domain=techstream.org
 @@||srv.carbonads.net/ads/$script,domain=techstream.org
-!:partner_token=thewildernist.org
-!:partner_id=cac62c77e4f2204e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=28342
-! thewildernist.org ads
-thewildernist.org#@#.ad-unit
-thewildernist.org#@#.adunit
 !:partner_token=cameralabs.org
 !:partner_id=81b2c85dbc53ce3c
 !:type=partner
@@ -2404,11 +2352,6 @@ rmfmaxxx.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=31655
 ! golfladders.co.uk ads
-!:partner_token=woodfantasy.co.uk
-!:partner_id=70205776e39aef92
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=34889
-! woodfantasy.co.uk ads
 !:partner_token=wallpapersimages.co.uk
 !:partner_id=091e3ecdf0f2ea87
 !:type=partner
@@ -3464,16 +3407,6 @@ washingtontimes.com#@##ad-lead
 @@||intermarkets.net/u/Intermarkets/DrudgeReport/$domain=drudgereport.com
 @@||passback.free.fr/webmails/pub/rc_free_$subdocument,domain=webmail.free.fr
 ! Criteo sponsored products on retailer websites
-!:partner_token=experthometips.com
-!:partner_id=f5ded9f3ad27280d
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42079
-! experthometips.com ads
-@@||ads.untaptmedia.com/server.js$domain=experthometips.com
-@@||ads.untaptmedia.com/px.gif?ch=1&rn=$domain=experthometips.com
-||ads.untaptmedia.com/px.gif?ch=2&rn=$domain=experthometips.com
-@@||offers.untaptmedia.com/aff_ad?$script,domain=experthometips.com
-@@||media.go2speed.org/brand/files/untaptmedia/$image,domain=experthometips.com
 !:partner_token=Curse
 !:partner_id=f615659f2fc7ce11
 !:type=partner
@@ -3530,19 +3463,6 @@ minecraftforum.net#@#.atf-ad-medRect
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42209
 ! allgaeu-erleben.com ads
 @@||trivago.de/de/srv/destination/js/hotel_$script,domain=allgaeu-erleben.com
-!:partner_token=personv.cf
-!:partner_id=baca5f438294f084
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42068
-! personv.cf ads
-@@||takru.com/in.php?id=$script,domain=personv.cf
-@@||a-ads.com^*^size=120x60^$subdocument,domain=personv.cf
-@@||a-ads.com^*^size=728x90^$subdocument,domain=personv.cf
-!:partner_token=memopc.ru
-!:partner_id=f6214a87879bbb4a
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42067
-! memopc.ru ads
 !:partner_token=hearthstonewiki.ru
 !:partner_id=18976e85c7ea66cf
 !:type=partner
@@ -4255,11 +4175,6 @@ green-arrow-france.fr#@##publicite
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43757
 ! mirai.so ads
-!:partner_token=kobieta.guru
-!:partner_id=a27c8cfdc3dfde75
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43798
-! kobieta.guru ads
 !:partner_token=genialchat.de
 !:partner_id=5df4788a9c4d7da7
 !:type=partner
@@ -4508,13 +4423,6 @@ fabcrusaders.com#@##ad_text:not(textarea)
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44820
 ! Ennovative ads
 @@||financeweb.org/search/$elemhide
-!:partner_token=Halal.ad
-!:partner_id=c3c7c45571a80ff5
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44864
-! Halal.ad ads
-@@||halal.ad^$third-party
-@@||halal.ad^$subdocument,document
 !:partner_token=OkoClick
 !:partner_id=4cfe0ae142472423
 !:type=partner
@@ -5946,7 +5854,7 @@ clubroadster.net#@#.ad-card
 clubroadster.net#@#.bottom-ad
 clubroadster.net#@#.in-content-ad
 headphonereview.com#@#.home-ad
-wowhead.com#@#.afs_ads
+wowhead.com,accuweather.com#@#.afs_ads
 urbandictionary.com#@#.ad-panel
 wikia.com#@##WikiaTopAds
 iogames.space#@#.view-advertisements
@@ -6016,6 +5924,10 @@ prosportsdaily.com#@#.ad-header
 w3schools.com#@##mainLeaderboard
 w3schools.com#@#.bottomad
 sporcle.com#@#.display-wide
+accuweather.com#@#.logo-ad
+accuweather.com#@##aadTop300
+accuweather.com#@##header-davek
+accuweather.com#@##top
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6296,8 +6208,8 @@ supereva.it#@#.se-ligatus
 p-magazine.be#@#.bsac
 p-magazine.be#@#.bsac-container
 ! Content recommendations
-@@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
-@@||updater.hyde.ligatus.com/js^$script,domain=routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
+@@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=lesnumeriques.com|routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
+@@||updater.hyde.ligatus.com/js^$script,domain=lesnumeriques.com|routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -6653,8 +6565,8 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
 ! OLX Global B.V. ads
-@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.ro|olx.bg|olx.pt
-||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.ro|olx.bg|olx.pt
+@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.ro|olx.pt
+||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.ro|olx.pt
 olx.pt#@#div[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
@@ -6704,6 +6616,19 @@ flashscores.co.uk,flashscore.se,flashscore.de##.seoAdWrapper
 flashscores.co.uk,flashscore.se,flashscore.de#@#.adstextpad
 flashscores.co.uk,flashscore.se,flashscore.de#@#.adsenvelope
 flashscores.co.uk,flashscore.se,flashscore.de#@#.adsghori
+!:partner_token=VigLink
+!:partner_id=ea93b6c9f9f7f29b
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23242
+! VigLink affiliate links
+||viglink.com/images/pixel.gif?ch=2$third-party
+@@||viglink.com/api/insert^$third-party
+@@||viglink.com/api/optimize^$third-party
+@@||viglink.com/api/ping^$xmlhttprequest,third-party
+@@||viglink.com/api/domains^$third-party
+@@||viglink.com/api/vglnk.js$third-party
+@@||viglink.com/api/pixel.gif$third-party
+@@||viglink.com/images/pixel.gif?ch=1$third-party
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -8270,7 +8195,6 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||swoodoo.at^$elemhide
 @@||swoodoo.ch^$elemhide
 !A109
-@@||auone.jp^$elemhide
 @@||search.auone.jp^$elemhide
 @@||sp-image.search.auone.jp^$elemhide
 @@||sp-news.search.auone.jp^$elemhide
@@ -8292,6 +8216,8 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||ebay.ch^*/ScandalLoader.js
 @@||ebay.ie^*/ScandalLoader.js
 @@||ebay.pl^*/ScandalLoader.js
+!A111
+@@||cgi.search.biglobe.ne.jp^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
