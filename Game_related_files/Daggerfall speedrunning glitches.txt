@@ -1,0 +1,24 @@
+Alt-F11 is a hotkey that returns you to the last place you stood still in. If no such place exists, i.e. from reloading a game or in this case starting a new game, it teleports you to the exit of the dungeon. 
+
+If you hold down the Travel Map key before activating a dungeon exit, it will open up the world map before it loads in the world, removing load times. 
+
+Buffer jumping is a glitch I found where, while running, you open the Transport menu, hold Run, Forward, and Jump, and when you click on the red exit button, the game will shoot you forward really quickly. The game has a faster frame rate when looking up, so you jump farther when looking up. 
+
+When you see the spellcasting menu and the orange squares appear on the screen, I'm casting a custom-made leveling spell really quickly to level up to 8 really quickly. All it entails is holding the Cast Spell button and Enter, and the game will spam the first spell in your spellbook very fast. 
+
+Alt-F11 is used again to minimize traveling distance by warping back to dungeon exits. 
+
+The Dirak drop (thanks to Dirak_) involves attacking the air while holding Jump, and, while falling, clicking on the door you want to enter. The downward momentum is applied to the next screen, and depending on the location you entered, you fall through the floor very quickly or land on top of geometry. 
+
+Getting Spell Absorption in character creation allows you to absorb your own damage spell indefinitely: if you use a custom “Area at Range” spell, you don’t get damaged, but things around you do. 
+
+You can manipulate where you arrive in towns by fast traveling to another location before going to the place you want to go. In this case, re-traveling to where you are will have a chance at putting you closer to where you want to be. 
+
+You can pre-turn certain quests by clicking on the quest giver one additional time, which will make them telepathically communicate with you when you complete the quest, saving a trip back to them. 
+
+You can clip through reality by finding a sloped surface, crouching, and floating up through the geometry. 
+
+A super jump is a buffer jump off a tall house combined with slogfall. Basically, you become an airplane. This is the fastest known speed you can travel in Daggerfall, and it is possible to jump across the entire Iliac Bay in one jump from the top of Sentinel Palace. 
+The ability to super jump means that parts of the main quest can be skipped: the Missing Prince quest, the Wayrest painting quest, and the Stronghold of the Blades quest are no longer necessary, as their only quest reward is the location of two places, two places where you can super jump to. 
+
+Special thanks to puri_puri for the initial routing, dirak_ for finding the Dirak drop, and ShizudoTengoku for accidentally finding out that you don't have to be level 10 to complete the main quest!﻿
