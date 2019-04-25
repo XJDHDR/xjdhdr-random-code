@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j5FiuFSxQd14//BJA7xvJA
-! Version: 201904240215
+! Checksum: lwIWf+ii+TriCD0+mHRChQ
+! Version: 201904250215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 24 Apr 2019 02:15 UTC
+! Last modified: 25 Apr 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -875,6 +875,7 @@ chip.de#@#.ad-head
 chip.de#@##trippleTipp
 chip.de##DIV[id^="contentad-adX-"]
 chip.de#@#div[data-adzone="contentad-afc-main"]
+chip.de#@##contentad-topbanner-1
 ||chip.de/unabh_dateien/14039041/tomorrow_focus_chipde_bild-text-kombinationen_50x50_outlet_08aw14.gif
 !
 !
@@ -2898,13 +2899,6 @@ thevarsity.ca#@#.ad-med-rect
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=17002
 ! energyauditorhq.com ads
-!:partner_token=Funke Digital GmbH
-!:partner_id=856a706daea6f339
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=41091
-! Ads on sites by Funke Medien Gruppe
-otz.de,tlz.de,thueringer-allgemeine.de#@##adunit
-thueringer-allgemeine.de#@#.advertising
 !:partner_token=Criteo
 !:partner_id=90a526090032f6fe
 !:type=partner
@@ -5475,11 +5469,6 @@ manualslib.com#@#.adslot_2
 manualslib.com#@#.adslot_3
 manualslib.com#@#.dl_ad
 manualslib.com#@#.adv_div
-!:partner_token=wyznaczanie-trasy.com
-!:partner_id=6752b750cf6397ce
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=51509
-! wyznaczanie-trasy.com and satelitarna-map.com ads
 !:partner_token=interestrateswapstoday.com
 !:partner_id=d5631ed14df9b1a4
 !:type=partner
@@ -6944,6 +6933,7 @@ testpages.adblockplus.org#@##abptest
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
+@@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -6967,7 +6957,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header

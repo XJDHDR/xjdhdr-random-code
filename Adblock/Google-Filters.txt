@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OJt6SghS8EbrtWMwQoOgNg
-! Version: 201904240215
+! Checksum: 0BrtO4fSw73LzbnWvTK9bg
+! Version: 201904250215
 ! Title: Block Google's adverts and tracking only
-! Last modified: 24 Apr 2019 02:15 UTC
+! Last modified: 25 Apr 2019 02:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -184,7 +184,7 @@
 /toigoogleleads_
 /vifGoogleAd.
 /widgetadsense.
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.socialtheater.com|~ads.taboola.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
 ;adsense_
 =showsearchgoogleads&
 _adsense.
@@ -1503,6 +1503,7 @@ africasports.net,bakersfield.com,biggestplayer.me,cheatpain.com,diplomat.so,dire
 ||whjibbprhng.com^$third-party
 ||whlvjuprdpkg.com^$third-party
 ||wjevvjxwg.com^$third-party
+||wjuowevxibmg.com^$third-party
 ||wrrytjtsyhrnfg.com^$third-party
 ||xcgebfplttrdg.com^$third-party
 ||xcwnwrgvwg.com^$third-party
@@ -5455,8 +5456,9 @@ ferratum.pl,greenflag.com#@#.cookie-message
 samsung.com,verisign.com#@#.cookie-warning
 samsung.com#@#.cookiewarning
 porndig.com,thagson.com#@#.disclaimer_wrapper
-coastalliving.com,cookinglight.com,essence.com,ew.com,fortune.com,golf.com,health.com,hellogiggles.com,instyle.com,mirjan24.pl,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
+coastalliving.com,cookinglight.com,essence.com,ew.com,fortune.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
 @@||bing.net/videos/thumbnail.aspx?$domain=bing.com
+@@||cdn.jsdelivr.net^*/jquery.particleground.min.js?$script,domain=url.hulblog.com
 @@||google.com/friendconnect/$script,domain=blogspot.com
 @@||l.yimg.com/zz/combo?*social
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
@@ -5527,6 +5529,7 @@ coastalliving.com,cookinglight.com,essence.com,ew.com,fortune.com,golf.com,healt
 @@||softpedia-static.com/images/*-Google-plus-$image,domain=softpedia.com
 @@||techfrag.com/wp-content/uploads/*/youtube-$image
 @@||tegna-tv.com^*/googleplus-user-account.js
+@@||thecompany.pl/graf/icons/youtube.png
 @@||theinterview-movie.com/images/btn_youtube.png
 @@||themobileplaybook.com/assets-v2/images/google-mobile-playbook*.png
 @@||thrusto.com/images/google+.png
