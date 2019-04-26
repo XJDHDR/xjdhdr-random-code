@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lwIWf+ii+TriCD0+mHRChQ
-! Version: 201904250215
+! Checksum: UvXpNTvzqHA8Wt+3zzUKLA
+! Version: 201904260215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 25 Apr 2019 02:15 UTC
+! Last modified: 26 Apr 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6934,6 +6934,7 @@ testpages.adblockplus.org#@##abptest
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
+@@||lib.wtg-ads.com/prebid/prebid_$script,domain=sportal.bg
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
