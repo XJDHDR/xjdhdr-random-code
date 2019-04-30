@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7XBRcSbME9pYDm7RZY1eDA
-! Version: 201904290215
+! Checksum: BgoLKuFT5r8UJD5rdq1yYA
+! Version: 201904300215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 29 Apr 2019 02:15 UTC
+! Last modified: 30 Apr 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5729,6 +5729,9 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 broadwayworld.com#@#.ad-desktop
 kizi.com#@#.banner_holder
 vesty.co.il,ynet.co.il#@#.general_banner_ad
+cinemablend.com#@#.ads_slot
+cinemablend.com#@##slot_drawer
+triviahive.com#@#.right-rail-ad
 ynet.co.il#@##ads\.top
 ynet.co.il#@#.pplus_hdr_ad
 wnd.com#@#.widget_wnd_prom_widget
@@ -5779,6 +5782,7 @@ yad2.co.il#@##martef
 zerohedge.com#@#.placement
 knowyourmeme.com#@#.header-unit-wrapper
 knowyourmeme.com#@#.rectangle-unit-wrapper
+@@||hb.vntsm.com/v2/live/*$domain=test.venatusmedia.com
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6547,9 +6551,9 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=62985
 ! POLSKA PRESS GRUPA ads
-||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl
-||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl
-@@||ampproject.org/rtv/*/amp4ads-$script,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl
+||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
+||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
+@@||ampproject.org/rtv/*/amp4ads-$script,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
 !:partner_token=OLX Global B.V.
 !:partner_id=42b71aaf433714e0
 !:type=partner
@@ -8196,18 +8200,17 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||sp-web.search.auone.jp^$elemhide
 !A110
 @@||ebaystatic.com^*/ScandalJS-
-@@||ebaystatic.com^
 @@||ebay.com^*/ScandalLoader.js
-@@||ebay.at^*/ScandalLoader.js
-@@||ebay.be^*/ScandalLoader.js
-@@||ebay.fr^*/ScandalLoader.js
-@@||ebay.de^*/ScandalLoader.js
-@@||ebay.it^*/ScandalLoader.js
-@@||ebay.nl^*/ScandalLoader.js
-@@||ebay.es^*/ScandalLoader.js
-@@||ebay.ch^*/ScandalLoader.js
-@@||ebay.ie^*/ScandalLoader.js
-@@||ebay.pl^*/ScandalLoader.js
+@@||ebay.at^*/ScandalLoader.js$domain=ebay.at
+@@||ebay.be^*/ScandalLoader.js$domain=ebay.be
+@@||ebay.fr^*/ScandalLoader.js$domain=ebay.fr
+@@||ebay.de^*/ScandalLoader.js$domain=ebay.de
+@@||ebay.it^*/ScandalLoader.js$domain=ebay.it
+@@||ebay.nl^*/ScandalLoader.js$domain=ebay.nl
+@@||ebay.es^*/ScandalLoader.js$domain=ebay.es
+@@||ebay.ch^*/ScandalLoader.js$domain=ebay.ch
+@@||ebay.ie^*/ScandalLoader.js$domain=ebay.ie
+@@||ebay.pl^*/ScandalLoader.js$domain=ebay.pl
 !A111
 @@||cgi.search.biglobe.ne.jp^$elemhide
 !:partner_token=Oath
