@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BgoLKuFT5r8UJD5rdq1yYA
-! Version: 201904300215
+! Checksum: WG38Cr4CtoOx99Sph770DA
+! Version: 201905010215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 30 Apr 2019 02:15 UTC
+! Last modified: 01 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1344,8 +1344,8 @@ popculture-y.com#@#.wpInsertInPostAd
 @@||amazon-adsystem.com/prefs/$script
 @@||amazon-adsystem.com^*/associates-ads/$image
 @@||amazon-adsystem.com^*^t=$image
-!:partner_token=Spoods GmbH
-!:partner_id=d887d48514e99197
+!:partner_token=InteractiveMedia CCSP GmbH
+!:partner_id=1b6e0160268ae27c
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24087
 ! t-online.de ads
@@ -6271,7 +6271,8 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp###ad-slider-wrapper
 softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad-slider-wrapper
 softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .js-modal-overlay
 softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .modal__overlay + .ad--displayed
-softonic.com.br,softonic.pl,softonic.jp#@#.ad-content
+softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.ad-content
+softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.ad--displayed
 !
 !
 @@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp
