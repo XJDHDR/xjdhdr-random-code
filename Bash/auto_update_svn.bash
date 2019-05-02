@@ -339,10 +339,11 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
 
 	#   GitHub
-	svn status '/home/svn/xjdhdr-random-code/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
-	do
-		svn add "$sFile"
-	done
+#	svn status '/home/svn/xjdhdr-random-code/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
+#	do
+#		svn add "$sFile"
+#	done
+	svn status '/home/svn/xjdhdr-random-code/' | awk '{if ($1 == "?") print $2 }' | xargs svn add
 	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache --force-interactive \
 		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
 } 2> '/tmp/stderr-contents-auto_update_svn.txt'
