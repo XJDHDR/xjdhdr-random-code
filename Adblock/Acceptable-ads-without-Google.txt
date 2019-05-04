@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jClQhYe04Ve19HDnqQJFyw
-! Version: 201905030215
+! Checksum: 8kn+jBysGLG77gQMM8fP9g
+! Version: 201905040215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 03 May 2019 02:15 UTC
+! Last modified: 04 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5723,15 +5723,9 @@ tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,jooral
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.top-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.big-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.left-ad
-haaretz.co.il,themarker.com#@#div[class*="banner"]
-haaretz.co.il,themarker.com#@##top_banners
-telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 broadwayworld.com#@#.ad-desktop
 kizi.com#@#.banner_holder
-vesty.co.il,ynet.co.il#@#.general_banner_ad
-cinemablend.com#@#.ads_slot
-cinemablend.com#@##slot_drawer
-triviahive.com#@#.right-rail-ad
+ynet.co.il#@#.general_banner_ad
 ynet.co.il#@##ads\.top
 ynet.co.il#@#.pplus_hdr_ad
 wnd.com#@#.widget_wnd_prom_widget
@@ -5744,6 +5738,13 @@ wnd.com#@#.left_prom_160
 yad2.co.il#@#div[id^="dfp-slot-"]
 yad2.co.il#@#[id$="bottom_banner"]
 heraldweekly.com#@#.single-ad
+capital.com.tr#@#.ad-banner
+chip.com.tr#@#.ad
+chip.com.tr#@#.ad300
+chip.com.tr#@#.ad728
+chip.com.tr#@#.ad-center
+chip.com.tr#@#.adspace
+chip.com.tr#@#.footerad
 wnd.com#@#.top-ad-container
 mako.co.il#@#.ad
 mako.co.il#@#.feed-ad
@@ -5780,9 +5781,10 @@ buzznet.com#@#.ad-holder
 yad2.co.il#@##desktop-top-banners
 yad2.co.il#@##martef
 zerohedge.com#@#.placement
-knowyourmeme.com#@#.header-unit-wrapper
-knowyourmeme.com#@#.rectangle-unit-wrapper
-@@||hb.vntsm.com/v2/live/*$domain=test.venatusmedia.com
+haaretz.co.il,themarker.com#@#div[class*="banner"]
+haaretz.co.il,themarker.com#@##top_banners
+vesty.co.il#@#.general_banner_ad
+telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6560,8 +6562,8 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
 ! OLX Global B.V. ads
-@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.ro|olx.pt|olx.bg
-||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.ro|olx.pt|olx.bg
+@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt|olx.bg
+||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt|olx.bg
 olx.pt#@#div[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
