@@ -343,7 +343,11 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 #	do
 #		svn add "$sFile"
 #	done
-	svn status '/home/svn/xjdhdr-random-code/' | awk '{if ($1 == "?") print $2 }' | xargs svn add
+	sNewFiles=$(svn status '/home/svn/xjdhdr-random-code/' | awk '{if ($1 == "?") print $2 }')
+	if [[ $sNewFiles != "" ]]
+	then
+		printf '%s' "$sNewFiles" | xargs svn add
+	fi
 	sshpass -f "$HOME/github_password.txt" svn commit --username=XJDHDR --no-auth-cache --force-interactive \
 		-m 'Automatic update of Adblock, Bash + blocklist files' '/home/svn/xjdhdr-random-code'
 } 2> '/tmp/stderr-contents-auto_update_svn.txt'
