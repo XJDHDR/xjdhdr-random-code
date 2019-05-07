@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P/q0rSmDx81a+yNxIuFQcQ
-! Version: 201905060215
+! Checksum: s+rR+6GrOf50QK7wq3ggFQ
+! Version: 201905070215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 06 May 2019 02:15 UTC
+! Last modified: 07 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6966,7 +6966,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
@@ -7008,10 +7008,13 @@ seattletimes.com#@#.ad
 seattletimes.com#@#.footer-ad
 domesticatedcompanion.com#@#.single-ad
 boredpanda.com#@#.adsbox
-boredpanda.com#@#.pub_300x250
+boredpanda.com,agame.com#@#.pub_300x250
 boredpanda.com#@#.text-ad
 adtechdaily.com#@#.td-a-rec
 adtechdaily.com#@#div[class*="td-a-rec-id-"]
+agame.com#@#.ad-leaderboard
+agame.com#@#.ad-skyscraper
+agame.com#@#.ad-mpu
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
@@ -8879,3 +8882,8 @@ style.yahoo.com#@#.gemini-ad
 !
 nachrichten.yahoo.com#@#[data-ad-enhanced="card"]
 nachrichten.yahoo.com#@#.ad-source
+!:partner_token=ecosia.org
+!:partner_id=c1757eb4f2c4d962
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
+! ecosia.org sponsored search results

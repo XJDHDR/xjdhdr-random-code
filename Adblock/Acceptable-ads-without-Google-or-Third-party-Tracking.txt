@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HfmmIRRUh74sMa5oxFGCnw
-! Version: 201905060215
+! Checksum: eakKGEeLdEkhu4/XZhKOWA
+! Version: 201905070215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters or third-party tracking
-! Last modified: 06 May 2019 02:15 UTC
+! Last modified: 07 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -342,3 +342,8 @@ style.yahoo.com#@#.gemini-ad
 !
 nachrichten.yahoo.com#@#[data-ad-enhanced="card"]
 nachrichten.yahoo.com#@#.ad-source
+!:partner_token=ecosia.org
+!:partner_id=c1757eb4f2c4d962
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
+! ecosia.org sponsored search results
