@@ -17,3 +17,13 @@
 - Mills give 5% prosperity every month (assembled code only - not Python source).
 - Collect taxes from all your fiefs after visiting one of them.
 - Recruit villagers after your party has more then 12 people.
+
+
+
+Bugfixes:
+- module_dialogs.py
+	- Line 7747: "...you've gotten us into, {playername}.This might turn very ugly..." --> "...you've gotten us into, {playername}. This might turn very ugly..."
+- module_strings.py
+	- Line 459: "turn every battle into a bloodbath..." --> "every battle turning into a bloodbath..."
+	- Line 897: "...Especially after that communion when him, when he..." --> "...Especially after that communion with him, when he..."
+

@@ -456,7 +456,7 @@ strings = [
   ("men_hungry", "plunge into famine"), ##Done - simple triggers
   ("men_unpaid", "plunge into poverty"),
 #  ("party_crushed", "get ourselves slaughtered"), ##Done - game menus
-  ("excessive_casualties", "turn every battle into a bloodbath for our side"),
+  ("excessive_casualties", "every battle turning into a bloodbath for our side"),
 
 # chivalric
   ("surrender", "{!}NOT USED"),
@@ -894,7 +894,7 @@ strings = [
   ("npc2_personalitymatch_speech", "Let me just say that I wish there were more warriors like {s11} in our company! He is a very educated man, and knows all about bloodletting."),
   ("npc3_personalitymatch_speech", "I just wanted to say that {s11} is the finest man in the entire company, even though he is a Muslim."),
   ("npc4_personalitymatch_speech", "I must say this -- {s11} is a lovely girl! I gave her a pinch the other day, and she beat me with a halter so violently that I had to run away..."),
-  ("npc5_personalitymatch_speech", "To be frank, if there is an upright man amongst us, it is surely {s11}. Even though I am a Lutheran, I consider him a holy father. Especially after that communion when him, when he and I finished off a wood-o-wine full of good Tokay."),
+  ("npc5_personalitymatch_speech", "To be frank, if there is an upright man amongst us, it is surely {s11}. Even though I am a Lutheran, I consider him a holy father. Especially after that communion with him, when he and I finished off a wood-o-wine full of good Tokay."),
   ("npc6_personalitymatch_speech", "{Sir/Madam}, I feel myself healthy and fresh. Recently {s11} applied his leeches to me. That doctor is worthy of respect and honor."),
   ("npc7_personalitymatch_speech", "Pardon me, captain, if I'm sticking my nose into what is no business of mine, but I want you to know something -- {s11} is a true warrior and friend!"),
   ("npc8_personalitymatch_speech", "Whatever they say, Tatars and Cossacks are brothers indeed! Last night, me and {s11} were returning from the inn with arms round each other, singing songs. He sang the Cossack songs, while I sung the Tatar ones. A fine night it was! -- The villagers ran out in their nightclothes to listen to us."),
