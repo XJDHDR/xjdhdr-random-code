@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s+rR+6GrOf50QK7wq3ggFQ
-! Version: 201905070215
+! Checksum: NcY8RtG991RJhP4OpgWNvw
+! Version: 201905080215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 07 May 2019 02:15 UTC
+! Last modified: 08 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -260,6 +260,7 @@ reddit.com##.promotedvideolink
 @@||t.myvisualiq.net^$image,domain=reddit.com
 @@||d.agkn.com^$image,domain=reddit.com
 @@||tps30.doubleverify.com^$image,domain=reddit.com
+@@||in.qbk1.com^$image,domain=reddit.com
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -6825,6 +6826,8 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||track.adform.net/Serving/TrackPoint$image,third-party
 @@||d.adroll.com/ipixel$image,third-party
 @@||stags.bluekai.com/site/$image,third-party
+@@||secure.adnxs.com/seg$image,third-party
+@@||ads.yahoo.com/cms/v1$image,third-party
 !:type=combined
 ! Global whitelists for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup
