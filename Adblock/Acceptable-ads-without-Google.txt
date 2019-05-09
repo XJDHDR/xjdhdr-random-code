@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NcY8RtG991RJhP4OpgWNvw
-! Version: 201905080215
+! Checksum: VVbHMsp707f8IH6jwdoL0g
+! Version: 201905090215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 08 May 2019 02:15 UTC
+! Last modified: 09 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5785,6 +5785,7 @@ zerohedge.com#@#.placement
 haaretz.co.il,themarker.com#@#div[class*="banner"]
 haaretz.co.il,themarker.com#@##top_banners
 vesty.co.il#@#.general_banner_ad
+segodnya.ua#@#div[id^="admixer_"]
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -5799,6 +5800,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
 @@||hb.vntsm.com/*/live/ad-manager.min.js$script,domain=venatusmedia.com|gosunoob.com|futbin.com
+@@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
+@@||static.h-bid.com^$script,domain=morewords.com
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -6627,6 +6630,22 @@ flashscores.co.uk,flashscore.se,flashscore.de#@#.adsghori
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
+!:partner_token=HABR LLC
+!:partner_id=d5ea49f4ddfab0f5
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65559
+! Habrahabr LLC ads
+!:partner_token=express-novosti.ru
+!:partner_id=be2745a8380cdcf3
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65938
+! lexperts.ru ads
+@@||an.yandex.ru/system/context.js$domain=express-novosti.ru
+@@||an.yandex.ru/resource/context_static_r*.js$domain=express-novosti.ru
+@@||an.yandex.ru^*^callback^$domain=express-novosti.ru
+@@||yandex.net/get-direct/$domain=express-novosti.ru,image
+@@||an.yandex.ru/partner-code-bundles/$domain=express-novosti.ru,image
+express-novosti.ru#@#div[id^="yandex_rtb"]
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
