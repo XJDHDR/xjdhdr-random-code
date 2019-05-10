@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VVbHMsp707f8IH6jwdoL0g
-! Version: 201905090215
+! Checksum: cCglug0YwWyF9jXkaxS/Iw
+! Version: 201905100215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 09 May 2019 02:15 UTC
+! Last modified: 10 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -390,7 +390,7 @@ winfuture.de##.wf_gcsi[style="width:660px;min-height:200px;background-color:whit
 winfuture.de###news_content > .o_hidden > .singleblock_news_top
 winfuture.de##.hp_latest > .o_hidden > DIV[class^="singleblock_homepage_slot"]
 winfuture.de##.ws_singleAdNews
-winfuture.de#@##frnAdSky
+! winfuture.de#@##frnAdSky
 !:partner_token=winfuture.de
 !:partner_id=81ccc29d4fa307ee
 !:type=partner
@@ -5007,6 +5007,7 @@ foot01.com#@#[id^="ligatus_"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=47740
 ! AdRecover ads
+@@||adpushup.com/innovativeAdsDemo/demo-page-shell.js$domain=adpushup.com
 freewarefiles.com#@#div > iframe[style]
 mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
