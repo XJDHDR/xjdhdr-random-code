@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cCglug0YwWyF9jXkaxS/Iw
-! Version: 201905100215
+! Checksum: pZi6pW8ovbT1nt7ZNnBrvg
+! Version: 201905110215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 May 2019 02:15 UTC
+! Last modified: 11 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7038,6 +7038,7 @@ adtechdaily.com#@#div[class*="td-a-rec-id-"]
 agame.com#@#.ad-leaderboard
 agame.com#@#.ad-skyscraper
 agame.com#@#.ad-mpu
+agame.com#@#.sgAd
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
