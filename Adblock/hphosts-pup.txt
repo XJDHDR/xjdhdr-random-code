@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FIqhZuUya1ZzwBEF3ym+MQ
-! Version: 201905120215
+! Checksum: 2ZZmQSdm2PZdU9gQEt7sfg
+! Version: 201905130215
 ! Title: HP Hosts pup list
-! Last modified: 12 May 2019 02:15 UTC
+! Last modified: 13 May 2019 02:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -265,6 +265,7 @@
 ||advancedpctechnology.com^
 ||advancedpctools.com^
 ||advancedpctuneup.com^
+||advancedsyscare.info^
 ||advancedsyscare.org^
 ||advancedsystemcare.safe-cart.store^
 ||advancedsystemcare.safe-mart.store^
@@ -866,6 +867,7 @@
 ||betterdealakamaiflash.icu^
 ||bettergreatakamaiflash.icu^
 ||bettergreatreformflash.icu^
+||bettermechanic.online^
 ||betternewtab.com^
 ||betternewtabsearch.com^
 ||bettersearch.co^
@@ -8337,6 +8339,7 @@
 ||pcprotect.com^
 ||pcpurifier.co^
 ||pcregboost.com^
+||pcregcleaners.online^
 ||pcregfix.com^
 ||pcregistryrepairtools.com^
 ||pcrepairutils.com^
@@ -8759,6 +8762,7 @@
 ||qbitcleanpc.live^
 ||qbitcleanpc.xyz^
 ||qbitmypctools.club^
+||qbitmypctools.live^
 ||qbitmypctools.xyz^
 ||qbitpcboost.club^
 ||qbitpcboost.live^
@@ -9033,6 +9037,8 @@
 ||reg-convoy.com^
 ||regace.com^
 ||regcsystemcleners.com^
+||regdoc.xyz^
+||regeasyfixer.xyz^
 ||regentsihhmsvjk.download^
 ||reghunter-support.com^
 ||reghunter.com^
@@ -11358,6 +11364,8 @@
 ||smartpcware.com^
 ||smartsecureshopping.com^
 ||smartsystemcare.safe-mart.store^
+||smartsysutils.com^
+||smartsysutils.info^
 ||smartwebchoices.com^
 ||smartwebuser.net^
 ||smatchedoiztefwif.download^
@@ -11641,6 +11649,7 @@
 ||store.opccleanutils.world^
 ||store.opcspeedtools.live^
 ||store.opcspeedutils.xyz^
+||store.ospeedypcutils.live^
 ||store.osysboostutils.club^
 ||store.osyscleantools.world^
 ||store.osyscleantools.xyz^
@@ -14407,6 +14416,7 @@
 ||www.advancedpccare.net^
 ||www.advancedpctools.com^
 ||www.advancedpctuneup.com^
+||www.advancedsyscare.info^
 ||www.advancedsyscare.org^
 ||www.advancepc-care.icu^
 ||www.advancepc-care.pw^
@@ -15024,6 +15034,7 @@
 ||www.betterechorawflash.icu^
 ||www.bettergetpageflash.icu^
 ||www.bettergonextflash.icu^
+||www.bettermechanic.online^
 ||www.betternavigateflash.icu^
 ||www.betternewtabsearch.com^
 ||www.betterpcconcreteflash.icu^
@@ -22340,6 +22351,7 @@
 ||www.pcprotect.com^
 ||www.pcpurifier.co^
 ||www.pcregboost.com^
+||www.pcregcleaners.online^
 ||www.pcregfix.com^
 ||www.pcregistryrepairtools.com^
 ||www.pcrepairutils.com^
@@ -22832,6 +22844,7 @@
 ||www.qbitcleanpc.live^
 ||www.qbitcleanpc.xyz^
 ||www.qbitmypctools.club^
+||www.qbitmypctools.live^
 ||www.qbitmypctools.xyz^
 ||www.qbitpcboost.club^
 ||www.qbitpcboost.live^
@@ -23071,6 +23084,8 @@
 ||www.reformlvgxnahec.download^
 ||www.refresh-windows.com^
 ||www.regace.com^
+||www.regdoc.xyz^
+||www.regeasyfixer.xyz^
 ||www.regentsihhmsvjk.download^
 ||www.reghunter-support.com^
 ||www.reghunter.com^
@@ -25386,6 +25401,8 @@
 ||www.smartpctools.com^
 ||www.smartpctweaker.com^
 ||www.smartsecureshopping.com^
+||www.smartsysutils.com^
+||www.smartsysutils.info^
 ||www.smartwebchoices.com^
 ||www.smartwebuser.net^
 ||www.smatchedoiztefwif.download^
@@ -30785,4 +30802,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 30764
+! Hosts: 30781
