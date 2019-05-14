@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RAO782NT6sI68M1mvS3CFQ
-! Version: 201905130215
+! Checksum: 3k3bT7XVyl2450PxhaqYNQ
+! Version: 201905140215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 13 May 2019 02:15 UTC
+! Last modified: 14 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5718,7 +5718,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||cdnjquery.com^$script,third-party
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 @@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
-@@^btserve=true$domain=healthline.com|fandom.com|wikia.com|imgur.com|slickdeals.net|drudgereport.com
+@@^btserve=true$domain=healthline.com|fandom.com|wikia.com|imgur.com|slickdeals.net|drudgereport.com|trakt.tv
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.middle-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.right-ad
@@ -5928,6 +5928,8 @@ accuweather.com#@#.logo-ad
 accuweather.com#@##aadTop300
 accuweather.com#@##header-davek
 accuweather.com#@##top
+knowyourmeme.com#@#.header-unit-wrapper
+knowyourmeme.com#@#.rectangle-unit-wrapper
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6567,8 +6569,8 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
 ! OLX Global B.V. ads
-@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt|olx.bg
-||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt|olx.bg
+@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt
+||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt
 olx.pt#@#div[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
