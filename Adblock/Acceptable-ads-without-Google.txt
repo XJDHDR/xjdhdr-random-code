@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3k3bT7XVyl2450PxhaqYNQ
-! Version: 201905140215
+! Checksum: rKY3ULAzGvpJFgK8jBoIFQ
+! Version: 201905150215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 14 May 2019 02:15 UTC
+! Last modified: 15 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5719,6 +5719,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 @@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
 @@^btserve=true$domain=healthline.com|fandom.com|wikia.com|imgur.com|slickdeals.net|drudgereport.com|trakt.tv
+@@^btserve=true$document,domain=healthline.com|fandom.com|wikia.com|imgur.com|slickdeals.net|drudgereport.com|trakt.tv
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.middle-ad
 tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.right-ad
