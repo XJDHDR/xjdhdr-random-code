@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kftOVBxsZAaZsAyILHminQ
-! Version: 201905160215
+! Checksum: 7CIfFTTB6NS08R9nCYPhWg
+! Version: 201905170215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 16 May 2019 02:15 UTC
+! Last modified: 17 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1626,6 +1626,7 @@ thenoob.net#@#.adinjwidget
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
 @@||ads.taboola.com^$domain=taboola.com
+localnews.manoramaonline.com#@#.mmads
 telva.com#@#.content-ad
 bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
 submanga.online#@#.ads-large
