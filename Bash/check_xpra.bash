@@ -9,7 +9,7 @@ then
 	return 1
 fi
 
-if [[ "$(pgrep firefox)" != '' ]]
+if [[ "$(pgrep firefox)" == '' ]]
 then
 	DISPLAY=:100 firefox >/dev/null 2>/dev/null &
 	return 1
