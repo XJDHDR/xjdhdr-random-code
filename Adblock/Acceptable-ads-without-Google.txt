@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aBbvwCg1uaKG24zoFZLPSQ
-! Version: 201905200215
+! Checksum: pTcwmD7QXfFA3iuiy1yXzQ
+! Version: 201905210215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 20 May 2019 02:15 UTC
+! Last modified: 21 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1625,9 +1625,12 @@ thenoob.net#@#.adinjwidget
 @@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=kw.arabiaweather.com
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
-@@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net
+@@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net|stirescu.ro
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
 @@||ads.taboola.com^$domain=taboola.com
+gistreel.com#@#.mvp-widget-ad
+gistreel.com#@#.mvp_ad_widget
+patch.com#@#.box-taboola-content
 localnews.manoramaonline.com#@#.mmads
 telva.com#@#.content-ad
 bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
@@ -6574,9 +6577,9 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
 ! OLX Global B.V. ads
-@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt
-||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt
-olx.pt#@#div[id^="div-gpt-ad"]
+! @@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt
+! ||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt
+! olx.pt#@#div[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
 !:type=partner
@@ -6608,23 +6611,6 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||awin1.com/cshow.php?$image,domain=correrunamaraton.com
 @@||belboon.de/adtracking/$image,domain=correrunamaraton.com
 @@||zanox.com/images/$image,domain=correrunamaraton.com
-!:partner_token=LivesportMedia
-!:partner_id=73491d1b58fe9013
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65562
-! LivesportMedia ads
-@@||flashscores.co.uk/res/image/advert/icon-adverth.png$domain=flashscores.co.uk
-@@||flashscore.se/res/image/advert/icon-adverth.png$domain=flashscore.se
-@@||flashscore.de/res/image/advert/icon-adverth.png$domain=flashscore.de
-@@||advert.livesportmedia.eu/block/right-7.php?id=383718^$subdocument,document,domain=flashscores.co.uk
-@@||advert.livesportmedia.eu/block/right-7.php?id=405813^$subdocument,document,domain=flashscore.se
-@@||advert.livesportmedia.eu/block/right-7.php?id=590098^$subdocument,document,domain=flashscore.de
-@@||content.livesportmedia.eu/delivery?zones=$script,domain=flashscores.co.uk|flashscore.se|flashscore.de
-flashscores.co.uk,flashscore.se,flashscore.de##.adsbackground-wrapper
-flashscores.co.uk,flashscore.se,flashscore.de##.seoAdWrapper
-flashscores.co.uk,flashscore.se,flashscore.de#@#.adstextpad
-flashscores.co.uk,flashscore.se,flashscore.de#@#.adsenvelope
-flashscores.co.uk,flashscore.se,flashscore.de#@#.adsghori
 !:partner_token=VigLink
 !:partner_id=ea93b6c9f9f7f29b
 !:type=partner
@@ -7051,6 +7037,7 @@ agame.com#@#.ad-leaderboard
 agame.com#@#.ad-skyscraper
 agame.com#@#.ad-mpu
 agame.com#@#.sgAd
+agame.com#@##sgAdScGp160x600
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
