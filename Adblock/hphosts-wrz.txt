@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wgMyqH9dt2sqGmOissoOWw
-! Version: 201905240215
+! Checksum: KWbCcQ8QQp5+5gCuSGey7w
+! Version: 201905250215
 ! Title: HP Hosts wrz list
-! Last modified: 24 May 2019 02:15 UTC
+! Last modified: 25 May 2019 02:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -708,7 +708,6 @@
 ||online-tv.ws^
 ||online.free-movies-downloads.com^
 ||onlybestmovie.com^
-||opgemmje.com^
 ||orlydb.com^
 ||overdoss.wordpress.com^
 ||ovg.cc^
@@ -2150,4 +2149,4 @@
 ||zonawarez.net^
 ||zoomtorrents.com^
 ||zoozle.org^
-! Hosts: 2128
+! Hosts: 2127

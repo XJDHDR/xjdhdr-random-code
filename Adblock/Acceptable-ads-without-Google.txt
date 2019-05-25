@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hakFW3tP68fGzC9kXACnWQ
-! Version: 201905240215
+! Checksum: xgrEnQFQ36ke+2dk67fksQ
+! Version: 201905250215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 24 May 2019 02:15 UTC
+! Last modified: 25 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6676,6 +6676,14 @@ digireality.cz#@#[id^="aswift"]
 @@||rs.mail.ru^$image,domain=vk.com
 @@||tps.doubleverify.com^$image,domain=vk.com
 @@||track.adform.net^$image,domain=vk.com
+!:partner_token=A-Ads
+!:partner_id=62d8aa6a6105d0b8
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=66031
+! A-Ads
+@@||acceptable.a-ads.com^$document,subdocument,domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
+@@||a-ads.com/px.gif?ch=1$domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
+||a-ads.com/px.gif?ch=2$domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -6995,6 +7003,7 @@ testpages.adblockplus.org#@##abptest
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=sportal.bg
+@@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7127,6 +7136,9 @@ jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.co
 @@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
 !
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au
+@@||d1lxz4vuik53pc.cloudfront.net^*/inner.html$subdocument,document,domain=amazon.com
+@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-left-advertising-1&$script,domain=amazon.com
+@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-bottom-advertising-0&$script,domain=amazon.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
