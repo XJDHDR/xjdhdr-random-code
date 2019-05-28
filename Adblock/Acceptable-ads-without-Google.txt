@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MKfne1FvoX7kCzvwb1cy2w
-! Version: 201905270215
+! Checksum: XW3RvttAiHAtTRDIrQ1dAg
+! Version: 201905280215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 27 May 2019 02:15 UTC
+! Last modified: 28 May 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2304,6 +2304,8 @@ medien-internet-und-recht.de#@#.ads_div
 ! socialsweethearts.de ads on what-character-are-you.com and nametests.com
 what-character-are-you.com#@#.ad300x250
 what-character-are-you.com#@#.ad728
+apost.com#@#.ads--sidebar
+apost.com#@#.ads--top
 !:partner_token=steamcardexchange.net
 !:partner_id=4ace434bcbabc47b
 !:type=partner
