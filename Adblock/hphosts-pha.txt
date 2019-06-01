@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fCohjCkYGAG7dgv4DioAkg
-! Version: 201905310215
+! Checksum: B7lQcwKKUGqyw9qi+0pCww
+! Version: 201906010215
 ! Title: HP Hosts pha list
-! Last modified: 31 May 2019 02:15 UTC
+! Last modified: 01 Jun 2019 02:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -817,6 +817,7 @@
 ||asikam.ru^
 ||astridlynde.ru^
 ||astroandhealing.com^
+||astrovektor.ru^
 ||asug.org.ar^
 ||atarax.ws^
 ||atlantedanny.asia^
@@ -3865,6 +3866,7 @@
 ||lenkaconstance.be^
 ||leobyleo.ch^
 ||leonanietish.su^
+||lereveilcoffee.com^
 ||leroni.it^
 ||leshiabarbara.ru^
 ||leslieloise.com^
@@ -7380,6 +7382,7 @@
 ||vnacialisfbvn.com^
 ||vocj.newdrugsale.link^
 ||volleybally.com^
+||volleyhotelistanbul.com^
 ||vonnyrahel.su^
 ||vorota-ramenskoe.ru^
 ||vovuzz.com^
@@ -15121,4 +15124,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15099
+! Hosts: 15102
