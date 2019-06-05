@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qrcOA26SGtzD1x6TYxPqdA
-! Version: 201906040215
+! Checksum: yv0iBHdLg79Eg4wCdghL+A
+! Version: 201906050215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Jun 2019 02:15 UTC
+! Last modified: 05 Jun 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5751,15 +5751,18 @@ wnd.com#@#.left_prom_160
 yad2.co.il#@#div[id^="dfp-slot-"]
 yad2.co.il#@#[id$="bottom_banner"]
 heraldweekly.com#@#.single-ad
+thestudentroom.co.uk#@#.advert-block
 capital.com.tr#@#.ad-banner
-chip.com.tr#@#.ad
+ranker.com,chip.com.tr,mako.co.il,colourlovers.com#@#.ad
+ranker.com#@#.pub_300x250
+ranker.com#@#.pub_300x250m
+ranker.com#@#.pub_728x90
 chip.com.tr#@#.ad300
 chip.com.tr#@#.ad728
 chip.com.tr#@#.ad-center
 chip.com.tr#@#.adspace
 chip.com.tr#@#.footerad
 wnd.com#@#.top-ad-container
-mako.co.il#@#.ad
 mako.co.il#@#.feed-ad
 articlesvally.com#@#.ad-side
 israelnationalnews.com#@#[style] > iframe
@@ -5770,7 +5773,6 @@ timesofisrael.com#@#.banner
 timesofisrael.com#@#.b300x250
 colourlovers.com#@##ga-above-footer
 colourlovers.com#@##ga-below-header
-colourlovers.com#@#.ad
 colourlovers.com#@#[style*="background-image:"]
 gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.ad-side
 broadwayworld.com#@#.ezoic-ad
@@ -5822,6 +5824,7 @@ kongregate.com,kongregatetrunk.com#@#.horizontal_ad
 kongregate.com,kongregatetrunk.com,rasmussen.mugo.ca,rasmussenreports.com#@#.ad728x90
 kongregate.com,kongregatetrunk.com#@#.vertical_ad
 kongregate.com,kongregatetrunk.com#@#.adspacer
+kongregate.com##.ad-container
 woxikon.de#@#.ads-wrapper
 britannica.com#@#.footer-ad
 theguardian.com#@#.top-banner-ad-container
@@ -5832,6 +5835,7 @@ theguardian.com#@#.fc-slice__popular-mpu
 makeuseof.com#@#.adslot
 snopes.com#@#.gpt-ad
 probuilds.net#@#.welcome-bnr
+probuilds.net##div[adonis-marker]
 guidingtech.com#@#.ad-centered
 theguardian.com#@#.ad-slot--top-banner-ad
 theguardian.com#@#.js-top-banner
@@ -6694,6 +6698,11 @@ digireality.cz#@#[id^="aswift"]
 ! mail.ru ads
 ||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru
 @@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru
+!:partner_token=ppc.world
+!:partner_id=8e0ac9864547fe79
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=66117
+! ppc.world ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
