@@ -24,22 +24,27 @@ fi
 		# Delete lines starting with a #
 		sed -i '/^#/d' "$HOME/ip_list.txt"
 
-		ipset destroy aus-and-china-ip-range
-		ipset create aus-and-china-ip-range hash:net
-		while IFS= read -r sLineContents
-		do
-			ipset add aus-and-china-ip-range "$sLineContents"
-		done < "$HOME/ip_list.txt"
-		rm -f "$HOME/ip_list.txt"
-
 		if [[ $(iptables -nvL INPUT) =~ 'match-set aus-and-china-ip-range src' ]]
 		then
 			iptables -D INPUT -m set --match-set aus-and-china-ip-range src -j DROP
 		fi
 		if [[ $(iptables -nvL OUTPUT) =~ 'match-set aus-and-china-ip-range src' ]]
 		then
-			iptables -I OUTPUT -m set --match-set aus-and-china-ip-range src -j REJECT
+			iptables -D OUTPUT -m set --match-set aus-and-china-ip-range src -j REJECT
 		fi
+
+		CommandExitCode=0
+		CommandExitCode=$(ipset destroy aus-and-china-ip-range)
+		if [ "$CommandExitCode" -eq 0 ]
+		then
+			ipset create aus-and-china-ip-range hash:net
+			while IFS= read -r sLineContents
+			do
+				ipset add aus-and-china-ip-range "$sLineContents"
+			done < "$HOME/ip_list.txt"
+			rm -f "$HOME/ip_list.txt"
+		fi
+
 		iptables -I INPUT -m set --match-set aus-and-china-ip-range src -j DROP
 		iptables -I OUTPUT -m set --match-set aus-and-china-ip-range src -j REJECT
 	fi
