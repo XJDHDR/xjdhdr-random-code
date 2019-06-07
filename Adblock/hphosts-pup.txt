@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZW+t4bF8+PkAc6YbZJYnLg
-! Version: 201906060215
+! Checksum: hFq/Ncs5tt4sw51rVs9pCw
+! Version: 201906070215
 ! Title: HP Hosts pup list
-! Last modified: 06 Jun 2019 02:15 UTC
+! Last modified: 07 Jun 2019 02:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1676,6 +1676,7 @@
 ||bvkxmjzvabuzzing.review^
 ||bvoansentinels.review^
 ||bwoqpgwfbajree.review^
+||bwregard.pro^
 ||bwxlkefedwoolliness.review^
 ||bwxykrathrabatting.review^
 ||bxbglpiaknobbles.review^
@@ -22597,6 +22598,7 @@
 ||www.microsoft.com-repair-windows-system.live^
 ||www.microsoft.com-repairing-pc.live^
 ||www.microsoft.com-repairing-windows-system.live^
+||www.microsoft.com-shields-devices.live^
 ||www.microsoft.com-windows-booster.live^
 ||www.microsoft.com-windows-clean-system.live^
 ||www.microsoft.com-windows-clean-systems.live^
@@ -28776,6 +28778,7 @@
 ||www.unetbootin.org^
 ||www.unglueodciztaf.download^
 ||www.unhooduugeozx.download^
+||www.unifysmartutils.live^
 ||www.uniquelylsaqmqs.website^
 ||www.universaldriverupdater.com^
 ||www.universalpcoptimizer.com^
@@ -32215,4 +32218,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 32194
+! Hosts: 32197
