@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MgdJRgdUgNCU4pThw8TldQ
-! Version: 201906110215
+! Checksum: gUjJyWRaUP63otKoiWTWag
+! Version: 201906120215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 11 Jun 2019 02:15 UTC
+! Last modified: 12 Jun 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6691,13 +6691,6 @@ digireality.cz#@#[id^="aswift"]
 @@||acceptable.a-ads.com^$document,subdocument,domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
 @@||a-ads.com/px.gif?ch=1$domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
 ||a-ads.com/px.gif?ch=2$domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
-!:partner_token=mail.ru
-!:partner_id=509a8ec73c103ec4
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
-! mail.ru ads
-||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru
-@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru
 !:partner_token=ppc.world
 !:partner_id=8e0ac9864547fe79
 !:type=partner
@@ -8304,6 +8297,7 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||ebay.pl^*/ScandalLoader.js$domain=ebay.pl
 !A111
 @@||cgi.search.biglobe.ne.jp^$elemhide
+!A112
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
