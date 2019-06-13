@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gUjJyWRaUP63otKoiWTWag
-! Version: 201906120215
+! Checksum: ny1+c6UoA1Mt/d4KgSy7Jw
+! Version: 201906130215
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 12 Jun 2019 02:15 UTC
+! Last modified: 13 Jun 2019 02:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1848,7 +1848,7 @@ livenewson.com#@#.quads-ad2
 3ds-paradise.com,desired.de,espncricinfo.com,espn.com,fantasy.espn.com,espn.com.ar,espn.cl,espndeportes.espn.com,global.espn.com,espn.com.mx,tv5.espn.com,espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-headlines
 espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-links
 espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve#@#.sponsored-content
-cnet.com#@#.trc_elastic
+cnet.com,metacritic.com#@#.trc_elastic
 !:partner_token=pexels.com
 !:partner_id=70e80e4784a82f7b
 !:type=partner
@@ -5950,6 +5950,8 @@ knowyourmeme.com#@#.rectangle-unit-wrapper
 hothardware.com#@#.ad-block
 hothardware.com#@#.ad-leaderboard
 hothardware.com#@#.ad-top
+woot.com#@#.advertisement
+2kmtcentral.com#@#.player-leaderboard-ad-wrapper
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
