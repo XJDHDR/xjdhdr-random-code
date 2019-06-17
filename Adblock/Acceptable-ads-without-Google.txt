@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: f2fO8VRTxUkXMMuF0pg+OQ
-! Version: 201906161415
+! Checksum: nH5w0/C2T1hbNNpJ0lH+lQ
+! Version: 201906171415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 16 Jun 2019 14:15 UTC
+! Last modified: 17 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4652,7 +4652,7 @@ avito.ru#@#.context-flyer
 avito.ru#@#.avito-ads-container
 @@||an.yandex.ru/resource/context_static_r*.js$domain=avito.ru
 @@||an.yandex.ru/system/context.js$domain=avito.ru
-@@||an.yandex.ru^*^callback^$script,domain=avito.ru
+@@||an.yandex.ru^*^callback^$script,xmlhttprequest,domain=avito.ru
 @@||an.yandex.ru/rtbcount/$domain=avito.ru
 @@||an.yandex.ru/jserr/$domain=avito.ru
 @@||yandex.net/get-direct/$image,domain=avito.ru
@@ -4661,6 +4661,7 @@ avito.ru#@#.avito-ads-container
 @@||awaps.yandex.ru/0/9947/001001.htm$subdocument,domain=avito.ru,document
 @@||yastatic.net/pcode/adfox/loader.js$domain=avito.ru
 @@||yastatic.net/safeframe-bundles/$domain=avito.ru
+@@||yastat.net/s3/pcode/$domain=avito.ru
 !:partner_token=kodi-xbmc.com
 !:partner_id=b9b1e0edade2f7cc
 !:type=partner
