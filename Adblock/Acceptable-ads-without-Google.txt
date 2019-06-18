@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nH5w0/C2T1hbNNpJ0lH+lQ
-! Version: 201906171415
+! Checksum: 97XalM7zP7MiZzInZLxIrw
+! Version: 201906181415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 17 Jun 2019 14:15 UTC
+! Last modified: 18 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5723,6 +5723,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||btserve.com^$document,subdocument,image
 @@||lijit.com/bidder/impression
 @@||bt.fandom.com^$document,subdocument,domain=fandom.com
+@@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
 @@||videoplayerhub.com^$third-party
 @@||cdnjquery.com^$script,third-party
@@ -6444,6 +6445,7 @@ wordpress.com#@#.wpwidesky
 @@||s.pubmine.com/adv?$xmlhttprequest,domain=wordpress.com
 @@||pubpress.net/houseads/$domain=wordpress.com
 @@||s.pubmine.com/ata.js$domain=wordpress.com
+@@||c0.pubmine.com/*/ata.js$domain=wordpress.com
 ||s.pubmine.com/pixel?id=15&type=img$domain=wordpress.com
 !:partner_id=1a8580989e736521
 !:type=partner
