@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 97XalM7zP7MiZzInZLxIrw
-! Version: 201906181415
+! Checksum: I85a9SZNsJVab27BsMsUYw
+! Version: 201906191415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 18 Jun 2019 14:15 UTC
+! Last modified: 19 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -129,6 +129,7 @@ heise.de#@#a[href^="https://paid.outbrain.com/network/redir?"]
 @@||heise.de/js/prebid*.js$domain=heise.de
 heise.de#@#.ad-container
 heise.de##a-ad:not([acceptable])
+heise.de#@#.img_ad
 !:partner_token=izito.com
 !:partner_id=de5285dacf045639
 !:type=partner
