@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I85a9SZNsJVab27BsMsUYw
-! Version: 201906191415
+! Checksum: GAPl5VxxAFoSyiGqxye2tw
+! Version: 201906201415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 19 Jun 2019 14:15 UTC
+! Last modified: 20 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4980,6 +4980,7 @@ myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,inf
 myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@#[href*=".hit.gemius.pl"]
 myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@#A[href*="k.tradedoubler.com/click"]
 myfitness.pl,sport.gwar.pl,ciacha.net,naprzerwie.pl,infokobieta24.pl,moto.pl,infozdrowie24.pl,infopodroze24.pl,cuanto-sabes.com,gazetadom.pl,infoladnydom.pl,infonews24.org,magazyn-kuchnia.pl,pogodanazycie.pl,tuba.pl,gazeta.tv,swiatmotocykli.pl,plotek.pl,edziecko.pl,sport.pl,ugotuj.to,gazeta.pl,bryla.pl,avanti24.pl,logo24.pl,dyskusje24.pl#@##adunit
+@@/dfptools/adview/fif-adb.htm?adUnit=/75224259/AGORA-IN/AdBlock/*$domain=moto.pl|plotek.pl|edziecko.pl|sport.pl|dyskusje24.pl,subdocument
 !:partner_token=cuve
 !:partner_id=3447466af1029b11
 !:type=partner
