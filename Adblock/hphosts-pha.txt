@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MAtTtdEXHrVIBE2M/5h9bQ
-! Version: 201906201415
+! Checksum: jMX/O89+e/vg6wx2J4Tl0g
+! Version: 201906211415
 ! Title: HP Hosts pha list
-! Last modified: 20 Jun 2019 14:15 UTC
+! Last modified: 21 Jun 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4646,6 +4646,7 @@
 ||mygreattrade.ru^
 ||myhealthassist.su^
 ||myhealthbargain.ru^
+||myhealthdeal.su^
 ||myhealthstore365.com^
 ||myherbaloutlet.ru^
 ||myherboutlet.su^
@@ -15124,4 +15125,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15102
+! Hosts: 15103
