@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2kOy/jhzkgoQNUGSr63Guw
-! Version: 201906211415
+! Checksum: mnUigKl8qaSMaF6d7aAnGQ
+! Version: 201906221415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 21 Jun 2019 14:15 UTC
+! Last modified: 22 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7023,6 +7023,7 @@ testpages.adblockplus.org#@##abptest
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=sportal.bg
 @@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
+@@||dlkfm8bqz0bpx.cloudfront.net^$script,domain=footballleagueworld.co.uk
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7097,6 +7098,16 @@ agame.com#@#.ad-skyscraper
 agame.com#@#.ad-mpu
 agame.com#@#.sgAd
 agame.com#@##sgAdScGp160x600
+cinemablend.com#@##slot_drawer
+cinemablend.com#@#.ads_slot
+cinemablend.com#@#.sticky-ad
+cinemablend.com#@#.top_ad
+cinemablend.com#@#.sticky-div
+cinemablend.com#@#.adslot
+cinemablend.com#@#.pub_300x250
+cinemablend.com#@#.zone-advertisement
+cinemablend.com#@#.text-ad
+cinemablend.com#@#.adright
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
