@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s/uVwqIYJRXGX+iL0LUhTQ
-! Version: 201906231415
+! Checksum: wrUCWcB9iNHqwEXpIY26lg
+! Version: 201906241415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 23 Jun 2019 14:15 UTC
+! Last modified: 24 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5732,6 +5732,8 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 @@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+skelbiu.lt#@##div[data-ad-id]
+draugas.lt#@#.AdBox
 futbin.com#@#.g_ad
 op.gg#@#.life-owner
 smbc-comics.com#@##boardleader
@@ -7023,7 +7025,6 @@ testpages.adblockplus.org#@##abptest
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=sportal.bg
 @@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
-@@||dlkfm8bqz0bpx.cloudfront.net^$script,domain=footballleagueworld.co.uk
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
