@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NX6pezv75ZIwiURJQy9+cQ
-! Version: 201906271415
+! Checksum: iuvkMrWpEmByyDc7CzJ5xw
+! Version: 201906281415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 27 Jun 2019 14:15 UTC
+! Last modified: 28 Jun 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5732,6 +5732,10 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 @@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
 @@||static.h-bid.com^$script,domain=morewords.com
+ranker.com,chip.com.tr,mako.co.il,colourlovers.com#@#.ad
+ranker.com#@#.pub_300x250
+ranker.com#@#.pub_300x250m
+ranker.com#@#.pub_728x90
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -5869,6 +5873,96 @@ woot.com#@#.advertisement
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
+!
+@@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+skelbiu.lt#@##div[data-ad-id]
+fortnitemaster.com#@#div[adonis-marker]
+draugas.lt#@#.AdBox
+futbin.com#@#.g_ad
+op.gg#@#.life-owner
+smbc-comics.com#@##boardleader
+tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.middle-ad
+tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.right-ad
+tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.top-ad
+tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.big-ad
+tworeddots.com,bobshideout.com,parentztalk.com,coolimba.com,graduatez.com,joorala.com#@#.left-ad
+broadwayworld.com#@#.ad-desktop
+kizi.com#@#.banner_holder
+ynet.co.il,jpost.com#@#.general_banner_ad
+ynet.co.il#@##ads\.top
+ynet.co.il#@#.pplus_hdr_ad
+wnd.com#@#.widget_wnd_prom_widget
+wnd.com#@#iframe[id][style]
+wnd.com#@#[style] > [scrolling]
+wnd.com#@#[style] > iframe
+wnd.com#@#iframe[marginheight]
+wnd.com,israelnationalnews.com,colourlovers.com,convertcase.net#@#div > iframe:first-child
+wnd.com#@#.left_prom_160
+yad2.co.il#@#div[id^="dfp-slot-"]
+yad2.co.il#@#[id$="bottom_banner"]
+heraldweekly.com#@#.single-ad
+thestudentroom.co.uk#@#.advert-block
+capital.com.tr#@#.ad-banner
+chip.com.tr#@#.ad300
+chip.com.tr#@#.ad728
+chip.com.tr#@#.ad-center
+chip.com.tr#@#.adspace
+chip.com.tr#@#.footerad
+wnd.com#@#.top-ad-container
+mako.co.il#@#.feed-ad
+articlesvally.com#@#.ad-side
+israelnationalnews.com#@#[style] > iframe
+israelnationalnews.com#@#[style] > [scrolling]
+israelnationalnews.com#@#[src*="blob:"]
+israelnationalnews.com#@##divTopAd
+timesofisrael.com#@#.banner
+timesofisrael.com#@#.b300x250
+colourlovers.com#@##ga-above-footer
+colourlovers.com#@##ga-below-header
+colourlovers.com#@#[style*="background-image:"]
+gloriousa.com,dailysportx.com,worldemand.com,journalistate.com,teddyfeed.com#@#.ad-side
+broadwayworld.com#@#.ezoic-ad
+soolide.com#@##quads-ad1_widget
+soolide.com#@##quads-ad2
+soolide.com#@##quads-ad2_widget
+soolide.com#@#.quads-ad1_widget
+soolide.com#@#.quads-ad2
+tetrisfriends.com#@#.home_advertisement
+tetrisfriends.com#@#div :-abp-properties(display: inline-table !important;)
+science-a2z.com,lifestyle-a2z.com,history-a2z.com#@#.single-ad
+soolide.com#@#.quads-ad2_widget
+soolide.com#@#.quads-ad1
+soolide.com#@##quads-ad1
+temp-mail.org#@#.ezoic-ad
+temp-mail.org#@#.ezo_ad
+gosunoob.com#@##reklama
+detaly.co.il,nep.co.il#@#.herald-ad
+broadwayworld.com#@#.adtester-container
+buzznet.com#@#.ad-holder
+yad2.co.il#@##desktop-top-banners
+yad2.co.il#@##martef
+zerohedge.com#@#.placement
+haaretz.co.il,themarker.com#@#div[class*="banner"]
+haaretz.co.il,themarker.com#@##top_banners
+vesty.co.il#@#.general_banner_ad
+segodnya.ua#@#div[id^="admixer_"]
+merriam-webster.com#@#.abl
+gosunoob.com#@#.ads-container
+themarker.com#@#.js-dfp-ad
+telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
+@@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
+@@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
+@@||lucianne.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
+@@||tamilo.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
+@@||jpost.com^$csp=script-src 'self' 'unsafe-inline' http: https: blob:
+@@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||convertcase.net^$csp=script-src 'self' * blob: data:
+@@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
+@@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
