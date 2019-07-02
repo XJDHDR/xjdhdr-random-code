@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AwRlKbX92b+3MjKnFqFoEQ
-! Version: 201907011415
+! Checksum: ESDilH9O7pTk6cL1rmRzpw
+! Version: 201907021415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 01 Jul 2019 14:15 UTC
+! Last modified: 02 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -264,6 +264,7 @@ reddit.com##.promotedvideolink
 @@||in.qbk1.com^$image,domain=reddit.com
 @@||metrics.getrockerbox.com^$image,domain=reddit.com
 @@||attribution.report^$image,domain=reddit.com
+@@||d.turn.com^$image,domain=reddit.com
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -6708,6 +6709,11 @@ digireality.cz#@#[id^="aswift"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=66117
 ! ppc.world ads
+!:partner_token=seoseoseo.it
+!:partner_id=fc06c74432a0da33
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=72947
+! seoseoseo.it ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
