@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ESDilH9O7pTk6cL1rmRzpw
-! Version: 201907021415
+! Checksum: iWwQLyUTx/ftl91na/JXjQ
+! Version: 201907031415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 02 Jul 2019 14:15 UTC
+! Last modified: 03 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3879,14 +3879,27 @@ search.avira.net##.right-ad-zone
 @@||uchat.com/?s=$elemhide
 @@||browser.start.fyi/search^$elemhide
 @@||web.start.fyi/search^$elemhide
-@@||guardengine.com/search/$elemhide
-@@||guardengine.com^*/search/$elemhide
+@@||guardengine.com^$elemhide
 @@||baysearch.co^$elemhide
 @@||shopping.selfbutler.com^$elemhide
 @@||search.selfbutler.com^$elemhide
 @@||zenya.com^$elemhide
 @@||zenya.co.uk^$elemhide
 @@||cheatsheet.com/search$elemhide
+@@||tips.today/serp^$elemhide
+@@||leaprate.com/serp^$elemhide
+@@||chek.com/serp^$elemhide
+@@||encyclopedia.com/serp^$elemhide
+@@||autosengine.com/serp^$elemhide
+@@||homegardenshed.com/serp^$elemhide
+@@||investingrelief.com/serp^$elemhide
+@@||lookrecipes.com/serp^$elemhide
+@@||realtorfinds.com/serp^$elemhide
+@@||shopperprices.com/serp^$elemhide
+@@||socialscour.com/serp^$elemhide
+@@||symptomcare.com/serp^$elemhide
+@@||techsavvywire.com/serp^$elemhide
+@@||travelerexplore.com/serp^$elemhide
 !:partner_token=fxsforexsrbijaforum.com
 !:partner_id=cea3a1abdacc481b
 !:type=partner
