@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iWwQLyUTx/ftl91na/JXjQ
-! Version: 201907031415
+! Checksum: Ktgu/DH+/uYa3tKmgaaSMA
+! Version: 201907041415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 03 Jul 2019 14:15 UTC
+! Last modified: 04 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5884,6 +5884,12 @@ hothardware.com#@#.ad-leaderboard
 hothardware.com#@#.ad-top
 woot.com#@#.advertisement
 2kmtcentral.com#@#.player-leaderboard-ad-wrapper
+mumsnet.com,devmn.net#@##ad-leaderboard
+mumsnet.com,devmn.net#@#.Ad-leaderboard
+mumsnet.com,devmn.net#@#.ad-Leaderboard
+mumsnet.com,devmn.net#@#.ad-leaderboard
+mumsnet.com,devmn.net#@#.ad-placement
+mumsnet.com,devmn.net#@#.mpuE
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6313,25 +6319,25 @@ naturallivingideas.com#@##quads-ad1_widget
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=172799#p172799
 ! Softonic ads
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.topbanner
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.banner_box
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.bottombanner
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.topbanner_program
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.banner-caption
-softonic.com,softonic.com.br,softonic.pl,softonic.jp###mpu-search-page-desktop-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp###top-leaderboard-search-page-desktop-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp###bottom-leaderboard-search-page-desktop-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp###ad-slider-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad-slider-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .js-modal-overlay
-softonic.com,softonic.com.br,softonic.pl,softonic.jp##.ad--loading + .modal > .modal__overlay + .ad--displayed
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.ad-content
-softonic.com,softonic.com.br,softonic.pl,softonic.jp#@#.ad--displayed
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.topbanner
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.banner_box
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.bottombanner
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.topbanner_program
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.banner-caption
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###mpu-search-page-desktop-wrapper
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###top-leaderboard-search-page-desktop-wrapper
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###bottom-leaderboard-search-page-desktop-wrapper
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###ad-slider-wrapper
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad-slider-wrapper
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .js-modal-overlay
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .modal__overlay + .ad--displayed
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displayed
 !
 !
-@@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp
-@@||beacon.searchlinks.com^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp
-@@||api.searchlinks.com^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp
+@@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+@@||beacon.searchlinks.com^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+@@||api.searchlinks.com^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
 !:partner_token=pixmafia.com
 !:partner_id=dd349b46e21c9e9e
 !:type=partner
@@ -6727,6 +6733,12 @@ digireality.cz#@#[id^="aswift"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=72947
 ! seoseoseo.it ads
+!:partner_token=saznajnovo.com
+!:partner_id=bbaefe43ad27915e
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=72936
+! saznajnovo.com ads
+@@/better-adsmanager/js/advertising.$script,domain=saznajnovo.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
