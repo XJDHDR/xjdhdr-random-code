@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ktgu/DH+/uYa3tKmgaaSMA
-! Version: 201907041415
+! Checksum: YoM/QTMnPM5wJYYj1L/7bA
+! Version: 201907051415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 04 Jul 2019 14:15 UTC
+! Last modified: 05 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3895,11 +3895,24 @@ search.avira.net##.right-ad-zone
 @@||investingrelief.com/serp^$elemhide
 @@||lookrecipes.com/serp^$elemhide
 @@||realtorfinds.com/serp^$elemhide
-@@||shopperprices.com/serp^$elemhide
-@@||socialscour.com/serp^$elemhide
+@@||shopperprices.com^$elemhide
+@@||socialscour.com^$elemhide
 @@||symptomcare.com/serp^$elemhide
 @@||techsavvywire.com/serp^$elemhide
 @@||travelerexplore.com/serp^$elemhide
+@@||selfbutler.com/serp^$elemhide
+@@||cleanbrowser.network/serp^$elemhide
+@@||activebeat.com/serp^$elemhide
+@@||carsgenius.com/serp^$elemhide
+@@||givewater.com/serp^$elemhide
+@@||bluelightsearch.net^$elemhide
+@@||examinejobs.com^*^q^$elemhide
+@@||flyost.com/?s=$elemhide
+@@||junosearch.net/serp^$elemhide
+@@||livelife.guide^$elemhide
+@@||elocaliq.com/search/$elemhide
+@@||shop.alwaysreview.com^$elemhide
+@@||webopedia.com/serp^$elemhide
 !:partner_token=fxsforexsrbijaforum.com
 !:partner_id=cea3a1abdacc481b
 !:type=partner
@@ -6739,6 +6752,16 @@ digireality.cz#@#[id^="aswift"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=72936
 ! saznajnovo.com ads
 @@/better-adsmanager/js/advertising.$script,domain=saznajnovo.com
+!:partner_token=samsungdeodex.com
+!:partner_id=58d2763394a0625a
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=72986
+! samsungdeodex.com ads
+!:partner_token=sammdex.com
+!:partner_id=481990f327861702
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73174
+! sammdex.com ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -6971,6 +6994,8 @@ testpages.adblockplus.org#@##abptest
 @@$document,subdocument,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMLlOP3Rke738aeqtDCGp0IgSY5XBv7c+brDMmurbYvOFgakGw6sUG8fwt6VkjnOX9s9Kba1Drg2M9Bye/F3x7MCAwEAAQ
 ||aaxdetect.com/pxext.gif$domain=aaxdetect.com
 @@||aaxdetect.com/pxusr.gif$domain=aaxdetect.com
+||aaxads.com/pxext.gif
+@@||aaxads.com/pxusr.gif
 @@||aaxdetect.com^$subdocument
 @@||aaxads.com^$document
 @@||aaxads.com^

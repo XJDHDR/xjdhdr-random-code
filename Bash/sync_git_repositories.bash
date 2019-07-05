@@ -14,23 +14,22 @@ then
 fi
 
 {
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' fetch --prune-tags github-fetch master >'/dev/null'
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' diff --name-only master github-fetch/master >'/home/git_user/github_wiki_changes.txt'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' fetch --prune-tags github-fetch master >'/dev/null'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' fetch --prune-tags bitbucket-fetch master >'/dev/null'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' fetch --prune-tags gitlab-fetch master >'/dev/null'
 
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' fetch --prune-tags bitbucket-fetch master >'/dev/null'
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' diff --name-only master bitbucket-fetch/master >'/home/git_user/bitbucket_wiki_changes.txt'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' diff --name-only master github/master >'/home/git_user/github_wiki_changes.txt'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' diff --name-only master bitbucket/master >'/home/git_user/bitbucket_wiki_changes.txt'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' diff --name-only master gitlab/master >'/home/git_user/gitlab_wiki_changes.txt'
 
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' fetch --prune-tags gitlab-fetch master >'/dev/null'
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' diff --name-only master gitlab-fetch/master >'/home/git_user/gitlab_wiki_changes.txt'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' merge --no-edit --no-log master github/master >'/dev/null'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' merge --no-edit --no-log master bitbucket/master >'/dev/null'
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' merge --no-edit --no-log master gitlab/master >'/dev/null'
 
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' merge --no-edit --no-log master github-fetch/master >'/dev/null'
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' merge --no-edit --no-log master bitbucket-fetch/master >'/dev/null'
-	git -C '/home/git/gitlab_wiki/' --git-dir='/home/git/gitlab_wiki/.git' merge --no-edit --no-log master gitlab-fetch/master >'/dev/null'
-
-#	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' add --all
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' push github master
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' push bitbucket master
-	git -C '/home/git/github_wiki/' --git-dir='/home/git/github_wiki/.git' push gitlab master
+#	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' add --all
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' push github master
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' push bitbucket master
+	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' push gitlab master
 
 	sFilesEdited_GitHub_wiki=$(cat '/home/git_user/github_wiki_changes.txt')
 	sFilesEdited_Bitbucket_wiki=$(cat '/home/git_user/bitbucket_wiki_changes.txt')
@@ -56,9 +55,9 @@ then
 	rm -f '/tmp/stderr-contents-sync_git_repositories.txt'
 fi
 
-if [ "$(du -bs /home/git/github_wiki | cut -f1)" -gt 2147483648 ]	# If more than 2GB
+if [ "$(du -bs /home/git/wiki_test | cut -f1)" -gt 2147483648 ]       # If more than 2GB
 then
-	sErrors+=$(printf '/home/git/github_wiki is more than 2GB in size')
+	sErrors+=$(printf '/home/git/wiki_test is more than 2GB in size')
 fi
 
 
@@ -94,3 +93,4 @@ then
 fi
 
 exit 0
+
