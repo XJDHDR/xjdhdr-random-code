@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YoM/QTMnPM5wJYYj1L/7bA
-! Version: 201907051415
+! Checksum: C2AQGUXiJ0xnIuIb/44s2w
+! Version: 201907061415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 05 Jul 2019 14:15 UTC
+! Last modified: 06 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4632,6 +4632,7 @@ spanishdict.com#@#.ad-unit
 @@||adform.net^$image,domain=pressfire.no|framerate.no
 @@||pressfire.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=pressfire.no
 @@||framerate.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=framerate.no
+@@||s0.2mdn.net/4745745/$image,domain=pressfire.no
 pressfire.no#@#.dcmads
 pressfire.no,framerate.no#@#.ad-disclaimer
 pressfire.no,framerate.no#@#.ad-top
