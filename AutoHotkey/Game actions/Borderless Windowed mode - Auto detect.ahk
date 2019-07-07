@@ -41,9 +41,10 @@ AddWindowsToGroup()
 	GroupAdd, StandardGameList, Pharaoh ahk_class WinSJBClass ahk_exe Pharaoh.exe, 
 	GroupAdd, StandardGameList, ahk_exe rage.exe, 
 	GroupAdd, StandardGameList, ahk_exe rage64.exe, 
-	GroupAdd, StandardGameList, ahk_class Canvas ahk_exe SporeApp.exe,
+	GroupAdd, StandardGameList, ahk_class Canvas ahk_exe SporeApp.exe, 
+	GroupAdd, StandardGameList, Total War: WARHAMMER 2 ahk_class Warhammer2 ahk_exe Warhammer2.exe, 
 	GroupAdd, StandardGameList, ahk_exe WorldOfTanks.exe, 
-	GroupAdd, StandardGameList, Zeus ahk_class WinSJBClass ahk_exe Zeus.exe,
+	GroupAdd, StandardGameList, Zeus ahk_class WinSJBClass ahk_exe Zeus.exe, 
 	
 	GroupAdd, MaximiseAndCheckIfWindowDisplayingSomethingFirst, Mount&Blade With Fire and Sword ahk_class MB Window ahk_exe mb_wfas.exe, 	; Mouse activation point doesn't line up with cursor otherwise.
 

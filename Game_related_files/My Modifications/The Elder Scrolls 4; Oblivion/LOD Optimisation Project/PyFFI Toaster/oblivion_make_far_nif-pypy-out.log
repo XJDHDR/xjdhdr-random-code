@@ -1,0 +1,7 @@
+pyffi.toaster:INFO:toasting with 12 threads in chunks of 384 files
+pyffi.toaster:5640:INFO:=== ./in\icexteriorwall01_far.nif ===
+pyffi.toaster:5640:INFO:  --- modify_makefarnif ---
+pyffi.toaster:5640:INFO:    ~~~ NiNode [Scene Root] ~~~
+pyffi.toaster:5640:INFO:      ~~~ NiTriShape [ICExteriorWall01_far] ~~~
+pyffi.toaster:5640:INFO:        ~~~ NiTexturingProperty [] ~~~
+pyffi.toaster:5640:INFO:          ~~~ NiSourceTexture [] ~~~pyffi.toaster:INFO:Finished.

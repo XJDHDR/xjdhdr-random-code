@@ -1,0 +1,35 @@
+pyffi.toaster:INFO:toasting with 12 threads in chunks of 384 files
+pyffi.toaster:7700:INFO:=== ./in\icexteriorwall01_far.nif ===
+pyffi.toaster:7700:INFO:  --- modify_cleanfarnif ---
+pyffi.toaster:7700:INFO:    ~~~ NiNode [Scene Root] ~~~
+pyffi.toaster:7700:INFO:      ~~~ NiTriShape [ICExteriorWall01_far] ~~~
+pyffi.toaster:7700:INFO:        removing tangent space block
+pyffi.toaster:7700:INFO:        ~~~ NiTexturingProperty [] ~~~
+pyffi.toaster:7700:INFO:          ~~~ NiSourceTexture [] ~~~
+pyffi.toaster:7700:INFO:        ~~~ NiSpecularProperty [] ~~~
+pyffi.toaster:7700:INFO:          stripping this branch
+pyffi.toaster:7700:INFO:        ~~~ NiMaterialProperty [Material #17] ~~~
+pyffi.toaster:7700:INFO:        ~~~ NiTriShapeData [] ~~~
+pyffi.toaster:7700:INFO:  --- fix_delunusedroots & opt_cleanreflists & fix_detachhavoktristripsdata & fix_texturepath & fix_clampmaterialalpha & fix_bhksubshapes & fix_emptyskeletonroots ---
+pyffi.toaster:7700:INFO:    ~~~ NiNode [Scene Root] ~~~
+pyffi.toaster:7700:INFO:      ~~~ NiTriShape [ICExteriorWall01_far] ~~~
+pyffi.toaster:7700:INFO:        removing empty property reference
+pyffi.toaster:7700:INFO:        ~~~ NiTexturingProperty [] ~~~
+pyffi.toaster:7700:INFO:          ~~~ NiSourceTexture [] ~~~
+pyffi.toaster:7700:INFO:        ~~~ NiMaterialProperty [Material #17] ~~~
+pyffi.toaster:7700:INFO:  --- opt_geometry ---
+pyffi.toaster:7700:INFO:    ~~~ NiNode [Scene Root] ~~~
+pyffi.toaster:7700:INFO:      ~~~ NiTriShape [ICExteriorWall01_far] ~~~
+pyffi.toaster:7700:INFO:        removing duplicate vertices
+pyffi.toaster:7700:INFO:        (num vertices was 1124 and is now 1124)
+pyffi.toaster:7700:INFO:        optimizing triangle ordering
+pyffi.toaster:7700:INFO:        (ATVR reduced from 1.290 to 1.000)
+pyffi.toaster:7700:INFO:        optimizing vertex ordering
+pyffi.toaster:7700:INFO:  --- opt_mergeduplicates ---
+pyffi.toaster:7700:INFO:    ~~~ NiNode [Scene Root] ~~~
+pyffi.toaster:7700:INFO:      ~~~ NiTriShape [ICExteriorWall01_far] ~~~
+pyffi.toaster:7700:INFO:        ~~~ NiTexturingProperty [] ~~~
+pyffi.toaster:7700:INFO:          ~~~ NiSourceTexture [] ~~~
+pyffi.toaster:7700:INFO:        ~~~ NiMaterialProperty [Material #17] ~~~
+pyffi.toaster:7700:INFO:        ~~~ NiTriShapeData [] ~~~
+pyffi.toaster:7700:INFO:  writing ./out\icexteriorwall01_far.nifpyffi.toaster:INFO:Finished.
