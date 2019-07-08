@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Qe7daRRrsIewj0W6QYG5jw
-! Version: 201907071415
+! Checksum: fPgl1+sQFEea9ApW+Vd11A
+! Version: 201907081415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 07 Jul 2019 14:15 UTC
+! Last modified: 08 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5808,7 +5808,6 @@ gamepedia.com#@#.ad-placement
 gamepedia.com#@##atflb
 iwn.io#@#.ad-one
 iwn.io#@#.footer-advert
-directexpose.com,history101.com,tiebreaker.com,icepop.com#@#.ad_placeholder
 famousbirthdays.com#@#.adspot
 famousbirthdays.com#@#.adspot1
 themezy.com#@#.adunit
