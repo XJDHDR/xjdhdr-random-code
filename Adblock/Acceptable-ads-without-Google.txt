@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fPgl1+sQFEea9ApW+Vd11A
-! Version: 201907081415
+! Checksum: ciQIT17+oFMLid66Kr0eqQ
+! Version: 201907091415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 08 Jul 2019 14:15 UTC
+! Last modified: 09 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6992,10 +6992,8 @@ testpages.adblockplus.org#@##abptest
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54757
 ! AAX ads
 @@$document,subdocument,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMLlOP3Rke738aeqtDCGp0IgSY5XBv7c+brDMmurbYvOFgakGw6sUG8fwt6VkjnOX9s9Kba1Drg2M9Bye/F3x7MCAwEAAQ
-||aaxdetect.com/pxext.gif$domain=aaxdetect.com
-@@||aaxdetect.com/pxusr.gif$domain=aaxdetect.com
-||aaxads.com/pxext.gif
-@@||aaxads.com/pxusr.gif
+||aaxdetect.com/pxext.gif
+@@||aaxdetect.com/pxusr.gif
 @@||aaxdetect.com^$subdocument
 @@||aaxads.com^$document
 @@||aaxads.com^
