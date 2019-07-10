@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ciQIT17+oFMLid66Kr0eqQ
-! Version: 201907091415
+! Checksum: 8OfI/YKHAasx0W6rSZ/Rlw
+! Version: 201907101415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 09 Jul 2019 14:15 UTC
+! Last modified: 10 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1475,6 +1475,7 @@ senseyeesports.com#@#.mom-ad
 @@||b.scorecardresearch.com/beacon.js$domain=journaldesfemmes.com|journaldesfemmes.fr|ccm.net|commentcamarche.net|commentcamarche.com|linternaute.com|kioskea.net|journaldunet.com|hugolescargot.com|jeux-gratuits.com|hayatouki.com
 @@||b.scorecardresearch.com^$image,domain=journaldesfemmes.com|journaldesfemmes.fr|ccm.net|commentcamarche.net|commentcamarche.com|linternaute.com|kioskea.net|journaldunet.com|hugolescargot.com|jeux-gratuits.com|hayatouki.com
 @@||w.estat.com/js/whap.js$domain=journaldesfemmes.com|journaldesfemmes.fr|ccm.net|commentcamarche.net|commentcamarche.com|linternaute.com|kioskea.net|journaldunet.com|hugolescargot.com|jeux-gratuits.com|hayatouki.com
+ccm.net,commentcamarche.com,commentcamarche.net#@#.advertising
 !:partner_token=CCM Benchmark Group
 !:partner_id=2ebbb4314507e3ab
 !:type=partner
@@ -5983,6 +5984,9 @@ merriam-webster.com#@#.abl
 gosunoob.com#@#.ads-container
 themarker.com#@#.js-dfp-ad
 themarker.com#@#iframe[width="300"]
+op.gg#@#.vm-placement
+mobafire.com#@#.exhibit-narrow
+mobafire.com#@#.exhibit-vertical
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
