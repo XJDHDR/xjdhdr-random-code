@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8OfI/YKHAasx0W6rSZ/Rlw
-! Version: 201907101415
+! Checksum: M/SncdGcHTiNwCDW9+Omtw
+! Version: 201907111415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 10 Jul 2019 14:15 UTC
+! Last modified: 11 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3797,32 +3797,28 @@ yepman.ru#@#span[style="font-size:14px;"] + *
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42441
 ! System1 Search ads
-@@||inspsearchapi.com^$domain=cheatsheet.com
+@@||csr.inspsearchapi.com/images/px.gif?ch=1$domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|gexsi.com|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com|zenya.co
+||csr.inspsearchapi.com/images/px.gif?ch=2$domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|gexsi.com|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com
+@@||csr.inspsearchapi.com/lib/abp.js?ch=1$domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|gexsi.com|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com
+||csr.inspsearchapi.com/lib/abp.js?ch=2$domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|gexsi.com|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com
+@@||cdn1.inspsearchapi.com/commoncdn/abp/px.gif?ch=1$domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|gexsi.com|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com
+||cdn1.inspsearchapi.com/commoncdn/abp/px.gif?ch=2$domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|gexsi.com|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com
+@@||admarketplace.net/imp?$image,domain=webopedia.com|travelerexplore.com|techsavvywire.com|symptomcare.com|socialscour.com|shopperprices.com|realtorfinds.com|lookrecipes.com|investingrelief.com|homegardenshed.com|autosengine.com|encyclopedia.com|chek.com|leaprate.com|tips.today|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|seekit.com|search.avira.net|search.avira.com|search.monstercrawler.com|search.ozby.com|search.soundrad.net|myplaycity.com|allgameshome.com|igropark.ru|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|getsearch.club|yidio.com|search.scanguard.com|search.totalav.com|search.pcprotect.com|search.mapsnt.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|lightdials.com|search.emailaccountlogin.co|results.ur-search.com|boost.ur-search.com|offeroftheday.co.uk|homenewtab.com|webcrawler.com|search.sportstrackerx.com|search2.sportstrackerx.com|alientab.net|search.relola.com|search.ichro.me|owntitle.com|chilimovie.com|uchat.com|browser.start.fyi|web.start.fyi|guardengine.com|shopping.selfbutler.com|search.selfbutler.com
 search.avira.net#@#.ad-zone
 search.avira.net##.top-ad-zone:not(#top-ad-zone)
 search.avira.net##.bottom-ad-zone:not(#bottom-ad-zone)
 search.avira.net##.right-ad-zone
 @@||search.pch.com^*^q=$elemhide
 @@||frontpage.pch.com^*^q=$elemhide
-@@||fanshoe.com^$elemhide
 @@||alhea.com^$elemhide
-@@||easydialsearch.com^$elemhide
-@@||parallaxsearch.com^$elemhide
 @@||searchall.com^$elemhide
 @@||knowzo.com/search/$elemhide
 @@||knowzo.com^*/search/$elemhide
-@@||looksmart.com^$elemhide
 @@||info.com^$elemhide,domain=~images.info.com|~news.info.com|~video.info.com
 @@||info.co.uk^$elemhide,domain=~images.info.co.uk|~news.info.co.uk|~video.info.co.uk
 @@||info.com.au^$elemhide,domain=~images.info.com.au|~news.info.com.au|~video.info.com.au
-@@||search.iminent.com^$elemhide
-@@||crawlercenter.com/search/^$elemhide
 @@||crawler.com^$elemhide
-@@||inbox.com^$elemhide
-@@||search.avast.com^$elemhide
-@@||yoursearch.me^$elemhide
 @@||ehealthiq.com/topic/$elemhide
-@@||search.sidecubes.com^$elemhide
 @@||thenexttask.com/search^$elemhide
 @@||lifescript.com/search.aspx$elemhide
 @@||search.socialdownloadr.com/search.php$elemhide
@@ -3849,7 +3845,6 @@ search.avira.net##.right-ad-zone
 @@||polarisearch.com^$elemhide
 @@||musicktab.com^$elemhide
 @@||myweathertab.com^$elemhide
-@@||handy-tab.com^$elemhide
 @@||gexsi.com/search/$elemhide
 @@||search.ozby.com/search/$elemhide
 @@||search.soundrad.net^$elemhide
@@ -3867,8 +3862,6 @@ search.avira.net##.right-ad-zone
 @@||boost.ur-search.com/search^$elemhide
 @@||offeroftheday.co.uk/search.asp$elemhide
 @@||homenewtab.com/search/$elemhide
-@@||lookany.com/search/$elemhide
-@@||lookany.com^*/search/$elemhide
 @@||search.sportstrackerx.com^$elemhide
 @@||search2.sportstrackerx.com^$elemhide
 @@||alientab.net/search/$elemhide
@@ -3881,12 +3874,9 @@ search.avira.net##.right-ad-zone
 @@||browser.start.fyi/search^$elemhide
 @@||web.start.fyi/search^$elemhide
 @@||guardengine.com^$elemhide
-@@||baysearch.co^$elemhide
 @@||shopping.selfbutler.com^$elemhide
 @@||search.selfbutler.com^$elemhide
 @@||zenya.com^$elemhide
-@@||zenya.co.uk^$elemhide
-@@||cheatsheet.com/search$elemhide
 @@||tips.today/serp^$elemhide
 @@||leaprate.com/serp^$elemhide
 @@||chek.com/serp^$elemhide
@@ -3914,6 +3904,11 @@ search.avira.net##.right-ad-zone
 @@||elocaliq.com/search/$elemhide
 @@||shop.alwaysreview.com^$elemhide
 @@||webopedia.com/serp^$elemhide
+@@||ponduweb.com^$elemhide
+@@||exaude.com/web/$elemhide
+@@||healthnwell.com/serp^$elemhide
+@@||walletgenius.com/serp^$elemhide
+@@||discount99.us^$elemhide
 !:partner_token=fxsforexsrbijaforum.com
 !:partner_id=cea3a1abdacc481b
 !:type=partner
@@ -4354,13 +4349,6 @@ yachts-boat.com#@#.ads_300
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43797
 ! expatriate.pl ads
 expatriate.pl#@#.Ad-label
-!:partner_token=ASAP Ventures Ltd
-!:partner_id=c46c74c605b13198
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44651
-! ASAP compare search ads
-@@||idealprice.co.uk^$elemhide
-@@||compare99.com^$elemhide
 !:partner_token=closetcasefiles.com
 !:partner_id=ac0e26fb80ad46b2
 !:type=partner
@@ -6984,6 +6972,8 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !
 !:type=combined
 ! Combined whitelists for popup
+@@|https://$popup,domain=gopher.com|gexsi.com|zenya.com|shopping.selfbutler.com|search.selfbutler.com|guardengine.com|web.start.fyi|browser.start.fyi|search.monstercrawler.com|uchat.com|chilimovie.com|owntitle.com|search.ichro.me|search.relola.com|alientab.net|search.sportstrackerx.com|search2.sportstrackerx.com|webcrawler.com|homenewtab.com|offeroftheday.co.uk|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|myplaycity.com|allgameshome.com|igropark.ru|seekit.com|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|yidio.com|getsearch.club|search.scanguard.com|search.totalav.com|search.pcprotect.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|search.emailaccountlogin.co|lightdials.com|results.ur-search.com|boost.ur-search.com
+@@|http://$popup,domain=gopher.com|gexsi.com|zenya.com|shopping.selfbutler.com|search.selfbutler.com|guardengine.com|web.start.fyi|browser.start.fyi|search.monstercrawler.com|uchat.com|chilimovie.com|owntitle.com|search.ichro.me|search.relola.com|alientab.net|search.sportstrackerx.com|search2.sportstrackerx.com|webcrawler.com|homenewtab.com|offeroftheday.co.uk|frontpage.pch.com|search.pch.com|alhea.com|searchall.com|knowzo.com|info.com|info.co.uk|info.com.au|crawler.com|financeweb.org|ehealthiq.com|thenexttask.com|lifescript.com|search.socialdownloadr.com|mypoints.com|comparison411.com|zipfilesearch.com|pdfconvertsearch.com|checkspeedsearch.com|mystart.space|myplaycity.com|allgameshome.com|igropark.ru|seekit.com|buzztechnology.net|buzzfinance.net|search.navegaki.com|search.atajitos.com|search.portalsepeti.com|usdirectory.com|yidio.com|getsearch.club|search.scanguard.com|search.totalav.com|search.pcprotect.com|bitmotion-tab.com|incognito-search.com|quizcourt.com|search.emailaccountlogin.co|lightdials.com|results.ur-search.com|boost.ur-search.com
 !:type=temporary
 ! Experimental
 !:type=qa
@@ -7082,6 +7072,7 @@ testpages.adblockplus.org#@##abptest
 @@||noviniad.com^$domain=novini.bg
 @@||noviniad.com^$domain=novini.bg,document
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg
+@@||intermediair.nl/assets/IntermediairBundle/js/dfp.min.js$domain=intermediair.nl
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
@@ -7110,7 +7101,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
