@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0tiC9hBR26cQJcU1vt4bIA
-! Version: 201907111415
+! Checksum: A5OVeqA7iGvk5DdhXBK7iQ
+! Version: 201907121415
 ! Title: HP Hosts pha list
-! Last modified: 11 Jul 2019 14:15 UTC
+! Last modified: 12 Jul 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5207,6 +5207,7 @@
 ||onlinesimply.ru^
 ||onlinestock.su^
 ||onlinestoreh.su^
+||onlinesupport1.com^
 ||onlinetabsbargain.ru^
 ||onlinetabstock.com^
 ||onlinetopgenerics.com^
@@ -5403,6 +5404,7 @@
 ||pharmacy-health.net^
 ||pharmacy-mall.store^
 ||pharmacy-online-canada.org^
+||pharmacy-rx-support.com^
 ||pharmacy-rx.ru^
 ||pharmacy-support-247.com^
 ||pharmacy-top-pills-365.com^
@@ -6547,6 +6549,7 @@
 ||support-myidcustomer.com^
 ||support-online-support24.com^
 ||support-rx-drugs-support.com^
+||support-rx-pharmacy.com^
 ||support-rxcustomerservices.com^
 ||support-support-1.com^
 ||support.256bit-ssl-checkout.com^
@@ -6564,6 +6567,7 @@
 ||supportpluse.su^
 ||supportplusf.su^
 ||supportportal.ru^
+||supportrxsupport.com^
 ||supportshopx.su^
 ||supportshopy.su^
 ||supportshopz.su^
@@ -15125,4 +15129,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15103
+! Hosts: 15107
