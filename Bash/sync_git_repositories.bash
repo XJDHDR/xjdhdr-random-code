@@ -14,54 +14,69 @@ then
 fi
 
 {
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' fetch --prune-tags github-fetch master >'/dev/null'
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' fetch --prune-tags bitbucket-fetch master >'/dev/null'
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' fetch --prune-tags gitlab-fetch master >'/dev/null'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' fetch --prune-tags github-fetch master >'/tmp/stdout_collection.txt' 2>&1 \
+		|| cat '/tmp/stdout_collection.txt' 1>&2
+	rm '/tmp/stdout_collection.txt'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' fetch --prune-tags bitbucket-fetch master >'/tmp/stdout_collection.txt' 2>&1 \
+		|| cat '/tmp/stdout_collection.txt' 1>&2
+	rm '/tmp/stdout_collection.txt'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' fetch --prune-tags gitlab-fetch master >'/tmp/stdout_collection.txt' 2>&1 \
+		|| cat '/tmp/stdout_collection.txt' 1>&2
+	rm '/tmp/stdout_collection.txt'
 
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' diff --name-only master github/master >'/home/git_user/github_wiki_changes.txt'
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' diff --name-only master bitbucket/master >'/home/git_user/bitbucket_wiki_changes.txt'
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' diff --name-only master gitlab/master >'/home/git_user/gitlab_wiki_changes.txt'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' diff --name-only master github/master >"$HOME/github_wiki_changes.txt"
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' diff --name-only master bitbucket/master >"$HOME/bitbucket_wiki_changes.txt"
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' diff --name-only master gitlab/master >"$HOME/gitlab_wiki_changes.txt"
 
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' merge --no-edit --no-log master github/master >'/dev/null'
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' merge --no-edit --no-log master bitbucket/master >'/dev/null'
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' merge --no-edit --no-log master gitlab/master >'/dev/null'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' merge --no-edit --no-log master github/master >'/dev/null'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' merge --no-edit --no-log master bitbucket/master >'/dev/null'
+	git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' merge --no-edit --no-log master gitlab/master >'/dev/null'
 
-#	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' add --all
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' push github master
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' push bitbucket master
-	git -C '/home/git/wiki_test/' --git-dir='/home/git/wiki_test/.git' push gitlab master
+	sshpass -f "$HOME/github_password.txt" -P "$HOME/.ssh/github_ed25519" \
+		git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' push github master >'/tmp/stdout_collection.txt' 2>&1 \
+			|| cat '/tmp/stdout_collection.txt' 1>&2
+	rm '/tmp/stdout_collection.txt'
+	sshpass -f "$HOME/bitbucket_password.txt" -P "$HOME/.ssh/bitbucket_ed25519" \
+		git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' push bitbucket master >'/tmp/stdout_collection.txt' 2>&1 \
+			|| cat '/tmp/stdout_collection.txt' 1>&2
+	rm '/tmp/stdout_collection.txt'
+	sshpass -f "$HOME/gitlab_password.txt" -P "$HOME/.ssh/gitlab_ed25519" \
+		git -C '/home/git/git_wikis/' --git-dir='/home/git/git_wikis/.git' push gitlab master >'/tmp/stdout_collection.txt' 2>&1 \
+			|| cat '/tmp/stdout_collection.txt' 1>&2
+	rm '/tmp/stdout_collection.txt'
 
-	sFilesEdited_GitHub_wiki=$(cat '/home/git_user/github_wiki_changes.txt')
-	sFilesEdited_Bitbucket_wiki=$(cat '/home/git_user/bitbucket_wiki_changes.txt')
-	sFilesEdited_GitLab_wiki=$(cat '/home/git_user/gitlab_wiki_changes.txt')
+	sFilesEdited_GitHub_wiki=$(cat "$HOME/github_wiki_changes.txt")
+	sFilesEdited_Bitbucket_wiki=$(cat "$HOME/bitbucket_wiki_changes.txt")
+	sFilesEdited_GitLab_wiki=$(cat "$HOME/gitlab_wiki_changes.txt")
 
-	grep --fixed-strings --line-regexp -f '/home/git_user/github_wiki_changes.txt' '/home/git_user/bitbucket_wiki_changes.txt' >'/home/git_user/matching_lines.txt'
-	grep --fixed-strings --line-regexp -f '/home/git_user/github_wiki_changes.txt' '/home/git_user/gitlab_wiki_changes.txt' >'/home/git_user/matching_lines.txt'
-	grep --fixed-strings --line-regexp -f '/home/git_user/bitbucket_wiki_changes.txt' '/home/git_user/gitlab_wiki_changes.txt' >'/home/git_user/matching_lines.txt'
-	if [ -f '/home/git_user/matching_lines.txt' ]
+	grep --fixed-strings --line-regexp -f "$HOME/github_wiki_changes.txt" "$HOME/bitbucket_wiki_changes.txt" >"$HOME/matching_lines.txt"
+	grep --fixed-strings --line-regexp -f "$HOME/github_wiki_changes.txt" "$HOME/gitlab_wiki_changes.txt" >>"$HOME/matching_lines.txt"
+	grep --fixed-strings --line-regexp -f "$HOME/bitbucket_wiki_changes.txt" "$HOME/gitlab_wiki_changes.txt" >>"$HOME/matching_lines.txt"
+	if [ -f "$HOME/matching_lines.txt" ]
 	then
-		sMergeConflicts+=$(cat '/home/git_user/matching_lines.txt')
-		rm -f '/home/git_user/matching_lines.txt'
+		sMergeConflicts+=$(cat "$HOME/matching_lines.txt")
+		rm -f "$HOME/matching_lines.txt"
 	fi
 
-	rm -f '/home/git_user/github_wiki_changes.txt'
-	rm -f '/home/git_user/bitbucket_wiki_changes.txt'
-	rm -f '/home/git_user/gitlab_wiki_changes.txt'
+	rm -f "$HOME/github_wiki_changes.txt"
+	rm -f "$HOME/bitbucket_wiki_changes.txt"
+	rm -f "$HOME/gitlab_wiki_changes.txt"
 } 2> '/tmp/stderr-contents-sync_git_repositories.txt'
 
 if [ -f '/tmp/stderr-contents-sync_git_repositories.txt' ]
 then
-	sErrors+=$(cat '/tmp/stderr-contents-auto_update_svn.txt')
+	sErrors+=$(cat '/tmp/stderr-contents-sync_git_repositories.txt')
 	rm -f '/tmp/stderr-contents-sync_git_repositories.txt'
 fi
 
-if [ "$(du -bs /home/git/wiki_test | cut -f1)" -gt 2147483648 ]       # If more than 2GB
+if [ "$(du -bs /home/git/git_wikis | cut -f1)" -gt 1932735283 ]       # If more than 1.8GB
 then
-	sErrors+=$(printf '/home/git/wiki_test is more than 2GB in size')
+	sErrors+=$(printf '/home/git/git_wikis is more than 1.8GB in size')
 fi
 
 
-if [[ -n "$sErrors" ]] || [[ -n "$sMergeConflicts" ]] || [[ -n "$sFilesEdited_GitHub_wiki" ]] || [[ -n "$sFilesEdited_GitLab_wiki" ]]
+# If something will be added to email file, add the date.
+if [[ -n "$sErrors" ]] || [[ -n "$sMergeConflicts" ]] || [[ -n "$sFilesEdited_GitHub_wiki" ]] || [[ -n "$sFilesEdited_GitLab_wiki" ]] || [[ -n "$sFilesEdited_Bitbucket_wiki" ]]
 then
 	sDateTime=$(date -u +"%d %b %Y %H:%M")
 	printf 'sync_git_repositories.bash:\n%s UTC\n' "$sDateTime" >> '/home/error_reports_to_email.txt'
@@ -93,4 +108,3 @@ then
 fi
 
 exit 0
-

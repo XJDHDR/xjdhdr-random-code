@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fnB2DlS02dgKZ8DdoPblhQ
-! Version: 201907121415
+! Checksum: muJh1FEjqVwbUM5mag4qOw
+! Version: 201907131415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 12 Jul 2019 14:15 UTC
+! Last modified: 13 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1631,6 +1631,8 @@ thenoob.net#@#.adinjwidget
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net|stirescu.ro
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
 @@||ads.taboola.com^$domain=taboola.com
+@@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
+@@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 newsbugz.com#@##mvp-post-bot-ad
 gistreel.com#@#.mvp-widget-ad
 gistreel.com#@#.mvp_ad_widget
@@ -1639,6 +1641,7 @@ localnews.manoramaonline.com#@#.mmads
 telva.com#@#.content-ad
 bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
 submanga.online#@#.ads-large
+asiantvsub.com#@#.bottomad
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
@@ -6265,6 +6268,7 @@ femmeactuelle.fr#@#div[data-ligatus-container]
 supereva.it#@#.se-ligatus
 p-magazine.be#@#.bsac
 p-magazine.be#@#.bsac-container
+analist.nl##a[href*="zemanta.com"]
 ! Content recommendations
 @@||delivery.hyde.ligatus.com/*/rce.js$xmlhttprequest,domain=lesnumeriques.com|routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
 @@||updater.hyde.ligatus.com/js^$script,domain=lesnumeriques.com|routard.com|linternaute.com|journaldesfemmes.fr|journaldesfemmes.com|journaldunet.fr|journaldunet.com|commentcamarche.net|sudouest.fr|lemonde.fr|nouvelobs.com|lesinrocks.com|cnetfrance.fr|monacomatin.mc|varmatin.com|nicematin.com|courrierinternational.com|Huffingtonpost.fr|lavie.fr|telerama.fr|beaute-test.com
