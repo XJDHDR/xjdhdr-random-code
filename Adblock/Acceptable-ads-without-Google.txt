@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: njwFAsSdnVuM59HY0+okYA
-! Version: 201907141415
+! Checksum: LIp9ebSshlx/7oCEJOsKNA
+! Version: 201907151415
 ! Title: AdBlock Plus' Acceptable Ads list without Google related filters
-! Last modified: 14 Jul 2019 14:15 UTC
+! Last modified: 15 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7079,7 +7079,7 @@ testpages.adblockplus.org#@##abptest
 @@||intermediair.nl/assets/IntermediairBundle/js/dfp.min.js$domain=intermediair.nl
 ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
-@@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/13$script,domain=footballfancast.com
+@@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/$script,domain=footballfancast.com|footballleagueworld.co.uk|footballtransfertavern.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=sportal.bg
 @@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
 ! temp
@@ -7105,7 +7105,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
