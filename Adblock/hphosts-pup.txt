@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vUEdKuMmw6DhCVgnv1WL1Q
-! Version: 201907151415
+! Checksum: ZaK1WVDfieD5Qb8aMAtW5g
+! Version: 201907161415
 ! Title: HP Hosts pup list
-! Last modified: 15 Jul 2019 14:15 UTC
+! Last modified: 16 Jul 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2793,6 +2793,7 @@
 ||d14dru741iq9hq.cloudfront.net^
 ||d15zzfvesrub8i.cloudfront.net^
 ||d16hr9n7t75k58.cloudfront.net^
+||d1ceiling.online^
 ||d1nvenou5yi7zq.cloudfront.net^
 ||d1xar0myvbu1j9.cloudfront.net^
 ||d2s-lp1.olympuswaymarketing.com^
@@ -32233,4 +32234,4 @@
 ||zzdatpatchily.review^
 ||zztabwatoke.review^
 ||zzzbfvfglucoside.review^
-! Hosts: 32212
+! Hosts: 32213
