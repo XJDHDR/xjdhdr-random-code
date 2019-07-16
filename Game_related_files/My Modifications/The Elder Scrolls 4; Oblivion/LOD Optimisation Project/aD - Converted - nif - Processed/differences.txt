@@ -1,2 +1,4 @@
 Mesh							Original/UOP								RAEVWD										MTAEVWD Heavily Optimised
-icpalacetower01_far				98KB - 1670 verts - 930 tris				52KB - 1441 verts - 930 tris				18KB - 282 verts - 380 tris
+								File size - Vertices - Triangles			File size - Vertices - Triangles			File size - Vertices - Triangles
+icpalacetower01_far				  98KB - 1670 -  930						  52KB - 1441 -  930						  18KB -  282 -  380
+icpalacetowerbase01_far			 156KB - 3116 - 1920						 136KB - 2636 - 1920						  72KB - 1399 -  900
