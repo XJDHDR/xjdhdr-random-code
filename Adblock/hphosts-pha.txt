@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mFxPtgOYjQPvAh9pkrnDyg
-! Version: 201907171415
+! Checksum: WzoWaxZm4g2GWhzqxOK0hw
+! Version: 201907181415
 ! Title: HP Hosts pha list
-! Last modified: 17 Jul 2019 14:15 UTC
+! Last modified: 18 Jul 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -944,6 +944,7 @@
 ||bestdrugwebmart.ru^
 ||bestedeuro.com^
 ||bestedproducts.com^
+||besteventk.su^
 ||besteversale.ru^
 ||bestfastmart.ru^
 ||bestfastprogram.com^
@@ -2381,6 +2382,7 @@
 ||dysfonctionerectile.org^
 ||dzupjohtiz.webordertopa.su^
 ||e-genericviagra.com^
+||e-lempara.com^
 ||e24rx.com^
 ||eabutugmod.stockmarketa.su^
 ||eagleglassdeco.com^
@@ -6865,6 +6867,7 @@
 ||training.educ8.co^
 ||trainingassetcompany.com^
 ||tramadol50.com^
+||transformationmarketer.com^
 ||transyesnostress.paczkowska.com^
 ||traveljunkies.xyz^
 ||trazodone25mg.pw^
@@ -15129,4 +15132,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15107
+! Hosts: 15110
