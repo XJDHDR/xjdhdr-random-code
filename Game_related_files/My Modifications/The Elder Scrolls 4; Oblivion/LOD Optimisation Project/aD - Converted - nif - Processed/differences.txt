@@ -1,4 +1,4 @@
-Mesh							Original/UOP								RAEVWD										MTAEVWD Heavily Optimised
+Mesh							Original/UOP								RAEVWD										LOD Optimisation Project
 								File size - Vertices - Triangles			File size - Vertices - Triangles			File size - Vertices - Triangles
-icpalacetower01_far				  98KB - 1670 -  930						  52KB - 1441 -  930						  18KB -  282 -  380
+icpalacetower01_far				  98KB - 1670 -  930						  52KB - 1441 -  930						  18KB -  449 -  380
 icpalacetowerbase01_far			 156KB - 3116 - 1920						 136KB - 2636 - 1920						  72KB - 1399 -  900
