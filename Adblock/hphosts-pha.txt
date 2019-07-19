@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WzoWaxZm4g2GWhzqxOK0hw
-! Version: 201907181415
+! Checksum: VFLXv2PGcKYfsN0uLDLFmA
+! Version: 201907191415
 ! Title: HP Hosts pha list
-! Last modified: 18 Jul 2019 14:15 UTC
+! Last modified: 19 Jul 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2137,6 +2137,7 @@
 ||cytotecgrx.com^
 ||czu.targetxweb.su^
 ||d--store.com^
+||d3shatter.website^
 ||daceydyanna.ru^
 ||daffiemartynne.su^
 ||dailyshopt.su^
@@ -6754,6 +6755,7 @@
 ||tljmltyl.fastpillswebmart.ru^
 ||tlpharmacy.net^
 ||tmcialisutkfh.com^
+||tmlus.com^
 ||tnvg.newdrugsale.link^
 ||todogenericos.net^
 ||toeujzoxq.luckyhousee.su^
@@ -15132,4 +15134,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15110
+! Hosts: 15112
