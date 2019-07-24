@@ -109,35 +109,105 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 		{
 			printf '[Adblock Plus 2.0]\n'
 			printf '! Version: %s\n' "$sVersion"
-			printf '! Title: AdBlock Plus'"'"' Acceptable Ads list without Google related filters\n'
+			printf '! Title: Acceptable Ads - Third Party Tracking permitted - no Google\n'
 			printf '! Last modified: %s UTC\n' "$sDateTime"
 			printf '! Expires: 1 days\n'
 			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 			printf '!\n'
-			printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
+			printf '! This filter list is not associated with the Acceptable Ads Committee or it'"'"'s filter list\n'
+			printf '! Rather, this is an unofficial modification to their list.\n'
+			printf '!\n'
+			printf '! You may report issues with this filter list by creating a ticket on GitHub, GitLab, Bitbucket or SourceForge\n'
+			printf '! You may report issues with the original Acceptable Ads list here: support@adblockplus.org\n'
+			printf '! To figure out which avenue to report on, please follow the troubleshooting steps below:\n'
+			printf '!\n'
+			printf '! If you are seeing Google ads with this list enabled, please disable this filter list then reload the webpage.\n'
+			printf '! If those adverts disappear, the issue is in my list and please report this issue to me.\n'
+			printf '! If the ads does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '!\n'
+			printf '! If an ad that does not meet the Acceptable Ads criteria is not blocked, please disable this filter list then reload the webpage.\n'
+			printf '! If that ad does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '! If it does disappear, please temporarily enable the regular Acceptable Ads filter list then reload the webpage.\n'
+			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
 			printf '!\n'
 			printf '!\n'
 			grep -viFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 				"$HOME/working_folder/exceptionrules.txt"
-		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
-		# Delete duplicate lines except comments
-		awk '/^!/ || !a[$0]++' '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt' \
-			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-cleaned.txt'
-		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-cleaned.txt' \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
-		recode -f ..utf8 '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
-		python '/home/addChecksum.py' < '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt' \
-			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-checked.txt'
-		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-checked.txt' \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt'
-		CommandExitCode=$(python '/home/validateChecksum.py' < \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google.txt')$?
-		if [ "$CommandExitCode" != 'Checksum is valid0' ]
-		then
-			errors+='Errors encountered during checksum validation of Acceptable-ads-without-Google.txt:'
-			errors+=' Error:'"$CommandExitCode"'\n'
-		fi
-		CommandExitCode=0
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_Third_Party_Tracking_permitted_-_no_Google.txt'
+
+		{
+			printf '[Adblock Plus 2.0]\n'
+			printf '! Version: %s\n' "$sVersion"
+			printf '! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola\n'
+			printf '! Last modified: %s UTC\n' "$sDateTime"
+			printf '! Expires: 1 days\n'
+			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
+			printf '!\n'
+			printf '! This filter list is not associated with the Acceptable Ads Committee or it'"'"'s filter list\n'
+			printf '! Rather, this is an unofficial modification to their list.\n'
+			printf '!\n'
+			printf '! You may report issues with this filter list by creating a ticket on GitHub, GitLab, Bitbucket or SourceForge\n'
+			printf '! You may report issues with the original Acceptable Ads list here: support@adblockplus.org\n'
+			printf '! To figure out which avenue to report on, please follow the troubleshooting steps below:\n'
+			printf '!\n'
+			printf '! If you are seeing Taboola ads with this list enabled, please disable this filter list then reload the webpage.\n'
+			printf '! If those adverts disappear, the issue is in my list and please report this issue to me.\n'
+			printf '! If the ads does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '!\n'
+			printf '! If an ad that does not meet the Acceptable Ads criteria is not blocked, please disable this filter list then reload the webpage.\n'
+			printf '! If that ad does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '! If it does disappear, please temporarily enable the regular Acceptable Ads filter list then reload the webpage.\n'
+			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
+			printf '!\n'
+			printf '!\n'
+			grep -viFe 'taboola.com' "$HOME/working_folder/exceptionrules.txt"
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_Third_Party_Tracking_permitted_-_no_Taboola.txt'
+
+		{
+			printf '[Adblock Plus 2.0]\n'
+			printf '! Version: %s\n' "$sVersion"
+			printf '! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola\n'
+			printf '! Last modified: %s UTC\n' "$sDateTime"
+			printf '! Expires: 1 days\n'
+			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
+			printf '!\n'
+			printf '! This filter list is not associated with the Acceptable Ads Committee or it'"'"'s filter list\n'
+			printf '! Rather, this is an unofficial modification to their list.\n'
+			printf '!\n'
+			printf '! You may report issues with this filter list by creating a ticket on GitHub, GitLab, Bitbucket or SourceForge\n'
+			printf '! You may report issues with the original Acceptable Ads list here: support@adblockplus.org\n'
+			printf '! To figure out which avenue to report on, please follow the troubleshooting steps below:\n'
+			printf '!\n'
+			printf '! If you are seeing Google or Taboola ads with this list enabled, please disable this filter list then reload the webpage.\n'
+			printf '! If those adverts disappear, the issue is in my list and please report this issue to me.\n'
+			printf '! If the ads does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '!\n'
+			printf '! If an ad that does not meet the Acceptable Ads criteria is not blocked, please disable this filter list then reload the webpage.\n'
+			printf '! If that ad does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '! If it does disappear, please temporarily enable the regular Acceptable Ads filter list then reload the webpage.\n'
+			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
+			printf '!\n'
+			printf '!\n'
+			grep -viFe 'taboola.com' -f '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
+				"$HOME/working_folder/exceptionrules.txt"
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_Third_Party_Tracking_permitted_-_no_Google_or_Taboola.txt'
+
+		for file in /home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_Third_Party_Tracking_permitted_-_*
+		do
+			# Delete duplicate lines except comments
+			awk '/^!/ || !a[$0]++' "$file" > "$file-cleaned.txt"
+			mv -f "$file-cleaned.txt" "$file"
+			recode -f ..utf8 "$file"
+			python '/home/addChecksum.py' < "$file" > "$file-checked.txt"
+			mv -f "$file-checked.txt" "$file"
+			CommandExitCode=$(python '/home/validateChecksum.py' < "$file")$?
+			if [ "$CommandExitCode" != 'Checksum is valid0' ]
+			then
+				errors+='Errors encountered during checksum validation of '"$file"':'
+				errors+=' Error:'"$CommandExitCode"'\n'
+			fi
+			CommandExitCode=0
+		done
 		rm -f "$HOME/working_folder/exceptionrules.txt"
 	else
 		errors+='Could not download exceptionrules.txt: Error:'"$CommandExitCode"'\n'
@@ -158,36 +228,105 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 		{
 			printf '[Adblock Plus 2.0]\n'
 			printf '! Version: %s\n' "$sVersion"
-			printf '! Title: AdBlock Plus'"'"' Acceptable Ads list without Google related filters or third-party tracking\n'
+			printf '! Title: Acceptable Ads - no Third Party Tracking - no Google\n'
 			printf '! Last modified: %s UTC\n' "$sDateTime"
 			printf '! Expires: 1 days\n'
 			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
 			printf '!\n'
-			printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
+			printf '! This filter list is not associated with the Acceptable Ads Committee or it'"'"'s filter list\n'
+			printf '! Rather, this is an unofficial modification to their list.\n'
+			printf '!\n'
+			printf '! You may report issues with this filter list by creating a ticket on GitHub, GitLab, Bitbucket or SourceForge\n'
+			printf '! You may report issues with the original Acceptable Ads list here: support@adblockplus.org\n'
+			printf '! To figure out which avenue to report on, please follow the troubleshooting steps below:\n'
+			printf '!\n'
+			printf '! If you are seeing Google ads with this list enabled, please disable this filter list then reload the webpage.\n'
+			printf '! If those adverts disappear, the issue is in my list and please report this issue to me.\n'
+			printf '! If the ads does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '!\n'
+			printf '! If an ad that does not meet the Acceptable Ads criteria is not blocked, please disable this filter list then reload the webpage.\n'
+			printf '! If that ad does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '! If it does disappear, please temporarily enable the regular Acceptable Ads filter list then reload the webpage.\n'
+			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
 			printf '!\n'
 			printf '!\n'
 			grep -viFf '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 				"$HOME//working_folder/exceptionrules-privacy-friendly.txt"
-		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
-		# Delete duplicate lines except comments
-		awk '/^!/ || !a[$0]++' \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
-			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt'
-		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-cleaned.txt' \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
-		recode -f ..utf8 '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
-		python '/home/addChecksum.py' < \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt' \
-			> '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-checked.txt'
-		mv -f '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking-checked.txt' \
-			'/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt'
-		CommandExitCode=$(python '/home/validateChecksum.py' \
-			< '/home/svn/xjdhdr-random-code/Adblock/Acceptable-ads-without-Google-or-Third-party-Tracking.txt')$?
-		if [ "$CommandExitCode" != 'Checksum is valid0' ]
-		then
-			errors+='Errors encountered during checksum validation of Acceptable-ads-without-Google'
-			errors+='-or-Third-party-Tracking.txt: Error:'"$CommandExitCode"'\n'
-		fi
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_no_Third_Party_Tracking_-_no_Google.txt'
+
+		{
+			printf '[Adblock Plus 2.0]\n'
+			printf '! Version: %s\n' "$sVersion"
+			printf '! Title: Acceptable Ads - no Third Party Tracking - no Taboola\n'
+			printf '! Last modified: %s UTC\n' "$sDateTime"
+			printf '! Expires: 1 days\n'
+			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
+			printf '!\n'
+			printf '! This filter list is not associated with the Acceptable Ads Committee or it'"'"'s filter list\n'
+			printf '! Rather, this is an unofficial modification to their list.\n'
+			printf '!\n'
+			printf '! You may report issues with this filter list by creating a ticket on GitHub, GitLab, Bitbucket or SourceForge\n'
+			printf '! You may report issues with the original Acceptable Ads list here: support@adblockplus.org\n'
+			printf '! To figure out which avenue to report on, please follow the troubleshooting steps below:\n'
+			printf '!\n'
+			printf '! If you are seeing Taboola ads with this list enabled, please disable this filter list then reload the webpage.\n'
+			printf '! If those adverts disappear, the issue is in my list and please report this issue to me.\n'
+			printf '! If the ads does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '!\n'
+			printf '! If an ad that does not meet the Acceptable Ads criteria is not blocked, please disable this filter list then reload the webpage.\n'
+			printf '! If that ad does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '! If it does disappear, please temporarily enable the regular Acceptable Ads filter list then reload the webpage.\n'
+			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
+			printf '!\n'
+			printf '!\n'
+			grep -viFe 'taboola.com' "$HOME//working_folder/exceptionrules-privacy-friendly.txt"
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_no_Third_Party_Tracking_-_no_Taboola.txt'
+
+		{
+			printf '[Adblock Plus 2.0]\n'
+			printf '! Version: %s\n' "$sVersion"
+			printf '! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola\n'
+			printf '! Last modified: %s UTC\n' "$sDateTime"
+			printf '! Expires: 1 days\n'
+			printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
+			printf '!\n'
+			printf '! This filter list is not associated with the Acceptable Ads Committee or it'"'"'s filter list\n'
+			printf '! Rather, this is an unofficial modification to their list.\n'
+			printf '!\n'
+			printf '! You may report issues with this filter list by creating a ticket on GitHub, GitLab, Bitbucket or SourceForge\n'
+			printf '! You may report issues with the original Acceptable Ads list here: support@adblockplus.org\n'
+			printf '! To figure out which avenue to report on, please follow the troubleshooting steps below:\n'
+			printf '!\n'
+			printf '! If you are seeing Google or Taboola ads with this list enabled, please disable this filter list then reload the webpage.\n'
+			printf '! If those adverts disappear, the issue is in my list and please report this issue to me.\n'
+			printf '! If the ads does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '!\n'
+			printf '! If an ad that does not meet the Acceptable Ads criteria is not blocked, please disable this filter list then reload the webpage.\n'
+			printf '! If that ad does not disappear, please report this to Easylist or whatever ad blocking list you are using.\n'
+			printf '! If it does disappear, please temporarily enable the regular Acceptable Ads filter list then reload the webpage.\n'
+			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
+			printf '!\n'
+			printf '!\n'
+			grep -viFe 'taboola.com' -f '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
+				"$HOME//working_folder/exceptionrules-privacy-friendly.txt"
+		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_no_Third_Party_Tracking_-_no_Google_or_Taboola.txt'
+
+		for file in /home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_no_Third_Party_Tracking_-_*
+		do
+			# Delete duplicate lines except comments
+			awk '/^!/ || !a[$0]++' "$file" > "$file-cleaned.txt"
+			mv -f "$file-cleaned.txt" "$file"
+			recode -f ..utf8 "$file"
+			python '/home/addChecksum.py' < "$file" > "$file-checked.txt"
+			mv -f "$file-checked.txt" "$file"
+			CommandExitCode=$(python '/home/validateChecksum.py' < "$file")$?
+			if [ "$CommandExitCode" != 'Checksum is valid0' ]
+			then
+				errors+='Errors encountered during checksum validation of '"$file"':'
+				errors+=' Error:'"$CommandExitCode"'\n'
+			fi
+			CommandExitCode=0
+		done
 		CommandExitCode=0
 		rm -f "$HOME/working_folder/exceptionrules-privacy-friendly.txt"
 	else
@@ -338,11 +477,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	sshpass -f "$HOME/sourceforge_password.txt" rsync -qcruz -e ssh --exclude=.svn '/home/svn/xjdhdr-random-code/' \
 		'xjdhdr@frs.sourceforge.net:/home/frs/project/xjdhdr-random-code/'
 
-	#   GitHub
-#	svn status '/home/svn/xjdhdr-random-code/' | grep ^\? | cut -c2- | while IFS='' read -r sFile
-#	do
-#		svn add "$sFile"
-#	done
+	#   GitHub, GitLab and Bitbucket
 	sNewFiles=$(svn status '/home/svn/xjdhdr-random-code/' | awk '{if ($1 == "?") print $2 }')
 	if [[ $sNewFiles != "" ]]
 	then
@@ -363,3 +498,4 @@ if [ -n "$errors" ]
 then
 	printf 'auto_update_svn.bash:\n%s UTC\n'"$errors"'\n\n' "$sDateTime" >> '/home/error_reports_to_email.txt'
 fi
+

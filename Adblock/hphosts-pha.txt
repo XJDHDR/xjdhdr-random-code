@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v3MTz2fd4bKFunLdq+MfBw
-! Version: 201907231415
+! Checksum: 5Jc4ErKmoyf9k5lU96y52g
+! Version: 201907241415
 ! Title: HP Hosts pha list
-! Last modified: 23 Jul 2019 14:15 UTC
+! Last modified: 24 Jul 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4444,6 +4444,7 @@
 ||megastoretry.ru^
 ||mehetabelcamivitia.ru^
 ||mehetabeljyoti.ru^
+||mehmetgencsoy.com^
 ||melisandradelora.su^
 ||memoryvilleinc.com^
 ||mens-active.com^
@@ -6967,6 +6968,7 @@
 ||trustsale.ru^
 ||trustsalepro.su^
 ||trustship365x7.com^
+||truststorea.su^
 ||trustwinother.su^
 ||trustworthybillingpage.com^
 ||trustymedshop.net^
@@ -15134,4 +15136,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15112
+! Hosts: 15114
