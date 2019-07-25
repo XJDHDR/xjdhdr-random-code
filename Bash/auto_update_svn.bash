@@ -160,7 +160,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
 			printf '!\n'
 			printf '!\n'
-			grep -viFe 'taboola.com' "$HOME/working_folder/exceptionrules.txt"
+			grep -viFe 'taboola' "$HOME/working_folder/exceptionrules.txt"
 		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_Third_Party_Tracking_permitted_-_no_Taboola.txt'
 
 		{
@@ -188,7 +188,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
 			printf '!\n'
 			printf '!\n'
-			grep -viFe 'taboola.com' -f '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
+			grep -viFe 'taboola' -f '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 				"$HOME/working_folder/exceptionrules.txt"
 		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_Third_Party_Tracking_permitted_-_no_Google_or_Taboola.txt'
 
@@ -279,7 +279,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
 			printf '!\n'
 			printf '!\n'
-			grep -viFe 'taboola.com' "$HOME//working_folder/exceptionrules-privacy-friendly.txt"
+			grep -viFe 'taboola' "$HOME//working_folder/exceptionrules-privacy-friendly.txt"
 		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_no_Third_Party_Tracking_-_no_Taboola.txt'
 
 		{
@@ -307,7 +307,7 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 			printf '! If the ad reappears, please report it at the email address above. If not, please create a ticket.\n'
 			printf '!\n'
 			printf '!\n'
-			grep -viFe 'taboola.com' -f '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
+			grep -viFe 'taboola' -f '/home/svn/xjdhdr-random-code/Bash/google_ad_keywords.txt' \
 				"$HOME//working_folder/exceptionrules-privacy-friendly.txt"
 		} > '/home/svn/xjdhdr-random-code/Adblock/Acceptable_Ads_-_no_Third_Party_Tracking_-_no_Google_or_Taboola.txt'
 

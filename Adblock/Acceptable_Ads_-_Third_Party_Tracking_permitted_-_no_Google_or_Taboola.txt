@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4UsNrX4B0nPnnLBIcDPL4A
-! Version: 201907241415
+! Checksum: 81zrsy9sspS0pCcrbyD2AQ
+! Version: 201907251415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Jul 2019 14:15 UTC
+! Last modified: 25 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1489,7 +1489,7 @@ senseyeesports.com#@#.mom-ad
 @@||b.scorecardresearch.com/beacon.js$domain=journaldesfemmes.com|journaldesfemmes.fr|ccm.net|commentcamarche.net|commentcamarche.com|linternaute.com|kioskea.net|journaldunet.com|hugolescargot.com|jeux-gratuits.com|hayatouki.com
 @@||b.scorecardresearch.com^$image,domain=journaldesfemmes.com|journaldesfemmes.fr|ccm.net|commentcamarche.net|commentcamarche.com|linternaute.com|kioskea.net|journaldunet.com|hugolescargot.com|jeux-gratuits.com|hayatouki.com
 @@||w.estat.com/js/whap.js$domain=journaldesfemmes.com|journaldesfemmes.fr|ccm.net|commentcamarche.net|commentcamarche.com|linternaute.com|kioskea.net|journaldunet.com|hugolescargot.com|jeux-gratuits.com|hayatouki.com
-ccm.net,commentcamarche.com,commentcamarche.net#@#.advertising
+journaldesfemmes.fr,ccm.net,commentcamarche.com,commentcamarche.net#@#.advertising
 !:partner_token=CCM Benchmark Group
 !:partner_id=2ebbb4314507e3ab
 !:type=partner
@@ -1586,11 +1586,9 @@ thenoob.net#@#.adinjwidget
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25071
 ! diary.anek.ws ads
-!:partner_token=Taboola
 !:partner_id=25a5b2915c0c608d
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
-! Taboola ads
 @@||escolaeducacao.com.br/wp-content/plugins/better-adsmanager/js/advertising.min.js$script,domain=escolaeducacao.com.br
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
@@ -1601,18 +1599,14 @@ thenoob.net#@#.adinjwidget
 @@||ads.servebom.com^$script,domain=tomsguide.fr|tomshardware.de|tomshardware.fr|tomshardware.co.uk
 @@||ocubee.com/assets/*$script,domain=ocubee.com
 @@||adtech.de/dt/common/DAC.js$domain=footmercato.net
-@@||nbcnews.com/pages/ads/taboola/belowarticle.html$subdocument,domain=nbcnews.com
-@@||nbcnews.com/pages/ads/taboola/rightrail.html$subdocument,domain=nbcnews.com
 @@||srv.bebi.com/public/js/bebi_$script,domain=anime1.com
 @@||srv.bebi.com/a/1/691.js$domain=anime1.com
 @@||fastly.net/js/show_ads.js?$domain=spanishdict.com
-@@||plarium.com^*&pxl=taboola_fr&$popup,domain=geny.com
 @@||aol.co.uk^*/cobrand.js$domain=aol.co.uk
 @@||widget.perfectmarket.com/coxmedia/$script,domain=whio.com|gocarolinas.com|icflorida.com
 @@||206ads.com/init.js$script,domain=androidauthority.com
 @@||206ads.com/js/data/androidauthority.com.js?r=$script,domain=androidauthority.com
 @@||samuel-warde.com/cdn-cgi/pe/bag2?$xmlhttprequest,domain=samuel-warde.com
-@@||last.fm/static/js-build/ads/taboola.js$script,domain=last.fm
 @@||adtech.de/dt/common/DAC.js$script,domain=nrj.fr
 @@||viralpiranha.com/wp-content/plugins/outrigger/scripts/vendor/prebid.js$domain=viralpiranha.com
 ||zergnet.com/zerg.js$script,domain=huffingtonpost.com
@@ -1625,7 +1619,6 @@ thenoob.net#@#.adinjwidget
 @@||lensois.com/wp-content/plugins/better-adsmanager/js/advertising.js$domain=lensois.com
 @@||secretsdujeu.com/ads/ad-banner.v5.js$domain=secretsdujeu.com
 @@||starswelt.com/wp-content/plugins/advanced-ads/$script,domain=starswelt.com
-@@||wizzedmedia.com/public/serve/ads/placements/*/taboola/$xmlhttprequest,domain=wizzed.com
 @@||adfarm1.adition.com/lt?wpt=j&nw=42&*tagid(relatedbox)$script,domain=web.de|gmx.net
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
@@ -1634,7 +1627,6 @@ thenoob.net#@#.adinjwidget
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
-@@||nydailynews.com/*taboola/render.js?$script,domain=nydailynews.com
 @@||twpasol.com/c/$script,domain=filmehd.net|kech24.com|dzexams.com|assarih.com
 @@||dasibogilink.com/wp-content/plugins/better-adsmanager/js/advertising.min.js$domain=dasibogilink.com
 @@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
@@ -1647,7 +1639,6 @@ thenoob.net#@#.adinjwidget
 newsbugz.com#@##mvp-post-bot-ad
 gistreel.com#@#.mvp-widget-ad
 gistreel.com#@#.mvp_ad_widget
-patch.com#@#.box-taboola-content
 localnews.manoramaonline.com#@#.mmads
 telva.com#@#.content-ad
 bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
@@ -1656,41 +1647,24 @@ asiantvsub.com#@#.bottomad
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
 dasibogilink.com#@#.widget_better-ads
-nydailynews.com#@##ra-taboola-bottom
 caughtoffside.com#@#.adcontainer
 otvfoco.com.br,sguru.org#@#.herald-ad
-jeu-tu-preferes.fr###taboola-mid-article-bulk-2
 goldpara.com#@#.reklam2
 dikaiologitika.gr#@#.contentAds
-saveur.com#@#.pane-taboola
 buzzfeed.com,buzzfeednews.com#@#.js-ad
-the-share.club###taboola-right-rail-photo-gallery-thumbnails
-spunteblu.it###taboola-above-gallery-thumbnails
-pinoytvshows.me###taboola-below-article-thumbnails-2
 darkhorizons.com,tops.easyvoyage.de,tops.easyviajar.com,tops.easyvoyage.com,tops.easyvoyage.co.uk#@#.td-a-rec-id-custom_ad_4
 newsner.com#@#.ad-placement
-lifezette.com###taboola-native-thumbnails
 dailydosepolitics.com###exitpopup-modal
 lensois.com#@#.betteradscontainer
 dinamani.com,newindianexpress.com#@#div[id^="ad_script_"]
-mangahasu.com,theamericanbacon.com,mibrujula.com,uconservative.com,dailydosepolitics.com,world-politicus.com,tvstanici.net###taboola-above-article-thumbnails
 filthyrichstar.com#@##ad-unit
-globalvidz.ga###taboola-below-article-thumbnails
-topimag.fr,uconservative.com,ytssubtitles.com,dailydosepolitics.com,rightforever.com,dramapop.net,espectador.com.mx,ideapod.com,hackspirit.com,lebalooshow.com###taboola-mid-article-thumbnails
-ulusalpost.com,newsitaliane.it,video-facts.com,rightforever.com,shacknews.com,voddrama.online###taboola-right-rail-thumbnails
 moneyam.com#@#div[style="width:980px;height:450px;clear:both;margin: 0 auto;"]
-zdnet.com#@##taboola-below-home-thumbnails-homepage
-thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se#@#.taboola-row
 aol.com##.m-3rd-row-below-article__article
 aol.com#@#.m-people-are-reading
 ratemyteachers.com#@#.ad_container
 victoriaadvocate.com,whatreallyhappened.com,tecmundo.com.br,viagginbici.com,lijstverse.nl#@#.banner_ad
 victoriaadvocate.com,whatreallyhappened.com,conneriesqc.com,lijstverse.nl#@#.sponsored_ad
 jewishworldreview.com#@#.bottom_ads
-fox4news.com###taboola-mid-article-thumbnails-1
-forums.salary.sg###taboola-mid-forum-thumbnails
-buzja.com###taboola-mid-article-bulk
-topimag.fr,caffeinamagazine.it###taboola-below-title-thumbnails
 fabulous55.com###wbounce-modal
 libertatea.ro#@#.strawberry-ads
 thepoke.co.uk,thefreethoughtproject.com#@#.trc_rbox_container
@@ -1708,19 +1682,15 @@ goodmad.com#@##advert-placeholder-post-content-image-1
 jeremstar.fr#@#.AD_area
 topdiez.online###ouibounce-modal
 stopmensonges.com,indigodergisi.com#@#.td-a-rec-id-custom_ad_3
-thelocal.it,formiche.net,thelocal.de,usatoday.com#@##taboola-below
 theamericanbacon.com,blog.bikerornot.com,unexpectedentertainment.net#@#.adinjwidget
 vippressraum.com,persruimte.com,sallepresse.com,vipsalaprensa.com#@#.advertising-content
 vippressraum.com,persruimte.com,sallepresse.com,vipsalaprensa.com#@#.advertising-block
-bocalista.com,sport.bt.com#@##taboola-below-article-thumbnails-3rd
 greatandhra.com#@#div[class^="add"]
 tipperarystar.ie#@#.bannervcms
 order-order.com#@#.mid-bar-post-container-unit
 vgpwn.com#@#.ad-inserter-widget
 vgpwn.com#@#div > #sidebar
 wtop.com,federalnewsradio.com#@#.Ad
-3ds-paradise.com,desired.de,espncricinfo.com,espn.com,fantasy.espn.com,espn.com.ar,espn.cl,espndeportes.espn.com,global.espn.com,espn.com.mx,tv5.espn.com,espn.com.au,espn.com.br,espn.in,espn.co.uk,espn.com.ve,eonline.com,dbltap.com,latimes.com,journal-news.com,gocarolinas.com,10tv.com,fox23.com,fox30jax.com,uk.ign.com,curiouscat.me,dayton.com,daytondailynews.com,austin360.com,kiro7.com,palmbeachpost.com,columbiatribune.com,chicago.suntimes.com,wthr.com,xpatnation.com,wsbtv.com,wsoctv.com,wpxi.com,wftv.com,theonion.com,fox13memphis.com,accessatlanta.com,actionnewsjax.com,ajc.com,minhavida.com.br,nascar.com,boston25news.com#@#.taboola-container
-cnn.gr,onsports.gr,thesun.co.uk,journal-news.com,gamona.de,walla.co.il,aplus.com,gazetaesportiva.com,dayton.com,daytondailynews.com,accessatlanta.com,ajc.com,lakersnation.com,kapook.com,sheee.co.il#@#.taboola-widget
 saloona.co.il#@##popular_top
 balkandownload.org#@#.ipsAd
 thedirty.com#@#.sponsored
@@ -1728,8 +1698,6 @@ thedirty.com##.latest-iframe
 srbin.info#@#.adrotate_widgets
 didyouknowfacts.com#@#.header-ad
 didyouknowfacts.com#@#.ad-footer
-adn.com#@#.pb-f-ads-taboola-article-well
-adn.com#@#.pb-f-ads-taboola-right-rail-alt
 cultbox.co.uk#@#.ad-slot-sidebar-b
 egbertowillies.com,opposition24.com#@#.wpInsertAdWidget
 bulletindailynews.com#@#.adspace-widget
@@ -1738,7 +1706,6 @@ thedailyliberator.com#@#.bunyad-ad
 thedailyliberator.com#@#.ads-widget
 colombotelegraph.com#@#.single_ad
 israelnationalnews.com#@#.znn
-latimes.com,chicagotribune.com,sun-sentinel.com,orlandosentinel.com,baltimoresun.com,mcall.com,dailypress.com,courant.com,southflorida.com,redeyechicago.com,citypaper.com#@#.trb_taboola
 ecofoot.fr,yoamoloszapatos.com,ijreview.com,liftbump.com#@#.widget-ad
 liftbump.com#@#.desktop_ad
 huffingtonpost.com.mx,huffingtonpost.com.au,huffingtonpost.com,huffingtonpost.it,huffingtonpost.kr,huffpostmaghreb.com,huffpostbrasil.com#@#.ad_spot
@@ -1754,34 +1721,25 @@ breitbart.com#@#.ad-wrapper
 ibtimes.co.uk#@#.box-recommend-ad
 europe1.fr#@##sponsored_links
 bradenton.com,centredaily.com,idahostatesman.com,kentucky.com,sunherald.com,islandpacket.com#@#.bottom_ad
-seriouseats.com,newrepublic.com#@#.taboola-unit
 thinkprogress.org#@##ad_zone1
 www.msn.com#@#a[href^="http://adfarm.mediaplex.com/"]
-msn.com#@##taboola-above-homepage-thumbnails
 ouest-france.fr,yatahonga.com,sofoot.com#@#.pub
-scout.com,247sports.com#@#.taboola_blk
 radaronline.com,thechive.com#@#[class] > [class] > a[target][href*="/"]:first-child
 radaronline.com,thechive.com#@#[id] > [class] > a[target="_blank"][href*="/"]
 radaronline.com,thechive.com#@#div[class] > div[id] > div > a[target]:first-child
 radaronline.com,thechive.com#@#div[id][class] > [class] > a[target][href]:first-child
-documentaryheaven.com#@##taboola-below-video-thumbnails
 ewrestlingnews.com#@#.ad-widget
 pressroomvip.com,warpedspeed.com#@#.ad-wrap
-theonion.com#@#.taboola-inbetweener
 thelocal.de,englishforum.ch,thelocal.at,thelocal.ch,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se#@#.ad_container
-sciencealert.com,thairath.co.th,fleaflicker.com#@##taboola-content
 dailyhealthremedies.com,thediabeticguide.com,lifeinthegoldenyears.com,celebritylifejournal.com,canadajournal.net,canal-supporters.com,diabeticnewsnow.com,kittylovernews.com#@#.ads-post
 inquisitr.com,lifed.com,lifedaily.com#@#.WP_Widget_Ad_manager
 lexpress.fr#@#.block_partners
 lexpress.fr#@#.content_inside_partner
 theweek.com#@#.sr-in-feed-ads
-thecinemaholic.com,ibtimes.co.uk,theweek.com,odelices.ouest-france.fr#@#.taboola-ad
 tickld.com,pref.com#@#.adcode
-autoexpress.co.uk#@#.block-taboola
 3ds-paradise.com,desired.de,espncricinfo.com,vocativ.com#@#.sponsored-links
 politico.com,kizlarsoruyor.com#@#.ad-slot
 crestviewbulletin.com,srpressgazette.com#@##btmsponsoredcontent
-hollywoodreporter.com#@#.taboola-left-rail-wrapper
 rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 iran021.com,amharictube.com#@#.pm-ad-zone
 talkingpointsmemo.com#@##article-footer-sponsors
@@ -1797,9 +1755,7 @@ ipnoze.com#@##adver2
 ipnoze.com#@##adver5
 charteredclub.com,twitlonger.com#@#.bannerad
 holahoop.com,ziperto.com,dingenvoorvrouwen.nl,kookfans.nl,mesastuces.net,tippsundtricks.co,buzz-panda.de,awesomejelly.com,viralhindi.com,womendailymagazine.com,ejemplosde.info,ijustlovethis.com,estaily.com,99traveltips.com,mangaforever.net,feedxp.com#@#.bottomad
-bigstory.ap.org#@#.for-taboola
 msn.com##DIV[id^="tb_homePage_carousel_"] DIV[id^="internal_trc_"]
-topito.com#@##taboola_related
 vg247.com#@##recommendations
 diariodebiologia.com,travelstyle.gr,viralvideosgallery.com,viralslot.com,usefultipsforhome.com,culture-informatique.net,solveyourtech.com,opposition24.com#@#.wpInsertInPostAd
 whio.com#@#.cmAd
@@ -1818,20 +1774,16 @@ topday.com#@#.panel-ad
 welikela.com#@#.after-post-ad
 quotedb.com#@#.ezoic-ad
 historyfanatic.com,dailycrackle.com,animeskai.com#@#.ads1
-nydailynews.com#@##taboola-right-rail-thumbnails-1st
 dailyundercover.com#@#.adwrapper
 dailyundercover.com##.adwrapper > DIV[style="height:250px; width:300px; overflow:hidden"]
 dailyundercover.com##.adwrapper > .adtext
-noticiasaominuto.com.br##.taboolaLightbox
 androidauthority.com#@#.tpd-box
 wonderbuzz.com#@##bottom-ads
 eurosport.com#@#.related-content-story--sponsored
 mangakawaii.com,mangadoor.com#@#.ads-large
 holahola.cc#@#.sponsored-link
-elheraldo.hn#@#.multimedia_taboola
 sanjuan8.com#@#.banner
 unoentrerios.com.ar#@#.banner-nativo
-ulusalpost.com###taboola-left-rrail-thumbnails
 nikib.co.il#@#.desktop-ads
 cyprus-mail.com#@#.ad-custom-size
 cyprus-mail.com#@#.ad-bottom
@@ -1857,7 +1809,6 @@ seloger.com#@#div[id^="div-gpt-ad"]
 finanzen.net#@#div :-abp-properties(content: "Anzeige")
 finanzen.net#@#div :-abp-properties(content: "*nzeige*")
 expressandstar.com#@#.advert
-nezzsorozatokat.info#@##taboola-ad
 ajc.com#@#.story-ad-container
 livenewson.com#@##quads-ad2
 livenewson.com#@#.quads-ad2
@@ -5991,6 +5942,16 @@ themarker.com#@#iframe[width="300"]
 op.gg#@#.vm-placement
 mobafire.com#@#.exhibit-narrow
 mobafire.com#@#.exhibit-vertical
+explosm.net#@#.leaderboard-container
+girlgeniusonline.com#@##towerad
+awkwardzombie.com#@##ad_left
+awkwardzombie.com#@##ad_right
+awkwardzombie.com#@##ad_top
+wildelifecomic.com,girlswithslingshots.com#@##boxad
+misfile.com#@#.blogAd
+games.co.uk#@#.sgAd
+games.co.uk#@#.advert
+games.co.uk#@#.mpu
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6737,14 +6698,6 @@ digireality.cz#@#[id^="aswift"]
 @@||track.adform.net^$image,domain=vk.com
 @@||criteo.com/delivery/ajs.php?zoneid=404767$script,domain=vk.com
 @@||criteo.com/delivery/ajs.php?zoneid=404768$script,domain=vk.com
-!:partner_token=A-Ads
-!:partner_id=62d8aa6a6105d0b8
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=66031
-! A-Ads
-@@||acceptable.a-ads.com^$document,subdocument,domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
-@@||a-ads.com/px.gif?ch=1$domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
-||a-ads.com/px.gif?ch=2$domain=a-ads.com|tny.im|cryptocoinsway.com|dailybitcoinnews.com
 !:partner_token=ppc.world
 !:partner_id=8e0ac9864547fe79
 !:type=partner
