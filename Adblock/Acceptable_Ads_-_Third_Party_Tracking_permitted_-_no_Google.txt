@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: w6UlxmPo2uA+uHosErtjCQ
-! Version: 201907291415
+! Checksum: l+39VXjxuXjowd1LqsiSVw
+! Version: 201907301415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Jul 2019 14:15 UTC
+! Last modified: 30 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1923,20 +1923,6 @@ cnet.com,metacritic.com#@#.trc_elastic
 @@||imp2.ads.linkedin.com^
 @@||ads.linkedin.com/collect^
 @@||dmp.ads.linkedin.com^
-!:partner_token=imgur.com
-!:partner_id=351bb6deb5b40a06
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=26335
-! imgur.com ads
-@@||imgur.com/ads?$subdocument,domain=imgur.com
-imgur.com#@##adunit
-imgur.com#@#.advertisement
-@@||imgur.com/spotlight-iframe|$subdocument,domain=imgur.com,document
-@@||imgur.com/spotlight-iframe?amazon_first=true$subdocument,domain=imgur.com,document
-@@||imgur.com/spotlight-iframe/abp/top_banner$document,subdocument,domain=imgur.com
-@@||imgur.com/spotlight-iframe/abp/under_sidebar$document,subdocument,domain=imgur.com
-@@||imgur.com/spotlight-iframe/abp/pop_sky$document,subdocument,domain=imgur.com
-imgur.com#@##div-gpt-ad-spotlight
 !:partner_token=ted.com
 !:partner_id=f699f1943660421a
 !:type=partner
@@ -5758,7 +5744,7 @@ bouwsteentjes.info#@#.td-adspot-title
 ! untouchableads Ads
 @@||ad-delivery.net/px.gif?ch=1
 ||ad-delivery.net/px.gif?ch=2
-@@||btserve.com^$document,subdocument,image
+@@||btserve.com^$document,subdocument,image,script,xmlhttprequest
 @@||lijit.com/bidder/impression
 @@||bt.fandom.com^$document,subdocument,domain=fandom.com
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
@@ -7171,8 +7157,9 @@ adtechdaily.com#@#div[class*="td-a-rec-id-"]
 agame.com#@#.ad-leaderboard
 agame.com#@#.ad-skyscraper
 agame.com#@#.ad-mpu
-agame.com#@#.sgAd
-agame.com#@##sgAdScGp160x600
+agame.com,gamesgames.com,gry.pl,juegos.com,jetztspielen.de,spelletjes.nl#@#.sgAd
+agame.com,gamesgames.com,gry.pl,juegos.com,jetztspielen.de,spelletjes.nl#@##sgAdScGp160x600
+gamesgames.com,gry.pl,juegos.com,jetztspielen.de,spelletjes.nl#@#.advert
 cinemablend.com#@##slot_drawer
 cinemablend.com#@#.ads_slot
 cinemablend.com#@#.sticky-ad
