@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YscGO9Ca7CkQl970hrqdPw
-! Version: 201907301415
+! Checksum: 6igcPXmNFU98fhZvyy8Rwg
+! Version: 201907311415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 30 Jul 2019 14:15 UTC
+! Last modified: 31 Jul 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1677,7 +1677,7 @@ conserve-energy-future.com,solidesnake.com#@#.quads-ad4
 topimag.fr,ancient-code.com,newsroom24.co.uk,alternativemediasyndicate.com,conserve-energy-future.com,zipbr.com,larecette.net,slavorum.org,themindcircle.com,solidesnake.com,thewildchild.co.za,soo-healthy.com,soolide.com,livenewson.com#@#.quads-location
 daddysgame.com#@#.add300
 healevate.com#@#.ad_space
-manoramaonline.com,huffingtonpost.com#@#.advertisement
+readmotorsport.com,readnewcastle.com,readnorwich.com,manoramaonline.com,huffingtonpost.com#@#.advertisement
 goodmad.com#@##advert-placeholder-post-content-image-1
 jeremstar.fr#@#.AD_area
 topdiez.online###ouibounce-modal
@@ -5845,6 +5845,12 @@ mumsnet.com,devmn.net#@#.ad-Leaderboard
 mumsnet.com,devmn.net#@#.ad-leaderboard
 mumsnet.com,devmn.net#@#.ad-placement
 mumsnet.com,devmn.net#@#.mpuE
+gogetaroomie.com#@##topad
+vinted.lt#@##ad-leaderboard
+vinted.lt#@##ad-rectangle
+vinted.lt#@##ad-skyscraper
+vinted.lt#@#.ad-top
+vinted.lt#@#.ad-sticky
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6869,6 +6875,7 @@ digireality.cz#@#[id^="aswift"]
 @@||tarru.tradedoubler.com^
 @@||cxt.tradedoubler.com^
 @@||clk.tradedoubler.com^
+@@||imp.tradedoubler.com/imp^
 boutiquesensolde.fr,cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr#@#a[href*="//clk.tradedoubler.com/click?"]
 premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
