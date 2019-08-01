@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PqbItf1xg5bUiF/S390+TQ
-! Version: 201907311415
+! Checksum: QpDvBhR0mBOBIsm8ghmyHA
+! Version: 201908011415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 31 Jul 2019 14:15 UTC
+! Last modified: 01 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6233,7 +6233,7 @@ eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.p
 @@||fr.antivirustop10.com^$popup,domain=weather.com
 @@||lemde.fr/*ligatus.js$script,domain=lemonde.fr
 @@||a-ssl.ligatus.com^$third-party,domain=as.com
-@@/publicidad.$~object-subrequest,~stylesheet,domain=canalsur.es
+@@/publicidad.$~object,~stylesheet,domain=canalsur.es
 @@||adserver.adtech.de$popup,domain=money.it|supereva.it
 @@||ads.leadcapitalcrp.com/*click$popup,domain=punto-informatico.it
 @@||d.ligatus.com/?ids=66847$script,domain=humo.be
@@ -8977,6 +8977,12 @@ wykop.pl#@#li.link:-abp-has(a[href*='wykop.pl/reklama'])
 wykop.pl#@#li.link:-abp-has(a[href*='wykop.pl/market'])
 wykop.pl#@#A[href$="/reklama"]
 wykop.pl#@##itemsStream:not(.touch-content) .article:not(.dC)
+!:partner_token=dota2.ru
+!:partner_id=510324c620a7aa12
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73244
+! dota2.ru ads
+dota2.ru#@#a[href^="/plain/"]
 !:type=combined
 ! Combined rules for sites using detection
 @@/px.gif?ch=1&rn=$domain=yelp.com
