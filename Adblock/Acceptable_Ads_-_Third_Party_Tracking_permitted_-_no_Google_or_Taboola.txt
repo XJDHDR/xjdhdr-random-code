@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bJXdGJm+AJtqKqyg6//IPg
-! Version: 201908021415
+! Checksum: pLdAQgPkUZ0mVk58DY7kdg
+! Version: 201908091415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Aug 2019 14:15 UTC
+! Last modified: 09 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1154,6 +1154,12 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 ! Outbrain ads
 @@||karma.mdpcdn.com/service/js-min/karma.header.js$domain=fitnessmagazine.com
 @@||karma.mdpcdn.com/service/js-min/karma.footer.js$domain=fitnessmagazine.com
+@@||blogherads.com/static/blogherads.js$domain=sheknows.com
+@@||blogherads.com^*/header.js$domain=sheknows.com
+@@||whizzco.com/demand/v1/rtads^$xmlhttprequest,domain=sheknows.com
+@@||whizzco.com/scripts/widget/widget_sm.js$domain=sheknows.com
+sheknows.com#@#.ads_container
+valeursactuelles.com##.OUTBRAIN[data-widget-id="AR_2"]
 cnn.com,epicurious.com#@#.ob-widget-section > .ob-widget-header
 tvline.com#@##outbrain_widget_1 > .ob-widget > .ob-first
 cnn.com#@#a[href^="http://www.nextadvisor.com/"]
@@ -1677,7 +1683,6 @@ conserve-energy-future.com,solidesnake.com#@#.quads-ad4
 topimag.fr,ancient-code.com,newsroom24.co.uk,alternativemediasyndicate.com,conserve-energy-future.com,zipbr.com,larecette.net,slavorum.org,themindcircle.com,solidesnake.com,thewildchild.co.za,soo-healthy.com,soolide.com,livenewson.com#@#.quads-location
 daddysgame.com#@#.add300
 healevate.com#@#.ad_space
-readmotorsport.com,readnewcastle.com,readnorwich.com,manoramaonline.com,huffingtonpost.com#@#.advertisement
 goodmad.com#@##advert-placeholder-post-content-image-1
 jeremstar.fr#@#.AD_area
 topdiez.online###ouibounce-modal
@@ -1712,7 +1717,7 @@ huffingtonpost.com.mx,huffingtonpost.com.au,huffingtonpost.com,huffingtonpost.it
 nbcnews.com#@#.ad-s-rendered
 didyouknowfacts.com,nbcnews.com,today.com,postize.com#@#.ad-content
 etonline.com,didyouknowfacts.com#@#.footer-ad
-etonline.comdidyouknowfacts.com#@##footer-ad
+etonline.com,didyouknowfacts.com#@##footer-ad
 sandip.knowable.com,nbcnews.com,thepoliticalinsider.com#@#.ad-container
 thepoliticalinsider.com,gifspace.net#@#.ad-banner
 thepoliticalinsider.com#@#.ad-row
@@ -2589,6 +2594,14 @@ equideow.com#@#.banner-300x250
 @@||ariva.de/ariva_analytics/$image,domain=ariva.de
 ariva.de#@#div[id^="div-gpt-ad"]
 ariva.de#@##adunit
+@@||ampproject.org/rtv/*/amp4ads-$domain=duden.de
+@@||duden.de/modules/custom/duden_gpt/js/px.js?ch=1&v=$domain=duden.de
+||duden.de/modules/custom/duden_gpt/js/px.js?ch=2&v=$domain=duden.de
+duden.de#@#div[id^="div-gpt-ad"]
+duden.de#@#.ad-1
+duden.de#@#.advertiser
+duden.de#@##adunit
+duden.de#@#.img_ad
 !:partner_token=Literally Media
 !:partner_id=e42da7353ddde095
 !:type=partner
@@ -3930,6 +3943,8 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
+@@||revcontent.com/api/delivery/?w=$xmlhttprequest,domain=latimes.com|hoylosangeles.com
+@@||revcontent.com/api/demand/?w=$xmlhttprequest,domain=latimes.com|hoylosangeles.com
 @@|http://$popup,third-party,domain=conservativetribune.com
 @@||servedbyadbutler.com/adserve/;ID=166073;size=300x250;$script,domain=thepennyhoarder.com
 @@||cdn.intermarkets.net/u/Intermarkets/DrudgeReport/DrudgeReport_Home_Right_dynamic.js$script,domain=drudgereport.com
@@ -5706,6 +5721,13 @@ ranker.com,chip.com.tr,mako.co.il,colourlovers.com#@#.ad
 ranker.com#@#.pub_300x250
 ranker.com#@#.pub_300x250m
 ranker.com#@#.pub_728x90
+@@||cdn.concert.io^$domain=sbnation.com|sbndev.net|curbed.com|eater.com|funnyordie.com|polygon.com|themcelroy.family|theringer.com|theverge.com|vox.com|vox.hu
+@@||concertads-configs.vox-cdn.com^$domain=sbnation.com|sbndev.net|curbed.com|eater.com|funnyordie.com|polygon.com|themcelroy.family|theringer.com|theverge.com|vox.com|vox.hu
+@@||cdn.vox-cdn.com^$domain=sbnation.com|sbndev.net|curbed.com|eater.com|funnyordie.com|polygon.com|themcelroy.family|theringer.com|theverge.com|vox.com|vox.hu
+@@||sbnation--com.sbn.sb6.k8s.sbndev.net/packs/concert_ads-$script,domain=sbndev.net
+sbnation.com,sbndev.net#@#.m-ad
+hannity.com#@#.ad-300x250
+hannity.com#@#.ad-728x90
 uscreditcardguide.com,usccgstaging.wpengine.com#@#.ad-holder
 kongregate.com,kongregatetrunk.com#@#.square_ad
 kongregate.com,kongregatetrunk.com#@#.horizontal_ad
@@ -5731,7 +5753,7 @@ britannica.com#@#.header-ad
 britannica.com#@#.sticky-ad
 britannica.com#@#.ad-with-header-wrapper
 destructoid.com#@#center > div > iframe
-famousbirthdays.com,destructoid.com,realgm.com,dailywire.com,novi.ba,greetingsisland.com,escapistmagazine.com,themeparktourist.com,naturallivingideas.com,javacodegeeks.com#@#div[id^="div-gpt-ad"]
+famousbirthdays.com,destructoid.com,realgm.com,dailywire.com,novi.ba,greetingsisland.com,escapistmagazine.com,themeparktourist.com,naturallivingideas.com,javacodegeeks.com,sbnation.com,sbndev.net,curbed.com,eater.com,funnyordie.com,polygon.com,themcelroy.family,theringer.com,theverge.com,vox.com,vox.hu#@#div[id^="div-gpt-ad"]
 wikia.com,fandom.com#@#.home-top-right-ads
 xlr8r.com,peanutallergy.com#@#.m-header-ad
 xlr8r.com,peanutallergy.com#@#.m-header-ad--slot
@@ -5858,6 +5880,9 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+autogidas.lt#@#.ads-container
+fxp.co.il#@##adfxp
+fxp.co.il#@#.header-top-ad
 skelbiu.lt#@##div[data-ad-id]
 fortnitemaster.com#@#div[adonis-marker]
 draugas.lt#@#.AdBox
@@ -6100,6 +6125,7 @@ viamichelin.fr##.ads > .magazine-item
 @@||smartadserver.com/config.js?nwid=$script,domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 @@||smart.idmnet.pl^$domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.pl,voxfm.pl,muratordom.pl,gazetki-promocyjne.net.pl,poradnikzdrowie.pl,eskainfo.pl,mjakmama24.pl,menshealth.pl,auto-motor-i-sport.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl#@#[id^="aswift_"]
+se.pl#@#div[class^="zpr_inside"]
 !:partner_token=skyrie.net
 !:partner_id=3279a14bf184152d
 !:type=partner
@@ -6599,9 +6625,9 @@ gamesflow.com#@#.iconads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=64914
 ! OLX Global B.V. ads
-! @@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt
-! ||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt
-! olx.pt#@#div[id^="div-gpt-ad"]
+@@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.pt|olx.bg|olx.ro
+||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.pt|olx.bg|olx.ro
+olx.pt,olx.bg,olx.ro#@#div[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
 !:type=partner
@@ -6718,6 +6744,27 @@ digireality.cz#@#[id^="aswift"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73174
 ! sammdex.com ads
+!:partner_token=GG Software
+!:partner_id=aaea7305bbe374b4
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73315
+! GG Software Ads
+||s.nitropay.com/ads-*.js$domain=guardian.gg|royalroad.com
+@@||s.nitropay.com/aan-*.js$domain=guardian.gg|royalroad.com
+@@||s.nitropay.com/px.gif?ch=1$domain=guardian.gg|royalroad.com
+||s.nitropay.com/px.gif?ch=2$domain=guardian.gg|royalroad.com
+@@||tracker.nitropay.com/sites/*/analytics$domain=guardian.gg|royalroad.com
+!:partner_token=BuySellAds
+!:partner_id=2476edbd2862931e
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73514
+! BuySellAds ads
+@@||ampproject.org/rtv/*/amp4ads-$script,domain=coingecko.com
+@@||buysellads.net/pub/coingecko.js$domain=coingecko.com
+@@||buysellads.net/acceptable.gif?ch=1&rn=$domain=coingecko.com
+||buysellads.net/acceptable.gif?ch=2&rn=$domain=coingecko.com
+coingecko.com#@#.ad-spacer
+coingecko.com#@#.img_ad
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7065,7 +7112,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header

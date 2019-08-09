@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 317n7mFzc2JWUj/SKFXfbQ
-! Version: 201908021415
+! Checksum: gNWtU8uTbET17f42Cd1Xfw
+! Version: 201908091415
 ! Title: HP Hosts pha list
-! Last modified: 02 Aug 2019 14:15 UTC
+! Last modified: 09 Aug 2019 14:15 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5915,6 +5915,7 @@
 ||rupoppers.biz^
 ||russian-untouchables.com^
 ||rutablet.bestonlajn.ru^
+||ruudfu.dealbesta.su^
 ||rvejryw.goodportala.su^
 ||rx-24.com^
 ||rx-acomplia.com^
@@ -15137,4 +15138,4 @@
 ||zybanaustralia.com^
 ||zyprexa.ws^
 ||zyrtecaustralia.net^
-! Hosts: 15115
+! Hosts: 15116
