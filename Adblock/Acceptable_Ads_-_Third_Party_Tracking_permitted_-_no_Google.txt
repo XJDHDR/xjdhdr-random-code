@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ycxQvjmnkwt3yJgsJhjaQ
-! Version: 201908091415
+! Checksum: JNU7TaQnjkqorypU5Ca4iQ
+! Version: 201908101415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Aug 2019 14:15 UTC
+! Last modified: 10 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -396,18 +396,18 @@ cylex.be,cylex-bedrijvengids.be,cylex.de,cylex.nl,cylex-branchenbuch.ch,cylex-uk
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=73934#p73934
 ! winfuture.de content ads
-@@||o0.winfuture.de^$script,image,domain=winfuture.de
-winfuture.de###news_content > DIV[style="width:424px;min-height:95px;background-color:white;margin-bottom:10px;"]
-winfuture.de###news_content DIV[style="width:424px;min-height:200px;background-color:white;margin-bottom:10px;"]
+! @@||o0.winfuture.de^$script,image,domain=winfuture.de
+! winfuture.de###news_content > DIV[style="width:424px;min-height:95px;background-color:white;margin-bottom:10px;"]
+! winfuture.de###news_content DIV[style="width:424px;min-height:200px;background-color:white;margin-bottom:10px;"]
 !:partner_token=winfuture.de
 !:partner_id=81ccc29d4fa307ee
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=93940#p93940
 ! winfuture.de content ads #2
-winfuture.de##.wf_gcsi[style="width:660px;min-height:200px;background-color:white;margin-bottom:10px;"]
-winfuture.de###news_content > .o_hidden > .singleblock_news_top
-winfuture.de##.hp_latest > .o_hidden > DIV[class^="singleblock_homepage_slot"]
-winfuture.de##.ws_singleAdNews
+! winfuture.de##.wf_gcsi[style="width:660px;min-height:200px;background-color:white;margin-bottom:10px;"]
+! winfuture.de###news_content > .o_hidden > .singleblock_news_top
+! winfuture.de##.hp_latest > .o_hidden > DIV[class^="singleblock_homepage_slot"]
+! winfuture.de##.ws_singleAdNews
 ! winfuture.de#@##frnAdSky
 !:partner_token=winfuture.de
 !:partner_id=81ccc29d4fa307ee
@@ -7132,6 +7132,8 @@ testpages.adblockplus.org#@##abptest
 @@||admiral.broadwayworld.com^$domain=broadwayworld.com,document
 @@||related.boredpanda.com^$domain=boredpanda.com
 @@||related.boredpanda.com^$domain=boredpanda.com,document
+@@||related.mediafire.com^$domain=mediafire.com
+@@||related.mediafire.com^$domain=mediafire.com,document
 @@||noviniad.com^$domain=novini.bg
 @@||noviniad.com^$domain=novini.bg,document
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg
@@ -7164,7 +7166,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com#@#div[id^="div-gpt-ad"]
+ebaumsworld.com,speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,fanpage.gr,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com#@#div[id^="div-gpt-ad"]
 ebaumsworld.com#@##subheader_atf_wrapper
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
@@ -7226,6 +7228,7 @@ cinemablend.com#@#.pub_300x250
 cinemablend.com#@#.zone-advertisement
 cinemablend.com#@#.text-ad
 cinemablend.com#@#.adright
+mediafire.com#@##adwrapper
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
@@ -7819,8 +7822,8 @@ jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.co
 !A34
 @@||szukaj.wp.pl^$elemhide
 !A35
-@@||virgilio.it^$elemhide
-@@||libero.it^$elemhide
+@@||virgilio.it/ricerca?$elemhide
+@@||libero.it/web/ricerca?$elemhide
 !A36
 @@||walmart.com^$elemhide
 !A37
