@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UbE+diJqWjEEseLsUVYMEg
-! Version: 201908121415
+! Checksum: Dynt1SNyPtipbJMFQ1EKNw
+! Version: 201908131415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Aug 2019 14:15 UTC
+! Last modified: 13 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6369,6 +6369,7 @@ analist.nl##a[href*="zemanta.com"]
 pixnet.net#@#div[id*="-ad-"]
 naturallivingideas.com#@#.quads-ad1_widget
 naturallivingideas.com#@##quads-ad1_widget
+boardgamegeek.com#@#.advertisement-top
 !:partner_token=Softonic
 !:partner_id=72840e3d09846a82
 !:type=partner
