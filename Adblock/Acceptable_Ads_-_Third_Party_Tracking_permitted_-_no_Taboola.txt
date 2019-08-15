@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MED8HwaDyyq49fK+lYQQNA
-! Version: 201908141415
+! Checksum: qN5MchfawT2oB87uW6yZMw
+! Version: 201908151415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 14 Aug 2019 14:15 UTC
+! Last modified: 15 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8084,6 +8084,7 @@ analist.nl##a[href*="zemanta.com"]
 #@##amzn-native-ad-0
 #@##amzn-native-ad-1
 #@##amzn-native-ad-2
+#@#.amzn-native-container
 @@||z-na.amazon-adsystem.com^$script
 @@||z-eu.amazon-adsystem.com^$script
 @@||z-fe.amazon-adsystem.com^$script
@@ -8636,15 +8637,15 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
-@@||prebid.s-onetag.com^*/prebid.min.js$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|expertreviews.co.uk|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com
-@@||get.s-onetag.com/safeframe-urls//safe-frame-internal.html$document,subdocument$domain=whatsnewinpublishing.com
-@@||s-onetag.com/px.gif?ch=1$domain=whatsnewinpublishing.com
-@@||ap.lijit.com^$domain=whatsnewinpublishing.com
-@@||beacon.s-onetag.com/beacon.min.js$domain=whatsnewinpublishing.com
-@@||ib.adnxs.com^$domain=whatsnewinpublishing.com
-@@||onscroll-d.openx.net^$domain=whatsnewinpublishing.com
-@@||tags.onscroll.com^$domain=whatsnewinpublishing.com
-||s-onetag.com/px.gif?ch=2$domain=whatsnewinpublishing.com
+@@||prebid.s-onetag.com^*/prebid.min.js$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|expertreviews.co.uk|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||get.s-onetag.com/safeframe-urls/*/safe-frame-internal.html$document,subdocument,domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||s-onetag.com/px.gif?ch=1$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||ap.lijit.com^$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||beacon.s-onetag.com/beacon.min.js$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||ib.adnxs.com^$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||onscroll-d.openx.net^$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+@@||tags.onscroll.com^$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
+||s-onetag.com/px.gif?ch=2$domain=whatsnewinpublishing.com|bfi.org.uk|nigella.com
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner

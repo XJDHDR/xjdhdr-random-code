@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gu0PrM0N74MIzDCRvQRKEw
-! Version: 201908141415
+! Checksum: jiKRuGKY5RdobSfKzz60Ow
+! Version: 201908151415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Aug 2019 14:15 UTC
+! Last modified: 15 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6327,6 +6327,7 @@ analist.nl##a[href*="zemanta.com"]
 #@##amzn-native-ad-0
 #@##amzn-native-ad-1
 #@##amzn-native-ad-2
+#@#.amzn-native-container
 @@||z-na.amazon-adsystem.com^$script
 @@||z-eu.amazon-adsystem.com^$script
 @@||z-fe.amazon-adsystem.com^$script
