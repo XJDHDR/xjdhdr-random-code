@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: f6qMlsbIM4HYL5fiF/u65w
-! Version: 201908151415
+! Checksum: GmSmCDiTQPXn3HAZlLuNpQ
+! Version: 201908161415
 ! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola
-! Last modified: 15 Aug 2019 14:15 UTC
+! Last modified: 16 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -289,6 +289,8 @@ wykop.pl#@##itemsStream:not(.touch-content) .article:not(.dC)
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73244
 ! dota2.ru ads
 dota2.ru#@#a[href^="/plain/"]
+dota2.ru#@#[class$="sidebar"] > :not(section):not(.section)
+dota2.ru#@#.subline ~ :not([id="navigation"]):not([class="page-width"])
 !:type=combined
 ! Combined rules for sites using detection
 @@/px.gif?ch=1&rn=$domain=yelp.com
