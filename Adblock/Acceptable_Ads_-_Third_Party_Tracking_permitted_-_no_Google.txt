@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AhD53P/cLlegb+Tzkyh2Kg
-! Version: 201908161415
+! Checksum: pQ/7Sj1hPqpBPw4F7Vc6uQ
+! Version: 201908171415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Aug 2019 14:15 UTC
+! Last modified: 17 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6818,6 +6818,7 @@ digireality.cz#@#[id^="aswift"]
 @@||buysellads.net/pub/coingecko.js$domain=coingecko.com
 @@||buysellads.net/acceptable.gif?ch=1&rn=$domain=coingecko.com
 ||buysellads.net/acceptable.gif?ch=2&rn=$domain=coingecko.com
+@@||ib.adnxs.com^$domain=coingecko.com
 coingecko.com#@#.ad-spacer
 coingecko.com#@#.img_ad
 !:partner_id=1771032db7d723d7

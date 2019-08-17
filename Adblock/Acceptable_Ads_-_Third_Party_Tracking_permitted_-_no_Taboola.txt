@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VQuJpxPLX03KPHQCd5eRhw
-! Version: 201908161415
+! Checksum: sMxkmLk7wKj2kzjjMO5aZg
+! Version: 201908171415
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 16 Aug 2019 14:15 UTC
+! Last modified: 17 Aug 2019 14:15 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8765,6 +8765,7 @@ guardian.gg,royalroad.com#@#.adsbygoogle
 ||buysellads.net/acceptable.gif?ch=2&rn=$domain=coingecko.com
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=8691100%2CCoinGecko_leaderboard_728x90_atf_ROS_acceptable%2CCoinGecko_medium-rectangle_300x250_atf_ROS_acceptable&$domain=coingecko.com
 @@||googlesyndication.com/simgad/$image,domain=coingecko.com
+@@||ib.adnxs.com^$domain=coingecko.com
 coingecko.com#@#div[id^="google_ads_iframe_"]
 coingecko.com#@#.ad-spacer
 coingecko.com#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
