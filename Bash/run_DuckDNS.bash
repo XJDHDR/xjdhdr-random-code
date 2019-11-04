@@ -3,7 +3,7 @@
 PATH=$PATH:$(sed -n '/PATH=/s/^.*=// ; s/\"//gp' '/etc/environment')
 
 
-if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
+if ! '/bin/bash' '/home/zz_repositories/xjdhdr-random-code/Bash/test_connection.bash'
 then
 	exit 1
 fi
