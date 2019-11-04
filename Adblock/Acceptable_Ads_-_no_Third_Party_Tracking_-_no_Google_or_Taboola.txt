@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SxFBERYrc84baP0K2yquug
-! Version: 201908181415
+! Checksum: wnPK4uDlg/C5K5HF2FZhkg
+! Version: 201911040547
 ! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola
-! Last modified: 18 Aug 2019 14:15 UTC
+! Last modified: 04 Nov 2019 05:47 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -217,6 +217,7 @@ yelp.com#@#.ad-block
 @@||licdn.com/scds/common/u/images/promo/ads/*_VideoAds50x50.$image,domain=linkedin.com
 @@||linkedin.com/csp/dtag^
 @@||linkedin.com/tscp-serving/dtag^
+@@||linkedin.com/li/track$domain=linkedin.com
 @@/search/ads?$domain=linkedin.com
 linkedin.com#@#.adchoices
 linkedin.com#@#.adchoices-link
@@ -291,6 +292,13 @@ wykop.pl#@##itemsStream:not(.touch-content) .article:not(.dC)
 dota2.ru#@#a[href^="/plain/"]
 dota2.ru#@#[class$="sidebar"] > :not(section):not(.section)
 dota2.ru#@#.subline ~ :not([id="navigation"]):not([class="page-width"])
+dota2.ru#@#.main-b-right-c-right > style + div
+!:partner_token=slatestarcodex.com
+!:partner_id=6f7cb24dbf819646
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73598
+! slatestarcodex.com ads
+slatestarcodex.com#@#.widget_arvins_ad_randomizer
 !:type=combined
 ! Combined rules for sites using detection
 @@/px.gif?ch=1&rn=$domain=yelp.com
@@ -298,6 +306,15 @@ dota2.ru#@#.subline ~ :not([id="navigation"]):not([class="page-width"])
 !
 @@/px.js?ch=1$domain=linkedin.com
 /px.js?ch=2$domain=linkedin.com
+!:partner_token=filezilla
+!:partner_id=828dc1abec78f00e
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60704
+! filezilla-project.org ads
+@@||ads.filezilla-project.org/images/$domain=filezilla-project.org
+@@||ads.filezilla-project.org/rightad.php$domain=filezilla-project.org
+filezilla-project.org#@##rightad
+filezilla-project.org#@#.TopAd
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
 !:partner_id=1771032db7d723d7
 !:type=partner
@@ -326,6 +343,7 @@ yahoo.com,~mail.yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
 yahoo.com,~mail.yahoo.com#@#li[id^="ad-"]
 yahoo.com,~mail.yahoo.com#@#.js-stream-featured-ad
 yahoo.com,~mail.yahoo.com#@#.js-stream-ad
+yahoo.com,~mail.yahoo.com#@#.stream-ad
 yahoo.com,~mail.yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
 yahoo.com,~mail.yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
 yahoo.com,~mail.yahoo.com#@#div[style*="/ads/"]
