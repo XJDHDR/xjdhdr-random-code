@@ -16,8 +16,8 @@ fi
 
 if [ "$CurIPaddr" != "$OldIPaddr" ]
 then
-	sDomain=$(cat "$HOME/$1.txt")
-	sToken=$(cat "$HOME/$2.txt")
+	sDomain=$(cat "$HOME/$1")
+	sToken=$(cat "$HOME/$2")
 	curl -k  "https://www.duckdns.org/update?domains=$sDomain&token=$sToken&ip=" 2>'/tmp/stderr-contents-run_DuckDNS.txt'
 	echo "$CurIPaddr" > ~/run_DuckDNS_data.txt
 fi
