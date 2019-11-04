@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F/PZRQI2YbL9aZGoibzIRA
-! Version: 201911040547
+! Checksum: P+/NScjOrI/UJIqH9dtRuQ
+! Version: 201911041400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 04 Nov 2019 05:47 UTC
+! Last modified: 04 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3678,6 +3678,7 @@ _googleAnalytics_
 ||king.com/api/events?
 ||livestrong.com/services/jslogging/
 ||metric.gstatic.com^
+||mms.coachmag.co.uk^
 ||naughtydog.com/beacon/
 ||netlog.com/track
 ||netmag.co.uk/matchbox/traffic/
@@ -3830,24 +3831,13 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
 @@||googletagmanager.com/gtm.js?$domain=bunte.de|finanzen.net|saturn.at
 @@||sunday.de/skin/*/googleanalytics.js$script
-@@||cmcm.com^*/googleanalytics.js
-@@||diwancorp.fr^*/angular-google-analytics.min.js
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
-@@||ricardocuisine.com/noel/js/google_analytics.js
 @@||google-analytics.com/analytics.js$domain=novatv.bg
 @@||360buyimg.com^*/components/default/$script,domain=jd.com
-@@||amazonaws.com^*-google-analytics.js$domain=dcard.tw
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
-@@||linezing.com^$domain=lz.taobao.com
 @@||vanclimg.com/js.ashx?*/google-analytics.js$domain=vancl.com
-@@||wrating.com/a1.js$domain=tudou.com|ynet.com
-@@||adobetag.com/d2/vodafonecz/live/VodafoneCZ.js
-@@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|sportrevue.cz|zive.cz
-@@||advertisers.dk/wp-content/uploads/*/google-analytics-$image,domain=advertisers.dk
-@@||advertisers.dk/wp-content/uploads/*/google-analytics.$image,domain=advertisers.dk
-@@||bundol.nl/skin/*/js/prototype/prototype.js,*/GoogleAnalyticsPlus/
+@@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|zive.cz
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
-@@||google-analytics.com/analytics.js$domain=vd.nl
 @@||googletagmanager.com/gtm.js?$script,domain=mediamarkt.nl
 @@||googletagmanager.com/gtm.js?$domain=cdon.fi
 @@||googletagmanager.com/gtm.js?$domain=feex.co.il|reshet.tv

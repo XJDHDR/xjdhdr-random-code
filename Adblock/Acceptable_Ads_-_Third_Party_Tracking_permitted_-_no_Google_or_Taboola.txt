@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zb7oCGbdvUuRQCxAA0jVMQ
-! Version: 201911040547
+! Checksum: Cg94JcYG4rFfi/quFfhQxA
+! Version: 201911041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Nov 2019 05:47 UTC
+! Last modified: 04 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7016,6 +7016,7 @@ testpages.adblockplus.org#@##abptest
 @@||aaxads.com^
 @@||assistpub.com^$document
 @@||assistpub.com^
+@@/gpt.js$script
 @@||redditad.com^$domain=reddit.com
 @@||redditad.com^$domain=reddit.com,document
 @@||related.speedtest.net^$domain=speedtest.net
