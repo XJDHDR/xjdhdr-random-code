@@ -8,18 +8,14 @@ then
 	exit 1
 fi
 
-CurIPaddr=$(dig TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed -e 's/^"//' -e 's/"$//')
-if [ -f "$HOME/run_DuckDNS_data.txt" ]
-then
-	OldIPaddr=$(cat "$HOME/run_DuckDNS_data.txt")
-fi
+sHostIPaddr=$(dig TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed -e 's/^"//' -e 's/"$//')
+sDuckDnsIPaddr=$(dig +short xjdhdr-google-cloud.duckdns.org)
 
-if [ "$CurIPaddr" != "$OldIPaddr" ]
+if [ "$sHostIPaddr" != "$sDuckDnsIPaddr" ]
 then
 	sDomain=$(cat "$HOME/$1")
 	sToken=$(cat "$HOME/$2")
 	curl -k  "https://www.duckdns.org/update?domains=$sDomain&token=$sToken&ip=" 2>'/tmp/stderr-contents-run_DuckDNS.txt'
-	echo "$CurIPaddr" > ~/run_DuckDNS_data.txt
 fi
 
 if [ -f '/tmp/stderr-contents-run_DuckDNS.txt' ]

@@ -3,7 +3,7 @@
 PATH=$PATH:$(sed -n '/PATH=/s/^.*=// ; s/\"//gp' '/etc/environment')
 
 
-if ! '/bin/bash' '/home/svn/xjdhdr-random-code/Bash/test_connection.bash'
+if ! '/bin/bash' '/home/zz_repositories/xjdhdr-random-code/Bash/test_connection.bash'
 then
 	sDateTime=$(date -u +"%d %b %Y %H:%M")
 	printf 'check_gmail_accounts_for_spam.bash:\n%s UTC\n-  No internet connection detected\n\n' "$sDateTime" \
