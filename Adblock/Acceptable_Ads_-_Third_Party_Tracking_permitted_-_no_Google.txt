@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LrR2sQsc5p6L21hf9A5OAg
-! Version: 201911050200
+! Checksum: PA7Cxj7D/0YUQ9PVQXCWfw
+! Version: 201911051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Nov 2019 02:00 UTC
+! Last modified: 05 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5975,6 +5975,8 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|lotrointerface.com|mmoui.com|riftui.com|secretui.com|swtorui.com|wowinterface.com|fextralife.com|metasrc.com|nerfplz.com|poe.trade|wowhead.com|ygoprodeck.com
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+jerusalemonline.com#@#[style*="background-image:"]
+tmz.com#@#.ad-container
 musumazyliai.lt#@##ad-rectangle
 awkwardzombie.com#@##ad_left
 awkwardzombie.com#@##ad_right
@@ -7068,7 +7070,6 @@ testpages.adblockplus.org#@##abptest
 @@||aaxads.com^
 @@||assistpub.com^$document
 @@||assistpub.com^
-@@/gpt.js$script
 @@||redditad.com^$domain=reddit.com
 @@||redditad.com^$domain=reddit.com,document
 @@||related.speedtest.net^$domain=speedtest.net
@@ -7153,6 +7154,7 @@ testpages.adblockplus.org#@##abptest
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
+@@||staging.washingtontimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg|sportal.bg
 @@||lib.wtg-ads.com/lib.min.js$domain=sportal.bg|novini.bg
 @@||lib.wtg-ads.com/publisher/*/standard.publisher.config.min.js$domain=sportal.bg|novini.bg
@@ -7243,6 +7245,8 @@ mashable.com#@##lead-banner
 mashable.com#@#.ad_container
 mashable.com#@##sticky-spacer 
 washingtontimes.com#@#.ad-slot
+billboard.com,hollywoodreporter.com#@#.dfp-ad
+billboard.com,hollywoodreporter.com#@#.ad_desktop
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
