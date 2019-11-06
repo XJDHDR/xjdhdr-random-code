@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OFOa/vppPi4RHppfrX0liA
-! Version: 201911060200
+! Checksum: 7fAlD4mDU7ayRMwm4DTJdg
+! Version: 201911061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 06 Nov 2019 02:00 UTC
+! Last modified: 06 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6132,6 +6132,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 ! temp
+@@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner

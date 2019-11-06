@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fWbe+0A43z5ZGHGtHPtLUg
-! Version: 201911060200
+! Checksum: TLk0uHRJopf9bNiTR7wj/w
+! Version: 201911061400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 06 Nov 2019 02:00 UTC
+! Last modified: 06 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3173,7 +3173,7 @@ boobieblog.com##td[align="center"][width="20%"]
 @@||google.com/recaptcha/$subdocument,domain=123short.com|limetorrents.info|sh.st
 @@||googleusercontent.com/gadgets/proxy?$image,domain=kissmanga.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cnet.com|complex.com|cwtv.com|forbes.com|gamejolt.com|healthmeans.com|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thegamer.tv|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|wsj.com|yiv.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cnet.com|complex.com|cwtv.com|forbes.com|gamejolt.com|healthmeans.com|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nytimes.com|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thegamer.tv|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|wsj.com|yiv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.com
 @@||mail.google.com^*&view=ad&$xmlhttprequest
 @@||oxfordlearnersdictionaries.com/external/scripts/doubleclick.js
@@ -5211,7 +5211,7 @@ coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
 @@||amazonaws.com/mibbit/gfx/youtube.png
 @@||androidpit.info/userfiles/*image/youtube-logo-
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||authy.com/wp-content/themes/authy/assets/images/icons/google-authenticator.svg
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
 @@||cloudfront.net^*/googleplus.png$domain=openid.net
