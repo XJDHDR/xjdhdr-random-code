@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PA7Cxj7D/0YUQ9PVQXCWfw
-! Version: 201911051400
+! Checksum: OFOa/vppPi4RHppfrX0liA
+! Version: 201911060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Nov 2019 14:00 UTC
+! Last modified: 06 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7154,7 +7154,7 @@ testpages.adblockplus.org#@##abptest
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
-@@||staging.washingtontimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
+@@||washingtontimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg|sportal.bg
 @@||lib.wtg-ads.com/lib.min.js$domain=sportal.bg|novini.bg
 @@||lib.wtg-ads.com/publisher/*/standard.publisher.config.min.js$domain=sportal.bg|novini.bg
