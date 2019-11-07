@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EVbKte46sFcvkbP+wemcJg
-! Version: 201911061400
+! Checksum: Wn6yFDuOvRY7Qeeh9ZsbZg
+! Version: 201911070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Nov 2019 14:00 UTC
+! Last modified: 07 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3477,6 +3477,7 @@ developpez.net#@#.ad_global_header
 @@||adn.fusionads.net/launchbit/$script
 @@||launchbit.com/carbon-i/$image
 @@||launchbit.com/carbon-pixel/$image
+@@||ads.feedly.com/redirect/bsa?$xmlhttprequest,domain=feedly.com
 @@||convertro.com^*carbon$image
 @@||servedby-buysellads.com/p/manage/asset/id/$image
 @@||fallbacks.carbonads.com^
