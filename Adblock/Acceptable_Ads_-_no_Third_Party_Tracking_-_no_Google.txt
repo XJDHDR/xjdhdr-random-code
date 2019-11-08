@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hlDaC1El01bXZWI21TIqsg
-! Version: 201911080200
+! Checksum: Zn7tPZTB7+WOdf+8x/BivA
+! Version: 201911081400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 08 Nov 2019 02:00 UTC
+! Last modified: 08 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -313,8 +313,10 @@ slatestarcodex.com#@#.widget_arvins_ad_randomizer
 ! filezilla-project.org ads
 @@||ads.filezilla-project.org/images/$domain=filezilla-project.org
 @@||ads.filezilla-project.org/rightad.php$domain=filezilla-project.org
+@@||ads.filezilla-project.org/leftad.php$domain=filezilla-project.org
 filezilla-project.org#@##rightad
 filezilla-project.org#@#.TopAd
+filezilla-project.org#@##leftad
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
 !:partner_id=1771032db7d723d7
 !:type=partner

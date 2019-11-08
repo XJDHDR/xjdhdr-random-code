@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uHe3s/uCeOenIGQ4ZIey4Q
-! Version: 201911080200
+! Checksum: rbP8AmNMGjFS+F+nDAq2zg
+! Version: 201911081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 08 Nov 2019 02:00 UTC
+! Last modified: 08 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2590,9 +2590,7 @@ alteroffice.pl#@#.reklama
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=39899
 ! Ads on sites by Yieldlove
-@@||ampproject.org/rtv/*/amp4ads-$script,domain=bab.la|equideow.com|oeffnungszeitenbuch.de|schulferien.org|watch2gether.com|ibancalculator.com|ariva.de|duden.de
-@@||ariva.de/ariva_analytics/$image,domain=ariva.de
-@@||ariva.de/werb/adcount.m?$image,domain=ariva.de
+@@||ampproject.org/rtv/*/amp4ads-$script,domain=bab.la|equideow.com|oeffnungszeitenbuch.de|schulferien.org|watch2gether.com|ibancalculator.com|duden.de
 @@||cas.criteo.com/delivery/ajs.php?zoneid=308400^$script,domain=schulferien.org
 @@||criteo.com/delivery/ajs.php?zoneid=307223&$script,domain=bab.la
 @@||criteo.com/delivery/ajs.php?zoneid=307653&$script,domain=bab.la
@@ -2606,10 +2604,10 @@ duden.de#@#.advertiser
 equideow.com#@#.banner-300x250
 equideow.com#@#.banner-728x90
 equideow.com#@#.banner-leaderboard
-bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,ariva.de,duden.de#@##adunit
-bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,ariva.de,duden.de#@#.ad-1
-bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,ariva.de,duden.de#@#.img_ad
-bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,ariva.de,duden.de#@#div[id^="div-gpt-ad"]
+bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@##adunit
+bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@#.ad-1
+bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@#.img_ad
+bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@#div[id^="div-gpt-ad"]
 !:partner_token=Literally Media
 !:partner_id=e42da7353ddde095
 !:type=partner
@@ -3944,6 +3942,8 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43062
 ! Ads by RevContent
+@@||revcontent.com/api/delivery/?w=115503^$domain=pluralist.com
+@@||revcontent.com/api/demand/?w=115503^$domain=pluralist.com
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
@@ -6781,6 +6781,11 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! shortorial.com ads
 @@||shortorial.com^$generichide
 @@||shortorial.com/wp-content/uploads/ad-inserter/$~third-party
+!:partner_token=moviescout.org
+!:partner_id=08bffa64827f26b5
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74743
+! moviescout.org ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -9037,8 +9042,10 @@ slatestarcodex.com#@#.widget_arvins_ad_randomizer
 ! filezilla-project.org ads
 @@||ads.filezilla-project.org/images/$domain=filezilla-project.org
 @@||ads.filezilla-project.org/rightad.php$domain=filezilla-project.org
+@@||ads.filezilla-project.org/leftad.php$domain=filezilla-project.org
 filezilla-project.org#@##rightad
 filezilla-project.org#@#.TopAd
+filezilla-project.org#@##leftad
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
 !:partner_id=1771032db7d723d7
 !:type=partner
