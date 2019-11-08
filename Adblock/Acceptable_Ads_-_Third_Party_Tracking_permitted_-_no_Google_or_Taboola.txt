@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RzDApqIE0ZJfomwPNGd5Ng
-! Version: 201911071400
+! Checksum: uHe3s/uCeOenIGQ4ZIey4Q
+! Version: 201911080200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Nov 2019 14:00 UTC
+! Last modified: 08 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8408,6 +8408,9 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||cgi.search.biglobe.ne.jp^$elemhide
 !A112
 !A113
+!A114
+@@||search.rakuten.co.jp^$elemhide
+@@||websearch.rakuten.co.jp^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
