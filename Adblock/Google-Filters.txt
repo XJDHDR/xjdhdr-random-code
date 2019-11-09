@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: szrCpdQJo4V9H6x/Ydrl6A
-! Version: 201911081400
+! Checksum: gZnFFRRhhwCdrktSmJ/HGQ
+! Version: 201911090200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Nov 2019 14:00 UTC
+! Last modified: 09 Nov 2019 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2151,7 +2151,8 @@ $script,third-party,domain=0dt.net|123videos.tv|171gifs.com|1proxy.de|300mbfilms
 @@||googleapis.com^$script,stylesheet,domain=123unblock.icu|123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.info|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.lc|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unlockproject.icu|unlockproject.live
 ||chrome.google.com^$popup,domain=123unblock.icu|123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.info|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.lc|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unlockproject.icu|unlockproject.live
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|fonts\.googleapis\.com)\/).*)$/$script,third-party,domain=oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.press|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|openload.cc|openload.co|openload.fun|openload.pw|openloed.co
-@@||google.com/recaptcha/$script,subdocument,domain=playvidto.com|vidtodo.com|vidtoro.com
+@@||fonts.googleapis.com^$stylesheet,domain=playedvid.com|playvidto.com|vidotodo.com|vidtoro.com
+@@||google.com/recaptcha/$script,subdocument,domain=playedvid.com|playvidto.com|vidtodo.com|vidtoro.com
 @@||google.com/complete/search?$script,domain=tamilrockerss.ch
 @@||google.com/cse$script,domain=tamilrockerss.ch
 @@||google.com/uds/$script,domain=tamilrockerss.ch
@@ -3222,6 +3223,7 @@ boobieblog.com##td[align="center"][width="20%"]
 @@||www.google.com/adsense/search/async-ads.js$domain=webcrawler.com
 @@||www.google.com/afs/ads?*^channel=csa_use_rs^$subdocument
 @@||www.google.com/dp/ads^$subdocument,domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=klix.ba
 ! Google
 @@||accounts.google.com/adwords/$domain=accounts.google.com
 @@||accounts.google.com^$document,subdocument,domain=adwords.google.com

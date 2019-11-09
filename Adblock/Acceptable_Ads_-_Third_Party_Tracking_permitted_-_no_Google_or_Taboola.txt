@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rbP8AmNMGjFS+F+nDAq2zg
-! Version: 201911081400
+! Checksum: UCcxwpErw87JWtkpgMYENA
+! Version: 201911090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 08 Nov 2019 14:00 UTC
+! Last modified: 09 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1654,6 +1654,7 @@ thenoob.net#@#.adinjwidget
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
+motilokal.com#@#.desktop-ad
 vol.at#@##ad-bottom
 filthyrichstar.com#@##ad-unit
 thinkprogress.org#@##ad_zone1
@@ -3684,6 +3685,8 @@ codewars.com#@##carbonads-container
 @@||jsecoin.com/pixels.php?rt=buysellads$image
 @@||facebook.com/tr?id=500910373434901&ev=PageView&noscript=1$image
 @@||ad.atdmt.com/i/*carbon$image
+@@||secure.insightexpressai.com/adServer/adServerESI.aspx?*^network=BUYSELLADS^$image
+@@||pixel.adsafeprotected.com/rjss/st/345572/40188401/skeleton.js?network=BUYSELLADS^
 #@#a[href^="//srv.buysellads.com/"]
 base64-image.de#@#.native-ad
 dribbble.com#@#.ad
