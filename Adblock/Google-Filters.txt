@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 65osT6CsldhkistWtIsMKA
-! Version: 201911100200
+! Checksum: D8Typ20zkw51BsjiKczqVA
+! Version: 201911101400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Nov 2019 02:00 UTC
+! Last modified: 10 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2032,6 +2032,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||letswatchsomething.com/images/filestreet_banner.jpg
 ||libertyblitzkrieg.com/wp-content/uploads/2012/09/cc200x300.gif?
 ||macupdate.com/js/google_service.js
+||mail-ads.google.com^
 ||maniastreaming.com/pp2/
 ||memorygapdotorg.files.wordpress.com^*allamerican3.jpg$domain=memoryholeblog.com
 ||mg.co.za^*/wallpaper
@@ -2424,6 +2425,7 @@ $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.go
 ||thefappeningblog.com/sproject/
 ||thumblogger.com/thumblog/top_banner_silver.js
 ||youtubelike.com/ftt2/toplists/
+/poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|shemalez.com|thegay.com|tubepornclassic.com|txxx.com|upornia.com|voyeurhit.com
 @@||ajax.googleapis.com/ajax/$script,domain=efukt.com
 @@||ajax.googleapis.com^$domain=txxx.com
 @@||ajax.googleapis.com^$script,domain=milfzr.com
