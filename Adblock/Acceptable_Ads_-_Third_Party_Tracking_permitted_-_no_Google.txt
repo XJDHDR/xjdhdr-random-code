@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MxxtHlPtbC1Gl9xRBM9Nvw
-! Version: 201911110200
+! Checksum: Rpan4hj+DpOyKCPvCuvSQw
+! Version: 201911111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Nov 2019 02:00 UTC
+! Last modified: 11 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3738,7 +3738,8 @@ codewars.com#@##carbonads-container
 @@||facebook.com/tr?id=500910373434901&ev=PageView&noscript=1$image
 @@||ad.atdmt.com/i/*carbon$image
 @@||secure.insightexpressai.com/adServer/adServerESI.aspx?*^network=BUYSELLADS^$image
-@@||pixel.adsafeprotected.com/rjss/st/345572/40188401/skeleton.js?network=BUYSELLADS^
+@@||pixel.adsafeprotected.com/rjss/st/*/skeleton.js?network=BUYSELLADS^
+@@||pixel.adsafeprotected.com/rfw/st/*/skeleton.gif?network=BUYSELLADS^
 #@#a[href^="//srv.buysellads.com/"]
 base64-image.de#@#.native-ad
 dribbble.com#@#.ad
