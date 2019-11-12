@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lK+01Aht92u34whO1VnCZg
-! Version: 201911111400
+! Checksum: 6W41VOVXTqePKIoxv/ev/w
+! Version: 201911120200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 Nov 2019 14:00 UTC
+! Last modified: 12 Nov 2019 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2904,7 +2904,7 @@ youtube.com##.ytd-search-pyv-renderer
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 boston.com,thoughtcatalog.com##[data-google-query-id]
 deathandtaxesmag.com##[data-refresh]
-123moviesfree.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,coinad.com,dailypost.ng,dexerto.com,digitallydownloaded.net,dotesports.com,dotmmo.com,ebookw.com,gizmochina.com,goal.com,guidedhacking.com,hlstester.com,limetorrents.info,majorgeeks.com,mydramalist.com,naijaloaded.com.ng,onlinevideoconverter.com,owaahh.com,pcgamesn.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rustourismnews.com,sh.st,smallseotools.com,sports.yahoo.com,ssbcrack.com,tetris.com,theblaze.com,thehackernews.com,thenationonlineng.net,torrentdownloads.me,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
+123moviesfree.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,coinad.com,dailypost.ng,dexerto.com,digitallydownloaded.net,dotesports.com,dotmmo.com,ebookw.com,fresherslive.com,gizmochina.com,goal.com,guidedhacking.com,hlstester.com,limetorrents.info,majorgeeks.com,mydramalist.com,naijaloaded.com.ng,onlinevideoconverter.com,owaahh.com,pcgamesn.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rustourismnews.com,sh.st,smallseotools.com,sports.yahoo.com,ssbcrack.com,tetris.com,theblaze.com,thehackernews.com,thenationonlineng.net,torrentdownloads.me,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
 lindaikeji.blogspot.com##a > img[height="600"]
 pcmag.com##a[data-section="Ads"]
 mmorpg.com##a[href*="&utm_medium=skin&"]
@@ -2949,11 +2949,11 @@ thejointblog.com##a[href^="http://www.vapornation.com/?="] > img
 thejointblog.com##a[href^="http://www.weedseedshop.com/refer.asp?refid="] > img
 wptmag.com##a[href^="http://www.wptmag.com/promo/"]
 youtube.com##a[href^="http://www.youtube.com/cthru?"]
-9jaflaver.com,9to5google.com,9to5mac.com,9to5toys.com,bookfi.net,bulbagarden.net,dailynews.lk,dexerto.com,diply.com,electrek.co,herald.ca,hltv.org,kuwaittimes.net,pcgamesn.com,smallseotools.com,smarteranalyst.com,socialeurope.eu,sundayobserver.lk,thehackernews.com,thenationonlineng.net,threepercenternation.com,torrentdownload.ch,torrentdownloads.me,tribuneonlineng.com,vumafm.co.za,wheremilan.com##a[href^="https://goo.gl/"]
+9jaflaver.com,9to5google.com,9to5mac.com,9to5toys.com,bookfi.net,bulbagarden.net,dailynews.lk,dexerto.com,diply.com,electrek.co,fresherslive.com,herald.ca,hltv.org,kuwaittimes.net,pcgamesn.com,smallseotools.com,smarteranalyst.com,socialeurope.eu,sundayobserver.lk,thehackernews.com,thenationonlineng.net,threepercenternation.com,torrentdownload.ch,torrentdownloads.me,tribuneonlineng.com,vumafm.co.za,wheremilan.com##a[href^="https://goo.gl/"]
 capricornfm.co.za,jazzfm.com,readmng.com##a[href^="https://itunes.apple.com/"]
 readmng.com##a[href^="https://play.google.com/"]
 thehornnews.com##a[href^="https://pro.nutritionandhealing.com/"]
-9to5google.com,9to5mac.com,9to5toys.com,amgreatness.com,ancient-origins.net,aol.co.uk,arstechnica.com,bestgadgetry.com,catholicculture.org,electrek.co,gamenguide.com,ign.com,indianexpress.com,lewrockwell.com,livescience.com,macworld.co.uk,marineelectronics.com,marinelink.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,myanimelist.net,mydramalist.com,oneangrygamer.net,parentherald.com,pcgamer.com,segmentnext.com,spartareport.com,ssbcrack.com,tacticalshit.com,techradar.com,thewirecutter.com,wonkette.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
+9to5google.com,9to5mac.com,9to5toys.com,amgreatness.com,ancient-origins.net,aol.co.uk,arstechnica.com,bestgadgetry.com,catholicculture.org,electrek.co,gamenguide.com,ign.com,indianexpress.com,lewrockwell.com,livescience.com,macworld.co.uk,marineelectronics.com,marinelink.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,myanimelist.net,mydramalist.com,oneangrygamer.net,parentherald.com,pcgamer.com,segmentnext.com,spartareport.com,ssbcrack.com,systemrequirementslab.com,tacticalshit.com,techradar.com,thewirecutter.com,wonkette.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
 youtube.com##a[href^="https://www.youtube.com/cthru?"]
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 yogisoftworld.blogspot.com##a[onclick]
@@ -5249,7 +5249,7 @@ coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,
 @@||gstatic.com^*/social/$image,domain=google.com
 @@||hd-trailers.net/images/youtube.png
 @@||hopper.com/static2/w2/images/google-$domain=hopper.com
-@@||hrwiki.org^*/youtube.png
+@@||hrwiki.org^*youtube.png
 @@||interlinkexpress.com/apps/tracking/images/google-$~third-party
 @@||keepa.com/img/social/Google.svg
 @@||lemaker.org/uploadfile/icon/google.jpg
