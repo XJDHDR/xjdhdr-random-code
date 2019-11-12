@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Tv3RYFKU3G7SLTn2+LMfaA
-! Version: 201911120200
+! Checksum: zHgpO1VEjp/vJK+oZZ/kBw
+! Version: 201911121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Nov 2019 02:00 UTC
+! Last modified: 12 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3740,6 +3740,7 @@ codewars.com#@##carbonads-container
 @@||secure.insightexpressai.com/adServer/adServerESI.aspx?*^network=BUYSELLADS^$image
 @@||pixel.adsafeprotected.com/rjss/st/*/skeleton.js?network=BUYSELLADS^
 @@||pixel.adsafeprotected.com/rfw/st/*/skeleton.gif?network=BUYSELLADS^
+@@||static.adsafeprotected.com/skeleton.gif?network=BUYSELLADS^
 #@#a[href^="//srv.buysellads.com/"]
 base64-image.de#@#.native-ad
 dribbble.com#@#.ad
@@ -5777,6 +5778,12 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||bt.fandom.com^$document,subdocument,domain=fandom.com
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
+deadline.com,variety.com#@#.admz
+deadline.com,variety.com#@#.ad-text
+deadline.com,variety.com#@#.text-ad
+geeksaresexy.net#@#.ad-160
+geeksaresexy.net#@#.ad-160-above
+geeksaresexy.net#@#.ad-below
 screamqueensonline.com#@##div-insticator-ad-1
 screamqueensonline.com#@##div-insticator-ad-2
 screamqueensonline.com#@##insticator-container

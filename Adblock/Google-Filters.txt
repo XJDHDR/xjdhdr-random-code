@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6W41VOVXTqePKIoxv/ev/w
-! Version: 201911120200
+! Checksum: Cha3q2KjiuRcNQIaUY9NJg
+! Version: 201911121400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 12 Nov 2019 02:00 UTC
+! Last modified: 12 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1409,6 +1409,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||vkudpjuvg.com^$third-party
 ||wlmarketing.com^$third-party
 ||worthyadvertising.com^$third-party
+||yr9n47004g.com^$third-party
 ||znaptag.com^$third-party
 ||zonplug.com^$third-party
 ! fiber-ads (https://blog.confiant.com/hong-kong-based-malvertiser-brokers-traffic-to-fake-antivirus-scams-over-100-million-ads-300e251eff06)
@@ -2149,16 +2150,16 @@ $script,third-party,domain=0dt.net|123videos.tv|171gifs.com|1proxy.de|300mbfilms
 @@||bp.blogspot.com^$image,domain=kissanime.ru
 @@||ajax.googleapis.com^$script,domain=limetorrents.info|torrentdownload.ch|torrentdownloads.me|torrentfunk2.com
 @@||fonts.googleapis.com^$stylesheet,domain=ibit.to
-@@||googleapis.com^$script,stylesheet,domain=123unblock.icu|123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.info|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.lc|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unlockproject.icu|unlockproject.live
-||chrome.google.com^$popup,domain=123unblock.icu|123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.info|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.lc|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unlockproject.icu|unlockproject.live
+@@||googleapis.com^$script,stylesheet,domain=123unblock.icu|123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.kim|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.info|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.lc|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unblockproject.red|unlockproject.icu|unlockproject.live
+||chrome.google.com^$popup,domain=123unblock.icu|123unblock.info|123unblock.xyz|mrunlock.icu|mrunlock.kim|mrunlock.pro|myunblock.com|nocensor.icu|nocensor.pro|prox4you.info|prox4you.pw|prox4you.xyz|unblockall.org|unblocked.app|unblocked.cx|unblocked.krd|unblocked.lc|unblocked.llc|unblocked.lol|unblocked.pet|unblocked.si|unblocked.win|unblockproject.red|unlockproject.icu|unlockproject.live
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|fonts\.googleapis\.com)\/).*)$/$script,third-party,domain=oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.press|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|openload.cc|openload.co|openload.fun|openload.pw|openloed.co
-@@||fonts.googleapis.com^$stylesheet,domain=playedvid.com|playvidto.com|vidotodo.com|vidtoply.com|vidtoro.com
-@@||google.com/complete/search?$script,domain=tamilrockerss.ch
-@@||google.com/cse$script,domain=tamilrockerss.ch
-@@||google.com/uds/$script,domain=tamilrockerss.ch
+@@||fonts.googleapis.com^$stylesheet,domain=playedvid.com|playtvid.com|playvidto.com|vidotodo.com|vidtoply.com|vidtoro.com
+@@||google.com/complete/search?$script,domain=tamilrockers.ws
+@@||google.com/cse$script,domain=tamilrockers.ws
+@@||google.com/uds/$script,domain=tamilrockers.ws
 @@||www.youtube.com/embed/$subdocument,domain=movs4u.to
-@@||ajax.googleapis.com^$script,domain=ymovies.tv
-@@||blogspot.com^$image,domain=ymovies.tv
+@@||ajax.googleapis.com^$script,domain=ymovies.to|ymovies.tv
+@@||blogspot.com^$image,domain=ymovies.to|ymovies.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.co|adyou.me
 @@||blogspot.com^$image,domain=1movies.is
 ! clipwatching.com
