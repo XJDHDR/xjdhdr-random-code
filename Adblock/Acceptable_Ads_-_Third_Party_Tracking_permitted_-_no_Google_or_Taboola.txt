@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NBa1HXUI6A5v/wJxEp/PqQ
-! Version: 201911130200
+! Checksum: lH5t95wxlcpyAZmZuoOtVw
+! Version: 201911131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Nov 2019 02:00 UTC
+! Last modified: 13 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4598,7 +4598,7 @@ spanishdict.com#@#.ad-unit
 @@||adform.net^$image,domain=pressfire.no|framerate.no
 @@||pressfire.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=pressfire.no
 @@||framerate.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=framerate.no
-@@||s0.2mdn.net/4745745/$image,domain=pressfire.no
+@@||s0.2mdn.net^$image,domain=pressfire.no
 pressfire.no#@#.dcmads
 pressfire.no,framerate.no#@#.ad-disclaimer
 pressfire.no,framerate.no#@#.ad-top
@@ -6800,6 +6800,26 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74743
 ! moviescout.org ads
+!:partner_token=lentainform.com
+!:partner_id=8068c9a6f3a1692d
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
+! Lentainform.com ads
+! @@||yandex.net/get-direct/$image,domain=lentainform.com
+! @@||an.yandex.ru/meta/$domain=lentainform.com
+! @@||an.yandex.ru/system/context.js$domain=lentainform.com
+! @@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru
+! @@||lentainform.com^$domain=rossaprimavera.ru
+! rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
+! rossaprimavera.ru#@#[id*="ScriptRoot"]
+! lentainform.com#@#div[id^="yandex_rtb"]
+@@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
+lentainform.com#@#[id*="ScriptRoot"]
+lentainform.com#@#[id*="MarketGid"]
+lentainform.com#@#a[href^="//www.mgid.com/"]
+lentainform.com#@#div[id^="M"][id*="Composite"]
+@@||mgid.com^$domain=lentainform.com
+@@||mgid.com^$popup,domain=lentainform.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771

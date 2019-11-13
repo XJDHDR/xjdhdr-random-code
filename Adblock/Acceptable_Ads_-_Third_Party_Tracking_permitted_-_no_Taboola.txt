@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YsBSgIM7bde9keMcotEZ7g
-! Version: 201911130200
+! Checksum: bc8e7DIvab1pCbu0AG9IQQ
+! Version: 201911131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 13 Nov 2019 02:00 UTC
+! Last modified: 13 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5843,10 +5843,9 @@ spanishdict.com#@#.ad-unit
 @@||pressfire.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=pressfire.no
 @@||framerate.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=framerate.no
 @@||googletagservices.com/dcm/dcmads.js$domain=pressfire.no
-@@||ad.doubleclick.net/ddm/adi/N145201.2075109PRESSFIRENO/B20622127.212420525*;sz=580x400;$subdocument,domain=pressfire.no,document
-@@||ad.doubleclick.net/ddm/adj/N145201.2075109PRESSFIRENO/B22853988.249917215*;sz=580x400;$script,domain=pressfire.no
-@@||ad.doubleclick.net/ddm/adj/N145201.2075109PRESSFIRENO/B22853988.249916696*;sz=980x150;$script,domain=pressfire.no
-@@||s0.2mdn.net/4745745/$image,domain=pressfire.no
+@@||ad.doubleclick.net/ddm/adj/N381402.2075109PRESSFIRENO/*;sz=980x150;$script,domain=pressfire.no
+@@||ad.doubleclick.net/ddm/adj/N381402.2075109PRESSFIRENO/*;sz=580x400;$script,domain=pressfire.no
+@@||s0.2mdn.net^$image,domain=pressfire.no
 pressfire.no#@#.dcmads
 pressfire.no,framerate.no#@#.ad-disclaimer
 pressfire.no,framerate.no#@#.ad-top
@@ -8786,6 +8785,26 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74743
 ! moviescout.org ads
 @@||g.doubleclick.net/pagead/ads?client=ca-pub-5309662224863144^$subdocument,document,domain=moviescout.org
+!:partner_token=lentainform.com
+!:partner_id=8068c9a6f3a1692d
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
+! Lentainform.com ads
+! @@||yandex.net/get-direct/$image,domain=lentainform.com
+! @@||an.yandex.ru/meta/$domain=lentainform.com
+! @@||an.yandex.ru/system/context.js$domain=lentainform.com
+! @@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru
+! @@||lentainform.com^$domain=rossaprimavera.ru
+! rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
+! rossaprimavera.ru#@#[id*="ScriptRoot"]
+! lentainform.com#@#div[id^="yandex_rtb"]
+@@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
+lentainform.com#@#[id*="ScriptRoot"]
+lentainform.com#@#[id*="MarketGid"]
+lentainform.com#@#a[href^="//www.mgid.com/"]
+lentainform.com#@#div[id^="M"][id*="Composite"]
+@@||mgid.com^$domain=lentainform.com
+@@||mgid.com^$popup,domain=lentainform.com
 !:partner_token=Google
 !:partner_id=1771032db7d723d7
 !:type=partner
