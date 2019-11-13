@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zHgpO1VEjp/vJK+oZZ/kBw
-! Version: 201911121400
+! Checksum: mM+1RTBxCxf61bxpVmpWJw
+! Version: 201911130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Nov 2019 14:00 UTC
+! Last modified: 13 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1946,6 +1946,8 @@ rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 @@||imp2.ads.linkedin.com^
 @@||ads.linkedin.com/collect^
 @@||dmp.ads.linkedin.com^
+linkedin.com#@#.ad-banner
+linkedin.com#@#.ad-banner-container
 !:partner_token=ted.com
 !:partner_id=f699f1943660421a
 !:type=partner
@@ -5778,9 +5780,6 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||bt.fandom.com^$document,subdocument,domain=fandom.com
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
-deadline.com,variety.com#@#.admz
-deadline.com,variety.com#@#.ad-text
-deadline.com,variety.com#@#.text-ad
 geeksaresexy.net#@#.ad-160
 geeksaresexy.net#@#.ad-160-above
 geeksaresexy.net#@#.ad-below
@@ -6145,6 +6144,10 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
+deadline.com,variety.com,pmcqa.com#@#.admz
+deadline.com,variety.com,pmcqa.com#@#.ad-text
+deadline.com,variety.com,pmcqa.com#@#.text-ad
+pmcqa.com,deadline.com,variety.com#@#.c-ad
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -9030,8 +9033,6 @@ linkedin.com#@#.textad
 linkedin.com#@#.text-ad
 linkedin.com#@#.ad-label
 linkedin.com#@#.ad-hdr
-linkedin.com#@#.ad-banner
-linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
