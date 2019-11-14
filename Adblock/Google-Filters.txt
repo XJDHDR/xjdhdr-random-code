@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZvqOoR3xDgMDvamWRWrSjw
-! Version: 201911140200
+! Checksum: c0v7JMMfyI88yKniexer/w
+! Version: 201911141400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 14 Nov 2019 02:00 UTC
+! Last modified: 14 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3560,7 +3560,6 @@ _googleAnalytics_
 ||emihosting.com^*/tracking/
 ||enews.pcmag.com/db/$third-party
 ||eventapi.libring.com^
-||fundingchoicesmessages.google.com^$third-party
 ||giosg.com^*/public/trace/
 ||google.com/analytics/$third-party
 ||google.com/insights/$script,third-party
@@ -4685,7 +4684,6 @@ _youtube_social_
 ||youtube.com/subscribe_embed?$third-party
 ||youtube.com/subscribe_widget$third-party
 ||civiccomputing.com^*=cookie$third-party
-||fundingchoices.google.com^$third-party
 ||d.yimg.com/ds/badge2.js
 ||google.com/images/*_promo_
 ||google.com^*/friendconnect.js

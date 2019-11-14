@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z/V3VF5oP64d8TwoBga0PQ
-! Version: 201911140200
+! Checksum: dmJ6hjpuoET6OHLYLOwKkg
+! Version: 201911141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 14 Nov 2019 02:00 UTC
+! Last modified: 14 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1738,7 +1738,7 @@ sanjuan8.com#@#.banner
 unoentrerios.com.ar#@#.banner-nativo
 lijstverse.nl,tecmundo.com.br,viagginbici.com,victoriaadvocate.com,whatreallyhappened.com#@#.banner_ad
 charteredclub.com,twitlonger.com#@#.bannerad
-liberoquotidiano.it,tipperarystar.ie#@#.bannervcms
+iltempo.it,liberoquotidiano.it,tipperarystar.ie#@#.bannervcms
 lensois.com#@#.betteradscontainer
 ans-wer.com#@#.block-ads
 cotemaison.fr,lexpress.fr#@#.block_partners
@@ -2884,7 +2884,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
 @@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
 @@||criteo.com/delivery/afr.php?abp=1$subdocument,document,domain=demo.criteo.com
-@@||criteo.com/delivery/r/afr.php?abp=1
+@@||criteo.com/delivery/r/afr.php?abp=1$subdocument,document
 @@||bidder.criteo.com/cdb?ptv=*&abp=1&
 @@||criteo.com/delivery/ck.php?$popup,domain=criteo.com
 @@||criteo.com/delivery/lg.php$image
@@ -6098,6 +6098,7 @@ deadline.com,variety.com,pmcqa.com#@#.admz
 deadline.com,variety.com,pmcqa.com#@#.ad-text
 deadline.com,variety.com,pmcqa.com#@#.text-ad
 pmcqa.com,deadline.com,variety.com#@#.c-ad
+radiopaedia.org#@#.ad-container
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
