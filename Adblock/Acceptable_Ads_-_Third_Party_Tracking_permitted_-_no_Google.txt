@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VbZd8b1r4ARyAAgDKNIEtQ
-! Version: 201911131400
+! Checksum: +OhTJtQU37eIz8JFpmqG3A
+! Version: 201911140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 13 Nov 2019 14:00 UTC
+! Last modified: 14 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2936,7 +2936,8 @@ thevarsity.ca#@#.ad-med-rect
 @@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
 @@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
 @@||criteo.com/delivery/afr.php?abp=1$subdocument,document,domain=demo.criteo.com
-@@||bidder.criteo.com/cdb?ptv=*&abp=1&profileId=275$domain=demo.criteo.com
+@@||criteo.com/delivery/r/afr.php?abp=1
+@@||bidder.criteo.com/cdb?ptv=*&abp=1&
 @@||criteo.com/delivery/ck.php?$popup,domain=criteo.com
 @@||criteo.com/delivery/lg.php$image
 @@||criteo.com/delivery/lgn.php$image
@@ -5986,6 +5987,7 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|lotrointerface.com|mmoui.com|riftui.com|secretui.com|swtorui.com|wowinterface.com|fextralife.com|metasrc.com|nerfplz.com|poe.trade|wowhead.com|ygoprodeck.com
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+podkapotou.sk,zoznam.sk#@#.adBox
 jerusalemonline.com#@#[style*="background-image:"]
 tmz.com#@#.ad-container
 musumazyliai.lt#@##ad-rectangle
@@ -6860,11 +6862,11 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||yandex.net/get-direct/$image,domain=lentainform.com
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
-! @@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru
-! @@||lentainform.com^$domain=rossaprimavera.ru
-! rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
-! rossaprimavera.ru#@#[id*="ScriptRoot"]
 ! lentainform.com#@#div[id^="yandex_rtb"]
+@@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru
+@@||lentainform.com^$domain=rossaprimavera.ru
+rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
+rossaprimavera.ru#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 lentainform.com#@#[id*="ScriptRoot"]
 lentainform.com#@#[id*="MarketGid"]
