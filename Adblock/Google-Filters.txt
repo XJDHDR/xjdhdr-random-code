@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PkqO7RZ2Fu0kjTFC3FZX0w
-! Version: 201911150200
+! Checksum: hO+rXRMtg8tFwtn5fU3+Bg
+! Version: 201911151400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Nov 2019 02:00 UTC
+! Last modified: 15 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2831,6 +2831,7 @@ bloomberg.com##.right-rail-bkg
 impactwrestling.com##.rotator
 zigzag.co.za##.rounded_bottom
 6scoops.com,9gag.com##.s-300
+geekdoing.com,nigerianbulletin.com,studentdoctor.net##.samBannerUnit
 bitcoinblogger.com##.sc_ads_within_one
 chicagomag.com##.scrailmodule
 phonedog.com##.scribol
@@ -3179,6 +3180,7 @@ boobieblog.com##td[align="center"][width="20%"]
 @@||shareasale.com/image/$domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||shopmanhattanite.com/affiliatebanners/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||summitracing.com/global/images/bannerads/
+@@||survey.g.doubleclick.net^$script,domain=sporcle.com
 @@||translate.google.*/translate_*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||urbanog.com/banners/$image
 @@||wpgdadatong.com/ad/$image,~third-party

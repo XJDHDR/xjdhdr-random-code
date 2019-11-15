@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oJIdp6EVn44yrEZLkfLYlw
-! Version: 201911150200
+! Checksum: ve8pvnYo8rM9wi/Gq3ggSw
+! Version: 201911151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Nov 2019 02:00 UTC
+! Last modified: 15 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5730,6 +5730,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||bt.fandom.com^$document,subdocument,domain=fandom.com
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
+@@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
 geeksaresexy.net#@#.ad-160
 geeksaresexy.net#@#.ad-160-above
 geeksaresexy.net#@#.ad-below
