@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wXa0UCAfbztW9WDyb522AQ
-! Version: 201911141400
+! Checksum: KA3I0fk4u4+y7CUbUGgiWA
+! Version: 201911150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Nov 2019 14:00 UTC
+! Last modified: 15 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1727,7 +1727,7 @@ nbcnews.com,sandip.knowable.com,thepoliticalinsider.com#@#.ad-container
 didyouknowfacts.com,nbcnews.com,postize.com,today.com#@#.ad-content
 cyprus-mail.com#@#.ad-custom-size
 didyouknowfacts.com#@#.ad-footer
-diariodeleon.es,nuevatribuna.es#@#.ad-inner
+navarra.elespanol.com,diariodeleon.es,nuevatribuna.es#@#.ad-inner
 brilliantmaps.com,sciencepost.fr#@#.ad-inserter
 vgpwn.com#@#.ad-inserter-widget
 nbcnews.com#@#.ad-location
@@ -1735,7 +1735,8 @@ timesnownews.com#@#.ad-panel
 newsner.com#@#.ad-placement
 thepoliticalinsider.com#@#.ad-row
 nbcnews.com#@#.ad-s-rendered
-kizlarsoruyor.com,politico.com#@#.ad-slot
+navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
+navarra.elespanol.com#@#.big-ads
 cultbox.co.uk,nuevatribuna.es#@#.ad-slot-sidebar-b
 medyabar.com#@#.ad-unit
 ewrestlingnews.com#@#.ad-widget
@@ -1753,7 +1754,7 @@ daddysgame.com#@#.add300
 blog.bikerornot.com,theamericanbacon.com,unexpectedentertainment.net#@#.adinjwidget
 srbin.info#@#.adrotate_widgets
 gazetaexpress.com#@#.ads-bottom
-mangacasa.com,mangadoor.com,mangakawaii.com,scan-fr.co,submanga.online#@#.ads-large
+tumangaonline.co,mangacasa.com,mangadoor.com,mangakawaii.com,scan-fr.co,submanga.online#@#.ads-large
 canadajournal.net,canal-supporters.com,celebritylifejournal.com,dailyhealthremedies.com,diabeticnewsnow.com,kittylovernews.com,lifeinthegoldenyears.com,thediabeticguide.com#@#.ads-post
 thedailyliberator.com#@#.ads-widget
 animeskai.com,dailycrackle.com,historyfanatic.com#@#.ads1
@@ -7195,6 +7196,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.convertunits.com^$domain=convertunits.com,document
 @@||related.pch.com^$domain=pch.com
 @@||related.pch.com^$domain=pch.com,document
+@@||related.titantv.com^$domain=titantv.com
+@@||related.titantv.com^$domain=titantv.com,document
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
@@ -7223,6 +7226,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+titantv.com#@#.leaderboard
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
 forbes.com#@#.fbs-ad--topx-wrapper
@@ -7230,7 +7234,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com#@#.header-ad
-speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com,mashable.com,washingtontimes.com,fr.shopping.rakuten.com,pminteg.fr,convertunits.com,pch.com#@#div[id^="div-gpt-ad"]
+speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com,mashable.com,washingtontimes.com,fr.shopping.rakuten.com,pminteg.fr,convertunits.com,pch.com,titantv.com#@#div[id^="div-gpt-ad"]
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
 247wallst.com#@#.iframe-ad
