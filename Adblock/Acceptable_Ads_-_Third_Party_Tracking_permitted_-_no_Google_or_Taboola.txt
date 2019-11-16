@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ve8pvnYo8rM9wi/Gq3ggSw
-! Version: 201911151400
+! Checksum: rjKorJJdbeHXopA6HCWU4w
+! Version: 201911160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Nov 2019 14:00 UTC
+! Last modified: 16 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5935,6 +5935,7 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|lotrointerface.com|mmoui.com|riftui.com|secretui.com|swtorui.com|wowinterface.com|fextralife.com|metasrc.com|nerfplz.com|poe.trade|wowhead.com|ygoprodeck.com
+avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 podkapotou.sk,zoznam.sk#@#.adBox
@@ -6814,11 +6815,21 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru
+@@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
 @@||lentainform.com^$domain=rossaprimavera.ru
-rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
-rossaprimavera.ru#@#[id*="ScriptRoot"]
+@@||jsc.lentainform.com/t/s/tsargrad.tv.690366.js$domain=tsargrad.tv
+@@||servicer.lentainform.com/690366/$domain=tsargrad.tv
+@@||s-img.lentainform.com^$domain=tsargrad.tv
+@@||cdn.lentainform.com^$domain=tsargrad.tv
+@@||autocounter.lentainform.com^$domain=tsargrad.tv
+@@||cm.lentainform.com^$domain=tsargrad.tv
+@@||c.lentainform.com^$domain=tsargrad.tv
+tsargrad.tv,rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
+tsargrad.tv,rossaprimavera.ru#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
+tsargrad.tv#@#.article__banner
+lentainform.com#@#.left_column_news ~ *
+lentainform.com#@#.logo-text ~ .menu-category
 lentainform.com#@#[id*="ScriptRoot"]
 lentainform.com#@#[id*="MarketGid"]
 lentainform.com#@#a[href^="//www.mgid.com/"]
