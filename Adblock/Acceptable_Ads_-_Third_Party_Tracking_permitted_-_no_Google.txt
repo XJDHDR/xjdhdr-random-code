@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FAzLMOQEhLx7Eu9oy6DEDA
-! Version: 201911180200
+! Checksum: SMSzCMjRmUFOkHN2Yemo4g
+! Version: 201911181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 18 Nov 2019 02:00 UTC
+! Last modified: 18 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5786,6 +5786,7 @@ bouwsteentjes.info#@#.td-adspot-title
 geeksaresexy.net#@#.ad-160
 geeksaresexy.net#@#.ad-160-above
 geeksaresexy.net#@#.ad-below
+geeky-gadgets.com#@##text-105335641
 screamqueensonline.com#@##div-insticator-ad-1
 screamqueensonline.com#@##div-insticator-ad-2
 screamqueensonline.com#@##insticator-container
@@ -5991,6 +5992,10 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 podkapotou.sk,zoznam.sk#@#.adBox
+mrexcel.com#@#.ad-in-post
+mrexcel.com#@#.adunit
+jeux.fr#@#.sgAd
+jeux.fr#@##sgAdScGp160x600
 jerusalemonline.com#@#[style*="background-image:"]
 tmz.com#@#.ad-container
 musumazyliai.lt#@##ad-rectangle
@@ -7210,6 +7215,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.pch.com^$domain=pch.com,document
 @@||related.titantv.com^$domain=titantv.com
 @@||related.titantv.com^$domain=titantv.com,document
+@@||topics.inquisitr.com^$domain=inquisitr.com
+@@||topics.inquisitr.com^$domain=inquisitr.com,document
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
@@ -7238,6 +7245,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+inquisitr.com#@#.iab
 titantv.com#@#.leaderboard
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
@@ -8788,6 +8796,10 @@ yahoo.com#@#.uba-container
 @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
 @@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
 ||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
+@@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
+@@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
+@@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
+mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner
