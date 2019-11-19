@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EuevJkmiYgJ2SNFNmI7Prg
-! Version: 201911181400
+! Checksum: 7z3y5WdWIT8xrdi2VyVDgg
+! Version: 201911190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Nov 2019 14:00 UTC
+! Last modified: 19 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6821,6 +6821,8 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
 @@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
+@@||lentainform.com/rnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
+@@||lentainform.com/tnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
 @@||lentainform.com^$domain=rossaprimavera.ru
 @@||jsc.lentainform.com/t/s/tsargrad.tv.690366.js$domain=tsargrad.tv
 @@||servicer.lentainform.com/690366/$domain=tsargrad.tv
@@ -6832,6 +6834,8 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 tsargrad.tv,rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
 tsargrad.tv,rossaprimavera.ru#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
+@@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
+@@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
 tsargrad.tv#@#.article__banner
 lentainform.com#@#.left_column_news ~ *
 lentainform.com#@#.logo-text ~ .menu-category

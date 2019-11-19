@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xwDUJILu8QAezfNR11Xv9w
-! Version: 201911181400
+! Checksum: KnaLCLW4elJlqKUsqIItvg
+! Version: 201911190200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Nov 2019 14:00 UTC
+! Last modified: 19 Nov 2019 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -848,6 +848,7 @@ _reklama_$domain=~youtube.com
 ##.frontpage-google-ad
 ##.g2-adsense
 ##.g3-adsense
+##.gAdMobileTable
 ##.gadsense
 ##.galleria-adsense
 ##.global-adsense
@@ -2133,6 +2134,8 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||ajax.googleapis.com^$script,domain=ancient-origins.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=alltube.pl
 @@||ajax.googleapis.com^$script,domain=vshare.eu
+@@||fonts.googleapis.com^$stylesheet,domain=downloadgameps3.com
+@@||www.blogger.com^$stylesheet,domain=downloadgameps3.com
 @@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=9anime.one|9anime.tv|9anime.vip
 @@||fonts.googleapis.com^$stylesheet,domain=9anime.one|9anime.tv|9anime.vip
 @@||googleusercontent.com/gadgets/$image,domain=9anime.one|9anime.tv|9anime.vip
