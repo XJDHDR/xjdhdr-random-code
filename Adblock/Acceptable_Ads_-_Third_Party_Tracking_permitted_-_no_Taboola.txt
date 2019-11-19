@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZVSluINLF+kfjmn5HPf5Tw
-! Version: 201911190200
+! Checksum: zpIOt2Zb/j3/2sQywtSq7A
+! Version: 201911191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 19 Nov 2019 02:00 UTC
+! Last modified: 19 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5963,17 +5963,15 @@ avito.ru#@#.avito-ads-container
 @@||g.doubleclick.net/pagead/ads?client=ca-pub-3235755782694080^*^h=350^*^w=650^$subdocument,domain=pocketsense.com|legalbeagle.com|smallbusiness.chron.com|work.chron.com
 @@||g.doubleclick.net/pagead/ads?client=ca-pub-3235755782694080^*^h=190^*^w=330^$subdocument,domain=legalbeagle.com|smallbusiness.chron.com|work.chron.com
 @@||g.doubleclick.net/pagead/ads?client=ca-pub-3235755782694080^*^h=190^*^w=310^$subdocument,domain=pocketsense.com|smallbusiness.chron.com|work.chron.com
-@@||g.doubleclick.net/pagead/ads?client=ca-pub-3235755782694080^$subdocument,domain=woman.thenest.com|pets.thenest.com|budgeting.thenest.com|oureverydaylife.com|finance.zacks.com|smallbusiness.chron.com|work.chron.com
+@@||g.doubleclick.net/pagead/ads?client=ca-pub-3235755782694080^$subdocument,domain=woman.thenest.com|pets.thenest.com|budgeting.thenest.com|oureverydaylife.com|finance.zacks.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=woman.thenest.com|pets.thenest.com|budgeting.thenest.com|oureverydaylife.com|finance.zacks.com|legalbeagle.com|pocketsense.com|careertrend.com|itstillworks.com|bizfluent.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=pocketsense.com|careertrend.com|itstillworks.com|bizfluent.com
 @@||adservice.google.de/adsid/integrator.js?domain=bizfluent.com|pocketsense.com
 @@||adservice.google.com/adsid/integrator.js?domain=bizfluent.com|pocketsense.com
 @@/scripts/google_ad_request.js$domain=animals.mom.me|budgeting.thenest.com|education.seattlepi.com|everydaylife.globalpost.com|getawaytips.azcentral.com|getfit.jillianmichaels.com|healthyeating.sfgate.com|healthyliving.azcentral.com|homeguides.sfgate.com|livehealthy.chron.com|livewell.jillianmichaels.com|motherhood.modernmom.com|people.opposingviews.com|pets.thenest.com|pyme.lavoztx.com|science.opposingviews.com|smallbusiness.chron.com|traveltips.usatoday.com|woman.thenest.com|work.chron.com|yourbusiness.azcentral.com|penandthepad.com|oureverydaylife.com|goneoutdoors.com|howtoadult.com|legalbeagle.com|muyfitness.com|ourpastimes.com|finance.zacks.com|sciencing.com|thefinancebase.com|classroom.synonym.com
-smallbusiness.chron.com##.adsbygoogle[data-ad-slot="1166178349"]
-smallbusiness.chron.com##.adsbygoogle[data-ad-slot="1530628549"]
-work.chron.com##.adsbygoogle[data-ad-slot="6933510341"]
-work.chron.com##.adsbygoogle[data-ad-slot="3956291964"]
-livehealthy.chron.com##.adsbygoogle[data-ad-slot="9886976743"]
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com##.inline-ad-slot-2
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com###adReplacement
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com##.inline-ad-parent-container
 homeguides.sfgate.com##.adsbygoogle[data-ad-slot="7712239542"]
 healthyeating.sfgate.com##.adsbygoogle[data-ad-slot="6514707942"]
 sciencing.com##.adsbygoogle[data-ad-slot="1918995334"]

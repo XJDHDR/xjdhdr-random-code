@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nDKaKfBKVDsjJC5v6/LJwg
-! Version: 201911190200
+! Checksum: BZFcvrV6YTUesQvmm2Gqpw
+! Version: 201911191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Nov 2019 02:00 UTC
+! Last modified: 19 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4726,6 +4726,9 @@ avito.ru#@#.avito-ads-container
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45314
 ! Ads on Leaf Group content channels
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com##.inline-ad-slot-2
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com###adReplacement
+livehealthy.chron.com,work.chron.com,smallbusiness.chron.com##.inline-ad-parent-container
 classroom.synonym.com##.article-text > .summary + .text-ad
 pocketsense.com#@#.desktop-ad
 pocketsense.com#@#.side-ad
