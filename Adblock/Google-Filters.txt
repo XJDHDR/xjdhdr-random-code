@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uewYtEYF7x42Jw+KzQ4OGA
-! Version: 201911191400
+! Checksum: ZOqwLUdfJkVcYnslYbublQ
+! Version: 201911200200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Nov 2019 14:00 UTC
+! Last modified: 20 Nov 2019 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1996,7 +1996,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||mail-ads.google.com^
 ||mygaming.co.za^*/partners/
 ||onlineshopping.co.za/expop/
-||physorg.com^*/addetect.js
 ||s.yimg.com^*/audience/
 ||sacricketmag.com^*/wallpaper/
 ||samsung.com/ph/nextisnow/files/javascript.js
@@ -2153,7 +2152,7 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eztv.io|eztv.tf|eztv.yt
 @@||gstatic.com^$script,domain=streamvid.co
 @@||apis.google.com/js/plusone.js$script,domain=4shared.com
-@@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powvideo.net
+@@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powvideo.net|powvldeo.net
 @@||ajax.googleapis.com^$script,third-party,domain=cinenews.be
 @@||ajax.googleapis.com^$script,third-party,domain=streamcloud.eu
 @@||ajax.googleapis.com^$script,domain=uptobox.com|uptostream.com

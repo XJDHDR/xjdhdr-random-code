@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BZFcvrV6YTUesQvmm2Gqpw
-! Version: 201911191400
+! Checksum: njsxd7RLquR1GSz2tkbrwA
+! Version: 201911200200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Nov 2019 14:00 UTC
+! Last modified: 20 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5995,6 +5995,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 podkapotou.sk,zoznam.sk#@#.adBox
+guidingtech.com#@#.detail-ad
 mrexcel.com#@#.ad-in-post
 mrexcel.com#@#.adunit
 jeux.fr#@#.sgAd
