@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tUGlesayQCGcwPl1YPmX/g
-! Version: 201911200200
+! Checksum: viG/KqZXC3D6xjJKPai6KA
+! Version: 201911201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Nov 2019 02:00 UTC
+! Last modified: 20 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5734,6 +5734,8 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
 @@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
+woodmagazine.com#@#.header-ad
+woodmagazine.com#@#.sidebar-ads
 geeksaresexy.net#@#.ad-160
 geeksaresexy.net#@#.ad-160-above
 geeksaresexy.net#@#.ad-below
@@ -8756,6 +8758,7 @@ yahoo.com#@#.uba-container
 @@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
 @@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
 mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
+mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner
