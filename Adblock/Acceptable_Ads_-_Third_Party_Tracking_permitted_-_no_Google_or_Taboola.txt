@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i8PltG9ye3hoOo6fs+Mz/Q
-! Version: 201911210200
+! Checksum: xf6SwvFdQp6uvmNfdxHwTw
+! Version: 201911211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Nov 2019 02:00 UTC
+! Last modified: 21 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2594,12 +2594,14 @@ alteroffice.pl#@#.reklama
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=39899
 ! Ads on sites by Yieldlove
-@@||ampproject.org/rtv/*/amp4ads-$script,domain=bab.la|equideow.com|oeffnungszeitenbuch.de|schulferien.org|watch2gether.com|ibancalculator.com|duden.de
+@@||ampproject.org/rtv/*/amp4ads-$script,domain=bab.la|equideow.com|oeffnungszeitenbuch.de|schulferien.org|watch2gether.com|ibancalculator.com|duden.de|taz.de
 @@||cas.criteo.com/delivery/ajs.php?zoneid=308400^$script,domain=schulferien.org
 @@||criteo.com/delivery/ajs.php?zoneid=307223&$script,domain=bab.la
 @@||criteo.com/delivery/ajs.php?zoneid=307653&$script,domain=bab.la
 @@||equideow.com/media/equideo/js/ads.js|$domain=equideow.com
 @@||equideow.com/media/sowcle/js/min/advertising_v1270363845.js|$domain=equideow.com
+taz.de#@#.contentad
+taz.de#@#.ad_zone
 bab.la#@##babAdTop
 equideow.com#@#.ad-160x600
 equideow.com#@#.ad-300x250
