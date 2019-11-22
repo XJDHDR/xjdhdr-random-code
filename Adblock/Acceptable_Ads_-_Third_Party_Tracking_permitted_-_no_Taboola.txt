@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oijNmZDHyUTvB9+MJWLorw
-! Version: 201911211400
+! Checksum: PGc1VH8HHslPpQHxOH9VgQ
+! Version: 201911220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 21 Nov 2019 14:00 UTC
+! Last modified: 22 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6400,8 +6400,9 @@ tranzgendr.com#@##amzn_assoc_ad_div_adunit0_0
 @@||g.doubleclick.net/pagead/ads?client=ca-pub-0206338760093719^$subdocument,domain=myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||googlesyndication.com/safeframe/$domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl,subdocument,document,other
 @@||g.doubleclick.net/gampad/ads?*^iu=%2F75224259%2FAGORA-IN%2FAdBlock%2F$domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||g.doubleclick.net/gampad/ads?*^iu_parts=75224259%2CAGORA-IN%2CAdBlock%2$domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||gazeta.pl/dfptools/adview/$subdocument,script,domain=gazeta.pl
-@@||g.doubleclick.net/pcs/view?$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
+@@||g.doubleclick.net/pcs/view?$domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||ad.doubleclick.net/ddm/trackimp/$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||g.doubleclick.net/pagead/ide_cookie$script,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl
 @@||gde-default.hit.gemius.pl^*/redot.gif?id=$image,domain=dyskusje24.pl|myfitness.pl|sport.gwar.pl|ciacha.net|naprzerwie.pl|infokobieta24.pl|moto.pl|infozdrowie24.pl|infopodroze24.pl|cuanto-sabes.com|gazetadom.pl|infoladnydom.pl|infonews24.org|magazyn-kuchnia.pl|pogodanazycie.pl|tuba.pl|gazeta.tv|swiatmotocykli.pl|plotek.pl|edziecko.pl|sport.pl|ugotuj.to|gazeta.pl|bryla.pl|avanti24.pl|logo24.pl

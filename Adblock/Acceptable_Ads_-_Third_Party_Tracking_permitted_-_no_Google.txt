@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NZvPHvGI9fK9we2aXnr75Q
-! Version: 201911211400
+! Checksum: 0Zgyr/SSoqvnzZ26jiS7Ew
+! Version: 201911220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Nov 2019 14:00 UTC
+! Last modified: 22 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1665,6 +1665,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.taboola.com^$domain=taboola.com
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
+@@||bloximages.newyork1.vip.townnews.com/fredericknewspost.com/*/vendor.taboola.*.js$script,domain=fredericknewspost.com
 motilokal.com#@#.desktop-ad
 vol.at#@##ad-bottom
 filthyrichstar.com#@##ad-unit
