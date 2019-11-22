@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zUGE0CjmcFOWCktGnvyZWw
-! Version: 201911220200
+! Checksum: WTagTC58t/1BZWgB+LQ2rw
+! Version: 201911221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Nov 2019 02:00 UTC
+! Last modified: 22 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3955,6 +3955,8 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 ! Ads by RevContent
 @@||revcontent.com/api/delivery/?w=115503^$domain=pluralist.com
 @@||revcontent.com/api/demand/?w=115503^$domain=pluralist.com
+@@||revcontent.com/api/delivery/?w=115478^$domain=conservativeflash.com
+@@||revcontent.com/api/demand/?w=115478^$domain=conservativeflash.com
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
@@ -3985,6 +3987,7 @@ truthfeednews.com#@##quads-ad2
 truthfeednews.com#@#.quads-ad2
 wnd.com#@#[style*="background-image:"]
 cbsnews.com#@#.ad-unit
+conservativeflash.com#@##mvp-post-bot-ad
 !:partner_token=cuisinezpourvospapilles.fr
 !:partner_id=866aa7846766c0a1
 !:type=partner
@@ -6862,6 +6865,12 @@ lentainform.com#@#a[href^="//www.mgid.com/"]
 lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||mgid.com^$domain=lentainform.com
 @@||mgid.com^$popup,domain=lentainform.com
+!:partner_token=AdPone
+!:partner_id=4b7133f644c78afd
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
+! Adpone ads
+@@?unblockia=true$subdocument,document,domain=paginasamarillas.es
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7215,6 +7224,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+motorsport.com#@#.ms-ap
 inquisitr.com#@#.iab
 titantv.com#@#.leaderboard
 forbes.com#@#.top-ad-container
