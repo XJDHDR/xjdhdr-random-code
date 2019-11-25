@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KK2i2YUPH3BlD/ZqsVyKYQ
-! Version: 201911250200
+! Checksum: m/opsh7KlnVUfv3vzD7y5w
+! Version: 201911251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Nov 2019 02:00 UTC
+! Last modified: 25 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1666,6 +1666,8 @@ thenoob.net#@#.adinjwidget
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||bloximages.newyork1.vip.townnews.com/fredericknewspost.com/*/vendor.taboola.*.js$script,domain=fredericknewspost.com
+hockeyfights.com#@#.vuukle-ads
+hockeyfights.com#@#.full-width-ad
 motilokal.com#@#.desktop-ad
 vol.at#@##ad-bottom
 filthyrichstar.com#@##ad-unit
@@ -7079,6 +7081,7 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
 ! Generic conversion tracking
+@@||match.adsrvr.org/track/cmf/$image,third-party
 @@||insight.adsrvr.org/track/$image,third-party
 @@||r.turn.com/r/beacon^$image,third-party
 @@||d.turn.com/r/$image,third-party
@@ -7251,6 +7254,7 @@ testpages.adblockplus.org#@##abptest
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/$script,domain=footballfancast.com|footballleagueworld.co.uk|footballtransfertavern.com
 @@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
+@@||sc.sftcdn.net/statics/ads.min.js$domain=softonic.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
