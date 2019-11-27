@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h3Y8FIWksYD/EqS3gYmZCA
-! Version: 201911270200
+! Checksum: rnszE+hyJncMc31a3Q+CKA
+! Version: 201911271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 27 Nov 2019 02:00 UTC
+! Last modified: 27 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5847,6 +5847,8 @@ spanishdict.com#@#.ad-unit
 @@||googletagservices.com/dcm/dcmads.js$domain=pressfire.no
 @@||ad.doubleclick.net/ddm/adj/N381402.2075109PRESSFIRENO/*;sz=980x150;$script,domain=pressfire.no
 @@||ad.doubleclick.net/ddm/adj/N381402.2075109PRESSFIRENO/*;sz=580x400;$script,domain=pressfire.no
+@@||doubleclick.net/pixel^$image,domain=pressfire.no
+@@||s1.adform.net/banners/scripts/dt/digitrust.html$domain=pressfire.no
 @@||s0.2mdn.net^$image,domain=pressfire.no
 pressfire.no#@#.dcmads
 pressfire.no,framerate.no#@#.ad-disclaimer

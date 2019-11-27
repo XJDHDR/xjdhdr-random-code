@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zuO8wnvkLcwW1fChG6e0EQ
-! Version: 201911270200
+! Checksum: ogakLAxc8YRN9Y+4HueS7Q
+! Version: 201911271400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 27 Nov 2019 02:00 UTC
+! Last modified: 27 Nov 2019 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2058,6 +2058,7 @@ $script,third-party,domain=171gifs.com|300mbfilms.org|321jav.com|4downfiles.org|
 @@||google.com/cse$script,domain=tamilrockers.ws
 @@||google.com/uds/$script,domain=tamilrockers.ws
 @@||www.youtube.com/embed/$subdocument,domain=movs4u.to
+@@||img.youtube.com^$image,domain=youzik.com
 @@||ajax.googleapis.com^$script,domain=ymovies.to|ymovies.tv
 @@||blogspot.com^$image,domain=ymovies.to|ymovies.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.co|adyou.me
@@ -2105,7 +2106,7 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eztv.io|eztv.tf|eztv.yt
 @@||gstatic.com^$script,domain=streamvid.co
 @@||apis.google.com/js/plusone.js$script,domain=4shared.com
-@@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powvideo.net|powvldeo.net
+@@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.net
 @@||ajax.googleapis.com^$script,third-party,domain=cinenews.be
 @@||ajax.googleapis.com^$script,third-party,domain=streamcloud.eu
 @@||ajax.googleapis.com^$script,domain=uptobox.com|uptostream.com
