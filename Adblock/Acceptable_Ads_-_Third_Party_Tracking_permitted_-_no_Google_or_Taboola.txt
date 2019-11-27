@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X5jWti4o1fx0b8rYKnhQXg
-! Version: 201911261400
+! Checksum: wkgUkSELQuUJatuta5o/mQ
+! Version: 201911270200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 26 Nov 2019 14:00 UTC
+! Last modified: 27 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5941,6 +5941,8 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+index.hr#@#.ad-container
+index.hr#@#.ad-holder
 ynetespanol.com#@#.top-ad
 podkapotou.sk,zoznam.sk#@#.adBox
 guidingtech.com#@#.detail-ad
@@ -6809,8 +6811,8 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! gedichte.ws ads
 @@||tisoomi-adservice.com/aa/$popup,domain=gedichte.ws|adsinlove.de
 @@||tisoomi-adservice.com/aa/$domain=gedichte.ws|adsinlove.de
-||tisoomi-adservice.com/detection/px.gif?ch=2$domain=gedichte.ws|adsinlove.de
-@@||tisoomi-adservice.com/detection/px.gif?ch=1$domain=gedichte.ws|adsinlove.de
+||tisoomi-adservice.com/detection/px.gif?ch=2$domain=gedichte.ws|adsinlove.de|t-online.de
+@@||tisoomi-adservice.com/detection/px.gif?ch=1$domain=gedichte.ws|adsinlove.de|t-online.de
 !:partner_token=shortorial.com
 !:partner_id=1c3ab5b9439d3d2f
 !:type=partner
@@ -7218,6 +7220,9 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+allthetests.com#@##banner
+allthetests.com#@#div > iframe:first-child
+allthetests.com#@#.squareAd
 motorsport.com#@#.ms-ap
 inquisitr.com#@#.iab
 titantv.com#@#.leaderboard
