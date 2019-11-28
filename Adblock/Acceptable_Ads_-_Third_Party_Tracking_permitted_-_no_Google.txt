@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZbfyMOH69CVbjXzC+/Q6Pw
-! Version: 201911271400
+! Checksum: 9kbjS03+suAV6ogOGCsBaw
+! Version: 201911280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Nov 2019 14:00 UTC
+! Last modified: 28 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1186,6 +1186,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||whizzco.com/demand/v1/rtads^$xmlhttprequest,domain=sheknows.com
 @@||whizzco.com/scripts/widget/widget_sm.js$domain=sheknows.com
 @@||20mn.fr^*/tc_20Minutes_ads_desktop.js$domain=20minutes.fr
+dlnowsoft.com#@#.adframe
 people.com#@##adBottom
 orange.fr#@##commercial-links
 meteoconsult.fr#@##favoris_pub_ligatus
@@ -6672,8 +6673,12 @@ gamesflow.com#@#.iconads
 ! POLSKA PRESS GRUPA ads
 ||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 ||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
+/yb.js$domain=pomorska.pl|naszemiasto.pl
 @@||ampproject.org/rtv/*/amp4ads-$script,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
 @@/ppa_slot.css$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
+@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=pomorska.pl|naszemiasto.pl
+@@||bidder.criteo.com^$domain=pomorska.pl|naszemiasto.pl
+@@||ppstatic.pl/lib/ppa/*/libs/prebid.js$domain=pomorska.pl|naszemiasto.pl
 !:partner_token=OLX Global B.V.
 !:partner_id=42b71aaf433714e0
 !:type=partner
