@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9kbjS03+suAV6ogOGCsBaw
-! Version: 201911280200
+! Checksum: IeYjB8VnOlshslfkDEXG5A
+! Version: 201911281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Nov 2019 02:00 UTC
+! Last modified: 28 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1667,6 +1667,8 @@ thenoob.net#@#.adinjwidget
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||bloximages.newyork1.vip.townnews.com/fredericknewspost.com/*/vendor.taboola.*.js$script,domain=fredericknewspost.com
+usatoday.com#@#.gnt_tb
+usatoday.com#@#.gnt_tbr
 hockeyfights.com#@#.vuukle-ads
 hockeyfights.com#@#.full-width-ad
 motilokal.com#@#.desktop-ad
@@ -5996,6 +5998,9 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+wtfacts.net,lifeindigo.com,lifeexact.com#@#.ad-content
+wtfacts.net,lifeindigo.com,lifeexact.com#@#.ad-wrapper
+wtfacts.net,lifeindigo.com,lifeexact.com#@#.ad-frame
 index.hr#@#.ad-container
 index.hr#@#.ad-holder
 ynetespanol.com#@#.top-ad
@@ -6660,6 +6665,9 @@ gamesflow.com#@#.iconads
 @@||codefund.app/properties/*/funder.html?$third-party
 @@||codefund.app^$image,third-party
 @@||codefund.app/impressions/$third-party
+@@||codefund.io/packs/
+@@||codefund.app/packs/
+javascript.info#@##sponsorBar
 ! legacy
 @@||codefund.io/scripts/*/embed.js$third-party
 @@||codefund.io/display/$image,third-party
@@ -6673,7 +6681,8 @@ gamesflow.com#@#.iconads
 ! POLSKA PRESS GRUPA ads
 ||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 ||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
-/yb.js$domain=pomorska.pl|naszemiasto.pl
+||yieldbird.com^*/yb.js$domain=pomorska.pl|naszemiasto.pl
+||d24rtvkqjwgutp.cloudfront.net^*/yb.js$domain=pomorska.pl|naszemiasto.pl
 @@||ampproject.org/rtv/*/amp4ads-$script,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
 @@/ppa_slot.css$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
 @@||criteo.com/delivery/r/afr.php$subdocument,document,domain=pomorska.pl|naszemiasto.pl
@@ -6725,7 +6734,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 ! VigLink affiliate links
 ||viglink.com/images/pixel.gif?ch=2$third-party
 @@||viglink.com/api/insert^$third-party
-@@||viglink.com/api/optimize^$third-partyf
+@@||viglink.com/api/optimize^$third-party
 @@||viglink.com/api/ping^$xmlhttprequest,third-party
 @@||viglink.com/api/domains^$third-party
 @@||viglink.com/api/vglnk.js$third-party
@@ -6923,7 +6932,10 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$subdocument,document,domain=paginasamarillas.es
+@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com
+@@?unblockia=true$domain=paginasamarillas.es|elespanol.com
+@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com
+@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
