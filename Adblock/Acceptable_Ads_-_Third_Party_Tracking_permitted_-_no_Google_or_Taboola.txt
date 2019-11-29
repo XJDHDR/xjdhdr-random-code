@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HEHI4wyCS0pOc6RwG9B4RA
-! Version: 201911290200
+! Checksum: 2WpW69im1hyYE78LrCFgDQ
+! Version: 201911291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Nov 2019 02:00 UTC
+! Last modified: 29 Nov 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6090,6 +6090,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 jerusalemonline.com#@#div[style="width:300px; height:250px;"]
 jerusalemonline.com#@#div[style="width:300px; height:600px;"]
 jerusalemonline.com#@#div > iframe:first-child
+weszlo.com#@#.top-adw
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@#.sgAd
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScGp160x600
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
@@ -6118,6 +6119,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
+arcamax.com#@#.adunit
 deadline.com,variety.com,pmcqa.com#@#.admz
 deadline.com,variety.com,pmcqa.com#@#.ad-text
 deadline.com,variety.com,pmcqa.com#@#.text-ad
@@ -6151,7 +6154,6 @@ itstillworks.com#@#.leaderboard-ad
 @@||relap.io/api/*/similar_pages.js?*^adSlotManager=1%2C1%2C1%2C1^$domain=knijky.ru
 @@||relap.io/api/*/similar_pages.js?*^adSlotManager=1%2C1^$domain=yaplakal.com
 ria.ru#@#a[href][data-ad-link]
-allboxing.ru#@#a[href^="https://relap.io/"][data-ad-link]
 fishki.net#@#[class^="side"][class*="right"] > div[class*="promo"]
 womanhit.ru#@#.sidebar > :not(.card)
 fishki.net#@#[class^="side"][class*="right"] div[class*="promo"]
