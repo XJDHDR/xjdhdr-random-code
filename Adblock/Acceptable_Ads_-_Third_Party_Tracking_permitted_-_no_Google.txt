@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IeYjB8VnOlshslfkDEXG5A
-! Version: 201911281400
+! Checksum: 4BcnxGZwrzurHZx0iRs90w
+! Version: 201911290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Nov 2019 14:00 UTC
+! Last modified: 29 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6681,13 +6681,13 @@ javascript.info#@##sponsorBar
 ! POLSKA PRESS GRUPA ads
 ||ppstatic.pl/lib/detectors/*/eyeo.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 ||ppstatic.pl/lib/*/reklama.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
-||yieldbird.com^*/yb.js$domain=pomorska.pl|naszemiasto.pl
-||d24rtvkqjwgutp.cloudfront.net^*/yb.js$domain=pomorska.pl|naszemiasto.pl
+||yieldbird.com^*/yb.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
+||d24rtvkqjwgutp.cloudfront.net^*/yb.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 @@||ampproject.org/rtv/*/amp4ads-$script,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
 @@/ppa_slot.css$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|extra.telemagazyn.pl|sr.telemagazyn.pl|gratka.pl|motofakty.pl
-@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=pomorska.pl|naszemiasto.pl
-@@||bidder.criteo.com^$domain=pomorska.pl|naszemiasto.pl
-@@||ppstatic.pl/lib/ppa/*/libs/prebid.js$domain=pomorska.pl|naszemiasto.pl
+@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
+@@||bidder.criteo.com^$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
+@@||ppstatic.pl/lib/ppa/*/libs/prebid.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 !:partner_token=OLX Global B.V.
 !:partner_id=42b71aaf433714e0
 !:type=partner
@@ -6902,23 +6902,27 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com/pnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
-@@||lentainform.com/rnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
-@@||lentainform.com/tnews/$popup,domain=rossaprimavera.ru|tsargrad.tv
-@@||lentainform.com^$domain=rossaprimavera.ru
-@@||jsc.lentainform.com/t/s/tsargrad.tv.690366.js$domain=tsargrad.tv
-@@||servicer.lentainform.com/690366/$domain=tsargrad.tv
-@@||s-img.lentainform.com^$domain=tsargrad.tv
-@@||cdn.lentainform.com^$domain=tsargrad.tv
-@@||autocounter.lentainform.com^$domain=tsargrad.tv
-@@||cm.lentainform.com^$domain=tsargrad.tv
-@@||c.lentainform.com^$domain=tsargrad.tv
-tsargrad.tv,rossaprimavera.ru#@#a[href*="lentainform.com/pnews/"]
-tsargrad.tv,rossaprimavera.ru#@#[id*="ScriptRoot"]
+@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
+@@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
+@@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
+@@||jsc.lentainform.com/s/t/stan.kz.672000.js$domain=stan.kz
+@@||jsc.lentainform.com/i/z/iz.ru.678965.js$domain=iz.ru
+@@||jsc.lentainform.com/t/s/tsargrad.tv.690231.js$domain=tsargrad.tv
+@@||jsc.lentainform.com/w/d/wday.ru.689844.js$domain=wday.ru
+@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#a[href*="lentainform.com/pnews/"]
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
-tsargrad.tv#@#.article__banner
+@@||lentainform.com/nr$csp=sandbox allow-same-origin;
 lentainform.com#@#.left_column_news ~ *
 lentainform.com#@#.logo-text ~ .menu-category
 lentainform.com#@#[id*="ScriptRoot"]
@@ -6926,7 +6930,9 @@ lentainform.com#@#[id*="MarketGid"]
 lentainform.com#@#a[href^="//www.mgid.com/"]
 lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||mgid.com^$domain=lentainform.com
-@@||mgid.com^$popup,domain=lentainform.com
+@@||mgid.com^$popup,domain=lentainform.com|tsargrad.tv
+7days.ru#@#.b-section_content_partners-news
+tsargrad.tv#@#.article__banner
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
@@ -8851,6 +8857,7 @@ yahoo.com#@#.uba-container
 @@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
 mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
+mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner
