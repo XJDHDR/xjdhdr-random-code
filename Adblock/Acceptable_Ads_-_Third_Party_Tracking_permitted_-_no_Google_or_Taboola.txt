@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2WpW69im1hyYE78LrCFgDQ
-! Version: 201911291400
+! Checksum: J2NY8uOOjHJnFch73Lxdvw
+! Version: 201911300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Nov 2019 14:00 UTC
+! Last modified: 30 Nov 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7252,6 +7252,7 @@ allthetests.com#@#.squareAd
 motorsport.com#@#.ms-ap
 inquisitr.com#@#.iab
 titantv.com#@#.leaderboard
+titantv.com#@#.gAd
 forbes.com#@#.top-ad-container
 forbes.com#@#FBS-AD
 forbes.com#@#.fbs-ad--topx-wrapper
