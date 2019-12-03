@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: skOOe529ftjqqyQoV2y9mw
-! Version: 201912021400
+! Checksum: OkJgMOXmwTYMosoY+sU0Kw
+! Version: 201912030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Dec 2019 14:00 UTC
+! Last modified: 03 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7216,6 +7216,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.titantv.com^$domain=titantv.com,document
 @@||topics.inquisitr.com^$domain=inquisitr.com
 @@||topics.inquisitr.com^$domain=inquisitr.com,document
+@@||related.motor1.com^$domain=motor1.com
+@@||related.motor1.com^$domain=motor1.com,document
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
@@ -7229,7 +7231,6 @@ testpages.adblockplus.org#@##abptest
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/$script,domain=footballfancast.com|footballleagueworld.co.uk|footballtransfertavern.com
 @@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
-@@||sc.sftcdn.net/statics/ads.min.js$domain=softonic.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7246,6 +7247,8 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+motor1.com#@#.apb
+motor1.com#@#.ap
 allthetests.com#@##banner
 allthetests.com#@#div > iframe:first-child
 allthetests.com#@#.squareAd
