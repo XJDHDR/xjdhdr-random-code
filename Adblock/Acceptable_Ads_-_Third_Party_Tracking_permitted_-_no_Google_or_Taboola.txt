@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1gP97Ch5Y8I5Wiyawedy2w
-! Version: 201912040200
+! Checksum: k6k2UoAbnLH8aDxs8AUXSg
+! Version: 201912041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Dec 2019 02:00 UTC
+! Last modified: 04 Dec 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8803,6 +8803,8 @@ yahoo.com#@##my-adsLREC4-base
 @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
 yahoo.com#@##sticky-lrec2-footer
 yahoo.com#@#.uba-container
+yahoo.com#@#.billboard-ads
+yahoo.com#@#.darla
 ! Yahoo Mail
 @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
 @@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
