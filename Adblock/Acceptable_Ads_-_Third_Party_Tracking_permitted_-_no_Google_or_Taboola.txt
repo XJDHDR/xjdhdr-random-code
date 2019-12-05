@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: k6k2UoAbnLH8aDxs8AUXSg
-! Version: 201912041400
+! Checksum: 3QZ0lRUGcm1DM/HEON1YJg
+! Version: 201912050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Dec 2019 14:00 UTC
+! Last modified: 05 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3883,6 +3883,14 @@ search.avira.net##.right-ad-zone
 @@||answers.guide/serp^$elemhide
 @@||netzerosearch.net/serp^$elemhide
 @@||search.topicbites.com^$elemhide
+@@||dsearch.com/search?$elemhide
+@@||reduto.com^$elemhide
+@@||reduto.de^$elemhide
+@@||reduto.ca^$elemhide
+@@||reduto.co.uk^$elemhide
+@@||saletastic.co.uk^$elemhide
+@@||spar77.de^$elemhide
+@@||answersonly.com/serp?$elemhide
 !:partner_token=fxsforexsrbijaforum.com
 !:partner_id=cea3a1abdacc481b
 !:type=partner
@@ -7220,6 +7228,8 @@ testpages.adblockplus.org#@##abptest
 @@||topics.inquisitr.com^$domain=inquisitr.com,document
 @@||related.motor1.com^$domain=motor1.com
 @@||related.motor1.com^$domain=motor1.com,document
+@@||related.searchenginejournal.com^$domain=searchenginejournal.com
+@@||related.searchenginejournal.com^$domain=searchenginejournal.com,document
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
@@ -7249,6 +7259,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+searchenginejournal.com#@#.adv-label
 motor1.com#@#.apb
 motor1.com#@#.ap
 allthetests.com#@##banner
