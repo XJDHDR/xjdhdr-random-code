@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fbhca8WSOtgE/NbeUC0F/Q
-! Version: 201912061400
+! Checksum: hhspLL8jGSoDk+pJhaw0Mg
+! Version: 201912070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Dec 2019 14:00 UTC
+! Last modified: 07 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6897,10 +6897,10 @@ tsargrad.tv#@#.article__banner
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com
-@@?unblockia=true$domain=paginasamarillas.es|elespanol.com
-@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com
-@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com
+@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
+@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
+@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
+@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
