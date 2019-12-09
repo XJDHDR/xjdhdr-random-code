@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q2OQ8Zg697bDE5SJOPw/2A
-! Version: 201912090200
+! Checksum: 0KyEtBurkrZOyXHu60N7pA
+! Version: 201912091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Dec 2019 02:00 UTC
+! Last modified: 09 Dec 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -284,6 +284,8 @@ reddit.com##.promotedvideolink
 @@||attribution.report^$image,domain=reddit.com
 @@||d.turn.com^$image,domain=reddit.com
 @@||s.imgsynd.com^$image,domain=reddit.com
+@@||ads.revjet.com^$image,domain=reddit.com
+@@||p.dlx.addthis.com^$image,domain=reddit.com
 ! reddit.com###adblock-test
 ! reddit.com#@#.dfp-ad-container
 ! reddit.com#@#.img_ad
@@ -1259,6 +1261,7 @@ dailycaller.com##.OUTBRAIN > .ob-widget.CRAB_4
 foxnews.com##.OUTBRAIN > .ob_dual_container.CR_2 > .ob_dual_left > .obpd_header + ul
 dailystar.co.uk,express.co.uk,ok.co.uk##.OUTBRAIN > [class*="AR_"] > .ob-first .ob-p
 dailystar.co.uk,ok.co.uk##.OUTBRAIN > [class*="SB_"] > .ob-first .ob-p
+bizportal.co.il##.OUTBRAIN[data-widget-id="AR_8"] .ob-p
 beaumontenterprise.com,ctnews.com,ctpost.com,greenwichtime.com,newstimes.com,seattlepi.com,sfgate.com,stamfordadvocate.com,timesunion.com##.OUTBRAIN > div[class*="AR_"] > .ob_dual_left
 one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 one.co.il,valeursactuelles.com##.OUTBRAIN[data-widget-id="AR_2"]
@@ -6181,6 +6184,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
+usatoday.com#@#div[id^="ad-position-"]
+usatoday.com#@#.ad-slot
 arcamax.com#@#.adunit
 deadline.com,variety.com,pmcqa.com#@#.admz
 deadline.com,variety.com,pmcqa.com#@#.ad-text
@@ -6666,26 +6671,6 @@ gamesflow.com#@#.iconads
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=60991
 ! Au-ja ads
 @@||au-ja.de/banner/$image,domain=au-ja.de
-!:partner_token=codefund
-!:partner_id=3e9235d2b51bb097
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=61184
-! codefund ads
-||codefund.app/assets/px.js?ch=2
-@@||codefund.app/assets/px.js?ch=1
-@@||codefund.app/properties/*/funder.js$third-party
-@@||codefund.app/properties/*/funder.html?$third-party
-@@||codefund.app^$image,third-party
-@@||codefund.app/impressions/$third-party
-@@||codefund.io/packs/
-@@||codefund.app/packs/
-javascript.info#@##sponsorBar
-! legacy
-@@||codefund.io/scripts/*/embed.js$third-party
-@@||codefund.io/display/$image,third-party
-@@||codefund.io/properties/*/funder.js$third-party
-@@||codefund.io/properties/*/funder.html?$third-party
-@@||codefund.io/impressions/$third-party
 !:partner_token=Polskapress
 !:partner_id=f03836cbf29e2fde
 !:type=partner
@@ -9240,6 +9225,26 @@ slatestarcodex.com#@#.widget_arvins_ad_randomizer
 filezilla-project.org#@##rightad
 filezilla-project.org#@#.TopAd
 filezilla-project.org#@##leftad
+!:partner_token=codefund
+!:partner_id=3e9235d2b51bb097
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=61184
+! codefund ads
+||codefund.app/assets/px.js?ch=2
+@@||codefund.app/assets/px.js?ch=1
+@@||codefund.app/properties/*/funder.js$third-party
+@@||codefund.app/properties/*/funder.html?$third-party
+@@||codefund.app^$image,third-party
+@@||codefund.app/impressions/$third-party
+@@||codefund.io/packs/
+@@||codefund.app/packs/
+javascript.info#@##sponsorBar
+! legacy
+@@||codefund.io/scripts/*/embed.js$third-party
+@@||codefund.io/display/$image,third-party
+@@||codefund.io/properties/*/funder.js$third-party
+@@||codefund.io/properties/*/funder.html?$third-party
+@@||codefund.io/impressions/$third-party
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
 !:partner_id=1771032db7d723d7
 !:type=partner
