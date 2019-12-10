@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NWVrWryqLGoFjfosX6HGtQ
-! Version: 201912100200
+! Checksum: HlFezKYgCgPpGRZwDYY1QQ
+! Version: 201912101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Dec 2019 02:00 UTC
+! Last modified: 10 Dec 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5947,6 +5947,13 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+wyborcza.pl#@##rectangle-splint
+wyborcza.pl#@#.ads-top
+wyborcza.pl#@##ads-1
+wyborcza.pl#@##ads-2
+wyborcza.pl#@##ads-3
+wyborcza.pl#@##ads-4
+wyborcza.pl#@##ads-5
 wtfacts.net,lifeindigo.com,lifeexact.com#@#.ad-content
 wtfacts.net,lifeindigo.com,lifeexact.com#@#.ad-wrapper
 wtfacts.net,lifeindigo.com,lifeexact.com#@#.ad-frame
