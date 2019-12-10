@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0KyEtBurkrZOyXHu60N7pA
-! Version: 201912091400
+! Checksum: JZ6EFwjC1hOVEoCc99ZlJg
+! Version: 201912100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Dec 2019 14:00 UTC
+! Last modified: 10 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5392,15 +5392,6 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 ! hipsthetic.com ads
 @@||impus.tradedoubler.com/imp?type(img)g$image,domain=hipsthetic.com
 @@||vht.tradedoubler.com^$image,domain=hipsthetic.com
-!:partner_token=nextclick.pl
-!:partner_id=8a9fe46d3748f3ab
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=50004
-! Ads by nextclick.pl
-@@||nextclick.pl/widget/widget.recommendation.$script,domain=auto.dziennik.pl|wiadomosci.dziennik.pl|cda.pl|demotywatory.pl|dzienniknarodowy.pl|dziennikwschodni.pl|faktopedia.pl|faktykaliskie.pl|forsal.pl|gorzowianin.com|infoilawa.pl|joemonster.org|krosno112.pl|kuchniaodpodstaw.pl|mistrzowie.org|niewiarygodnie.pl|piekielni.pl|prawo.gazetaprawna.pl|przelom.pl|samequizy.pl|stacktips.pl|tvp.info|waznefakty.pl|webcamera.pl
-@@||nextclick.pl/widget/widget.advertisement.$script,domain=auto.dziennik.pl|wiadomosci.dziennik.pl|cda.pl|demotywatory.pl|dzienniknarodowy.pl|dziennikwschodni.pl|faktopedia.pl|faktykaliskie.pl|forsal.pl|gorzowianin.com|infoilawa.pl|joemonster.org|krosno112.pl|kuchniaodpodstaw.pl|mistrzowie.org|niewiarygodnie.pl|piekielni.pl|prawo.gazetaprawna.pl|przelom.pl|samequizy.pl|stacktips.pl|tvp.info|waznefakty.pl|webcamera.pl
-@@||nextclick.pl/widget/core.js?key=$script,domain=auto.dziennik.pl|wiadomosci.dziennik.pl|cda.pl|demotywatory.pl|dzienniknarodowy.pl|dziennikwschodni.pl|faktopedia.pl|faktykaliskie.pl|forsal.pl|gorzowianin.com|infoilawa.pl|joemonster.org|krosno112.pl|kuchniaodpodstaw.pl|mistrzowie.org|niewiarygodnie.pl|piekielni.pl|prawo.gazetaprawna.pl|przelom.pl|samequizy.pl|stacktips.pl|tvp.info|waznefakty.pl|webcamera.pl
-auto.dziennik.pl,wiadomosci.dziennik.pl,cda.pl,demotywatory.pl,dzienniknarodowy.pl,dziennikwschodni.pl,faktopedia.pl,faktykaliskie.pl,forsal.pl,gorzowianin.com,infoilawa.pl,joemonster.org,krosno112.pl,kuchniaodpodstaw.pl,mistrzowie.org,niewiarygodnie.pl,piekielni.pl,prawo.gazetaprawna.pl,przelom.pl,samequizy.pl,stacktips.pl,tvp.info,waznefakty.pl,webcamera.pl#@#.ncwAdCommon
 !:partner_token=marketharborough.com
 !:partner_id=fa1c5c7b79984b28
 !:type=partner
@@ -6833,6 +6824,8 @@ digireality.cz#@#[id^="aswift"]
 @@||coincodex.com^$generichide
 coingecko.com#@#.ad-spacer
 coingecko.com#@#.img_ad
+livecoinwatch.com#@#.ads-top
+livecoinwatch.com#@#.ads-bottom
 !:partner_token=Microsoft
 !:partner_id=c7cdd2fa8a3d0b2a
 !:type=partner
