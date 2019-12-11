@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HlFezKYgCgPpGRZwDYY1QQ
-! Version: 201912101400
+! Checksum: XyYwpcxOQ/Hv5x21K4JGKg
+! Version: 201912110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Dec 2019 14:00 UTC
+! Last modified: 11 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1188,6 +1188,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||whizzco.com/demand/v1/rtads^$xmlhttprequest,domain=sheknows.com
 @@||whizzco.com/scripts/widget/widget_sm.js$domain=sheknows.com
 @@||20mn.fr^*/tc_20Minutes_ads_desktop.js$domain=20minutes.fr
+e-sante.fr#@##block-gc-ad-bloc-centre-1
+e-sante.fr#@#.block-gc-ad
 dlnowsoft.com#@#.adframe
 people.com#@##adBottom
 orange.fr#@##commercial-links
@@ -5947,6 +5949,7 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+freshedits.com,historybyday.com,livingmgz.com#@#.right_side_ads
 wyborcza.pl#@##rectangle-splint
 wyborcza.pl#@#.ads-top
 wyborcza.pl#@##ads-1
@@ -6112,7 +6115,7 @@ topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topix
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||cdn.pubguru.com/pg.js$script,domain=wuxiaworld.com
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
-@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
+@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
 @@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|autogidas.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
