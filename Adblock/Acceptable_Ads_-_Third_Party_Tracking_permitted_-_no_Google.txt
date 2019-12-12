@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o5+n2bH4z+uxp+VW2iYvtg
-! Version: 201912111400
+! Checksum: TbR44GBin1L8S7+0upEV/A
+! Version: 201912120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Dec 2019 14:00 UTC
+! Last modified: 12 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6943,6 +6943,19 @@ tsargrad.tv#@#.article__banner
 @@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
 @@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
 @@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
+!:partner_token=BurdaForward
+!:partner_id=7427b39123282e69
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75242
+! Ads by BurdaForward
+@@||acdn.adnxs.com^*&pub_id=1454503$document,subdocument,domain=focus.de
+@@||ad-srv.net^$document,subdocument,script,domain=focus.de
+@@||bf-ad.net/adengine^$script,domain=focus.de
+@@||adnxs.com/ast^$script,domain=focus.de
+@@||adnxs.com/ut^$xmlhttprequest,domain=focus.de
+@@||adnxs.com/creative^$image,domain=focus.de
+||focus.de/px.gif?ch=2$domain=focus.de
+@@||focus.de/px.gif?ch=1$domain=focus.de
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771

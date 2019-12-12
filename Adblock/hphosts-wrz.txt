@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Egk8w/S05LQYRegGqpO63g
-! Version: 201912111400
+! Checksum: IJFPK+u9kfGOaLP4eW2Yew
+! Version: 201912120200
 ! Title: HP Hosts wrz list
-! Last modified: 11 Dec 2019 14:00 UTC
+! Last modified: 12 Dec 2019 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -873,6 +873,7 @@
 ||snakebytewarez.net^
 ||snowtor.com^
 ||soft4all.info^
+||soft98.ir^
 ||softasm.com^
 ||softlinkers.org^
 ||softoemdownloadcheapg.services^
@@ -958,7 +959,6 @@
 ||theflashwarez.com^
 ||thehotfix.net^
 ||theisozone.com^
-||thelinuxcode.com^
 ||thepiratebay.am^
 ||thepiratebay.ee^
 ||thepiratebay.fm^
@@ -1841,6 +1841,7 @@
 ||www.snakebytewarez.net^
 ||www.snowtor.com^
 ||www.soft4all.info^
+||www.soft98.ir^
 ||www.softasm.com^
 ||www.softlinkers.org^
 ||www.softoemdownloadcheapg.services^
@@ -1920,7 +1921,6 @@
 ||www.theflashwarez.com^
 ||www.thehotfix.net^
 ||www.theisozone.com^
-||www.thelinuxcode.com^
 ||www.thepiratebay.am^
 ||www.thepiratebay.ee^
 ||www.thepiratebay.fm^
