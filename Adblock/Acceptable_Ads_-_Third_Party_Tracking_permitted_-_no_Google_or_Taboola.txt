@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Lj+6febT0kjHHwzIqRj9kw
-! Version: 201912121400
+! Checksum: iPIi0IBAf20fo84ayQwqZA
+! Version: 201912130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 12 Dec 2019 14:00 UTC
+! Last modified: 13 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5740,6 +5740,9 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
 @@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
 upbeatnews.com,americanupbeatnews.com,mysteryinside.com#@#.proper-ad-unit
+usatoday.com#@#.poster-ad-asset-module
+usatoday.com#@#.leaderboard-ad-module
+usatoday.com#@#.partner-overlay-top-ad
 woodmagazine.com#@#.header-ad
 woodmagazine.com#@#.sidebar-ads
 geeksaresexy.net#@#.ad-160
