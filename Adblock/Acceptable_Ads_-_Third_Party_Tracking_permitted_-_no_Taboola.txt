@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uJSUsqbkId5/QeUeKtOqqA
-! Version: 201912131400
+! Checksum: Hr71N8WheFnkShJpVtnS2Q
+! Version: 201912140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 13 Dec 2019 14:00 UTC
+! Last modified: 14 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2324,7 +2324,7 @@ theweek.com#@#.sr-in-feed-ads
 daily-goals.com#@#.sticky-ad-container
 ajc.com#@#.story-ad-container
 libertatea.ro#@#.strawberry-ads
-naldotech.com,ravejungle.com,thewalkingdead.com.br,wackyy.org#@#.td-a-rec-id-custom_ad_1
+otakukart.com,naldotech.com,ravejungle.com,thewalkingdead.com.br,wackyy.org#@#.td-a-rec-id-custom_ad_1
 geiletore.de,qooqootv.pro,turkish-football.com#@#.td-a-rec-id-custom_ad_2
 indigodergisi.com,stopmensonges.com#@#.td-a-rec-id-custom_ad_3
 darkhorizons.com,tops.easyviajar.com,tops.easyvoyage.co.uk,tops.easyvoyage.com,tops.easyvoyage.de#@#.td-a-rec-id-custom_ad_4
@@ -2362,7 +2362,7 @@ radaronline.com,thechive.com#@#div[id][class] > [class] > a[target][href]:first-
 vol.at#@#div[id^="AdContainer_"]
 elblog.com,geargods.net#@#div[id^="MarketGid"]
 dinamani.com,newindianexpress.com#@#div[id^="ad_script_"]
-cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,medicaregranny.com,militarybud.com,misspennystocks.com,mortgageafterlife.com,psychicmonday.com,refinancegold.com,therapyjoker.com,tradingblvd.com,tummytuckhipo.com,weightlossgroove.com#@#div[id^="advads-"]
+thesportsdrop.com,cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,medicaregranny.com,militarybud.com,misspennystocks.com,mortgageafterlife.com,psychicmonday.com,refinancegold.com,therapyjoker.com,tradingblvd.com,tummytuckhipo.com,weightlossgroove.com#@#div[id^="advads-"]
 cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,mortgageafterlife.com,refinancegold.com,therapyjoker.com,tradingblvd.com#@#div[id^="advads_"]
 seloger.com#@#div[id^="div-gpt-ad"]
 sport5.co.il##div[id^="google_ads_iframe_"]
@@ -8843,46 +8843,6 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74743
 ! moviescout.org ads
 @@||g.doubleclick.net/pagead/ads?client=ca-pub-5309662224863144^$subdocument,document,domain=moviescout.org
-!:partner_token=lentainform.com
-!:partner_id=8068c9a6f3a1692d
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
-! Lentainform.com ads
-! @@||yandex.net/get-direct/$image,domain=lentainform.com
-! @@||an.yandex.ru/meta/$domain=lentainform.com
-! @@||an.yandex.ru/system/context.js$domain=lentainform.com
-! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
-@@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
-@@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
-@@||jsc.lentainform.com/s/t/stan.kz.672000.js$domain=stan.kz
-@@||jsc.lentainform.com/i/z/iz.ru.678965.js$domain=iz.ru
-@@||jsc.lentainform.com/t/s/tsargrad.tv.690231.js$domain=tsargrad.tv
-@@||jsc.lentainform.com/w/d/wday.ru.689844.js$domain=wday.ru
-@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#a[href*="lentainform.com/pnews/"]
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#[id*="ScriptRoot"]
-@@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
-@@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
-@@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
-@@||lentainform.com/nr$csp=sandbox allow-same-origin;
-lentainform.com#@#.left_column_news ~ *
-lentainform.com#@#.logo-text ~ .menu-category
-lentainform.com#@#[id*="ScriptRoot"]
-lentainform.com#@#[id*="MarketGid"]
-lentainform.com#@#a[href^="//www.mgid.com/"]
-lentainform.com#@#div[id^="M"][id*="Composite"]
-@@||mgid.com^$domain=lentainform.com
-@@||mgid.com^$popup,domain=lentainform.com|tsargrad.tv
-7days.ru#@#.b-section_content_partners-news
-tsargrad.tv#@#.article__banner
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
