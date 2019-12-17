@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tgLRFxCTMrCyA6Ag/3sRQw
-! Version: 201912161400
+! Checksum: Rybvdl4BAGNHthccrMfu8w
+! Version: 201912170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Dec 2019 14:00 UTC
+! Last modified: 17 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6202,6 +6202,8 @@ itstillworks.com#@#.main-ad
 itstillworks.com#@#.desktop-ad
 itstillworks.com#@#.adcontainer
 itstillworks.com#@#.leaderboard-ad
+itstillworks.com#@##inline-ad
+itstillworks.com#@#.inline-ad
 slader.com#@#.ad.inner	
 slader.com#@#.ads-to-hide
 !:partner_token=Bodis
