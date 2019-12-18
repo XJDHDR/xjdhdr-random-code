@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1vzUwJACRJRD1obShex0YQ
-! Version: 201912170200
+! Checksum: 2NqGwY7zmY85e3xsbWzJcQ
+! Version: 201912180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Dec 2019 02:00 UTC
+! Last modified: 18 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6387,6 +6387,8 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading +
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .modal__overlay + .ad--displayed
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displayed
+softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content-wrapper
+@@||sftcdn.net/acmp^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
 !
 !
 @@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
@@ -6698,6 +6700,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65559
 ! Habrahabr LLC ads
+habr.com#@#.sidebar_right_ad
 !:partner_token=express-novosti.ru
 !:partner_id=be2745a8380cdcf3
 !:type=partner
@@ -6868,6 +6871,11 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 @@||adnxs.com/creative^$image,domain=focus.de
 ||focus.de/px.gif?ch=2$domain=focus.de
 @@||focus.de/px.gif?ch=1$domain=focus.de
+!:partner_token=cienciaglobal.com
+!:partner_id=d1223de66a2fde01
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75298
+! cienciaglobal.com ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
