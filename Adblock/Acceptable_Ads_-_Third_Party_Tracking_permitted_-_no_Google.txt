@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NbxkLSR8fDuIjaEIKVnAXQ
-! Version: 201912200200
+! Checksum: UVp3Ud0CCKQA0X9rGIHnFA
+! Version: 201912201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Dec 2019 02:00 UTC
+! Last modified: 20 Dec 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6906,6 +6906,46 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74743
 ! moviescout.org ads
+!:partner_token=lentainform.com
+!:partner_id=8068c9a6f3a1692d
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
+! Lentainform.com ads
+! @@||yandex.net/get-direct/$image,domain=lentainform.com
+! @@||an.yandex.ru/meta/$domain=lentainform.com
+! @@||an.yandex.ru/system/context.js$domain=lentainform.com
+! lentainform.com#@#div[id^="yandex_rtb"]
+@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
+@@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
+@@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
+@@||jsc.lentainform.com/s/t/stan.kz.672000.js$domain=stan.kz
+@@||jsc.lentainform.com/i/z/iz.ru.678965.js$domain=iz.ru
+@@||jsc.lentainform.com/t/s/tsargrad.tv.690231.js$domain=tsargrad.tv
+@@||jsc.lentainform.com/w/d/wday.ru.689844.js$domain=wday.ru
+@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#a[href*="lentainform.com/pnews/"]
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#[id*="ScriptRoot"]
+@@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
+@@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
+@@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
+@@||lentainform.com/nr$csp=sandbox allow-same-origin;
+lentainform.com#@#.left_column_news ~ *
+lentainform.com#@#.logo-text ~ .menu-category
+lentainform.com#@#[id*="ScriptRoot"]
+lentainform.com#@#[id*="MarketGid"]
+lentainform.com#@#a[href^="//www.mgid.com/"]
+lentainform.com#@#div[id^="M"][id*="Composite"]
+@@||mgid.com^$domain=lentainform.com
+@@||mgid.com^$popup,domain=lentainform.com|tsargrad.tv
+7days.ru#@#.b-section_content_partners-news
+tsargrad.tv#@#.article__banner
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
@@ -6923,9 +6963,7 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 @@||acdn.adnxs.com^*&pub_id=1454503$document,subdocument,domain=focus.de
 @@||ad-srv.net^$document,subdocument,script,domain=focus.de
 @@||bf-ad.net/adengine^$script,domain=focus.de
-@@||adnxs.com/ast^$script,domain=focus.de
-@@||adnxs.com/ut^$xmlhttprequest,domain=focus.de
-@@||adnxs.com/creative^$image,domain=focus.de
+@@||adnxs.com^$domain=focus.de
 ||focus.de/px.gif?ch=2$domain=focus.de
 @@||focus.de/px.gif?ch=1$domain=focus.de
 !:partner_token=cienciaglobal.com
