@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yvgEqsF3gVcHoohAnYBK7A
-! Version: 201912201400
+! Checksum: xSSucaMEVGbaBpREQUzhtA
+! Version: 201912210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Dec 2019 14:00 UTC
+! Last modified: 21 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1420,6 +1420,7 @@ t-online.de###Tsib > DIV[onfocus="A('mp=TopPartner')"]
 t-online.de#@##Tcontboxi + #Tgboxf
 t-online.de#@#.Tpcpx + #Tasf > div[id][style]
 t-online.de#@##Tall > .Tpcpx + #Tasf
+@@||ad*.adfarm1.adition.com/banner?sid=$image,domain=t-online.de
 @@||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 @@||ads.newtention.net/ads?$popup,domain=t-online.de
 @@||track.adform.net/C/$popup,domain=t-online.de
@@ -6918,6 +6919,49 @@ tsargrad.tv#@#.article__banner
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75298
 ! cienciaglobal.com ads
+!:partner_token=MGID Inc.
+!:partner_id=2c0d4acbb6c459cd
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75345
+! Ads by MGID
+@@||jsc.mgid.com/g/o/goppresidential.com.372965.js$domain=goppresidential.com
+@@||jsc.mgid.com/g/o/goppresidential.com.104436.js$domain=goppresidential.com
+@@||jsc.mgid.com/n/e/newest.dailyconservative.com.382327.js$domain=dailyconservative.com
+@@||jsc.mgid.com/r/e/renewedright.com.379813.js$domain=renewedright.com
+@@||jsc.mgid.com/w/h/whatfinger.com.218421.js$domain=whatfinger.com
+@@||jsc.mgid.com/w/h/whatfinger.com.184242.js$domain=whatfinger.com
+@@||jsc.mgid.com/m/e/medicaldaily.com.308258.js$domain=medicaldaily.com
+@@||jsc.mgid.com/l/a/latintimes.com.319781.js$domain=latintimes.com
+@@||jsc.mgid.com/i/b/ibtimes.com.307820.js$domain=ibtimes.com
+@@||jsc.mgid.com/p/o/politikstube.com.224019.js$domain=politikstube.com
+@@||jsc.mgid.com/p/o/politikstube.com.224016.js$domain=politikstube.com
+@@||jsc.mgid.com/g/i/girlsaskguys.com.382583.js$domain=girlsaskguys.com
+@@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||s-img.mgid.com/g/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||cdn.mgid.com/images/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||cdn.mgid.com/js/wglibs/$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||cm.mgid.com^$script,image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||mgid.com/ghits/*/777/$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||cm.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||c.mgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||c.marketgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+@@||autocounter.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#[id*="ScriptRoot"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#[id*="MarketGid"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#div[id^="M"][id*="Composite"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#a[href^="//www.mgid.com/"]
+politikstube.com#@#div[class*="td-a-rec-id-"]
+politikstube.com#@#.td-a-rec
+girlsaskguys.com#@#.ad-slot
+!:partner_token=Lemonde.fr
+!:partner_id=e6ee3ec59227327c
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75320
+! lemonde.fr
+||lemde.fr/vendor/px.js?ch=2$domain=lemonde.fr
+@@||lemde.fr/vendor/px.js?ch=1$domain=lemonde.fr
+@@||lemde.fr/glmaw.$script,domain=lemonde.fr
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -8834,15 +8878,15 @@ yahoo.com#@#.uba-container
 yahoo.com#@#.billboard-ads
 yahoo.com#@#.darla
 ! Yahoo Mail
-@@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
-@@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
-||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
-@@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
-@@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
-@@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
-mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
-mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
-mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
+! @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
+! @@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
+! ||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
+! @@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
+! @@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
+! @@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
+! mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
+! mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
+! mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner
