@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: V00cMFkhOEIC6XMb01m5Pw
-! Version: 201912241400
+! Checksum: rpi+jnORW7byo66vWMkoYw
+! Version: 201912250200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 24 Dec 2019 14:00 UTC
+! Last modified: 25 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -10992,7 +10992,7 @@ seattletimes.com,boredpanda.com#@#.dfp-ad
 seattletimes.com#@##ad-flex-top
 seattletimes.com#@##ad-right-top
 seattletimes.com#@##ad-bottom
-seattletimes.com#@#.ad
+seattletimes.com,billboard.com,hollywoodreporter.com#@#.ad
 seattletimes.com#@#.footer-ad
 boredpanda.com#@#.adsbox
 boredpanda.com,agame.com#@#.pub_300x250
@@ -11015,6 +11015,7 @@ mashable.com#@##sticky-spacer
 washingtontimes.com#@#.ad-slot
 billboard.com,hollywoodreporter.com#@#.dfp-ad
 billboard.com,hollywoodreporter.com#@#.ad_desktop
+billboard.com,hollywoodreporter.com#@#.ad-container
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
