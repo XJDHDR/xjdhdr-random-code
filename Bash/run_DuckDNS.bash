@@ -8,16 +8,32 @@ then
 	exit 1
 fi
 
-sHostIPaddr=$(dig TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed -e 's/^"//' -e 's/"$//')
-sDuckDnsIPaddr=$(dig +short xjdhdr-google-cloud.duckdns.org)
-
+# Check and update DuckDNS's IPv4 address record.
+sHostIPaddr=$(dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed -e 's/^"//' -e 's/"$//')
+sDuckDnsIPaddr=$(dig -4 +short xjdhdr-google-cloud.duckdns.org)
 if [ "$sHostIPaddr" != "$sDuckDnsIPaddr" ]
 then
 	sDomain=$(cat "$HOME/$1")
 	sToken=$(cat "$HOME/$2")
-	curl -k  "https://www.duckdns.org/update?domains=$sDomain&token=$sToken&ip=" 2>'/tmp/stderr-contents-run_DuckDNS.txt'
+	curl -k "https://www.duckdns.org/update?domains=$sDomain&token=$sToken&ip=$sHostIPaddr" 2>'/tmp/stderr-contents-run_DuckDNS.txt'
 fi
 
+# Check and update DuckDNS's IPv6 address record.
+sHostIPaddr=$(dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com 2>'/dev/null' | sed -e 's/^"//' -e 's/"$//')
+iDigExitCode=$?
+if [ "$iDigExitCode" == 0 ]
+then
+	sDuckDnsIPaddr=$(dig -6 +short xjdhdr-google-cloud.duckdns.org)
+	if [ "$sHostIPaddr" != "$sDuckDnsIPaddr" ]
+	then
+		sDomain=$(cat "$HOME/$1")
+		sToken=$(cat "$HOME/$2")
+		curl -k "https://www.duckdns.org/update?domains=$sDomain&token=$sToken&ipv6=$sHostIPaddr" \
+			2>'/tmp/stderr-contents-run_DuckDNS.txt'
+	fi
+fi
+
+# Add any errors that occured during the update process to the error log.
 if [ -f '/tmp/stderr-contents-run_DuckDNS.txt' ]
 then
 	errors+=$(cat '/tmp/stderr-contents-run_DuckDNS.txt')
