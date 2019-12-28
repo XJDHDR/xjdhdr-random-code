@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dUAmch8iGtR27pXFq/0UBg
-! Version: 201912271400
+! Checksum: HtahKSwcdPYsYDoPRi/0hw
+! Version: 201912280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 Dec 2019 14:00 UTC
+! Last modified: 28 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6109,6 +6109,8 @@ jerusalemonline.com#@#div[style="width:300px; height:250px;"]
 jerusalemonline.com#@#div[style="width:300px; height:600px;"]
 jerusalemonline.com#@#div > iframe:first-child
 weszlo.com#@#.top-adw
+britannica.com#@#.toolbar-ad
+convertfiles.com#@#.advertisement_box
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@#.sgAd
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScGp160x600
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
@@ -6135,16 +6137,19 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
+@@||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
+@@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
 usatoday.com#@#div[id^="ad-position-"]
 usatoday.com#@#.ad-slot
 arcamax.com#@#.adunit
-deadline.com,variety.com,pmcqa.com#@#.admz
-deadline.com,variety.com,pmcqa.com#@#.ad-text
-deadline.com,variety.com,pmcqa.com#@#.text-ad
-pmcqa.com,deadline.com,variety.com#@#.c-ad
+footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com,deadline.com,variety.com,pmcqa.com#@#.admz
+footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com,deadline.com,variety.com,pmcqa.com#@#.ad-text
+footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com,deadline.com,variety.com,pmcqa.com#@#.text-ad
+footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com#@#.ad-widget
+footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com,pmcqa.com,deadline.com,variety.com#@#.c-ad
 radiopaedia.org#@#.ad-container
 itstillworks.com#@#.side-ad
 itstillworks.com#@#.main-ad
@@ -6155,6 +6160,19 @@ itstillworks.com#@##inline-ad
 itstillworks.com#@#.inline-ad
 slader.com#@#.ad.inner	
 slader.com#@#.ads-to-hide
+bgr.com#@#.ad-leaderboard
+indiewire.com#@#.generic-ad-module
+indiewire.com#@#.iw-leaderboard-ad
+indiewire.com#@#[style] > iframe
+indiewire.com#@#div > iframe:first-child
+indiewire.com#@#iframe[name][style]
+indiewire.com#@#iframe[style][src]
+indiewire.com#@#iframe[style][scrolling]
+indiewire.com#@#iframe[marginheight]
+indiewire.com#@#iframe[marginwidth]
+indiewire.com#@#[style] > [scrolling]
+indiewire.com#@#[style*="background-image:"]
+indiewire.com#@#:-abp-properties(base64)
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner

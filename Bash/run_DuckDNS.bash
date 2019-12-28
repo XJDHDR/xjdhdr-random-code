@@ -9,8 +9,8 @@ then
 fi
 
 # Check and update DuckDNS's IPv4 address record.
-sHostIPaddr=$(dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com | sed -e 's/^"//' -e 's/"$//')
-sDuckDnsIPaddr=$(dig -4 +short xjdhdr-google-cloud.duckdns.org)
+sHostIPaddr=$(dig +short myip.opendns.com A @resolver1.opendns.com)
+sDuckDnsIPaddr=$(dig +short xjdhdr-google-cloud.duckdns.org A @resolver1.opendns.com)
 if [ "$sHostIPaddr" != "$sDuckDnsIPaddr" ]
 then
 	sDomain=$(cat "$HOME/$1")
@@ -19,11 +19,10 @@ then
 fi
 
 # Check and update DuckDNS's IPv6 address record.
-sHostIPaddr=$(dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com 2>'/dev/null' | sed -e 's/^"//' -e 's/"$//')
-iDigExitCode=$?
-if [ "$iDigExitCode" == 0 ]
+sHostIPaddr=$(dig +short myip.opendns.com AAAA @resolver1.opendns.com)
+if [ "$sHostIPaddr" != "" ]
 then
-	sDuckDnsIPaddr=$(dig -6 +short xjdhdr-google-cloud.duckdns.org)
+	sDuckDnsIPaddr=$(dig +short xjdhdr-google-cloud.duckdns.org AAAA @resolver1.opendns.com)
 	if [ "$sHostIPaddr" != "$sDuckDnsIPaddr" ]
 	then
 		sDomain=$(cat "$HOME/$1")
@@ -41,6 +40,7 @@ then
 fi
 if [ -n "$errors" ]
 then
+	sDateTime=$(date -u +"%d %b %Y %H:%M")
         printf 'run_DuckDNS.bash:\n%s UTC\n'"$errors"'\n\n' "$sDateTime" >> '/home/error_reports_to_email.txt'
 fi
 
