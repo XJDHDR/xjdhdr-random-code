@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1Rc/gZUR1cfSEebCZX3Ewg
-! Version: 201912281400
+! Checksum: zLi/zIiakc4+D8ARHDlxxw
+! Version: 201912290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Dec 2019 14:00 UTC
+! Last modified: 29 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6258,6 +6258,7 @@ km.ru#@#.pane-advertisment
 provapes.ru#@#.flat_ads_block
 masloved.ru#@#.heatmapthemead_ad_widget
 doctor-neurologist.ru#@#div[id^="advads-"]
+txnews.ru#@#.myAds
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
