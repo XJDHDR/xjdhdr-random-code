@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s+GDGt4TvvKuuPnLdY4NeQ
-! Version: 201912291400
+! Checksum: QmxGcADYS3oCfKiqVPd++g
+! Version: 201912300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Dec 2019 14:00 UTC
+! Last modified: 30 Dec 2019 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6259,6 +6259,14 @@ provapes.ru#@#.flat_ads_block
 masloved.ru#@#.heatmapthemead_ad_widget
 doctor-neurologist.ru#@#div[id^="advads-"]
 txnews.ru#@#.myAds
+pogoda.mail.ru##div[data-lazy-block-id]
+auto.mail.ru#@#.mailru-visibility-check-counter + div
+pogoda.mail.ru#@#.mailru-visibility-check
+pogoda.mail.ru#@#div[data-adq-id]
+@@||relap.io^$script,xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
+@@||cdn.relap.io^$image,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
+@@||ad.mail.ru/adp^$xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
+@@||ad.mail.ru^adq^$script,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
