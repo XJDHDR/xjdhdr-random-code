@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QmxGcADYS3oCfKiqVPd++g
-! Version: 201912300200
+! Checksum: zBxyv+kRzWvEZ02TvvoR0Q
+! Version: 201912301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Dec 2019 02:00 UTC
+! Last modified: 30 Dec 2019 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4020,6 +4020,8 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 @@||revcontent.com/api/demand/?w=115503^$domain=pluralist.com
 @@||revcontent.com/api/delivery/?w=115478^$domain=conservativeflash.com
 @@||revcontent.com/api/demand/?w=115478^$domain=conservativeflash.com
+@@||revcontent.com/api/delivery/?w=115883^$domain=disrn.com
+@@||revcontent.com/api/demand/?w=115883^$domain=disrn.com
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
