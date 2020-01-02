@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9m9MCLirB7TwS99xiM3Hkw
-! Version: 202001020200
+! Checksum: kkk3rI7kf8DpRzu2sKwOAQ
+! Version: 202001021400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Jan 2020 02:00 UTC
+! Last modified: 02 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1263,7 +1263,6 @@ dailycaller.com##.OUTBRAIN > .ob-widget.CRAB_4
 foxnews.com##.OUTBRAIN > .ob_dual_container.CR_2 > .ob_dual_left > .obpd_header + ul
 dailystar.co.uk,express.co.uk,ok.co.uk##.OUTBRAIN > [class*="AR_"] > .ob-first .ob-p
 dailystar.co.uk,ok.co.uk##.OUTBRAIN > [class*="SB_"] > .ob-first .ob-p
-bizportal.co.il##.OUTBRAIN[data-widget-id="AR_8"] .ob-p
 beaumontenterprise.com,ctnews.com,ctpost.com,greenwichtime.com,newstimes.com,seattlepi.com,sfgate.com,stamfordadvocate.com,timesunion.com##.OUTBRAIN > div[class*="AR_"] > .ob_dual_left
 one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 one.co.il,valeursactuelles.com##.OUTBRAIN[data-widget-id="AR_2"]
@@ -6175,6 +6174,13 @@ indiewire.com#@#iframe[marginwidth]
 indiewire.com#@#[style] > [scrolling]
 indiewire.com#@#[style*="background-image:"]
 indiewire.com#@#:-abp-properties(base64)
+pmcqa.com#@#.header-top-ad
+pmcqa.com#@#.ad-leaderboard
+pmcqa.com#@#.admz
+pmcqa.com#@#.ad-text
+pmcqa.com#@#.text-ad
+pmcqa.com#@#.ad-widget
+pmcqa.com#@#.c-ad
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
