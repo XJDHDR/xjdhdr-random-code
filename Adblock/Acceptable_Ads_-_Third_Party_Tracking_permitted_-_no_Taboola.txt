@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jt/gB4YjkYZQRH4VGfJZPg
-! Version: 202001030200
+! Checksum: ymJUHA/CR+TukqT3v7iOoQ
+! Version: 202001031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 03 Jan 2020 02:00 UTC
+! Last modified: 03 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -11053,6 +11053,8 @@ washingtontimes.com#@#.ad-slot
 billboard.com,hollywoodreporter.com#@#.dfp-ad
 billboard.com,hollywoodreporter.com#@#.ad_desktop
 billboard.com,hollywoodreporter.com#@#.ad-container
+billboard.com#@#.rail-ad
+billboard.com#@#.ad-holder
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
