@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m5qKaw1btRFvU/nuCLSvCw
-! Version: 202001021400
+! Checksum: xRChHUo3GeHeBGm1SW7StA
+! Version: 202001030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Jan 2020 14:00 UTC
+! Last modified: 03 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5796,6 +5796,9 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||bt.wikia.com^$document,subdocument,domain=wikia.com
 @@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
 upbeatnews.com,americanupbeatnews.com,mysteryinside.com#@#.proper-ad-unit
+fandom.com,gamepedia.com,muthead.com#@#.wikia-ad
+fandom.com,gamepedia.com,muthead.com#@#.gpt-ad
+gamepedia#@#.footer-ad
 usatoday.com#@#.poster-ad-asset-module
 usatoday.com#@#.leaderboard-ad-module
 usatoday.com#@#.partner-overlay-top-ad
@@ -6267,7 +6270,6 @@ provapes.ru#@#.flat_ads_block
 masloved.ru#@#.heatmapthemead_ad_widget
 doctor-neurologist.ru#@#div[id^="advads-"]
 txnews.ru#@#.myAds
-pogoda.mail.ru##div[data-lazy-block-id]
 auto.mail.ru#@#.mailru-visibility-check-counter + div
 pogoda.mail.ru#@#.mailru-visibility-check
 pogoda.mail.ru#@#div[data-adq-id]
