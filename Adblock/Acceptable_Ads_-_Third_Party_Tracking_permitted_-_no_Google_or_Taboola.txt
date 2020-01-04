@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QudMAqFTFoxwF8a3i8nFag
-! Version: 202001031400
+! Checksum: FPwL44uOQgv4LmLG5RpWcw
+! Version: 202001040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Jan 2020 14:00 UTC
+! Last modified: 04 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1660,6 +1660,12 @@ thenoob.net#@#.adinjwidget
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
+@@||projectagora.net/libs/prebid.js$domain=kosovarja-ks.com
+@@||ads.projectagoraservices.com/?id=4805^$script,domain=kosovarja-ks.com
+@@||twpasol.com/c/light-dark.js$domain=light-dark.net
+@@||projectagoralibs.com/libs/projectagora.min.js$domain=light-dark.net
+krstarica.com#@#.bsac-container
+krstarica.com#@#.bsac
 usatoday.com#@#.gnt_tb
 usatoday.com#@#.gnt_tbr
 hockeyfights.com#@#.vuukle-ads
@@ -5349,7 +5355,7 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=50036
 ! marketharborough.com ads
-!:partner_token=Fotostrana
+!:partner_token=AdMediator
 !:partner_id=5d005f533439b918
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=50097
