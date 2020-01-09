@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uhv07pWdAkin6VxreA61Bg
-! Version: 202001090200
+! Checksum: +KxhPIJ+uOFWt1AzN/P+gg
+! Version: 202001091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 09 Jan 2020 02:00 UTC
+! Last modified: 09 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6155,6 +6155,10 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
+buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
+buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
+buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
+buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
 usatoday.com#@#div[id^="ad-position-"]
 usatoday.com#@#.ad-slot
 arcamax.com#@#.adunit
@@ -7366,6 +7370,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+legacy.com#@#.NGOLocalFooterAd
 searchenginejournal.com#@#.adv-label
 motor1.com#@#.apb
 motor1.com#@#.ap
