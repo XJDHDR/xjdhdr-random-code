@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uR7N5YLI5MrzPn3VOfYW4A
-! Version: 202001100200
+! Checksum: A4N1T6oU74tt/hICk9MP+g
+! Version: 202001101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Jan 2020 02:00 UTC
+! Last modified: 10 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1188,6 +1188,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||whizzco.com/demand/v1/rtads^$xmlhttprequest,domain=sheknows.com
 @@||whizzco.com/scripts/widget/widget_sm.js$domain=sheknows.com
 @@||20mn.fr^*/tc_20Minutes_ads_desktop.js$domain=20minutes.fr
+@@||adhese.com/json/sl_llb_international_europe_-THINARTICLE_CENTER/$xmlhttprequest,domain=lalibre.be
 e-sante.fr#@##block-gc-ad-bloc-centre-1
 e-sante.fr#@#.block-gc-ad
 dlnowsoft.com#@#.adframe
@@ -6208,6 +6209,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
