@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BjrM8keAcCbpmGq4CN5gRw
-! Version: 202001130200
+! Checksum: XVHgk64rPGf2uV4PsILhZg
+! Version: 202001131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jan 2020 02:00 UTC
+! Last modified: 13 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4541,6 +4541,9 @@ fabcrusaders.com#@##ad_text:not(textarea)
 @@||dianomi.com/smartads.epl?id=3876$subdocument,domain=shortman.com.au
 @@||dianomi.com/smartads.epl?id=3865$subdocument,domain=shortman.com.au
 @@||dianomi.com/smartads.epl?id=3864$subdocument,domain=shortman.com.au
+@@||dianomi.com/smartads.epl?id=2726^$subdocument,domain=marketwatch.com
+@@||dianomi.com/cgi-bin/context.pl?id=$domain=marketwatch.com
+@@||dianomi.com/js/contextfeed.js$domain=marketwatch.com
 finews.asia#@#div[id^="div-gpt-ad"]
 seekingalpha.com#@##source-ad-native-sticky-wrapper
 seekingalpha.com###article-right-slot-1
@@ -6161,6 +6164,9 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+starmagazine.com#@#.right-ads
+starmagazine.com#@#.bottom-ads
+slickdeals.com#@##bottomDDAd
 usatoday.com#@#div[id^="ad-position-"]
 usatoday.com#@#.ad-slot
 arcamax.com#@#.adunit
