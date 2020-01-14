@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XVHgk64rPGf2uV4PsILhZg
-! Version: 202001131400
+! Checksum: 5DAPZwbQcviX9G8/qX+mTw
+! Version: 202001140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jan 2020 14:00 UTC
+! Last modified: 14 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6283,7 +6283,6 @@ system-kanban.pl#@##reklama
 freenet.de#@##frnAdSky
 freenet.de#@##frnBannerAd
 t-online.de#@##Tadspacehead
-t-online.de#@##vmsky
 t-online.de#@##Tlibelle
 t-online.de#@#.ad-marker
 autozeitung.de#@#.adColumn
