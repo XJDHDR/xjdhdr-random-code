@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5DAPZwbQcviX9G8/qX+mTw
-! Version: 202001140200
+! Checksum: N664iOXGbrluEYrWMNhxhw
+! Version: 202001141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 14 Jan 2020 02:00 UTC
+! Last modified: 14 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6164,6 +6164,11 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+intouchweekly.com#@#.ad-container
+j-14.com#@#.ad-leaderboard
+goldderby.com#@#.ad-text
+goldderby.com#@#.admz
+goldderby.com#@#.header-ad
 starmagazine.com#@#.right-ads
 starmagazine.com#@#.bottom-ads
 slickdeals.com#@##bottomDDAd
@@ -6183,7 +6188,7 @@ itstillworks.com#@#.adcontainer
 itstillworks.com#@#.leaderboard-ad
 itstillworks.com#@##inline-ad
 itstillworks.com#@#.inline-ad
-slader.com#@#.ad.inner	
+slader.com#@#.ad.inner
 slader.com#@#.ads-to-hide
 bgr.com#@#.ad-leaderboard
 indiewire.com#@#.generic-ad-module
@@ -6920,7 +6925,7 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
+@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru
 @@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
 @@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
 @@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
