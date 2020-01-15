@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t2gC+IhkKfi1Vh1Ul4f7yQ
-! Version: 202001150200
+! Checksum: x3wAbMvtz+YkSf2pMENyLg
+! Version: 202001151400
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 15 Jan 2020 02:00 UTC
+! Last modified: 15 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -390,6 +390,8 @@ javascript.info#@##sponsorBar
 @@||r.search.yahoo.com/_ylt=*;_ylu=*.bat.bing.com$popup,domain=search.yahoo.com
 @@||yimg.com^*^pid=Ads^$domain=search.yahoo.com
 @@||search.yahoo.com^$elemhide
+@@||leadlocal.com/search^$elemhide
+@@||kol.com/search^$elemhide
 !
 yahoo.com,~mail.yahoo.com#@#.rmx-ad
 yahoo.com,~mail.yahoo.com#@#.adlink
