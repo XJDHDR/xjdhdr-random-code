@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LQ6so4Lzgh34aaH8oJUhPg
-! Version: 202001160200
+! Checksum: RwTKsGOqcKbEjjXtSN3aqQ
+! Version: 202001161400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Jan 2020 02:00 UTC
+! Last modified: 16 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6219,25 +6219,33 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+elites.io#@##ad-top
+elites.io#@##ad-bottom
+diablofans.com#@#.ad-atf
+pokebattler.com#@#.ad-banner
+spinz.io#@#.ad-unit
+wowdb.com#@#.ad-placement
+pwinsider.com#@#.content-left
+pwinsider.com#@#.content-right
 mtgsalvation.com#@#.ad-atf
 mtgsalvation.com#@#.ad-atf-medRect
 civfanatics.com#@#.themonic-ad2
 westeros.org#@##HeaderAd
 westeros.org#@##SidebarAd
 westeros.org#@##FooterAd
-expertreviews.co.uk#@#.dfp-tag-wrapper
-expertreviews.co.uk#@#div[id^="dfp-ad-"]
-expertreviews.co.uk#@#.block-dfp
-expertreviews.co.uk#@##dfp-ad-billboard_leaderboard
-expertreviews.co.uk#@##dfp-ad-billboard_leaderboard-wrapper
-expertreviews.co.uk#@##block-dfp-billboard-leaderboard
-expertreviews.co.uk#@##dfp-ad-mpu_1-wrapper
-expertreviews.co.uk#@##dfp-ad-mpu_2-wrapper
-expertreviews.co.uk#@##dfp-ad-mpu_1
-expertreviews.co.uk#@##dfp-ad-mpu_2
-expertreviews.co.uk#@##block-dfp-mpu-1
-expertreviews.co.uk#@##block-dfp-mpu-2
-expertreviews.co.uk#@#.lazyadslot
+expertreviews.co.uk,didev.co.uk#@#.dfp-tag-wrapper
+expertreviews.co.uk,didev.co.uk#@#div[id^="dfp-ad-"]
+expertreviews.co.uk,didev.co.uk#@#.block-dfp
+expertreviews.co.uk,didev.co.uk#@##dfp-ad-billboard_leaderboard
+expertreviews.co.uk,didev.co.uk#@##dfp-ad-billboard_leaderboard-wrapper
+expertreviews.co.uk,didev.co.uk#@##block-dfp-billboard-leaderboard
+expertreviews.co.uk,didev.co.uk#@##dfp-ad-mpu_1-wrapper
+expertreviews.co.uk,didev.co.uk#@##dfp-ad-mpu_2-wrapper
+expertreviews.co.uk,didev.co.uk#@##dfp-ad-mpu_1
+expertreviews.co.uk,didev.co.uk#@##dfp-ad-mpu_2
+expertreviews.co.uk,didev.co.uk#@##block-dfp-mpu-1
+expertreviews.co.uk,didev.co.uk#@##block-dfp-mpu-2
+expertreviews.co.uk,didev.co.uk#@#.lazyadslot
 intouchweekly.com#@#.ad-container
 j-14.com#@#.ad-leaderboard
 goldderby.com#@#.ad-text
