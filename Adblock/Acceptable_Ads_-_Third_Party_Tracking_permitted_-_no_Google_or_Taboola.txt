@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: noRA6xLv6w1zOxs6Ve9ICA
-! Version: 202001151400
+! Checksum: 7xy7rsodQwGfrFLfmXRGXQ
+! Version: 202001160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Jan 2020 14:00 UTC
+! Last modified: 16 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1904,6 +1904,7 @@ rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 @@||dmp.ads.linkedin.com^
 linkedin.com#@#.ad-banner
 linkedin.com#@#.ad-banner-container
+linkedin.com#@##ads-container
 !:partner_token=ted.com
 !:partner_id=f699f1943660421a
 !:type=partner
@@ -6165,6 +6166,12 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+mtgsalvation.com#@#.ad-atf
+mtgsalvation.com#@#.ad-atf-medRect
+civfanatics.com#@#.themonic-ad2
+westeros.org#@##HeaderAd
+westeros.org#@##SidebarAd
+westeros.org#@##FooterAd
 expertreviews.co.uk#@#.dfp-tag-wrapper
 expertreviews.co.uk#@#div[id^="dfp-ad-"]
 expertreviews.co.uk#@#.block-dfp
@@ -6260,10 +6267,11 @@ txnews.ru#@#.myAds
 auto.mail.ru#@#.mailru-visibility-check-counter + div
 pogoda.mail.ru#@#.mailru-visibility-check
 pogoda.mail.ru#@#div[data-adq-id]
-@@||relap.io^$script,xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
-@@||cdn.relap.io^$image,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
-@@||ad.mail.ru/adp^$xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
-@@||ad.mail.ru^adq^$script,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru
+@@||relap.io^$script,xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|sport-express.ru|deti.mail.ru
+@@||cdn.relap.io^$image,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
+@@||ad.mail.ru/adp^$xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
+@@||ad.mail.ru^adq^$script,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
+@@||beta.mediafort.ru/show.php?placeid=23^$script,domain=stranamam.ru
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
@@ -7478,6 +7486,7 @@ billboard.com,hollywoodreporter.com#@#.ad_desktop
 billboard.com,hollywoodreporter.com#@#.ad-container
 billboard.com#@#.rail-ad
 billboard.com#@#.ad-holder
+gamepur.com,dotesports.com#@#.proper-ad-unit
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
