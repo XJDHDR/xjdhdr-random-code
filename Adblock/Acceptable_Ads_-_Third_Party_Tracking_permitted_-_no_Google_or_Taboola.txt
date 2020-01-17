@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U9ycuFOzUae2z+zlLmD8YQ
-! Version: 202001170200
+! Checksum: 1bhOxreRCvBRR3iMyZ6MjA
+! Version: 202001171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Jan 2020 02:00 UTC
+! Last modified: 17 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5971,6 +5971,7 @@ rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffb
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+@@||im-g.pl/static/adview/$script,domain=metrowarszawa.gazeta.pl
 stylechambers.com#@#.ad-content
 stylechambers.com#@#.ad-wrapper
 stylechambers.com#@#.ad-frame
@@ -6162,6 +6163,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
+@@/prebid.$script|domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com
+se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
