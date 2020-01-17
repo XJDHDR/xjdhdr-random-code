@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RwTKsGOqcKbEjjXtSN3aqQ
-! Version: 202001161400
+! Checksum: ua2nrzRhjZAN7m9q9eAO6Q
+! Version: 202001170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Jan 2020 14:00 UTC
+! Last modified: 17 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6790,6 +6790,7 @@ gamesflow.com#@#.iconads
 @@||criteo.com/delivery/r/afr.php$subdocument,document,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 @@||bidder.criteo.com^$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 @@||ppstatic.pl/lib/ppa/*/libs/prebid.js$domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
+@@||ppstatic.pl/assets/nsk/*/css/$stylesheet,domain=naszemiasto.pl|polskatimes.pl|dziennikbaltycki.pl|dziennikzachodni.pl|dzienniklodzki.pl|kurierlubelski.pl|gazetakrakowska.pl|gazetawroclawska.pl|gloswielkopolski.pl|expressilustrowany.pl|dziennikpolski24.pl|tygodnikits.pl|echodnia.eu|gazetalubuska.pl|pomorska.pl|gk24.pl|gp24.pl|gs24.pl|nowiny24.pl|nto.pl|poranny.pl|to.com.pl|wspolczesna.pl|ekstramagazyn.pl|naszahistoria.pl|sportowy24.pl|gol24.pl|rodzina500plus.biz|strefabiznesu.pl|expressbydgoski.pl|nowosci.com.pl|plus.polskapress.pl|swieta24.pl|stronakobiet.pl|telemagazyn.pl|gratka.pl|motofakty.pl
 !:partner_token=OLX Global B.V.
 !:partner_id=42b71aaf433714e0
 !:type=partner
