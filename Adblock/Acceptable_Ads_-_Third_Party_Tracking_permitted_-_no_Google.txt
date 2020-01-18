@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2EVqe5BIMl5KpH9P4IcKGQ
-! Version: 202001171400
+! Checksum: LBqO6mIW0irKibZJGspk6w
+! Version: 202001180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 17 Jan 2020 14:00 UTC
+! Last modified: 18 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1662,7 +1662,7 @@ thenoob.net#@#.adinjwidget
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
 @@||nydailynews.com/*taboola/render.js?$script,domain=nydailynews.com
-@@||twpasol.com/c/$script,domain=filmehd.net|kech24.com|dzexams.com|assarih.com
+@@||twpasol.com/c/$script,domain=rassdtunisia.net|anime2001.com|light-dark.net|filmehd.net|kech24.com|dzexams.com|assarih.com
 @@||dasibogilink.com/wp-content/plugins/better-adsmanager/js/advertising.min.js$domain=dasibogilink.com
 @@||js.omgcheckitout.com/js/omg/mont-min.js$script,domain=omgcheckitout.com
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=kw.arabiaweather.com
@@ -1673,10 +1673,9 @@ thenoob.net#@#.adinjwidget
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||bloximages.newyork1.vip.townnews.com/fredericknewspost.com/*/vendor.taboola.*.js$script,domain=fredericknewspost.com
-@@||projectagora.net/libs/prebid.js$domain=kosovarja-ks.com
-@@||ads.projectagoraservices.com/?id=4805^$script,domain=kosovarja-ks.com
-@@||twpasol.com/c/light-dark.js$domain=light-dark.net
-@@||projectagoralibs.com/libs/projectagora.min.js$domain=light-dark.net
+@@||projectagora.net/libs/prebid.js$domain=rassdtunisia.net|anime2001.com|kosovarja-ks.com
+@@||ads.projectagoraservices.com^$script,domain=rassdtunisia.net|kosovarja-ks.com
+@@||projectagoralibs.com/libs/projectagora.min.js$domain=hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 krstarica.com#@#.bsac-container
 krstarica.com#@#.bsac
 usatoday.com#@#.gnt_tb
@@ -6216,7 +6215,9 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
-@@/prebid.$script|domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com
+@@/prebid.$script,domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com|s1homes.com
+avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
+avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
@@ -7469,6 +7470,8 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+keno.pch.com,keno.qa.pch.com#@#.ad-300x600
+keno.pch.com,keno.qa.pch.com#@#.ad-728x90
 legacy.com#@#.NGOLocalFooterAd
 searchenginejournal.com#@#.adv-label
 motor1.com#@#.apb
