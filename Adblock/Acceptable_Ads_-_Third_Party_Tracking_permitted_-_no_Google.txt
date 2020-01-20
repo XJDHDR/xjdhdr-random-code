@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: d+FPOHhhiJnvlze5cSYZ0Q
-! Version: 202001200200
+! Checksum: C6qLVx/vjloNvmVjqQCuSg
+! Version: 202001201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Jan 2020 02:00 UTC
+! Last modified: 20 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7454,6 +7454,11 @@ testpages.adblockplus.org#@##abptest
 @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com
 @@||cdn-header-bidding.snack-media.com/assets/js/snack-loader/$script,domain=footballfancast.com|footballleagueworld.co.uk|footballtransfertavern.com
 @@||aax.aaxdemo.com^*/whitelistedIframe.html$subdocument,document
+@@||related.stuff.co.nz^$domain=stuff.co.nz
+@@||related.stuff.co.nz^$domain=stuff.co.nz,document
+@@||related.hannity.com^$domain=hannity.com
+@@||related.hannity.com^$domain=hannity.com,document
+@@||a.pub.network/hannity-com/pubfig.min.js$domain=hannity.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7570,6 +7575,7 @@ jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.co
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@##dfp-ad-1
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@##dfp-ad-2
+stuff.co.nz#@#.display-ad
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
