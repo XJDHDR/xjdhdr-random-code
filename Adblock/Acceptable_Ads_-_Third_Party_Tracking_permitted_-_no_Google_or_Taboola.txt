@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iYIB8TE//Y5kBnzwxRcidQ
-! Version: 202001201400
+! Checksum: eYNOE515sygfzAAYoZ9omQ
+! Version: 202001210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Jan 2020 14:00 UTC
+! Last modified: 21 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1761,7 +1761,7 @@ ans-wer.com#@#.block-ads
 cotemaison.fr,lexpress.fr#@#.block_partners
 bradenton.com,centredaily.com,idahostatesman.com,islandpacket.com,kentucky.com,sunherald.com#@#.bottom_ad
 jewishworldreview.com#@#.bottom_ads
-99traveltips.com,asiantvsub.com,awesomejelly.com,buzz-panda.de,dingenvoorvrouwen.nl,ejemplosde.info,estaily.com,feedxp.com,holahoop.com,ijustlovethis.com,kookfans.nl,mangaforever.net,mesastuces.net,tippsundtricks.co,viralhindi.com,womendailymagazine.com,ziperto.com#@#.bottomad
+animaals.com,tips-and-tricks.co,99traveltips.com,asiantvsub.com,awesomejelly.com,buzz-panda.de,dingenvoorvrouwen.nl,ejemplosde.info,estaily.com,feedxp.com,holahoop.com,ijustlovethis.com,kookfans.nl,mangaforever.net,mesastuces.net,tippsundtricks.co,viralhindi.com,womendailymagazine.com,ziperto.com#@#.bottomad
 ibtimes.co.uk#@#.box-recommend-ad
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
