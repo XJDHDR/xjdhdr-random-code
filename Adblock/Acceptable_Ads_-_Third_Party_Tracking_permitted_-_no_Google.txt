@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6BP/I6cqOmY6K7gSx//bsw
-! Version: 202001211400
+! Checksum: Q+7Lsuv7TwQqhCPMdaOIdQ
+! Version: 202001220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Jan 2020 14:00 UTC
+! Last modified: 22 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1910,6 +1910,8 @@ seloger.com#@#div[id^="div-gpt-ad"]
 msn.com##div[id^="tb_homePage_carousel_"] div[id^="internal_trc_"]
 moneyam.com#@#div[style="width:980px;height:450px;clear:both;margin: 0 auto;"]
 rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
+elconfidencialdigital.com#@#.custom-ads
+nme.com#@#div[data-item-syndicated="true"]
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
