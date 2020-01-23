@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wHmGBljaS/72b+tu9td1zg
-! Version: 202001230200
+! Checksum: ggglpw6JkXU53yIO9ptXmw
+! Version: 202001231400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 23 Jan 2020 02:00 UTC
+! Last modified: 23 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6308,6 +6308,15 @@ pmcqa.com#@#.c-ad
 thesimsresource.com#@#.top-300-ad
 thesimsresource.com#@#.ad-midleader
 thesimsresource.com#@#.ad-alsorectangle
+cnn.com#@#.ad--desktop
+cnn.com#@#div[id^="ad_rect_"]
+cnn.com#@#.ad
+cnn.com#@##partner-zone
+thewordfinder.com#@##sidebar-advertisement
+thefamouspeople.com#@#.center-ad
+thefamouspeople.com#@#.right-ad
+thefamouspeople.com#@#.widget-ad
+americanupbeat.com,insidemystery.com#@#.proper-ad-unit
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
