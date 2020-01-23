@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wmkgzVNL7AUNHjH3/d8D/g
-! Version: 202001221400
+! Checksum: ELWU691VTwBtAyl7m9KX1Q
+! Version: 202001230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Jan 2020 14:00 UTC
+! Last modified: 23 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1663,7 +1663,7 @@ thenoob.net#@#.adinjwidget
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||projectagora.net/libs/prebid.js$domain=rassdtunisia.net|anime2001.com|kosovarja-ks.com
 @@||ads.projectagoraservices.com^$script,domain=rassdtunisia.net|kosovarja-ks.com
-@@||projectagoralibs.com/libs/projectagora.min.js$domain=hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
+@@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 krstarica.com#@#.bsac-container
 krstarica.com#@#.bsac
 usatoday.com#@#.gnt_tb
@@ -1691,7 +1691,7 @@ saloona.co.il#@##popular_top
 livenewson.com#@##quads-ad2
 livenewson.com,skinnypointsonly.com#@##quads-ad2_widget
 buzzissime.com#@##quads-ad3_widget
-conserve-energy-future.com,solidesnake.com#@##quads-ad4
+emdireto.pt,conserve-energy-future.com,solidesnake.com#@##quads-ad4
 vg247.com#@##recommendations
 spi0n.com#@##single_sidebar
 europe1.fr#@##sponsored_links
@@ -1708,7 +1708,7 @@ nbcnews.com,sandip.knowable.com,thepoliticalinsider.com#@#.ad-container
 didyouknowfacts.com,nbcnews.com,postize.com,today.com#@#.ad-content
 cyprus-mail.com#@#.ad-custom-size
 didyouknowfacts.com#@#.ad-footer
-navarra.elespanol.com,diariodeleon.es,nuevatribuna.es#@#.ad-inner
+pronto.com.ar,navarra.elespanol.com,diariodeleon.es,nuevatribuna.es#@#.ad-inner
 brilliantmaps.com,sciencepost.fr#@#.ad-inserter
 vgpwn.com#@#.ad-inserter-widget
 nbcnews.com#@#.ad-location
@@ -1716,7 +1716,7 @@ timesnownews.com#@#.ad-panel
 newsner.com#@#.ad-placement
 thepoliticalinsider.com#@#.ad-row
 nbcnews.com#@#.ad-s-rendered
-navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
+pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
 navarra.elespanol.com#@#.big-ads
 cultbox.co.uk,nuevatribuna.es#@#.ad-slot-sidebar-b
 medyabar.com#@#.ad-unit
@@ -1761,7 +1761,7 @@ ans-wer.com#@#.block-ads
 cotemaison.fr,lexpress.fr#@#.block_partners
 bradenton.com,centredaily.com,idahostatesman.com,islandpacket.com,kentucky.com,sunherald.com#@#.bottom_ad
 jewishworldreview.com#@#.bottom_ads
-animaals.com,tips-and-tricks.co,99traveltips.com,asiantvsub.com,awesomejelly.com,buzz-panda.de,dingenvoorvrouwen.nl,ejemplosde.info,estaily.com,feedxp.com,holahoop.com,ijustlovethis.com,kookfans.nl,mangaforever.net,mesastuces.net,tippsundtricks.co,viralhindi.com,womendailymagazine.com,ziperto.com#@#.bottomad
+poradyiwskazowki.pl,animaals.com,tips-and-tricks.co,99traveltips.com,asiantvsub.com,awesomejelly.com,buzz-panda.de,dingenvoorvrouwen.nl,ejemplosde.info,estaily.com,feedxp.com,holahoop.com,ijustlovethis.com,kookfans.nl,mangaforever.net,mesastuces.net,tippsundtricks.co,viralhindi.com,womendailymagazine.com,ziperto.com#@#.bottomad
 ibtimes.co.uk#@#.box-recommend-ad
 dasibogilink.com#@#.bsac
 dasibogilink.com#@#.bsac-container
@@ -1800,8 +1800,8 @@ bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
 ouest-france.fr,sofoot.com,yatahonga.com#@#.pub
 livenewson.com#@#.quads-ad2
 buzzissime.com#@#.quads-ad3_widget
-conserve-energy-future.com,solidesnake.com#@#.quads-ad4
-alternativemediasyndicate.com,ancient-code.com,conserve-energy-future.com,elfarandi.com,larecette.net,livenewson.com,newsroom24.co.uk,slavorum.org,solidesnake.com,soo-healthy.com,soolide.com,themindcircle.com,thewildchild.co.za,topimag.fr,trustmyscience.com,zipbr.com#@#.quads-location
+emdireto.pt,conserve-energy-future.com,solidesnake.com#@#.quads-ad4
+emdireto.pt,alternativemediasyndicate.com,ancient-code.com,conserve-energy-future.com,elfarandi.com,larecette.net,livenewson.com,newsroom24.co.uk,slavorum.org,solidesnake.com,soo-healthy.com,soolide.com,themindcircle.com,thewildchild.co.za,topimag.fr,trustmyscience.com,zipbr.com#@#.quads-location
 goldpara.com#@#.reklam2
 eurosport.com#@#.related-content-story--sponsored
 guiadasemana.com.br#@#.side-ads
@@ -1859,6 +1859,10 @@ moneyam.com#@#div[style="width:980px;height:450px;clear:both;margin: 0 auto;"]
 rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 elconfidencialdigital.com#@#.custom-ads
 nme.com#@#div[data-item-syndicated="true"]
+ac-illust.com#@#.section-ads
+chobirich.com#@#.ad_area
+lacapital.com.ar#@#.ads-wrapper
+bonnesimages.com,gbpicsonline.com#@#.native-ad
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
