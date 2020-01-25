@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WCot8Y7Q/bM19Nw5rYfNQw
-! Version: 202001241400
+! Checksum: GaikWvx4wqWCBNTWaFbftg
+! Version: 202001250200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Jan 2020 14:00 UTC
+! Last modified: 25 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6317,6 +6317,7 @@ thewordfinder.com#@##sidebar-advertisement
 thefamouspeople.com#@#.center-ad
 thefamouspeople.com#@#.right-ad
 thefamouspeople.com#@#.widget-ad
+buzzfeed.com#@#.ad-fadeup
 americanupbeat.com,insidemystery.com#@#.proper-ad-unit
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
