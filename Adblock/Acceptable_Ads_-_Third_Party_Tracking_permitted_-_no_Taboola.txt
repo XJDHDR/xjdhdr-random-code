@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WO2/e7ZvADiI8wNju4vUag
-! Version: 202001270200
+! Checksum: FIo0/ZiYWcreexhySBQDyg
+! Version: 202001271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 27 Jan 2020 02:00 UTC
+! Last modified: 27 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2166,6 +2166,7 @@ thenoob.net#@#.adinjwidget
 @@||projectagora.net/libs/prebid.js$domain=rassdtunisia.net|anime2001.com|kosovarja-ks.com
 @@||ads.projectagoraservices.com^$script,domain=rassdtunisia.net|kosovarja-ks.com
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
+@@||jeded.com/ads/1.js|$domain=subscene.com
 krstarica.com#@#.bsac-container
 krstarica.com#@#.bsac
 usatoday.com#@#.gnt_tb
@@ -2259,7 +2260,7 @@ dailyundercover.com##.adwrapper > .adtext
 dailyundercover.com##.adwrapper > div[style="height:250px; width:300px; overflow:hidden"]
 welikela.com#@#.after-post-ad
 fascinately.com#@#.article-ad-bottom
-sanjuan8.com#@#.banner
+subscene.com,sanjuan8.com#@#.banner
 unoentrerios.com.ar#@#.banner-nativo
 lijstverse.nl,tecmundo.com.br,viagginbici.com,victoriaadvocate.com,whatreallyhappened.com#@#.banner_ad
 charteredclub.com,twitlonger.com#@#.bannerad
@@ -2385,6 +2386,7 @@ ac-illust.com#@#.section-ads
 chobirich.com#@#.ad_area
 lacapital.com.ar#@#.ads-wrapper
 bonnesimages.com,gbpicsonline.com#@#.native-ad
+subscene.com###content > .banner
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7957,6 +7959,7 @@ crazydaysandnights.net,rmf24.pl,windsorobserver.co.uk,livingdorset.co.uk,glasgow
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
 @@/prebid.$script,domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com|s1homes.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
+@@/adfuel/*$script,domain=cnn.com
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
@@ -7992,8 +7995,7 @@ expertreviews.co.uk,didev.co.uk#@##dfp-ad-mpu_2
 expertreviews.co.uk,didev.co.uk#@##block-dfp-mpu-1
 expertreviews.co.uk,didev.co.uk#@##block-dfp-mpu-2
 expertreviews.co.uk,didev.co.uk#@#.lazyadslot
-lifeandstylemag.com#@#.ad-container
-intouchweekly.com#@#.ad-container
+kongregate.com,intouchweekly.com,lifeandstylemag.com#@#.ad-container
 j-14.com#@#.ad-leaderboard
 goldderby.com#@#.ad-text
 goldderby.com#@#.admz
@@ -8012,7 +8014,7 @@ online-tech-tips.com,helpdeskgeek.com#@#.adsense-block
 footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com#@#.ad-widget
 footwearnews.com,rollingstone.com,tvline.com,bgr.com,indiewire.com,pmcqa.com,deadline.com,variety.com#@#.c-ad
 radiopaedia.org#@#.ad-container
-itstillworks.com#@#.side-ad
+fortnitetracker.com,itstillworks.com#@#.side-ad
 itstillworks.com#@#.main-ad
 itstillworks.com#@#.desktop-ad
 itstillworks.com#@#.adcontainer
@@ -8060,6 +8062,19 @@ thefamouspeople.com#@#.right-ad
 thefamouspeople.com#@#.widget-ad
 buzzfeed.com#@#.ad-fadeup
 americanupbeat.com,insidemystery.com#@#.proper-ad-unit
+wowinterface.com,riftui.com,esoui.com,swtorui.com,eq2interface.com,eqinterface.com,secretui.com#@##header-ad
+wowinterface.com,riftui.com,esoui.com,swtorui.com,eq2interface.com,eqinterface.com,secretui.com#@##cubeAd
+fortnitetracker.com#@#.ad-tag
+cnn.com#@##adsquare
+cnn.com#@##adBanner
+cnn.com#@##adSquare
+cnn.com#@##adbanner
+cnn.com#@##AdBanner
+cnn.com#@##Adbanner
+ebaumsworld.com#@##subheader_atf_wrapper
+www.visitlondon.com#@##ad_header
+www.visitlondon.com#@##ad_footer
+www.visitlondon.com#@#.advert-mpu
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
