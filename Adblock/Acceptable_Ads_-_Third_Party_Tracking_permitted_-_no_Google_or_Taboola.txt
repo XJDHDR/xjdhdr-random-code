@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XPSB845onfUGCCbApqUV6w
-! Version: 202001290200
+! Checksum: BMwxsz3cF7CWd9kp8oDI/Q
+! Version: 202001291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Jan 2020 02:00 UTC
+! Last modified: 29 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3985,6 +3985,9 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 @@||revcontent.com/api/demand/?w=115478^$domain=conservativeflash.com
 @@||revcontent.com/api/delivery/?w=115883^$domain=disrn.com
 @@||revcontent.com/api/demand/?w=115883^$domain=disrn.com
+@@||video.revcontent.com^$domain=revcontent.com
+@@||videos.revcontent.com^$domain=revcontent.com
+@@||bttrack.com^$image,domain=revcontent.com
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
@@ -5766,6 +5769,9 @@ bouwsteentjes.info#@#.td-adspot-title
 upbeatnews.com,americanupbeatnews.com,mysteryinside.com#@#.proper-ad-unit
 fandom.com,gamepedia.com,muthead.com#@#.wikia-ad
 fandom.com,gamepedia.com,muthead.com#@#.gpt-ad
+knowyourmeme.com#@##cmn_ad_tag_head
+dailywire.com#@#div[style^="width: 728px;"]
+dailywire.com#@#div[style^="max-width: 300px;"]
 gamepedia#@#.footer-ad
 usatoday.com#@#.poster-ad-asset-module
 usatoday.com#@#.leaderboard-ad-module
@@ -6178,6 +6184,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@/prebid.$script,domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com|s1homes.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@/adfuel/*$script,domain=cnn.com
+@@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
