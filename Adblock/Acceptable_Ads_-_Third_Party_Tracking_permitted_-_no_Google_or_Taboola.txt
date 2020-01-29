@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YSDGflfvKj1XMfs6AK1pcg
-! Version: 202001281400
+! Checksum: XPSB845onfUGCCbApqUV6w
+! Version: 202001290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 Jan 2020 14:00 UTC
+! Last modified: 29 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7464,6 +7464,7 @@ testpages.adblockplus.org#@##abptest
 !
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600
 keno.pch.com,keno.qa.pch.com#@#.ad-728x90
+keno.pch.com,keno.qa.pch.com#@#.ad-300x250
 legacy.com#@#.NGOLocalFooterAd
 searchenginejournal.com#@#.adv-label
 motor1.com#@#.apb
