@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LtLX/ZrNiwmjvg2PvxLR4w
-! Version: 202001300200
+! Checksum: RvbzQR2txQVcrjoO6kpHPg
+! Version: 202001301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 30 Jan 2020 02:00 UTC
+! Last modified: 30 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3985,9 +3985,6 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 @@||revcontent.com/api/demand/?w=115478^$domain=conservativeflash.com
 @@||revcontent.com/api/delivery/?w=115883^$domain=disrn.com
 @@||revcontent.com/api/demand/?w=115883^$domain=disrn.com
-@@||video.revcontent.com^$domain=revcontent.com
-@@||videos.revcontent.com^$domain=revcontent.com
-@@||bttrack.com^$image,domain=revcontent.com
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
@@ -6193,6 +6190,9 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+gamerlaunch.com#@#.adFrame
+airportia.com#@#.ad-item
+visitlondon.com#@#.advert-leaderboard
 elites.io#@##ad-top
 elites.io#@##ad-bottom
 diablofans.com#@#.ad-atf
