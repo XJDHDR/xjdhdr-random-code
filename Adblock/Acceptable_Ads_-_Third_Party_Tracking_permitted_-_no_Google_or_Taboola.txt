@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BMwxsz3cF7CWd9kp8oDI/Q
-! Version: 202001291400
+! Checksum: LtLX/ZrNiwmjvg2PvxLR4w
+! Version: 202001300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Jan 2020 14:00 UTC
+! Last modified: 30 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6185,6 +6185,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@/adfuel/*$script,domain=cnn.com
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
+@@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
@@ -6984,8 +6985,8 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! gedichte.ws ads
 @@||tisoomi-adservice.com/aa/$popup,domain=gedichte.ws|adsinlove.de
 @@||tisoomi-adservice.com/aa/$domain=gedichte.ws|adsinlove.de
-||tisoomi-adservice.com/detection/px.gif?ch=2$domain=gedichte.ws|adsinlove.de|t-online.de
-@@||tisoomi-adservice.com/detection/px.gif?ch=1$domain=gedichte.ws|adsinlove.de|t-online.de
+||tisoomi-adservice.com/detection/px.gif?ch=2$domain=gedichte.ws|adsinlove.de|t-online.de|quoka.de|meinestadt.de
+@@||tisoomi-adservice.com/detection/px.gif?ch=1$domain=gedichte.ws|adsinlove.de|t-online.de|quoka.de|meinestadt.de
 !:partner_token=shortorial.com
 !:partner_id=1c3ab5b9439d3d2f
 !:type=partner
@@ -7007,7 +7008,7 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru
+@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro
 @@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
 @@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
 @@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
@@ -7015,15 +7016,17 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 @@||jsc.lentainform.com/i/z/iz.ru.678965.js$domain=iz.ru
 @@||jsc.lentainform.com/t/s/tsargrad.tv.690231.js$domain=tsargrad.tv
 @@||jsc.lentainform.com/w/d/wday.ru.689844.js$domain=wday.ru
-@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#a[href*="lentainform.com/pnews/"]
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru#@#[id*="ScriptRoot"]
+@@||jsc.lentainform.com/l/g/l.gismeteo.ru.791769.js$domain=gismeteo.ru
+@@||jsc.lentainform.com/t/e/teleprogramma.pro.721065.js$domain=teleprogramma.pro
+@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro#@#a[href*="lentainform.com/pnews/"]
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7035,18 +7038,19 @@ lentainform.com#@#[id*="MarketGid"]
 lentainform.com#@#a[href^="//www.mgid.com/"]
 lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||mgid.com^$domain=lentainform.com
-@@||mgid.com^$popup,domain=lentainform.com|tsargrad.tv
+@@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
 7days.ru#@#.b-section_content_partners-news
 tsargrad.tv#@#.article__banner
+www.gismeteo.ru#@#.widget-container
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
-@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
-@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
-@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br
+@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
+@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
+@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
+@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
 !:partner_token=BurdaForward
 !:partner_id=7427b39123282e69
 !:type=partner
