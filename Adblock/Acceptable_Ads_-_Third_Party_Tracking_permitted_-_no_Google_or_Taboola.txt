@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RvbzQR2txQVcrjoO6kpHPg
-! Version: 202001301400
+! Checksum: ObQZMnbXITx4ntuK9dbhCg
+! Version: 202001310200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 30 Jan 2020 14:00 UTC
+! Last modified: 31 Jan 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6144,6 +6144,7 @@ weszlo.com#@#.top-adw
 britannica.com#@#.toolbar-ad
 convertfiles.com#@#.advertisement_box
 wowhead.com#@#.banner-ad
+snopes.com#@#.creative
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@#.sgAd
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScGp160x600
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,oyunskor.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
