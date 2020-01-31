@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mKZqB0HVybBVjXREiDeCAA
-! Version: 202001310200
+! Checksum: R1PLThMmD1GkiGdXeCKKmA
+! Version: 202001311400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 31 Jan 2020 02:00 UTC
+! Last modified: 31 Jan 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6029,11 +6029,25 @@ destructoid.com#@#center > div > iframe
 probuilds.net##div[adonis-marker]
 ncaa.com#@#div[id^="ad_rect_"]
 gamepedia.com#@#div[id^="cdm-zone"]
+cnn.com#@#.ad-1
+cnn.com#@#.ad-2
+cnn.com#@#.ad-3
+vecteezy.com#@#.adunit
+vecteezy.com#@#.tmsads
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|lotrointerface.com|mmoui.com|riftui.com|secretui.com|swtorui.com|wowinterface.com|fextralife.com|metasrc.com|nerfplz.com|poe.trade|wowhead.com|ygoprodeck.com
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
+@@||tradecraft.s.llnwi.net/v1/pub/01/jja.js$domain=justjared.com
+@@||tradecraft.s.llnwi.net/v1/pub/01/jjh.js$domain=justjared.com
+@@||tradecraft.s.llnwi.net/v1/pub/02/jjra.js$domain=justjaredjr.com
+@@||tradecraft.s.llnwi.net/v1/pub/02/jjrh.js$domain=justjaredjr.com
+@@||tradecraft.s.llnwi.net/v1/pub/03/aa.js$domain=arcamax.com
+@@||tradecraft.s.llnwi.net/v1/pub/03/ac.js$domain=arcamax.com
+@@||tradecraft.s.llnwi.net/v1/pub/03/alla.js$domain=arcamax.com
+@@||tradecraft.s.llnwi.net/v1/pub/04/u.js$domain=uberhumor.com
+@@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 @@||im-g.pl/static/adview/$script,domain=metrowarszawa.gazeta.pl
