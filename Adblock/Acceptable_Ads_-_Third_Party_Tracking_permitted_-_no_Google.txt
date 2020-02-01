@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R1PLThMmD1GkiGdXeCKKmA
-! Version: 202001311400
+! Checksum: 4X/ClqLdwtKognot0bjthg
+! Version: 202002010200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 31 Jan 2020 14:00 UTC
+! Last modified: 01 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4038,6 +4038,8 @@ sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,w
 @@||revcontent.com/api/demand/?w=115478^$domain=conservativeflash.com
 @@||revcontent.com/api/delivery/?w=115883^$domain=disrn.com
 @@||revcontent.com/api/demand/?w=115883^$domain=disrn.com
+@@||revcontent.com/api/delivery/?w=115488^$domain=ibelieve.com
+@@||revcontent.com/api/demand/?w=115488^$domain=ibelieve.com
 @@||revcontent.com/conv.php?t=$image
 @@||revcontent.com/build/revrcevents.min.js
 @@||revcontent.com/api/*/events/track.php?
@@ -6032,8 +6034,8 @@ gamepedia.com#@#div[id^="cdm-zone"]
 cnn.com#@#.ad-1
 cnn.com#@#.ad-2
 cnn.com#@#.ad-3
-vecteezy.com#@#.adunit
-vecteezy.com#@#.tmsads
+vecteezy.com,brusheezy.com,videezy.com#@#.adunit
+vecteezy.com,brusheezy.com,videezy.com#@#.tmsads
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -7510,6 +7512,7 @@ testpages.adblockplus.org#@##abptest
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/homepage.js$script,domain=washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||washingtontimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg|sportal.bg
