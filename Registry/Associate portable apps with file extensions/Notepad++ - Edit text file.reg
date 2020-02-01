@@ -873,53 +873,6 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.fs]
 
 
-[HKEY_CLASSES_ROOT\.htm]
-[HKEY_CLASSES_ROOT\.htm\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-[HKEY_CLASSES_ROOT\.html]
-[HKEY_CLASSES_ROOT\.html\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-[HKEY_CLASSES_ROOT\.htmls]
-[HKEY_CLASSES_ROOT\.htmls\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-[HKEY_CLASSES_ROOT\.htm~]
-[HKEY_CLASSES_ROOT\.htm~\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-[HKEY_CLASSES_ROOT\.xhtm]
-[HKEY_CLASSES_ROOT\.xhtm\PersistentHandler]
-@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
-"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
-
-
-[HKEY_CLASSES_ROOT\FirefoxPortableHTML]
-[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell]
-@="open"
-
-[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\EditWithNPP]
-@="Edit with Notepad++"
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
-
-[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\EditWithNPP\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
-
-
-[-HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\Edit]
-[HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\EditWithNPP]
-@="Edit with Notepad++"
-"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
-
-[HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\EditWithNPP\command]
-@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
-
-
 [-HKEY_CLASSES_ROOT\.hxml]
 [HKEY_CLASSES_ROOT\.hxml]
 @="haxe_file"

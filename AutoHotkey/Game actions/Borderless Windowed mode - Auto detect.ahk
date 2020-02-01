@@ -30,30 +30,33 @@ AddWindowsToGroup()
 {
 	; Add a GroupAdd line for each game you want to detect and make borderless
 	
-;	GroupAdd, CheckIfWindowDisplayingSomethingFirst, Mount&Blade With Fire and Sword ahk_class MB Window ahk_exe mb_wfas.exe, 	; Mouse activation point doesn't line up with cursor otherwise.
-
 	GroupAdd, StandardGameList, Armored Warfare v ahk_class CryENGINE ahk_exe armoredwarfare.exe, 
 	GroupAdd, StandardGameList, Caesar III ahk_class WinSJBClass ahk_exe c3.exe, 
 	GroupAdd, StandardGameList, Company Of Heroes ahk_class Plat::Window {DB3DC0D7-BBA3-4d06-BCD8-40CD448B4AE3} ahk_exe RelicCOH.exe, 
 	GroupAdd, StandardGameList, Emperor: Rise of the Middle Kingdom ahk_class WinSJBClass ahk_exe Emperor.exe,
+	GroupAdd, StandardGameList, ahk_class GZDoomMainWindow ahk_exe gzdoom.exe, , , GZDOOM ahk_class GZDoomMainWindow ahk_exe gzdoom.exe,		; GZ Doom
 	GroupAdd, StandardGameList, ahk_exe hl2.exe, 
 	GroupAdd, StandardGameList, Osmos ahk_class OsmosGame ahk_exe Osmos.exe,
+	GroupAdd, StandardGameList, PAYDAY 2 ahk_class diesel win32 ahk_exe payday2_win32_release.exe,
 	GroupAdd, StandardGameList, Pharaoh ahk_class WinSJBClass ahk_exe Pharaoh.exe, 
 	GroupAdd, StandardGameList, ahk_exe rage.exe, 
 	GroupAdd, StandardGameList, ahk_exe rage64.exe, 
 	GroupAdd, StandardGameList, ahk_class Canvas ahk_exe SporeApp.exe, 
 	GroupAdd, StandardGameList, Total War: WARHAMMER 2 ahk_class Warhammer2 ahk_exe Warhammer2.exe, 
 	GroupAdd, StandardGameList, ahk_exe WorldOfTanks.exe, 
-	GroupAdd, StandardGameList, Zeus ahk_class WinSJBClass ahk_exe Zeus.exe, 
+
+;	GroupAdd, CheckIfWindowDisplayingSomethingFirst, ,	
+
+	GroupAdd, MaximiseFirst, Zeus ahk_class WinSJBClass ahk_exe Zeus.exe, 	; Window isn't correct size until it has reached the main menu.
+	
+;	GroupAdd, MaximiseFirst, , 
 	
 	GroupAdd, MaximiseAndCheckIfWindowDisplayingSomethingFirst, Mount&Blade With Fire and Sword ahk_class MB Window ahk_exe mb_wfas.exe, 	; Mouse activation point doesn't line up with cursor otherwise.
 
-;	GroupAdd, MaximiseFirst, , 
-	
 ;	GroupAdd, HideWindowBordersOffscreen, , 
 	
-	GroupAdd, MakeBorderlessList, ahk_group CheckIfWindowDisplayingSomethingFirst
 	GroupAdd, MakeBorderlessList, ahk_group StandardGameList
+	GroupAdd, MakeBorderlessList, ahk_group CheckIfWindowDisplayingSomethingFirst
 	GroupAdd, MakeBorderlessList, ahk_group MaximiseFirst
 	GroupAdd, MakeBorderlessList, ahk_group MaximiseAndCheckIfWindowDisplayingSomethingFirst
 	GroupAdd, MakeBorderlessList, ahk_group HideWindowBordersOffscreen

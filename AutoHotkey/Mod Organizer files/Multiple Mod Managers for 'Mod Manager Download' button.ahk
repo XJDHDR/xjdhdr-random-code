@@ -4,13 +4,13 @@
 
 Gui, New, +AlwaysOnTop +Border -MaximizeBox -Resize -SysMenu, Game chooser
 Gui, Add, Text, , Please select the program and game you are downloading the mod for
-iNoCount += funcAddButton("Fallout 4", "gFallout4", "Mod Organiser: Fallout &4")
-iNoCount += funcAddButton("Skyrim SE", "gSkyrimSE", "Mod Organiser: &Skyrim Special &Edition")
-iNoCount += funcAddButton("Skyrim", "gSkyrim", "Mod Organiser: Skyrim")
-iNoCount += funcAddButton("Fallout New Vegas", "gFalloutNewVegas", "Mod Organiser: Fallout &New Vegas")
-iNoCount += funcAddButton("Fallout 3", "gFallout3", "Mod Organiser: Fallout &3")
-iNoCount += funcAddButton("Oblivion", "gOblivion", "Mod Organiser: &Oblivion")
-iNoCount += funcAddButton("Morrowind", "gMorrowind", "Mod Organiser: &Morrowind")
+iNoCount += funcAddButton("Fallout 4", "gFallout4", "Mod Organizer: Fallout &4")
+iNoCount += funcAddButton("Skyrim SE", "gSkyrimSE", "Mod Organizer: &Skyrim Special &Edition")
+iNoCount += funcAddButton("Skyrim", "gSkyrim", "Mod Organizer: Skyrim")
+iNoCount += funcAddButton("Fallout New Vegas", "gFalloutNewVegas", "Mod Organizer: Fallout &New Vegas")
+iNoCount += funcAddButton("Fallout 3", "gFallout3", "Mod Organizer: Fallout &3")
+iNoCount += funcAddButton("Oblivion", "gOblivion", "Mod Organizer: &Oblivion")
+iNoCount += funcAddButton("Morrowind", "gMorrowind", "Mod Organizer: &Morrowind")
 iNoCount += funcAddButton("Vortex", "gVortex", "&Vortex")
 iNoCount += funcAddButton("NMM", "gNMM", "&Nexus Mod Manager")
 iNoCount += funcAddButton("Custom 1", "gCustom1", "Unused")
@@ -63,12 +63,13 @@ Else
 {
 	If (FileExist(sManagerLocation . "\nxmhandler.exe") <> "")
 	{
-		Run, "%sManagerLocation%\nxmhandler.exe" "%1%",
-		FileAppend, "%sManagerLocation%\nxmhandler.exe" %1%, %A_ScriptDir%\passed command.txt,
-		Pause
+;		Run, "%sManagerLocation%\nxmhandler.exe" "%1%",
+		Run, "%sManagerLocation%\ModOrganizer.exe" "%1%",
+;		FileAppend, "%sManagerLocation%\nxmhandler.exe" %1%, %A_ScriptDir%\passed command.txt,
+;		Pause
 	}
 	Else
-		MsgBox, Mod Organiser was not found. Please ensure you specified the correct location in the INI file.
+		MsgBox, Mod Organizer was not found. Please ensure you specified the correct location in the INI file.
 }
 ExitApp
 Return

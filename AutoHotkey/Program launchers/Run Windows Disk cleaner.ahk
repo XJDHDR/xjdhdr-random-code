@@ -2,6 +2,7 @@
 #NoEnv
 ListLines, Off
 
+RunWait, Dism.exe /online /Cleanup-Image /StartComponentCleanup, , Hide UseErrorLevel, 
 
-RunWait, Cleanmgr.exe /Sagerun:1, , Min UseErrorLevel, 
+RunWait, Cleanmgr.exe /Sagerun:1, , Hide UseErrorLevel, 
 ExitApp, %A_LastError%

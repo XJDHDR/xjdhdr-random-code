@@ -407,6 +407,37 @@ Windows Registry Editor Version 5.00
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.docx]
 
 
+[-HKEY_CLASSES_ROOT\.ppt]
+[HKEY_CLASSES_ROOT\.ppt]
+@="microsoft_powerpoint_file"
+"PerceivedType"="document"
+
+[HKEY_CLASSES_ROOT\.ppt\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[-HKEY_CLASSES_ROOT\.pptx]
+[HKEY_CLASSES_ROOT\.pptx]
+@="microsoft_powerpoint_file"
+"PerceivedType"="document"
+
+[HKEY_CLASSES_ROOT\.pptx\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[HKEY_CLASSES_ROOT\microsoft_powerpoint_file]
+@="Microsoft PowerPoint file"
+
+[HKEY_CLASSES_ROOT\microsoft_powerpoint_file\DefaultIcon]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeImpressPortable.exe\",0"
+
+[HKEY_CLASSES_ROOT\microsoft_powerpoint_file\shell\open]
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeImpressPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\microsoft_powerpoint_file\shell\open\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\LibreOfficePortablePrevious\\LibreOfficeImpressPortable.exe\" \"%1\""
+
+
 [-HKEY_CLASSES_ROOT\.rt]
 [HKEY_CLASSES_ROOT\.rt]
 @="rtffile"
@@ -539,6 +570,8 @@ Windows Registry Editor Version 5.00
 ".doc"="doc_file"
 ".doc#"="doc_file"
 ".docx"="docxfile"
+".ppt"="microsoft_powerpoint_file"
+".pptx"="microsoft_powerpoint_file"
 ".rt"="rtffile"
 ".rtf"="rtffile"
 ".rtx"="rtffile"

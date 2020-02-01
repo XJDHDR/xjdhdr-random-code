@@ -4,17 +4,51 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\.htm]
 @="FirefoxPortableHTML"
 
+[HKEY_CLASSES_ROOT\.htm\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
 [HKEY_CLASSES_ROOT\.html]
 @="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.html\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[HKEY_CLASSES_ROOT\.htmls]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.htmls\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[HKEY_CLASSES_ROOT\.htm~]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.htm~\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\.mht]
 @="FirefoxPortableHTML"
 
+[HKEY_CLASSES_ROOT\.mht\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
 [HKEY_CLASSES_ROOT\.mhtml]
 @="FirefoxPortableHTML"
 
+[HKEY_CLASSES_ROOT\.mhtml\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
 [HKEY_CLASSES_ROOT\.shtml]
 @="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.shtml\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\.url]
 @="FirefoxPortableHTML"
@@ -25,8 +59,23 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\.xht]
 @="FirefoxPortableHTML"
 
+[HKEY_CLASSES_ROOT\.xht\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
+[HKEY_CLASSES_ROOT\.xhtm]
+@="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.xhtm\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
+
 [HKEY_CLASSES_ROOT\.xhtml]
 @="FirefoxPortableHTML"
+
+[HKEY_CLASSES_ROOT\.xhtml\PersistentHandler]
+@="{5E941D80-BF96-11CD-B579-08002B30BFEB}"
+"OriginalPersistentHandler"="{00000000-0000-0000-0000-000000000000}"
 
 [HKEY_CLASSES_ROOT\ftp]
 @="FirefoxPortableURL"
@@ -54,6 +103,36 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\open\ddeexec]
 @=""
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\EditWithNPP]
+@="Edit with Notepad++"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\EditWithNPP\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\EditWithKompoZer]
+@="Edit with KompoZer"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\KompoZerPortable\\KompoZerPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\FirefoxPortableHTML\shell\EditWithKompoZer\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\KompoZerPortable\\KompoZerPortable.exe\" \"%1\""
+
+
+[-HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\Edit]
+[HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\EditWithNPP]
+@="Edit with Notepad++"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe,0"
+
+[HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\EditWithNPP\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\Notepad++Portable\\Notepad++Portable.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\EditWithKompoZer]
+@="Edit with KompoZer"
+"Icon"="D:\\Portable\\PortableApps.com\\PortableApps\\KompoZerPortable\\KompoZerPortable.exe,0"
+
+[HKEY_CLASSES_ROOT\hypertext_markup_language_file\shell\EditWithKompoZer\command]
+@="\"D:\\Portable\\PortableApps.com\\PortableApps\\KompoZerPortable\\KompoZerPortable.exe\" \"%1\""
 
 
 [HKEY_CLASSES_ROOT\FirefoxPortableURL]
