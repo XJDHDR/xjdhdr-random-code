@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9WTAhvQM9viEDdeOiI4DkQ
-! Version: 202002030200
+! Checksum: q4Z2lRUCKasYR1FbYcGs8Q
+! Version: 202002031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 03 Feb 2020 02:00 UTC
+! Last modified: 03 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -11094,6 +11094,12 @@ testpages.adblockplus.org#@##abptest
 @@||twt-assets.washtimes.com/v4/js/ads/config/homepage.js$script,domain=washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||washingtontimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/category.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/specials-detail.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/staff.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/flatpage-all.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/topics.$script,domain=washingtontimes.com
+@@||twt-assets.washtimes.com/v4/js/ads/config/massmedia.$script,domain=washingtontimes.com
 @@||lib.wtg-ads.com/prebid/prebid_$script,domain=novini.bg|sportal.bg
 @@||lib.wtg-ads.com/lib.min.js$domain=sportal.bg|novini.bg
 @@||lib.wtg-ads.com/publisher/*/standard.publisher.config.min.js$domain=sportal.bg|novini.bg
