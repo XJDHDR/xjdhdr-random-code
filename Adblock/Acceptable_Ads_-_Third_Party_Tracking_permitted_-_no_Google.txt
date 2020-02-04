@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZUonRotEvvO4dPHmkMa7CQ
-! Version: 202002040200
+! Checksum: iTLqys3nAT6bn+nEqgWeEA
+! Version: 202002041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Feb 2020 02:00 UTC
+! Last modified: 04 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6037,7 +6037,7 @@ cnn.com#@#.ad-1
 cnn.com#@#.ad-2
 cnn.com#@#.ad-3
 vecteezy.com,brusheezy.com,videezy.com#@#.adunit
-vecteezy.com,brusheezy.com,videezy.com#@#.tmsads
+vecteezy.com,brusheezy.com,videezy.com,publicschoolreview.com,privateschoolreview.com,boardingschoolreview.com,communitycollegereview.com#@#.tmsads
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
@@ -6264,9 +6264,9 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
 gameskinny.com#@#.adslot
-videezy.com#@#.ad-horizontal
+videezy.com#@#.sticky-ad
+windfinder.com#@#.ad-horizontal
 windfinder.com#@#.ad-sticky
-windfinder.com#@#.sticky-ad
 gamerlaunch.com#@#.adFrame
 airportia.com#@#.ad-item
 visitlondon.com#@#.advert-leaderboard
@@ -7161,24 +7161,27 @@ www.gismeteo.ru#@#.widget-container
 @@||jsc.mgid.com/p/o/politikstube.com.224019.js$domain=politikstube.com
 @@||jsc.mgid.com/p/o/politikstube.com.224016.js$domain=politikstube.com
 @@||jsc.mgid.com/g/i/girlsaskguys.com.382583.js$domain=girlsaskguys.com
-@@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||s-img.mgid.com/g/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cdn.mgid.com/images/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cdn.mgid.com/js/wglibs/$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cm.mgid.com^$script,image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||mgid.com/ghits/*/777/$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cm.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||c.mgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||c.marketgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||autocounter.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#[id*="ScriptRoot"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#[id*="MarketGid"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#div[id^="M"][id*="Composite"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#a[href^="//www.mgid.com/"]
+@@||jsc.mgid.com/r/a/rayon.in.ua.723385.js$domain=rayon.in.ua
+@@||jsc.mgid.com/s/h/sharij.net.366074.js$domain=sharij.net
+@@||jsc.mgid.com/d/r/dreuz.info.287514.js$domain=dreuz.info
+@@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||s-img.mgid.com/g/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cdn.mgid.com/images/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cdn.mgid.com/js/wglibs/$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cm.mgid.com^$script,image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cm.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||c.mgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||c.marketgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||autocounter.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="ScriptRoot"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="MarketGid"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#div[id^="M"][id*="Composite"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#a[href^="//www.mgid.com/"]
 politikstube.com#@#div[class*="td-a-rec-id-"]
 politikstube.com#@#.td-a-rec
 girlsaskguys.com#@#.ad-slot
+@@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 !:partner_token=Lemonde.fr
 !:partner_id=e6ee3ec59227327c
 !:type=partner

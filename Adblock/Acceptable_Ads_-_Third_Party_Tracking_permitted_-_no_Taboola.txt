@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GrNY1+HX0WtUAB9xCGvJUQ
-! Version: 202002040200
+! Checksum: /oOOa1Vuoge9JpqoS3IVZw
+! Version: 202002041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 04 Feb 2020 02:00 UTC
+! Last modified: 04 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7716,7 +7716,7 @@ cnn.com#@#.ad-2
 cnn.com#@#.ad-3
 vecteezy.com,brusheezy.com,videezy.com#@#.adunit
 simpleflying.com#@#.afw_ad
-vecteezy.com,brusheezy.com,videezy.com#@#.tmsads
+vecteezy.com,brusheezy.com,videezy.com,publicschoolreview.com,privateschoolreview.com,boardingschoolreview.com,communitycollegereview.com#@#.tmsads
 qa.saymedia.com,maxim.com,fashionista.com,yogajournal.com,backpacker.com,beautyeditor.ca,blazepress.com,bringmethenews.com,collegefashion.net,djbooth.net,guitarworld.com,joyofkosher.com,psmag.com,theultralinx.com,verilymag.com,acquiremag.com,imabeautygeek.com,daytimeconfidential.com,emusician.com,freshnessmag.com,guitarplayer.com,keyboardmag.com,magneticmag.com,mixonline.com,momtrends.com,opposingviews.com,prosoundnetwork.com,residentialsystems.com,sabotagetimes.com,twice.com,audiomediainternational.com,avnetwork.com,baronmag.com,bassplayer.com,bikebiz.com,bosshunting.com.au,broadcastingcable.com,creativeplanetnetwork.com,edm.com,installation-international.com,licensing.biz,mcvuk.com,meninblazers.com,multichannel.com,musicweek.com,pcr-online.biz,prettymuchamazing.com,psneurope.com,radioworld.com,svconline.com,sportsgossip.com,stylegirlfriend.com,techlearning.com,techsourceint.com,toynews-online.biz,tvtechnology.com,tvbeurope.com,alwayspacked.com,baronmag.ca,clementinedaily.com,everything-anna.com,fitedm.com,funsizehorror.com,geniionline.com,glamamom.com,governmentvideo.com,hypefreshmag.com,ostomyconnection.com,radiomagonline.com,saydaily.com,shinemycrown.com,thefoldmag.com,zebrahorn.com,snakkle.com,sailmagazine.com,dressagetoday.com,equisearch.com,equusmagazine.com,horseandrider.com,oldhouseonline.com,passagemaker.com,powerandmotoryacht.com,practicalhorsemanmag.com,soundingsonline.com,stablemanagement.com,teamropingjournal.com,tradeonlytoday.com,americancowboy.com,artsandcraftshomes.com,daniamarinefleamarket.com,justboughtahorse.com,traditionalbuilding.com,woodshopnews.com,yachtsinternational.com,anglersjournal.com,equimanagement.com,period-homes.com,cleaneatingmag.com,climbing.com,skimag.com,vegetariantimes.com,betternutrition.com,muscleandperformance.com,mygrandcanyonpark.com,yellowstonepark.com,oxygenmag.com,snewsnet.com,theboxmag.com,amazingwellnessmag.com,myolympicpark.com,myrockymountainpark.com,mysmokymountainpark.com,myutahparks.com,myyosemitepark.com,nationalparktrips.com,cupcakesandcashmere.com,mtonews.com,biography.com#@#.m-header-ad--slot
 qa.saymedia.com,maxim.com,fashionista.com,yogajournal.com,backpacker.com,beautyeditor.ca,blazepress.com,bringmethenews.com,collegefashion.net,djbooth.net,guitarworld.com,joyofkosher.com,psmag.com,theultralinx.com,verilymag.com,acquiremag.com,imabeautygeek.com,daytimeconfidential.com,emusician.com,freshnessmag.com,guitarplayer.com,keyboardmag.com,magneticmag.com,mixonline.com,momtrends.com,opposingviews.com,prosoundnetwork.com,residentialsystems.com,sabotagetimes.com,twice.com,audiomediainternational.com,avnetwork.com,baronmag.com,bassplayer.com,bikebiz.com,bosshunting.com.au,broadcastingcable.com,creativeplanetnetwork.com,edm.com,installation-international.com,licensing.biz,mcvuk.com,meninblazers.com,multichannel.com,musicweek.com,pcr-online.biz,prettymuchamazing.com,psneurope.com,radioworld.com,svconline.com,sportsgossip.com,stylegirlfriend.com,techlearning.com,techsourceint.com,toynews-online.biz,tvtechnology.com,tvbeurope.com,alwayspacked.com,baronmag.ca,clementinedaily.com,everything-anna.com,fitedm.com,funsizehorror.com,geniionline.com,glamamom.com,governmentvideo.com,hypefreshmag.com,ostomyconnection.com,radiomagonline.com,saydaily.com,shinemycrown.com,thefoldmag.com,zebrahorn.com,snakkle.com,sailmagazine.com,dressagetoday.com,equisearch.com,equusmagazine.com,horseandrider.com,oldhouseonline.com,passagemaker.com,powerandmotoryacht.com,practicalhorsemanmag.com,soundingsonline.com,stablemanagement.com,teamropingjournal.com,tradeonlytoday.com,americancowboy.com,artsandcraftshomes.com,daniamarinefleamarket.com,justboughtahorse.com,traditionalbuilding.com,woodshopnews.com,yachtsinternational.com,anglersjournal.com,equimanagement.com,period-homes.com,cleaneatingmag.com,climbing.com,skimag.com,vegetariantimes.com,betternutrition.com,muscleandperformance.com,mygrandcanyonpark.com,yellowstonepark.com,oxygenmag.com,snewsnet.com,theboxmag.com,amazingwellnessmag.com,myolympicpark.com,myrockymountainpark.com,mysmokymountainpark.com,myutahparks.com,myyosemitepark.com,nationalparktrips.com,cupcakesandcashmere.com,mtonews.com,biography.com#@#.m-header-ad
 qa.saymedia.com,maxim.com,fashionista.com,yogajournal.com,backpacker.com,beautyeditor.ca,blazepress.com,bringmethenews.com,collegefashion.net,djbooth.net,guitarworld.com,joyofkosher.com,psmag.com,theultralinx.com,verilymag.com,acquiremag.com,imabeautygeek.com,daytimeconfidential.com,emusician.com,freshnessmag.com,guitarplayer.com,keyboardmag.com,magneticmag.com,mixonline.com,momtrends.com,opposingviews.com,prosoundnetwork.com,residentialsystems.com,sabotagetimes.com,twice.com,audiomediainternational.com,avnetwork.com,baronmag.com,bassplayer.com,bikebiz.com,bosshunting.com.au,broadcastingcable.com,creativeplanetnetwork.com,edm.com,installation-international.com,licensing.biz,mcvuk.com,meninblazers.com,multichannel.com,musicweek.com,pcr-online.biz,prettymuchamazing.com,psneurope.com,radioworld.com,svconline.com,sportsgossip.com,stylegirlfriend.com,techlearning.com,techsourceint.com,toynews-online.biz,tvtechnology.com,tvbeurope.com,alwayspacked.com,baronmag.ca,clementinedaily.com,everything-anna.com,fitedm.com,funsizehorror.com,geniionline.com,glamamom.com,governmentvideo.com,hypefreshmag.com,ostomyconnection.com,radiomagonline.com,saydaily.com,shinemycrown.com,thefoldmag.com,zebrahorn.com,snakkle.com,sailmagazine.com,dressagetoday.com,equisearch.com,equusmagazine.com,horseandrider.com,oldhouseonline.com,passagemaker.com,powerandmotoryacht.com,practicalhorsemanmag.com,soundingsonline.com,stablemanagement.com,teamropingjournal.com,tradeonlytoday.com,americancowboy.com,artsandcraftshomes.com,daniamarinefleamarket.com,justboughtahorse.com,traditionalbuilding.com,woodshopnews.com,yachtsinternational.com,anglersjournal.com,equimanagement.com,period-homes.com,cleaneatingmag.com,climbing.com,skimag.com,vegetariantimes.com,betternutrition.com,muscleandperformance.com,mygrandcanyonpark.com,yellowstonepark.com,oxygenmag.com,snewsnet.com,theboxmag.com,amazingwellnessmag.com,myolympicpark.com,myrockymountainpark.com,mysmokymountainpark.com,myutahparks.com,myyosemitepark.com,nationalparktrips.com,cupcakesandcashmere.com,mtonews.com,biography.com#@#.m-in-content-ad--slot
@@ -8002,9 +8002,9 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
 closerweekly.com,intouchweekly.com,lifeandstylemag.com#@#.dfp-wrapper
 gameskinny.com#@#.adslot
-videezy.com#@#.ad-horizontal
+videezy.com#@#.sticky-ad
+windfinder.com#@#.ad-horizontal
 windfinder.com#@#.ad-sticky
-windfinder.com#@#.sticky-ad
 gamerlaunch.com#@#.adFrame
 airportia.com#@#.ad-item
 visitlondon.com#@#.advert-leaderboard
@@ -9128,24 +9128,27 @@ www.gismeteo.ru#@#.widget-container
 @@||jsc.mgid.com/p/o/politikstube.com.224019.js$domain=politikstube.com
 @@||jsc.mgid.com/p/o/politikstube.com.224016.js$domain=politikstube.com
 @@||jsc.mgid.com/g/i/girlsaskguys.com.382583.js$domain=girlsaskguys.com
-@@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||s-img.mgid.com/g/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cdn.mgid.com/images/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cdn.mgid.com/js/wglibs/$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cm.mgid.com^$script,image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||mgid.com/ghits/*/777/$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||cm.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||c.mgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||c.marketgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-@@||autocounter.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#[id*="ScriptRoot"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#[id*="MarketGid"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#div[id^="M"][id*="Composite"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com#@#a[href^="//www.mgid.com/"]
+@@||jsc.mgid.com/r/a/rayon.in.ua.723385.js$domain=rayon.in.ua
+@@||jsc.mgid.com/s/h/sharij.net.366074.js$domain=sharij.net
+@@||jsc.mgid.com/d/r/dreuz.info.287514.js$domain=dreuz.info
+@@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||s-img.mgid.com/g/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cdn.mgid.com/images/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cdn.mgid.com/js/wglibs/$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cm.mgid.com^$script,image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cm.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||c.mgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||c.marketgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||autocounter.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="ScriptRoot"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="MarketGid"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#div[id^="M"][id*="Composite"]
+goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#a[href^="//www.mgid.com/"]
 politikstube.com#@#div[class*="td-a-rec-id-"]
 politikstube.com#@#.td-a-rec
 girlsaskguys.com#@#.ad-slot
+@@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 !:partner_token=Lemonde.fr
 !:partner_id=e6ee3ec59227327c
 !:type=partner
