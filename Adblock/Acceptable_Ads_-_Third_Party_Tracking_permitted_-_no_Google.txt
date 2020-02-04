@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qzhm7SlR7YjZZINdc/8SRg
-! Version: 202002031400
+! Checksum: ZUonRotEvvO4dPHmkMa7CQ
+! Version: 202002040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Feb 2020 14:00 UTC
+! Last modified: 04 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1189,6 +1189,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||whizzco.com/scripts/widget/widget_sm.js$domain=sheknows.com
 @@||20mn.fr^*/tc_20Minutes_ads_desktop.js$domain=20minutes.fr
 @@||adhese.com/json/sl_llb_international_europe_-THINARTICLE_CENTER/$xmlhttprequest,domain=lalibre.be
+||celebspulse.com^*/ouibounce.js
+celebspulse.com##.below-next-nativeads
 e-sante.fr#@##block-gc-ad-bloc-centre-1
 e-sante.fr#@#.block-gc-ad
 dlnowsoft.com#@#.adframe
@@ -6052,7 +6054,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
-@@||im-g.pl/static/adview/$script,domain=metrowarszawa.gazeta.pl
+@@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl
 stylechambers.com#@#.ad-content
 stylechambers.com#@#.ad-wrapper
 stylechambers.com#@#.ad-frame
@@ -6248,6 +6250,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
+/static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
 @@/prebid.$script,domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com|s1homes.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@/adfuel/*$script,domain=cnn.com
@@ -6260,6 +6263,10 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+gameskinny.com#@#.adslot
+videezy.com#@#.ad-horizontal
+windfinder.com#@#.ad-sticky
+windfinder.com#@#.sticky-ad
 gamerlaunch.com#@#.adFrame
 airportia.com#@#.ad-item
 visitlondon.com#@#.advert-leaderboard
