@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AhHIyJ414+hVCU0TuItanQ
-! Version: 202002041400
+! Checksum: XuLnF2/je7iNGqarDDNGaw
+! Version: 202002050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Feb 2020 14:00 UTC
+! Last modified: 05 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4559,6 +4559,14 @@ fabcrusaders.com#@##ad_text:not(textarea)
 @@||dianomi.com/smartads.epl?id=2727^$subdocument,domain=marketwatch.com
 @@||dianomi.com/cgi-bin/context.pl?id=$domain=marketwatch.com
 @@||dianomi.com/js/contextfeed.js$domain=marketwatch.com
+@@||dianomi.com/cgi-bin/$image,domain=marketwatch.com
+@@||dianomi.com/partner/dianomi/css/$stylesheet,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2270^$subdocument,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2582^$subdocument,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2586^$subdocument,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2589^$subdocument,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2590^$subdocument,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2606^$subdocument,domain=marketwatch.com
 finews.asia#@#div[id^="div-gpt-ad"]
 seekingalpha.com#@##source-ad-native-sticky-wrapper
 seekingalpha.com###article-right-slot-1
@@ -6210,6 +6218,10 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+gameskinny.com#@##adslot1
+gameskinny.com#@##adslot2
+gameskinny.com#@##adslot3
+gameskinny.com#@#.adloaded
 gameskinny.com#@#.adslot
 videezy.com#@#.sticky-ad
 windfinder.com#@#.ad-horizontal
