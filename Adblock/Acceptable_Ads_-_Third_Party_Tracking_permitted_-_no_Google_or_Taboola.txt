@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XuLnF2/je7iNGqarDDNGaw
-! Version: 202002050200
+! Checksum: mLor9VVN/owkcp4b33zCEg
+! Version: 202002051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Feb 2020 02:00 UTC
+! Last modified: 05 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4564,6 +4564,7 @@ fabcrusaders.com#@##ad_text:not(textarea)
 @@||dianomi.com/smartads.epl?id=2270^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2582^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2586^$subdocument,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2588^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2589^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2590^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2606^$subdocument,domain=marketwatch.com
@@ -5993,8 +5994,8 @@ cnn.com#@#.ad-2
 cnn.com#@#.ad-3
 vecteezy.com,brusheezy.com,videezy.com#@#.adunit
 vecteezy.com,brusheezy.com,videezy.com,publicschoolreview.com,privateschoolreview.com,boardingschoolreview.com,communitycollegereview.com#@#.tmsads
-rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover 
-rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad 
+rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad-hover
+rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad
 rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.js-ad
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|lotrointerface.com|mmoui.com|riftui.com|secretui.com|swtorui.com|wowinterface.com|fextralife.com|metasrc.com|nerfplz.com|poe.trade|wowhead.com|ygoprodeck.com
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
@@ -6878,8 +6879,6 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
-@@||onscroll-d.openx.net^
-@@||tags.onscroll.com^
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
