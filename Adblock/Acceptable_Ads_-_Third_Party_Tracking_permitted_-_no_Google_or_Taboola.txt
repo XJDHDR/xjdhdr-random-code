@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mLor9VVN/owkcp4b33zCEg
-! Version: 202002051400
+! Checksum: ORxUA/B5p1dO2tvGfprgUA
+! Version: 202002060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Feb 2020 14:00 UTC
+! Last modified: 06 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4020,6 +4020,7 @@ truthfeednews.com#@#.quads-ad2
 wnd.com#@#[style*="background-image:"]
 cbsnews.com#@#.ad-unit
 conservativeflash.com#@##mvp-post-bot-ad
+sunsigns.org##.e3lan-top
 !:partner_token=cuisinezpourvospapilles.fr
 !:partner_id=866aa7846766c0a1
 !:type=partner
