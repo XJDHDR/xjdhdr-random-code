@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +jD1f8g6Z7nBhmrcNGXNJA
-! Version: 202002061400
+! Checksum: /ufsFHmwYEpBzZ5NM5Vk2A
+! Version: 202002070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Feb 2020 14:00 UTC
+! Last modified: 07 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1194,6 +1194,7 @@ celebspulse.com##.below-next-nativeads
 e-sante.fr#@##block-gc-ad-bloc-centre-1
 e-sante.fr#@#.block-gc-ad
 dlnowsoft.com#@#.adframe
+thedelite.com#@#.ad-label
 people.com#@##adBottom
 orange.fr#@##commercial-links
 meteoconsult.fr#@##favoris_pub_ligatus
@@ -6212,6 +6213,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@/adfuel/*$script,domain=cnn.com
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
+@@||cdn.orangeclickmedia.com/tech/libs/prebid.js$domain=ethnos.gr|iefimerida.gr|pronews.gr
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
@@ -6220,6 +6222,8 @@ buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+jobright.com,jobungo.com#@#.right-ad
+jobseeq.com#@#.ad-right
 gameskinny.com#@##adslot1
 gameskinny.com#@##adslot2
 gameskinny.com#@##adslot3
@@ -6973,6 +6977,7 @@ digireality.cz#@#[id^="aswift"]
 @@||coincodex.com/apps/coincodex/lib/position/index.html?name=leaderboard^$subdocument,domain=coincodex.com
 @@||coincodex.com/apps/coincodex/lib/position/position.php?name=leaderboard^$subdocument,domain=coincodex.com
 @@||coincodex.com^$generichide
+flyclipart.com#@#.responsive-ads
 bitinfocharts.com#@#.adDiv
 coingecko.com#@#.ad-spacer
 coingecko.com#@#.img_ad
@@ -7083,10 +7088,10 @@ www.gismeteo.ru#@#.widget-container
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
-@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
-@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
-@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com
+@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
+@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
+@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
+@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
 !:partner_token=BurdaForward
 !:partner_id=7427b39123282e69
 !:type=partner
