@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ufsFHmwYEpBzZ5NM5Vk2A
-! Version: 202002070200
+! Checksum: JrgomHwyvkdgjNZIHoRI6Q
+! Version: 202002071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Feb 2020 02:00 UTC
+! Last modified: 07 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1190,6 +1190,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||20mn.fr^*/tc_20Minutes_ads_desktop.js$domain=20minutes.fr
 @@||adhese.com/json/sl_llb_international_europe_-THINARTICLE_CENTER/$xmlhttprequest,domain=lalibre.be
 ||celebspulse.com^*/ouibounce.js
+||unpuzzlefinance.com^*/ouibounce.js
+unpuzzlefinance.com#@#.below-next-nativeads
 celebspulse.com##.below-next-nativeads
 e-sante.fr#@##block-gc-ad-bloc-centre-1
 e-sante.fr#@#.block-gc-ad
@@ -3723,18 +3725,6 @@ iconfinder.com#@#.carbon_ads
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40953
 ! free-blog.net ads
-!:partner_token=Chameleon AD
-!:partner_id=21583baf2e696549
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42306
-! Ads by Chameleon
-@@||chameleon.ad/script/l.php$image,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
-@@||chameleon.ad^$script,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
-@@||static.chameleon.ad/banner/$image,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
-@@||static.chameleon.ad/images/chameleon_$image,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
-@@||track.adform.net^$popup,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
-@@||populisengage.com/RealMedia/ads/click_$popup,domain=autoblog.it|blogosfere.it|motoblog.it|excite.it|motorsportblog.it|appblog.it|blogvoip.it|clickblog.it|downloadblog.it|gadgetblog.it|gamesblog.it|melablog.it|mobileblog.it|ossblog.it|betsblog.it|calcioblog.it|outdoorblog.it|02blog.it|06blog.it|benessereblog.it|crimeblog.it|ecoblog.it|finanzablog.it|polisblog.it|soldiblog.it|blogapuntate.it|cineblog.it|soundsblog.it|tvblog.it|artsblog.it|booksblog.it|comicsblog.it|designerblog.it|happyblog.it|petsblog.it|toysblog.it|travelblog.it|bebeblog.it|deluxeblog.it|fashionblog.it|gossipblog.it|gustoblog.it|pinkblog.it|ilmessaggero.it|kijiji.it
-autoblog.it,blogosfere.it,motoblog.it,excite.it,motorsportblog.it,appblog.it,blogvoip.it,clickblog.it,downloadblog.it,gadgetblog.it,gamesblog.it,melablog.it,mobileblog.it,ossblog.it,betsblog.it,calcioblog.it,outdoorblog.it,02blog.it,06blog.it,benessereblog.it,crimeblog.it,ecoblog.it,finanzablog.it,polisblog.it,soldiblog.it,blogapuntate.it,cineblog.it,soundsblog.it,tvblog.it,artsblog.it,booksblog.it,comicsblog.it,designerblog.it,happyblog.it,petsblog.it,toysblog.it,travelblog.it,bebeblog.it,deluxeblog.it,fashionblog.it,gossipblog.it,gustoblog.it,pinkblog.it,ilmessaggero.it,kijiji.it#@#.ads_content
 !:partner_token=yepman.ru
 !:partner_id=b4bb0b15fed633b7
 !:type=partner
@@ -6207,21 +6197,23 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
-/static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co
+@@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co|buzzfeed.io
+/static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co|buzzfeed.io
 @@/prebid.$script,domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com|s1homes.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@/adfuel/*$script,domain=cnn.com
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 @@||cdn.orangeclickmedia.com/tech/libs/prebid.js$domain=ethnos.gr|iefimerida.gr|pronews.gr
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
+@@||areavibes.com/assets/prebid.js$domain=areavibes.com
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
-buzzfeed.com,buzzfeednews.com,tasty.co#@#.card--article-ad
-buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-ex
-buzzfeed.com,buzzfeednews.com,tasty.co#@#.ad-slot
-buzzfeed.com,buzzfeednews.com,tasty.co#@#.js-ad-slot
+buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.card--article-ad
+buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.ad-ex
+buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.ad-slot
+buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.js-ad-slot
+buzzfeednews.com,tasty.co,buzzfeed.io,#@#.ad-fadeup
 jobright.com,jobungo.com#@#.right-ad
 jobseeq.com#@#.ad-right
 gameskinny.com#@##adslot1
