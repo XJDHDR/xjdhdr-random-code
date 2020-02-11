@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P4o/rxZTUbMxsSdJxY+FzA
-! Version: 202002101400
+! Checksum: qEcvlWAC7edfHckGtynM4g
+! Version: 202002110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Feb 2020 14:00 UTC
+! Last modified: 11 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6270,6 +6270,8 @@ buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.js-ad-slot
 buzzfeednews.com,tasty.co,buzzfeed.io,#@#.ad-fadeup
 jobright.com,jobungo.com#@#.right-ad
+runt-of-the-web.com#@#.mrec
+runt-of-the-web.com#@#.header-banner
 jobseeq.com#@#.ad-right
 gameskinny.com#@##adslot1
 gameskinny.com#@##adslot2
