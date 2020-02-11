@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fKiPzvcuDhmcrfGdKu5JQA
-! Version: 202002110200
+! Checksum: SHqFGFGwALznyZnXLgQ0tw
+! Version: 202002111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Feb 2020 02:00 UTC
+! Last modified: 11 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5999,7 +5999,10 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||tradecraft.s.llnwi.net/v1/pub/03/ac.js$domain=arcamax.com
 @@||tradecraft.s.llnwi.net/v1/pub/03/alla.js$domain=arcamax.com
 @@||tradecraft.s.llnwi.net/v1/pub/04/u.js$domain=uberhumor.com
-@@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com
+@@||tradecraft.s.llnwi.net/v1/pub/06/wf_d.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/06/wf_h.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/06/wf.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com|walterfootball.com
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
@@ -6329,6 +6332,7 @@ ebaumsworld.com#@##subheader_atf_wrapper
 www.visitlondon.com#@##ad_header
 www.visitlondon.com#@##ad_footer
 www.visitlondon.com#@#.advert-mpu
+futhead.com#@#.gpt-ad
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
