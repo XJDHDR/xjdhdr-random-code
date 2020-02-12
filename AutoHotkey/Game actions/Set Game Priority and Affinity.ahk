@@ -11,27 +11,43 @@ StartOfScript:
 	WinWaitActive, ahk_group ChangeGameAffinityList, 
 	Sleep, 1000
 	
-	sGroupToCheck := "SingleCore"
-	If ( CheckIfWindowInPassedAffinityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "DualCore"
-	Else If ( CheckIfWindowInPassedAffinityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "QuadCore"
-	Else If ( CheckIfWindowInPassedAffinityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "HexaCore"
-	CheckIfWindowInPassedAffinityGroup(sGroupToCheck)
+	sAffinityGroupToCheck := "SingleCore"
+	If ( CheckIfWindowInPassedAffinityGroup(sAffinityGroupToCheck) != True )
+	{
+		sAffinityGroupToCheck := "DualCore"
+		If ( CheckIfWindowInPassedAffinityGroup(sAffinityGroupToCheck) != True )
+		{
+			sAffinityGroupToCheck := "QuadCore"
+			If ( CheckIfWindowInPassedAffinityGroup(sAffinityGroupToCheck) != True )
+			{
+				sAffinityGroupToCheck := "HexaCore"
+				CheckIfWindowInPassedAffinityGroup(sAffinityGroupToCheck)
+			}
+		}
+	}
 	
-	sGroupToCheck := "RealtimePriority"
-	If ( CheckIfWindowInPassedPriorityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "HighPriority"
-	If ( CheckIfWindowInPassedPriorityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "AboveNormalPriority"
-	If ( CheckIfWindowInPassedPriorityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "NormalPriority"
-	If ( CheckIfWindowInPassedPriorityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "BelowNormalPriority"
-	If ( CheckIfWindowInPassedPriorityGroup(sGroupToCheck) != True )
-		sGroupToCheck := "LowPriority"
-	CheckIfWindowInPassedPriorityGroup(sGroupToCheck)
+	sPriorityGroupToCheck := "RealtimePriority"
+	If ( CheckIfWindowInPassedPriorityGroup(sPriorityGroupToCheck) != True )
+	{
+		sPriorityGroupToCheck := "HighPriority"
+		If ( CheckIfWindowInPassedPriorityGroup(sPriorityGroupToCheck) != True )
+		{
+			sPriorityGroupToCheck := "AboveNormalPriority"
+			If ( CheckIfWindowInPassedPriorityGroup(sPriorityGroupToCheck) != True )
+			{
+				sPriorityGroupToCheck := "NormalPriority"
+				If ( CheckIfWindowInPassedPriorityGroup(sPriorityGroupToCheck) != True )
+				{
+					sPriorityGroupToCheck := "BelowNormalPriority"
+					If ( CheckIfWindowInPassedPriorityGroup(sPriorityGroupToCheck) != True )
+					{
+						sPriorityGroupToCheck := "LowPriority"
+						CheckIfWindowInPassedPriorityGroup(sPriorityGroupToCheck)
+					}
+				}
+			}
+		}
+	}
 	
 	WinWaitClose, ahk_group ChangeGameAffinityList
 Goto, StartOfScript
@@ -129,32 +145,32 @@ CheckIfWindowInPassedPriorityGroup(sGroupToCheck)
 }
 
 
-ChangeGameAffinity_RealtimePriority(iPassedGamePID)
+ChangeGamePriority_RealtimePriority(iPassedGamePID)
 {
-	Process, Priority, %iGamePID%, R
+	Process, Priority, %iPassedGamePID%, R
 }
 
-ChangeGameAffinity_HighPriority(iPassedGamePID)
+ChangeGamePriority_HighPriority(iPassedGamePID)
 {
-	Process, Priority, %iGamePID%, H
+	Process, Priority, %iPassedGamePID%, H
 }
 
-ChangeGameAffinity_AboveNormalPriority(iPassedGamePID)
+ChangeGamePriority_AboveNormalPriority(iPassedGamePID)
 {
-	Process, Priority, %iGamePID%, A
+	Process, Priority, %iPassedGamePID%, A
 }
 
-ChangeGameAffinity_NormalPriority(iPassedGamePID)
+ChangeGamePriority_NormalPriority(iPassedGamePID)
 {
-	Process, Priority, %iGamePID%, N
+	Process, Priority, %iPassedGamePID%, N
 }
 
-ChangeGameAffinity_BelowNormalPriority(iPassedGamePID)
+ChangeGamePriority_BelowNormalPriority(iPassedGamePID)
 {
-	Process, Priority, %iGamePID%, B
+	Process, Priority, %iPassedGamePID%, B
 }
 
-ChangeGameAffinity_LowPriority(iPassedGamePID)
+ChangeGamePriority_LowPriority(iPassedGamePID)
 {
-	Process, Priority, %iGamePID%, L
+	Process, Priority, %iPassedGamePID%, L
 }

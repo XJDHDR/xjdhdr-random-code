@@ -42,6 +42,7 @@ AddWindowsToGroup()
 	GroupAdd, StandardGameList, ahk_exe rage.exe, 
 	GroupAdd, StandardGameList, ahk_exe rage64.exe, 
 	GroupAdd, StandardGameList, ahk_class Canvas ahk_exe SporeApp.exe, 
+	GroupAdd, StandardGameList, Total War: WARHAMMER ahk_class Shogun2 ahk_exe Warhammer.exe,
 	GroupAdd, StandardGameList, Total War: WARHAMMER 2 ahk_class Warhammer2 ahk_exe Warhammer2.exe, 
 	GroupAdd, StandardGameList, ahk_exe WorldOfTanks.exe, 
 
