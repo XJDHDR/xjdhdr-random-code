@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wXS178JNqmq/KS/RaRgHSQ
-! Version: 202002120200
+! Checksum: TQt2zRIrBFU3h9Jgt5kZ/g
+! Version: 202002121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Feb 2020 02:00 UTC
+! Last modified: 12 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3827,6 +3827,14 @@ yepman.ru#@#span[style="font-size:14px;"] + *
 ! 01humours.com ads
 @@||01humours.com/images/advertising.jpg$domain=01humours.com
 @@||01referencement.com/images/advertising.jpg$domain=01humours.com
+!:partner_token=OB Media
+!:partner_id=8b5b0a0ec8f38dbb
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55388
+! OB Media ads
+@@$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
+/abp/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
+@@/abp/px.gif?ch=1&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -6264,6 +6272,9 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||areavibes.com/assets/prebid.js$domain=areavibes.com
 @@||breitbart.com/t/assets/js/prebid-$script,domain=breitbart.com
+@@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
+@@||buzzfeednews.com/static/js/advertiser/amazon.js$domain=buzzfeednews.com
+@@||tasty.co/static-assets/tastyui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 se1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com,cn-jobs.co.uk,ea1jobs.com#@#.mpu_container
@@ -6273,6 +6284,8 @@ buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.ad-slot
 buzzfeed.com,buzzfeednews.com,tasty.co,buzzfeed.io#@#.js-ad-slot
 buzzfeednews.com,tasty.co,buzzfeed.io,#@#.ad-fadeup
 jobright.com,jobungo.com#@#.right-ad
+tasty.co#@#.js-ad
+buzzfeednews.com#@#.ad-wireframe-wrapper
 obrazovaka.ru#@#.ads-block
 obrazovaka.ru#@#.ads-footer
 obrazovaka.ru#@#.ads-sidebar
