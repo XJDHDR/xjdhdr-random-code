@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rmNBCgiaUmuptNt3kA7aMA
-! Version: 202002140200
+! Checksum: y1I8DFwnxtCfGdVH9WNTRA
+! Version: 202002150200
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 14 Feb 2020 02:00 UTC
+! Last modified: 15 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -69,8 +69,8 @@ xing.com#@#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-Medi
 xing.com#@#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
 @@||xing.com/xas/api/ads/auction_winners$xmlhttprequest,domain=xing.com
 @@||xing.com/xas/api/v2/ads/auction_winners$xmlhttprequest,domain=xing.com
-@@||xing.com/xas/api/ads/*/impressions?rid=$xmlhttprequest,domain=xing.com
-@@||xing.com/xas/api/ads/*/clicks?rid=$xmlhttprequest,domain=xing.com
+@@||xing.com/xas/api/ads/*/impressions^$xmlhttprequest,domain=xing.com
+@@||xing.com/xas/api/ads/*/clicks^$xmlhttprequest,domain=xing.com
 !:partner_token=VK
 !:partner_id=074ee4cdf1a775bf
 !:type=partner
