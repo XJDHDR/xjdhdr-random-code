@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LiyVnkzJGvlrqLfLKVk8UA
-! Version: 202002180200
+! Checksum: I4XtpLgdy3PEgyIR6rdeXg
+! Version: 202002181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 18 Feb 2020 02:00 UTC
+! Last modified: 18 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7558,7 +7558,7 @@ hearthpwn.com,siliconera.com#@#.ad-atf-medRect
 dealnews.com#@#.ad-banner
 dealnews.com#@#.ad-banner-top
 geeksaresexy.net#@#.ad-below
-hothardware.com#@#.ad-block
+iefimerida.gr,hothardware.com#@#.ad-block
 clubroadster.net#@#.ad-card
 guidingtech.com#@#.ad-centered
 kongregate.com##.ad-container
