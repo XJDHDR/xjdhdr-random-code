@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YRsIAlmx8rpzjWcT1QWvBQ
-! Version: 202002171400
+! Checksum: 2fN7EvhAn9YjPuc3EKNytQ
+! Version: 202002180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 17 Feb 2020 14:00 UTC
+! Last modified: 18 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7164,6 +7164,7 @@ www.gismeteo.ru#@#.widget-container
 @@||jsc.mgid.com/g/i/girlsaskguys.com.382583.js$domain=girlsaskguys.com
 @@||jsc.mgid.com/r/a/rayon.in.ua.723385.js$domain=rayon.in.ua
 @@||jsc.mgid.com/s/h/sharij.net.366074.js$domain=sharij.net
+@@||jsc.marketgid.com/s/h/sharij.net.683513.js$domain=sharij.net
 @@||jsc.mgid.com/d/r/dreuz.info.287514.js$domain=dreuz.info
 @@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
 @@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
@@ -7191,6 +7192,13 @@ girlsaskguys.com#@#.ad-slot
 ||lemde.fr/vendor/px.js?ch=2$domain=lemonde.fr
 @@||lemde.fr/vendor/px.js?ch=1$domain=lemonde.fr
 @@||lemde.fr/glmaw.$script,domain=lemonde.fr
+!:partner_token=comparis.ch
+!:partner_id=13ba6f87a5e9efa7
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=76232
+! comparis.ch
+comparis.ch#@#.ad-slot
+comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
