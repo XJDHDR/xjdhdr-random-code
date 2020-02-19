@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kaTMy9/hRtBMFyZa7PNLtg
-! Version: 202002190200
+! Checksum: qMmiIyrEmQZM0b/VK1ycLA
+! Version: 202002191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Feb 2020 02:00 UTC
+! Last modified: 19 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6060,6 +6060,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 !
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
+@@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
 musumazyliai.lt#@##ad-rectangle
 awkwardzombie.com#@##ad_left
@@ -6222,7 +6223,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||jerusalemonline.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
-@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
+@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
 @@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|autogidas.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6244,7 +6245,6 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co|buzzfeed.io
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeednews.com|tasty.co|buzzfeed.io
-@@/prebid.$script,domain=se1jobs.com|em1jobs.com|l1jobs.com|ne1jobs.com|nw1jobs.com|ox1jobs.com|sw1jobs.com|w1jobs.com|wm1jobs.com|cn-jobs.co.uk|ea1jobs.com|s1homes.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@/adfuel/*$script,domain=cnn.com
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
@@ -7131,17 +7131,6 @@ www.gismeteo.ru#@#.widget-container
 @@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
 @@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
 @@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
-!:partner_token=BurdaForward
-!:partner_id=7427b39123282e69
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75242
-! Ads by BurdaForward
-@@||acdn.adnxs.com^*&pub_id=1454503$document,subdocument,domain=focus.de
-@@||ad-srv.net^$document,subdocument,script,domain=focus.de
-@@||bf-ad.net/adengine^$script,domain=focus.de
-@@||adnxs.com^$domain=focus.de
-||focus.de/px.gif?ch=2$domain=focus.de
-@@||focus.de/px.gif?ch=1$domain=focus.de
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
@@ -9273,15 +9262,15 @@ yahoo.com#@#.uba-container
 yahoo.com#@#.billboard-ads
 yahoo.com#@#.darla
 ! Yahoo Mail
-! @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
-! @@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
-! ||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
-! @@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
-! @@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
-! @@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
-! mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
-! mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
-! mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
+@@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
+@@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
+||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
+@@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
+@@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
+@@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
+mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
+mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
+mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner
