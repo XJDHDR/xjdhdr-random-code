@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I4XtpLgdy3PEgyIR6rdeXg
-! Version: 202002181400
+! Checksum: bjxpEAPFin5QCzup9pFhEA
+! Version: 202002190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 18 Feb 2020 14:00 UTC
+! Last modified: 19 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2112,6 +2112,7 @@ thenoob.net#@#.adinjwidget
 !:partner_id=25a5b2915c0c608d
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
+@@/adblockdetection/adblockDetector.min.js$domain=imore.com
 @@||escolaeducacao.com.br/wp-content/plugins/better-adsmanager/js/advertising.min.js$script,domain=escolaeducacao.com.br
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
@@ -8411,6 +8412,7 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displaye
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#iframe[id^="google_ads_frame"]
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content-wrapper
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#iframe[name^="google_ads_iframe"]
+@@/ads.min.js$domain=softonic.com
 @@||g.doubleclick.net/gampad/ads?*_native_$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn,xmlhttprequest
 @@||g.doubleclick.net/gampad/ads?*adBlock%3Dtrue$script,xmlhttprequest,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
 @@||googlesyndication.com/safeframe/$subdocument,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn,other,document
