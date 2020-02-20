@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bx1LJVOtTQ58l+e5KU3RHw
-! Version: 202002200200
+! Checksum: Z0/V0ymfpwqYzGRmo6rZ5Q
+! Version: 202002201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Feb 2020 02:00 UTC
+! Last modified: 20 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1192,6 +1192,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 ||celebspulse.com^*/ouibounce.js
 ||unpuzzlefinance.com^*/ouibounce.js
 unpuzzlefinance.com#@#.below-next-nativeads
+brit.co#@#.ad-tag
+money.com#@#.ad-sticky-container
 celebspulse.com##.below-next-nativeads
 e-sante.fr#@##block-gc-ad-bloc-centre-1
 e-sante.fr#@#.block-gc-ad
@@ -6876,6 +6878,11 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=65559
 ! Habrahabr LLC ads
+@@||yandex.net/get-direct/$image,domain=habr.com
+@@||an.yandex.ru/meta/$domain=habr.com
+@@||an.yandex.ru/system/context.js$domain=habr.com
+habr.com#@#.sidebar > .sidebar_right_ad
+habr.com#@#.dfp-slot__placeholder-text a
 habr.com#@#.sidebar_right_ad
 !:partner_token=express-novosti.ru
 !:partner_id=be2745a8380cdcf3
