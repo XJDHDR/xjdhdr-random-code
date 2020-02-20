@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qMmiIyrEmQZM0b/VK1ycLA
-! Version: 202002191400
+! Checksum: 6APZQzAmY6673zlPtcjerQ
+! Version: 202002200200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Feb 2020 14:00 UTC
+! Last modified: 20 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6923,6 +6923,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
+@@^unblock=true^$document,subdocument,script,xmlhttprequest,domain=fantasypros.com|liverpoolecho.co.uk
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
