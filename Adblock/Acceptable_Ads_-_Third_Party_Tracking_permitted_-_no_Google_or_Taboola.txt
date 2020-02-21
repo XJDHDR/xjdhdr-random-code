@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PPPQ4viovIWUDi/CTqmEiw
-! Version: 202002210200
+! Checksum: hzigSkUsgEBSz2cCbWik0g
+! Version: 202002211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Feb 2020 02:00 UTC
+! Last modified: 21 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1271,6 +1271,7 @@ dailycaller.com##.OUTBRAIN > .ob-widget.CRAB_4
 foxnews.com##.OUTBRAIN > .ob_dual_container.CR_2 > .ob_dual_left > .obpd_header + ul
 dailystar.co.uk,express.co.uk,ok.co.uk##.OUTBRAIN > [class*="AR_"] > .ob-first .ob-p
 dailystar.co.uk,ok.co.uk##.OUTBRAIN > [class*="SB_"] > .ob-first .ob-p
+bizportal.co.il##.OUTBRAIN[data-widget-id="AR_8"] .ob-p
 beaumontenterprise.com,ctnews.com,ctpost.com,greenwichtime.com,newstimes.com,seattlepi.com,sfgate.com,stamfordadvocate.com,timesunion.com##.OUTBRAIN > div[class*="AR_"] > .ob_dual_left
 one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 one.co.il,valeursactuelles.com##.OUTBRAIN[data-widget-id="AR_2"]
@@ -6172,7 +6173,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||jerusalemonline.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
-@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
+@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
 @@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|autogidas.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6565,7 +6566,6 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading +
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displayed
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content-wrapper
-@@/ads.min.js$domain=softonic.com
 @@||sftcdn.net/acmp^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
 !
 !
@@ -7475,6 +7475,10 @@ testpages.adblockplus.org#@##abptest
 @@||related.motor1.com^$domain=motor1.com,document
 @@||related.searchenginejournal.com^$domain=searchenginejournal.com
 @@||related.searchenginejournal.com^$domain=searchenginejournal.com,document
+@@||related.charlieintel.com^$domain=charlieintel.com
+@@||related.charlieintel.com^$domain=charlieintel.com,document
+@@||related.fortniteintel.com^$domain=fortniteintel.com
+@@||related.fortniteintel.com^$domain=fortniteintel.com,document
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
@@ -7604,6 +7608,8 @@ billboard.com,hollywoodreporter.com#@#.ad-container
 billboard.com#@#.rail-ad
 billboard.com#@#.ad-holder
 gamepur.com,dotesports.com#@#.proper-ad-unit
+charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
+charlieintel.com,fortniteintel.com#@#.td-a-rec-id-custom_ad_2
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-billboard
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-bottom
 jezebel.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,clickhole.com,theinventory.com,avclub.com,deadspin.com,jalopnik.com,gizmodo.com#@#.ad-top
@@ -9641,6 +9647,7 @@ yahoo.com,~mail.yahoo.com#@#.stream-ad
 yahoo.com,~mail.yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
 yahoo.com,~mail.yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
 yahoo.com,~mail.yahoo.com#@#div[style*="/ads/"]
+yahoo.com,~mail.yahoo.com#@#.ad-content
 yahoo.com##a[href*="beap.gemini.yahoo.com/mbclk?"] > img[src*=".gif"]
 @@||yahoo.com^*/av/moneyball/ads/$image,domain=~mail.yahoo.com
 @@||yahoo.com^*/av/curveball/ads/$image,domain=~mail.yahoo.com

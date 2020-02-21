@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3SnGV4c7SufLLr+Su+RoMg
-! Version: 202002210200
+! Checksum: 8J1je5Yw8ZiXHezcuC+BeQ
+! Version: 202002211400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 21 Feb 2020 02:00 UTC
+! Last modified: 21 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -371,6 +371,7 @@ yahoo.com,~mail.yahoo.com#@#.stream-ad
 yahoo.com,~mail.yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
 yahoo.com,~mail.yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
 yahoo.com,~mail.yahoo.com#@#div[style*="/ads/"]
+yahoo.com,~mail.yahoo.com#@#.ad-content
 yahoo.com##a[href*="beap.gemini.yahoo.com/mbclk?"] > img[src*=".gif"]
 @@||yahoo.com^*/av/moneyball/ads/$image,domain=~mail.yahoo.com
 @@||yahoo.com^*/av/curveball/ads/$image,domain=~mail.yahoo.com
