@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aDt9/bnvo+wroqgzJV8Lhw
-! Version: 202002201400
+! Checksum: LP70mWHq543gC7O/vEEPRA
+! Version: 202002210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 20 Feb 2020 14:00 UTC
+! Last modified: 21 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2392,7 +2392,7 @@ elconfidencialdigital.com#@#.custom-ads
 nme.com#@#div[data-item-syndicated="true"]
 ac-illust.com#@#.section-ads
 chobirich.com#@#.ad_area
-lacapital.com.ar#@#.ads-wrapper
+unosantafe.com.ar,lacapital.com.ar#@#.ads-wrapper
 bonnesimages.com,gbpicsonline.com#@#.native-ad
 subscene.com###content > .banner
 !:partner_token=cyfrowydoradca.pl
