@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ky3LEsL0CbBFTakbjlOPQg
-! Version: 202002211400
+! Checksum: W0o1+Y2ZRYPWx/xuyaDVLw
+! Version: 202002220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Feb 2020 14:00 UTC
+! Last modified: 22 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -300,13 +300,6 @@ reddit.com##.promotedvideolink
 ! reddit.com#@##ad_9
 ! @@||amazon-adsystem.com^$domain=reddit.com
 ! @@||amazon-adsystem.com^$document,domain=reddit.com
-!:partner_token=BuySellAds
-!:partner_id=2476edbd2862931e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=12851
-! Static text/image ads by FusionAds
-! @@||adn.fusionads.net^$image,script
-! #@#a[href^="http://fusionads.net"]
 !:partner_token=Leaf Group Ltd.
 !:partner_id=e31a5334f5ff4b55
 !:type=partner
@@ -400,24 +393,6 @@ cylex.be,cylex-bedrijvengids.be,cylex.de,cylex.nl,cylex-branchenbuch.ch,cylex-uk
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=14324
 ! rctgo.com ads
 @@||assets.maingateads.com^$image,domain=rctgo.com
-!:partner_token=winfuture.de
-!:partner_id=81ccc29d4fa307ee
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=73934#p73934
-! winfuture.de content ads
-! @@||o0.winfuture.de^$script,image,domain=winfuture.de
-! winfuture.de###news_content > DIV[style="width:424px;min-height:95px;background-color:white;margin-bottom:10px;"]
-! winfuture.de###news_content DIV[style="width:424px;min-height:200px;background-color:white;margin-bottom:10px;"]
-!:partner_token=winfuture.de
-!:partner_id=81ccc29d4fa307ee
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=93940#p93940
-! winfuture.de content ads #2
-! winfuture.de##.wf_gcsi[style="width:660px;min-height:200px;background-color:white;margin-bottom:10px;"]
-! winfuture.de###news_content > .o_hidden > .singleblock_news_top
-! winfuture.de##.hp_latest > .o_hidden > DIV[class^="singleblock_homepage_slot"]
-! winfuture.de##.ws_singleAdNews
-! winfuture.de#@##frnAdSky
 !:partner_token=winfuture.de
 !:partner_id=81ccc29d4fa307ee
 !:type=partner
@@ -961,14 +936,6 @@ chip.de#@#a[href^="http://bs.serving-sys.com/"]
 @@||an.yandex.ru/resource/context_static_r*.js$domain=trainphoto.org.ua
 @@||an.yandex.ru/page/*^callback^$script,domain=trainphoto.org.ua
 trainphoto.org.ua#@#.ya-partner
-!:partner_token=play-old-pc-games.com
-!:partner_id=6a298d55131aded9
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=20718
-! Text ads by PageFair
-! @@||pagefair.net^$third-party
-! @@||tracking.admarketplace.net^$third-party
-! @@||imp.admarketplace.net^$third-party
 !:partner_token=Inodroid.ru
 !:partner_id=36dcb8ed93192b93
 !:type=partner
@@ -2692,37 +2659,6 @@ bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,iban
 bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@#.ad-1
 bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@#.img_ad
 bab.la,equideow.com,oeffnungszeitenbuch.de,schulferien.org,watch2gether.com,ibancalculator.com,duden.de#@#div[id^="div-gpt-ad"]
-!:partner_token=Literally Media
-!:partner_id=e42da7353ddde095
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=39655
-! ebaumsworld.com ads
-! @@||a.postrelease.com/serve/load.js$domain=ebaumsworld.com
-! @@||jadserve.postrelease.com/t?ntv_url=$script,domain=ebaumsworld.com
-! @@||jadserve.postrelease.com/trk.gif?ntv_at=$image,domain=ebaumsworld.com
-! @@||jadserve.postrelease.com/t?prx_t=$script,domain=ebaumsworld.com
-! @@||ntv.io/adDisclaimer?pid=$subdocument,domain=ebaumsworld.com,document
-! @@||ads.pointroll.com/PortalServe/?pid=$popup,domain=ebaumsworld.com
-! @@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=ebaumsworld.com
-! @@||gemini.yahoo.com^*^syndication^$script,domain=ebaumsworld.com
-! @@||beap.gemini.yahoo.com^$image,domain=ebaumsworld.com
-! @@||ntv.io/js/video.min.js$domain=ebaumsworld.com
-! @@||ntv.io^$stylesheet,font,domain=ebaumsworld.com
-! @@||jadserve.postrelease.com/t?ntv_url=$script,domain=cheezburger.com
-! @@||jadserve.postrelease.com/trk.gif?ntv_at=$image,domain=cheezburger.com
-! @@||jadserve.postrelease.com/trk.gif?ntv_ht=$image,domain=cheezburger.com
-! @@||ntv.io/serve/load.js$script,domain=cheezburger.com
-! @@||nexac.com/e/$image,domain=cheezburger.com
-! @@/px.js?ch=1$domain=knowyourmeme.com|cheezburger.com
-! /px.js?ch=2$domain=knowyourmeme.com|cheezburger.com
-! @@||ntv.io/serve/load.js$domain=knowyourmeme.com
-! @@||jadserve.postrelease.com/t?ntv_url=$script,domain=knowyourmeme.com
-! @@||jadserve.postrelease.com/trk.gif?ntv_at=$image,domain=knowyourmeme.com
-! @@||ntv.io/js/$script,domain=knowyourmeme.com
-! @@||ntv.io/css/$domain=knowyourmeme.com
-! @@||ntv.io/font/$domain=knowyourmeme.com
-! @@||jadserve.postrelease.com/trk.gif?ntv_ht=$image,domain=knowyourmeme.com
-! @@||nexac.com/e/$image,domain=knowyourmeme.com
 !:partner_token=nostrongbeliefs.com
 !:partner_id=df1646082484e10e
 !:type=partner
@@ -5286,14 +5222,6 @@ unfassbar.es##.top_banner
 @@||hipertextual.com/wp-content/themes/*/js/xpx.js?ch=1$domain=hipertextual.com
 ||hipertextual.com/wp-content/themes/*/js/xpx.js?ch=2$domain=hipertextual.com
 hipertextual.com##.banner:not(.abp)
-!:partner_token=slightfuture.com
-!:partner_id=b58ae301a1e5c4a8
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=49068
-! ctrl.blog ads
-! @@||amazon-adsystem.com^$domain=ctrl.blog
-! ctrl.blog#@##amzn_assoc_ad_div_adunit0_0
-! ctrl.blog#@##amzn-native-ad-0
 !:partner_token=dell.com
 !:partner_id=1de7e45e41dac55a
 !:type=partner
@@ -5653,21 +5581,6 @@ dance-charts.de#@#.Ad-label
 ! readingsanctuary.com ads
 @@||amazon-adsystem.com/e/cm?*&banner=$subdocument,domain=readingsanctuary.com,document
 readingsanctuary.com#@#.quads-location
-!:partner_token=tellows.de
-!:partner_id=5a1c9734cc8555db
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52291
-! tellows.de ads
-! tellows.de,tellows.com,tellows.co.uk,tellows.es,tellows.fr,tellows.nl,tellows.at,tellows.ch,tellows.jp,tellows.cz,tellows.se,tellows.it,tellows.pl,tellows.ru,tellows.in,tellows.mx,tellows.co.nz,tellows.com.br,tellows.pt,tellows.tw,tellows.be,tellows.co.za,tellows-au.com,tellows-tr.com,tellows.co,tellows.no.com,tellows.hu,il.tellows.org,ve.tellows.net,ae.tellows.net,cn.tellows.net,eg.tellows.net,dz.tellows.net,sa.tellows.net,ir.tellows.net,ie.tellows.net,ar.tellows.net,id.tellows.net,cl.tellows.net#@##adsRight
-! tellows.de,tellows.com,tellows.co.uk,tellows.es,tellows.fr,tellows.nl,tellows.at,tellows.ch,tellows.jp,tellows.cz,tellows.se,tellows.it,tellows.pl,tellows.ru,tellows.in,tellows.mx,tellows.co.nz,tellows.com.br,tellows.pt,tellows.tw,tellows.be,tellows.co.za,tellows-au.com,tellows-tr.com,tellows.co,tellows.no.com,tellows.hu,il.tellows.org,ve.tellows.net,ae.tellows.net,cn.tellows.net,eg.tellows.net,dz.tellows.net,sa.tellows.net,ir.tellows.net,ie.tellows.net,ar.tellows.net,id.tellows.net,cl.tellows.net#@##adsright
-! tellows.com,tellows.co.uk,tellows.es,tellows.fr,tellows.nl,tellows.at,tellows.ch,tellows.jp,tellows.cz,tellows.se,tellows.it,tellows.pl,tellows.ru,tellows.in,tellows.mx,tellows.co.nz,tellows.com.br,tellows.pt,tellows.tw,tellows.be,tellows.co.za,tellows-au.com,tellows-tr.com,tellows.co,tellows.no.com,tellows.hu,il.tellows.org,ve.tellows.net,ae.tellows.net,cn.tellows.net,eg.tellows.net,dz.tellows.net,sa.tellows.net,ir.tellows.net,ie.tellows.net,ar.tellows.net,id.tellows.net,cl.tellows.net#@#iframe[width="728"][height="90"]
-! @@||imagesrv.adition.com/js/adition.js$domain=tellows.de
-! @@||adition.com/js?wp_id=3833876^$script,domain=tellows.de
-! @@||adition.com/banner?sid=3833876^$script,domain=tellows.de
-! @@||adition.com/js?wp_id=3833826^$script,domain=tellows.de
-! @@||adition.com/banner?sid=3833826^$script,domain=tellows.de
-!@@/px.js?ch=1$domain=tellows.de|tellows.com|tellows.co.uk|tellows.es|tellows.fr|tellows.nl|tellows.at|tellows.ch|tellows.jp|tellows.cz|tellows.se|tellows.it|tellows.pl|tellows.ru|tellows.in|tellows.mx|tellows.co.nz|tellows.com.br|tellows.pt|tellows.tw|tellows.be|tellows.co.za|tellows-au.com|tellows-tr.com|tellows.co|tellows.no.com|tellows.hu|il.tellows.org|ve.tellows.net|ae.tellows.net|cn.tellows.net|eg.tellows.net|dz.tellows.net|sa.tellows.net|ir.tellows.net|ie.tellows.net|ar.tellows.net|id.tellows.net|cl.tellows.net
-!/px.js?ch=2$domain=tellows.de|tellows.com|tellows.co.uk|tellows.es|tellows.fr|tellows.nl|tellows.at|tellows.ch|tellows.jp|tellows.cz|tellows.se|tellows.it|tellows.pl|tellows.ru|tellows.in|tellows.mx|tellows.co.nz|tellows.com.br|tellows.pt|tellows.tw|tellows.be|tellows.co.za|tellows-au.com|tellows-tr.com|tellows.co|tellows.no.com|tellows.hu|il.tellows.org|ve.tellows.net|ae.tellows.net|cn.tellows.net|eg.tellows.net|dz.tellows.net|sa.tellows.net|ir.tellows.net|ie.tellows.net|ar.tellows.net|id.tellows.net|cl.tellows.net
 !:partner_token=schwaebische-post.de
 !:partner_id=cd8017ea318be53c
 !:type=partner
@@ -5712,11 +5625,6 @@ wequizs.com#@#.ad-row
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52765
 ! sofotex.com ads
-!:partner_token=papilot.pl
-!:partner_id=56e9ec71f995ee15
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52850
-! papilot.pl ads
 !:partner_token=fileford.com
 !:partner_id=346c0ab22a233ae4
 !:type=partner
@@ -7030,22 +6938,6 @@ coingecko.com#@#.ad-spacer
 coingecko.com#@#.img_ad
 livecoinwatch.com#@#.ads-top
 livecoinwatch.com#@#.ads-bottom
-!:partner_token=Microsoft
-!:partner_id=c7cdd2fa8a3d0b2a
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73581
-! Outlook Ads
-! ||ow2.res.office365.com/owamail/*/resources/images/ab1.gif$domain=outlook.live.com|outlook-sdf.live.com
-! @@||ow2.res.office365.com/owamail/*/resources/images/ab2.gif$domain=outlook.live.com|outlook-sdf.live.com
-! @@/owa.MessageAdList.$domain=outlook.live.com|outlook-sdf.live.com
-! @@||adnxs.com/ast/safeframe/1-0-0/html/safeframe-v2.html$document,subdocument,domain=outlook.live.com|outlook-sdf.live.com
-! @@||3lift.com^$domain=outlook.live.com|outlook-sdf.live.com
-! @@||facebook.com^$domain=outlook.live.com|outlook-sdf.live.com
-! @@||zemanta.com^$domain=outlook.live.com|outlook-sdf.live.com
-! @@||shftr.adnxs.net^$domain=outlook.live.com|outlook-sdf.live.com
-! @@||adnxs.com^$domain=outlook.live.com|outlook-sdf.live.com
-! @@||sync.ipredictive.com^$domain=outlook.live.com|outlook-sdf.live.com
-! @@||sync.adkernel.com^$domain=outlook.live.com|outlook-sdf.live.com
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner
