@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sjU6rrjvYJPDSqGDRpCVJg
-! Version: 202002240200
+! Checksum: 6cIPTTjRxuPL2UFWouvkkg
+! Version: 202002241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Feb 2020 02:00 UTC
+! Last modified: 24 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6114,6 +6114,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||buzzfeednews.com/static/js/advertiser/amazon.js$domain=buzzfeednews.com
 @@||tasty.co/static-assets/tastyui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
 @@||tasty.co/static-assets/tasty-ui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
+@@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
