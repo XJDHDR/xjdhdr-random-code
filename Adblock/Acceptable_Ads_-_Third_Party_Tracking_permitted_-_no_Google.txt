@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: C3lGzN51aXnGXtf/4h0wEQ
-! Version: 202002260200
+! Checksum: LbzlQigqmThjrE7RiW6Gjw
+! Version: 202002261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Feb 2020 02:00 UTC
+! Last modified: 26 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6171,6 +6171,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||tasty.co/static-assets/tastyui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
 @@||tasty.co/static-assets/tasty-ui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
+@@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
+buzzfeed.com#@#.ad-card
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
@@ -7432,6 +7434,7 @@ testpages.adblockplus.org#@##abptest
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/homepage.js$script,domain=washingtontimes.com
+@@||staging.washingtontimes.com/static/v4/js/ads/config/homepage.$script,domain=staging.washingtontimes.com
 @@||admiral-adblock-fallback.test.washtimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||washingtontimes.com/static/v4/js/ads/config/story.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/category.$script,domain=washingtontimes.com
