@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e047aP5TU33t1t2zUqfC4A
-! Version: 202002251400
+! Checksum: 0K2/+hedOBPCRmzJLk7jOg
+! Version: 202002260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 Feb 2020 14:00 UTC
+! Last modified: 26 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2860,6 +2860,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
 @@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com
+@@||bidder.criteo.com/csm^$domain=criteotilt.com
 ~mmo-champion.com#@#div[id^="crt-"][style*="width:"]
 ~mmo-champion.com#@#div[id^="crt-"][style]
 ~mmo-champion.com#@#div[id^="crt-"][data-criteo-id]
@@ -3337,6 +3338,7 @@ libero.it#@##admputop
 libero.it#@##adslider
 libero.it#@#.hp_adv300x250
 libero.it#@#.hp_advP1
+gmx.net#@#.left-col__bottom
 @@||friday-ad.co.uk/bundles/fafrontend/js/advertisement.js$domain=friday-ad.co.uk
 @@||passback.free.fr/webmails/pub/$subdocument,domain=zimbra.free.fr
 @@||intermarkets.net/u/Intermarkets/AdFeedback/$script,domain=drudgereport.com
@@ -5327,6 +5329,7 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 @@||yandex.net/get-direct/$image,domain=fotostrana.ru
 @@||an.yandex.ru/meta/$xmlhttprequest,domain=fotostrana.ru
 fotostrana.ru#@#.img_ad
+fotostrana.ru#@##king-rightplace
 @@||ad.mail.ru/adq/?callback=mailru_ad$script,domain=fotostrana.ru
 @@||ad.mail.ru/static/ads-async.js$domain=fotostrana.ru
 !:partner_token=ket-noi.com
