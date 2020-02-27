@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3duq1WlQz36E4NH6u1qUwg
-! Version: 202002270200
+! Checksum: qbZRmuQeiSJ5K8YeGu0IIw
+! Version: 202002271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 27 Feb 2020 02:00 UTC
+! Last modified: 27 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7873,6 +7873,11 @@ kiplinger.com,administrator.de,culinarybook.info,allmedicinebook.info,bestdesign
 @@||tagan.adlightning.com/buzzfeed/bl-1ee266c-762cd020.js$domain=tasty.co
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
+@@||d2na2p72vtqyok.cloudfront.net/client-embed/672f12cc-3896-43ad-9d7d-26fdd80c7c99.js$domain=allkpop.com
+@@||d3lcz8vpax4lo2.cloudfront.net/ads-code/42b19e3d-1689-45ab-8919-26564ccd2f9f.js$domain=mymarketresearchmethods.com
+allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
+allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
+allkpop.com,mymarketresearchmethods.com#@##insticator-container
 buzzfeed.com#@#.ad-card
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
@@ -9025,6 +9030,22 @@ comparis.ch#@#.ad-slot
 comparis.ch#@#div[id^="google_ads_iframe_"]
 comparis.ch#@#iframe[id^="google_ads_iframe"]
 comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
+!:partner_token=mail.ru
+!:partner_id=509a8ec73c103ec4
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
+! mail.ru ads
+@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|~e.mail.ru
+@@||ad.mail.ru^$domain=mail.ru|~e.mail.ru
+@@||mradx.net/img/AD/$image,domain=mail.ru|~e.mail.ru
+@@||an.yandex.ru/system/context.js$domain=mail.ru|~e.mail.ru
+@@||an.yandex.ru/meta/$domain=mail.ru|~e.mail.ru
+@@||yandex.net/get-direct/$image,domain=mail.ru|~e.mail.ru
+||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|~e.mail.ru
+mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
+mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
+mail.ru,~e.mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
+mail.ru,~e.mail.ru#@#div[id^="yandex_ad"]
 !:partner_token=Google
 !:partner_id=1771032db7d723d7
 !:type=partner
