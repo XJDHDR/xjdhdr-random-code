@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6qFg3+Fh7XgGzQ6di+QE9A
-! Version: 202002280200
+! Checksum: vg5IiCajUUTTSz5Ahlgccg
+! Version: 202002281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 Feb 2020 02:00 UTC
+! Last modified: 28 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7229,6 +7229,57 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
 ! Generic conversion tracking
+@@||secure.adnxs.com/seg^$image,script,third-party
+@@||secure.adnxs.com/px^$image,script,third-party
+@@||adnxs.com/pixie^$image,third-party
+@@||acuityplatform.com/Adserver/pxl$image,script,third-party
+@@||secure.insightexpressai.com/adServer/adServerESI.aspx$image,third-party
+@@||rubiconproject.com/beacon^$image,third-party
+@@||tag.yieldoptimizer.com/ps/ps$image,third-party
+@@||pixel.sitescout.com/iap/$image,third-party
+@@||p.adsymptotic.com/d/px/$image,third-party
+@@||insight.adsrvr.org/track^$subdocument,third-party
+@@||l.betrad.com/site$image,third-party
+@@||tapestry.tapad.com/tapestry^$image,third-party
+@@||adroll.com/pixel^$script,image,third-party
+@@||d.adroll.com/onp/$image,third-party
+@@||analytics.yahoo.com/sp.pl$image,third-party
+@@||bm.adentifi.com/pixel/conv/$image,third-party
+@@||s.amazon-adsystem.com/iu3$subdocument,third-party
+@@||t.teads.tv/track^$image,third-party
+@@||adform.net/Serving/TrackPoint^$image,third-party
+@@||media6degrees.com/orbserv/$image,third-party
+@@||data.dianomi.com/frontend/pixel2$image,third-party
+@@||yahoo.co.jp/pagead/conversion/$image,third-party
+@@||ib.adnxs.com/getuidj^$xmlhttprequest,third-party
+@@||ib.adnxs.com/getuid^$subdocument,image,third-party
+@@||thunder.adnxs.com/getuid^$image,third-party
+@@||x.bidswitch.net/sync^$image,third-party
+@@||adroll.com/cm^$image,third-party
+@@||pixel.tapad.com/idsync/ex^$image,third-party
+@@||bh.contextweb.com/bh/rtset^$image,third-party
+@@||mookie1.com/t^$image,third-party
+@@||sync.search.spotxchange.com/partner^$image,third-party
+@@||casalemedia.com/usermatchredir^$image,third-party
+@@||casalemedia.com/crum^$image,third-party
+@@||casalemedia.com/rum^$image,subdocument,third-party
+@@||tribalfusion.com/i.cid^$image,third-party
+@@||smartadserver.com/redir^$image,third-party
+@@||jadserve.postrelease.com/suid^$image,third-party
+@@||match.sharethrough.com/sync^$image,third-party
+@@||sync.aralego.com/idSync^$image,third-party
+@@||teads.tv/um^$image,third-party
+@@||sync-tm.everesttech.net/upi/pid^$image,third-party
+@@||r.turn.com/r/du/id^$image,third-party
+@@||cm.adgrx.com/bridge^$image,third-party
+@@||login.dotomi.com/ucm/UCMController^$subdocument,third-party
+@@||3lift.com/xuid$subdocument,third-party
+@@||stackadapt.com/rt$image,third-party
+@@||stackadapt.com/lal$image,third-party
+@@||ad.adserver.com/pixel$image,third-party
+@@||beacon.krxd.net/pixel.gif$image,third-party
+@@||pixel.sitescout.com/dmp/asyncPixelSync$subdocument,third-party
+@@||dmp.adform.net/dmp/profile/$image,third-party
 @@||match.adsrvr.org/track/cmf/$image,third-party
 @@||insight.adsrvr.org/track/$image,third-party
 @@||r.turn.com/r/beacon^$image,third-party
@@ -7238,7 +7289,7 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||l.betrad.com/pub/p.gif?$image,third-party
 @@||s.amazon-adsystem.com/iui3?$image,third-party
 @@||tag.apxlv.com/tag/partner/$image,third-party
-@@||ads.yahoo.com/cms/$image,third-party
+@@||ads.yahoo.com/cms/$image,subdocument,third-party
 @@||bttrack.com/Pixel/$image,third-party
 @@||fastclick.net/w/tre?$image,third-party
 @@||ad.yieldmanager.com/cms/$image,third-party
@@ -7254,7 +7305,6 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||token.rubiconproject.com/token?$image,third-party
 @@||360yield.com/match?$image,third-party
 @@||openx.net/w/1.0/sd?$image,third-party
-@@||casalemedia.com/rum?$image,third-party
 @@||pubmatic.com/AdServer/Pug?$image,third-party
 @@||postrelease.com/conversion?$image,third-party
 @@||zemanta.com/p/$image,third-party
@@ -7262,11 +7312,9 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||rt.spongecell.com/v1/r$image,third-party
 @@||fei.pro-market.net/engine$image,third-party
 @@||c1.adform.net/imatch/pixels$image,third-party
-@@||track.adform.net/Serving/TrackPoint$image,third-party
 @@||d.adroll.com/ipixel$image,third-party
 @@||stags.bluekai.com/site/$image,third-party
 @@||secure.adnxs.com/seg$image,third-party
-@@||ads.yahoo.com/cms/v1$image,third-party
 !:type=combined
 ! Global whitelists for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup

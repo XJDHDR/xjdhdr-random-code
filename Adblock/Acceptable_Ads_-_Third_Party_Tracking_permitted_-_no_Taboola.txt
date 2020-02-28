@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: izsedBMK6gUhVLKga3FdNQ
-! Version: 202002280200
+! Checksum: RyyfCZw0bG1kbRSa35TsJA
+! Version: 202002281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 28 Feb 2020 02:00 UTC
+! Last modified: 28 Feb 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8723,12 +8723,12 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||get.s-onetag.com/safeframe-urls/*/safe-frame-internal.html$document,subdocument
 @@||s-onetag.com/px.gif?ch=1
 @@||beacon.s-onetag.com/beacon.min.js
-@@||onscroll-d.openx.net^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com
-@@||tags.onscroll.com^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com
+@@||onscroll-d.openx.net^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com|thechronicleherald.ca
+@@||tags.onscroll.com^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com|thechronicleherald.ca
 ||s-onetag.com/px.gif?ch=2
-@@||ib.adnxs.com^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com
-@@||ap.lijit.com^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com
-@@||prg.smartadserver.com/prebid/v1$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com
+@@||ib.adnxs.com^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com|thechronicleherald.ca
+@@||ap.lijit.com^$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com|thechronicleherald.ca
+@@||prg.smartadserver.com/prebid/v1$domain=deseretnews.com|lolcounter.com|ancient-origins.net|fantasypros.com|theodysseyonline.com|nextechclassifieds.com|carbuyer.co.uk|denofgeek.com|marketrealist.com|thegazette.com|ancient.eu|leaguesecretary.com|rock.com.ar|mlslistings.com|offalyexpress.ie|theweek.co.uk|whatsnewinpublishing.com|bfi.org.uk|nigella.com|calorieking.com|silvertails.net|fantasypros.com|hotnewhiphop.com|11v11.com|bollymoviereviewz.com|fashionworkie.com|ancient.eu|historyoftheancientworld.com|medievalists.net|youtubemultiplier.com|lsn.com|thechronicleherald.ca
 @@^unblock=true^$document,subdocument,script,xmlhttprequest,domain=fantasypros.com|liverpoolecho.co.uk
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
@@ -10424,6 +10424,62 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=179030#p179030
 ! Generic conversion tracking
+@@||secure.adnxs.com/seg^$image,script,third-party
+@@||secure.adnxs.com/px^$image,script,third-party
+@@||adnxs.com/pixie^$image,third-party
+@@||acuityplatform.com/Adserver/pxl$image,script,third-party
+@@||adservice.google.com/ddm/regclk$ping,image,ping,third-party
+@@||secure.insightexpressai.com/adServer/adServerESI.aspx$image,third-party
+@@||rubiconproject.com/beacon^$image,third-party
+@@||tag.yieldoptimizer.com/ps/ps$image,third-party
+@@||pixel.sitescout.com/iap/$image,third-party
+@@||p.adsymptotic.com/d/px/$image,third-party
+@@||insight.adsrvr.org/track^$subdocument,third-party
+@@||l.betrad.com/site$image,third-party
+@@||tapestry.tapad.com/tapestry^$image,third-party
+@@||bid.g.doubleclick.net/xbbe^$subdocument,third-party
+@@||adroll.com/pixel^$script,image,third-party
+@@||d.adroll.com/onp/$image,third-party
+@@||analytics.yahoo.com/sp.pl$image,third-party
+@@||bm.adentifi.com/pixel/conv/$image,third-party
+@@||stats.g.doubleclick.net/j/collect$image,xmlhttprequest,third-party
+@@||s.amazon-adsystem.com/iu3$subdocument,third-party
+@@||t.teads.tv/track^$image,third-party
+@@||adform.net/Serving/TrackPoint^$image,third-party
+@@||media6degrees.com/orbserv/$image,third-party
+@@||data.dianomi.com/frontend/pixel2$image,third-party
+@@||yahoo.co.jp/pagead/conversion/$image,third-party
+@@||ib.adnxs.com/getuidj^$xmlhttprequest,third-party
+@@||ib.adnxs.com/getuid^$subdocument,image,third-party
+@@||thunder.adnxs.com/getuid^$image,third-party
+@@||x.bidswitch.net/sync^$image,third-party
+@@||adroll.com/cm^$image,third-party
+@@||pixel.tapad.com/idsync/ex^$image,third-party
+@@||bh.contextweb.com/bh/rtset^$image,third-party
+@@||mookie1.com/t^$image,third-party
+@@||sync.search.spotxchange.com/partner^$image,third-party
+@@||casalemedia.com/usermatchredir^$image,third-party
+@@||casalemedia.com/crum^$image,third-party
+@@||casalemedia.com/rum^$image,subdocument,third-party
+@@||tribalfusion.com/i.cid^$image,third-party
+@@||smartadserver.com/redir^$image,third-party
+@@||jadserve.postrelease.com/suid^$image,third-party
+@@||match.sharethrough.com/sync^$image,third-party
+@@||sync.aralego.com/idSync^$image,third-party
+@@||teads.tv/um^$image,third-party
+@@||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,third-party
+@@||sync-tm.everesttech.net/upi/pid^$image,third-party
+@@||r.turn.com/r/du/id^$image,third-party
+@@||cm.adgrx.com/bridge^$image,third-party
+@@||login.dotomi.com/ucm/UCMController^$subdocument,third-party
+@@||3lift.com/xuid$subdocument,third-party
+@@||pixel.mathtag.com/sync/iframe$subdocument,third-party
+@@||stackadapt.com/rt$image,third-party
+@@||stackadapt.com/lal$image,third-party
+@@||ad.adserver.com/pixel$image,third-party
+@@||beacon.krxd.net/pixel.gif$image,third-party
+@@||pixel.sitescout.com/dmp/asyncPixelSync$subdocument,third-party
+@@||dmp.adform.net/dmp/profile/$image,third-party
 @@||match.adsrvr.org/track/cmf/$image,third-party
 @@||pixel.mathtag.com/sync/img?$image,third-party
 @@||cm.g.doubleclick.net/pixel?$image,third-party
@@ -10436,7 +10492,7 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||l.betrad.com/pub/p.gif?$image,third-party
 @@||s.amazon-adsystem.com/iui3?$image,third-party
 @@||tag.apxlv.com/tag/partner/$image,third-party
-@@||ads.yahoo.com/cms/$image,third-party
+@@||ads.yahoo.com/cms/$image,subdocument,third-party
 @@||bttrack.com/Pixel/$image,third-party
 @@||fastclick.net/w/tre?$image,third-party
 @@||ad.yieldmanager.com/cms/$image,third-party
@@ -10452,7 +10508,6 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||token.rubiconproject.com/token?$image,third-party
 @@||360yield.com/match?$image,third-party
 @@||openx.net/w/1.0/sd?$image,third-party
-@@||casalemedia.com/rum?$image,third-party
 @@||pubmatic.com/AdServer/Pug?$image,third-party
 @@||postrelease.com/conversion?$image,third-party
 @@||zemanta.com/p/$image,third-party
@@ -10460,13 +10515,11 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||rt.spongecell.com/v1/r$image,third-party
 @@||fei.pro-market.net/engine$image,third-party
 @@||c1.adform.net/imatch/pixels$image,third-party
-@@||track.adform.net/Serving/TrackPoint$image,third-party
 @@||d.adroll.com/ipixel$image,third-party
 @@||stags.bluekai.com/site/$image,third-party
 @@||secure.adnxs.com/seg$image,third-party
 @@||flashtalking.com/segment$image,third-party
 @@||flashtalking.com/spot$image,third-party
-@@||ads.yahoo.com/cms/v1$image,third-party
 @@||google.ac/ads/ga-audiences^$image,third-party
 @@||google.ad/ads/ga-audiences^$image,third-party
 @@||google.ae/ads/ga-audiences^$image,third-party
