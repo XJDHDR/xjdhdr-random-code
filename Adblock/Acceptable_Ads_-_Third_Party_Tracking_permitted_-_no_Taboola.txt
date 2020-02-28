@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qbZRmuQeiSJ5K8YeGu0IIw
-! Version: 202002271400
+! Checksum: izsedBMK6gUhVLKga3FdNQ
+! Version: 202002280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 27 Feb 2020 14:00 UTC
+! Last modified: 28 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7873,8 +7873,8 @@ kiplinger.com,administrator.de,culinarybook.info,allmedicinebook.info,bestdesign
 @@||tagan.adlightning.com/buzzfeed/bl-1ee266c-762cd020.js$domain=tasty.co
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
-@@||d2na2p72vtqyok.cloudfront.net/client-embed/672f12cc-3896-43ad-9d7d-26fdd80c7c99.js$domain=allkpop.com
-@@||d3lcz8vpax4lo2.cloudfront.net/ads-code/42b19e3d-1689-45ab-8919-26564ccd2f9f.js$domain=mymarketresearchmethods.com
+@@||cloudfront.net/client-embed/$script,domain=allkpop.com
+@@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
