@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iaWgEKnuRq7tC81lfw3+Jw
-! Version: 202002281400
+! Checksum: RZ4mB+URa+W4QoXJnWeT6Q
+! Version: 202002290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Feb 2020 14:00 UTC
+! Last modified: 29 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5976,10 +5976,15 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
+@@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 musumazyliai.lt#@##ad-rectangle
 awkwardzombie.com#@##ad_left
 awkwardzombie.com#@##ad_right
 awkwardzombie.com#@##ad_top
+athensvoice.gr#@#.full-ad
+pronews.gr#@#.header__ad
+pronews.gr#@#.adunit
+pronews.gr#@#.column-ad
 fxp.co.il#@##adfxp
 wyborcza.pl#@##ads-1
 wyborcza.pl#@##ads-2

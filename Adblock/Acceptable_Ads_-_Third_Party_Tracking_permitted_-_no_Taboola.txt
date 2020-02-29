@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RyyfCZw0bG1kbRSa35TsJA
-! Version: 202002281400
+! Checksum: CdYYW5KgAn/gV3v/G0o4kw
+! Version: 202002290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 28 Feb 2020 14:00 UTC
+! Last modified: 29 Feb 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7633,11 +7633,16 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
+@@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cdn.orangeclickmedia.com/tech/libs/prebid.js$domain=sport24.gr|sdna.gr|news247.gr|newsbeast.gr|makeleio.gr|sportdog.gr|pentapostagma.gr|dikaiologitika.gr|efsyn.gr|contra.gr|greek-movies.com|athinorama.gr|alfavita.gr|bovary.gr|oneman.gr|luben.tv|athensvoice.gr|iatropedia.gr|fosonline.gr|ladylike.gr|militaire.gr|aftodioikisi.gr|ptisidiastima.com|birthdaywishes.expert|parallaximag.gr|zarpanews.gr|neakriti.gr|madata.gr|newspao.gr|thecaller.gr|typosthes.gr|flashnews.gr|xrysessyntages.gr|ekathimerini.com|happybirthdaymsg.com|peoplegreece.com|infokids.gr|ieidiseis.gr|el.gr|boro.gr|allaboutaris.com|patkiout.gr|fimes.gr|caranddriver.gr|neopolis.gr|popaganda.gr|olaprasina1908.gr|eretikos.gr|patrisnews.com|eimaimama.gr|bank-codes.com|provocateur.gr|sansimera.gr|thessnews.gr|economistas.gr|enallaktikos.gr|monopoli.gr|athenstimeout.gr|enternity.gr|usay.gr|instyle.gr|paxxi.gr|infowoman.gr|entertv.gr|grtimes.gr|infokids.com.cy|talentabout.gr|shoesizingcharts.com|thefamousbirthdays.com|singing-bell.com|moveitmag.gr|babyradio.gr|aiff.gr|aoaff.gr|chanianews.gr|gossips.eu|gr.k24.net|lawnet.gr|mamamia.gr|meteorologos.gr|new.infokids.com.cy|playboy.gr|startup.gr|tapanta.eu|worldtravelstories.gr
 musumazyliai.lt#@##ad-rectangle
 awkwardzombie.com#@##ad_left
 awkwardzombie.com#@##ad_right
 awkwardzombie.com#@##ad_top
+athensvoice.gr#@#.full-ad
+pronews.gr#@#.header__ad
+pronews.gr#@#.adunit
+pronews.gr#@#.column-ad
 fxp.co.il#@##adfxp
 wyborcza.pl#@##ads-1
 wyborcza.pl#@##ads-2
