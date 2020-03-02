@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6dkmLRFzFfrrArCdKE9s2g
-! Version: 202003020200
+! Checksum: 6j+wyoBv9fI9LmnWN6/BPg
+! Version: 202003021400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Mar 2020 02:00 UTC
+! Last modified: 02 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6182,6 +6182,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
+wikihow.com#@#.wh_ad_inner
 buzzfeed.com#@#.ad-card
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
