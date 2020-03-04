@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CqGLX4rDXkrBUwIviLAyLA
-! Version: 202003040200
+! Checksum: YY/U1+MqGFaHeKLuQ7+Vag
+! Version: 202003041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Mar 2020 02:00 UTC
+! Last modified: 04 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6961,7 +6961,7 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro
+@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
 @@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
 @@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
 @@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
@@ -6971,15 +6971,16 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 @@||jsc.lentainform.com/w/d/wday.ru.689844.js$domain=wday.ru
 @@||jsc.lentainform.com/l/g/l.gismeteo.ru.791769.js$domain=gismeteo.ru
 @@||jsc.lentainform.com/t/e/teleprogramma.pro.721065.js$domain=teleprogramma.pro
-@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro#@#a[href*="lentainform.com/pnews/"]
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro#@#[id*="ScriptRoot"]
+@@||jsc.lentainform.com^$script,domain=rambler.ru
+@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru#@#a[href*="lentainform.com/pnews/"]
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -6991,10 +6992,15 @@ lentainform.com#@#[id*="MarketGid"]
 lentainform.com#@#a[href^="//www.mgid.com/"]
 lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||mgid.com^$domain=lentainform.com
-@@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro
+@@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||rnet.plus^$script,xmlhttprequest,domain=rambler.ru
 7days.ru#@#.b-section_content_partners-news
 tsargrad.tv#@#.article__banner
 www.gismeteo.ru#@#.widget-container
+rambler.ru#@#.article__read-also
+rambler.ru#@#.article__banner
+rambler.ru#@#.traffic-blocks[class*="intresting"]
+rambler.ru#@#.article__partners
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
@@ -7030,24 +7036,30 @@ www.gismeteo.ru#@#.widget-container
 @@||jsc.mgid.com/s/h/sharij.net.366074.js$domain=sharij.net
 @@||jsc.marketgid.com/s/h/sharij.net.683513.js$domain=sharij.net
 @@||jsc.mgid.com/d/r/dreuz.info.287514.js$domain=dreuz.info
-@@||mgid.com^$popup,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||servicer.mgid.com^$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||s-img.mgid.com/g/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||cdn.mgid.com/images/$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||cdn.mgid.com/js/wglibs/$script,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||cm.mgid.com^$script,image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||cm.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||c.mgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||c.marketgid.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-@@||autocounter.lentainform.com^$image,domain=goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="ScriptRoot"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="MarketGid"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#div[id^="M"][id*="Composite"]
-goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#a[href^="//www.mgid.com/"]
+@@||jsc.mgid.com/h/o/home.vn.365766.js$domain=home.vn
+@@||jsc.mgid.com/x/t/x-true.info.778963.js$domain=x-true.info
+@@||jsc.mgid.com/c/l/click-or-die.ru.752564.js$domain=click-or-die.ru
+@@||jsc.mgid.com/r/e/redactia.ro.335106.js$domain=redactia.ro
+@@||mgid.com^$popup,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||servicer.mgid.com^$script,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||s-img.mgid.com/g/$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cdn.mgid.com/images/$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cdn.mgid.com/js/wglibs/$script,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cm.mgid.com^$script,image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||cm.lentainform.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||c.mgid.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||c.marketgid.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+@@||autocounter.lentainform.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info
+redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="ScriptRoot"]
+redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#[id*="MarketGid"]
+redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#div[id^="M"][id*="Composite"]
+redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com#@#a[href^="//www.mgid.com/"]
 politikstube.com#@#div[class*="td-a-rec-id-"]
 politikstube.com#@#.td-a-rec
 girlsaskguys.com#@#.ad-slot
+click-or-die.ru#@#.ads-phead
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
+@@||x-true.info^$csp=script-src 'self' * blob: data:
 !:partner_token=Lemonde.fr
 !:partner_id=e6ee3ec59227327c
 !:type=partner
