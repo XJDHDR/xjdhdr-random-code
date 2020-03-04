@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XUe1Bx0OexRIOr1BcLHCQA
-! Version: 202003031400
+! Checksum: XqOe+rC5SpGrPnCqcIU5lQ
+! Version: 202003040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Mar 2020 14:00 UTC
+! Last modified: 04 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -147,6 +147,8 @@ heise.de#@#a[href^="https://marketing.outbrain.com/network/redir?"]
 heise.de#@#.ad-container
 heise.de##a-ad:not([acceptable])
 heise.de#@#.img_ad
+heise.de#@#.us-ad
+heise.de#@#.ad-microsites
 !:partner_token=izito.com
 !:partner_id=de5285dacf045639
 !:type=partner
@@ -6142,7 +6144,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||jerusalemonline.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
-@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
+@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=mielec.pl|ddwloclawek.pl|expresskaszubski.pl|gostyn24.pl|portalplock.pl|tusochaczew.pl|iszczecinek.pl|leszno24.pl|allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
 @@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|autogidas.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6179,9 +6181,16 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
+@@||hostedprebid.com^$script,domain=culturehook.com
+@@||ads.cordlessmedia.com/ad-wrapper/89984/cm.min.js$domain=movoto.com
+@@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=movoto.com
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
+breitbart.com#@#.pub_300x250
+breitbart.com#@#.banner_ad
+breitbart.com#@#.text-ad
+wikihow.com#@#.ad_label
 wikihow.com#@#.wh_ad_inner
 buzzfeed.com#@#.ad-card
 cnn.com#@##AdBanner
