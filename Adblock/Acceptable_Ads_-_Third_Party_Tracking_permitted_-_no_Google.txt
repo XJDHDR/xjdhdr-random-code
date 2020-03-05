@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0esqXpmn+n521on8ibbvRg
-! Version: 202003041400
+! Checksum: bASKC+REbtQgBXUphj3VYA
+! Version: 202003050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Mar 2020 14:00 UTC
+! Last modified: 05 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7138,7 +7138,9 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 @@||mradx.net/img/AD/$image,domain=mail.ru|~e.mail.ru
 @@||an.yandex.ru/system/context.js$domain=mail.ru|~e.mail.ru
 @@||an.yandex.ru/meta/$domain=mail.ru|~e.mail.ru
+@@||an.yandex.ru^$xmlhttprequest,domain=mail.ru|~e.mail.ru
 @@||yandex.net/get-direct/$image,domain=mail.ru|~e.mail.ru
+@@||yastatic.net/safeframe-bundles/$script,other,subdocument,document,domain=mail.ru|~e.mail.ru
 ||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|~e.mail.ru
 mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
 mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
