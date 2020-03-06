@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TKeT8mpY6T3uXj+zo3nZYg
-! Version: 202003051400
+! Checksum: e2yRte0xVSsVG2rFXAwJQw
+! Version: 202003060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Mar 2020 14:00 UTC
+! Last modified: 06 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7146,6 +7146,11 @@ mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
 mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
 mail.ru,~e.mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
 mail.ru,~e.mail.ru#@#div[id^="yandex_ad"]
+!:partner_token=styleyourselfhub.com
+!:partner_id=e93499b07015a9b2
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=77054
+! styleyourselfhub.com ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
