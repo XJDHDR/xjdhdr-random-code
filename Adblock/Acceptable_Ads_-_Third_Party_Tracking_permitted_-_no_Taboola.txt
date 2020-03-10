@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ArkgdnUHQcSJQ5U4OMUrVA
-! Version: 202003100200
+! Checksum: i8ubcy7wnKOQreGSPIUTXg
+! Version: 202003101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 10 Mar 2020 02:00 UTC
+! Last modified: 10 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2069,6 +2069,7 @@ thenoob.net#@#.adinjwidget
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
 @@/adblockdetection/adblockDetector.min.js$domain=imore.com
 @@||escolaeducacao.com.br/wp-content/plugins/better-adsmanager/js/advertising.min.js$script,domain=escolaeducacao.com.br
+@@||twpasol.com^$third-party,domain=desprerelatii.net|newsweek.ro
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
 @@||adsafeprotected.com^$script,domain=entrepreneur.com
