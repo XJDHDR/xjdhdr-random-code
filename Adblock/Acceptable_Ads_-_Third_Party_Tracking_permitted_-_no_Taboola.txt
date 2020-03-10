@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GxpVEkDcda8GNK2R24sHog
-! Version: 202003091400
+! Checksum: ArkgdnUHQcSJQ5U4OMUrVA
+! Version: 202003100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 09 Mar 2020 14:00 UTC
+! Last modified: 10 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7888,9 +7888,12 @@ nouvelobs.com,lemonde.fr,observer.com,freesampleparty.com,toastyegg.com,listenon
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
+golfwrx.com#@#.mvp-ad-label
+dlisted.com#@#.adOuterContainer
+dlisted.com#@#.ad300
+boingboing.net#@#.adslot
 ratemyprofessors.com#@##ad_rec_01
 basketball-reference.com#@#.ad728
-boingboing.net#@#.adslot
 photographylife.com#@#.banner_ad
 photographylife.com#@#.header_ad
 breitbart.com#@#.pub_300x250
@@ -8942,7 +8945,6 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
 @@||jsc.lentainform.com/l/7/l.7days.ru.690066.js$domain=7days.ru
 @@||jsc.lentainform.com/s/t/starhit.ru.675353.js$domain=starhit.ru
 @@||jsc.lentainform.com/r/u/russian.rt.com.675347.js$domain=russian.rt.com
@@ -8953,15 +8955,32 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 @@||jsc.lentainform.com/l/g/l.gismeteo.ru.791769.js$domain=gismeteo.ru
 @@||jsc.lentainform.com/t/e/teleprogramma.pro.721065.js$domain=teleprogramma.pro
 @@||jsc.lentainform.com^$script,domain=rambler.ru
-@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru#@#a[href*="lentainform.com/pnews/"]
-iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru#@#[id*="ScriptRoot"]
+@@||jsc.lentainform.com/s/o/sovetov.su.690143.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.689749.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.689716.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.690141.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.690145.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.690144.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.690112.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.690123.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828938.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828943.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828949.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828957.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828959.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828962.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828965.js$domain=sovetov.su
+@@||jsc.lentainform.com/s/o/sovetov.su.828968.js$domain=sovetov.su
+@@||lentainform.com^$popup,domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||c.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||autocounter.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||s-img.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||cm.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||servicer.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||cdn.lentainform.com^$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||marketgid.com/images/lentainform/$domain=iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su#@#a[href*="lentainform.com/pnews/"]
+iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su#@#[id*="ScriptRoot"]
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -11135,6 +11154,9 @@ speedtest.net,247wallst.com,reddit.com,dvdsreleasedates.com,gamepress.gg,seattle
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+arstechnica.com#@#.ad_crown
+arstechnica.com#@#.cns-ads-stage
+arstechnica.com#@#.ad_fullwidth
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600
 keno.pch.com,keno.qa.pch.com#@#.ad-728x90
 keno.pch.com,keno.qa.pch.com#@#.ad-300x250
