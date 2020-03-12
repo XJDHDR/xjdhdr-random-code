@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SWgsiKbQvn5eS3qV4q3cnQ
-! Version: 202003111400
+! Checksum: h0bgoTQkD/8XGOFkae2UxQ
+! Version: 202003120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Mar 2020 14:00 UTC
+! Last modified: 12 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7031,10 +7031,12 @@ rambler.ru#@#.article__partners
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
-@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
-@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
-@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es
+@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
+@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
+@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
+@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
+elperiodico.com#@#.following-ad-container
+elperiodico.com#@#.following-ad
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
