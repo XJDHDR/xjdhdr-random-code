@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TMHxkUmrY8t/+FFfkDnJeg
-! Version: 202003130200
+! Checksum: 7L/ZTXXAoq+7Po6/pYW6GA
+! Version: 202003131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Mar 2020 02:00 UTC
+! Last modified: 13 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7107,19 +7107,41 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
 ! mail.ru ads
-@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|~e.mail.ru
-@@||ad.mail.ru^$domain=mail.ru|~e.mail.ru
-@@||mradx.net/img/AD/$image,domain=mail.ru|~e.mail.ru
-@@||an.yandex.ru/system/context.js$domain=mail.ru|~e.mail.ru
-@@||an.yandex.ru/meta/$domain=mail.ru|~e.mail.ru
-@@||an.yandex.ru^$xmlhttprequest,domain=mail.ru|~e.mail.ru
-@@||yandex.net/get-direct/$image,domain=mail.ru|~e.mail.ru
-@@||yastatic.net/safeframe-bundles/$script,other,subdocument,document,domain=mail.ru|~e.mail.ru
-||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|~e.mail.ru
-mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
-mail.ru,~e.mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
-mail.ru,~e.mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
-mail.ru,~e.mail.ru#@#div[id^="yandex_ad"]
+@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|sportmail.ru
+@@||ad.mail.ru^$domain=mail.ru|sportmail.ru
+@@||mradx.net/img/AD/$image,domain=mail.ru|sportmail.ru
+@@||an.yandex.ru/system/context.js$domain=mail.ru|sportmail.ru
+@@||an.yandex.ru/meta/$domain=mail.ru|sportmail.ru
+@@||an.yandex.ru^$xmlhttprequest,domain=mail.ru|sportmail.ru
+@@||yandex.net/get-direct/$image,domain=mail.ru|sportmail.ru
+@@||yastatic.net/safeframe-bundles/$script,other,subdocument,document,domain=mail.ru|sportmail.ru
+||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|sportmail.ru
+@@||ads.adfox.ru^$image,domain=mail.ru|sportmail.ru
+@@||ad.adriver.ru^$image,domain=mail.ru|sportmail.ru
+@@||tps30.doubleverify.com^$image,domain=mail.ru|sportmail.ru
+@@||gderu.hit.gemius.pl^$image,domain=mail.ru|sportmail.ru
+@@||pixel.adsafeprotected.com^$image,domain=mail.ru|sportmail.ru
+@@||ar.tns-counter.ru^$image,domain=mail.ru|sportmail.ru
+@@||z.moatads.com^$image,domain=mail.ru|sportmail.ru
+@@||wcm-ru.frontend.weborama.fr^$image,domain=mail.ru|sportmail.ru
+@@||dmg.digitaltarget.ru^$image,domain=mail.ru|sportmail.ru
+@@||track.rutarget.ru^$image,domain=mail.ru|sportmail.ru
+@@||r.mail.ru^$domain=mail.ru|sportmail.ru
+@@||t.mail.ru^$domain=mail.ru|sportmail.ru
+@@||rs.mail.ru^$domain=mail.ru|sportmail.ru
+@@||r0.mail.ru^$domain=mail.ru|sportmail.ru
+@@||bs.mail.ru^$domain=mail.ru|sportmail.ru
+@@||b2.mail.ru^$domain=mail.ru|sportmail.ru
+@@||d.mradx.net^$domain=mail.ru|sportmail.ru
+mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
+mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
+mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
+mail.ru,sportmail.ru#@#div[id^="yandex_ad"]
+e.mail.ru#@##app-canvas .layout__overflow-container > .slot
+e.mail.ru#@##app-canvas .layout__overflow-container > .advert-column > .slot
+e.mail.ru#@##message-sent__rb-center-container
+e.mail.ru#@#.layer-sent-page__banner
+e.mail.ru#@#.letter-list-item-adv
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
 !:type=partner
@@ -7551,9 +7573,9 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
-arstechnica.com#@#.ad_crown
-arstechnica.com#@#.cns-ads-stage
-arstechnica.com#@#.ad_fullwidth
+arstechnica.com,arsdev.net#@#.ad_crown
+arstechnica.com,arsdev.net#@#.cns-ads-stage
+arstechnica.com,arsdev.net#@#.ad_fullwidth
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600
 keno.pch.com,keno.qa.pch.com#@#.ad-728x90
 keno.pch.com,keno.qa.pch.com#@#.ad-300x250
@@ -8989,6 +9011,9 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||opodo.pt^$elemhide
 @@||travellink.de^$elemhide
 @@||travellink.is^$elemhide
+!A117
+@@||bestdeals.today^$elemhide
+@@||cheapprice.sale^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
