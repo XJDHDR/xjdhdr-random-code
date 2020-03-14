@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7L/ZTXXAoq+7Po6/pYW6GA
-! Version: 202003131400
+! Checksum: 6jw0MaQCUpalZn230BFPRA
+! Version: 202003140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Mar 2020 14:00 UTC
+! Last modified: 14 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6107,7 +6107,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 @@||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||117.hostedprebid.com$script,domain=parentsdome.com|toocool2betrue.com
+@@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
@@ -6132,6 +6132,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hostedprebid.com^$script,domain=culturehook.com
 @@||ads.cordlessmedia.com/ad-wrapper/89984/cm.min.js$domain=movoto.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=movoto.com
+fstoppers.com#@##block-fs_helpers-freestar_InContent
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
