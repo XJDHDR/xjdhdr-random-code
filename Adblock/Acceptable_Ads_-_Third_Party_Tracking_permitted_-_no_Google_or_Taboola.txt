@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Sj4KClWxuNgJpp08Mqwz5A
-! Version: 202003170200
+! Checksum: AnAn99UmqX56TnKlW4Yj3w
+! Version: 202003171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Mar 2020 02:00 UTC
+! Last modified: 17 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7032,10 +7032,10 @@ rambler.ru#@#.article__partners
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
-@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
-@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
-@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com
+@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com
+@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com
+@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com
+@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 !:partner_token=cienciaglobal.com
@@ -7593,6 +7593,8 @@ testpages.adblockplus.org#@##abptest
 @@||a.pub.network/hannity-com/pubfig.min.js$domain=hannity.com
 @@||related.thestudentroom.co.uk^$domain=thestudentroom.co.uk
 @@||related.thestudentroom.co.uk^$domain=thestudentroom.co.uk,document
+@@||related.ultimate-guitar.com^$domain=ultimate-guitar.com
+@@||related.ultimate-guitar.com^$domain=ultimate-guitar.com,document
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
