@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hB+qKZ/AeOTixFftj2tMIg
-! Version: 202003190200
+! Checksum: vKJVaYNRTuxaLE4mCeUdQg
+! Version: 202003191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Mar 2020 02:00 UTC
+! Last modified: 19 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7611,6 +7611,10 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+hannity.com#@#.ad-728-90
+hannity.com#@#.banner_ad
+hannity.com#@#.header-ad
+searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 searchenginejournal.com#@#.absolute-banner
 searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 arstechnica.com,arsdev.net#@#.ad_crown
