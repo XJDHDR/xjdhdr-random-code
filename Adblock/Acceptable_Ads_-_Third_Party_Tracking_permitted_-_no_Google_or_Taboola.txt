@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MwhmVSHTWLCpufcR5oTjNw
-! Version: 202003200200
+! Checksum: VwVMfriN/oGZzag0EOHtNA
+! Version: 202003201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Mar 2020 02:00 UTC
+! Last modified: 20 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6132,6 +6132,16 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hostedprebid.com^$script,domain=culturehook.com
 @@||ads.cordlessmedia.com/ad-wrapper/89984/cm.min.js$domain=movoto.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=movoto.com
+homes.com#@#.ad-slot
+homes.com#@#.ad__container
+innerstrength.zone#@##quads-ad4
+innerstrength.zone#@#.quads-ad4
+innerstrength.zone#@#.quads-location
+hi5.com#@#.dfp_ad
+hi5.com#@#.top-ad
+boards.sportslogos.net#@#div[data-role="sidebarAd"]
+fortune.com#@#.fortune-ad-tag__leaderboard
+geektyrant.com#@#.cmn-side
 fstoppers.com#@##block-fs_helpers-freestar_InContent
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
@@ -7178,6 +7188,7 @@ news.mail.ru#@#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> * *)
 news.mail.ru#@#div:-abp-has(> * > a[href*="t.mail.ru/redir"])
 news.mail.ru#@#.p-directhack
 news.mail.ru#@#.daynews > table tr > td:last-child
+news.mail.ru#@#.js-popup_gallery .viewbox__side
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
 !:type=partner
@@ -7524,14 +7535,14 @@ testpages.adblockplus.org#@##abptest
 @@||related.jalopnik.com^$domain=jalopnik.com
 @@||related.jalopnik.com^$domain=jalopnik.com,document
 @@||related.gizmodo.com^$domain=gizmodo.com
-@@||related.gizmodo.com^$domain=gizmodo.com,document  
+@@||related.gizmodo.com^$domain=gizmodo.com,document
 @@||related.deadspin.com^$domain=deadspin.com
-@@||related.deadspin.com^$domain=deadspin.com,document  
+@@||related.deadspin.com^$domain=deadspin.com,document
 @@||related.avclub.com^$domain=avclub.com
-@@||related.avclub.com^$domain=avclub.com,document  
-@@||related.kinja.com^$domain=kinja.com  
+@@||related.avclub.com^$domain=avclub.com,document
+@@||related.kinja.com^$domain=kinja.com
 @@||related.kinja.com^$domain=kinja.com,document
-@@||related.kinjadeals.com^$domain=kinjadeals.com  
+@@||related.kinjadeals.com^$domain=kinjadeals.com
 @@||related.kinjadeals.com^$domain=kinjadeals.com,document
 @@||aax.oriel.io^$domain=aax.demo.oriel.io
 @@||aax.oriel.io^$domain=aax.demo.oriel.io,document
