@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4L1OJxUYdnBQEqgw34s1Lg
-! Version: 202003230200
+! Checksum: npcazfJoehEKkEASx6HmWA
+! Version: 202003231400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 23 Mar 2020 02:00 UTC
+! Last modified: 23 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7606,6 +7606,7 @@ testpages.adblockplus.org#@##abptest
 @@||related.thestudentroom.co.uk^$domain=thestudentroom.co.uk,document
 @@||related.ultimate-guitar.com^$domain=ultimate-guitar.com
 @@||related.ultimate-guitar.com^$domain=ultimate-guitar.com,document
+@@||deployads.com/a/biggeekdad.com.js$domain=biggeekdad.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7622,6 +7623,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+biggeekdad.com#@#.ad-tag
 hannity.com#@#.ad-728-90
 hannity.com#@#.banner_ad
 hannity.com#@#.header-ad
