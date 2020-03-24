@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HLYlhPug5v6uqfqiUPQYHg
-! Version: 202003240200
+! Checksum: 73SbMolafb4/BfUF0T0Z1g
+! Version: 202003241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Mar 2020 02:00 UTC
+! Last modified: 24 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6186,6 +6186,13 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hostedprebid.com^$script,domain=culturehook.com
 @@||ads.cordlessmedia.com/ad-wrapper/89984/cm.min.js$domain=movoto.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=movoto.com
+@@||ads.cordlessmedia.com/ad-wrapper/94449/cm.min.js$domain=neren.com
+@@||static.paraloscuriosos.com/js/es/gpt$script,domain=paraloscuriosos.com
+@@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
+@@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
+@@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
+@@||static.criteo.net/js/ld/publishertag.prebid.js$script,domain=zoznam.sk
+wegotthiscovered.com#@#.sticky-sidebar-ad
 homes.com#@#.ad-slot
 homes.com#@#.ad__container
 innerstrength.zone#@##quads-ad4
@@ -6880,7 +6887,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
-@@^unblock=true^$document,subdocument,script,xmlhttprequest,domain=fantasypros.com|liverpoolecho.co.uk
+@@^unblock=true^$document,subdocument,script,xmlhttprequest,domain=fantasypros.com|liverpoolecho.co.uk|thechronicleherald.ca
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
