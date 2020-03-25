@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DWRbVpkWuQ9AaJ//w2tptA
-! Version: 202003241400
+! Checksum: un0Kr+8zcGh6aNWCwBXXew
+! Version: 202003250200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 24 Mar 2020 14:00 UTC
+! Last modified: 25 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1673,6 +1673,7 @@ bento.de#@#a[onmousedown^="this.href='http://marketing.outbrain.com/network/redi
 bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
+indiewire.com#@#.outbrain-widget
 @@||g.doubleclick.net/gampad/ads?*&sz=320x50%7C1x1%7C2x2%7C88x87&$script,domain=theguardian.com
 @@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
 @@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
