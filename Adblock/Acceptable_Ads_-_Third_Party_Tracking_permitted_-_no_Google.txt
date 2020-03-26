@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YUzQxM40sJoAo25/4lFuCA
-! Version: 202003260200
+! Checksum: RRKQ4LCayMgr+pwyIRDMpQ
+! Version: 202003261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Mar 2020 02:00 UTC
+! Last modified: 26 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7252,6 +7252,14 @@ news.mail.ru#@#.js-popup_gallery .viewbox__side
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=77054
 ! styleyourselfhub.com ads
+!:partner_token=win.gg
+!:partner_id=18059bad01445a83
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=77954
+! win.gg ads
+@@||cdn.advertserve.com^*/wingg.advertserve.com/servlet/$image,domain=win.gg
+win.gg#@#a[href*="/servlet/click/zone?"]
+@@||ads.win.gg^$script,image,domain=win.gg
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
