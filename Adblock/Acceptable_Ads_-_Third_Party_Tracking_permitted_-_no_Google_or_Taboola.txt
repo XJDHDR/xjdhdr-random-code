@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YNJiwZ+fcu8OqPWSTj4UAQ
-! Version: 202003261400
+! Checksum: M705Z1gYtfuky10wToSzNw
+! Version: 202003270200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 26 Mar 2020 14:00 UTC
+! Last modified: 27 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6136,35 +6136,6 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.criteo.net/js/ld/publishertag.prebid.js$script,domain=zoznam.sk
-wegotthiscovered.com#@#.sticky-sidebar-ad
-homes.com#@#.ad-slot
-homes.com#@#.ad__container
-innerstrength.zone#@##quads-ad4
-innerstrength.zone#@#.quads-ad4
-innerstrength.zone#@#.quads-location
-hi5.com#@#.dfp_ad
-hi5.com#@#.top-ad
-boards.sportslogos.net#@#div[data-role="sidebarAd"]
-fortune.com#@#.fortune-ad-tag__leaderboard
-geektyrant.com#@#.cmn-side
-fstoppers.com#@##block-fs_helpers-freestar_InContent
-allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
-allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
-allkpop.com,mymarketresearchmethods.com#@##insticator-container
-golfwrx.com#@#.mvp-ad-label
-dlisted.com#@#.adOuterContainer
-dlisted.com#@#.ad300
-boingboing.net#@#.adslot
-ratemyprofessors.com#@##ad_rec_01
-basketball-reference.com#@#.ad728
-photographylife.com#@#.banner_ad
-photographylife.com#@#.header_ad
-breitbart.com#@#.pub_300x250
-breitbart.com#@#.banner_ad
-breitbart.com#@#.text-ad
-wikihow.com#@#.ad_label
-wikihow.com#@#.wh_ad_inner
-buzzfeed.com#@#.ad-card
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
@@ -6176,6 +6147,7 @@ cnn.com#@##adBanner
 cnn.com#@##adSquare
 www.visitlondon.com#@##ad_footer
 www.visitlondon.com#@##ad_header
+ratemyprofessors.com#@##ad_rec_01
 cnn.com#@##adbanner
 gameskinny.com#@##adslot1
 gameskinny.com#@##adslot2
@@ -6184,6 +6156,7 @@ cnn.com#@##adsquare
 didev.co.uk,expertreviews.co.uk#@##block-dfp-billboard-leaderboard
 didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-1
 didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-2
+fstoppers.com#@##block-fs_helpers-freestar_InContent
 slickdeals.com#@##bottomDDAd
 eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,wowinterface.com#@##cubeAd
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-billboard_leaderboard
@@ -6192,9 +6165,13 @@ didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_1
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_1-wrapper
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2-wrapper
+allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
+allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,wowinterface.com#@##header-ad
 itstillworks.com#@##inline-ad
+allkpop.com,mymarketresearchmethods.com#@##insticator-container
 cnn.com#@##partner-zone
+innerstrength.zone#@##quads-ad4
 thewordfinder.com#@##sidebar-advertisement
 ebaumsworld.com#@##subheader_atf_wrapper
 cnn.com#@#.ad
@@ -6203,6 +6180,8 @@ thesimsresource.com#@#.ad-alsorectangle
 diablofans.com,mtgsalvation.com#@#.ad-atf
 mtgsalvation.com#@#.ad-atf-medRect
 pokebattler.com#@#.ad-banner
+bovary.gr#@#.ad-block
+buzzfeed.com#@#.ad-card
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
 windfinder.com#@#.ad-horizontal
@@ -6213,15 +6192,21 @@ thesimsresource.com#@#.ad-midleader
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 wowdb.com#@#.ad-placement
 jobseeq.com#@#.ad-right
-buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co,usatoday.com#@#.ad-slot
+buzzfeed.com,buzzfeed.io,buzzfeednews.com,homes.com,tasty.co,usatoday.com#@#.ad-slot
 windfinder.com#@#.ad-sticky
 fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
-spinz.io#@#.ad-unit
-bgr.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
+fosonline.gr,spinz.io#@#.ad-unit
+bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
+fosonline.gr#@#.ad-zone
 slader.com#@#.ad.inner
+dlisted.com#@#.ad300
+basketball-reference.com#@#.ad728
 gamerlaunch.com#@#.adFrame
+dlisted.com#@#.adOuterContainer
+homes.com#@#.ad__container
+wikihow.com#@#.ad_label
 itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.admz
@@ -6229,24 +6214,30 @@ obrazovaka.ru#@#.ads-block
 obrazovaka.ru#@#.ads-footer
 obrazovaka.ru#@#.ads-sidebar
 slader.com#@#.ads-to-hide
-gameskinny.com#@#.adslot
+boingboing.net,gameskinny.com#@#.adslot
 arcamax.com#@#.adunit
 visitlondon.com#@#.advert-leaderboard
 www.visitlondon.com#@#.advert-mpu
+breitbart.com,photographylife.com#@#.banner_ad
 didev.co.uk,expertreviews.co.uk#@#.block-dfp
 starmagazine.com#@#.bottom-ads
 bgr.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.c-ad
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.card--article-ad
 thefamouspeople.com#@#.center-ad
+geektyrant.com#@#.cmn-side
+news247.gr#@#.container_ad
 pwinsider.com#@#.content-left
 pwinsider.com#@#.content-right
 itstillworks.com#@#.desktop-ad
 didev.co.uk,expertreviews.co.uk#@#.dfp-tag-wrapper
+hi5.com#@#.dfp_ad
+fortune.com#@#.fortune-ad-tag__leaderboard
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
 goldderby.com#@#.header-ad
 runt-of-the-web.com#@#.header-banner
 pmcqa.com#@#.header-top-ad
+photographylife.com#@#.header_ad
 itstillworks.com#@#.inline-ad
 indiewire.com#@#.iw-leaderboard-ad
 tasty.co#@#.js-ad
@@ -6256,14 +6247,21 @@ itstillworks.com#@#.leaderboard-ad
 itstillworks.com#@#.main-ad
 cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,se1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com#@#.mpu_container
 runt-of-the-web.com#@#.mrec
+golfwrx.com#@#.mvp-ad-label
 americanupbeat.com,insidemystery.com#@#.proper-ad-unit
+breitbart.com#@#.pub_300x250
+innerstrength.zone#@#.quads-ad4
+innerstrength.zone#@#.quads-location
 jobright.com,jobungo.com,thefamouspeople.com#@#.right-ad
 starmagazine.com#@#.right-ads
-videezy.com#@#.sticky-ad
+bovary.gr,videezy.com#@#.sticky-ad
 factahead.com#@#.sticky-ad-container
-bgr.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
+wegotthiscovered.com#@#.sticky-sidebar-ad
+bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
 thesimsresource.com#@#.top-300-ad
+hi5.com#@#.top-ad
+wikihow.com#@#.wh_ad_inner
 thefamouspeople.com#@#.widget-ad
 indiewire.com#@#:-abp-properties(base64)
 tasty.co#@#AMP-AD
@@ -6272,6 +6270,7 @@ indiewire.com#@#[style*="background-image:"]
 indiewire.com#@#[style] > [scrolling]
 indiewire.com#@#[style] > iframe
 indiewire.com#@#div > iframe:first-child
+boards.sportslogos.net#@#div[data-role="sidebarAd"]
 usatoday.com#@#div[id^="ad-position-"]
 cnn.com#@#div[id^="ad_rect_"]
 didev.co.uk,expertreviews.co.uk#@#div[id^="dfp-ad-"]
