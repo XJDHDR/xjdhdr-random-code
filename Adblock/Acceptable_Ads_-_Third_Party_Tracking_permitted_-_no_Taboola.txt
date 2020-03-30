@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oTKseydkTQHVG7MyuWAe/A
-! Version: 202003300200
+! Checksum: uUL+BaELS4HjxxzVIZDkWg
+! Version: 202003301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 30 Mar 2020 02:00 UTC
+! Last modified: 30 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -14300,6 +14300,34 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||cheapprice.sale^$elemhide
 @@||google.com/uds/$script,subdocument,document,domain=bestdeals.today|cheapprice.sale
 @@||google.com/ads$domain=bestdeals.today|cheapprice.sale
+!A118
+@@||kleding.nl^$elemhide
+@@||fashiola.de^$elemhide
+@@||fashiola.co.uk^$elemhide
+@@||fashiola.es^$elemhide
+@@||fashiola.fr^$elemhide
+@@||fashiola.se^$elemhide
+@@||fashiola.it^$elemhide
+@@||fashiola.pl^$elemhide
+@@||fashiola.pt^$elemhide
+@@||fashiola.com.br^$elemhide
+@@||fashiola.at^$elemhide
+@@||fashiola.ch^$elemhide
+@@||fashiola.be^$elemhide
+@@||fashiola.dk^$elemhide
+@@||fashiola.mx^$elemhide
+@@||fashiola.com.au^$elemhide
+@@||fashiola.no^$elemhide
+@@||fashiola.fi^$elemhide
+@@||fashiola.com^$elemhide
+@@||fashiola.ca^$elemhide
+@@||fashiola.com.tr^$elemhide
+@@||fashiola.in^$elemhide
+@@||fashiola.ph^$elemhide
+@@||fashiola.ae^$elemhide
+@@||fashiola.cz^$elemhide
+@@||google.com/uds/$script,subdocument,document,domain=kleding.nl|fashiola.de|fashiola.co.uk|fashiola.es|fashiola.fr|fashiola.se|fashiola.it|fashiola.pl|fashiola.pt|fashiola.com.br|fashiola.at|fashiola.ch|fashiola.be|fashiola.be|fashiola.dk|fashiola.mx|fashiola.com.au|fashiola.no|fashiola.fi|fashiola.com|fashiola.ca|fashiola.com.tr|fashiola.in|fashiola.ph|fashiola.ae|fashiola.cz
+@@||google.com/ads$domain=kleding.nl|fashiola.de|fashiola.co.uk|fashiola.es|fashiola.fr|fashiola.se|fashiola.it|fashiola.pl|fashiola.pt|fashiola.com.br|fashiola.at|fashiola.ch|fashiola.be|fashiola.be|fashiola.dk|fashiola.mx|fashiola.com.au|fashiola.no|fashiola.fi|fashiola.com|fashiola.ca|fashiola.com.tr|fashiola.in|fashiola.ph|fashiola.ae|fashiola.cz
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner

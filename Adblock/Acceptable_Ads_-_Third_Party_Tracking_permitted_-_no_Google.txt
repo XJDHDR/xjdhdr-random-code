@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R8TDgMvy6a3+izr4HbPRRA
-! Version: 202003300200
+! Checksum: XkP0qsiJw9xtCRYptkfV/Q
+! Version: 202003301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Mar 2020 02:00 UTC
+! Last modified: 30 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -9149,6 +9149,32 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 !A117
 @@||bestdeals.today^$elemhide
 @@||cheapprice.sale^$elemhide
+!A118
+@@||kleding.nl^$elemhide
+@@||fashiola.de^$elemhide
+@@||fashiola.co.uk^$elemhide
+@@||fashiola.es^$elemhide
+@@||fashiola.fr^$elemhide
+@@||fashiola.se^$elemhide
+@@||fashiola.it^$elemhide
+@@||fashiola.pl^$elemhide
+@@||fashiola.pt^$elemhide
+@@||fashiola.com.br^$elemhide
+@@||fashiola.at^$elemhide
+@@||fashiola.ch^$elemhide
+@@||fashiola.be^$elemhide
+@@||fashiola.dk^$elemhide
+@@||fashiola.mx^$elemhide
+@@||fashiola.com.au^$elemhide
+@@||fashiola.no^$elemhide
+@@||fashiola.fi^$elemhide
+@@||fashiola.com^$elemhide
+@@||fashiola.ca^$elemhide
+@@||fashiola.com.tr^$elemhide
+@@||fashiola.in^$elemhide
+@@||fashiola.ph^$elemhide
+@@||fashiola.ae^$elemhide
+@@||fashiola.cz^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
