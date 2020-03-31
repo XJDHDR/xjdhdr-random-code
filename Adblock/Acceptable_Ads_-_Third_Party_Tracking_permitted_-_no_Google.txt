@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /4ekvDNnGulgZ5UrSGhzCA
-! Version: 202003310200
+! Checksum: v8k78Eky6APsuOqI/ZXxcQ
+! Version: 202003311400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 31 Mar 2020 02:00 UTC
+! Last modified: 31 Mar 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1285,6 +1285,9 @@ bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 indiewire.com#@#.outbrain-widget
+@@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
+@@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
+@@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
 @@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
 @@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
 @@||bonappetit.com/ads/js/cn.dart.bun.min.js$script,domain=bonappetit.com
@@ -1297,13 +1300,6 @@ indiewire.com#@#.outbrain-widget
 @@||adition.com/*boxoutbrain$script,domain=gmx.net|web.de
 @@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
 @@||*logo_mediamond_m.gif$image,domain=ilgiornale.it|meteo.it|sportmediaset.mediaset.it
-widgets.outbrain.com##.Ads_4
-widgets.outbrain.com##.AD_area
-widgets.outbrain.com##.AdsRec
-widgets.outbrain.com##.ADBox
-widgets.outbrain.com##.ob_ad
-widgets.outbrain.com##.abp_ob_exist
-widgets.outbrain.com#@#.abp_ob_wl
 focus.de##.AdsRec
 focus.de##.AD_area
 focus.de##.ADBox
