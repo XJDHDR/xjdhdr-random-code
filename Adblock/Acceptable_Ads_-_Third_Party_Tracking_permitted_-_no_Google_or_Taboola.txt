@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NMEJqRJ3Ryj9Cjf9N9Zcqw
-! Version: 202003301400
+! Checksum: QWncatBrxr2RreDjnZE7dA
+! Version: 202003310200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 30 Mar 2020 14:00 UTC
+! Last modified: 31 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -9466,6 +9466,9 @@ tumblr.com#@#.standalone-ad-container
 @@||www.pets.world^$elemhide
 @@||www.247.vacations^$elemhide
 @@||kitchepedia.com^$elemhide
+!:partner_id=25a5b2915c0c608d
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
 ! *** exceptions:exceptionrules/exceptionrules-no-third-party-tracking.txt ***
 !:partner_token=duckduckgo.com
 !:partner_id=9df9943c03442951

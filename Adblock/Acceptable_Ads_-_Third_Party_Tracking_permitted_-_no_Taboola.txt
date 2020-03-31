@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uUL+BaELS4HjxxzVIZDkWg
-! Version: 202003301400
+! Checksum: g8hOPQZx7z6H79h8KIiUqA
+! Version: 202003310200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 30 Mar 2020 14:00 UTC
+! Last modified: 31 Mar 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -14723,6 +14723,37 @@ tumblr.com#@#.standalone-ad-container
 @@||www.pets.world^$elemhide
 @@||www.247.vacations^$elemhide
 @@||kitchepedia.com^$elemhide
+!:partner_id=25a5b2915c0c608d
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
+thestartmagazine.com,samsung.com#@#.trc-content-sponsoredUB
+thestartmagazine.com,samsung.com#@#.trc-content-sponsored
+thestartmagazine.com,samsung.com#@#a[href^="http://bs.serving-sys.com/"]
+thestartmagazine.com,samsung.com#@#a[href^="https://bs.serving-sys.com"]
+thestartmagazine.com,samsung.com#@#.trc_rbox_div .syndicatedItem
+thestartmagazine.com,samsung.com#@#.trc_rbox_div .syndicatedItemUB
+thestartmagazine.com,samsung.com#@#.trc_rbox .syndicatedItem
+thestartmagazine.com,samsung.com#@#.trc_rbox_border_elm .syndicatedItem
+thestartmagazine.com,samsung.com#@#a[href^="https://dsct1.com/"]
+thestartmagazine.com,samsung.com#@#a[href^="http://ad.doubleclick.net/"]
+thestartmagazine.com,samsung.com#@#a[href^="https://ad.doubleclick.net/"]
+thestartmagazine.com,samsung.com#@#.trc_related_container div[data-item-syndicated="true"]
+thestartmagazine.com,samsung.com#@#a[href^="http://track.adform.net/"]
+thestartmagazine.com,samsung.com#@#a[href^="https://track.adform.net/"]
+thestartmagazine.com,samsung.com#@#a[href^="https://ad.atdmt.com/"]
+thestartmagazine.com,samsung.com#@#a[href*="/cmd.php?ad="]
+thestartmagazine.com,samsung.com#@#a[href^="https://plarium.com/"]
+thestartmagazine.com,samsung.com#@#a[href^="https://tracking.truthfinder.com/?a="]
+thestartmagazine.com,samsung.com##.banner_ad
+thestartmagazine.com,samsung.com##.sponsored_ad
+thestartmagazine.com,samsung.com#@#a[href*=".smartadserver.com"]
+@@||images.*.criteo.net/img/img?c=*&u=$image,domain=thestartmagazine.com|samsung.com
+@@||pix.*.criteo.net/img/img?c=*&u=$image,domain=thestartmagazine.com|samsung.com
+@@&publisherID=$popup,domain=thestartmagazine.com|samsung.com
+@@||doubleclick.net/ddm/$popup,domain=thestartmagazine.com|samsung.com
+@@||track.adform.net^$popup,domain=thestartmagazine.com|samsung.com
+@@||ads.youniversalmedia.com^$popup,domain=thestartmagazine.com|samsung.com
+@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=thestartmagazine.com|samsung.com
 ! *** exceptions:exceptionrules/exceptionrules-no-third-party-tracking.txt ***
 !:partner_token=duckduckgo.com
 !:partner_id=9df9943c03442951
