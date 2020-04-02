@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e8MuyvwFNiWhohutlxYFEw
-! Version: 202004020200
+! Checksum: Jh0s4ovmzl+OOdsvRQxWoQ
+! Version: 202004021400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Apr 2020 02:00 UTC
+! Last modified: 02 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6132,6 +6132,11 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.criteo.net/js/ld/publishertag.prebid.js$script,domain=zoznam.sk
+nouvelobs.com#@#.dfp-slot
+ew.com#@#.ad-wrapper
+ew.com#@#.mobile-ad
+ew.com#@#.sister-ads
+ew.com#@#.adsbox
 parkers.co.uk#@#.top-ad
 parkers.co.uk#@#.mpu-ad
 parkers.co.uk#@##headerAd
@@ -7214,6 +7219,24 @@ news.mail.ru#@#.js-popup_gallery .viewbox__side
 @@||cdn.advertserve.com^*/wingg.advertserve.com/servlet/$image,domain=win.gg
 win.gg#@#a[href*="/servlet/click/zone?"]
 @@||ads.win.gg^$script,image,domain=win.gg
+!:partner_token=Rambler
+!:partner_id=0f379e9a30bc5b2e
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78046
+! Tracking by Rambler
+afisha.ru##.advertising
+afisha.ru##div[data-ssp="ad_"]
+afisha.ru##a[href^="https://dsp-rambler.ru/"]
+||dsp-rambler.ru^$subdocument,domain=afisha.ru
+@@||ads.adfox.ru/getid^$script,domain=afisha.ru
+@@||img01.ssp.rambler.ru/file.jsp^$xmlhttprequest,image,domain=afisha.ru
+@@||ssp.rambler.ru/context.jsp^$xmlhttprequest,domain=afisha.ru
+@@||ssp.rambler.ru/capirs_async.js|$domain=afisha.ru
+@@||px.moatads.com/pixel.gif^$image,domain=afisha.ru
+@@||moatads.com/ramblercodisplay*=Test_adblock_plus&$script,domain=afisha.ru
+@@||ads.adfox.ru^*/getCode^$image,domain=afisha.ru
+@@||ad.adriver.ru/cgi-bin/rle.cgi^$image,domain=afisha.ru
+@@||afisha.ru/ads.js^$domain=afisha.ru
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7626,6 +7649,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.thestudentroom.co.uk^$domain=thestudentroom.co.uk,document
 @@||related.ultimate-guitar.com^$domain=ultimate-guitar.com
 @@||related.ultimate-guitar.com^$domain=ultimate-guitar.com,document
+@@||related.lacuerda.net^$domain=lacuerda.net
+@@||related.lacuerda.net^$domain=lacuerda.net,document
 @@||deployads.com/a/biggeekdad.com.js$domain=biggeekdad.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
@@ -7674,7 +7699,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com,thestudentroom.co.uk#@#.header-ad
-speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com,mashable.com,washingtontimes.com,fr.shopping.rakuten.com,pminteg.fr,convertunits.com,pch.com,titantv.com#@#div[id^="div-gpt-ad"]
+speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com,mashable.com,washingtontimes.com,fr.shopping.rakuten.com,pminteg.fr,convertunits.com,pch.com,titantv.com,lacuerda.net#@#div[id^="div-gpt-ad"]
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
 247wallst.com#@#.iframe-ad
@@ -9372,16 +9397,16 @@ yahoo.com#@#.ad-tl1
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
 ! Yahoo display ads
-! yahoo.com#@##my-adsLREC4-base
-! @@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
-! ||yahoo.com/px.gif?ch=2$domain=yahoo.com
-! @@||yahoo.com/px.gif?ch=1$domain=yahoo.com
-! @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
-! @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
-! yahoo.com#@##sticky-lrec2-footer
-! yahoo.com#@#.uba-container
-! yahoo.com#@#.billboard-ads
-! yahoo.com#@#.darla
+yahoo.com#@##my-adsLREC4-base
+@@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
+||yahoo.com/px.gif?ch=2$domain=yahoo.com
+@@||yahoo.com/px.gif?ch=1$domain=yahoo.com
+@@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
+@@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
+yahoo.com#@##sticky-lrec2-footer
+yahoo.com#@#.uba-container
+yahoo.com#@#.billboard-ads
+yahoo.com#@#.darla
 ! Yahoo Mail
 @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
 @@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
