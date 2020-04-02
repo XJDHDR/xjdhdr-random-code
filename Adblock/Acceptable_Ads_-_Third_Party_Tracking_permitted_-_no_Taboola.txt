@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H5nnHgrNNFYabtyuL/lQwA
-! Version: 202004011400
+! Checksum: Vjw9CJEUgYZop0MlRF279g
+! Version: 202004020200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Taboola
-! Last modified: 01 Apr 2020 14:00 UTC
+! Last modified: 02 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2118,7 +2118,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
 @@||projectagora.net^$script,domain=ennaharonline.com|nataeeg.com|5br-3agel.com|cera.video|big14me.com|taxheaven.gr
-@@/projectagora.min.js$script,domain=lachainemeteo.com|weathercrave.co.uk|liberal.gr|lahoretvnews.com|3ain.net|dostor.org|superkora.football|astvd.com|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=goal.com|lesiteinfo.com|zonalocale.it|donga.com|noticialdia.com|rondoniagora.com|cadaminuto.com.br|hftg.co|genova24.it|ivg.it|meteoconsult.fr|ricmais.com.br|bokser.org|cadaminuto.com.br|dailytimes.com.pk|mirchi9.com|mbn.co.kr|wsmv.com|wnem.com|giornaletrentino.it|fox5vegas.com|tworeddots.com|topgearup.com|atv.pe|theasianparent.com|zaytung.com|koreatimes.co.kr|indiatv.in|kaohoon.com|quizdiva.net|cityam.com|lachainemeteo.com|weathercrave.co.uk|liberal.gr|lahoretvnews.com|3ain.net|dostor.org|superkora.football|astvd.com|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=199043128%2CSeLoger_Achat_General_Page-de-liste&$script,domain=seloger.com,xmlhttprequest
 @@||static-seloger.com^*/Plugins/DFP/$script
@@ -2137,6 +2137,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.projectagoraservices.com^$script,domain=rassdtunisia.net|kosovarja-ks.com
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||jeded.com/ads/1.js|$domain=subscene.com
+quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
 krstarica.com#@#.bsac
 usatoday.com#@#.gnt_tb
@@ -14621,27 +14622,27 @@ yahoo.com#@#.ad-tl1
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
 ! Yahoo display ads
-yahoo.com#@##my-adsLREC4-base
-@@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
-@@||na.ads.yahoo.com/yax/banner^*^asz=300x250*|UBA$subdocument,domain=s.yimg.com,document
-@@||na.ads.yahoo.com/yax/banner^*^asz=728x90*|UBA$subdocument,domain=s.yimg.com,document
-@@||na.ads.yahoo.com/yax/csc^$image,domain=s.yimg.com
-@@||s.yimg.com/rq/darla/*/html/r-csc.html$subdocument,domain=yahoo.com
-@@||csc.beap.bc.yahoo.com^*^ypos=UBA$image,domain=s.yimg.com
-||yahoo.com/px.gif?ch=2$domain=yahoo.com
-@@||yahoo.com/px.gif?ch=1$domain=yahoo.com
-@@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
-@@||yimg.com/rq/darla/i/fdb1.gif$domain=yahoo.com
-@@||onemobile.yahoo.com/admax/adServe.do?*|UBA$subdocument,document,domain=s.yimg.com
-@@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
-@@||yimg.com/nn/lib/metro/g/sda/$domain=yahoo.com
-@@||yimg.com/aaq/wf/wf-darla-*-modern.js$domain=yahoo.com
-s.yimg.com#@#.ad_slug_table
-s.yimg.com#@#.CAN_ad
-yahoo.com#@##sticky-lrec2-footer
-yahoo.com#@#.uba-container
-yahoo.com#@#.billboard-ads
-yahoo.com#@#.darla
+! yahoo.com#@##my-adsLREC4-base
+! @@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
+! @@||na.ads.yahoo.com/yax/banner^*^asz=300x250*|UBA$subdocument,domain=s.yimg.com,document
+! @@||na.ads.yahoo.com/yax/banner^*^asz=728x90*|UBA$subdocument,domain=s.yimg.com,document
+! @@||na.ads.yahoo.com/yax/csc^$image,domain=s.yimg.com
+! @@||s.yimg.com/rq/darla/*/html/r-csc.html$subdocument,domain=yahoo.com
+! @@||csc.beap.bc.yahoo.com^*^ypos=UBA$image,domain=s.yimg.com
+! ||yahoo.com/px.gif?ch=2$domain=yahoo.com
+! @@||yahoo.com/px.gif?ch=1$domain=yahoo.com
+! @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
+! @@||yimg.com/rq/darla/i/fdb1.gif$domain=yahoo.com
+! @@||onemobile.yahoo.com/admax/adServe.do?*|UBA$subdocument,document,domain=s.yimg.com
+! @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
+! @@||yimg.com/nn/lib/metro/g/sda/$domain=yahoo.com
+! @@||yimg.com/aaq/wf/wf-darla-*-modern.js$domain=yahoo.com
+! s.yimg.com#@#.ad_slug_table
+! s.yimg.com#@#.CAN_ad
+! yahoo.com#@##sticky-lrec2-footer
+! yahoo.com#@#.uba-container
+! yahoo.com#@#.billboard-ads
+! yahoo.com#@#.darla
 ! Yahoo Mail
 @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
 @@||yimg.com/rq/darla/boot.js$domain=mail.yahoo.com
