@@ -36,6 +36,7 @@ AddWindowsToGroup()
 	GroupAdd, StandardGameList, Emperor: Rise of the Middle Kingdom ahk_class WinSJBClass ahk_exe Emperor.exe,
 	GroupAdd, StandardGameList, ahk_class GZDoomMainWindow ahk_exe gzdoom.exe, , , GZDOOM ahk_class GZDoomMainWindow ahk_exe gzdoom.exe,		; GZ Doom
 	GroupAdd, StandardGameList, ahk_exe hl2.exe, 
+	GroupAdd, StandardGameList, ahk_class KillingFloorUnrealWWindowsViewportWindow ahk_exe KillingFloor.exe,	; No window name
 	GroupAdd, StandardGameList, Osmos ahk_class OsmosGame ahk_exe Osmos.exe,
 	GroupAdd, StandardGameList, PAYDAY 2 ahk_class diesel win32 ahk_exe payday2_win32_release.exe,
 	GroupAdd, StandardGameList, Pharaoh ahk_class WinSJBClass ahk_exe Pharaoh.exe, 

@@ -334,64 +334,6 @@ sDateTime=$(date -u +"%d %b %Y %H:%M")
 	fi
 
 
-	declare -a HPHostsDownloadList=("emd" "exp" "fsa" "grm" "hfs" "hjk" "mmt" "pha" "psh" "pup" "wrz")
-	for HPHostsDownloadItem in "${HPHostsDownloadList[@]}"
-	do
-		CommandExitCode=$(wget -q -O "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt" -t 10 \
-			-c "https://hosts-file.net/$HPHostsDownloadItem.txt")$?
-		if [ "$CommandExitCode" -eq 0 ]
-		then
-			dos2unix --quiet "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			recode -f ..utf8 "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			sed -i '/ localhost /d' "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			sed -i 's/#/!/g' "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			sed -i 's/[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\t/||/g' \
-				"$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			sed -i '/!/!s/$/\^/g' "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			{
-				printf '[Adblock Plus 2.0]\n'
-				printf '! Version: %s\n' "$sVersion"
-				printf "! Title: HP Hosts %s list\n" "$HPHostsDownloadItem"
-				printf '! Last modified: %s UTC\n' "$sDateTime"
-				printf '! Expires: 4 days\n'
-				printf '! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/\n'
-				printf '!\n'
-				printf '! These filters were derived from the Hosts files that are provided by hpHosts\n'
-				printf '! The original files can be found here: http://hosts-file.net/?s=Download\n'
-				printf '! The 3 letter code at the end of this file'"'"'s name indicates the classification given to\n'
-				printf '! all of the domains listed here by hpHosts. The definitions of those codes can be found here:\n'
-				printf '! http://hosts-file.net/?s=classifications\n'
-				printf '!\n'
-				printf '! Please report any issues by creating a ticket on GitHub or SourceForge\n'
-				printf '!\n'
-				printf '!\n'
-				cat "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-			} > "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
-			# Delete duplicate lines except comments
-			awk '/^!/ || !a[$0]++' "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt" \
-				> "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt"
-			mv -f "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-cleaned.txt" \
-				"/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
-			recode -f ..utf8 "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
-			python '/home/addChecksum.py' < "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt" \
-				> "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-checked.txt"
-			mv -f "/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem-checked.txt" \
-				"/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt"
-			CommandExitCode=$(python '/home/validateChecksum.py' < \
-				"/home/zz_repositories/xjdhdr-random-code/Adblock/hphosts-$HPHostsDownloadItem.txt")$?
-			if [ "$CommandExitCode" != 'Checksum is valid0' ]
-			then
-				errors+="Errors encountered during checksum validation of "
-				errors+="hphosts-$HPHostsDownloadItem.txt: Error: $CommandExitCode\n"
-			fi
-			CommandExitCode=0
-			rm -f "$HOME/working_folder/hphosts-$HPHostsDownloadItem.txt"
-		else
-			errors+="Could not download hphosts-$HPHostsDownloadItem.txt: Error:$CommandExitCode\n"
-		fi
-	done
-
-
 	rm -f "$HOME/working_folder/blocklist.txt"
 	CommandExitCode=$(wget -q -O "$HOME/working_folder/level_1.gz" -t 10 -c \
 		'http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=p2p&archiveformat=gz')$?
