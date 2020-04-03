@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lpghf/jUbssFZNPCbz41WQ
-! Version: 202004030200
+! Checksum: +78L+RrcDFbWnNa8YB7qfg
+! Version: 202004031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Apr 2020 02:00 UTC
+! Last modified: 03 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -145,10 +145,10 @@ heise.de#@#a[href^="https://marketing.outbrain.com/network/redir?"]
 ! Text/image ads on heise.de
 @@||heise.de/js/prebid*.js$domain=heise.de
 heise.de#@#.ad-container
-heise.de##a-ad:not([acceptable])
 heise.de#@#.img_ad
 heise.de#@#.us-ad
 heise.de#@#.ad-microsites
+heise.de#@#.a-ad
 !:partner_token=izito.com
 !:partner_id=de5285dacf045639
 !:type=partner
@@ -7472,7 +7472,7 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||d.adroll.com/onp/$image,third-party
 @@||analytics.yahoo.com/sp.pl$image,third-party
 @@||bm.adentifi.com/pixel/conv/$image,third-party
-@@||s.amazon-adsystem.com/iu3$subdocument,third-party
+@@||amazon-adsystem.com/iu3$subdocument,third-party
 @@||t.teads.tv/track^$image,third-party
 @@||adform.net/Serving/TrackPoint^$image,third-party
 @@||media6degrees.com/orbserv/$image,third-party
