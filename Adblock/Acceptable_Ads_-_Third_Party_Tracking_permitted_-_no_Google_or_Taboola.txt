@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1zVwI76bmQFu0tgq1Et3BA
-! Version: 202004060200
+! Checksum: BkSrU+8IzjFvKku6HHIRpQ
+! Version: 202004061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Apr 2020 02:00 UTC
+! Last modified: 06 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7651,7 +7651,11 @@ testpages.adblockplus.org#@##abptest
 @@||related.ultimate-guitar.com^$domain=ultimate-guitar.com,document
 @@||related.lacuerda.net^$domain=lacuerda.net
 @@||related.lacuerda.net^$domain=lacuerda.net,document
-@@||deployads.com/a/biggeekdad.com.js$domain=biggeekdad.com
+@@||related.homesteadingtoday.com^$domain=homesteadingtoday.com
+@@||related.homesteadingtoday.com^$domain=homesteadingtoday.com,document
+@@||related.michigan-sportsman.com^$domain=michigan-sportsman.com
+@@||related.michigan-sportsman.com^$domain=michigan-sportsman.com,document
+@@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7678,6 +7682,10 @@ searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 arstechnica.com,arsdev.net#@#.ad_crown
 arstechnica.com,arsdev.net#@#.cns-ads-stage
 arstechnica.com,arsdev.net#@#.ad_fullwidth
+arstechnica.com,arsdev.net#@#.ad_xrail_top
+arstechnica.com,arsdev.net#@#.ad_native
+arstechnica.com,arsdev.net#@#.ad_native_xrail
+arstechnica.com,arsdev.net#@#.ad_xrail
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600
 keno.pch.com,keno.qa.pch.com#@#.ad-728x90
 keno.pch.com,keno.qa.pch.com#@#.ad-300x250
@@ -7699,7 +7707,7 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--progressive
 forbes.com#@#.channel--ad
 forbes.com,thestudentroom.co.uk#@#.header-ad
-speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com,mashable.com,washingtontimes.com,fr.shopping.rakuten.com,pminteg.fr,convertunits.com,pch.com,titantv.com,lacuerda.net#@#div[id^="div-gpt-ad"]
+speedtest.net,firstpost.com,koutsompolio.gr,seattletimes.com,aax.demo.oriel.io,boredpanda.com,novini.bg,sportal.bg,sportalbg.dev.smakmedia.com,footballfancast.com,agame.com,intermediair.nl,footballtransfertavern.com,allkpop.com,mediafire.com,mashable.com,washingtontimes.com,fr.shopping.rakuten.com,pminteg.fr,convertunits.com,pch.com,titantv.com,lacuerda.net,homesteadingtoday.com,michigan-sportsman.com#@#div[id^="div-gpt-ad"]
 247wallst.com#@##leaderbar
 247wallst.com#@##ad-header
 247wallst.com#@#.iframe-ad
