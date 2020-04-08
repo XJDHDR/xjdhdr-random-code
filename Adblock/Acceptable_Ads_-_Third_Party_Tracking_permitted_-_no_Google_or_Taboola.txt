@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 04jo0Ezvh23u8svx4u8scw
-! Version: 202004080200
+! Checksum: 1T3P4WfrQED2RxHFgl2UKw
+! Version: 202004081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 08 Apr 2020 02:00 UTC
+! Last modified: 08 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1624,6 +1624,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
+@@/projectagora.min.js$script,domain=kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -6132,6 +6133,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.criteo.net/js/ld/publishertag.prebid.js$script,domain=zoznam.sk
+wowhead.com#@##main > .blocks
 nouvelobs.com#@#.dfp-slot
 ew.com#@#.ad-wrapper
 ew.com#@#.mobile-ad
@@ -7237,6 +7239,17 @@ afisha.ru##a[href^="https://dsp-rambler.ru/"]
 @@||ads.adfox.ru^*/getCode^$image,domain=afisha.ru
 @@||ad.adriver.ru/cgi-bin/rle.cgi^$image,domain=afisha.ru
 @@||afisha.ru/ads.js^$domain=afisha.ru
+!:partner_token=Adnet media
+!:partner_id=4d6e6ef13bfe4ac7
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78057
+! Ads by Adnet
+@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
+@@||adnet.lt/stable/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
+@@||adnetmedia.lt/keytarget/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
+@@||bbelements.com/scripts/ibb-async/$script,domain=tax.lt
+||adnet.lt/stable/px.gif?ch=2&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
+alio.lt#@#.ad-placement
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
