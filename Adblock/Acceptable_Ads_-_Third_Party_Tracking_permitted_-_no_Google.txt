@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p7VbmYlBeEbjc9evruWibg
-! Version: 202004091400
+! Checksum: uUGC9qhjmpYj0TLsd6CcAA
+! Version: 202004100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Apr 2020 14:00 UTC
+! Last modified: 10 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1653,6 +1653,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.projectagoraservices.com^$script,domain=rassdtunisia.net|kosovarja-ks.com
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||jeded.com/ads/1.js|$domain=subscene.com
+@@||domslc.com^$third-party,domain=newsbreak.gr
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
 krstarica.com#@#.bsac
@@ -1722,7 +1723,7 @@ nbcnews.com,sandip.knowable.com,thepoliticalinsider.com#@#.ad-container
 didyouknowfacts.com,nbcnews.com,postize.com,today.com#@#.ad-content
 cyprus-mail.com#@#.ad-custom-size
 didyouknowfacts.com#@#.ad-footer
-pronto.com.ar,navarra.elespanol.com,diariodeleon.es,nuevatribuna.es#@#.ad-inner
+hibridosyelectricos.com,pronto.com.ar,navarra.elespanol.com,diariodeleon.es,nuevatribuna.es#@#.ad-inner
 brilliantmaps.com,sciencepost.fr#@#.ad-inserter
 vgpwn.com#@#.ad-inserter-widget
 nbcnews.com#@#.ad-location
@@ -1730,7 +1731,7 @@ timesnownews.com#@#.ad-panel
 newsner.com#@#.ad-placement
 thepoliticalinsider.com#@#.ad-row
 nbcnews.com#@#.ad-s-rendered
-pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
+hibridosyelectricos.com,pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
 navarra.elespanol.com#@#.big-ads
 cultbox.co.uk,nuevatribuna.es#@#.ad-slot-sidebar-b
 medyabar.com#@#.ad-unit
@@ -2910,7 +2911,8 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
 @@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com
-@@||bidder.criteo.com/csm^$domain=criteotilt.com
+@@||criteo.net/js/ld/publishertag.prebid.js$script,domain=~yahoo.com|~mmo-champion.com
+@@||bidder.criteo.com/csm^
 ~mmo-champion.com#@#div[id^="crt-"][style*="width:"]
 ~mmo-champion.com#@#div[id^="crt-"][style]
 ~mmo-champion.com#@#div[id^="crt-"][data-criteo-id]
@@ -5970,7 +5972,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com|walterfootball.com
 !
-@@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping
+@@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
