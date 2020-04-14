@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jASvuYcjSUTW49073p7UAw
-! Version: 202004140200
+! Checksum: /ZMWizPbnI+5/y9cicK+Ew
+! Version: 202004141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Apr 2020 02:00 UTC
+! Last modified: 14 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7281,19 +7281,24 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78046
 ! Tracking by Rambler
-afisha.ru##.advertising
 afisha.ru##div[data-ssp="ad_"]
 afisha.ru##a[href^="https://dsp-rambler.ru/"]
+afisha.ru#@#.advertising
+afisha.ru##div[class*="advertising "]:not(.advertising__billboard)
+afisha.ru#@#a[href^="https://dsp-rambler.ru/"]
 ||dsp-rambler.ru^$subdocument,domain=afisha.ru
 @@||ads.adfox.ru/getid^$script,domain=afisha.ru
 @@||img01.ssp.rambler.ru/file.jsp^$xmlhttprequest,image,domain=afisha.ru
-@@||ssp.rambler.ru/context.jsp^$xmlhttprequest,domain=afisha.ru
 @@||ssp.rambler.ru/capirs_async.js|$domain=afisha.ru
 @@||px.moatads.com/pixel.gif^$image,domain=afisha.ru
 @@||moatads.com/ramblercodisplay*=Test_adblock_plus&$script,domain=afisha.ru
 @@||ads.adfox.ru^*/getCode^$image,domain=afisha.ru
 @@||ad.adriver.ru/cgi-bin/rle.cgi^$image,domain=afisha.ru
 @@||afisha.ru/ads.js^$domain=afisha.ru
+@@||ssp.rambler.ru/file.jsp^$subdocument,document,image,xmlhttprequest
+@@||ssp.rambler.ru/context.jsp?*&url=https%3A%2F%2Fwww.afisha.ru%2Fmovie%2F246298%2F$xmlhttprequest,domain=afisha.ru
+@@||dsp-rambler.ru/imp/$subdocument,document
+||dsp-rambler.ru/tpl/Fullscreen^$script
 !:partner_token=Adnet media
 !:partner_id=4d6e6ef13bfe4ac7
 !:type=partner
@@ -7725,6 +7730,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.homesteadingtoday.com^$domain=homesteadingtoday.com,document
 @@||related.michigan-sportsman.com^$domain=michigan-sportsman.com
 @@||related.michigan-sportsman.com^$domain=michigan-sportsman.com,document
+@@||related.futbolcentroamerica.com^$domain=futbolcentroamerica.com
+@@||related.futbolcentroamerica.com^$domain=futbolcentroamerica.com,document
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
@@ -7744,6 +7751,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+futbolcentroamerica.com#@#.banner_160x600
 biggeekdad.com#@#.ad-tag
 hannity.com#@#.ad-728-90
 hannity.com#@#.banner_ad
