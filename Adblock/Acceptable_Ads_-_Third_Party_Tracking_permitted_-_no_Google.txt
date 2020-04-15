@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ZMWizPbnI+5/y9cicK+Ew
-! Version: 202004141400
+! Checksum: z5vBNXWv7B1C2MzyLoJkVQ
+! Version: 202004150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Apr 2020 14:00 UTC
+! Last modified: 15 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -478,19 +478,19 @@ tsvbodnegg.de#@##text-5
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15362
 ! computerbase.de ads
-computerbase.de#@#.content-list__ad-label
-computerbase.de#@#.article-view__rectangle
-computerbase.de#@#.article-view__footer-ad
-computerbase.de#@#.adbox-wrapper
-computerbase.de#@#.adbox-rectangle
-computerbase.de#@#.block1--ads
-computerbase.de#@##afc-box
+! computerbase.de#@#.content-list__ad-label
+! computerbase.de#@#.article-view__rectangle
+! computerbase.de#@#.article-view__footer-ad
+! computerbase.de#@#.adbox-wrapper
+! computerbase.de#@#.adbox-rectangle
+! computerbase.de#@#.block1--ads
+! computerbase.de#@##afc-box
 !:partner_token=computerbase.de
 !:partner_id=b09e339b289c942f
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=77956#p77956
 ! computerbase.de ads
-@@||computerbase.de/js/ads.$script,xmlhttprequest,domain=computerbase.de
+! @@||computerbase.de/js/ads.$script,xmlhttprequest,domain=computerbase.de
 !:partner_token=computerbase.de
 !:partner_id=b09e339b289c942f
 !:type=partner
@@ -1731,7 +1731,7 @@ timesnownews.com#@#.ad-panel
 newsner.com#@#.ad-placement
 thepoliticalinsider.com#@#.ad-row
 nbcnews.com#@#.ad-s-rendered
-hibridosyelectricos.com,pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
+lavozdelanzarote.com,hibridosyelectricos.com,pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
 navarra.elespanol.com#@#.big-ads
 cultbox.co.uk,nuevatribuna.es#@#.ad-slot-sidebar-b
 medyabar.com#@#.ad-unit
@@ -1822,8 +1822,8 @@ bodyandsoul.com.au,whimn.com.au#@#.promoted-outbrain
 ouest-france.fr,sofoot.com,yatahonga.com#@#.pub
 livenewson.com#@#.quads-ad2
 buzzissime.com#@#.quads-ad3_widget
-emdireto.pt,conserve-energy-future.com,solidesnake.com#@#.quads-ad4
-emdireto.pt,alternativemediasyndicate.com,ancient-code.com,conserve-energy-future.com,elfarandi.com,larecette.net,livenewson.com,newsroom24.co.uk,slavorum.org,solidesnake.com,soo-healthy.com,soolide.com,themindcircle.com,thewildchild.co.za,topimag.fr,trustmyscience.com,zipbr.com#@#.quads-location
+inews24.it,emdireto.pt,conserve-energy-future.com,solidesnake.com#@#.quads-ad4
+inews24.it,emdireto.pt,alternativemediasyndicate.com,ancient-code.com,conserve-energy-future.com,elfarandi.com,larecette.net,livenewson.com,newsroom24.co.uk,slavorum.org,solidesnake.com,soo-healthy.com,soolide.com,themindcircle.com,thewildchild.co.za,topimag.fr,trustmyscience.com,zipbr.com#@#.quads-location
 goldpara.com#@#.reklam2
 eurosport.com#@#.related-content-story--sponsored
 guiadasemana.com.br#@#.side-ads
@@ -6947,6 +6947,7 @@ digireality.cz#@#[id^="aswift"]
 @@||track.adform.net^$image,domain=vk.com
 @@||criteo.com/delivery/ajs.php?zoneid=404767$script,domain=vk.com
 @@||criteo.com/delivery/ajs.php?zoneid=404768$script,domain=vk.com
+@@||vk.com/js/cmodules/web/ads_light.$script,domain=vk.com
 !:partner_token=ppc.world
 !:partner_id=8e0ac9864547fe79
 !:type=partner
