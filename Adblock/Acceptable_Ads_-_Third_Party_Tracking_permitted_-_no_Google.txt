@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hEgAAQqifz9emIdktjeECQ
-! Version: 202004171400
+! Checksum: 5/Regf6l+OWp12B9D14F1w
+! Version: 202004180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 17 Apr 2020 14:00 UTC
+! Last modified: 18 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7308,36 +7308,6 @@ news.mail.ru#@#.js-popup_gallery .viewbox__side
 @@||cdn.advertserve.com^*/wingg.advertserve.com/servlet/$image,domain=win.gg
 win.gg#@#a[href*="/servlet/click/zone?"]
 @@||ads.win.gg^$script,image,domain=win.gg
-!:partner_token=Rambler
-!:partner_id=0f379e9a30bc5b2e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78046
-! Tracking by Rambler
-www.afisha.ru##div[data-ssp="ad_"]
-www.afisha.ru##a[href^="https://dsp-rambler.ru/"]
-www.afisha.ru#@#.advertising
-www.afisha.ru##div[class*="advertising "]:not(.advertising__billboard)
-www.afisha.ru#@#a[href^="https://dsp-rambler.ru/"]
-www.afisha.ru#@#div[id^="div-gpt-ad"]
-www.afisha.ru##div[id^="div-gpt-ad"]:not([id="div-gpt-ad-1553868327519-0"])
-||dsp-rambler.ru^$subdocument,domain=www.afisha.ru
-@@||ads.adfox.ru/getid^$script,domain=www.afisha.ru
-@@||img01.ssp.rambler.ru/file.jsp^$xmlhttprequest,image,domain=www.afisha.ru
-@@||ssp.rambler.ru/capirs_async.js|$domain=www.afisha.ru
-@@||px.moatads.com/pixel.gif^$image,domain=www.afisha.ru
-@@||moatads.com/ramblercodisplay*=Test_adblock_plus&$script,domain=www.afisha.ru
-@@||ads.adfox.ru^*/getCode^$image,domain=www.afisha.ru
-@@||ad.adriver.ru/cgi-bin/rle.cgi^$image,domain=www.afisha.ru
-@@||afisha.ru/ads.js^$domain=www.afisha.ru
-@@||ssp.rambler.ru/file.jsp^$subdocument,document,image,xmlhttprequest,domain=www.afisha.ru
-@@||ssp.rambler.ru/context.jsp?*&url=https%3A%2F%2Fwww.afisha.ru%2Fmovie%2F246298%2F$xmlhttprequest,domain=www.afisha.ru
-@@||dsp-rambler.ru/imp/$subdocument,document,domain=www.afisha.ru
-||dsp-rambler.ru/tpl/Fullscreen^$script,domain=www.afisha.ru
-@@||ads.adfox.ru/*/goLink?$popup,domain=www.afisha.ru
-@@||cdn.ampproject.org/rtv/012003262059300/amp4ads-$script,domain=www.afisha.ru
-@@||ssp.rambler.ru/blockstat^$xmlhttprequest,domain=www.afisha.ru
-@@||profile.ssp.rambler.ru/sync2.204^$image,domain=www.afisha.ru
-@@||profile.ssp.rambler.ru/sandbox^$subdocument,document,domain=www.afisha.ru
 !:partner_token=Adnet media
 !:partner_id=4d6e6ef13bfe4ac7
 !:type=partner
