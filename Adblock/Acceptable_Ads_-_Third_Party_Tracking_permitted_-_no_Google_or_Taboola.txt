@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0zTPLKrVCJEljoa285Dm4Q
-! Version: 202004201400
+! Checksum: cO/ldbL3eJMf+ieQ6Mx9Hw
+! Version: 202004210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Apr 2020 14:00 UTC
+! Last modified: 21 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6999,18 +6999,18 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 ! @@||an.yandex.ru/meta/$domain=lentainform.com
 ! @@||an.yandex.ru/system/context.js$domain=lentainform.com
 ! lentainform.com#@#div[id^="yandex_rtb"]
-@@||jsc.lentainform.com^$script,domain=rria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||lentainform.com^$popup,domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||c.lentainform.com^$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||autocounter.lentainform.com^$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||s-img.lentainform.com^$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||cm.lentainform.com^$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||servicer.lentainform.com^$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||cdn.lentainform.com^$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||jsc.lentainform.com^$script,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||lentainform.com^$popup,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||c.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||autocounter.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||s-img.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||cm.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||servicer.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
+@@||cdn.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
 @@||marketgid.com/images/lentainform/$domain=ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su#@#a[href*="lentainform.com/pnews/"]
-ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su#@#[id*="ScriptRoot"]
-ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,sovetov.su##div[id*="Composite"]:not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"])
+howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su#@#a[href*="lentainform.com/pnews/"]
+howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su#@#[id*="ScriptRoot"]
+howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,gismeteo.ru,teleprogramma.pro,sovetov.su##div[id*="Composite"]:not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -9180,6 +9180,11 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||fashiola.ph^$elemhide
 @@||fashiola.ae^$elemhide
 @@||fashiola.cz^$elemhide
+!A119
+@@||bestreviews.guide^$elemhide
+@@||cybermondaydeals.online^$elemhide
+@@||seasonsepisode.watch^$elemhide
+@@||watchonline.guide^$elemhide
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
