@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cO/ldbL3eJMf+ieQ6Mx9Hw
-! Version: 202004210200
+! Checksum: xoq4yku3NjA9ug0nyKLAVw
+! Version: 202004211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Apr 2020 02:00 UTC
+! Last modified: 21 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2526,7 +2526,7 @@ alteroffice.pl#@#.reklama
 ! Ads by media.net
 ||mnet-ad.net^
 @@||media.net^$document
-@@||media.net^$third-party,domain=~healthyandnaturalworld.com|~thestreet.com|~ibtimes.com|~newsweek.com|~latintimes.com
+@@||media.net^$third-party,domain=~healthyandnaturalworld.com|~thestreet.com|~ibtimes.com|~newsweek.com|~latintimes.com|~movoto.com
 @@||keywordblocks.com^*.cfm?$elemhide
 @@||topics.forbes.com^*.cfm?$elemhide
 @@||related.forbes.com^*.cfm?$elemhide
@@ -5004,6 +5004,7 @@ workupload.com#@#.ad-label
 freewarefiles.com#@#div > iframe[style]
 mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
+gsmarena.com##.sticky-mpu
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 !:partner_token=bedandchai.com
@@ -6106,6 +6107,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 @@||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
+||assets.medicalnewstoday.com/content/advertising.js^$script,domain=healthline.com
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
@@ -6290,6 +6292,7 @@ indiewire.com#@#iframe[marginwidth]
 indiewire.com#@#iframe[name][style]
 indiewire.com#@#iframe[style][scrolling]
 indiewire.com#@#iframe[style][src]
+champion.gg#@#.stickyad
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -6536,6 +6539,7 @@ softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displayed
 softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content-wrapper
 @@||sftcdn.net/acmp^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+||sc.sftcdn.net/statics/ads.min.js^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
 !
 !
 @@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
@@ -7262,6 +7266,12 @@ alio.lt#@#.ad-placement
 ||extra.cz/adb/px.js?ch=2$domain=extra.cz
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
+extra.cz#@#a[href*="pattern="][class*="alink"]
+extra.cz#@#div:-abp-has(>small:-abp-contains(Reklama))
+@@||etargetnet.com^$domain=extra.cz
+@@||delivery.performax.cz/sklik_redesign_passback/extra?$domain=extra.cz
+@@||cdn.performax.cz^$domain=extra.cz
+@@||delivery.performax.cz/sklik_redesign/extra?$domain=extra.cz
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7685,6 +7695,7 @@ testpages.adblockplus.org#@##abptest
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
+||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -7701,6 +7712,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+thestudentroom.co.uk#@#div[data-adunit]
 futbolcentroamerica.com#@#.banner_160x600
 biggeekdad.com#@#.ad-tag
 hannity.com#@#.ad-728-90
