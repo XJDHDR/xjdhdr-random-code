@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bk/JKpAfbD/ZDYrEzc08Dw
-! Version: 202004220200
+! Checksum: 5fUpE4ozo8An4qXEa/2zZw
+! Version: 202004221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 22 Apr 2020 02:00 UTC
+! Last modified: 22 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7025,6 +7025,7 @@ livecoinwatch.com#@#.ads-bottom
 @@||sascdn.com/tag/*/smart.js$domain=bankier.pl
 ||bankier.pl/static/px.gif?ch=2&rn=$domain=bankier.pl
 @@||bankier.pl/static/px.gif?ch=1&rn=$domain=bankier.pl
+@@||s0.2mdn.net/simgad/$image,domain=bankier.pl
 bankier.pl#@#div[id^="div-gpt-ad"]
 !:partner_token=tisoomi
 !:partner_id=a39ee005e26fa3b8
@@ -9913,6 +9914,7 @@ javascript.info#@##sponsorBar
 @@||codefund.io/properties/*/funder.js$third-party
 @@||codefund.io/properties/*/funder.html?$third-party
 @@||codefund.io/impressions/$third-party
+@@||codefund.io^$image,third-party
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
 !:partner_id=1771032db7d723d7
 !:type=partner
