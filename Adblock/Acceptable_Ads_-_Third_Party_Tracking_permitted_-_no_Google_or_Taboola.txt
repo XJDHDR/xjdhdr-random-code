@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SyhQlh8Ng0omA0Uz+crIbw
-! Version: 202004230200
+! Checksum: +iS5iF8P6mQ/ykIn9rq+pw
+! Version: 202004231400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 23 Apr 2020 02:00 UTC
+! Last modified: 23 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1124,6 +1124,7 @@ moda4u.com.ua#@#.ya-partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=22492
 ! reverso.net ads
 @@||reverso.net^*/Static/JS/advertising.js?ch=1$domain=reverso.net
+||reverso.net^*/static/js/advertising.js?ch=2$domain=reverso.net
 @@||ampproject.org^*/amp4ads-$script,domain=reverso.net
 @@||reverso.net^*/adv_$image,domain=reverso.net
 @@||reverso.net^*/img/vda_$image,domain=reverso.net
@@ -2858,7 +2859,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
 @@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.net/js/ld/publishertag.prebid.js$script,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com
 @@||bidder.criteo.com/csm^
 ~mmo-champion.com#@#div[id^="crt-"][style*="width:"]
 ~mmo-champion.com#@#div[id^="crt-"][style]
@@ -6107,7 +6108,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
 @@||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
-||assets.medicalnewstoday.com/content/advertising.js^$script,domain=healthline.com
+||assets.medicalnewstoday.com/content/advertising.js^$script,domain=healthline.com|medicalnewstoday.com|greatist.com
 ! temp
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
@@ -6137,7 +6138,16 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
-@@||static.criteo.net/js/ld/publishertag.prebid.js$script,domain=zoznam.sk
+komando.com#@#.ad-leaderboard
+pro-football-reference.com,baseball-reference.com,hockey-reference.com,sports-reference.com#@#.ad300
+pro-football-reference.com,baseball-reference.com,hockey-reference.com,sports-reference.com#@#.ad728
+meetme.com#@#.ad-unit
+meetme.com#@#.side-ads-container
+tagged.com#@#.dfp_ad
+tagged.com#@##topad        
+tagged.com#@#.right_ad
+tagged.com#@#.top_ad
+tagged.com#@#.top-ad
 wowhead.com#@##main > .blocks
 allacronyms.com#@##ad_home
 nouvelobs.com#@#.dfp-slot
