@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lMI/NwMjd6KeRZt7tUbfAQ
-! Version: 202004240200
+! Checksum: XjrmUmykswMffkPdDUCGLg
+! Version: 202004241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Apr 2020 02:00 UTC
+! Last modified: 24 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6322,9 +6322,10 @@ champion.gg#@#.stickyad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52629
 ! Surfingbird ads
-@@||relap.io/api/*/similar_pages.js$domain=progorod76.ru
+@@||relap.io/api/*/similar_pages.js$domain=progorod76.ru|bigame.info
 @@||relap.io/api/*/similar_pages.js?*^adSlotManager=1%2C1%2C1%2C1^$domain=knijky.ru
 @@||relap.io/api/*/similar_pages.js?*^adSlotManager=1%2C1^$domain=yaplakal.com
+@@||relap.io/api/*/similar_pages_jsonp.js?$domain=om1.ru
 ria.ru#@#a[href][data-ad-link]
 fishki.net#@#[class^="side"][class*="right"] > div[class*="promo"]
 womanhit.ru#@#.sidebar > :not(.card)
@@ -7702,9 +7703,13 @@ testpages.adblockplus.org#@##abptest
 @@||related.michigan-sportsman.com^$domain=michigan-sportsman.com,document
 @@||related.futbolcentroamerica.com^$domain=futbolcentroamerica.com
 @@||related.futbolcentroamerica.com^$domain=futbolcentroamerica.com,document
+@@||related.telefonino.net^$domain=telefonino.net
+@@||related.telefonino.net^$domain=telefonino.net,document
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
+@@||ads.talkscreativity.com/assets/publisher/ittelefoninonet/init.js$domain=telefonino.net
+@@||ads.talkscreativity.com/assets/engine/1.3/engine.min.js$domain=telefonino.net
 ||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 ! temp
 @@||sharethrough.com^$domain=redditad.com
