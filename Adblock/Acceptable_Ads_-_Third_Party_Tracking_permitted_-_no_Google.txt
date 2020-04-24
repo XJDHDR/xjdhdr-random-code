@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dkJIeTbG3nqebEb00uwMXQ
-! Version: 202004231400
+! Checksum: MuPkWZA5Q2L0LlgOyIsTRQ
+! Version: 202004240200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 23 Apr 2020 14:00 UTC
+! Last modified: 24 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6393,7 +6393,6 @@ auto.mail.ru#@#.mailru-visibility-check-counter + div
 pogoda.mail.ru#@#.mailru-visibility-check
 pogoda.mail.ru#@#div[data-adq-id]
 @@||relap.io^$script,xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|sport-express.ru|deti.mail.ru
-@@||cdn.relap.io^$image,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
 @@||ad.mail.ru/adp^$xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
 @@||ad.mail.ru^adq^$script,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
 @@||beta.mediafort.ru/show.php?placeid=23^$script,domain=stranamam.ru
