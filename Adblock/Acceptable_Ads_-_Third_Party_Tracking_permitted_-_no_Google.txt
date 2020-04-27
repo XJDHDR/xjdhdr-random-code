@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9LMCZQ9zkP7MV6+WBSSfQw
-! Version: 202004270200
+! Checksum: j+6uL3tcGw3ITGu29m4pbg
+! Version: 202004271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Apr 2020 02:00 UTC
+! Last modified: 27 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6908,6 +6908,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
+express.co.uk,nigella.com##div[block^="true"]
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
