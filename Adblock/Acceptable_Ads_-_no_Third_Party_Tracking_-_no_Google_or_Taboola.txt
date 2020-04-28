@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IdaNZRe0+m5+JHBqwKlXuA
-! Version: 202004271400
+! Checksum: rPnygumZKBmnE/YeBPE5LA
+! Version: 202004280200
 ! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola
-! Last modified: 27 Apr 2020 14:00 UTC
+! Last modified: 28 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -79,6 +79,7 @@ vk.com#@#div[data-ad-view]
 vk.com#@#div[data-ad]
 vk.com#@#._ads_promoted_post_data_w
 @@||vk.com/ads_light.php$domain=vk.com
+@@||vk.com/js/cmodules/web/ads_light.$script,domain=vk.com
 !:partner_token=justgoodfood.be
 !:partner_id=5930b5dd7a3191cd
 !:type=partner

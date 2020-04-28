@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D7nLhBp8H0fHNtJhBbS0vQ
-! Version: 202004271400
+! Checksum: 7EqXtdU4lelbNquWNz0BUg
+! Version: 202004280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 Apr 2020 14:00 UTC
+! Last modified: 28 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6138,6 +6138,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
+270towin.com#@#.ad-wrapper
+270towin.com#@#.header-ad-wrapper
 komando.com#@#.ad-leaderboard
 pro-football-reference.com,baseball-reference.com,hockey-reference.com,sports-reference.com#@#.ad300
 pro-football-reference.com,baseball-reference.com,hockey-reference.com,sports-reference.com#@#.ad728
@@ -6450,6 +6452,7 @@ viamichelin.fr##.ads > .magazine-item
 @@||smart.idmnet.pl^$domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.pl,voxfm.pl,muratordom.pl,gazetki-promocyjne.net.pl,poradnikzdrowie.pl,eskainfo.pl,mjakmama24.pl,menshealth.pl,auto-motor-i-sport.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl#@#[id^="aswift_"]
 se.pl#@#div[class^="zpr_inside"]
+/zpr_layouts_web/js/ads.js^$script,domain=se.pl
 !:partner_token=skyrie.net
 !:partner_id=3279a14bf184152d
 !:type=partner
@@ -6911,7 +6914,8 @@ digireality.cz#@#[id^="aswift"]
 @@||track.adform.net^$image,domain=vk.com
 @@||criteo.com/delivery/ajs.php?zoneid=404767$script,domain=vk.com
 @@||criteo.com/delivery/ajs.php?zoneid=404768$script,domain=vk.com
-@@||vk.com/js/cmodules/web/ads_light.$script,domain=vk.com
+vk.com#@#div[id^="yandex_ad"]
+@@||an.yandex.ru^$domain=vk.com
 !:partner_token=ppc.world
 !:partner_id=8e0ac9864547fe79
 !:type=partner
@@ -7273,17 +7277,14 @@ alio.lt#@#.ad-placement
 @@||delivery.performax.cz/aab_bottom_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/bigsquare_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/leaderboard_rtb/extra?$domain=extra.cz
+@@||delivery.performax.cz/aab_rtb/extra?$domain=extra.cz
 @@||imp.performax.cz^$domain=extra.cz
-@@||imedia.cz/sklik/imp?$subdocument,document,domain=extra.cz
+@@||cdn.performax.cz/sssp.gif?$domain=extra.cz
+@@||cdn.performax.cz/sssp/$domain=extra.cz
+@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=extra.cz
 ||extra.cz/adb/px.js?ch=2$domain=extra.cz
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
-extra.cz#@#a[href*="pattern="][class*="alink"]
-extra.cz#@#div:-abp-has(>small:-abp-contains(Reklama))
-@@||etargetnet.com^$domain=extra.cz
-@@||delivery.performax.cz/sklik_redesign_passback/extra?$domain=extra.cz
-@@||cdn.performax.cz^$domain=extra.cz
-@@||delivery.performax.cz/sklik_redesign/extra?$domain=extra.cz
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -9617,6 +9618,7 @@ vk.com#@#div[data-ad-view]
 vk.com#@#div[data-ad]
 vk.com#@#._ads_promoted_post_data_w
 @@||vk.com/ads_light.php$domain=vk.com
+@@||vk.com/js/cmodules/web/ads_light.$script,domain=vk.com
 !:partner_token=justgoodfood.be
 !:partner_id=5930b5dd7a3191cd
 !:type=partner
