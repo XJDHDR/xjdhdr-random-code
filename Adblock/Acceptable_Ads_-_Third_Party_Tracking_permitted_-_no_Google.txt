@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mrBGeGG29VueB9BcYVXvRg
-! Version: 202004280200
+! Checksum: /Em3xwuDPnLySja724De7Q
+! Version: 202004281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Apr 2020 02:00 UTC
+! Last modified: 28 Apr 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4728,7 +4728,7 @@ classroom.synonym.com##.article-text > .summary + .text-ad
 pocketsense.com#@#.desktop-ad
 pocketsense.com#@#.side-ad
 traveltips.usatoday.com#@#adReplacement
-pocketsense.com,careertrend.com#@#.main-ad
+pocketsense.com,careertrend.com,oureverydaylife.com#@#.main-ad
 livehealthy.chron.com,work.chron.com,smallbusiness.chron.com,education.seattlepi.com,healthyeating.sfgate.com#@#[data-load-complete="true"]
 !:partner_token=jeuxonline.info
 !:partner_id=f8f70a3f6bdc2f30
