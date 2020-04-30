@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cHq6GBHHkl9UDlZOaweF2w
-! Version: 202004291400
+! Checksum: q8zq2uvln6Y/n00dLQeTpQ
+! Version: 202004300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Apr 2020 14:00 UTC
+! Last modified: 30 Apr 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7021,6 +7021,7 @@ coingecko.com#@#.ad-spacer
 coingecko.com#@#.img_ad
 livecoinwatch.com#@#.ads-top
 livecoinwatch.com#@#.ads-bottom
+thingiverse.com#@#div[class^="AdCard_"]
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner
