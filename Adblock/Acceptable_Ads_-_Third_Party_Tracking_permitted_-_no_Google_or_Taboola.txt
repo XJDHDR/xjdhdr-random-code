@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s5KDDwwdqu1RoG98hX2Ghw
-! Version: 202005041400
+! Checksum: Rnb+OiiuS891MA0n753BCA
+! Version: 202005050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 May 2020 14:00 UTC
+! Last modified: 05 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1049,12 +1049,12 @@ ried.cl#@#.ad_unit
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=21238
 ! город-под-солнцем.рф Ads
-@@||an.yandex.ru/system/context.js$domain=город-под-солнцем.рф
-@@||an.yandex.ru/resource/context_static_r*.js$domain=город-под-солнцем.рф
-@@||an.yandex.ru/page/*^callback^$script,domain=город-под-солнцем.рф
-город-под-солнцем.рф#@#.ya-partner
-город-под-солнцем.рф#@#.widget-ads
-город-под-солнцем.рф###sidebar > .widget-ads + .widget-ads
+@@||an.yandex.ru/system/context.js$domain=xn-----glcebh5bjheaccklx2g.xn--p1ai
+@@||an.yandex.ru/resource/context_static_r*.js$domain=xn-----glcebh5bjheaccklx2g.xn--p1ai
+@@||an.yandex.ru/page/*^callback^$script,domain=xn-----glcebh5bjheaccklx2g.xn--p1ai
+xn-----glcebh5bjheaccklx2g.xn--p1ai#@#.ya-partner
+xn-----glcebh5bjheaccklx2g.xn--p1ai#@#.widget-ads
+xn-----glcebh5bjheaccklx2g.xn--p1ai###sidebar > .widget-ads + .widget-ads
 !:partner_token=monsterreport.de
 !:partner_id=7d9663a776a32187
 !:type=partner
@@ -3877,14 +3877,14 @@ fxsforexsrbijaforum.com#@#a[href^="http://www.rfxt.com.au/"] > img
 !:partner_id=49ab95f316a444be
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42631
-@@||clickiocdn.com^$script,image,domain=schriftgenerator.eu|tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|расписание.рф|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe|conversordeletras.com
+@@||clickiocdn.com^$script,image,domain=schriftgenerator.eu|tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|xn--80aapkb3algkc.xn--p1ai|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe|conversordeletras.com
 @@||americamonumental.com/js/dfp.js$script,domain=americamonumental.com
-@@||luxadv.com^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|расписание.рф|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
-@@||luxcdn.com^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|расписание.рф|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
-@@||luxupadva.com^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|расписание.рф|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
-@@||stat.adlabs.ru^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|расписание.рф|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
-schriftgenerator.eu,tellymix.co.uk,thestockmarketwatch.com,directorstalkinterviews.com,direct-radio.fr,americamonumental.com,sports.ru,live.sport.co.uk,superxv.com,lapaginamillonaria.com,bolavip.com,sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,worldcrisis.ru,pandia.ru,computrabajo.cl,computrabajo.com.ar,computrabajo.com.pe,conversordeletras.com#@#.lx_ad_title
-maxikarta.ru,maxi-karta.ru,расписание.рф,sberometer.ru,audit-it.ru#@#iframe[width="728"][height="90"]
+@@||luxadv.com^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|xn--80aapkb3algkc.xn--p1ai|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
+@@||luxcdn.com^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|xn--80aapkb3algkc.xn--p1ai|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
+@@||luxupadva.com^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|xn--80aapkb3algkc.xn--p1ai|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
+@@||stat.adlabs.ru^$script,image,domain=tellymix.co.uk|thestockmarketwatch.com|directorstalkinterviews.com|direct-radio.fr|americamonumental.com|sports.ru|live.sport.co.uk|superxv.com|lapaginamillonaria.com|bolavip.com|sberometer.ru|maxi-karta.ru|xn--80aapkb3algkc.xn--p1ai|audit-it.ru|maxikarta.ru|worldcrisis.ru|pandia.ru|computrabajo.cl|computrabajo.com.ar|computrabajo.com.pe
+schriftgenerator.eu,tellymix.co.uk,thestockmarketwatch.com,directorstalkinterviews.com,direct-radio.fr,americamonumental.com,sports.ru,live.sport.co.uk,superxv.com,lapaginamillonaria.com,bolavip.com,sberometer.ru,maxi-karta.ru,xn--80aapkb3algkc.xn--p1ai,audit-it.ru,maxikarta.ru,worldcrisis.ru,pandia.ru,computrabajo.cl,computrabajo.com.ar,computrabajo.com.pe,conversordeletras.com#@#.lx_ad_title
+maxikarta.ru,maxi-karta.ru,xn--80aapkb3algkc.xn--p1ai,sberometer.ru,audit-it.ru#@#iframe[width="728"][height="90"]
 thestockmarketwatch.com#@#.adspot
 directorstalkinterviews.com#@#.ads160-600
 directorstalkinterviews.com#@#.ad-cell
@@ -3892,7 +3892,7 @@ directorstalkinterviews.com#@#.ads160_600-widget
 sport.co.uk#@#.advertCont
 superxv.com#@#.widget-ad
 conversordeletras.com#@##ads-header
-sberometer.ru,maxi-karta.ru,расписание.рф,audit-it.ru,maxikarta.ru,worldcrisis.ru,pandia.ru#@#iframe[width="240"][height="400"]
+sberometer.ru,maxi-karta.ru,xn--80aapkb3algkc.xn--p1ai,audit-it.ru,maxikarta.ru,worldcrisis.ru,pandia.ru#@#iframe[width="240"][height="400"]
 !:partner_token=studentdoctor.net
 !:partner_id=1feb24c45c61d7d9
 !:type=partner
@@ -4819,7 +4819,7 @@ alistapart.com#@#.sponsor-logo
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43785
 ! spravočnik.su ads
-%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%be%d1%87%d0%bd%d0%b8%d0%ba.su,справочник.su#@#.Ad-label
+%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%be%d1%87%d0%bd%d0%b8%d0%ba.su,xn--80aesinfeih9d.su#@#.Ad-label
 !:partner_token=greatschools.org
 !:partner_id=fdc87e400f002bcf
 !:type=partner
@@ -7022,10 +7022,6 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
-! @@||yandex.net/get-direct/$image,domain=lentainform.com
-! @@||an.yandex.ru/meta/$domain=lentainform.com
-! @@||an.yandex.ru/system/context.js$domain=lentainform.com
-! lentainform.com#@#div[id^="yandex_rtb"]
 @@||jsc.lentainform.com^$script,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
 @@||lentainform.com^$popup,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
 @@||c.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
@@ -7059,6 +7055,14 @@ rambler.ru#@#.article__read-also
 rambler.ru#@#.article__banner
 rambler.ru#@#.traffic-blocks[class*="intresting"]
 rambler.ru#@#.article__partners
+@@||an.yandex.ru/system/context.js$domain=clck.lentainform.com
+@@||yastatic.net/pcode/adfox/loader.js$domain=clck.lentainform.com
+@@||yandex.net/get-direct/$image,domain=clck.lentainform.com
+@@||yastatic.net/safeframe-bundles/$domain=clck.lentainform.com
+@@||an.yandex.ru/partner-code-bundles/$domain=clck.lentainform.com
+@@||ads.adfox.ru/220463/$xmlhttprequest,domain=clck.lentainform.com
+clck.lentainform.com#@#div[id^="yandex_rtb"]
+clck.lentainform.com#@#div[id^="adfox_"]
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
