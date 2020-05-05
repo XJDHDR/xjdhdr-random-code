@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rnb+OiiuS891MA0n753BCA
-! Version: 202005050200
+! Checksum: XIcwhoyhWxJ3ELlmlk0NHQ
+! Version: 202005051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 May 2020 02:00 UTC
+! Last modified: 05 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6140,6 +6140,9 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
+globalsecurity.org#@##adleft
+globalsecurity.org#@##adright
+globalsecurity.org#@##leftad
 stackabuse.com#@#.post-ad
 theoi.com#@#.ad-banner
 theoi.com#@##header-ad
@@ -7084,54 +7087,7 @@ elperiodico.com#@#.following-ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75345
 ! Ads by MGID
-@@||jsc.mgid.com/g/o/goppresidential.com.372965.js$domain=goppresidential.com
-@@||jsc.mgid.com/g/o/goppresidential.com.104436.js$domain=goppresidential.com
-@@||jsc.mgid.com/n/e/newest.dailyconservative.com.382327.js$domain=dailyconservative.com
-@@||jsc.mgid.com/r/e/renewedright.com.379813.js$domain=renewedright.com
-@@||jsc.mgid.com/w/h/whatfinger.com.218421.js$domain=whatfinger.com
-@@||jsc.mgid.com/w/h/whatfinger.com.184242.js$domain=whatfinger.com
-@@||jsc.mgid.com/m/e/medicaldaily.com.308258.js$domain=medicaldaily.com
-@@||jsc.mgid.com/l/a/latintimes.com.319781.js$domain=latintimes.com
-@@||jsc.mgid.com/i/b/ibtimes.com.307820.js$domain=ibtimes.com
-@@||jsc.mgid.com/p/o/politikstube.com.224019.js$domain=politikstube.com
-@@||jsc.mgid.com/p/o/politikstube.com.224016.js$domain=politikstube.com
-@@||jsc.mgid.com/g/i/girlsaskguys.com.382583.js$domain=girlsaskguys.com
-@@||jsc.mgid.com/r/a/rayon.in.ua.723385.js$domain=rayon.in.ua
-@@||jsc.mgid.com/s/h/sharij.net.366074.js$domain=sharij.net
-@@||jsc.marketgid.com/s/h/sharij.net.683513.js$domain=sharij.net
-@@||jsc.mgid.com/d/r/dreuz.info.287514.js$domain=dreuz.info
-@@||jsc.mgid.com/h/o/home.vn.365766.js$domain=home.vn
-@@||jsc.mgid.com/x/t/x-true.info.778963.js$domain=x-true.info
-@@||jsc.mgid.com/c/l/click-or-die.ru.752564.js$domain=click-or-die.ru
-@@||jsc.mgid.com/r/e/redactia.ro.335106.js$domain=redactia.ro
-@@||jsc.mgid.com/s/h/sharknews.ru.356663.js$domain=sharknews.ru
-@@||jsc.mgid.com/d/e/desprerelatii.net.787001.js$domain=gospodine365.ro
-@@||jsc.marketgid.com/g/a/gazeta.ua.655472.js$domain=gazeta.ua
-@@||jsc.mgid.com/f/i/fishki.net.398038.js$domain=fishki.net
-@@||jsc.mgid.com/d/a/danviet.vn.392192.js$domain=danviet.vn
-@@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
-@@||jsc.mgid.com/s/t/stars24.cz.344395.js$domain=stars24.cz
-@@||jsc.mgid.com/2/4/24molnia.com.721053.js$domain=24molnia.com
-@@||jsc.mgid.com/2/4/24molnia.com.351331.js$domain=24molnia.com
-@@||jsc.mgid.com/z/m/zmedia.ngoisao.vn.319586.js$domain=ngoisao.vn
-@@||jsc.mgid.com/j/a/jagran.com.323340.js$domain=jagran.com
-@@||jsc.mgid.com/z/e/zestradar.com.271350.js$domain=zestradar.com
-@@||jsc.mgid.com/v/o/voxbiz.ro.858450.js$domain=voxbiz.ro
-@@||jsc.mgid.com/m/g/mgid.vov.vn.748110.js$domain=vov.vn
-@@||jsc.mgid.com/z/d/z.docbao.vn.344144.js$domain=docbao.vn
-@@||jsc.mgid.com/s/o/sovkusom.ru.755460.js$domain=sovkusom.ru
-@@||jsc.mgid.com/t/h/thenationonlineng.net.399473.js$domain=thenationonlineng.net
-@@||jsc.mgid.com/m/a/marathi.latestly.com.753375.js$domain=marathi.latestly.com
-@@||jsc.mgid.com/w/e/webmaster.wowkeren.com.300899.js$domain=wowkeren.com
-@@||jsc.mgid.com/m/i/mid-day.com.323320.js$domain=mid-day.com
-@@||jsc.mgid.com/a/n/angelhome.info.746926.js$domain=angelhome.info
-@@||jsc.mgid.com/a/m/amizone.org.744442.js$domain=amizone.org
-@@||jsc.mgid.com/h/y/hypestat.com.195441.js$domain=hypestat.com
-@@||jsc.mgid.com/m/b/m.baophapluat.vn.392267.js$domain=baophapluat.vn
-@@||jsc.mgid.com/s/v/svidok.online.811369.js$domain=svidok.online
-@@||jsc.mgid.com/e/x/ex-press.by.400055.js$domain=ex-press.by
-@@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
-@@||cdn.mgid.com/images/$image,domain=hypestat.com
+@@||jsc.mgid.com^$domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|mg.mgid.com|sharknews.ru|gospodine365.ro|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com
 @@||mgid.com^$popup,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com
 @@||servicer.mgid.com^$script,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com
 @@||s-img.mgid.com/g/$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com
@@ -7146,6 +7102,7 @@ redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconserv
 redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com#@#[id*="MarketGid"]
 redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com#@#div[id^="M"][id*="Composite"]
 redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com#@#a[href^="//www.mgid.com/"]
+redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com##div[id*="Composite"]:not([id*="Composite372965"]):not([id*="Composite104436"]):not([id*="Composite382327"]):not([id*="Composite379813"]):not([id*="Composite218421"]):not([id*="Composite184242"]):not([id*="Composite308258"]):not([id*="Composite319781"]):not([id*="Composite307820"]):not([id*="Composite224019"]):not([id*="Composite224016"]):not([id*="Composite382583"]):not([id*="Composite723385"]):not([id*="Composite366074"]):not([id*="Composite683513"]):not([id*="Composite287514"]):not([id*="Composite365766"]):not([id*="Composite778963"]):not([id*="Composite752564"]):not([id*="Composite335106"]):not([id*="Composite356663"]):not([id*="Composite787001"]):not([id*="Composite655472"]):not([id*="Composite398038"]):not([id*="Composite392192"]):not([id*="Composite344395"]):not([id*="Composite721053"]):not([id*="Composite351331"]):not([id*="Composite319586"]):not([id*="Composite323340"]):not([id*="Composite271350"]):not([id*="Composite858450"]):not([id*="Composite748110"]):not([id*="Composite344144"]):not([id*="Composite755460"]):not([id*="Composite399473"]):not([id*="Composite753375"]):not([id*="Composite300899"]):not([id*="Composite323320"]):not([id*="Composite746926"]):not([id*="Composite744442"]):not([id*="Composite195441"]):not([id*="Composite392267"]):not([id*="Composite811369"]):not([id*="Composite400055"])
 politikstube.com#@#div[class*="td-a-rec-id-"]
 politikstube.com#@#.td-a-rec
 girlsaskguys.com#@#.ad-slot
@@ -7158,6 +7115,9 @@ zestradar.com#@#.native_ad
 baophapluat.vn#@#.adsitem
 baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
+@@||jsc.marketgid.com^$domain=gazeta.ua|sharij.net
+@@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
+@@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
 !:partner_token=Lemonde.fr
@@ -7746,6 +7706,13 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+bjpenn.com#@##div-insticator-ad-1
+bjpenn.com#@##div-insticator-ad-2
+bjpenn.com#@##insticator-container
+bjpenn.com#@#.td-a-rec-id-custom_ad_1
+bjpenn.com#@#.td-a-rec-id-custom_ad_3
+bjpenn.com#@#.td-a-rec-id-custom_ad_4
+bjpenn.com#@#.td-a-rec-id-custom_ad_5
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
 toocool2betrue.com#@##RTK_KEcG
@@ -7821,7 +7788,7 @@ motor1.com#@#.apb
 saltwire.com,thechronicleherald.ca,thetelegram.com#@#.banner-ad
 futbolcentroamerica.com#@#.banner_160x600
 hannity.com#@#.banner_ad
-247wallst.com#@#.box-ad
+247wallst.com,saltwire.com,thechronicleherald.ca,thetelegram.com#@#.box-ad
 koutsompolio.gr#@#.browse-banner_ad
 forbes.com#@#.channel--ad
 arsdev.net,arstechnica.com#@#.cns-ads-stage
