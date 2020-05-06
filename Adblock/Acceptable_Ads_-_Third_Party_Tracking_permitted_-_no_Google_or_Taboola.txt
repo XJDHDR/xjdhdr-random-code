@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RRwjeH7+U6sSR+PO3XUzGA
-! Version: 202005060200
+! Checksum: 8aOPN9XK3g4jBWm3Ai+hng
+! Version: 202005061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 May 2020 02:00 UTC
+! Last modified: 06 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5923,7 +5923,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com|walterfootball.com
 !
-@@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt
+@@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
@@ -5996,7 +5996,7 @@ chip.com.tr#@#.ad300
 chip.com.tr#@#.ad728
 podkapotou.sk,zoznam.sk#@#.adBox
 littlealchemy.com#@#.adTop
-autogidas.lt,gosunoob.com#@#.ads-container
+gosunoob.com#@#.ads-container
 wyborcza.pl#@#.ads-top
 therighthairstyles.com#@#.ads_top
 omnicalculator.com,topky.sk#@#.adsbox
@@ -6094,7 +6094,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
 @@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=mielec.pl|ddwloclawek.pl|expresskaszubski.pl|gostyn24.pl|portalplock.pl|tusochaczew.pl|iszczecinek.pl|leszno24.pl|allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
-@@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|autogidas.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
+@@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -6106,7 +6106,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
-@@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|autogidas.lt|vinted.lt|draugas.lt|basketnews.lt
+@@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|vinted.lt|draugas.lt|basketnews.lt
 @@||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 ||assets.medicalnewstoday.com/content/advertising.js^$script,domain=healthline.com|medicalnewstoday.com|greatist.com
@@ -6140,35 +6140,6 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
-globalsecurity.org#@##adleft
-globalsecurity.org#@##adright
-globalsecurity.org#@##leftad
-stackabuse.com#@#.post-ad
-theoi.com#@#.ad-banner
-theoi.com#@##header-ad
-270towin.com#@#.ad-wrapper
-270towin.com#@#.header-ad-wrapper
-komando.com#@#.ad-leaderboard
-pro-football-reference.com,baseball-reference.com,hockey-reference.com,sports-reference.com#@#.ad300
-pro-football-reference.com,baseball-reference.com,hockey-reference.com,sports-reference.com#@#.ad728
-meetme.com#@#.ad-unit
-meetme.com#@#.side-ads-container
-tagged.com#@#.dfp_ad
-tagged.com#@##topad        
-tagged.com#@#.right_ad
-tagged.com#@#.top_ad
-tagged.com#@#.top-ad
-wowhead.com#@##main > .blocks
-allacronyms.com#@##ad_home
-nouvelobs.com#@#.dfp-slot
-ew.com#@#.ad-wrapper
-ew.com#@#.mobile-ad
-ew.com#@#.sister-ads
-ew.com#@#.adsbox
-parkers.co.uk#@#.top-ad
-parkers.co.uk#@#.mpu-ad
-parkers.co.uk#@##headerAd
-parkers.co.uk#@##mpu2
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
@@ -6180,8 +6151,11 @@ cnn.com#@##adBanner
 cnn.com#@##adSquare
 www.visitlondon.com#@##ad_footer
 www.visitlondon.com#@##ad_header
+allacronyms.com#@##ad_home
 ratemyprofessors.com#@##ad_rec_01
 cnn.com#@##adbanner
+globalsecurity.org#@##adleft
+globalsecurity.org#@##adright
 gameskinny.com#@##adslot1
 gameskinny.com#@##adslot2
 gameskinny.com#@##adslot3
@@ -6200,19 +6174,24 @@ didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2-wrapper
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
-eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,wowinterface.com#@##header-ad
+eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,theoi.com,wowinterface.com#@##header-ad
+parkers.co.uk#@##headerAd
 itstillworks.com#@##inline-ad
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
+globalsecurity.org#@##leftad
+wowhead.com#@##main > .blocks
+parkers.co.uk#@##mpu2
 cnn.com#@##partner-zone
 innerstrength.zone#@##quads-ad4
 thewordfinder.com#@##sidebar-advertisement
 ebaumsworld.com#@##subheader_atf_wrapper
+tagged.com#@##topad
 cnn.com#@#.ad
 cnn.com#@#.ad--desktop
 thesimsresource.com#@#.ad-alsorectangle
 diablofans.com,mtgsalvation.com#@#.ad-atf
 mtgsalvation.com#@#.ad-atf-medRect
-pokebattler.com#@#.ad-banner
+pokebattler.com,theoi.com#@#.ad-banner
 bovary.gr#@#.ad-block
 buzzfeed.com#@#.ad-card
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
@@ -6220,7 +6199,7 @@ buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
 windfinder.com#@#.ad-horizontal
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 airportia.com#@#.ad-item
-bgr.com,j-14.com,pmcqa.com#@#.ad-leaderboard
+bgr.com,j-14.com,komando.com,pmcqa.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 wowdb.com#@#.ad-placement
@@ -6229,17 +6208,19 @@ buzzfeed.com,buzzfeed.io,buzzfeednews.com,homes.com,tasty.co,usatoday.com#@#.ad-
 windfinder.com#@#.ad-sticky
 fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
-fosonline.gr,spinz.io#@#.ad-unit
+fosonline.gr,meetme.com,spinz.io#@#.ad-unit
 bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
+270towin.com,ew.com#@#.ad-wrapper
 fosonline.gr#@#.ad-zone
 slader.com#@#.ad.inner
-dlisted.com#@#.ad300
-basketball-reference.com#@#.ad728
+baseball-reference.com,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
+baseball-reference.com,basketball-reference.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad728
 gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 homes.com#@#.ad__container
 wikihow.com#@#.ad_label
+theweek.com#@#.ad_wrap
 itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.admz
@@ -6247,6 +6228,7 @@ obrazovaka.ru#@#.ads-block
 obrazovaka.ru#@#.ads-footer
 obrazovaka.ru#@#.ads-sidebar
 slader.com#@#.ads-to-hide
+ew.com#@#.adsbox
 boingboing.net,gameskinny.com#@#.adslot
 arcamax.com#@#.adunit
 visitlondon.com#@#.advert-leaderboard
@@ -6262,12 +6244,14 @@ news247.gr#@#.container_ad
 pwinsider.com#@#.content-left
 pwinsider.com#@#.content-right
 itstillworks.com#@#.desktop-ad
+nouvelobs.com#@#.dfp-slot
 didev.co.uk,expertreviews.co.uk#@#.dfp-tag-wrapper
-hi5.com#@#.dfp_ad
+hi5.com,tagged.com#@#.dfp_ad
 fortune.com#@#.fortune-ad-tag__leaderboard
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
 goldderby.com#@#.header-ad
+270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
 pmcqa.com#@#.header-top-ad
 photographylife.com#@#.header_ad
@@ -6278,22 +6262,33 @@ buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
 didev.co.uk,expertreviews.co.uk#@#.lazyadslot
 itstillworks.com#@#.leaderboard-ad
 itstillworks.com#@#.main-ad
+theweek.com#@#.mobads
+ew.com,theweek.com#@#.mobile-ad
+theweek.com#@#.mp-ad
+parkers.co.uk#@#.mpu-ad
 cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,se1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com#@#.mpu_container
 runt-of-the-web.com#@#.mrec
 golfwrx.com#@#.mvp-ad-label
+stackabuse.com#@#.post-ad
 americanupbeat.com,insidemystery.com#@#.proper-ad-unit
 breitbart.com#@#.pub_300x250
 innerstrength.zone#@#.quads-ad4
 innerstrength.zone#@#.quads-location
 jobright.com,jobungo.com,thefamouspeople.com#@#.right-ad
 starmagazine.com#@#.right-ads
+tagged.com#@#.right_ad
+meetme.com#@#.side-ads-container
+ew.com#@#.sister-ads
 bovary.gr,videezy.com#@#.sticky-ad
 factahead.com#@#.sticky-ad-container
 wegotthiscovered.com#@#.sticky-sidebar-ad
+champion.gg#@#.stickyad
 bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
 thesimsresource.com#@#.top-300-ad
-hi5.com#@#.top-ad
+hi5.com,parkers.co.uk,tagged.com#@#.top-ad
+theweek.com#@#.top-leaderboard-ad
+tagged.com#@#.top_ad
 wikihow.com#@#.wh_ad_inner
 thefamouspeople.com#@#.widget-ad
 indiewire.com#@#:-abp-properties(base64)
@@ -6312,7 +6307,6 @@ indiewire.com#@#iframe[marginwidth]
 indiewire.com#@#iframe[name][style]
 indiewire.com#@#iframe[style][scrolling]
 indiewire.com#@#iframe[style][src]
-champion.gg#@#.stickyad
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7230,12 +7224,12 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78057
 ! Ads by Adnet
-@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
-@@||adnet.lt/stable/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
-@@||adnetmedia.lt/keytarget/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
+@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnetmedia.lt/keytarget/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||adnet.lt/stable/px.gif?ch=2&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||upapi.net^$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
 @@||bbelements.com/scripts/ibb-async/$script,domain=tax.lt
-||adnet.lt/stable/px.gif?ch=2&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
-||upapi.net^$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt
 alio.lt#@#.ad-placement
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
@@ -7248,6 +7242,7 @@ alio.lt#@#.ad-placement
 @@||d.imedia.cz^$domain=extra.cz
 @@||delivery.performax.cz/aab_bottom_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/bigsquare_rtb/extra?$domain=extra.cz
+@@||delivery.performax.cz/bigsquare2_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/leaderboard_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/aab_rtb/extra?$domain=extra.cz
 @@||imp.performax.cz^$domain=extra.cz
@@ -7707,16 +7702,6 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
-gamerevolution.com#@#.leaderboard
-gamerevolution.com#@#.gpt-ad
-gamerevolution.com#@#.widget_evolve_ad_gpt_widget
-bjpenn.com#@##div-insticator-ad-1
-bjpenn.com#@##div-insticator-ad-2
-bjpenn.com#@##insticator-container
-bjpenn.com#@#.td-a-rec-id-custom_ad_1
-bjpenn.com#@#.td-a-rec-id-custom_ad_3
-bjpenn.com#@#.td-a-rec-id-custom_ad_4
-bjpenn.com#@#.td-a-rec-id-custom_ad_5
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
 toocool2betrue.com#@##RTK_KEcG
@@ -7740,6 +7725,9 @@ allthetests.com#@##banner
 gamepress.gg#@##block-sidebarad1
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@##dfp-ad-1
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@##dfp-ad-2
+bjpenn.com#@##div-insticator-ad-1
+bjpenn.com#@##div-insticator-ad-2
+bjpenn.com#@##insticator-container
 mashable.com#@##lead-banner
 247wallst.com#@##leaderbar
 agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@##sgAdScGp160x600
@@ -7757,7 +7745,7 @@ hannity.com#@#.ad-728-90
 keno.pch.com,keno.qa.pch.com#@#.ad-728x90
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-billboard
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-bottom
-saltwire.com,thechronicleherald.ca,thetelegram.com#@#.ad-center
+capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.ad-center
 billboard.com,hollywoodreporter.com#@#.ad-container
 billboard.com#@#.ad-holder
 agame.com#@#.ad-leaderboard
@@ -7792,7 +7780,8 @@ motor1.com#@#.apb
 saltwire.com,thechronicleherald.ca,thetelegram.com#@#.banner-ad
 futbolcentroamerica.com#@#.banner_160x600
 hannity.com#@#.banner_ad
-247wallst.com,saltwire.com,thechronicleherald.ca,thetelegram.com#@#.box-ad
+capebretonpost.com,journalpioneer.com,theguardian.pe.ca#@#.billboard-ad
+247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.box-ad
 koutsompolio.gr#@#.browse-banner_ad
 forbes.com#@#.channel--ad
 arsdev.net,arstechnica.com#@#.cns-ads-stage
@@ -7807,12 +7796,13 @@ forbes.com#@#.fbs-ad--top-wrapper
 forbes.com#@#.fbs-ad--topx-wrapper
 seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
+gamerevolution.com#@#.gpt-ad
 forbes.com,hannity.com,thestudentroom.co.uk#@#.header-ad
 inquisitr.com#@#.iab
 247wallst.com#@#.iframe-ad
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.js_contained-ad-container
-titantv.com#@#.leaderboard
-saltwire.com,thechronicleherald.ca,thetelegram.com#@#.leaderboard-ad
+gamerevolution.com,titantv.com#@#.leaderboard
+capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.leaderboard-ad
 motorsport.com#@#.ms-ap
 dotesports.com,gamepur.com#@#.proper-ad-unit
 agame.com,boredpanda.com#@#.pub_300x250
@@ -7820,10 +7810,15 @@ billboard.com#@#.rail-ad
 agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.sgAd
 allthetests.com#@#.squareAd
 adtechdaily.com#@#.td-a-rec
+bjpenn.com#@#.td-a-rec-id-custom_ad_1
 charlieintel.com,fortniteintel.com#@#.td-a-rec-id-custom_ad_2
+bjpenn.com#@#.td-a-rec-id-custom_ad_3
+bjpenn.com#@#.td-a-rec-id-custom_ad_4
+bjpenn.com#@#.td-a-rec-id-custom_ad_5
 charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
 boredpanda.com#@#.text-ad
 forbes.com#@#.top-ad-container
+gamerevolution.com#@#.widget_evolve_ad_gpt_widget
 forbes.com#@#FBS-AD
 searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 allthetests.com#@#div > iframe:first-child
@@ -7831,7 +7826,7 @@ adtechdaily.com#@#div[class*="td-a-rec-id-"]
 thestudentroom.co.uk#@#div[data-adunit]
 searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#div[id^="dfp-ad-"]
-aax.demo.oriel.io,agame.com,allkpop.com,boredpanda.com,convertunits.com,firstpost.com,footballfancast.com,footballtransfertavern.com,fr.shopping.rakuten.com,homesteadingtoday.com,intermediair.nl,koutsompolio.gr,lacuerda.net,mashable.com,mediafire.com,michigan-sportsman.com,novini.bg,pch.com,pminteg.fr,saltwire.com,seattletimes.com,speedtest.net,sportal.bg,sportalbg.dev.smakmedia.com,thechronicleherald.ca,thetelegram.com,titantv.com,washingtontimes.com#@#div[id^="div-gpt-ad"]
+aax.demo.oriel.io,agame.com,allkpop.com,boredpanda.com,capebretonpost.com,convertunits.com,firstpost.com,footballfancast.com,footballtransfertavern.com,fr.shopping.rakuten.com,homesteadingtoday.com,intermediair.nl,journalpioneer.com,koutsompolio.gr,lacuerda.net,mashable.com,mediafire.com,michigan-sportsman.com,novini.bg,pch.com,pminteg.fr,saltwire.com,seattletimes.com,speedtest.net,sportal.bg,sportalbg.dev.smakmedia.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com,titantv.com,washingtontimes.com#@#div[id^="div-gpt-ad"]
 reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
