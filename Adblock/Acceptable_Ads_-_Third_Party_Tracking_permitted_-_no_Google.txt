@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pux/gLGU6e5qDHcjbDEO2A
-! Version: 202005070200
+! Checksum: ntoP53T/Oy3y2sb5dzZVhQ
+! Version: 202005071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 07 May 2020 02:00 UTC
+! Last modified: 07 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -166,10 +166,7 @@ heise.de#@#.a-ad
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10732
 ! ixquick/startpage.com sponsored search results
 @@||startpage.com^$elemhide
-@@||ixquick.com^$elemhide
-@@||ixquick.de^$elemhide
-||ixquick.com*px.gif?ch=2&rn=$domain=ixquick.com
-||startpage.com*px.gif?ch=2&rn=$domain=startpage.com
+||startpage.com^*px.gif?ch=2&rn=$domain=startpage.com
 !:partner_token=StandS4
 !:partner_id=36e26891a192a205
 !:type=partner
@@ -6164,6 +6161,13 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 ||assets.medicalnewstoday.com/content/advertising.js^$script,domain=healthline.com|medicalnewstoday.com|greatist.com
 ! temp
+@@||9to5mac.com^$csp
+@@||9to5toys.com^$csp
+@@||9to5toys.com^*/assets/js/vendor/prebid1.$scrpt
+@@||dronedj.com^$csp
+@@||dronedj.com^*/assets/js/vendor/prebid1.$scrpt
+@@||electrek.co^$csp
+@@||electrek.co^*/assets/js/vendor/prebid1.$scrpt
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -7294,17 +7298,21 @@ alio.lt#@#.ad-placement
 @@||h.imedia.cz^$domain=extra.cz
 @@||d.imedia.cz^$domain=extra.cz
 @@||delivery.performax.cz/aab_bottom_rtb/extra?$domain=extra.cz
-@@||delivery.performax.cz/bigsquare_rtb/extra?$domain=extra.cz
+@@||delivery.performax.cz/bigsquare_rtb/$domain=extra.cz|moulik.cz
 @@||delivery.performax.cz/bigsquare2_rtb/extra?$domain=extra.cz
-@@||delivery.performax.cz/leaderboard_rtb/extra?$domain=extra.cz
+@@||delivery.performax.cz/leaderboard_rtb/$domain=extra.cz|moulik.cz
 @@||delivery.performax.cz/aab_rtb/extra?$domain=extra.cz
-@@||imp.performax.cz^$domain=extra.cz
+@@||delivery.performax.cz/rectangle_rtb/moulik_cz?$domain=moulik.cz
+@@||imp.performax.cz^$domain=extra.cz|moulik.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=extra.cz
 ||extra.cz/adb/px.js?ch=2$domain=extra.cz
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
+@@||moulik.cz/adb/px.js?ch=1$domain=moulik.cz
+||moulik.cz/adb/px.js?ch=2$domain=moulik.cz
+moulik.cz#@#[id^="aswift"]
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -7734,6 +7742,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.thechronicleherald.ca^$domain=thechronicleherald.ca,document
 @@||related.thetelegram.com^$domain=thetelegram.com
 @@||related.thetelegram.com^$domain=thetelegram.com,document
+@@||related.legacy.com^$domain=legacy.com
+@@||related.legacy.com^$domain=legacy.com,document
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
@@ -7756,6 +7766,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+legacy.com#@#.PremiumObitAdBar
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
 toocool2betrue.com#@##RTK_KEcG
@@ -7993,6 +8004,8 @@ reddit.com#@#div[id^="sidebar-btf-"]
 @@||idealhomegarden.com/web^$elemhide
 @@||govtsearches.com/web^$elemhide
 !A8
+@@||ixquick.com^$elemhide
+@@||ixquick.de^$elemhide
 @@||ixquick.fr^$elemhide
 @@||ixquick.nl^$elemhide
 @@||ixquick.co.uk^$elemhide
