@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OXS4dLVuqrLWezsMz7vBNQ
-! Version: 202005110200
+! Checksum: rx1zfntQG4CxMSmz6rM4Dw
+! Version: 202005111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 May 2020 02:00 UTC
+! Last modified: 11 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6168,7 +6168,7 @@ didev.co.uk,expertreviews.co.uk#@##block-dfp-billboard-leaderboard
 didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-1
 didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-2
 fstoppers.com#@##block-fs_helpers-freestar_InContent
-slickdeals.com#@##bottomDDAd
+slickdeals.com,slickdeals.net#@##bottomDDAd
 eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,wowinterface.com#@##cubeAd
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-billboard_leaderboard
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-billboard_leaderboard-wrapper
@@ -6235,7 +6235,6 @@ slader.com#@#.ads-to-hide
 ew.com#@#.adsbox
 boingboing.net,gameskinny.com#@#.adslot
 arcamax.com#@#.adunit
-visitlondon.com#@#.advert-leaderboard
 www.visitlondon.com#@#.advert-mpu
 breitbart.com,photographylife.com#@#.banner_ad
 didev.co.uk,expertreviews.co.uk#@#.block-dfp
