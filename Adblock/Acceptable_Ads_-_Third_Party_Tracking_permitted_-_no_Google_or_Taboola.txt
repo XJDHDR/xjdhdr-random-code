@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sg/begXU1qP8+JaEnmkVJg
-! Version: 202005120200
+! Checksum: Q+UIU9gUqTNveMFMMZmgBg
+! Version: 202005121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 12 May 2020 02:00 UTC
+! Last modified: 12 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6110,11 +6110,11 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 ! temp
 @@||9to5mac.com^$csp
 @@||9to5toys.com^$csp
-@@||9to5toys.com^*/assets/js/vendor/prebid1.$scrpt
+@@||9to5toys.com^*/assets/js/vendor/prebid1.$script
 @@||dronedj.com^$csp
-@@||dronedj.com^*/assets/js/vendor/prebid1.$scrpt
+@@||dronedj.com^*/assets/js/vendor/prebid1.$script
 @@||electrek.co^$csp
-@@||electrek.co^*/assets/js/vendor/prebid1.$scrpt
+@@||electrek.co^*/assets/js/vendor/prebid1.$script
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tradecraft.s.llnwi.net/v1/ads.js$domain=arcamax.com
 @@||lolcounter.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -7739,6 +7739,12 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+web.filehorse.com###aswift_1_expand
+web.filehorse.com###aswift_2_expand
+web.filehorse.com###aswift_3_expand
+web.filehorse.com###aswift_4_expand
+web.filehorse.com###aswift_5_expand
+web.filehorse.com###aswift_0_expand
 legacy.com#@#.PremiumObitAdBar
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
