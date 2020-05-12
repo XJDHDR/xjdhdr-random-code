@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pgoJsYoOFQtssKC/b+n0Yw
-! Version: 202005111400
+! Checksum: B8BTdHICRFA4M0nkSLciQw
+! Version: 202005120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 May 2020 14:00 UTC
+! Last modified: 12 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7194,7 +7194,6 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 ! mail.ru ads
 @@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|sportmail.ru
 @@||ad.mail.ru^$domain=mail.ru|sportmail.ru
-@@||mradx.net/img/AD/$image,domain=mail.ru|sportmail.ru
 @@||an.yandex.ru/system/context.js$domain=mail.ru|sportmail.ru
 @@||an.yandex.ru/meta/$domain=mail.ru|sportmail.ru
 @@||an.yandex.ru^$xmlhttprequest,domain=mail.ru|sportmail.ru
@@ -7217,7 +7216,11 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 @@||r0.mail.ru^$domain=mail.ru|sportmail.ru
 @@||bs.mail.ru^$domain=mail.ru|sportmail.ru
 @@||b2.mail.ru^$domain=mail.ru|sportmail.ru
-@@||d.mradx.net^$domain=mail.ru|sportmail.ru
+@@||mradx.net^$domain=mail.ru|sportmail.ru
+@@||serving-sys.com^$image,domain=mail.ru|sportmail.ru
+@@||springserve.com^$image,domain=mail.ru|sportmail.ru
+@@||weborama.fr^$image,domain=mail.ru|sportmail.ru
+@@||adform.net^$image,domain=mail.ru|sportmail.ru
 mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
 mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
 mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
@@ -7316,26 +7319,27 @@ alio.lt#@#.ad-placement
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78583
 ! AntiAdblock Ads
-@@||extra.cz/adb/px.js?ch=1$domain=extra.cz
 @@||ssp.imedia.cz^$domain=extra.cz
 @@||h.imedia.cz^$domain=extra.cz
 @@||d.imedia.cz^$domain=extra.cz
 @@||delivery.performax.cz/aab_bottom_rtb/extra?$domain=extra.cz
-@@||delivery.performax.cz/bigsquare_rtb/$domain=extra.cz|moulik.cz
-@@||delivery.performax.cz/bigsquare2_rtb/extra?$domain=extra.cz
-@@||delivery.performax.cz/leaderboard_rtb/$domain=extra.cz|moulik.cz
+@@||delivery.performax.cz/bigsquare_rtb/$domain=extra.cz|moulik.cz|lidovky.cz
+@@||delivery.performax.cz/bigsquare2_rtb/$domain=extra.cz|lidovky.cz
+@@||delivery.performax.cz/leaderboard_rtb/$domain=extra.cz|moulik.cz|lidovky.cz
 @@||delivery.performax.cz/aab_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/rectangle_rtb/moulik_cz?$domain=moulik.cz
-@@||imp.performax.cz^$domain=extra.cz|moulik.cz
+@@||delivery.performax.cz/wallpaper_rtb/lidovky_cz?$domain=lidovky.cz
+@@||delivery.performax.cz/wallpaper2_rtb/lidovky_cz?$domain=lidovky.cz
+@@||delivery.performax.cz/wallpaper3_rtb/lidovky_cz?$domain=lidovky.cz
+@@||imp.performax.cz^$domain=extra.cz|moulik.cz|lidovky.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=extra.cz
-||extra.cz/adb/px.js?ch=2$domain=extra.cz
+moulik.cz,lidovky.cz#@#[id^="aswift"]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
-@@||moulik.cz/adb/px.js?ch=1$domain=moulik.cz
-||moulik.cz/adb/px.js?ch=2$domain=moulik.cz
-moulik.cz#@#[id^="aswift"]
+/adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
+@@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
