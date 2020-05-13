@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SInul7Y0PdTdOF/wEONXCA
-! Version: 202005121400
+! Checksum: lkNeJVg+d7oWhl0DhoT7BQ
+! Version: 202005130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 May 2020 14:00 UTC
+! Last modified: 13 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7101,7 +7101,8 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
 @@||rnet.plus^$script,xmlhttprequest,domain=rambler.ru
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
-@@||gismeteo.ru/assets/flat-ui/img/adv/px.gif?ch=1&rn=$domain=gismeteo.ru
+@@/px.gif?ch=1&rn=$domain=gismeteo.ru
+/px.gif?ch=2&rn=$domain=gismeteo.ru
 7days.ru#@#.b-section_content_partners-news
 tsargrad.tv#@#.article__banner
 www.gismeteo.ru#@#.widget-container
@@ -7279,29 +7280,6 @@ news.mail.ru#@#.js-popup_gallery .viewbox__side
 @@||cdn.advertserve.com^*/wingg.advertserve.com/servlet/$image,domain=win.gg
 win.gg#@#a[href*="/servlet/click/zone?"]
 @@||ads.win.gg^$script,image,domain=win.gg
-!:partner_token=Rambler
-!:partner_id=0f379e9a30bc5b2e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78046
-! Tracking by Rambler
-@@||ssp.rambler.ru/blockstat_post^$other,ping,domain=aggr.rambler.ru
-@@||yastatic.net/safeframe-bundles/0.69/1-1-0/render.html^$subdocument,document,domain=aggr.rambler.ru
-@@||an.yandex.ru/meta^$xmlhttprequest,domain=aggr.rambler.ru
-@@||an.yandex.ru/jstracer^$xmlhttprequest,domain=aggr.rambler.ru
-@@||yastatic.net/safeframe-bundles/0.69/host.js^$script,domain=aggr.rambler.ru
-@@||avatars.mds.yandex.net/get-direct^$image,domain=aggr.rambler.ru
-@@||an.yandex.ru/system/context.js^$script,domain=aggr.rambler.ru
-aggr.rambler.ru#@#div[id^="yandex_rtb"]
-@@||ads.adfox.ru/getid^$script,domain=aggr.rambler.ru
-@@||ssp.rambler.ru/capirs_async.js^$domain=aggr.rambler.ru
-@@||ssp.rambler.ru/file.jsp^$subdocument,document,image,xmlhttprequest,domain=aggr.rambler.ru
-@@||ssp.rambler.ru/context.jsp?*&url=$xmlhttprequest,domain=aggr.rambler.ru
-@@||ssp.rambler.ru/blockstat^$xmlhttprequest,domain=aggr.rambler.ru
-@@||profile.ssp.rambler.ru/sync2.204^$image,domain=aggr.rambler.ru
-@@||profile.ssp.rambler.ru/sandbox^$subdocument,document,domain=aggr.rambler.ru
-@@||rb.infox.sg/js/ads.js^$script,domain=aggr.rambler.ru
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js^$script,domain=aggr.rambler.ru
-@@||aggr.rambler.ru^$csp
 !:partner_token=Adnet media
 !:partner_id=4d6e6ef13bfe4ac7
 !:type=partner
