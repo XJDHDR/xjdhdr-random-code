@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IPA5BUtVQRFXE1Nq68UdDw
-! Version: 202005131400
+! Checksum: Q1EKK0kRnxXf+ay1suQ51g
+! Version: 202005140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 May 2020 14:00 UTC
+! Last modified: 14 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6090,7 +6090,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||jerusalemonline.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
-@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=mielec.pl|ddwloclawek.pl|expresskaszubski.pl|gostyn24.pl|portalplock.pl|tusochaczew.pl|iszczecinek.pl|leszno24.pl|allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
+@@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=elgrafico.mx|homegardendiy.com|capitalmexico.com.mx|homelook.it|mielec.pl|ddwloclawek.pl|expresskaszubski.pl|gostyn24.pl|portalplock.pl|tusochaczew.pl|iszczecinek.pl|leszno24.pl|allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
 @@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6144,6 +6144,9 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
+podaj.to#@#.box-advert
+simbaly.com#@#.ad-label
+thedaddest.com#@#.ad_placeholder
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
@@ -7169,6 +7172,11 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 @@||springserve.com^$image,domain=mail.ru|sportmail.ru
 @@||weborama.fr^$image,domain=mail.ru|sportmail.ru
 @@||adform.net^$image,domain=mail.ru|sportmail.ru
+@@||relap.io^$domain=mail.ru|sportmail.ru
+@@||coub.com^$domain=mail.ru|sportmail.ru
+@@||vk.com^$domain=mail.ru|sportmail.ru
+@@||adfox.ru^$domain=mail.ru|sportmail.ru
+@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=mail.ru|sportmail.ru
 mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
 mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
 mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
@@ -7214,6 +7222,118 @@ news.mail.ru#@#div:-abp-has(> * > a[href*="t.mail.ru/redir"])
 news.mail.ru#@#.p-directhack
 news.mail.ru#@#.daynews > table tr > td:last-child
 news.mail.ru#@#.js-popup_gallery .viewbox__side
+!
+mail.ru,sportmail.ru#@##advWrapper
+mail.ru,sportmail.ru#@##yandex_ad
+mail.ru,sportmail.ru#@#.adsblock
+mail.ru,sportmail.ru#@#.advert
+mail.ru,sportmail.ru#@#.article__item_conversionlink
+mail.ru,sportmail.ru#@#.block .cols .rb-video-widget
+mail.ru,sportmail.ru#@#.box[class*=" rb_"]
+mail.ru,sportmail.ru#@#.js-banner
+mail.ru,sportmail.ru#@#.js-fixed-panel .box:-abp-has([class*="spring"])
+mail.ru,sportmail.ru#@#.js-fixed-panel > .box_collapse
+mail.ru,sportmail.ru#@#.js-fixed-panel > .js-smoky-single
+mail.ru,sportmail.ru#@#.js-fixed-panel > .rb-slot
+mail.ru,sportmail.ru#@#.js-popup_banner
+mail.ru,sportmail.ru#@#.js-popup_gallery .viewbox__side
+mail.ru,sportmail.ru#@#.js-smoky-end
+mail.ru,sportmail.ru#@#.js-smoky-end > .rb_loaded
+mail.ru,sportmail.ru#@#.js-smoky-single
+mail.ru,sportmail.ru#@#.m-photo-stories__banner
+mail.ru,sportmail.ru#@#.mailru-visibility-check
+mail.ru,sportmail.ru#@#.mailru-visibility-check div[style*="250"]
+mail.ru,sportmail.ru#@#.mailru-visibility-check iframe
+mail.ru,sportmail.ru#@#.mailru-visibility-check-counter + div
+mail.ru,sportmail.ru#@#.mailru-visibility-check-counter ~ div
+mail.ru,sportmail.ru#@#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
+mail.ru,sportmail.ru#@#.mailru-visibility-check:-abp-has([target="_blank"])
+mail.ru,sportmail.ru#@#.p-directhack
+mail.ru,sportmail.ru#@#.rb
+mail.ru,sportmail.ru#@#.rb-relap
+mail.ru,sportmail.ru#@#.rb-slot:-abp-has([id*="yandex_"])
+mail.ru,sportmail.ru#@#.rb_banner
+mail.ru,sportmail.ru#@#.rb_banner:-abp-has(*)
+mail.ru,sportmail.ru#@#.sticky-springs__item
+mail.ru,sportmail.ru#@#.tgb-wrapper
+mail.ru,sportmail.ru#@#[class=^"ymarket-affiliate"]
+mail.ru,sportmail.ru#@#[class^="Direct"]
+mail.ru,sportmail.ru#@#[class^="direct"]
+mail.ru,sportmail.ru#@#[class^="Yandex"]
+mail.ru,sportmail.ru#@#[class^="yandex"]
+mail.ru,sportmail.ru#@#[data-rb]
+mail.ru,sportmail.ru#@#[data-view^="SlotView.mimic"]
+mail.ru,sportmail.ru#@#[id="yandex_ad"]
+mail.ru,sportmail.ru#@#a[href*="https://relap.io/r?"]
+mail.ru,sportmail.ru#@#body > div[style^="z-index:"]
+mail.ru,sportmail.ru#@#body > iframe[src*="blob:"]
+mail.ru,sportmail.ru#@#body [class*="o"] .r-source:-abp-has(> * *)
+mail.ru,sportmail.ru#@#body [class*="o"] .r-source:-abp-has(> *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="trg-"]
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="trg-"]:-abp-has(> * *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="trg-"]:-abp-has(> *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="yandex_ad"]
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> * *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> *)
+mail.ru,sportmail.ru#@#div[class*=" rb_"]
+mail.ru,sportmail.ru#@#div[class^="Direct"]
+mail.ru,sportmail.ru#@#div[class^="rb_"]
+mail.ru,sportmail.ru#@#div[data-adq-id]
+mail.ru,sportmail.ru#@#div[id^="yandex_rtb"]
+mail.ru,sportmail.ru#@#iframe[width="240"][height="400"]
+mail.ru,sportmail.ru#@#img[width="240"][height="200"]
+mail.ru,sportmail.ru#@#tr > .daynews__spring
+mail.ru#@#.pulse-lenta
+mail.ru#@#.pulse-lenta a[href*="t.mail.ru/redir"]
+mail.ru#@#.rectangle-banner
+auto.mail.ru#@#.cols__wrapper div[style^="position"]:-abp-has([class*="height_400"])
+auto.mail.ru#@#.cols__wrapper div[style^="position"]:-abp-has([id^="mailru"])
+auto.mail.ru#@#[class*="grid"] > .grid__item_banner
+auto.mail.ru#@#body > div div > center div[class^="rb-criteo-"]
+cloud.mail.ru#@#.content__along > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
+cloud.mail.ru#@#.public__content > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
+cloud.mail.ru#@#.w-public__content > .b-layout div[id][class][style="width: 240px;"]
+deti.mail.ru#@#.cols__inner > [data-module="Toggle.comments"] ~ div[class^="margin_bottom_"]
+dom.mail.ru#@#.cols__inner > .article ~ .margin_top_20
+e.mail.ru#@#.b-viewer__advert__line
+health.mail.ru#@#.column_sidebar .margin_bottom_20:-abp-has([data-adq-id])
+health.mail.ru#@#div[class*="page"] .rb
+health.mail.ru#@#div[class*="page"] div[data-adq-id]
+hi-tech.mail.ru#@#.branding-p
+hi-tech.mail.ru#@#.cols__column_right > .cols__inner > :not(.m-subscription)
+hi-tech.mail.ru#@#.grid__item_banner
+hi-tech.mail.ru#@#.pc-branding
+horo.mail.ru#@#.cols__column_sidebar.cols__column > .cols__inner > :not(.p-nat)
+horo.mail.ru#@#.cols__inner > div[id^="mailru"]
+horo.mail.ru#@#.incut
+horo.mail.ru#@#.p-box[class*=" rb_"]
+horo.mail.ru#@#.rb-floating
+horo.mail.ru#@#[class*="pc-branding"]
+horo.mail.ru#@#div[class^="p-branding"]
+kino.mail.ru#@#.cols__inner > div[class*=" rb_"] ~ .padding_top_20
+kino.mail.ru#@#body .block [class] > div[class*="commerc"]
+lady.mail.ru#@#.layout .js-module .block[id^="rb"]
+news.mail.ru#@#div:-abp-has(> * > .sourceInformer_bks)
+news.mail.ru#@#div[class]:not(.leaflet-map-pane)[style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
+pets.mail.ru#@#[data-name="bottom ad"]
+pets.mail.ru#@#[data-name="top ad"]
+pogoda.mail.ru#@#.branding
+pogoda.mail.ru#@#.forecast-branding-link
+pogoda.mail.ru#@#.informer_type-1-kstl
+pogoda.mail.ru#@#.sticky-springs > .advert
+pogoda.mail.ru#@#direct_bottom
+pogoda.mail.ru#@#div[class*="directhack"]
+pogoda.mail.ru#@#div[class*="rb-direct"]
+pogoda.mail.ru#@#right_300x300
+pulse.mail.ru#@#div[class^="pl_"]:-abp-has(> * > [href*="t.mail.ru/redir"])
+realty.mail.ru#@#.layout .js-module .rb
+realty.mail.ru#@#.sticky-springs
+realty.mail.ru#@#div[class][data-module^="TopMail.Special."]
+tv.mail.ru#@#.rbtopblock
+tv.mail.ru#@#div[class][id^="mailru"]
+sportmail.ru#@#.box_double ~ .box_double
+sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
+otvet.mail.ru#@#div[class*="adv-slot-"]
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
 !:type=partner
