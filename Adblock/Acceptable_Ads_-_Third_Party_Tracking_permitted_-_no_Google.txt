@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: am+BIAymJ5KvdPA7xuXCcQ
-! Version: 202005140200
+! Checksum: D5JhoxdX+Ym1lh0a1XVqdg
+! Version: 202005141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 May 2020 02:00 UTC
+! Last modified: 14 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1302,6 +1302,7 @@ focus.de##.AdsRec
 focus.de##.AD_area
 focus.de##.ADBox
 focus.de##.Ads_4
+nationalinterest.org##.ad--center
 !:partner_token=glavpoezdrus.ru
 !:partner_id=bfd7769575cd5623
 !:type=partner
@@ -6542,7 +6543,7 @@ se.pl#@#div[class^="zpr_inside"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54497
 ! Amazon Native Shopping Ads
-#@##amzn_assoc_ad_div_adunit0_0
+~imore.com#@##amzn_assoc_ad_div_adunit0_0
 #@##amzn-native-ad-0
 #@##amzn-native-ad-1
 #@##amzn-native-ad-2
@@ -7109,6 +7110,8 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 7days.ru#@#.b-section_content_partners-news
 tsargrad.tv#@#.article__banner
 www.gismeteo.ru#@#.widget-container
+gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
+gismeteo.ru#@#.xby400
 rambler.ru#@#.article__read-also
 rambler.ru#@#.article__banner
 rambler.ru#@#.traffic-blocks[class*="intresting"]
