@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0liwHvcFRgwetll2O9sngg
-! Version: 202005150200
+! Checksum: ToFM0BEHbVQkVas5IVNf3w
+! Version: 202005151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 May 2020 02:00 UTC
+! Last modified: 15 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2926,6 +2926,7 @@ lavieimmo.com#@#.unForceAdBlock
 speedtest.net#@#.top-placeholder
 cuantarazon.com###cri-705619_cto_iframe
 cuantarazon.com###cri-714952_cto_iframe
+orange.fr#@#.oan_ad
 @@||viamichelin.fr/static/*/advertising/orange.html?width=728&height=90&prefix=2&$subdocument,domain=viamichelin.fr
 viamichelin.fr#@##advertising_728
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
@@ -6197,10 +6198,8 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
+@@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
-podaj.to#@#.box-advert
-simbaly.com#@#.ad-label
-thedaddest.com#@#.ad_placeholder
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
@@ -6255,11 +6254,14 @@ mtgsalvation.com#@#.ad-atf-medRect
 pokebattler.com,theoi.com#@#.ad-banner
 bovary.gr#@#.ad-block
 buzzfeed.com#@#.ad-card
+boiteascoop.com,boredomtreatment.com,buzztreatment.com,editorsnation.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,sportpirate.com,thechefpick.com#@#.ad-content
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
+boiteascoop.com,boredomtreatment.com,buzztreatment.com,editorsnation.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,sportpirate.com,thechefpick.com#@#.ad-frame
 windfinder.com#@#.ad-horizontal
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 airportia.com#@#.ad-item
+simbaly.com#@#.ad-label
 bgr.com,j-14.com,komando.com,pmcqa.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
@@ -6272,7 +6274,7 @@ bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,roll
 fosonline.gr,meetme.com,spinz.io#@#.ad-unit
 bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
-270towin.com,ew.com#@#.ad-wrapper
+270towin.com,boiteascoop.com,boredomtreatment.com,buzztreatment.com,editorsnation.com,ew.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,sportpirate.com,thechefpick.com#@#.ad-wrapper
 fosonline.gr#@#.ad-zone
 slader.com#@#.ad.inner
 baseball-reference.com,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
@@ -6281,6 +6283,7 @@ gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 homes.com#@#.ad__container
 wikihow.com#@#.ad_label
+thedaddest.com#@#.ad_placeholder
 theweek.com#@#.ad_wrap
 itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
@@ -6296,6 +6299,7 @@ www.visitlondon.com#@#.advert-mpu
 breitbart.com,photographylife.com#@#.banner_ad
 didev.co.uk,expertreviews.co.uk#@#.block-dfp
 starmagazine.com#@#.bottom-ads
+podaj.to#@#.box-advert
 bgr.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.c-ad
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.card--article-ad
 thefamouspeople.com#@#.center-ad
@@ -6307,6 +6311,7 @@ itstillworks.com#@#.desktop-ad
 nouvelobs.com#@#.dfp-slot
 didev.co.uk,expertreviews.co.uk#@#.dfp-tag-wrapper
 hi5.com,tagged.com#@#.dfp_ad
+elgrafico.mx#@#.dfp_slot
 fortune.com#@#.fortune-ad-tag__leaderboard
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
@@ -7200,39 +7205,37 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
 ! mail.ru ads
 @@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|sportmail.ru
-@@||ad.mail.ru^$domain=mail.ru|sportmail.ru
-@@||an.yandex.ru/system/context.js$domain=mail.ru|sportmail.ru
-@@||an.yandex.ru/meta/$domain=mail.ru|sportmail.ru
-@@||an.yandex.ru^$xmlhttprequest,domain=mail.ru|sportmail.ru
-@@||yandex.net/get-direct/$image,domain=mail.ru|sportmail.ru
-@@||yastatic.net/safeframe-bundles/$script,other,subdocument,document,domain=mail.ru|sportmail.ru
+@@||ad.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||yandex.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||yandex.ru^$popup,domain=mail.ru|sportmail.ru|mradx.net
+@@||yandex.net^$domain=mail.ru|sportmail.ru|mradx.net
+@@||yastatic.net^$domain=mail.ru|sportmail.ru|mradx.net
 ||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|sportmail.ru
-@@||ads.adfox.ru^$image,domain=mail.ru|sportmail.ru
-@@||ad.adriver.ru^$image,domain=mail.ru|sportmail.ru
-@@||tps30.doubleverify.com^$image,domain=mail.ru|sportmail.ru
-@@||gderu.hit.gemius.pl^$image,domain=mail.ru|sportmail.ru
-@@||pixel.adsafeprotected.com^$image,domain=mail.ru|sportmail.ru
-@@||ar.tns-counter.ru^$image,domain=mail.ru|sportmail.ru
-@@||z.moatads.com^$image,domain=mail.ru|sportmail.ru
-@@||wcm-ru.frontend.weborama.fr^$image,domain=mail.ru|sportmail.ru
-@@||dmg.digitaltarget.ru^$image,domain=mail.ru|sportmail.ru
-@@||track.rutarget.ru^$image,domain=mail.ru|sportmail.ru
-@@||r.mail.ru^$domain=mail.ru|sportmail.ru
-@@||t.mail.ru^$domain=mail.ru|sportmail.ru
-@@||rs.mail.ru^$domain=mail.ru|sportmail.ru
-@@||r0.mail.ru^$domain=mail.ru|sportmail.ru
-@@||bs.mail.ru^$domain=mail.ru|sportmail.ru
-@@||b2.mail.ru^$domain=mail.ru|sportmail.ru
+@@||adfox.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||ad.adriver.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||tps30.doubleverify.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||gderu.hit.gemius.pl^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||pixel.adsafeprotected.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||ar.tns-counter.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||z.moatads.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||wcm-ru.frontend.weborama.fr^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||dmg.digitaltarget.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||track.rutarget.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||r.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||t.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||rs.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||r0.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||bs.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||b2.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
 @@||mradx.net^$domain=mail.ru|sportmail.ru
-@@||serving-sys.com^$image,domain=mail.ru|sportmail.ru
-@@||springserve.com^$image,domain=mail.ru|sportmail.ru
-@@||weborama.fr^$image,domain=mail.ru|sportmail.ru
-@@||adform.net^$image,domain=mail.ru|sportmail.ru
+@@||serving-sys.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||springserve.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||weborama.fr^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||adform.net^$image,domain=mail.ru|sportmail.ru|mradx.net
 @@||relap.io^$domain=mail.ru|sportmail.ru
 @@||coub.com^$domain=mail.ru|sportmail.ru
 @@||vk.com^$domain=mail.ru|sportmail.ru
-@@||adfox.ru^$domain=mail.ru|sportmail.ru
-@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=mail.ru|sportmail.ru
+@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=mail.ru|sportmail.ru|mradx.net
 mail.ru#@#.pulse-lenta .pl_w a[href*="t.mail.ru/redir"]
 mail.ru#@#.pulse-lenta .pl_w:-abp-has([href*="t.mail.ru/redir"])
 mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
