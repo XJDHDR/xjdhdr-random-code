@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TWDZsZ8x1The6SewvY3TVg
-! Version: 202005151400
+! Checksum: xrkyAeUdLj9l7iPEhKIPVw
+! Version: 202005160200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 May 2020 14:00 UTC
+! Last modified: 16 May 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -65,7 +65,7 @@
 /adsGooglePP3.
 /advertise.$domain=~ads.microsoft.com|~advertise.apartments.com|~advertise.directoryofillustration.com|~advertise.isleofskye.com|~advertise.market|~advertise.medillsb.com|~advertise.movem.co.uk|~advertise.ru|~advertise.sobihamilton.ca|~advertise.sphamovingads.com|~advertise.welovebuzz.com|~bingads.microsoft.com|~engineering.com
 /advertiser/*$domain=~ads.microsoft.com|~ads.tiktok.com|~advertiser.flossbank.com|~affili.net|~affiliprint.com|~bingads.microsoft.com|~linkpizza.com|~mediance.com|~mobileapptracking.com|~trialpay.com
-/advertising-$domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~microsoft.com|~outbrain.com|~yellowimages.com
+/advertising-$domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /adwords.$domain=~ppc.ee|~radom.pl
 /adwords/*$domain=~google.com
 /adwordstracking.js
@@ -3896,6 +3896,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 /icon_youtube_
 /icona-youtube.
 /icone-youtube-
+/icone-youtube.
 /iconGooglePlus.
 /icono_google.
 /iconogoogleplus.
