@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7w1seEubwZtGVLYEiX75Ag
-! Version: 202005181400
+! Checksum: aEWm+RArgCBCqR3dM+IMVQ
+! Version: 202005190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 May 2020 14:00 UTC
+! Last modified: 19 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1641,6 +1641,8 @@ thenoob.net#@#.adinjwidget
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=newsbreak.gr
+tempest.services.disqus.com#@##ad-container
+independent.com.mt,akispetretzikis.com,filgoal.com#@#.adsbox
 escape.com.au#@#.widget_newscorpau_ads
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
@@ -7032,7 +7034,7 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
 @@||jsc.lentainform.com^$script,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
-@@||lentainform.com^$popup,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|zelenyikot.livejournal.com
+@@||lentainform.com^$popup,domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
 @@||c.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
 @@||autocounter.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
 @@||s-img.lentainform.com^$domain=howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su
@@ -7056,7 +7058,7 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||mgid.com^$domain=lentainform.com
 @@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
 @@||rnet.plus^$script,xmlhttprequest,domain=rambler.ru
-@@||rnet.plus^$script,xmlhttprequest,image,domain=zelenyikot.livejournal.com
+@@||rnet.plus^$script,xmlhttprequest,image,domain=livejournal.com
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
 @@/px.gif?ch=1&rn=$domain=gismeteo.ru
 /px.gif?ch=2&rn=$domain=gismeteo.ru
