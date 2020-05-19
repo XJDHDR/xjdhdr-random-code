@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ih2QPgBwascd1MDSy9CjKw
-! Version: 202005190200
+! Checksum: byqZTLiOYHjF8jmrvic9YA
+! Version: 202005191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 May 2020 02:00 UTC
+! Last modified: 19 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1595,7 +1595,6 @@ thenoob.net#@#.adinjwidget
 @@||twpasol.com^$third-party,domain=desprerelatii.net|newsweek.ro
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
-@@||tempest.services.disqus.com/ads-iframe/taboola/$subdocument,domain=akispetretzikis.com|filgoal.com|independent.com.mt
 @@||adsafeprotected.com^$script,domain=entrepreneur.com
 @@||perfectmarket.com^script,domain=zacks.com
 @@||pub17.media-clic.com/www/delivery/*$domain=culture-informatique.net
@@ -1655,7 +1654,6 @@ thenoob.net#@#.adinjwidget
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=newsbreak.gr
 tempest.services.disqus.com#@##ad-container
-independent.com.mt,akispetretzikis.com,filgoal.com#@#.adsbox
 escape.com.au#@#.widget_newscorpau_ads
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
@@ -1800,7 +1798,7 @@ quotedb.com#@#.ezoic-ad
 didyouknowfacts.com,etonline.com#@#.footer-ad
 bigstory.ap.org#@#.for-taboola
 didyouknowfacts.com#@#.header-ad
-otvfoco.com.br,sguru.org#@#.herald-ad
+kprofiles.com,otvfoco.com.br,sguru.org#@#.herald-ad
 balkandownload.org#@#.ipsAd
 nana10.co.il#@#.item-label-href[rel="nofollow"][target="_blank"]
 nana10.co.il#@#.item-thumbnail-href[rel="nofollow"][target="_blank"]
@@ -7040,6 +7038,8 @@ coingecko.com#@#.img_ad
 livecoinwatch.com#@#.ads-top
 livecoinwatch.com#@#.ads-bottom
 thingiverse.com#@#div[class^="AdCard_"]
+sirved.com#@#.advertisement-container
+sirved.com#@#.top-advertisement
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner

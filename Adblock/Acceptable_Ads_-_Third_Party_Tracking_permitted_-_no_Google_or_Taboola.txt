@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aEWm+RArgCBCqR3dM+IMVQ
-! Version: 202005190200
+! Checksum: H40qlur+F/9pFXkafTI20g
+! Version: 202005191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 May 2020 02:00 UTC
+! Last modified: 19 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1642,7 +1642,6 @@ thenoob.net#@#.adinjwidget
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=newsbreak.gr
 tempest.services.disqus.com#@##ad-container
-independent.com.mt,akispetretzikis.com,filgoal.com#@#.adsbox
 escape.com.au#@#.widget_newscorpau_ads
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
@@ -1760,7 +1759,7 @@ itsthevibe.com,standardnews.com##.execphpwidget
 quotedb.com#@#.ezoic-ad
 didyouknowfacts.com,etonline.com#@#.footer-ad
 didyouknowfacts.com#@#.header-ad
-otvfoco.com.br,sguru.org#@#.herald-ad
+kprofiles.com,otvfoco.com.br,sguru.org#@#.herald-ad
 balkandownload.org#@#.ipsAd
 nana10.co.il#@#.item-label-href[rel="nofollow"][target="_blank"]
 nana10.co.il#@#.item-thumbnail-href[rel="nofollow"][target="_blank"]
@@ -6986,6 +6985,8 @@ coingecko.com#@#.img_ad
 livecoinwatch.com#@#.ads-top
 livecoinwatch.com#@#.ads-bottom
 thingiverse.com#@#div[class^="AdCard_"]
+sirved.com#@#.advertisement-container
+sirved.com#@#.top-advertisement
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner
