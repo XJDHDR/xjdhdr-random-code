@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wdmkkJpCOOM91ebEwN7VWQ
-! Version: 202005200200
+! Checksum: 84sxuzmCB8GqccO6EYkYEg
+! Version: 202005210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 May 2020 02:00 UTC
+! Last modified: 21 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2886,19 +2886,19 @@ thevarsity.ca#@#.ad-med-rect
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=41128
 ! Ads by Criteo
-@@||static.criteo.net/images/pixel.gif?ch=1$domain=~yahoo.com|~mmo-champion.com
-||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com|~mmo-champion.com
-@@||static.criteo.net/js/px.js?ch=1$domain=~yahoo.com|~mmo-champion.com
-||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=1*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=2*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=3*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=4*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=5*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=6*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com
+@@||static.criteo.net/images/pixel.gif?ch=1$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||static.criteo.net/js/px.js?ch=1$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=1*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=2*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=3*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=4*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=5*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=6*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
 @@||criteo.com/delivery/afr.php?abp=1$subdocument,document,domain=demo.criteo.com
 @@||criteo.com/delivery/r/afr.php?abp=1$subdocument,document
 @@||bidder.criteo.com/cdb?ptv=*&abp=1&
@@ -2911,18 +2911,18 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.*.*.criteo.net^$domain=criteo.com
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
-@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com
-@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com
+@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
 @@||bidder.criteo.com/csm^
 @@||ads.urban-media.com/js/19953022/prebid.js
 @@||ads.urban-media.com/js/13774210/urban.js
 @@||confiant-integrations.global.ssl.fastly.net/bchOs-0p0oZ_S30Jvcda6SzcChc/gpt_and_prebid/config.js
 @@||secure.adnxs.com/getuidp?callback=externalUid$domain=subito.it
 @@||utils.cedsdigital.it/js/prebid$script,domain=ilmessaggero.it|ilgazzettino.it
-~mmo-champion.com#@#div[id^="crt-"][style*="width:"]
-~mmo-champion.com#@#div[id^="crt-"][style]
-~mmo-champion.com#@#div[id^="crt-"][data-criteo-id]
-~mmo-champion.com#@#.criteo-ban
+~mmo-champion.com,~giga.de,~20minutes.fr#@#div[id^="crt-"][style*="width:"]
+~mmo-champion.com,~giga.de,~20minutes.fr#@#div[id^="crt-"][style]
+~mmo-champion.com,~giga.de,~20minutes.fr#@#div[id^="crt-"][data-criteo-id]
+~mmo-champion.com,~giga.de,~20minutes.fr#@#.criteo-ban
 ettoday.net#@#div[id^="abp"]
 ettoday.net#@#.ad_300
 ecranlarge.com#@#.sidebar-banner
@@ -2937,6 +2937,9 @@ orange.fr#@#.oan_ad
 viamichelin.fr#@##advertising_728
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
 ||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
+! temp
+wallapop.com##.pub-wall-3-wrapper
+wallapop.com##.home-pub-section-top
 ! legacy whitelisting
 @@||criteo.com/delivery/ajs.php?*zoneid=292403$xmlhttprequest,domain=wetteronline.de
 @@||criteo.com/delivery/ajs.php?*zoneid=320142$xmlhttprequest,domain=wetteronline.de
@@ -4877,7 +4880,7 @@ alistapart.com#@#.sponsor-logo
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43785
 ! spravočnik.su ads
-%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%be%d1%87%d0%bd%d0%b8%d0%ba.su,xn--80aesinfeih9d.su#@#.Ad-label
+xn--80aesinfeih9d.su#@#.Ad-label
 !:partner_token=greatschools.org
 !:partner_id=fdc87e400f002bcf
 !:type=partner
@@ -6097,7 +6100,6 @@ op.gg#@#.life-owner
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@#.lower-ad
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.middle-ad
 games.co.uk#@#.mpu
-zerohedge.com#@#.placement
 ynet.co.il#@#.pplus_hdr_ad
 soolide.com#@#.quads-ad1
 soolide.com#@#.quads-ad1_widget
