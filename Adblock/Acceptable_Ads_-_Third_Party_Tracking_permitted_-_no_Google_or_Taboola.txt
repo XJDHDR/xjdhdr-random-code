@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +Rl1Oyr8fTo+uXpcQgwGCQ
-! Version: 202005220200
+! Checksum: iOVQ+eHPoNgOHsPz5UE0gg
+! Version: 202005221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 May 2020 02:00 UTC
+! Last modified: 22 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6200,6 +6200,7 @@ cnn.com#@##partner-zone
 innerstrength.zone#@##quads-ad4
 thewordfinder.com#@##sidebar-advertisement
 ebaumsworld.com#@##subheader_atf_wrapper
+coastalwatch.com#@##topAd
 tagged.com#@##topad
 cnn.com#@#.ad
 cnn.com#@#.ad--desktop
@@ -6209,10 +6210,10 @@ mtgsalvation.com#@#.ad-atf-medRect
 pokebattler.com,theoi.com#@#.ad-banner
 bovary.gr#@#.ad-block
 buzzfeed.com#@#.ad-card
-boiteascoop.com,boredomtreatment.com,buzztreatment.com,editorsnation.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,sportpirate.com,thechefpick.com#@#.ad-content
+afternoonedition.com,authorspick.com,beansandcreams.com,boiteascoop.com,boredomtreatment.com,buzztreatment.com,cheeringmonster.com,cidergossip.com,editorsnation.com,giantchaser.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,pajamawarriors.com,reportercenter.com,spicytrends.com,sportpirate.com,thechefpick.com,wiced.com,wittyreporter.com#@#.ad-content
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
-boiteascoop.com,boredomtreatment.com,buzztreatment.com,editorsnation.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,sportpirate.com,thechefpick.com#@#.ad-frame
+afternoonedition.com,authorspick.com,beansandcreams.com,boiteascoop.com,boredomtreatment.com,buzztreatment.com,cheeringmonster.com,cidergossip.com,editorsnation.com,giantchaser.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,pajamawarriors.com,reportercenter.com,spicytrends.com,sportpirate.com,thechefpick.com,wiced.com,wittyreporter.com#@#.ad-frame
 windfinder.com#@#.ad-horizontal
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 airportia.com#@#.ad-item
@@ -6229,7 +6230,7 @@ bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,roll
 fosonline.gr,meetme.com,spinz.io#@#.ad-unit
 bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
-270towin.com,boiteascoop.com,boredomtreatment.com,buzztreatment.com,editorsnation.com,ew.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,sportpirate.com,thechefpick.com#@#.ad-wrapper
+270towin.com,afternoonedition.com,authorspick.com,beansandcreams.com,boiteascoop.com,boredomtreatment.com,buzztreatment.com,cheeringmonster.com,cidergossip.com,editorsnation.com,ew.com,giantchaser.com,halfeddie.com,hollywood-tale.com,mightyscoops.com,pajamawarriors.com,reportercenter.com,spicytrends.com,sportpirate.com,thechefpick.com,wiced.com,wittyreporter.com#@#.ad-wrapper
 fosonline.gr#@#.ad-zone
 slader.com#@#.ad.inner
 baseball-reference.com,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
@@ -6247,9 +6248,17 @@ obrazovaka.ru#@#.ads-block
 obrazovaka.ru#@#.ads-footer
 obrazovaka.ru#@#.ads-sidebar
 slader.com#@#.ads-to-hide
+publicholidays.com.au#@#.ads__sidebar
+ozbargain.com.au#@#.adsbillboard
 ew.com#@#.adsbox
+ozbargain.com.au#@#.adslisting
+ozbargain.com.au#@#.adslisting2
+ozbargain.com.au#@#.adslistingz
 boingboing.net,gameskinny.com#@#.adslot
-arcamax.com#@#.adunit
+ozbargain.com.au#@#.adsrecnode
+ozbargain.com.au#@#.adssidebar2
+ozbargain.com.au#@#.adstop
+arcamax.com,thenewdaily.com.au#@#.adunit
 www.visitlondon.com#@#.advert-mpu
 breitbart.com,photographylife.com#@#.banner_ad
 didev.co.uk,expertreviews.co.uk#@#.block-dfp
