@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c/yX28G/m8DjFhLlFQJ0jQ
-! Version: 202005250200
+! Checksum: yMrCC6gzrjw2NOJRthWxKA
+! Version: 202005251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 May 2020 02:00 UTC
+! Last modified: 25 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6220,6 +6220,9 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
+digitaltrends.com#@#.dtads-slot
+digitaltrends.com#@#.b-anterior
+zerohedge.com#@#.placement
 cnn.com#@##AdBanner
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
