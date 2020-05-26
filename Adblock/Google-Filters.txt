@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: n+dGi63lU1/EQBeEH02ZAQ
-! Version: 202005260200
+! Checksum: P01nAqQqT5Xo94HW1tjZOg
+! Version: 202005261400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 May 2020 02:00 UTC
+! Last modified: 26 May 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3457,7 +3457,6 @@ _googleAnalytics_
 ||twimg.com/jot?
 ||video-ad-stats.googlesyndication.com^
 ||video.google.com/api/stats/
-||wibiya-june-new-log.conduit-data.com^
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
@@ -3466,7 +3465,6 @@ _googleAnalytics_
 ||hudong.com/flux.js
 ||ifengimg.com/sta_collection.*.js
 ||tracker.bestshopping.com^
-||tracking.conversion-lab.it^
 ||log.codemarketing.cloud^
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
@@ -3637,7 +3635,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||qhimg.com/11.0.1.js$script
 ||stadig.ifeng.com^
 ||stat.caijing.com.cn^
-||stat.hudong.com^
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp
 ||g.bitmag.com.br^
 ||google-analytics.com/analytics.js$domain=gamestar.de
