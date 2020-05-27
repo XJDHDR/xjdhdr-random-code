@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cIKQsxm4irWayaWgaC/C+w
-! Version: 202005270200
+! Checksum: oU117p9gVyxXxvXGEZaX7g
+! Version: 202005271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 May 2020 02:00 UTC
+! Last modified: 27 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6168,6 +6168,11 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
 @@||cdn.fuseplatform.net/publift/tags/*/prebid.js$domain=ozbargain.com.au|weatherzone.com.au|coastalwatch.com|tutsplus.com|publicholidays.com.au
+@@||wrapper.lemde.fr/glmaw.$script,domain=nouvelobs.com
+fun.freebies.com#@#.quads-location
+fun.freebies.com#@#.quads-ad4
+fun.freebies.com#@##quads-ad4
+moviestvnetwork.com#@#.sticky-sidebar-ad
 maketecheasier.com#@#.in-content-ad
 digitaltrends.com#@#.dtads-slot
 digitaltrends.com#@#.b-anterior
