@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bSrnEei5Wa6Ev9pgTB2Hyw
-! Version: 202005271400
+! Checksum: 8XZT4laMD+V/BLktZYHABQ
+! Version: 202005280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 May 2020 14:00 UTC
+! Last modified: 28 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6222,6 +6222,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
 @@||cdn.fuseplatform.net/publift/tags/*/prebid.js$domain=ozbargain.com.au|weatherzone.com.au|coastalwatch.com|tutsplus.com|publicholidays.com.au
 @@||wrapper.lemde.fr/glmaw.$script,domain=nouvelobs.com
+@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=sportinal.com|dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com
 fun.freebies.com#@#.quads-location
 fun.freebies.com#@#.quads-ad4
 fun.freebies.com#@##quads-ad4
@@ -7489,6 +7490,12 @@ extra.cz#@#.adFull
 newsmonkey.be##.billboard.advert
 newsmonkey.be##.leaderboard.advert
 newsmonkey.be#@#div[id^="div-gpt-ad"]
+!:partner_token=Quora
+!:partner_id=ee6342968f990c88
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=79450
+! Quora.com ads
+@@||quora.com^$elemhide
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
