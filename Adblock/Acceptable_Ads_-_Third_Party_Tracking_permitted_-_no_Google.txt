@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G8uDk0fwHxWaxiis6jU9hA
-! Version: 202005290200
+! Checksum: VK/kGJX2bSA5bdkiYzByPw
+! Version: 202005291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 May 2020 02:00 UTC
+! Last modified: 29 May 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7455,6 +7455,8 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 ||upapi.net^$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
 @@||bbelements.com/scripts/ibb-async/$script,domain=tax.lt
 alio.lt#@#.ad-placement
+autogidas.lt#@#a[href^=""]
+autogidas.lt#@#.img_ad
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
