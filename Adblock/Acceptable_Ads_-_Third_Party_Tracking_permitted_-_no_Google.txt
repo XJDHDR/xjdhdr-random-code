@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VK/kGJX2bSA5bdkiYzByPw
-! Version: 202005291400
+! Checksum: yBNdaLMBpcivUGvmtAnlSA
+! Version: 202005300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 May 2020 14:00 UTC
+! Last modified: 30 May 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2886,19 +2886,19 @@ thevarsity.ca#@#.ad-med-rect
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=41128
 ! Ads by Criteo
-@@||static.criteo.net/images/pixel.gif?ch=1$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||static.criteo.net/js/px.js?ch=1$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=1*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=2*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=3*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=4*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=5*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=6*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||static.criteo.net/images/pixel.gif?ch=1$domain=~yahoo.com|~mmo-champion.com|~giga.de
+||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||static.criteo.net/js/px.js?ch=1$domain=~yahoo.com|~mmo-champion.com|~giga.de
+||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=1*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=2*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=3*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=4*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=5*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=6*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
 @@||criteo.com/delivery/afr.php?abp=1$subdocument,document,domain=demo.criteo.com
 @@||criteo.com/delivery/r/afr.php?abp=1$subdocument,document
 @@||bidder.criteo.com/cdb?ptv=*&abp=1&
@@ -2911,18 +2911,18 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.*.*.criteo.net^$domain=criteo.com
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
-@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
-@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com|~giga.de|~20minutes.fr
+@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com|~giga.de
 @@||bidder.criteo.com/csm^
 @@||ads.urban-media.com/js/19953022/prebid.js
 @@||ads.urban-media.com/js/13774210/urban.js
 @@||confiant-integrations.global.ssl.fastly.net/bchOs-0p0oZ_S30Jvcda6SzcChc/gpt_and_prebid/config.js
 @@||secure.adnxs.com/getuidp?callback=externalUid$domain=subito.it
 @@||utils.cedsdigital.it/js/prebid$script,domain=ilmessaggero.it|ilgazzettino.it
-~mmo-champion.com,~giga.de,~20minutes.fr#@#div[id^="crt-"][style*="width:"]
-~mmo-champion.com,~giga.de,~20minutes.fr#@#div[id^="crt-"][style]
-~mmo-champion.com,~giga.de,~20minutes.fr#@#div[id^="crt-"][data-criteo-id]
-~mmo-champion.com,~giga.de,~20minutes.fr#@#.criteo-ban
+~mmo-champion.com,~giga.de#@#div[id^="crt-"][style*="width:"]
+~mmo-champion.com,~giga.de#@#div[id^="crt-"][style]
+~mmo-champion.com,~giga.de#@#div[id^="crt-"][data-criteo-id]
+~mmo-champion.com,~giga.de#@#.criteo-ban
 ettoday.net#@#div[id^="abp"]
 ettoday.net#@#.ad_300
 ecranlarge.com#@#.sidebar-banner
@@ -5773,11 +5773,9 @@ accuweather.com#@##aadTop300
 novi.ba,screamqueensonline.com,slickdeals.net#@##ad-container
 tmz.com#@##ad-header
 mmo-champion.com#@##ad-horizontal-header
-devmn.net,mumsnet.com,vinted.lt#@##ad-leaderboard
-vinted.lt#@##ad-rectangle
+devmn.net,mumsnet.com#@##ad-leaderboard
 tmz.com#@##ad-sidebar1
 tmz.com#@##ad-sidebar2
-vinted.lt#@##ad-skyscraper
 mmo-champion.com,mrexcel.com#@##ad_global_above_footer
 cnsnews.com,newsbusters.org#@##ad_top
 whatismyipaddress.com#@##adbottom
@@ -5864,9 +5862,9 @@ theguardian.com#@#.ad-slot--top-banner-ad
 theguardian.com#@#.ad-slot-container
 usmagazine.com#@#.ad-spot
 dealnews.com#@#.ad-square
-cosmopolitan.com,vinted.lt#@#.ad-sticky
+cosmopolitan.com#@#.ad-sticky
 popmatters.com#@#.ad-tag
-hothardware.com,vinted.lt#@#.ad-top
+hothardware.com#@#.ad-top
 dailywire.com,masteroverwatch.com,mrexcel.com,zombs.io#@#.ad-unit
 fstoppers.com#@#.ad-unit-wrapper
 britannica.com#@#.ad-with-header-wrapper
@@ -6001,7 +5999,6 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
-musumazyliai.lt#@##ad-rectangle
 awkwardzombie.com#@##ad_left
 awkwardzombie.com#@##ad_right
 awkwardzombie.com#@##ad_top
@@ -6048,7 +6045,7 @@ topky.sk#@#.ad
 capital.com.tr#@#.ad-banner
 owfire.com,smitefire.com#@#.ad-break
 chip.com.tr#@#.ad-center
-index.hr,musumazyliai.lt,tmz.com,vinted.lt#@#.ad-container
+index.hr,tmz.com#@#.ad-container
 lifeexact.com,lifeindigo.com,stylechambers.com,wtfacts.net#@#.ad-content
 broadwayworld.com#@#.ad-desktop
 lifeexact.com,lifeindigo.com,stylechambers.com,wtfacts.net#@#.ad-frame
@@ -6166,7 +6163,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,dziennikzachodni.pl,dzienniklodzki.pl,kurierlubelski.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,expressilustrowany.pl,dziennikpolski24.pl,tygodnikits.pl,echodnia.eu,gazetalubuska.pl,pomorska.pl,gk24.pl,gp24.pl,gs24.pl,nowiny24.pl,nto.pl,poranny.pl,to.com.pl,wspolczesna.pl,ekstramagazyn.pl,naszahistoria.pl,sportowy24.pl,gol24.pl,rodzina500plus.biz,strefabiznesu.pl,expressbydgoski.pl,nowosci.com.pl,polskapress.pl,swieta24.pl,stronakobiet.pl#@#.advContainer
 @@||static.h-bid.com^$script,third-party,domain=notebookcheck.net|notebookcheck-ru.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.org|notebookcheck.pl
 @@||jscdn.yieldbird.com^$script,xmlhttprequest,third-party,domain=elgrafico.mx|homegardendiy.com|capitalmexico.com.mx|homelook.it|mielec.pl|ddwloclawek.pl|expresskaszubski.pl|gostyn24.pl|portalplock.pl|tusochaczew.pl|iszczecinek.pl|leszno24.pl|allani.pl|homebook.pl|bestcraftsandrecipes.com|rozklad-pkp.pl|windowsreport.com|mojewypieki.com|hejmielec.pl|ddwloclawek.|gostyn24.pl|expresskaszubski.pl|anlikaltinfiyatlari.com|podaj.to|klp.pl|zdravie.sk|ladnydom.pl|popularne.pl|trinixy.ru|rmf24.pl|obrazovaka.ru|wyborcza.pl|livinggreenandfrugally.com|klp.pl|paraloscuriosos.com|quizowa.pl|jooble.org|therighthairstyles.com|twoplayergames.org|zakon.kz|meczyki.pl|domodi.pl|cas.sk|omnicalculator.com|dennikn.sk|menicka.cz|yesasia.ru|fcbarca.com|salon24.pl|zdravie.sk|littlealchemy.com|littlealchemy2.com|realmadryt.pl|nyheteridag.se|skijumping.pl
-@@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=musumazyliai.lt|sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|domoplius.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|vinted.lt|draugas.lt
+@@||keytarget.adnet.lt/stable$script,xmlhttprequest,third-party,domain=sena.lt|bernardinai.lt|tax.lt|118.lt|supermama.lt|technologijos.lt|ve.lt|basketnews.lt|delfi.lt|delfi.ee|delfi.lv|draugas.lt
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
@@ -6178,7 +6175,7 @@ telemagazyn.pl,goldenline.pl,naszemiasto.pl,polskatimes.pl,dziennikbaltycki.pl,d
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
-@@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|vinted.lt|draugas.lt|basketnews.lt
+@@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=delfi.lt|delfi.lv|delfi.ee|draugas.lt|basketnews.lt
 @@||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 ||assets.medicalnewstoday.com/content/advertising.js^$script,domain=healthline.com|medicalnewstoday.com|greatist.com
@@ -7448,15 +7445,18 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78057
 ! Ads by Adnet
-@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnet.lt/stable/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnetmedia.lt/keytarget/$script,domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||adnet.lt/stable/px.gif?ch=2&rn=$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||upapi.net^$domain=ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/$script,domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnetmedia.lt/keytarget/$script,domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||adnet.lt/stable/px.gif?ch=2&rn=$domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||upapi.net^$domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
 @@||bbelements.com/scripts/ibb-async/$script,domain=tax.lt
 alio.lt#@#.ad-placement
 autogidas.lt#@#a[href^=""]
 autogidas.lt#@#.img_ad
+domoplius.lt,vinted.lt,musumazyliai.lt#@#.ad-leaderboard
+domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-rectangle
+domoplius.lt,vinted.lt,musumazyliai.lt#ad-leaderboard
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
