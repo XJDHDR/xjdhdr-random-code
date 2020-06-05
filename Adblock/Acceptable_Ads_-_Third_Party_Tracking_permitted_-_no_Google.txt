@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ixug0l5hC0H8f9JyPOfilA
-! Version: 202006050200
+! Checksum: sZf83xn/E136lK2NcyCobQ
+! Version: 202006051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Jun 2020 02:00 UTC
+! Last modified: 05 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6000,7 +6000,11 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf_else.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com|walterfootball.com
-!
+!:partner_token=Blockthrough Inc.
+!:partner_id=2b3e85777627e764
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
+! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
 @@||im-g.pl/static/adview/$script,domain=plotek.pl|gazeta.pl|sport.pl|edziecko.pl|moto.pl|haps.pl|domiporta.pl|tokfm.pl|avanti24.pl|tuba.pl|fm.tuba.pl|czterykaty.pl|ugotuj.to|autotrader.pl|magazyn-kuchnia.pl|komunikaty.pl|natemat.pl|logo24.pl|blox.pl|wyborcza.pl|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl|tokfm.pl|audycje.tokfm.pl|magazyn-kuchnia.pl|komunikaty.pl|logo24.pl|czasswiecia.pl|czasbrodnicy.pl|cjg.gazeta.pl|namonciaku.pl|newsmavens.pl|logo24.gazeta.pl|elka.pl|moja-ostroleka.pl|ostrowmaz24.pl|kurierdabrowski.pl|kutno.net.pl
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
