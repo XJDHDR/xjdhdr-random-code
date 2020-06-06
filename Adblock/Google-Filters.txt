@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: slE5Z2IDUJ00kvvEmb3zdQ
-! Version: 202006060200
+! Checksum: NCBhwNIq0LMagz/mKp2adA
+! Version: 202006061400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 06 Jun 2020 02:00 UTC
+! Last modified: 06 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1194,6 +1194,7 @@ pcmag.com,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
 linkedin.com,tasteofhome.com#@#a[href^="http://pubads.g.doubleclick.net/"]
 google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.de#@#a[href^="http://www.liutilities.com/"]
 buzzfeed.com#@#a[href^="https://ad.doubleclick.net/"]
+drive.google.com#@#div[aria-label="Ads"]
 daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#div[id^="google_ads_iframe_"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
 bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,flightcentre.co.uk,foodkick.com,lavozdegalicia.es,liverpoolfc.com,mariages.net,matrimonio.com,olx.pl,payback.pl,pccomponentes.com,pianobuyer.com,ripley.cl,ripley.com.pe,thoughtcatalog.com,vroomvroomvroom.com.au,weddingspot.co.uk,wsj.com,zillow.com#@#iframe[id^="google_ads_iframe"]
@@ -2030,6 +2031,7 @@ $script,third-party,domain=171gifs.com|300mbfilms.org|321jav.com|4downfiles.org|
 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.com
 @@||bootstrapcdn.com^$script,stylesheet,domain=clipwatching.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
 @@||ajax.googleapis.com^$script,domain=blacklistednews.com
 @@||unpkg.com^$script,domain=blacklistednews.com
 @@||googleapis.com^$script,domain=stream2watch.ws
@@ -2040,7 +2042,9 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.com|up-4ever.org
 @@||ajax.googleapis.com^$script,domain=project-free-tv.ag
 @@||ajax.googleapis.com/ajax/libs/$script,domain=01fmovies.com|ffmovies.ru|fmovies.mx|fmovies.taxi|fmovies.world|fmovies123.cc|fmovieson.com|thefmovies.me
-@@||fonts.googleapis.com^$stylesheet,domain=01fmovies.com|ffmovies.ru|fmovies.mx|fmovies.taxi|fmovies.world|fmovies123.cc|fmovieson.com|thefmovies.me
+@@||apis.google.com^$script,domain=fmovies.ag
+@@||fonts.googleapis.com^$stylesheet,domain=01fmovies.com|ffmovies.ru|fmovies.ag|fmovies.mx|fmovies.taxi|fmovies.world|fmovies123.cc|fmovieson.com|thefmovies.me
+@@||gstatic.com^$script,domain=fmovies.ag
 @@||ajax.googleapis.com^$script,domain=ancient-origins.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=alltube.pl
 @@||ajax.googleapis.com^$script,domain=vshare.eu
@@ -3009,7 +3013,7 @@ boobieblog.com##td[align="center"][width="20%"]
 @@||googletagservices.com/tag/js/gpt.js$domain=espn.com|nbcsports.com|realestate.co.nz
 @@||googleusercontent.com/gadgets/proxy?$image,domain=kissmanga.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clipsliver.com|cnet.com|complex.com|cwtv.com|dailybreeze.com|forbes.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thegamer.tv|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|forbes.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thegamer.tv|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||pbs.twimg.com/ad_img/$xmlhttprequest,domain=twitter.com
@@ -4893,7 +4897,7 @@ factmag.com###vf-pop
 co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,securitylab.github.com,usatoday.com##.banner
 xing.com##.consent_wrapper
 18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
-amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 videojug.com##.cp-alert-message
 doubleviking.com,fallentitans.com##.footer
 bing.com##.hpn_top_container
@@ -4970,7 +4974,7 @@ busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.facebook.ico
 firebase.google.com#@#.fb-dialog
 500px.com,academia.edu,peerlyst.com,shitposter.club,smashcast.tv,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
 academia.edu,epicgames.com,martini.com,oneplus.net#@#.google-btn
-chess.com,imgur.com,login.alibaba.com#@#.icon-google
+battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
 flattr.com#@#.icon-youtube
 hotforfoodblog.com#@#.pin-it
 californiasunday.com,youtube.com#@#.share-bar
@@ -5024,6 +5028,7 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@/wp-content/js/googleplus-sign-in.js$script
 @@||about.me^*/googleplus?
 @@||afterglowplayer.com/img/feat_youtube.jpg
+@@||akamaihd.net/login/static/images/login/social/google-$image,domain=battle.net
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
 @@||amazonaws.com/mibbit/gfx/youtube.png
 @@||androidpit.info/userfiles/*image/youtube-logo-
