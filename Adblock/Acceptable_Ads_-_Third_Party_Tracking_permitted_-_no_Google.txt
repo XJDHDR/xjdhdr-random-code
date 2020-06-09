@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6E50LcMzH1O2q1esisM/Jw
-! Version: 202006081400
+! Checksum: vMdWsdwjmSTBIzreLF2WsA
+! Version: 202006090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Jun 2020 14:00 UTC
+! Last modified: 09 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5748,31 +5748,6 @@ bouwsteentjes.info#@#.td-adspot-title
 ||ad-delivery.net/px.gif?ch=2
 @@||btserve.com^$document,subdocument,image,script,xmlhttprequest
 @@||blockthroughserve.com^$document,subdocument,image,script,xmlhttprequest
-@@||lijit.com/bidder/impression
-@@||ib.adnxs.com/getuid^$image,third-party
-@@||ib.adnxs.com/setuid^$image,third-party
-@@||ib.adnxs.com/mapuid^$image,third-party
-@@||ib.adnxs.com/px^$image,third-party
-@@||secure.adnxs.com/setuid^$image,third-party
-@@||secure.adnxs.com/getuid^$image,third-party
-@@||secure.adnxs.com/mapuid^$image,third-party
-@@||secure.adnxs.com/px^$image,third-party
-@@||eb2.3lift.com/xuid^$image,third-party
-@@||ib.3lift.com/xuid^$image,third-party
-@@||videoplayerhub.com^$third-party
-@@||cdnjquery.com^$script,third-party
-@@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
-@@||cdn.thisiswaldo.com/static/js/$script,domain=beginnersbook.com|discordbots.org
-@@||static.h-bid.com^$script,domain=morewords.com
-@@||hb.vntsm.com^*/live/$script,xmlhttprequest,domain=venatusmedia.com
-@@/packs/concert_ads-$script,domain=sbndev.net|sbnation.com
-@@||247chess.com/js/ads.js
-@@||widget.perfectmarket.com/indiatoday-indiatoday/load.js$domain=indiatoday.in
-@@||widget.perfectmarket.com/indiatoday-indiatoday/pmk-201901001.13.js$domain=indiatoday.in
-@@||bt.fandom.com^$document,subdocument,domain=fandom.com
-@@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
-@@||bt.wikia.com^$document,subdocument,domain=wikia.com
-@@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
 wikia.com#@##WikiaTopAds
 accuweather.com#@##aadTop300
 novi.ba,screamqueensonline.com,slickdeals.net#@##ad-container
@@ -5847,7 +5822,7 @@ hearthpwn.com,siliconera.com#@#.ad-atf-medRect
 dealnews.com#@#.ad-banner
 dealnews.com#@#.ad-banner-top
 geeksaresexy.net#@#.ad-below
-iefimerida.gr,hothardware.com#@#.ad-block
+hothardware.com,iefimerida.gr#@#.ad-block
 clubroadster.net#@#.ad-card
 guidingtech.com#@#.ad-centered
 kongregate.com##.ad-container
@@ -5885,6 +5860,7 @@ phonearena.com#@#.ad_728_90
 ajaxshowtime.com,productdemos.nl#@#.ad_footer
 mrexcel.com#@#.ad_global_header
 gogy.com#@#.adbottom
+makeuseof.com#@#.addisclaimer
 golfwrx.com#@#.adops
 worldometers.info#@#.adright
 strawpoll.me#@#.ads
@@ -5975,6 +5951,7 @@ iogames.space#@#.view-id-advertisements
 probuilds.net#@#.welcome-bnr
 dealnews.com#@#.widget-ad
 fandom.com,gamepedia.com,muthead.com#@#.wikia-ad
+avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 slickdeals.net#@#[data-adlocation]
 dailywire.com#@#[id*="ScriptRoot"]
 destructoid.com#@#center > div > iframe
@@ -5983,10 +5960,28 @@ ncaa.com#@#div[id^="ad_rect_"]
 gamepedia.com#@#div[id^="cdm-zone"]
 dailywire.com#@#div[style^="max-width: 300px;"]
 dailywire.com#@#div[style^="width: 728px;"]
-makeuseof.com#@#.addisclaimer
-makeuseof.com#?#.addisclaimer:-abp-has(+ div:not([id^="BT_muo-"]))
-@@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|lotrointerface.com|mmoui.com|riftui.com|secretui.com|swtorui.com|wowinterface.com|fextralife.com|metasrc.com|nerfplz.com|poe.trade|wowhead.com|ygoprodeck.com
-avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
+makeuseof.com#?#.addisclaimer:-abp-has( + div:not([id^="BT_muo-"]))
+@@/packs/concert_ads-$script,domain=sbnation.com|sbndev.net
+@@||247chess.com/js/ads.js
+@@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
+@@||bt.fandom.com^$document,subdocument,domain=fandom.com
+@@||bt.wikia.com^$document,subdocument,domain=wikia.com
+@@||cdnjquery.com^$script,third-party
+@@||eb2.3lift.com/xuid^$image,third-party
+@@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
+@@||hb.vntsm.com^*/live/$script,xmlhttprequest,domain=venatusmedia.com
+@@||ib.3lift.com/xuid^$image,third-party
+@@||ib.adnxs.com/getuid^$image,third-party
+@@||ib.adnxs.com/mapuid^$image,third-party
+@@||ib.adnxs.com/px^$image,third-party
+@@||ib.adnxs.com/setuid^$image,third-party
+@@||lijit.com/bidder/impression
+@@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
+@@||secure.adnxs.com/getuid^$image,third-party
+@@||secure.adnxs.com/mapuid^$image,third-party
+@@||secure.adnxs.com/px^$image,third-party
+@@||secure.adnxs.com/setuid^$image,third-party
+@@||static.h-bid.com^$script,domain=morewords.com
 @@||tradecraft.s.llnwi.net/v1/pub/01/jja.js$domain=justjared.com
 @@||tradecraft.s.llnwi.net/v1/pub/01/jjh.js$domain=justjared.com
 @@||tradecraft.s.llnwi.net/v1/pub/02/jjra.js$domain=justjaredjr.com
@@ -5995,11 +5990,15 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 @@||tradecraft.s.llnwi.net/v1/pub/03/ac.js$domain=arcamax.com
 @@||tradecraft.s.llnwi.net/v1/pub/03/alla.js$domain=arcamax.com
 @@||tradecraft.s.llnwi.net/v1/pub/04/u.js$domain=uberhumor.com
-@@||tradecraft.s.llnwi.net/v1/pub/06/wf_d.js$domain=walterfootball.com
-@@||tradecraft.s.llnwi.net/v1/pub/06/wf_h.js$domain=walterfootball.com
-@@||tradecraft.s.llnwi.net/v1/pub/06/wf_else.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/06/wf_d.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/06/wf_else.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/06/wf_h.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com|walterfootball.com
+@@||videoplayerhub.com^$third-party
+@@||widget.perfectmarket.com/indiatoday-indiatoday/load.js$domain=indiatoday.in
+@@||widget.perfectmarket.com/indiatoday-indiatoday/pmk-201901001.13.js$domain=indiatoday.in
+@@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|fextralife.com|lotrointerface.com|metasrc.com|mmoui.com|nerfplz.com|poe.trade|riftui.com|secretui.com|swtorui.com|wowhead.com|wowinterface.com|ygoprodeck.com
 !:partner_token=Blockthrough Inc.
 !:partner_id=2b3e85777627e764
 !:type=partner
@@ -7115,18 +7114,18 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
-@@||jsc.lentainform.com^$script,domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||lentainform.com^$popup,domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||c.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||autocounter.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||s-img.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||cm.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||servicer.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||cdn.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-@@||marketgid.com/images/lentainform/$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com
-sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com#@#a[href*="lentainform.com/pnews/"]
-sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com#@#[id*="ScriptRoot"]
-sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com##div[id*="Composite"]:not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"])
+@@||jsc.lentainform.com^$script,domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||lentainform.com^$popup,domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||c.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||autocounter.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||s-img.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||cm.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||servicer.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||cdn.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||marketgid.com/images/lentainform/$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#a[href*="lentainform.com/pnews/"]
+sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#[id*="ScriptRoot"]
+sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com,tvzvezda.ru##div[id*="Composite"]:not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"]):not([id*="Composite626533"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7144,6 +7143,7 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
 @@/px.gif?ch=1&rn=$domain=gismeteo.ru
 /px.gif?ch=2&rn=$domain=gismeteo.ru
+@@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
 7days.ru#@#.b-section_content_partners-news
 tsargrad.tv#@#.article__banner
 www.gismeteo.ru#@#.widget-container
