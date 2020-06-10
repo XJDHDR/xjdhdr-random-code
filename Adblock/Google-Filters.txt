@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vlZqv+wmlsUxO0+Y+HL1sA
-! Version: 202006100200
+! Checksum: WxsjPj8AhxOzT3rym/m5Bw
+! Version: 202006101400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Jun 2020 02:00 UTC
+! Last modified: 10 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -162,6 +162,7 @@
 /googleAdScripts.
 /GoogleAdSense-
 /googleadsense.
+/googleadservices/*
 /googleadsmodule.
 /googleAdTaggingSubSec.
 /googleadunit?
@@ -4420,6 +4421,7 @@ _youtube_social_
 ##a[href^="http://digg.com/submit?"]
 ##a[href^="http://www.digg.com/submit?"]
 ##a[href^="http://www.google.com/bookmarks"]
+##a[href^="https://plus.google.com/share?"]
 ##a[href^="https://www.blogger.com/blog-this."]
 ##a[href^="https://www.blogger.com/share-post."]
 ##a[href^="https://www.xing.com/app/user?op=share;"]
@@ -5004,6 +5006,7 @@ digg.com#@#a[href^="http://www.digg.com/submit?"]
 livetv210.me#@#a[title="YouTube"]
 google.com,smugmug.com#@#button[title="Share"]
 digg.com#@#div[id^="digg-widget-"]
+bing.com#@##cc_container
 youtube.com#@##consent-bump
 vkmag.com#@##cookiesdirective
 bing.com,czuczu.pl#@#.cc-container

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PCmuodlJUbZUp2MmOXQkEA
-! Version: 202006100200
+! Checksum: kCJFHtHCNLxexQXXb1n+wg
+! Version: 202006101400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola
-! Last modified: 10 Jun 2020 02:00 UTC
+! Last modified: 10 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -397,6 +397,7 @@ celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yah
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#.Ad-Container
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
 yahoo.com#@#.Feedback
+yahoo.com#@#div[data-wf-beacons^="https://ir2.beap.gemini.yahoo.com/mbcsc?"]
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
