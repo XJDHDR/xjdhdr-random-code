@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4okzPWGsIjtM03sDsAj5Fw
-! Version: 202006101400
+! Checksum: 6c5LmTpkiySZkMQbHuAauw
+! Version: 202006110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Jun 2020 14:00 UTC
+! Last modified: 11 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1654,6 +1654,9 @@ thenoob.net#@#.adinjwidget
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=newsbreak.gr
 tempest.services.disqus.com#@##ad-container
+radiosarajevo.ba#@#.adloaded
+radiosarajevo.ba#@#.iAdserver
+polskiobserwator.de#@#.g1-advertisement
 escape.com.au#@#.widget_newscorpau_ads
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
@@ -6371,6 +6374,7 @@ tecmint.com#@##footer-ads
 @@||keytarget.adnet.lt/stable$script,third-party,xmlhttprequest,domain=118.lt|basketnews.lt|bernardinai.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt|sena.lt|supermama.lt|tax.lt|technologijos.lt|ve.lt
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
+@@||prod.adspsp.com/adb.3340835.min.js$domain=gfycat.com
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.paraloscuriosos.com/js/es/gpt$script,domain=paraloscuriosos.com
 @@||tasty.co/static-assets/tasty-ui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
@@ -7434,6 +7438,20 @@ sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides)
 @@||cdn.advertserve.com^*/wingg.advertserve.com/servlet/$image,domain=win.gg
 win.gg#@#a[href*="/servlet/click/zone?"]
 @@||ads.win.gg^$script,image,domain=win.gg
+!:partner_token=Rambler
+!:partner_id=0f379e9a30bc5b2e
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78046
+! Tracking by Rambler
+@@||ssp.rambler.ru/px.gif?ch=1^$image,domain=www.afisha.ru
+||ssp.rambler.ru/px.gif?ch=2^$image,domain=www.afisha.ru
+@@||img01.rambler.ru/file.jsp^$image,domain=www.afisha.ru
+@@||profile.ssp.rambler.ru/sync2.204^$image,domain=www.afisha.ru
+@@||ssp.rambler.ru/blockstat^$xmlhttprequest,domain=www.afisha.ru
+@@||ssp.rambler.ru/capirs_async.js^$script,domain=www.afisha.ru
+@@||ssp.rambler.ru/context.jsp^$xmlhttprequest,domain=afisha.ru
+@@||ads.adfox.ru/getid^$script,domain=www.afisha.ru
+@@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=www.afisha.ru
 !:partner_token=Adnet media
 !:partner_id=4d6e6ef13bfe4ac7
 !:type=partner
