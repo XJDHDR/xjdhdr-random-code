@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6c5LmTpkiySZkMQbHuAauw
-! Version: 202006110200
+! Checksum: s1KXxo2BtBNX2i0/kDpNGw
+! Version: 202006111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Jun 2020 02:00 UTC
+! Last modified: 11 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7449,7 +7449,8 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 @@||profile.ssp.rambler.ru/sync2.204^$image,domain=www.afisha.ru
 @@||ssp.rambler.ru/blockstat^$xmlhttprequest,domain=www.afisha.ru
 @@||ssp.rambler.ru/capirs_async.js^$script,domain=www.afisha.ru
-@@||ssp.rambler.ru/context.jsp^$xmlhttprequest,domain=afisha.ru
+@@||ssp.rambler.ru/context.jsp^$xmlhttprequest,domain=www.afisha.ru
+@@||ssp.rambler.ru/file.jsp^$xmlhttprequest,image,domain=www.afisha.ru
 @@||ads.adfox.ru/getid^$script,domain=www.afisha.ru
 @@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=www.afisha.ru
 !:partner_token=Adnet media
