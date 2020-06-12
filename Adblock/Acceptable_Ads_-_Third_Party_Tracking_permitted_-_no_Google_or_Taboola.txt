@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0lz+OZlf+L+zDYOSjfpWAA
-! Version: 202006120200
+! Checksum: sz1jxzqRtBhhwpqebkN74Q
+! Version: 202006121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 12 Jun 2020 02:00 UTC
+! Last modified: 12 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1315,20 +1315,6 @@ nationalinterest.org##.ad--center
 @@||thumbs*.begun.ru^$image,domain=glavpoezdrus.ru
 @@||profile.begun.ru^$image,domain=glavpoezdrus.ru,subdocument,document
 glavpoezdrus.ru#@#.ya-partner
-!:partner_token=Contilla
-!:partner_id=23e16911c9fefd74
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23245
-! Contilla ads
-@@||contilla-cdn.s3-eu-west-1.amazonaws.com/img/px.gif?ch=1&rn=*$domain=~wetteronline.de
-||contilla-cdn.s3-eu-west-1.amazonaws.com/img/px.gif?ch=2&rn=*$domain=~wetteronline.de
-@@||contilla.adspirit.de^$document
-@@||contilla.adspirit.de^$third-party
-@@||contilla.adspirit.de^$popup
-@@||adspirit.de^*^pid=133^$popup
-@@||adspirit.de^*^pid=133^$third-party
-@@||interaktiv.contilla.de/assets/$image
-motorsport-total.com#@#.adsonofftrigger
 !:partner_token=medspecial.ru
 !:partner_id=d33bfa6971be025e
 !:type=partner
@@ -7071,18 +7057,18 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
-@@||jsc.lentainform.com^$script,domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||lentainform.com^$popup,domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||c.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||autocounter.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||s-img.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||cm.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||servicer.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||cdn.lentainform.com^$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||marketgid.com/images/lentainform/$domain=sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#a[href*="lentainform.com/pnews/"]
-sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#[id*="ScriptRoot"]
-sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com,tvzvezda.ru##div[id*="Composite"]:not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"]):not([id*="Composite626533"])
+@@||jsc.lentainform.com^$script,domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||lentainform.com^$popup,domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||c.lentainform.com^$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||autocounter.lentainform.com^$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||s-img.lentainform.com^$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||cm.lentainform.com^$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||servicer.lentainform.com^$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||cdn.lentainform.com^$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+@@||marketgid.com/images/lentainform/$domain=teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
+teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#a[href*="lentainform.com/pnews/"]
+teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#[id*="ScriptRoot"]
+teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com,tvzvezda.ru##div[id*="Composite"]:not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"]):not([id*="Composite626533"]):not([id*="Composite689704"]):not([id*="Composite690200"]):not([id*="Composite721065"]):not([id*="Composite721350"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7102,6 +7088,7 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 /px.gif?ch=2&rn=$domain=gismeteo.ru
 @@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
 7days.ru#@#.b-section_content_partners-news
+7days.ru#@#.b-hz2_type_section
 tsargrad.tv#@#.article__banner
 www.gismeteo.ru#@#.widget-container
 gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
@@ -7110,6 +7097,9 @@ rambler.ru#@#.article__read-also
 rambler.ru#@#.article__banner
 rambler.ru#@#.traffic-blocks[class*="intresting"]
 rambler.ru#@#.article__partners
+fishki.net#@#[class^="partner-post"]
+fishki.net#@#[class^="partner-post"] *
+fishki.net#@#.content__sub-heading:-abp-contains(Новости партнёров)
 @@||an.yandex.ru/system/context.js$domain=clck.lentainform.com
 @@||yastatic.net/pcode/adfox/loader.js$domain=clck.lentainform.com
 @@||yandex.net/get-direct/$image,domain=clck.lentainform.com
@@ -7400,6 +7390,7 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 @@||ssp.rambler.ru/file.jsp^$xmlhttprequest,image,domain=www.afisha.ru
 @@||ads.adfox.ru/getid^$script,domain=www.afisha.ru
 @@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=www.afisha.ru
+@@||s0.2mdn.net/simgad^$image,domain=www.afisha.ru
 !:partner_token=Adnet media
 !:partner_id=4d6e6ef13bfe4ac7
 !:type=partner
