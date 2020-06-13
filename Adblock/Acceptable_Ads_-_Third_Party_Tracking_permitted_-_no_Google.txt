@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Uo+l3PvJlrRx2m+3JY5KiQ
-! Version: 202006121400
+! Checksum: 6WKj2wOiYpMTxx1LC4y/mg
+! Version: 202006130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Jun 2020 14:00 UTC
+! Last modified: 13 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1639,6 +1639,7 @@ thenoob.net#@#.adinjwidget
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=newsbreak.gr
+@@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
 tempest.services.disqus.com#@##ad-container
 radiosarajevo.ba#@#.adloaded
 radiosarajevo.ba#@#.iAdserver
@@ -6056,7 +6057,7 @@ skelbiu.lt#@##div[data-ad-id]
 appgamer.com#@##footAd
 colourlovers.com#@##ga-above-footer
 colourlovers.com#@##ga-below-header
-eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,theoi.com,wowinterface.com#@##header-ad
+commercialobserver.com,eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,theoi.com,wowinterface.com#@##header-ad
 parkers.co.uk#@##headerAd
 dnd-wiki.org#@##headerad
 itstillworks.com#@##inline-ad
@@ -6080,7 +6081,7 @@ thewordfinder.com#@##sidebar-advertisement
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
-tagged.com#@##topad
+aljazeera.com,tagged.com#@##topad
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@##topbanner
 girlgeniusonline.com,tovecomic.com#@##towerad
 draugas.lt#@#.AdBox
@@ -6106,7 +6107,7 @@ littlealchemy2.com#@#.ad-inner
 airportia.com#@#.ad-item
 simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
-bgr.com,j-14.com,komando.com,pmcqa.com#@#.ad-leaderboard
+zoosk.com,bgr.com,j-14.com,komando.com,pmcqa.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 smitefire.com#@#.ad-narrow
@@ -6133,7 +6134,7 @@ gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 littlealchemy.com#@#.adTop
 homes.com#@#.ad__container
-wikihow.com#@#.ad_label
+wikihow.com.tr,wikihow.it,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn,wikihow.com#@#.ad_label
 theweek.com#@#.ad_wrap
 itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
@@ -6206,7 +6207,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-goldderby.com#@#.header-ad
+commercialobserver.com,goldderby.com#@#.header-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
 fxp.co.il,pmcqa.com#@#.header-top-ad
@@ -6285,7 +6286,7 @@ theweek.com#@#.top-leaderboard-ad
 gfycat.com#@#.top-slot
 tagged.com#@#.top_ad
 op.gg#@#.vm-placement
-wikihow.com#@#.wh_ad_inner
+wikihow.com.tr,wikihow.it,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn,wikihow.com#@#.wh_ad_inner
 thefamouspeople.com#@#.widget-ad
 15min.lt#@#.widget.ads
 wnd.com#@#.widget_wnd_prom_widget
@@ -6326,6 +6327,32 @@ themarker.com#@#iframe[width="300"]
 ma3comic.com#@#img[width="468"][height="60"]
 tecmint.com#@##header-ads
 tecmint.com#@##footer-ads
+pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
+pokemoncoders.com#@#.td-a-ad
+pokemoncoders.com#@#.td-a-rec-id-custom_ad_5
+pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
+hltv.org#@#[href*="paripartners.ru"]
+hltv.org#@#[href*="bbfun88.com""]
+hltv.org#@#.f-col-top
+hltv.org#@#[class*="widget"]
+ratemyprofessors.com#@##ad728
+ratemyprofessors.com#@#.ad.banner
+wikihow.com.tr,wikihow.it,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn,wikihow.com#@#.ad_label_method
+slant.co#@#.AdContainer-Sidebar
+slant.co#@#.SummaryPage-HeaderAd
+slant.co#@#._SummaryPageHeaderAdView
+slant.co#@#._SummaryPageSidebarStickyAdView
+slant.co#@#._has-ads
+aljazeera.com#@#.top-adv
+aljazeera.com#@##rightsideadstop
+aljazeera.com#@#.sideAdv-wrapper
+aljazeera.com#@#.article-adv-right-sideBar
+zoosk.com#@#.ad-skyscraper
+essence.com#@#.ad-position
+willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-billboard
+willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-mobile-banner
+willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-mrec
+willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-banner-image
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -6390,6 +6417,12 @@ tecmint.com#@##footer-ads
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
+@@||cdn.exmarketplace.com/bidder/thesocialpost/thesocialpost_sf.dfp.js$domain=thesocialpost.it
+@@||cdn.exmarketplace.com/bidder/Ricetta/sf_ricetta.dfp.js$domain=ricetta.it
+@@||ads.cordlessmedia.com/ad-wrapper/90021/cm.min.js$domain=redfin.com
+@@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/v3/prebid3.5.0.js$domain=redfin.com
+@@||cdn.publift.com/fuse/tag/*/fuse.js$domain=cpubenchmark.net
+@@||cdn.fuseplatform.net/publift$domain=cpubenchmark.net
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7182,22 +7215,6 @@ elperiodico.com#@#.following-ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75345
 ! Ads by MGID
-@@||jsc.mgid.com^$domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|mg.mgid.com|sharknews.ru|gospodine365.ro|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||mgid.com^$popup,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||servicer.mgid.com^$script,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||s-img.mgid.com/g/$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||cdn.mgid.com/images/$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||cdn.mgid.com/js/wglibs/$script,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||cm.mgid.com^$script,image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||cm.lentainform.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||c.mgid.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||c.marketgid.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-@@||autocounter.lentainform.com^$image,domain=redactia.ro|click-or-die.ru|x-true.info|home.vn|goppresidential.com|dailyconservative.com|renewedright.com|whatfinger.com|medicaldaily.com|latintimes.com|ibtimes.com|politikstube.com|girlsaskguys.com|affaritaliani.it|rayon.in.ua|sharij.net|dreuz.info|sharknews.ru|gospodine365.ro|gazeta.ua|fishki.net|danviet.vn|stars24.cz|24molnia.com|ngoisao.vn|jagran.com|zestradar.com|voxbiz.ro|vov.vn|docbao.vn|sovkusom.ru|thenationonlineng.net|marathi.latestly.com|wowkeren.com|mid-day.com|angelhome.info|amizone.org|baophapluat.vn|svidok.online|ex-press.by|hypestat.com|vremea.net|5tds.ru|click.ro|soccernews.ru|romaniatv.net|venezuelaaldia.com|huff.ro|viralizeit.net|ballkaew.com|chuyengiadinh.club|liveleak.com|daily-russia.com|vieprincesse.com|avasta.me|good-day.xyz|in24.org|catalunyadiari.com|binarybusinessbay.com|flipvideo.co|genius.ge|artistacentral.com|tinthethao.com.vn|composion.ru|desprerelatii.net|radarbogor.id|singaporeuncensored.com|timesindonesia.co.id|indozone.id|kronologi.id|thegorbalsla.com|metro24jam.com
-redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com,vremea.net,5tds.ru,click.ro,soccernews.ru,romaniatv.net,venezuelaaldia.com,huff.ro,viralizeit.net,ballkaew.com,chuyengiadinh.club,liveleak.com,daily-russia.com,vieprincesse.com,avasta.me,good-day.xyz,in24.org,catalunyadiari.com,binarybusinessbay.com,flipvideo.co,genius.ge,artistacentral.com,tinthethao.com.vn,composion.ru,desprerelatii.net,radarbogor.id,singaporeuncensored.com,timesindonesia.co.id,indozone.id,kronologi.id,thegorbalsla.com,metro24jam.com#@#[id*="ScriptRoot"]
-redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com,vremea.net,5tds.ru,click.ro,soccernews.ru,romaniatv.net,venezuelaaldia.com,huff.ro,viralizeit.net,ballkaew.com,chuyengiadinh.club,liveleak.com,daily-russia.com,vieprincesse.com,avasta.me,good-day.xyz,in24.org,catalunyadiari.com,binarybusinessbay.com,flipvideo.co,genius.ge,artistacentral.com,tinthethao.com.vn,composion.ru,desprerelatii.net,radarbogor.id,singaporeuncensored.com,timesindonesia.co.id,indozone.id,kronologi.id,thegorbalsla.com,metro24jam.com#@#[id*="MarketGid"]
-redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com,vremea.net,5tds.ru,click.ro,soccernews.ru,romaniatv.net,venezuelaaldia.com,huff.ro,viralizeit.net,ballkaew.com,chuyengiadinh.club,liveleak.com,daily-russia.com,vieprincesse.com,avasta.me,good-day.xyz,in24.org,catalunyadiari.com,binarybusinessbay.com,flipvideo.co,genius.ge,artistacentral.com,tinthethao.com.vn,composion.ru,desprerelatii.net,radarbogor.id,singaporeuncensored.com,timesindonesia.co.id,indozone.id,kronologi.id,thegorbalsla.com,metro24jam.com#@#div[id^="M"][id*="Composite"]
-redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com,vremea.net,5tds.ru,click.ro,soccernews.ru,romaniatv.net,venezuelaaldia.com,huff.ro,viralizeit.net,ballkaew.com,chuyengiadinh.club,liveleak.com,daily-russia.com,vieprincesse.com,avasta.me,good-day.xyz,in24.org,catalunyadiari.com,binarybusinessbay.com,flipvideo.co,genius.ge,artistacentral.com,tinthethao.com.vn,composion.ru,desprerelatii.net,radarbogor.id,singaporeuncensored.com,timesindonesia.co.id,indozone.id,kronologi.id,thegorbalsla.com,metro24jam.com#@#a[href^="//www.mgid.com/"]
-redactia.ro,click-or-die.ru,x-true.info,home.vn,goppresidential.com,dailyconservative.com,renewedright.com,whatfinger.com,medicaldaily.com,latintimes.com,ibtimes.com,politikstube.com,girlsaskguys.com,affaritaliani.it,rayon.in.ua,sharij.net,dreuz.info,mg.mgid.com,sharknews.ru,gospodine365.ro,gazeta.ua,fishki.net,danviet.vn,stars24.cz,24molnia.com,ngoisao.vn,jagran.com,zestradar.com,voxbiz.ro,vov.vn,docbao.vn,sovkusom.ru,thenationonlineng.net,marathi.latestly.com,wowkeren.com,mid-day.com,angelhome.info,amizone.org,baophapluat.vn,svidok.online,ex-press.by,hypestat.com,vremea.net,5tds.ru,click.ro,soccernews.ru,romaniatv.net,venezuelaaldia.com,huff.ro,viralizeit.net,ballkaew.com,chuyengiadinh.club,liveleak.com,daily-russia.com,vieprincesse.com,avasta.me,good-day.xyz,in24.org,catalunyadiari.com,binarybusinessbay.com,flipvideo.co,genius.ge,artistacentral.com,tinthethao.com.vn,composion.ru,desprerelatii.net,radarbogor.id,singaporeuncensored.com,timesindonesia.co.id,indozone.id,kronologi.id,thegorbalsla.com,metro24jam.com##div[id*="Composite"]:not([id*="Composite372965"]):not([id*="Composite104436"]):not([id*="Composite382327"]):not([id*="Composite379813"]):not([id*="Composite218421"]):not([id*="Composite184242"]):not([id*="Composite308258"]):not([id*="Composite319781"]):not([id*="Composite307820"]):not([id*="Composite224019"]):not([id*="Composite224016"]):not([id*="Composite382583"]):not([id*="Composite723385"]):not([id*="Composite366074"]):not([id*="Composite683513"]):not([id*="Composite287514"]):not([id*="Composite365766"]):not([id*="Composite778963"]):not([id*="Composite752564"]):not([id*="Composite335106"]):not([id*="Composite356663"]):not([id*="Composite787001"]):not([id*="Composite655472"]):not([id*="Composite398038"]):not([id*="Composite392192"]):not([id*="Composite344395"]):not([id*="Composite721053"]):not([id*="Composite351331"]):not([id*="Composite319586"]):not([id*="Composite323340"]):not([id*="Composite271350"]):not([id*="Composite858450"]):not([id*="Composite748110"]):not([id*="Composite344144"]):not([id*="Composite755460"]):not([id*="Composite399473"]):not([id*="Composite753375"]):not([id*="Composite300899"]):not([id*="Composite323320"]):not([id*="Composite746926"]):not([id*="Composite744442"]):not([id*="Composite195441"]):not([id*="Composite392267"]):not([id*="Composite811369"]):not([id*="Composite400055"]):not([id*="Composite309792"]):not([id*="Composite367666"]):not([id*="Composite190772"]):not([id*="Composite369932"]):not([id*="Composite768898"]):not([id*="Composite785608"]):not([id*="Composite345471"]):not([id*="Composite781810"]):not([id*="Composite807585"]):not([id*="Composite852215"]):not([id*="Composite207337"]):not([id*="Composite742185"]):not([id*="Composite388887"]):not([id*="Composite321149"]):not([id*="Composite722886"]):not([id*="Composite675888"]):not([id*="Composite788679"]):not([id*="Composite798800"]):not([id*="Composite726660"]):not([id*="Composite869522"]):not([id*="Composite392289"]):not([id*="Composite849680"]):not([id*="Composite703906"]):not([id*="Composite706850"]):not([id*="Composite352373"]):not([id*="Composite787001"]):not([id*="Composite863815"]):not([id*="Composite46470"]):not([id*="Composite842946"]):not([id*="Composite850481"]):not([id*="Composite870132"]):not([id*="Composite880746"]):not([id*="Composite880745"]):not([id*="Composite187680"]):not([id*="Composite372508"]):not([id*="Composite187678"]):not([id*="Composite346273"])
 politikstube.com#@#div[class*="td-a-rec-id-"]
 politikstube.com#@#.td-a-rec
 girlsaskguys.com#@#.ad-slot
@@ -7212,12 +7229,16 @@ baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
 kronologi.id#@#.ads-wrapper
 kronologi.id#@#.ads_code
+vocedinapoli.it#@#.quads-location
+padangkita.com#@#.ads_code
+padangkita.com#@#.ads-wrapper
 @@||jsc.marketgid.com^$domain=gazeta.ua|sharij.net
 @@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
 @@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
+@@||s-img.steepto.com/g^$image,domain=teksty-pesenok.ru|click-test.com
 !:partner_token=Lemonde.fr
 !:partner_id=e6ee3ec59227327c
 !:type=partner
