@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1I+Iv1BS/W/9ysRa3VvcGw
-! Version: 202006150200
+! Checksum: ahOem/huoHudTGYVG6Q6gg
+! Version: 202006151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Jun 2020 02:00 UTC
+! Last modified: 15 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7449,6 +7449,7 @@ domoplius.lt,vinted.lt,musumazyliai.lt#ad-leaderboard
 @@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=extra.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
+@@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||delivery.performax.cz/sklik/$domain=g.cz
 @@||delivery.performax.cz^*_rtb/$domain=cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 @@||cdn.performax.cz/acc/*_rtb.js$domain=cnews.cz|smartmania.cz|electropiknik.cz|g.cz
@@ -7461,6 +7462,8 @@ extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
 electropiknik.cz#@#.td-header-ad-wrap
 g.cz#@#.desktop-ads
+cnews.cz#@#.adgmleaderboard 
+cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
@@ -8078,6 +8081,7 @@ reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
+247wallst.com##.ad-div.sidebar-div.stickLoop.boxD
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
