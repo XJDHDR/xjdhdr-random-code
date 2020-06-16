@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M8khrtds7j6pOTk926/ptw
-! Version: 202006160200
+! Checksum: ADRS/xgzr7W6ENhPwSphnw
+! Version: 202006161400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 16 Jun 2020 02:00 UTC
+! Last modified: 16 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1178,7 +1178,7 @@ abcfamily.go.com,livestrong.com,mega.mu#@#.adBlock
 thoughtcatalog.com#@#.adChoicesLogo
 thelog.com#@#.adbutton
 pcmag.com#@#.adkit
-advancedrenamer.com,epicbundle.com,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle
+advancedrenamer.com,epicbundle.com,korail.pe.kr,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle
 starbike.com#@#.adsense_wrapper
 staircase.pl#@#.adwords
 youtube.com#@#.ddb
@@ -5025,7 +5025,7 @@ youtube.com#@#[title="Share to Facebook"]
 digg.com#@#a[href^="http://digg.com/submit?url="]
 digg.com#@#a[href^="http://www.digg.com/submit?"]
 livetv210.me#@#a[title="YouTube"]
-google.com,smugmug.com#@#button[title="Share"]
+google.com,office.com,smugmug.com#@#button[title="Share"]
 digg.com#@#div[id^="digg-widget-"]
 bing.com#@##cc_container
 youtube.com#@##consent-bump
