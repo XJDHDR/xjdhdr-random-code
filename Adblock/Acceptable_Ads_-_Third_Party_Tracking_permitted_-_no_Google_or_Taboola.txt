@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ahOem/huoHudTGYVG6Q6gg
-! Version: 202006151400
+! Checksum: Pr1k014+qipd5mDQubGXqg
+! Version: 202006160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Jun 2020 14:00 UTC
+! Last modified: 16 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5948,6 +5948,15 @@ makeuseof.com#?#.addisclaimer:-abp-has( + div:not([id^="BT_muo-"]))
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
 ! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
+imgur.com#@#.ad-slot
+incrivel.club#@##advert_1
+aljazeera.com#@#.TopAdContainer
+unpasted.com#@#.ad_placeholder
+lexicanum.com#@##sidebar-ad
+lexicanum.com#@#.ADBox
+lexicanum.com#@#.ADbox
+lexicanum.com#@#.AdBox
+lexicanum.com#@#.adBox
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
 westeros.org#@##HeaderAd
@@ -6305,7 +6314,7 @@ willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-banner-image
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 @@||9to5toys.com^*/assets/js/vendor/prebid1.$script
-@@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=movoto.com|neren.com|neren.com
+@@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=movoto.com|neren.com|redfin.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=movoto.com|redfin.com
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
@@ -6366,10 +6375,8 @@ willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-banner-image
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder/thesocialpost/thesocialpost_sf.dfp.js$domain=thesocialpost.it
 @@||cdn.exmarketplace.com/bidder/Ricetta/sf_ricetta.dfp.js$domain=ricetta.it
-@@||ads.cordlessmedia.com/ad-wrapper/90021/cm.min.js$domain=redfin.com
-@@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/v3/prebid3.5.0.js$domain=redfin.com
-@@||cdn.publift.com/fuse/tag/*/fuse.js$domain=cpubenchmark.net
 @@||cdn.fuseplatform.net/publift$domain=cpubenchmark.net
+@@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7428,7 +7435,7 @@ autogidas.lt#@#a[href^=""]
 autogidas.lt#@#.img_ad
 domoplius.lt,vinted.lt,musumazyliai.lt#@#.ad-leaderboard
 domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-rectangle
-domoplius.lt,vinted.lt,musumazyliai.lt#ad-leaderboard
+domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
