@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q6n6ZLSvO0x+iF3O6SbeKA
-! Version: 202006161400
+! Checksum: DsCgt5OBy/O9zTuav6SOXw
+! Version: 202006170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Jun 2020 14:00 UTC
+! Last modified: 17 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7511,19 +7511,26 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||delivery.performax.cz/sklik/$domain=g.cz
-@@||delivery.performax.cz^*_rtb/$domain=cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/1.js$domain=cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-||cdn.performax.cz/acc/2.js$domain=cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||imp.performax.cz^$domain=extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
+@@||delivery.performax.cz^*_rtb/$domain=avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/1.js$domain=avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+||cdn.performax.cz/acc/2.js$domain=avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||imp.performax.cz^$domain=avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
 electropiknik.cz#@#.td-header-ad-wrap
 g.cz#@#.desktop-ads
-cnews.cz#@#.adgmleaderboard 
-cnews.cz#@#[data-ad-client][data-ad-slot]
+cnews.cz#@#.adgmleaderboard
+efotbal.cz#@##ads-leaderboard
+efotbal.cz#@#.widget-ads
+efotbal.cz#@##Squere-A
+efotbal.cz#@##widgetSquere-Dlazdice
+efotbal.cz#@##Squere-Special
+efotbal.cz#@#.widget.widget-featured-news
+efotbal.cz#@##Rectangle
+avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
