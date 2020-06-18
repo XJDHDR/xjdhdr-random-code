@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: u1Jj9CaaSeHDeewCeboKMw
-! Version: 202006170200
+! Checksum: xo9zoCj5RJ8SJX5nakhpFA
+! Version: 202006180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Jun 2020 02:00 UTC
+! Last modified: 18 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2862,9 +2862,17 @@ thevarsity.ca#@#.ad-med-rect
 @@||scds.pmdstatic.net/advertising-core/*/prebid.js$domain=gala.fr
 @@||scds.pmdstatic.net/advertising-core/*/core-ads.js$domain=gala.fr
 @@||scds.pmdstatic.net/advertising-core/*/brandsconfig/gal-config.json$domain=gala.fr
-@@||5a2583d7dd16c25cb2e8-358d15e499fca729302e63598be13736.ssl.cf3.rackcdn.com/ads/prebid.js$domain=kleiderkreisel.de
+@@||5a2583d7dd16c25cb2e8-358d15e499fca729302e63598be13736.ssl.cf3.rackcdn.com/ads/prebid.js$domain=kleiderkreisel.de|vinted.fr|vinted.be|vinted.es|vinted.lu|vinted.nl|vinted.pl|vinted.cz|mamikreisel.de|kleiderkreisel.at
 @@||antenasport.ro/templates/default/js/prebid*.js$domain=antenasport.ro
 @@||js.sapo.pt/Projects/CPU/*/prebid*.js$domain=sapo.pt
+@@||a1.ro/templates/default/js/prebid*.js$domain=a1.ro
+@@||observatornews.ro/templates/default/js/prebid*.js$domain=observatornews.ro
+@@||code.adsales.snidigital.com/datmcp/mcp-loader.js$domain=hgtv.com
+@@||code.adsales.snidigital.com/datmcp/3/DatMCP*.js$domain=hgtv.com
+@@||code.adsales.snidigital.com/conf/ads-config.js$domain=hgtv.com
+@@||code.adsales.snidigital.com/datmcp/3/prebid*.js$domain=hgtv.com
+hgtv.com#@#.o-Leaderboard
+hgtv.com#@#.bigbox-ad
 retailmenot.com#@#.adunitContainer
 retailmenot.com#@#.adBox
 ~mmo-champion.com,~giga.de#@#div[id^="crt-"][style*="width:"]
@@ -6376,6 +6384,25 @@ willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-banner-image
 @@||cdn.exmarketplace.com/bidder/thesocialpost/thesocialpost_sf.dfp.js$domain=thesocialpost.it
 @@||cdn.exmarketplace.com/bidder/Ricetta/sf_ricetta.dfp.js$domain=ricetta.it
 @@||cdn.fuseplatform.net/publift$domain=cpubenchmark.net
+@@||a.pub.network/iwastesomuchtime/pubfig.min.js$domain=iwastesomuchtime.com
+@@||a.pub.network/krunker-io/pubfig.min.js$domain=krunker.io
+@@||a.pub.network/stocktwits-com/pubfig.min.js$domain=stocktwits.com
+@@||a.pub.network/worldofsolitaire-com/pubfig.min.js$domain=worldofsolitaire.com
+@@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
+@@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
+@@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
+@@||cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?sec=home&misc=1591301986443$domain=gamepedia.com
+@@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=gamepedia.com
+@@||cdm.cursecdn.com/js/woot/cdmfactorem_min.js?sec=home&amp;misc=1591376658676$domain=woot.com
+@@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=woot.com
+@@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
+@@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=op.gg|mobafire.com|futbin.com
+@@||rafvertizing.crazygames.com/rafvertizing-v2.js$domain=crazygames.com
+@@||s.imgur.com/min/gallery.js?1591118015$domain=imgur.com
+@@||www.daily-choices.com/why-this-hotel-amenity-is-a-must-have-when-traveling-with-kids/?xcmg=1$domain=daily-choices.com
+@@||js.daily-choices.com/staging/clientside/scripts/dist/app-log.js?v=p200602085422-9$domain=daily-choices.com
+@@||www.daily-choices.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-bd84ff2dfea5cb577fdad6dce1a48093?v=p200602085422-9$domain=daily-choices.com
+@@||www.ynet.co.il/home/0,7340,L-8,00.html$domain=ynet.co.il
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591

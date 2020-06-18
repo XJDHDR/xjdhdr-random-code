@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vkmlAujbFrC62YaanlBMPQ
-! Version: 202006170200
+! Checksum: NRW9v84PYRPfBfDzvUwQqw
+! Version: 202006180200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 Jun 2020 02:00 UTC
+! Last modified: 18 Jun 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2865,6 +2865,7 @@ ballerstatus.com,cellular-news.com,prowrestling.com,rivals.com##td[width="728"]
 internetslang.com##tr[style="min-height:28px;height:28px"]
 internetslang.com##tr[style="min-height:28px;height:28px;"]
 ! youtube
+youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###feedmodule-PRO
 youtube.com###homepage-chrome-side-promo
