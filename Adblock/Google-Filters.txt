@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NRW9v84PYRPfBfDzvUwQqw
-! Version: 202006180200
+! Checksum: F7GdvNf5uFvcDA12gk2xsg
+! Version: 202006181400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Jun 2020 02:00 UTC
+! Last modified: 18 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2310,6 +2310,7 @@ nykdaily.com##.adsbygoogle
 armageddonexpo.com,blockchair.com,cointelegraph.com,jpost.com,mmorpg.com,rugby365.com##.banner
 carmag.co.za##.banner-container
 androidweblog.com##.cgdyh > [data-adid]
+thehackernews.com##.google
 laptopmag.com##.hawk-review-container
 pcworld.idg.com.au##.module-rhs-brandpost
 belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,essexlive.news,examiner.co.uk,football.london,gazettelive.co.uk,getreading.co.uk,getsurrey.co.uk,gfycat.com,glasgowlive.co.uk,gloucestershirelive.co.uk,grimsbytelegraph.co.uk,hertfordshiremercury.co.uk,hulldailymail.co.uk,irishmirror.ie,kentlive.news,lancs.live,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.top-slot
