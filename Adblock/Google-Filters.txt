@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I1MwQIwiJKeiRD3dEBblsw
-! Version: 202006190200
+! Checksum: zwPKKS6UW1uf0PmzOSkS6g
+! Version: 202006191400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Jun 2020 02:00 UTC
+! Last modified: 19 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1121,7 +1121,6 @@ _reklama_$domain=~youtube.com
 ##.youtubeSuperLeaderOverallAdArea
 ##[ad-id^="googlead"]
 ##a[href*=".bang.com/"][href*="&aff="]
-##a[href*="googleme.eu"]
 ##a[href^="//pubads.g.doubleclick.net/"]
 ##a[href^="http://ad-apac.doubleclick.net/"]
 ##a[href^="http://ad-emea.doubleclick.net/"]
@@ -1531,13 +1530,11 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||gwohimtyhbthg.com^$third-party
 ||gzxdkaytxdsyxg.com^$third-party
 ||hcqjgkpg.com^$third-party
-||hcycanmscyg.com^$third-party
 ||hhdwgxmrvwyg.com^$third-party
 ||hmjtutipevtmg.com^$third-party
 ||hoghqjddg.com^$third-party
 ||horvmygebyg.com^$third-party
 ||hoyqhygv.com^$third-party
-||hqsgnzvjkyog.com^$third-party
 ||hsgatgymg.com^$third-party
 ||hsqujerwg.com^$third-party
 ||humpqretttg.com^$third-party
@@ -1775,7 +1772,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||focuusing.com^$popup
 ||friendlyduck.com^$popup
 ||googleads.g.doubleclick.net^$popup,third-party
-||googleme.eu^$popup,third-party
 ||integral-marketing.com^$popup,third-party
 ||maomaotang.com^$popup,third-party
 ||media-serving.com^$popup,third-party
@@ -3021,6 +3017,7 @@ boobieblog.com##td[align="center"][width="20%"]
 @@||doubleclick.net/gpt/pubads_impl_$script,domain=accuweather.com|epaper.timesgroup.com|espn.com|nbcsports.com|webmd.com
 @@||emergencymedicalparamedic.com/wp-content/themes/AdSense/style.css
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=gamespot.com
+@@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=fox35orlando.com|imasdk.googleapis.com
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=9gag.com|accuweather.com|gamespot.com|webmd.com|womenshealthmag.com
 @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
