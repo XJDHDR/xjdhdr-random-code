@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zwPKKS6UW1uf0PmzOSkS6g
-! Version: 202006191400
+! Checksum: WspTa54vW0TS8UXtKKcaag
+! Version: 202006200200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Jun 2020 14:00 UTC
+! Last modified: 20 Jun 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1820,6 +1820,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||amazonaws.com^$script,subdocument,domain=americanlookout.com|bittorrent.am|flagandcross.com|gelbooru.com|grantorrent.net|hdvid.tv|macupload.net|mp3goo.com|ndtv.com|onvid.fun|onvid.pw|openloadmovies.bz|replaytvstreaming.com|streamplay.to|thelibertydaily.com|thevideobee.to|usersfiles.com|vidhd.icu|vidhd.pw|vshare.eu
 ||associmg.com^*.gif?tag-
 ||banman.isoftmarketing.com^$third-party
+||booking.com^$subdocument,domain=ekathimerini.com
 ||booking.com^*;tmpl=banner_
 ||cars.fyidriving.com^$subdocument,third-party
 ||cdn.ndparking.com/js/init.min.js
