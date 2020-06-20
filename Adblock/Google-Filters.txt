@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WspTa54vW0TS8UXtKKcaag
-! Version: 202006200200
+! Checksum: XeiArUa5xzk1jZ79ro6rIg
+! Version: 202006201400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 20 Jun 2020 02:00 UTC
+! Last modified: 20 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1541,7 +1541,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||hxwgfumgg.com^$third-party
 ||hyurzuxoksg.com^$third-party
 ||ikupicwg.com^$third-party
-||ilkphyyzg.com^$third-party
 ||ipbiydocgvllrg.com^$third-party
 ||isxwajatbig.com^$third-party
 ||iwapwcqg.com^$third-party
@@ -1552,14 +1551,12 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||jhceybuguvureg.com^$third-party
 ||jikottnbg.com^$third-party
 ||jipzvmzzycg.com^$third-party
-||jkcvevwvgfopog.com^$third-party
 ||jlkadizug.com^$third-party
 ||jmykbogg.com^$third-party
 ||jorsdbphuyng.com^$third-party
 ||jotpybmcjvg.com^$third-party
 ||jpmpvhelfeg.com^$third-party
 ||jrvcwxubg.com^$third-party
-||juqakqgv.com^$third-party
 ||jvqbbfrg.com^$third-party
 ||jzgskqccroqg.com^$third-party
 ||kcarnzeaipjssg.com^$third-party
@@ -1575,13 +1572,11 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||lajpmujdntg.com^$third-party
 ||ldqxdxtkepveg.com^$third-party
 ||leijsdpbkgobg.com^$third-party
-||lgjqgatg.com^$third-party
 ||llgvjtkg.com^$third-party
 ||llpdtbmowsg.com^$third-party
 ||lmlvzeeag.com^$third-party
 ||lnicyniqxdxg.com^$third-party
 ||logkzudhrg.com^$third-party
-||loteumepag.com^$third-party
 ||lpoggqfdlmdsg.com^$third-party
 ||ltjvgpxg.com^$third-party
 ||lxhkqjqpswhg.com^$third-party
