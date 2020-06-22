@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +ZXifTq4ejAVPqBxi5wi5g
-! Version: 202006220200
+! Checksum: Sci59EHRCjdGG/uJIvpiCg
+! Version: 202006221400
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 22 Jun 2020 02:00 UTC
+! Last modified: 22 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -398,23 +398,23 @@ javascript.info#@##sponsorBar
 @@||leadlocal.com/search^$elemhide
 @@||kol.com/search^$elemhide
 !
-yahoo.com,~mail.yahoo.com#@#.rmx-ad
-yahoo.com,~mail.yahoo.com#@#.adlink
-yahoo.com,~mail.yahoo.com#@#.featured-ads
-yahoo.com,~mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
-yahoo.com,~mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/"]
-yahoo.com,~mail.yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
-yahoo.com,~mail.yahoo.com#@#li[id^="ad-"]
-yahoo.com,~mail.yahoo.com#@#.js-stream-featured-ad
-yahoo.com,~mail.yahoo.com#@#.js-stream-ad
-yahoo.com,~mail.yahoo.com#@#.stream-ad
-yahoo.com,~mail.yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
-yahoo.com,~mail.yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
-yahoo.com,~mail.yahoo.com#@#div[style*="/ads/"]
-yahoo.com,~mail.yahoo.com#@#.ad-content
-yahoo.com,~mail.yahoo.com#@#.wafer-beacon
-yahoo.com,~mail.yahoo.com#@#.native-leaderboard-ad
-yahoo.com,~mail.yahoo.com#@#.pencil-ad-section
+yahoo.com#@#.rmx-ad
+yahoo.com#@#.adlink
+yahoo.com#@#.featured-ads
+yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
+yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/"]
+yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
+yahoo.com#@#li[id^="ad-"]
+yahoo.com#@#.js-stream-featured-ad
+yahoo.com#@#.js-stream-ad
+yahoo.com#@#.stream-ad
+yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
+yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
+yahoo.com#@#div[style*="/ads/"]
+yahoo.com#@#.ad-content
+yahoo.com#@#.wafer-beacon
+yahoo.com#@#.native-leaderboard-ad
+yahoo.com#@#.pencil-ad-section
 yahoo.com##a[href*="beap.gemini.yahoo.com/mbclk?"] > img[src*=".gif"]
 @@||yimg.com/av/moneyball/ads/$image,domain=yahoo.com|~mail.yahoo.com
 @@||yimg.com/av/curveball/ads/$image,domain=yahoo.com|~mail.yahoo.com

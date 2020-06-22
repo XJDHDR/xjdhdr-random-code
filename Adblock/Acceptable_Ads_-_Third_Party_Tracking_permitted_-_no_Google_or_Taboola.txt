@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dt/Qg5E4sEFf+UqS+fslJg
-! Version: 202006220200
+! Checksum: 8vpdSW0WmBeZr4Czy+ejjw
+! Version: 202006221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Jun 2020 02:00 UTC
+! Last modified: 22 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5956,6 +5956,12 @@ makeuseof.com#?#.addisclaimer:-abp-has( + div:not([id^="BT_muo-"]))
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
 ! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
+hollywoodpq.com#@#.footer-ad 
+hollywoodpq.com#@#.header-ad
+ratemyprofessors.com#@##ad-container
+metservice.com#@#.BannerAd
+manofmany.com#@#.adsload
+manofmany.com#@#.sticky-ad
 imgur.com#@#.ad-slot
 incrivel.club#@##advert_1
 aljazeera.com#@#.TopAdContainer
@@ -6340,7 +6346,7 @@ willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-banner-image
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
-@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com
+@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
 @@||dronedj.com^*/assets/js/vendor/prebid1.$script
 @@||electrek.co^*/assets/js/vendor/prebid1.$script
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
@@ -6403,6 +6409,7 @@ willyweather.com.au,willyweather.co.uk,willyweather.com#@#.ad-banner-image
 @@||js.daily-choices.com/staging/clientside/scripts/dist/app-log.js?v=p200602085422-9$domain=daily-choices.com
 @@||www.daily-choices.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-bd84ff2dfea5cb577fdad6dce1a48093?v=p200602085422-9$domain=daily-choices.com
 @@||www.ynet.co.il/home/0,7340,L-8,00.html$domain=ynet.co.il
+@@||tags-cdn.deployads.com/a/hollywoodpq.com.js$domain=hollywoodpq.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -9996,23 +10003,23 @@ javascript.info#@##sponsorBar
 @@||leadlocal.com/search^$elemhide
 @@||kol.com/search^$elemhide
 !
-yahoo.com,~mail.yahoo.com#@#.rmx-ad
-yahoo.com,~mail.yahoo.com#@#.adlink
-yahoo.com,~mail.yahoo.com#@#.featured-ads
-yahoo.com,~mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
-yahoo.com,~mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/"]
-yahoo.com,~mail.yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
-yahoo.com,~mail.yahoo.com#@#li[id^="ad-"]
-yahoo.com,~mail.yahoo.com#@#.js-stream-featured-ad
-yahoo.com,~mail.yahoo.com#@#.js-stream-ad
-yahoo.com,~mail.yahoo.com#@#.stream-ad
-yahoo.com,~mail.yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
-yahoo.com,~mail.yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
-yahoo.com,~mail.yahoo.com#@#div[style*="/ads/"]
-yahoo.com,~mail.yahoo.com#@#.ad-content
-yahoo.com,~mail.yahoo.com#@#.wafer-beacon
-yahoo.com,~mail.yahoo.com#@#.native-leaderboard-ad
-yahoo.com,~mail.yahoo.com#@#.pencil-ad-section
+yahoo.com#@#.rmx-ad
+yahoo.com#@#.adlink
+yahoo.com#@#.featured-ads
+yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
+yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/"]
+yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
+yahoo.com#@#li[id^="ad-"]
+yahoo.com#@#.js-stream-featured-ad
+yahoo.com#@#.js-stream-ad
+yahoo.com#@#.stream-ad
+yahoo.com#@#a[target="_blank"][href^="https://beap.gemini.yahoo.com/mbclk?"]
+yahoo.com#@#div[data-beacon] > div[class*="streamBoxShadow"]
+yahoo.com#@#div[style*="/ads/"]
+yahoo.com#@#.ad-content
+yahoo.com#@#.wafer-beacon
+yahoo.com#@#.native-leaderboard-ad
+yahoo.com#@#.pencil-ad-section
 yahoo.com##a[href*="beap.gemini.yahoo.com/mbclk?"] > img[src*=".gif"]
 @@||yahoo.com^*/av/moneyball/ads/$image,domain=~mail.yahoo.com
 @@||yahoo.com^*/av/curveball/ads/$image,domain=~mail.yahoo.com
