@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g9wMFQXILwGQhZ+TiJWQZQ
-! Version: 202006211400
+! Checksum: 5GdzBim+7/Ec42q9PSLW+A
+! Version: 202006220200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Jun 2020 14:00 UTC
+! Last modified: 22 Jun 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1742,11 +1742,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||zkfjgzonjvg.com^$third-party
 ||zlegojgwg.com^$third-party
 ||zmasxytjskg.com^$third-party
-||zperfcaskqrxug.com^$third-party
-||zqeskyeg.com^$third-party
 ||zqmxzjrhchg.com^$third-party
-||zwpaujzg.com^$third-party
-||zxaoudwcljrtig.com^$third-party
 ||zzlayejqlzcg.com^$third-party
 ||ojujyjjgg.com^$image,third-party
 ||polawrg.com^$image,third-party
@@ -1798,7 +1794,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||lwxjg.com^$third-party
 ||mncvjhg.com^$third-party
 ||seekbang.com^$third-party
-||your-big.com^$third-party
 ||youtube.local^$third-party
 ||cam4tracking.com^$popup,third-party
 ||clockdisplaystoring.com^$popup
