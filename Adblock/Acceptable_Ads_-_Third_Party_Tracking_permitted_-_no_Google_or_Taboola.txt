@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8vpdSW0WmBeZr4Czy+ejjw
-! Version: 202006221400
+! Checksum: 2lwKv3neERRvz+hdBqvnCA
+! Version: 202006230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Jun 2020 14:00 UTC
+! Last modified: 23 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7310,12 +7310,12 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||delivery.performax.cz/sklik/$domain=g.cz
-@@||delivery.performax.cz^*_rtb/$domain=euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/1.js$domain=euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-||cdn.performax.cz/acc/2.js$domain=euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||imp.performax.cz^$domain=euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
+@@||delivery.performax.cz^*_rtb/$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/1.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+||cdn.performax.cz/acc/2.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||imp.performax.cz^$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
@@ -7334,7 +7334,7 @@ euro.cz#@##ad-skyscaper-upper
 euro.cz#@##ad-skyscraper-lower
 euro.cz#@##ad-leaderboard-lower
 euro.cz#@##ad-inarticle-lower
-euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
+vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
