@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AdpIebI5e0zxe6Wu/tP1aQ
-! Version: 202006240200
+! Checksum: OaMV290rC4oYrcQipoxs3g
+! Version: 202006241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Jun 2020 02:00 UTC
+! Last modified: 24 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -246,6 +246,7 @@ reddit.com#@#.promotedlink
 reddit.com#@#a[href^="http://bs.serving-sys.com/"]
 reddit.com#@##ad_main
 reddit.com#@##ad_main_top
+reddit.com#@#.Post:-abp-has(a[href^="https://alb.reddit.com/cr?"])
 reddit.com##.promotedvideolink
 @@||z.moatads.com^$image,domain=reddit.com
 @@||secure-gl.imrworldwide.com^$image,domain=reddit.com
@@ -285,20 +286,6 @@ reddit.com##.promotedvideolink
 @@||s.imgsynd.com^$image,domain=reddit.com
 @@||ads.revjet.com^$image,domain=reddit.com
 @@||p.dlx.addthis.com^$image,domain=reddit.com
-! reddit.com###adblock-test
-! reddit.com#@#.dfp-ad-container
-! reddit.com#@#.img_ad
-! reddit.com#@##ad_1
-! reddit.com#@##ad_2
-! reddit.com#@##ad_3
-! reddit.com#@##ad_4
-! reddit.com#@##ad_5
-! reddit.com#@##ad_6
-! reddit.com#@##ad_7
-! reddit.com#@##ad_8
-! reddit.com#@##ad_9
-! @@||amazon-adsystem.com^$domain=reddit.com
-! @@||amazon-adsystem.com^$document,domain=reddit.com
 !:partner_token=Leaf Group Ltd.
 !:partner_id=e31a5334f5ff4b55
 !:type=partner
