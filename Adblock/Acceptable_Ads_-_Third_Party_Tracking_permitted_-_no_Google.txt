@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FuoLnMyXib/RVAhAA6ualg
-! Version: 202006241400
+! Checksum: aUoKNqqyHhl7yehLjFzNEw
+! Version: 202006250200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Jun 2020 14:00 UTC
+! Last modified: 25 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7361,6 +7361,8 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 ! AntiAdblock Ads
 @@||h.imedia.cz^$domain=extra.cz
 @@||d.imedia.cz^$domain=extra.cz
+@@||ssp.imedia.cz^$~script,domain=extra.cz
+||ssp.imedia.cz/static/js/ssp.js$domain=extra.cz
 @@||delivery.performax.cz/aab_bottom_rtb/extra?$domain=extra.cz
 @@||delivery.performax.cz/bigsquare_rtb/$domain=extra.cz|moulik.cz|lidovky.cz
 @@||delivery.performax.cz/bigsquare2_rtb/$domain=extra.cz|lidovky.cz
@@ -7381,6 +7383,7 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 @@||cdn.performax.cz/acc/1.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 ||cdn.performax.cz/acc/2.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 @@||imp.performax.cz^$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc_files^$image,domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
