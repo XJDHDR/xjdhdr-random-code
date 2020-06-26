@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dW1n17LsgeioiTa7t2mUGw
-! Version: 202006251400
+! Checksum: mTO2bAo0pRaLEU8pp7dEfw
+! Version: 202006260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Jun 2020 14:00 UTC
+! Last modified: 26 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6367,6 +6367,12 @@ indiewire.com#@#iframe[style][scrolling]
 indiewire.com#@#iframe[style][src]
 themarker.com#@#iframe[width="300"]
 ma3comic.com#@#img[width="468"][height="60"]
+manofmany.com#@##stickyad
+lse.co.uk#@#.right-ad
+lse.co.uk#@#.header__ad
+lse.co.uk#@#.ad_block
+socialblade.com#@##bottomAd
+shliza.com,epiqlife.com,tradingdraft.com,foodfortravel.com,mindfulgazette.com,simpleblitz.com,economicr.com,scientificfeed.com#@#.ad_placeholder
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -6390,7 +6396,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
-@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
+@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=shliza.com|epiqlife.com|tradingdraft.com|foodfortravel.com|mindfulgazette.com|simpleblitz.com|economicr.com|scientificfeed.com|dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
 @@||dronedj.com^*/assets/js/vendor/prebid1.$script
 @@||electrek.co^*/assets/js/vendor/prebid1.$script
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
@@ -6401,6 +6407,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||keytarget.adnet.lt/stable$script,third-party,xmlhttprequest,domain=118.lt|basketnews.lt|bernardinai.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt|sena.lt|supermama.lt|tax.lt|technologijos.lt|ve.lt
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
+@@||massariuscdn.com/pubs/f1maximaal/f1maximaal_adtech_setup.js$domain=f1maximaal.nl
 @@||prod.adspsp.com/adb.3340835.min.js$domain=gfycat.com
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.paraloscuriosos.com/js/es/gpt$script,domain=paraloscuriosos.com
@@ -6475,6 +6482,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
+@@||a.pub.network^$script,domain=greatschools.org
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -7403,6 +7411,7 @@ euro.cz#@##ad-skyscaper-upper
 euro.cz#@##ad-skyscraper-lower
 euro.cz#@##ad-leaderboard-lower
 euro.cz#@##ad-inarticle-lower
+euro.cz#@#div[id^="ad-leaderboard"]
 vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
