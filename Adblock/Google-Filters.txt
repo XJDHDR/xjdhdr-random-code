@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XaqH8dy7I6qTA1Wy86sNKQ
-! Version: 202006260200
+! Checksum: eT/FwsS7Kay3pgk0q8DAvw
+! Version: 202006261400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 Jun 2020 02:00 UTC
+! Last modified: 26 Jun 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2049,7 +2049,6 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||ajax.googleapis.com^$script,third-party,domain=uploadocean.com
 @@||video.twimg.com^$xmlhttprequest,domain=twitter.com
 @@||fonts.googleapis.com^$stylesheet,domain=yify.is
-@@||ajax.googleapis.com/ajax/libs/$script,domain=gdtot.com
 @@||googletagservices.com/tag/js/gpt.js$domain=theinquirer.net
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=theinquirer.net
 @@||tpc.googlesyndication.com/pagead/imgad?id=$image,domain=theinquirer.net
