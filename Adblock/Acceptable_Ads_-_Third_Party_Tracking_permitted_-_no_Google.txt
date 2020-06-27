@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Bwkx2DIfZzoij6n5Ztz9FA
-! Version: 202006261400
+! Checksum: gqtCo3+3xEM5WNQy55LTWQ
+! Version: 202006270200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Jun 2020 14:00 UTC
+! Last modified: 27 Jun 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6482,7 +6482,7 @@ shliza.com,epiqlife.com,tradingdraft.com,foodfortravel.com,mindfulgazette.com,si
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=greatschools.org
+@@||a.pub.network^$script,domain=greatschools.org|sears.com|kmart.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -9638,9 +9638,12 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
 ! Ads by Yahoo! Partner Ads
 @@||gemini.yahoo.com^*^syndication^$script,domain=stylevamp.de
-huffingtonpost.co.uk#@#.ad_bottom_margin_10
-huffingtonpost.co.uk#@#ad_spot
-huffingtonpost.co.uk#@#.gemini-native-ad
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#div[class^="gemini-ad"]
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#.ad_bottom_margin_10
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#ad_spot
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#.gemini-native-ad
+huffpostbrasil.com#@#.advertisement
+huffpostbrasil.com#@#.desktop_dynamic_ad
 huffpost.com#@#.ad-container
 engadget.com#@#.ad-title
 www.aol.com#@#.gemini-placeholder
