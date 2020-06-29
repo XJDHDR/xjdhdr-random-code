@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wxwPVfBTFH8hT+mupvyRDw
-! Version: 202006290200
+! Checksum: iMvpQhvqrJhZMO4gE0LUjA
+! Version: 202006291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Jun 2020 02:00 UTC
+! Last modified: 29 Jun 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7870,6 +7870,7 @@ testpages.adblockplus.org#@##abptest
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
 @@||ads.talkscreativity.com/assets/publisher/ittelefoninonet/init.js$domain=telefonino.net
 @@||ads.talkscreativity.com/assets/engine/*/engine.min.js$domain=telefonino.net
+@@||global.proper.io/payloads/*.js$domain=notalwaysright.com
 ||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 ! temp
 @@||sharethrough.com^$domain=redditad.com
@@ -8007,7 +8008,7 @@ gamerevolution.com,titantv.com#@#.leaderboard
 capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.leaderboard-ad
 comingsoon.net#@#.leaderboard-ad-container
 motorsport.com#@#.ms-ap
-dotesports.com,gamepur.com#@#.proper-ad-unit
+dotesports.com,gamepur.com,notalwaysright.com#@#.proper-ad-unit
 agame.com,boredpanda.com#@#.pub_300x250
 billboard.com#@#.rail-ad
 agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.sgAd
@@ -8019,7 +8020,7 @@ bjpenn.com#@#.td-a-rec-id-custom_ad_3
 bjpenn.com#@#.td-a-rec-id-custom_ad_4
 bjpenn.com#@#.td-a-rec-id-custom_ad_5
 charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
-boredpanda.com#@#.text-ad
+boredpanda.com,comingsoon.net#@#.text-ad
 forbes.com#@#.top-ad-container
 comingsoon.net,gamerevolution.com#@#.widget_evolve_ad_gpt_widget
 forbes.com#@#FBS-AD
@@ -9638,17 +9639,17 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
 ! Ads by Yahoo! Partner Ads
 @@||gemini.yahoo.com^*^syndication^$script,domain=stylevamp.de
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#div[class^="gemini-ad"]
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#.ad_bottom_margin_10
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#ad_spot
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com#@#.gemini-native-ad
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#div[class^="gemini-ad"]
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.ad_bottom_margin_10
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.ad_spot
+huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.gemini-native-ad
+www.aol.com,stylevamp.de,huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.sponsor-text
 huffpostbrasil.com#@#.advertisement
 huffpostbrasil.com#@#.desktop_dynamic_ad
 huffpost.com#@#.ad-container
 engadget.com#@#.ad-title
 www.aol.com#@#.gemini-placeholder
 huffpost.com#@#.readmo-item-ad
-www.aol.com,stylevamp.de#@#.sponsor-text
 engadget.com#@#.sponsored-links
 huffpost.com#@#.taboola
 !:partner_token=Oath
