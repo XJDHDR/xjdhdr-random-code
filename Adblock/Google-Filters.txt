@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cKP6CdS9AW9JDmwhrwD8fA
-! Version: 202006281400
+! Checksum: yU788C5+SCLgLfKd3z4DBA
+! Version: 202006290200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 28 Jun 2020 14:00 UTC
+! Last modified: 29 Jun 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1673,13 +1673,11 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||taljnpgg.com^$third-party
 ||tcgqqmjyg.com^$third-party
 ||tfbqvqclg.com^$third-party
-||tfhuupltipcg.com^$third-party
 ||tgugqkjvinvgv.com^$third-party
 ||thuneagjhnvlg.com^$third-party
 ||tlkhzqmrg.com^$third-party
 ||tnvghrlg.com^$third-party
 ||tptfopotrzg.com^$third-party
-||ttdtuwbxgyveg.com^$third-party
 ||ttomktasfnqlg.com^$third-party
 ||tylzbdkjsjig.com^$third-party
 ||uclylhzwg.com^$third-party
@@ -1698,7 +1696,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||vkudpjuvg.com^$third-party
 ||vlyuopulvewg.com^$third-party
 ||vnjeqfwmotkvbg.com^$third-party
-||vpndcpxavg.com^$third-party
 ||vpwlynobnnqg.com^$third-party
 ||vrmuyscnqgsg.com^$third-party
 ||wbhcemppdg.com^$third-party
@@ -2758,7 +2755,7 @@ icmag.com##a[href^="/banners.php?"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 lightreading.com##a[href^="/partner-perspectives/"]
 premiumtimesng.com##a[href^="http://allhealthsol.com/"]
-armorgames.com,getios.com,iamdisappoint.com,myrls.se,nypost.com,odiamusic.mobi,shitbrix.com,speakbet.com,tattoofailure.com,techotopia.com,tempobet300.net,theedge.co.nz,thehackernews.com,thevoicebw.com,wapking.cc,waploft.com##a[href^="http://goo.gl/"]
+armorgames.com,getios.com,iamdisappoint.com,myrls.se,nypost.com,odiamusic.mobi,shitbrix.com,speakbet.com,tattoofailure.com,techotopia.com,theedge.co.nz,thehackernews.com,thevoicebw.com,wapking.cc,waploft.com##a[href^="http://goo.gl/"]
 ancient-origins.net,wideopenspaces.com##a[href^="http://goo.gl/"] > img
 thejointblog.com##a[href^="http://movieandmusicnetwork.com/content/cg/"] > img
 thejointblog.com##a[href^="http://sensiseeds.com/refer.asp?refid="] > img
