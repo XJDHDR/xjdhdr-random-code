@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gulx0FX1vDje/pvOJN9dCQ
-! Version: 202006301400
+! Checksum: AWxuhrpWM9VDuHYeIw6uqA
+! Version: 202007010200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Jun 2020 14:00 UTC
+! Last modified: 01 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4039,7 +4039,6 @@ usasupreme.com###revslider
 katrinapierson.com,patriotbeat.com,truthfeednews.com,themindfuel.com,guyhut.com#@#.quads-location
 truthfeednews.com#@##quads-ad2
 truthfeednews.com#@#.quads-ad2
-wnd.com#@#[style*="background-image:"]
 cbsnews.com#@#.ad-unit
 conservativeflash.com#@##mvp-post-bot-ad
 sunsigns.org##.e3lan-top
@@ -6482,7 +6481,17 @@ shliza.com,epiqlife.com,tradingdraft.com,foodfortravel.com,mindfulgazette.com,si
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=greatschools.org|sears.com|kmart.com
+@@||a.pub.network^$script,domain=greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com
+@@^x-kinja-static/assets/new-client/trackers.0df168682f7cd87994ab.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
+@@^x-kinja-static/assets/new-client/runtime~trackers.83877260061b4d6ce009.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
+@@||x.kinja-static.com/assets/new-client/runtime~frontPage.9c59709f2aba9c3fad49.js$script,domain=kotaku.com
+@@||jscdn.yieldbird.com/12527aa1-f103-4e57-a82c-e56b88dbada6/yb.v2.js$script,domain=jooble.org
+@@||static.tmz.com/tmz-web/client/v1.18/main.desktop.e07ea066.js$script,domain=tmz.com
+@@||keytarget.adnet.lt/stable/keytarget.min.js?id=delfi_lt$script,domain=delfi.lt
+@@||slot1-images.wikia.nocookie.net/__am/1591209093284/groups/-/abtesting,$script,domain=fandom.com
+@@||nexus.ensighten.com/hearst/mag/code/064e36d4f498f1ee59be46d7fc1207b6.js$script,domain=delish.com
+@@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
+@@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -7317,6 +7326,188 @@ doramatv.live#@#.middle_ba
 ! comparis.ch
 comparis.ch#@#.ad-slot
 comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
+!:partner_token=mail.ru
+!:partner_id=509a8ec73c103ec4
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
+! mail.ru ads
+@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|sportmail.ru
+@@||ad.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||yandex.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||yandex.ru^$popup,domain=mail.ru|sportmail.ru|mradx.net
+@@||yandex.net^$domain=mail.ru|sportmail.ru|mradx.net
+@@||yastatic.net^$domain=mail.ru|sportmail.ru|mradx.net
+||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|sportmail.ru
+@@||adfox.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||ad.adriver.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||doubleverify.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||hit.gemius.pl^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||pixel.adsafeprotected.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||ar.tns-counter.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||z.moatads.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||wcm-ru.frontend.weborama.fr^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||dmg.digitaltarget.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||track.rutarget.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||r.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||t.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||rs.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||r0.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||bs.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||b2.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||mradx.net^$domain=mail.ru|sportmail.ru
+@@||serving-sys.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||springserve.com^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||weborama.fr^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||adform.net^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||relap.io^$domain=mail.ru|sportmail.ru
+@@||coub.com^$domain=mail.ru|sportmail.ru
+@@||vk.com^$domain=mail.ru|sportmail.ru
+@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=mail.ru|sportmail.ru|mradx.net
+mail.ru,sportmail.ru#@##advWrapper
+mail.ru,sportmail.ru#@##yandex_ad
+mail.ru,sportmail.ru#@#.adsblock
+mail.ru,sportmail.ru#@#.advert
+mail.ru,sportmail.ru#@#.article__item_conversionlink
+mail.ru,sportmail.ru#@#.block .cols .rb-video-widget
+mail.ru,sportmail.ru#@#.box[class*=" rb_"]
+mail.ru,sportmail.ru#@#.js-banner
+mail.ru,sportmail.ru#@#.js-fixed-panel .box:-abp-has([class*="spring"])
+mail.ru,sportmail.ru#@#.js-fixed-panel > .box_collapse
+mail.ru,sportmail.ru#@#.js-fixed-panel > .js-smoky-single
+mail.ru,sportmail.ru#@#.js-fixed-panel > .rb-slot
+mail.ru,sportmail.ru#@#.js-popup_banner
+mail.ru,sportmail.ru#@#.js-popup_gallery .viewbox__side
+mail.ru,sportmail.ru#@#.js-smoky-end
+mail.ru,sportmail.ru#@#.js-smoky-end > .rb_loaded
+mail.ru,sportmail.ru#@#.js-smoky-single
+mail.ru,sportmail.ru#@#.m-photo-stories__banner
+mail.ru,sportmail.ru#@#.mailru-visibility-check
+mail.ru,sportmail.ru#@#.mailru-visibility-check div[style*="250"]
+mail.ru,sportmail.ru#@#.mailru-visibility-check iframe
+mail.ru,sportmail.ru#@#.mailru-visibility-check-counter + div
+mail.ru,sportmail.ru#@#.mailru-visibility-check-counter ~ div
+mail.ru,sportmail.ru#@#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
+mail.ru,sportmail.ru#@#.mailru-visibility-check:-abp-has([target="_blank"])
+mail.ru,sportmail.ru#@#.p-directhack
+mail.ru,sportmail.ru#@#.rb
+mail.ru,sportmail.ru#@#.rb-relap
+mail.ru,sportmail.ru#@#.rb-slot:-abp-has([id*="yandex_"])
+mail.ru,sportmail.ru#@#.rb_banner
+mail.ru,sportmail.ru#@#.rb_banner:-abp-has(*)
+mail.ru,sportmail.ru#@#.sticky-springs__item
+mail.ru,sportmail.ru#@#.tgb-wrapper
+mail.ru,sportmail.ru#@#[class=^"ymarket-affiliate"]
+mail.ru,sportmail.ru#@#[class^="Direct"]
+mail.ru,sportmail.ru#@#[class^="direct"]
+mail.ru,sportmail.ru#@#[class^="Yandex"]
+mail.ru,sportmail.ru#@#[class^="yandex"]
+mail.ru,sportmail.ru#@#[data-rb]
+mail.ru,sportmail.ru#@#[data-view^="SlotView.mimic"]
+mail.ru,sportmail.ru#@#[id="yandex_ad"]
+mail.ru,sportmail.ru#@#a[href*="https://relap.io/r?"]
+mail.ru,sportmail.ru#@#body > div[style^="z-index:"]
+mail.ru,sportmail.ru#@#body > iframe[src*="blob:"]
+mail.ru,sportmail.ru#@#body [class*="o"] .r-source:-abp-has(> * *)
+mail.ru,sportmail.ru#@#body [class*="o"] .r-source:-abp-has(> *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="trg-"]
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="trg-"]:-abp-has(> * *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="trg-"]:-abp-has(> *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="yandex_ad"]
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> * *)
+mail.ru,sportmail.ru#@#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> *)
+mail.ru,sportmail.ru#@#div[class*=" rb_"]
+mail.ru,sportmail.ru#@#div[class^="Direct"]
+mail.ru,sportmail.ru#@#div[class^="rb_"]
+mail.ru,sportmail.ru#@#div[data-adq-id]
+mail.ru,sportmail.ru#@#div[id^="yandex_ad"]
+mail.ru,sportmail.ru#@#div[id^="yandex_rtb"]
+mail.ru,sportmail.ru#@#iframe[width="240"][height="400"]
+mail.ru,sportmail.ru#@#img[width="240"][height="200"]
+mail.ru,sportmail.ru#@#tr > .daynews__spring
+! Main
+mail.ru#@#.pulse-lenta
+mail.ru#@#.pulse-lenta a[href*="t.mail.ru/redir"]
+mail.ru#@#.rectangle-banner
+mail.ru#@#div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
+! Pulse, main
+pulse.mail.ru#@#div[class^="pl_"]:-abp-has(> * > [href*="t.mail.ru/redir"])
+! Auto
+auto.mail.ru#@#.cols__wrapper div[style^="position"]:-abp-has([class*="height_400"])
+auto.mail.ru#@#.cols__wrapper div[style^="position"]:-abp-has([id^="mailru"])
+auto.mail.ru#@#.js-slot-parallax-inner
+auto.mail.ru#@#.rb_loaded.rb_main-240x400.js-module
+auto.mail.ru#@#[class*="grid"] > .grid__item_banner
+auto.mail.ru#@#body > div div > center div[class^="rb-criteo-"]
+! Clouds (without mail)
+cloud.mail.ru#@#.content__along > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
+cloud.mail.ru#@#.public__content > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
+cloud.mail.ru#@#.w-public__content > .b-layout div[id][class][style="width: 240px;"]
+! For parents (about children)
+deti.mail.ru#@#.cols__inner > [data-module="Toggle.comments"] ~ div[class^="margin_bottom_"]
+! Home, sweet home
+dom.mail.ru#@#.cols__inner > .article ~ .margin_top_20
+! Mail
+e.mail.ru#@##app-canvas .layout__overflow-container > .advert-column > .slot
+e.mail.ru#@##app-canvas .layout__overflow-container > .slot
+e.mail.ru#@##message-sent__rb-center-container
+e.mail.ru#@#.b-viewer__advert__line
+e.mail.ru#@#.layer-sent-page__banner
+e.mail.ru#@#.letter-list-item-adv
+! Health (without vseapteki.ru)
+health.mail.ru#@#.column_sidebar .margin_bottom_20:-abp-has([data-adq-id])
+health.mail.ru#@#div[class*="page"] .rb
+health.mail.ru#@#div[class*="page"] div[data-adq-id]
+! Hi-tech (without wowsale.ru)
+hi-tech.mail.ru#@#.branding-p
+hi-tech.mail.ru#@#.cols__column_right > .cols__inner > :not(.m-subscription)
+hi-tech.mail.ru#@#.grid__item_banner
+hi-tech.mail.ru#@#.pc-branding
+! Horoscope
+horo.mail.ru#@#.cols__column_sidebar.cols__column > .cols__inner > :not(.p-nat)
+horo.mail.ru#@#.cols__inner > div[id^="mailru"]
+horo.mail.ru#@#.incut
+horo.mail.ru#@#.p-box[class*=" rb_"]
+horo.mail.ru#@#.rb-floating
+horo.mail.ru#@#[class*="pc-branding"]
+horo.mail.ru#@#div[class^="p-branding"]
+! Сinema, trailer
+kino.mail.ru#@#.cols__inner > div[class*=" rb_"] ~ .padding_top_20
+kino.mail.ru#@#body .block [class] > div[class*="commerc"]
+! Lady
+lady.mail.ru#@#.layout .js-module .block[id^="rb"]
+! News
+news.mail.ru#@#.block [class]:-abp-has(> * > [class]:-abp-contains(/^Реклама/))
+news.mail.ru#@#.daynews > table tr > td:last-child
+news.mail.ru#@#div:-abp-has(> * > .sourceInformer_bks)
+news.mail.ru#@#div:-abp-has(> * > a[href*="t.mail.ru/redir"])
+news.mail.ru#@#div[class*="rb_"]:-abp-has([id*="yandex_"])
+news.mail.ru#@#div[class]:not(.leaflet-map-pane)[style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
+! Responses (42)
+otvet.mail.ru#@#div[class*="adv-slot-"]
+otvet.mail.ru#@#body > iframe[src*="blob:"]
+otvet.mail.ru#@#.mailru-visibility-check:-abp-has([target="_blank"])
+! Pets
+pets.mail.ru#@#[data-name="bottom ad"]
+pets.mail.ru#@#[data-name="top ad"]
+! Weather
+pogoda.mail.ru#@#.branding
+pogoda.mail.ru#@#.forecast-branding-link
+pogoda.mail.ru#@#.informer_type-1-kstl
+pogoda.mail.ru#@#.sticky-springs > .advert
+pogoda.mail.ru#@#direct_bottom
+pogoda.mail.ru#@#div[class*="directhack"]
+pogoda.mail.ru#@#div[class*="rb-direct"]
+pogoda.mail.ru#@#right_300x300
+! Realty
+realty.mail.ru#@#.layout .js-module .rb
+realty.mail.ru#@#.sticky-springs
+realty.mail.ru#@#div[class][data-module^="TopMail.Special."]
+! TV
+tv.mail.ru#@#.rbtopblock
+tv.mail.ru#@#div[class][id^="mailru"]
+! Sport
+sportmail.ru#@#.box_double ~ .box_double
+sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
 !:type=partner
