@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kXpJIVdCIGIczRkOXlIOJQ
-! Version: 202007010200
+! Checksum: hfA4648rXlpr+TnYHJOp5w
+! Version: 202007011400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 01 Jul 2020 02:00 UTC
+! Last modified: 01 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6319,6 +6319,11 @@ lse.co.uk#@#.header__ad
 lse.co.uk#@#.ad_block
 socialblade.com#@##bottomAd
 shliza.com,epiqlife.com,tradingdraft.com,foodfortravel.com,mindfulgazette.com,simpleblitz.com,economicr.com,scientificfeed.com#@#.ad_placeholder
+fossbytes.com#@#.td-header-ad-wrap
+greatschools.org#@#.ad-bar
+greatschools.org#@#.ad-column
+greatschools.org#@#.ad
+probuilds.net#@#.overlay-ad
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -6439,6 +6444,8 @@ shliza.com,epiqlife.com,tradingdraft.com,foodfortravel.com,mindfulgazette.com,si
 @@||nexus.ensighten.com/hearst/mag/code/064e36d4f498f1ee59be46d7fc1207b6.js$script,domain=delish.com
 @@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
+@@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
+@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=nookazon.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
