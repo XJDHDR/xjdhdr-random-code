@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RtWMqke0YO+skQubhPG+kA
-! Version: 202007021400
+! Checksum: OkZGeaXu20eJWeCnbJ+E2Q
+! Version: 202007030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Jul 2020 14:00 UTC
+! Last modified: 03 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6455,6 +6455,7 @@ probuilds.net#@#.overlay-ad
 @@||cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?sec=home&misc=1591301986443$domain=gamepedia.com
 @@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=gamepedia.com
 @@||cdm.cursecdn.com/js/woot/cdmfactorem_min.js?sec=home&amp;misc=1591376658676$domain=woot.com
+@@||cdm.cursecdn.com/js/socialblade/cdmfactorem_min.js?misc=1591301407275$domain=socialblade.com
 @@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=woot.com
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
 @@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=op.gg|mobafire.com|futbin.com
@@ -6486,7 +6487,7 @@ probuilds.net#@#.overlay-ad
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com
+@@||a.pub.network^$script,domain=greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@^x-kinja-static/assets/new-client/trackers.0df168682f7cd87994ab.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@^x-kinja-static/assets/new-client/runtime~trackers.83877260061b4d6ce009.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@||x.kinja-static.com/assets/new-client/runtime~frontPage.9c59709f2aba9c3fad49.js$script,domain=kotaku.com
