@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 25JkvaqhMoN0F5dW7Q1LKg
-! Version: 202007051400
+! Checksum: 27ejH+8EEc9vZ9MXBFtPMw
+! Version: 202007060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Jul 2020 14:00 UTC
+! Last modified: 06 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1366,6 +1366,8 @@ t-online.de###Tsib > DIV[onfocus="A('mp=TopPartner')"]
 t-online.de#@##Tcontboxi + #Tgboxf
 t-online.de#@#.Tpcpx + #Tasf > div[id][style]
 t-online.de#@##Tall > .Tpcpx + #Tasf
+t-online.de#@#a[href*=".adform.net/"]
+t-online.de#@#a[href^="https://track.adform.net/C/?bn="]
 @@||ad*.adfarm1.adition.com/banner?sid=$image,domain=t-online.de
 @@||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 @@||ads.newtention.net/ads?$popup,domain=t-online.de
@@ -1374,6 +1376,9 @@ t-online.de#@##Tall > .Tpcpx + #Tasf
 @@||bs.serving-sys.com^$popup,domain=t-online.de
 ||stats.t-online.de/px.js?ch=2$domain=t-online.de
 @@||stats.t-online.de/px.js?ch=1$domain=t-online.de
+@@||www.t-online.de^$csp
+@@||partner.shop.vorwerk.de/?RefID=PerfMed_PV
+@@||imagesrv.adition.com/1x1.gif|$image,domain=t-online.de
 !:partner_token=pkmn.net
 !:partner_id=32e19194e675864b
 !:type=partner
