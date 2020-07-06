@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TAYPI85LsY0CoiXv0F8ozQ
-! Version: 202007060200
+! Checksum: +Q61qn5ulDNHqotOdE658g
+! Version: 202007061400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 06 Jul 2020 02:00 UTC
+! Last modified: 06 Jul 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -5046,7 +5046,7 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
 @@||amazonaws.com/mibbit/gfx/youtube.png
 @@||androidpit.info/userfiles/*image/youtube-logo-
-@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
 @@||authy.com/wp-content/themes/authy/assets/images/icons/google-authenticator.svg
 @@||cdn.syndication.twimg.com/tweets.json
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com

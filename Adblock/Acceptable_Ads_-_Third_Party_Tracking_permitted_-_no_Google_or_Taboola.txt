@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 27ejH+8EEc9vZ9MXBFtPMw
-! Version: 202007060200
+! Checksum: bPKroQIXCQHDmc6KouF+KQ
+! Version: 202007061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Jul 2020 02:00 UTC
+! Last modified: 06 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7523,25 +7523,16 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 @@||d.imedia.cz^$domain=extra.cz
 @@||ssp.imedia.cz^$~script,domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 ||ssp.imedia.cz/static/js/ssp.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||delivery.performax.cz/aab_bottom_rtb/extra?$domain=extra.cz
-@@||delivery.performax.cz/bigsquare_rtb/$domain=extra.cz|moulik.cz|lidovky.cz
-@@||delivery.performax.cz/bigsquare2_rtb/$domain=extra.cz|lidovky.cz
-@@||delivery.performax.cz/leaderboard_rtb/$domain=extra.cz|moulik.cz|lidovky.cz
-@@||delivery.performax.cz/aab_rtb/extra?$domain=extra.cz
-@@||delivery.performax.cz/rectangle_rtb/moulik_cz?$domain=moulik.cz
-@@||delivery.performax.cz/wallpaper_rtb/lidovky_cz?$domain=lidovky.cz
-@@||delivery.performax.cz/wallpaper2_rtb/lidovky_cz?$domain=lidovky.cz
-@@||delivery.performax.cz/wallpaper3_rtb/lidovky_cz?$domain=lidovky.cz
 @@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||delivery.performax.cz/sklik/$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 @@||cdn.performax.cz/acc/accp.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||delivery.performax.cz^*_rtb/$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/1.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-||cdn.performax.cz/acc/2.js$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||delivery.performax.cz^*_rtb/$domain=moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/1.js$domain=moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+||cdn.performax.cz/acc/2.js$domain=moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 @@||imp.performax.cz^$domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 @@||cdn.performax.cz/acc_files^$image,domain=vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
