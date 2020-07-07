@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LWPT2UoKICabegM8Q0leng
-! Version: 202007061400
+! Checksum: pZBy+MBlMwIp35DWc0a/9w
+! Version: 202007070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 06 Jul 2020 14:00 UTC
+! Last modified: 07 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1376,7 +1376,6 @@ t-online.de#@#a[href^="https://track.adform.net/C/?bn="]
 @@||bs.serving-sys.com^$popup,domain=t-online.de
 ||stats.t-online.de/px.js?ch=2$domain=t-online.de
 @@||stats.t-online.de/px.js?ch=1$domain=t-online.de
-@@||www.t-online.de^$csp
 @@||partner.shop.vorwerk.de/?RefID=PerfMed_PV
 @@||imagesrv.adition.com/1x1.gif|$image,domain=t-online.de
 !:partner_token=pkmn.net
