@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mNCCkmSnjjpWZYOO20EyNw
-! Version: 202007071400
+! Checksum: 9Y2UZmcJZlS0RszLxoLV/Q
+! Version: 202007080200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 07 Jul 2020 14:00 UTC
+! Last modified: 08 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4684,6 +4684,9 @@ pressfire.no,framerate.no#@#.ad-top
 pressfire.no,framerate.no#@#.ad-center
 pressfire.no#@#a[href^="http://track.adform.net/"]
 pressfire.no#@#a[href^="https://track.adform.net/"]
+pressfire.no#@#a[href*=".adform.net/"]
+pressfire.no#@#.adform-adbox
+pressfire.no#@#div[id^="div-gpt-ad"]
 !:partner_token=Addoor Native Ads
 !:partner_id=df14e98d7a9a587c
 !:type=partner
@@ -6504,6 +6507,7 @@ probuilds.net#@#.overlay-ad
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
 @@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=nookazon.com
+@@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -7573,21 +7577,21 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 ! AntiAdblock Ads
 @@||h.imedia.cz^$domain=extra.cz
 @@||d.imedia.cz^$domain=extra.cz
-@@||ssp.imedia.cz^$~script,domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-||ssp.imedia.cz/static/js/ssp.js$domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||ssp.imedia.cz^$~script,domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+||ssp.imedia.cz/static/js/ssp.js$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
-@@||delivery.performax.cz/sklik/$domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||cdn.performax.cz/acc/accp.js$domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||delivery.performax.cz^*_rtb/$domain=centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/1.js$domain=centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-||cdn.performax.cz/acc/2.js$domain=centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||imp.performax.cz^$domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc_files^$image,domain=centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
+@@||delivery.performax.cz/sklik/$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||cdn.performax.cz/acc/accp.js$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||delivery.performax.cz^*_rtb/$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/1.js$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+||cdn.performax.cz/acc/2.js$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||imp.performax.cz^$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc_files^$image,domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
@@ -7607,7 +7611,7 @@ euro.cz#@##ad-skyscraper-lower
 euro.cz#@##ad-leaderboard-lower
 euro.cz#@##ad-inarticle-lower
 euro.cz#@#div[id^="ad-leaderboard"]
-centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
+centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
