@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QFUR4LqnIPIjSnxVwsQ7LQ
-! Version: 202007081400
+! Checksum: ihXO6EMkxTBrzKXRDoU9Tw
+! Version: 202007090200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Jul 2020 14:00 UTC
+! Last modified: 09 Jul 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1255,6 +1255,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||bptracking.com^$third-party
 ||buywing.com^$third-party
 ||cash-duck.com^$third-party
+||cdn.flashtalking.com^$third-party
 ||combotag.com^$third-party
 ||creative-serving.com^$third-party
 ||defaultimg.com^$third-party
@@ -1418,7 +1419,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||runadtag.com^$third-party
 ||s24hc8xzag.com^$third-party
 ||sedoparking.com^$third-party
-||servedby.flashtalking.com/imp/$script,third-party
+||servedby.flashtalking.com/imp/$script,third-party,xmlhttprequest
 ||shaunoog.com^$third-party
 ||smarttargetting.co.uk^$third-party
 ||smarttargetting.com^$third-party
@@ -2891,6 +2892,7 @@ m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-single-option-survey-renderer
 youtube.com##ytd-video-masthead-ad-v3-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
