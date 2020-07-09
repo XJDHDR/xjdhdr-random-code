@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j3HzKS0HCfPabZb1pFyvrQ
-! Version: 202007090200
+! Checksum: dkUP+oYCQGhfhTpH6ZzxdA
+! Version: 202007091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 09 Jul 2020 02:00 UTC
+! Last modified: 09 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -462,19 +462,19 @@ tsvbodnegg.de#@##text-5
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15362
 ! computerbase.de ads
-! computerbase.de#@#.content-list__ad-label
-! computerbase.de#@#.article-view__rectangle
-! computerbase.de#@#.article-view__footer-ad
-! computerbase.de#@#.adbox-wrapper
-! computerbase.de#@#.adbox-rectangle
-! computerbase.de#@#.block1--ads
-! computerbase.de#@##afc-box
+computerbase.de#@#.content-list__ad-label
+computerbase.de#@#.article-view__rectangle
+computerbase.de#@#.article-view__footer-ad
+computerbase.de#@#.adbox-wrapper
+computerbase.de#@#.adbox-rectangle
+computerbase.de#@#.block1--ads
+computerbase.de#@##afc-box
 !:partner_token=computerbase.de
 !:partner_id=b09e339b289c942f
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=77956#p77956
 ! computerbase.de ads
-! @@||computerbase.de/js/ads.$script,xmlhttprequest,domain=computerbase.de
+@@||computerbase.de/js/ads.$script,xmlhttprequest,domain=computerbase.de
 !:partner_token=computerbase.de
 !:partner_id=b09e339b289c942f
 !:type=partner
@@ -5969,13 +5969,14 @@ elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
 cnn.com#@##adBanner
 cnn.com#@##adSquare
+discogs.com#@##ad_bottom
 www.visitlondon.com#@##ad_footer
 www.visitlondon.com#@##ad_header
 allacronyms.com#@##ad_home
 awkwardzombie.com#@##ad_left
 ratemyprofessors.com#@##ad_rec_01
 awkwardzombie.com#@##ad_right
-awkwardzombie.com#@##ad_top
+awkwardzombie.com,discogs.com#@##ad_top
 cnn.com#@##adbanner
 fxp.co.il#@##adfxp
 globalsecurity.org#@##adleft
@@ -5999,6 +6000,7 @@ didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-1
 didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-2
 fstoppers.com#@##block-fs_helpers-freestar_InContent
 smbc-comics.com#@##boardleader
+socialblade.com#@##bottomAd
 slickdeals.com,slickdeals.net#@##bottomDDAd
 blindsprings.com#@##bottomad
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@##bottombanner
@@ -6043,6 +6045,7 @@ a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
 lexicanum.com#@##sidebar-ad
 thewordfinder.com#@##sidebar-advertisement
+manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
@@ -6060,18 +6063,20 @@ slant.co#@#._SummaryPageHeaderAdView
 slant.co#@#._SummaryPageSidebarStickyAdView
 slant.co#@#._has-ads
 merriam-webster.com#@#.abl
-cnn.com,ratemyprofessors.com,topky.sk#@#.ad
+cnn.com,greatschools.org,ratemyprofessors.com,topky.sk#@#.ad
 cnn.com#@#.ad--desktop
 thesimsresource.com#@#.ad-alsorectangle
 diablofans.com,mtgsalvation.com#@#.ad-atf
 mtgsalvation.com#@#.ad-atf-medRect
 capital.com.tr,pokebattler.com,theoi.com#@#.ad-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-banner-image
+greatschools.org#@#.ad-bar
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
 bovary.gr#@#.ad-block
 owfire.com,smitefire.com#@#.ad-break
 buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
+greatschools.org#@#.ad-column
 broadwayworld.com#@#.ad-desktop
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
@@ -6095,7 +6100,7 @@ jobseeq.com#@#.ad-right
 articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
-greatschools.org,buzzfeed.com,buzzfeed.io,buzzfeednews.com,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
+buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
 littlealchemy2.com,windfinder.com#@#.ad-sticky
 battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
@@ -6114,9 +6119,14 @@ lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
 gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 littlealchemy.com#@#.adTop
+crazygames.com#@#.adWrapper
 homes.com#@#.ad__container
+lse.co.uk#@#.ad_block
+discogs.com#@#.ad_bottom
+discogs.com#@#.ad_container
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label_method
+discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
 itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
@@ -6155,7 +6165,7 @@ timesofisrael.com#@#.b300x250
 dennikn.sk#@#.b_ads
 jpost.com,timesofisrael.com#@#.banner
 wowhead.com#@#.banner-ad
-breitbart.com,photographylife.com#@#.banner_ad
+breitbart.com,discogs.com,photographylife.com#@#.banner_ad
 kizi.com#@#.banner_holder
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.big-ad
 didev.co.uk,expertreviews.co.uk#@#.block-dfp
@@ -6198,7 +6208,7 @@ commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 runt-of-the-web.com#@#.header-banner
 fxp.co.il,pmcqa.com#@#.header-top-ad
 littlealchemy.com#@#.headerAd
-pronews.gr#@#.header__ad
+lse.co.uk,pronews.gr#@#.header__ad
 photographylife.com#@#.header_ad
 detaly.co.il,nep.co.il#@#.herald-ad
 tetrisfriends.com#@#.home_advertisement
@@ -6226,6 +6236,7 @@ parkers.co.uk#@#.mpu-ad
 cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,se1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com#@#.mpu_container
 runt-of-the-web.com#@#.mrec
 golfwrx.com#@#.mvp-ad-label
+probuilds.net#@#.overlay-ad
 zerohedge.com#@#.placement
 stackabuse.com#@#.post-ad
 tutsplus.com#@#.post__inarticle-ad-template
@@ -6239,7 +6250,7 @@ soolide.com#@#.quads-ad2_widget
 fun.freebies.com,innerstrength.zone#@#.quads-ad4
 fun.freebies.com,innerstrength.zone#@#.quads-location
 realmadryt.pl#@#.reklama
-bobshideout.com,coolimba.com,graduatez.com,jobright.com,jobungo.com,joorala.com,parentztalk.com,thefamouspeople.com,tworeddots.com#@#.right-ad
+bobshideout.com,coolimba.com,graduatez.com,jobright.com,jobungo.com,joorala.com,lse.co.uk,parentztalk.com,thefamouspeople.com,tworeddots.com#@#.right-ad
 starmagazine.com#@#.right-ads
 tagged.com#@#.right_ad
 freshedits.com,historybyday.com,livingmgz.com#@#.right_side_ads
@@ -6263,6 +6274,7 @@ yesasia.ru#@#.td-a-rec-id-custom_ad_1
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_5
+fossbytes.com#@#.td-header-ad-wrap
 bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
 britannica.com#@#.toolbar-ad
@@ -6320,18 +6332,6 @@ indiewire.com#@#iframe[style][scrolling]
 indiewire.com#@#iframe[style][src]
 themarker.com#@#iframe[width="300"]
 ma3comic.com#@#img[width="468"][height="60"]
-manofmany.com#@##stickyad
-lse.co.uk#@#.right-ad
-lse.co.uk#@#.header__ad
-lse.co.uk#@#.ad_block
-socialblade.com#@##bottomAd
-shliza.com,epiqlife.com,tradingdraft.com,foodfortravel.com,mindfulgazette.com,simpleblitz.com,economicr.com,scientificfeed.com#@#.ad_placeholder
-fossbytes.com#@#.td-header-ad-wrap
-greatschools.org#@#.ad-bar
-greatschools.org#@#.ad-column
-greatschools.org#@#.ad
-probuilds.net#@#.overlay-ad
-crazygames.com#@#.adWrapper
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
