@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PYHbsVbkDMdkDQvrDRByPA
-! Version: 202007100200
+! Checksum: W6p8v5iZjycMk0RCV7ZTYQ
+! Version: 202007101400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Jul 2020 02:00 UTC
+! Last modified: 10 Jul 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2466,7 +2466,7 @@ countryliving.com###special_offer
 redbookmag.com###special_offer_300x200
 pcmag.com###special_offers_trio
 baseball-reference.com,breakingtravelnews.com,christianpost.com,compfight.com,europages.co.uk,itweb.co.za,japanvisitor.com,jewishva.org,lmgtfy.com,mothering.com,neave.com,otcmarkets.com,progressillinois.com,ragezone.com,spongepowered.org,submarinecablemap.com,telegeography.com,tsn.ca,tvnz.co.nz,wallpapercropper.com,walyou.com,wgr550.com,wsjs.com,yahoo.com###sponsor
-abalive.com,abestweb.com,autotrader.com.au,barnsleyfc.co.uk,bbb.org,bcfc.com,blackpoolfc.co.uk,boattrader.com.au,burnleyfootballclub.com,bwfc.co.uk,cafc.co.uk,cardiffcityfc.co.uk,christianity.com,cpfc.co.uk,dakar.com,dcfc.co.uk,digitalmusicnews.com,etftrends.com,fastseduction.com,football-league.co.uk,geekwire.com,gerweck.net,goseattleu.com,hullcitytigers.com,iconfinder.com,itfc.co.uk,justauto.com.au,kiswrockgirls.com,landreport.com,law.com,lcfc.com,manutd.com,myam1230.com,nesn.com,noupe.com,paidcontent.org,pba.com,pcmag.com,petri.co.il,pingdom.com,psl.co.za,race-dezert.com,rovers.co.uk,sjsuspartans.com,soompi.com,sponsorselect.com,tapemastersinc.net,techmeme.com,trendafrica.co.za,waronyou.com,whenitdrops.com###sponsors
+abalive.com,abestweb.com,autotrader.com.au,barnsleyfc.co.uk,bbb.org,bcfc.com,blackpoolfc.co.uk,boattrader.com.au,burnleyfootballclub.com,bwfc.co.uk,cafc.co.uk,cardiffcityfc.co.uk,christianity.com,cpfc.co.uk,dakar.com,dcfc.co.uk,digitalmusicnews.com,etftrends.com,fastseduction.com,football-league.co.uk,geekwire.com,gerweck.net,goseattleu.com,hullcitytigers.com,iconfinder.com,itfc.co.uk,justauto.com.au,kiswrockgirls.com,landreport.com,law.com,lcfc.com,manutd.com,myam1230.com,nesn.com,noupe.com,paidcontent.org,pba.com,pcmag.com,petri.co.il,pingdom.com,pixeldra.in,psl.co.za,race-dezert.com,rovers.co.uk,sjsuspartans.com,soompi.com,sponsorselect.com,tapemastersinc.net,techmeme.com,trendafrica.co.za,waronyou.com,whenitdrops.com###sponsors
 chicagomag.com###super-leaderboard-wrapper
 rgj.com###taboola-column-c-new-google
 google.com###tadsc
@@ -3803,6 +3803,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 -youtube-s.
 /16x16/google_plus.
 /32x32-youtube.
+/35x35/google.
 /addtogoogle.
 /bookmarksite_google.
 /bt_google_
@@ -4928,19 +4929,15 @@ youtube.com##div[class^="ytd-consent"]
 weatherbug.com##notification-footer
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
-xiachufang.com###scrollTop
-google.se##div[style="min-width: 750px;"] > [style="behavior:url(#default#homePage) url(#default#userData);background-color:#5a5a5a"]
 ||boosterblog.com/ban/$third-party
 boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 cuisineetvinsdefrance.com,francetvinfo.fr,leparisien.fr,phonandroid.com,silicon.fr##.newsletter
+xiachufang.com###scrollTop
+||wp.com/www.proiezionidiborsa.it/*/google-news-
 tabelog.com###page-up
 bloomberg.co.jp##BB-MINI-PLAYER
 administradores.com.br,bit.pt,bitmag.com.br,record.pt##.newsletter
-||wp.com/www.proiezionidiborsa.it/*/google-news-
-sputniknews.gr##.article__google-news
-kakakumag.com##.article-sns-btm
-kakakumag.com##.article-sns-top
-kakakumag.com##.top-header-sns-link
+google.se##div[style="min-width: 750px;"] > [style="behavior:url(#default#homePage) url(#default#userData);background-color:#5a5a5a"]
 clipfish.de###cf-player-googleplus
 heise.de,t3n.de##.google
 n24.de##.google_interactivepos
@@ -4951,18 +4948,22 @@ auto-motor-und-sport.de##a[is-google-trigger]
 ||google.com^*/fastbutton?$domain=gamestar.de
 ||google.com^*/fastbutton?$domain=focus.de
 ||google.com^*/fastbutton?$domain=tvspielfilm.de
-radiolodz.pl##.fa-google-plus
-radiolodz.pl##.fa-youtube
-mf24.pl##.youtube
 lci.tf1.fr,liberation.fr,loi1901.com,silicon.fr##.google
 rfm.fr##.youtube
 ||nioutaik.fr/themes/freshy/images/googlepeuluss.gif
-bit.pt,bitmag.com.br##.follow
+gharbiaonline.com##.google
+elsharq.org,wesalhaq.tv##.youtube
+sputniknews.gr##.article__google-news
 advicegroup.it##.google
 infocert.it##.img-youtube
 agenziacasaclima.it##.youtube
-gharbiaonline.com##.google
-elsharq.org,wesalhaq.tv##.youtube
+kakakumag.com##.article-sns-btm
+kakakumag.com##.article-sns-top
+kakakumag.com##.top-header-sns-link
+radiolodz.pl##.fa-google-plus
+radiolodz.pl##.fa-youtube
+mf24.pl##.youtube
+bit.pt,bitmag.com.br##.follow
 paconsulting.com###cookPop
 4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 techbang.com##.notify_stickie
