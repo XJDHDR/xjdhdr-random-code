@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zRRp2QOccJEiJFx/5177Hg
-! Version: 202007101400
+! Checksum: AVmw3ry6h0c1Si3fNBYVVg
+! Version: 202007110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Jul 2020 14:00 UTC
+! Last modified: 11 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6119,7 +6119,7 @@ lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
 gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 littlealchemy.com#@#.adTop
-crazygames.com#@#.adWrapper
+1001juegos.com,gioca.re,onlinegame.co.id,speelspelletjes.nl,crazygames.com#@#.adWrapper
 homes.com#@#.ad__container
 lse.co.uk#@#.ad_block
 discogs.com#@#.ad_bottom
@@ -6399,6 +6399,7 @@ ma3comic.com#@#img[width="468"][height="60"]
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder/thesocialpost/thesocialpost_sf.dfp.js$domain=thesocialpost.it
 @@||cdn.exmarketplace.com/bidder/Ricetta/sf_ricetta.dfp.js$domain=ricetta.it
+@@||cdn.exmarketplace.com/bidder/portalebambini/sf_portalebambini_inf.dfp.js$domain=portalebambini.it
 @@||cdn.fuseplatform.net/publift$domain=cpubenchmark.net
 @@||a.pub.network/iwastesomuchtime/pubfig.min.js$domain=iwastesomuchtime.com
 @@||a.pub.network/krunker-io/pubfig.min.js$domain=krunker.io
@@ -7015,7 +7016,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
-theartfulcrafter.com,okidoki.ee#@#div[id^="div-gpt-ad"]
+bfi.org.uk,theartfulcrafter.com,okidoki.ee#@#div[id^="div-gpt-ad"]
 express.co.uk,nigella.com##div[block^="true"]
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
@@ -7525,21 +7526,21 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 ! AntiAdblock Ads
 @@||h.imedia.cz^$domain=extra.cz
 @@||d.imedia.cz^$domain=extra.cz
-@@||ssp.imedia.cz^$~script,domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-||ssp.imedia.cz/static/js/ssp.js$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||ssp.imedia.cz^$~script,domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+||ssp.imedia.cz/static/js/ssp.js$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
-@@||delivery.performax.cz/sklik/$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||cdn.performax.cz/acc/accp.js$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||delivery.performax.cz^*_rtb/$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc/1.js$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-||cdn.performax.cz/acc/2.js$domain=centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||imp.performax.cz^$domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
-centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
+@@||delivery.performax.cz/sklik/$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||cdn.performax.cz/acc/accp.js$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||delivery.performax.cz^*_rtb/$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc/1.js$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+||cdn.performax.cz/acc/2.js$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||imp.performax.cz^$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
+idnes.cz,emimino.cz,centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
@@ -7559,7 +7560,15 @@ euro.cz#@##ad-skyscraper-lower
 euro.cz#@##ad-leaderboard-lower
 euro.cz#@##ad-inarticle-lower
 euro.cz#@#div[id^="ad-leaderboard"]
-centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
+idnes.cz#@##space-g-add
+idnes.cz#@##fix-block-2
+idnes.cz#@#div[class="fixi-m11"]
+idnes.cz#@#[id^="fix-block-"]
+emimino.cz#@##sticky-banner
+emimino.cz#@#[data-advert-sticky]
+emimino.cz#@#.r-box
+emimino.cz#@#[id^="r-ws480"]
+idnes.cz,emimino.cz,centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
