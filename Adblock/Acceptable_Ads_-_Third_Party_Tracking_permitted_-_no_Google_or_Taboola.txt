@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XzLJfcBpMoF8GkG2KYyWMw
-! Version: 202007130200
+! Checksum: MvkptOnCmLmohTPbBupoMw
+! Version: 202007131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jul 2020 02:00 UTC
+! Last modified: 13 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7541,6 +7541,7 @@ domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
 @@||imp.performax.cz^$domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 @@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=idnes.cz|emimino.cz|centrum.aws-static.isrv.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz
 idnes.cz,emimino.cz,centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz#@#[id^="aswift"]
+idnes.cz,emimino.cz,centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
@@ -7568,7 +7569,6 @@ emimino.cz#@##sticky-banner
 emimino.cz#@#[data-advert-sticky]
 emimino.cz#@#.r-box
 emimino.cz#@#[id^="r-ws480"]
-idnes.cz,emimino.cz,centrum.aws-static.isrv.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
@@ -7736,7 +7736,7 @@ newsmonkey.be#@#div[id^="div-gpt-ad"]
 !:partner_id=95219d69e6e074ea
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=152013#p152013
-! Tradetroubler tracking
+! Tradedoubler tracking
 @@||tbs.tradedoubler.com^
 @@||tbl.tradedoubler.com^
 @@||wrap.tradedoubler.com^
@@ -7747,6 +7747,7 @@ newsmonkey.be#@#div[id^="div-gpt-ad"]
 @@||cxt.tradedoubler.com^
 @@||clk.tradedoubler.com^
 @@||imp.tradedoubler.com/imp^
+@@||svht.tradedoubler.com^
 boutiquesensolde.fr,cdiscount.com,clubic.com,lemonde.fr,sosiphone.com,supertoinette.com,tomtomax.fr#@#a[href*="//clk.tradedoubler.com/click?"]
 premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 !:type=combined
