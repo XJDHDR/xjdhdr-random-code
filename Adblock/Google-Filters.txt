@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +H0jXBVKqry1MQudjs/1hQ
-! Version: 202007131400
+! Checksum: 8NRPMZ8oAhNbpetq0VfgLw
+! Version: 202007140200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 13 Jul 2020 14:00 UTC
+! Last modified: 14 Jul 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3271,6 +3271,7 @@ www.google.com#@##videoads
 _google_analytics.
 _googleAnalytics.
 _googleAnalytics_
+_GoogleTagManager2/
 ! google tracking
 /cdn-cgi/pe/bag2?*.google-analytics.com
 /cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js
@@ -3384,6 +3385,7 @@ _googleAnalytics_
 ||wt-safetag.com^$third-party
 ||www-google-analytics.l.google.com^$third-party
 ||zdtag.com^$third-party
+||jeeng.com^$third-party
 ||coinwebmining.com^$third-party
 ||coinzillatag.com^$third-party
 ||googleanalytcs.com^$third-party
@@ -4500,7 +4502,6 @@ _youtube_social_
 ||feedburner.com^$image,third-party
 ||google.com/uds/?file=orkut&
 ||hnlike.com^$third-party
-||jeeng.com^$third-party
 ||magimg.com/random?$third-party
 ||promotions.newegg.com^$third-party
 ||r42tag.com^$third-party
