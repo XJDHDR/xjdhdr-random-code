@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /7PRof7ghEXBUvzDTIWS6w
-! Version: 202007141400
+! Checksum: uNMtsb2bjPIUMsioGUiJXQ
+! Version: 202007150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 14 Jul 2020 14:00 UTC
+! Last modified: 15 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1145,6 +1145,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||adhese.com/json/sl_llb_international_europe_-THINARTICLE_CENTER/$xmlhttprequest,domain=lalibre.be
 ||celebspulse.com^*/ouibounce.js
 ||unpuzzlefinance.com^*/ouibounce.js
+nouvelobs.com#@#.ObsPartners
 unpuzzlefinance.com#@#.below-next-nativeads
 brit.co#@#.ad-tag
 money.com#@#.ad-sticky-container
