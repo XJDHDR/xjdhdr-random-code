@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0rubXDKcnqtQZXSRk8f64g
-! Version: 202007150200
+! Checksum: eEqilAJI9+u1XU/nEded2A
+! Version: 202007151400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Jul 2020 02:00 UTC
+! Last modified: 15 Jul 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -906,6 +906,7 @@ _reklama_$domain=~youtube.com
 ##.google-advertisement_txt
 ##.google-afc-wrapper
 ##.google-csi-ads
+##.google-dfp-ad-caption
 ##.google-dfp-ad-label
 ##.google-dfp-ad-wrapper
 ##.google-entrepreneurs-ad
@@ -2057,8 +2058,6 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||ajax.googleapis.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 @@||ajax.googleapis.com^$script,domain=putlocker.ninja|putlocker.style|putlockers.mn|putlockers.movie
 @@||apis.google.com^$script,subdocument,domain=putlocker.ninja|putlocker.style|putlockers.mn|putlockers.movie
-@@||google.com/js/bg/$script,domain=depositfiles.com|dfiles.eu|dfiles.ru
-@@||ajax.googleapis.com^$script,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com
 @@||ajax.googleapis.com^$script,domain=eztv.io|eztv.tf|eztv.yt
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eztv.io|eztv.tf|eztv.yt
 @@||gstatic.com^$script,domain=streamvid.co

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +flJ6Je+4jsr0EVO6iXeBg
-! Version: 202007150200
+! Checksum: oOdDc/TdvMPbn6bDEByK0Q
+! Version: 202007151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Jul 2020 02:00 UTC
+! Last modified: 15 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8245,6 +8245,7 @@ reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
+legacy.com#@#.aa_Table
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -9862,6 +9863,7 @@ www.aol.com#@#.gemini-placeholder
 huffpost.com#@#.readmo-item-ad
 engadget.com#@#.sponsored-links
 huffpost.com#@#.taboola
+engadget.com#@##right-ads-rail
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
