@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eEqilAJI9+u1XU/nEded2A
-! Version: 202007151400
+! Checksum: qjEiZTTiVh7zbaliNUettQ
+! Version: 202007160200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Jul 2020 14:00 UTC
+! Last modified: 16 Jul 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1192,11 +1192,11 @@ youtube.com#@#.overlay-ads
 thoughtcatalog.com#@#.tc_ad_unit
 youtube.com#@#.video-ads
 santander.co.uk#@#a[href^="http://ad-emea.doubleclick.net/"]
-jabong.com,mail.yahoo.com,people.com,techrepublic.com,time.com#@#a[href^="http://ad.doubleclick.net/"]
+jabong.com,people.com,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
 pcmag.com,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
 linkedin.com,tasteofhome.com#@#a[href^="http://pubads.g.doubleclick.net/"]
 google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.de#@#a[href^="http://www.liutilities.com/"]
-buzzfeed.com,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+buzzfeed.com,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 drive.google.com#@#div[aria-label="Ads"]
 daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#div[id^="google_ads_iframe_"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
