@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LIxYYS70/o/QOaIOtEoYPA
-! Version: 202007170200
+! Checksum: 7KlXzy9qhU7Pm/phIU898Q
+! Version: 202007171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Jul 2020 02:00 UTC
+! Last modified: 17 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6357,7 +6357,7 @@ broadsheet.com.au#@#.ad-unit-container
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||adx.zdravie.sk/www/delivery/asyncjs.php$domain=zdravie.sk
 @@||adx.zdravie.sk/www/delivery/asyncspc.php$domain=zdravie.sk
-@@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com|justjared.com
 @@||areavibes.com/assets/prebid.js$domain=areavibes.com
 @@||breitbart.com/t/assets/js/prebid-$script,domain=breitbart.com
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
@@ -7204,7 +7204,7 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 @@||marketgid.com/images/lentainform/$domain=life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
 life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#a[href*="lentainform.com/pnews/"]
 life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#[id*="ScriptRoot"]
-life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com,tvzvezda.ru##div[id*="Composite"]:not([id*="Composite686380"]):not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"]):not([id*="Composite626533"]):not([id*="Composite689704"]):not([id*="Composite690200"]):not([id*="Composite721065"]):not([id*="Composite721350"])
+life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com,tvzvezda.ru##div[id*="Composite"]:not([id*="Composite686380"]):not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"]):not([id*="Composite626533"]):not([id*="Composite689704"]):not([id*="Composite690200"]):not([id*="Composite721065"]):not([id*="Composite721350"]):not([id*="Composite933406"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7244,6 +7244,7 @@ fishki.net#@#.content__sub-heading:-abp-contains(Новости партнёро
 @@||ads.adfox.ru/220463/$xmlhttprequest,domain=clck.lentainform.com
 clck.lentainform.com#@#div[id^="yandex_rtb"]
 clck.lentainform.com#@#div[id^="adfox_"]
+gismeteo.ru#@#.widget-container
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
@@ -7601,6 +7602,14 @@ newsmonkey.be#@#div[id^="div-gpt-ad"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=79450
 ! Quora.com ads
 @@||quora.com^$elemhide
+!:partner_token=wiesentbote.de
+!:partner_id=3b48d0b86a51592a
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=79740
+! wiesentbote.de ads
+@@||kunner.wiesentbote.de/k/www/delivery/asyncjs.php^$script,domain=barockgarten-egloffstein.de|kirschenfest-pretzfeld.de|wiesentbote.de
+@@||kunner.wiesentbote.de/k/www/delivery/asyncspc.php^$xmlhttprequest,domain=barockgarten-egloffstein.de|kirschenfest-pretzfeld.de|wiesentbote.de
+@@||kunner.wiesentbote.de/k/www/delivery/lg.php^$image,domain=barockgarten-egloffstein.de|kirschenfest-pretzfeld.de|wiesentbote.de
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
