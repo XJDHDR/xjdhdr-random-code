@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2tZZvxTvQNkilEZrXQLmxQ
-! Version: 202007190200
+! Checksum: 9c0VGgoCpJsZI1fgw5bKrw
+! Version: 202007191400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Jul 2020 02:00 UTC
+! Last modified: 19 Jul 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1225,6 +1225,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||monadplug.com^
 ||normugtog.com^
 ||onergong.com^
+||phastoag.com^
 ||pheevoug.com^
 ||pz7zrn0xxgyg.com^
 ||q6idnawboy7g.com^
@@ -1647,11 +1648,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||qgkmjpgwg.com^$third-party
 ||qkspafpgg.com^$third-party
 ||qlatsfeyg.com^$third-party
-||qoyagwzholjofg.com^$third-party
-||qpjowolqlpg.com^$third-party
-||qqrkutrsg.com^$third-party
 ||qqtqicbvrwg.com^$third-party
-||qsgiqllpfthg.com^$third-party
 ||qwlckbrwxizg.com^$third-party
 ||rdoovrzqazvpgv.com^$third-party
 ||rdooybwcuyg.com^$third-party
@@ -3621,6 +3618,7 @@ _GoogleTagManager2/
 ||youtube.com/api/stats/qoe?
 ||youtube.com/api/stats/watchtime
 ||youtube.com/get_video?
+||youtube.com/mac_204?
 ||youtube.com/ptracking?
 ||youtube.com/s?
 ||youtube.com/set_awesome?
@@ -4781,7 +4779,7 @@ catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,wvex
 factmag.com##.home-social-area
 guernicamag.com##.homing_wrapper
 digg.com##.js--promo-bottom
-2gb.com,9to5mac.com,aawsat.com,about.com,algemeiner.com,antlionaudio.com,apracticalwedding.com,arab24.com,arabnews.com,atimes.com,atlantadailyworld.com,autoguide.com,automotive-fleet.com,autoweek.com,bostonmagazine.com,brooklynbased.com,businessfleet.com,cheapies.nz,chicagodefender.com,clickhole.com,cnet.com,completesportsnigeria.com,complex.com,computerworld.com,consumerreports.org,csoonline.com,defensenews.com,designntrend.com,digiday.com,discoverymedia.com,elpais.com,emirates247.com,epicurious.com,essentialbaby.com.au,essentialkids.com.au,euractiv.com,eventfinda.co.nz,express.co.uk,fashionotes.com,fivethirtyeight.com,fleetfinancials.com,geek.com,gizchina.com,goodfood.com.au,goodnet.org,goodrx.com,government-fleet.com,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,haaretz.com,hdwallpapers.in,healthday.com,hellomagazine.com,higherperspectives.com,hightimes.com,hodinkee.com,hottopics.ht,huffingtonpost.com,indypendent.org,infoq.com,infoworld.com,investopedia.com,israeltoday.co.il,itechpost.com,itworld.com,javaworld.com,jewishjournal.com,jns.org,jstor.org,kpfa.org,lctmag.com,life.com,lifehack.org,maplin.co.uk,maritimejobs.com,massivesci.com,maxim.com,michiganchronicle.com,muckrock.com,multichannel.com,muslimnews.co.uk,nationalinterest.org,ndtv.com,nerve.com,networkworld.com,newframe.com,newpittsburghcourier.com,newrepublic.com,newsdeeply.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,peoplesworld.org,piriform.com,pomade.com,popdust.com,presstv.com,propublica.org,psfk.com,recombu.com,redsharknews.com,revealnews.org,rsf.org,rumorfix.com,schoolbusfleet.com,sciencemag.org,screencrush.com,silicon.co.uk,singularityhub.com,slate.com,speedcafe.com,stylecaster.com,swingbyswing.com,talkandroid.com,techbeat.com,techly.com.au,techtimes.com,the-star.co.ke,thebaffler.com,thedailybeast.com,thedrinknation.com,theepochtimes.com,themeshreport.com,thenevadaindependent.com,thenextweb.com,theregister.co.nz,theregister.co.uk,thetruthaboutcars.com,topdocumentaryfilms.com,travelweekly.com,truckinginfo.com,truthdig.com,tvquran.com,twice.com,twitchy.com,variety.com,vice.com,vulture.com,weeklystandard.com,wgnamerica.com,wikitribune.com,worktruckonline.com,yahoo.com##.newsletter
+2gb.com,9to5mac.com,aawsat.com,about.com,algemeiner.com,antlionaudio.com,apracticalwedding.com,arab24.com,arabnews.com,atimes.com,atlantadailyworld.com,autoguide.com,automotive-fleet.com,autoweek.com,bostonmagazine.com,brooklynbased.com,businessfleet.com,cheapies.nz,chicagodefender.com,clickhole.com,cnet.com,completesportsnigeria.com,complex.com,computerworld.com,consumerreports.org,csoonline.com,defensenews.com,denofgeek.com,designntrend.com,digiday.com,discoverymedia.com,elpais.com,emirates247.com,epicurious.com,essentialbaby.com.au,essentialkids.com.au,euractiv.com,eventfinda.co.nz,express.co.uk,fashionotes.com,fivethirtyeight.com,fleetfinancials.com,geek.com,gizchina.com,goodfood.com.au,goodnet.org,goodrx.com,government-fleet.com,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,haaretz.com,hdwallpapers.in,healthday.com,hellomagazine.com,higherperspectives.com,hightimes.com,hodinkee.com,hottopics.ht,huffingtonpost.com,indypendent.org,infoq.com,infoworld.com,investopedia.com,israeltoday.co.il,itechpost.com,itworld.com,javaworld.com,jewishjournal.com,jns.org,jstor.org,kpfa.org,lctmag.com,life.com,lifehack.org,maplin.co.uk,maritimejobs.com,massivesci.com,maxim.com,michiganchronicle.com,muckrock.com,multichannel.com,muslimnews.co.uk,nationalinterest.org,ndtv.com,nerve.com,networkworld.com,newframe.com,newpittsburghcourier.com,newrepublic.com,newsdeeply.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,peoplesworld.org,piriform.com,pomade.com,popdust.com,presstv.com,propublica.org,psfk.com,recombu.com,redsharknews.com,revealnews.org,rsf.org,rumorfix.com,schoolbusfleet.com,sciencemag.org,screencrush.com,silicon.co.uk,singularityhub.com,slate.com,speedcafe.com,stylecaster.com,swingbyswing.com,talkandroid.com,techbeat.com,techly.com.au,techtimes.com,the-star.co.ke,thebaffler.com,thedailybeast.com,thedrinknation.com,theepochtimes.com,themeshreport.com,thenevadaindependent.com,thenextweb.com,theregister.co.nz,theregister.co.uk,thetruthaboutcars.com,topdocumentaryfilms.com,travelweekly.com,truckinginfo.com,truthdig.com,tvquran.com,twice.com,twitchy.com,variety.com,vice.com,vulture.com,weeklystandard.com,wgnamerica.com,wikitribune.com,worktruckonline.com,yahoo.com##.newsletter
 foodandwine.com,golf.com,health.com,realsimple.com,southernliving.com,travelandleisure.com##.newsletter-callout
 bloomberg.com,wamu.org##.newsletter-module
 simpleflying.com##.post-subscribe
