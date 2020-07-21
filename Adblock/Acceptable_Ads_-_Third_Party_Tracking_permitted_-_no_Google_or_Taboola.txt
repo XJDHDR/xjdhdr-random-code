@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CeL/Zfg3PNNYXjIc9F4JWw
-! Version: 202007210200
+! Checksum: ynxHMX3Ic0ieFyr0WouNbQ
+! Version: 202007211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Jul 2020 02:00 UTC
+! Last modified: 21 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -902,6 +902,7 @@ chip.de#@#a[onmousedown^="this.href='https://marketing.outbrain.com/network/redi
 chip.de#@#a[data-widget-outbrain-redirect^="http://marketing.outbrain.com/network/redir?"]
 chip.de#@#a[target="_blank"][onmousedown="this.href^='http://marketing.outbrain.com/network/redir?"]
 chip.de#@#a[href^="http://bs.serving-sys.com/"]
+chip.de#@#a[href^="https://paid.outbrain.com/network/redir?"]
 @@||paid.outbrain.com/network/redir?$popup,domain=chip.de
 @@||marketing.outbrain.com/network/redir?$popup,domain=chip.de
 @@||outbrain.com/outbrain.js$domain=chip.de
@@ -8043,6 +8044,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.legacy.com^$domain=legacy.com,document
 @@||related.askmen.com^$domain=askmen.com
 @@||related.askmen.com^$domain=askmen.com,document
+@@||related.sharemods.com^$domain=sharemods.com
+@@||related.sharemods.com^$domain=sharemods.com,document
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
