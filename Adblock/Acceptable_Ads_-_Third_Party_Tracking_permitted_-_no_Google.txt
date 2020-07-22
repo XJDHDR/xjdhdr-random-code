@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OgXST+jXmPLj+wnPnmF2Sg
-! Version: 202007211400
+! Checksum: AIGx3RJuLM3ihtL6Qqd3lg
+! Version: 202007220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Jul 2020 14:00 UTC
+! Last modified: 22 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -9876,20 +9876,17 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
 ! Ads by Yahoo! Partner Ads
 @@||gemini.yahoo.com^*^syndication^$script,domain=stylevamp.de
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#div[class^="gemini-ad"]
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.ad_bottom_margin_10
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.ad_spot
-huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.gemini-native-ad
-www.aol.com,stylevamp.de,huffingtonpost.ca,huffingtonpost.com.au,huffingtonpost.co.uk,huffpostbrasil.com,huffingtonpost.in#@#.sponsor-text
-huffpostbrasil.com#@#.advertisement
-huffpostbrasil.com#@#.desktop_dynamic_ad
+engadget.com#@##right-ads-rail
 huffpost.com#@#.ad-container
 engadget.com#@#.ad-title
-www.aol.com#@#.gemini-placeholder
+huffingtonpost.ca,huffingtonpost.co.uk,huffingtonpost.com.au,huffingtonpost.in,huffpostbrasil.com#@#.ad_bottom_margin_10
+huffingtonpost.ca,huffingtonpost.co.uk,huffingtonpost.com.au,huffingtonpost.in,huffpostbrasil.com#@#.ad_spot
+huffpostbrasil.com#@#.advertisement
+huffpostbrasil.com#@#.desktop_dynamic_ad
 huffpost.com#@#.readmo-item-ad
+huffingtonpost.ca,huffingtonpost.co.uk,huffingtonpost.com.au,huffingtonpost.in,huffpostbrasil.com,stylevamp.de,www.aol.com#@#.sponsor-text
 engadget.com#@#.sponsored-links
 huffpost.com#@#.taboola
-engadget.com#@##right-ads-rail
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
