@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oJU5h3+PBv3mYxEjS9Ta0w
-! Version: 202007220200
+! Checksum: p3bFUQvS/weWUnF2sSs0zg
+! Version: 202007221400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Jul 2020 02:00 UTC
+! Last modified: 22 Jul 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1738,7 +1738,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||zqmxzjrhchg.com^$third-party
 ||zzlayejqlzcg.com^$third-party
 ||ojujyjjgg.com^$image,third-party
-||polawrg.com^$image,third-party
 ||wqtdtstdxg.com^$image,third-party
 ||zcrfefgrg.com^$image,third-party
 ||kofpag.com^
@@ -1888,7 +1887,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||br.fling.com^
 ||ero-advertising.com^*/banners/
 ||galeriaseroticas.xpg.com.br^$third-party
-||porn2blog.com/wp-content/banners/
 ||sexy.fling.com^$third-party
 ||spankbang.xxx^$domain=spankbang.com
 ||fling.com/enter.php?$popup
