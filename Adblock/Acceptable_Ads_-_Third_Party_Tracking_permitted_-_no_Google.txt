@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m1PNaM8yieoW8AGdxVpLLg
-! Version: 202007240200
+! Checksum: gxb4P5tVyNPnFnpefDnRtg
+! Version: 202007241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Jul 2020 02:00 UTC
+! Last modified: 24 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6400,6 +6400,17 @@ broadsheet.com.au#@#.layout-ad
 broadsheet.com.au#@#.ad-container-top
 broadsheet.com.au#@#.ad-unit-container
 duellinksmeta.com#@#.advertisement-box
+programme-tv.net#@#.adLoaded
+programme-tv.net#@#.ads-desktop
+programme-tv.net#@#.innerAds
+programme-tv.net#@#.ads-banniereHaute
+programme-tv.net#@#.ads-mobile
+programme-tv.net#@#.containerAds
+programme-tv.net#@#.ads-paveHaut
+programme-tv.net#@#.ads-paveBas2
+programme-tv.net#@#.ads-paveBas
+programme-tv.net#@#.ads-core-placer
+hollywoodpq.com#@#.content-ad
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -6466,9 +6477,7 @@ duellinksmeta.com#@#.advertisement-box
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder/thesocialpost/thesocialpost_sf.dfp.js$domain=thesocialpost.it
-@@||cdn.exmarketplace.com/bidder/Ricetta/sf_ricetta.dfp.js$domain=ricetta.it
-@@||cdn.exmarketplace.com/bidder/portalebambini/sf_portalebambini_inf.dfp.js$domain=portalebambini.it
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.fuseplatform.net/publift$domain=cpubenchmark.net
 @@||a.pub.network/iwastesomuchtime/pubfig.min.js$domain=iwastesomuchtime.com
 @@||a.pub.network/krunker-io/pubfig.min.js$domain=krunker.io
@@ -6529,6 +6538,10 @@ duellinksmeta.com#@#.advertisement-box
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.79b5c586558b05e1420609603d40b494.9014.js$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
 @@||recette-tra.scds.pmdstatic.net/advertising-core/feat-dfp-478-add-blockthrough-script-loading/core-ads.js$domain=programme-tv.net
+@@||tra.scds.pmdstatic.net/advertising-core/4.65.0$domain=programme-tv.net
+@@||rec2-tra.scds.pmdstatic.net/advertising-core/4.65.0$domain=programme-tv.net
+@@||recette-tra.scds.pmdstatic.net/advertising-core/4.65.0$domain=programme-tv.net
+@@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -7649,6 +7662,8 @@ emimino.cz#@##sticky-banner
 emimino.cz#@#[data-advert-sticky]
 emimino.cz#@#.r-box
 emimino.cz#@#[id^="r-ws480"]
+idnes.cz,expres.cz#@#a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
+idnes.cz,expres.cz#@#a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
