@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2eiKvVbfHv3THerP8Uyx1Q
-! Version: 202007270200
+! Checksum: R5a6l/2lTkv79zQT0tyUTQ
+! Version: 202007271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Jul 2020 02:00 UTC
+! Last modified: 27 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6478,7 +6478,6 @@ hollywoodpq.com#@#.content-ad
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.fuseplatform.net/publift$domain=cpubenchmark.net
 @@||a.pub.network/iwastesomuchtime/pubfig.min.js$domain=iwastesomuchtime.com
 @@||a.pub.network/krunker-io/pubfig.min.js$domain=krunker.io
 @@||a.pub.network/stocktwits-com/pubfig.min.js$domain=stocktwits.com
