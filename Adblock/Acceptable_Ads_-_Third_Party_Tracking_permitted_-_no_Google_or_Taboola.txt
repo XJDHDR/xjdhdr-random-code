@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4x8kY/2LdHnWzyGT3dadog
-! Version: 202007280200
+! Checksum: /HB1heY6MjWFp5H0A0Dr2w
+! Version: 202007281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 Jul 2020 02:00 UTC
+! Last modified: 28 Jul 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6483,10 +6483,11 @@ hollywoodpq.com#@#.content-ad
 @@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.79b5c586558b05e1420609603d40b494.9014.js$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
+@@||plus.addkt.com/collegeconfidential_talk.js$domain=collegeconfidential.com
 @@||recette-tra.scds.pmdstatic.net/advertising-core/feat-dfp-478-add-blockthrough-script-loading/core-ads.js$domain=programme-tv.net
-@@||tra.scds.pmdstatic.net/advertising-core/4.65.0$domain=programme-tv.net
-@@||rec2-tra.scds.pmdstatic.net/advertising-core/4.65.0$domain=programme-tv.net
-@@||recette-tra.scds.pmdstatic.net/advertising-core/4.65.0$domain=programme-tv.net
+@@||tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
+@@||rec2-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
+@@||recette-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
 @@||nike.com^$document
 !:partner_token=Bodis
