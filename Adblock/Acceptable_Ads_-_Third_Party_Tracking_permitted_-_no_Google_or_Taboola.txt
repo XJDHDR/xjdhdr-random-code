@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R2YCgZFukdsvaA1NfMc6Tw
-! Version: 202007291400
+! Checksum: 0VUI5doFRGLQYRc4UfPnoQ
+! Version: 202007300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Jul 2020 14:00 UTC
+! Last modified: 30 Jul 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1370,6 +1370,7 @@ t-online.de#@#.Tpcpx + #Tasf > div[id][style]
 t-online.de#@##Tall > .Tpcpx + #Tasf
 t-online.de#@#a[href*=".adform.net/"]
 t-online.de#@#a[href^="https://track.adform.net/C/?bn="]
+t-online.de#@#a[href*=".smartadserver.com"]
 @@||ad*.adfarm1.adition.com/banner?sid=$image,domain=t-online.de
 @@||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 @@||ads.newtention.net/ads?$popup,domain=t-online.de
@@ -1378,8 +1379,9 @@ t-online.de#@#a[href^="https://track.adform.net/C/?bn="]
 @@||bs.serving-sys.com^$popup,domain=t-online.de
 ||stats.t-online.de/px.js?ch=2$domain=t-online.de
 @@||stats.t-online.de/px.js?ch=1$domain=t-online.de
-@@||partner.shop.vorwerk.de/?RefID=PerfMed_PV
+@@||partner.shop.vorwerk.de/?RefID=PerfMed_PV$domain=t-online.de
 @@||imagesrv.adition.com/1x1.gif|$image,domain=t-online.de
+@@||ad.atdmt.com/i/img;adv=$image,domain=t-online.de
 !:partner_token=pkmn.net
 !:partner_id=32e19194e675864b
 !:type=partner
@@ -6199,7 +6201,7 @@ temp-mail.org#@#.ezo_ad
 broadwayworld.com,temp-mail.org#@#.ezoic-ad
 hltv.org#@#.f-col-top
 mako.co.il#@#.feed-ad
-hollywoodpq.com,meekcomic.com#@#.footer-ad
+whosampled.com,hollywoodpq.com,meekcomic.com#@#.footer-ad
 chip.com.tr#@#.footerad
 fortune.com#@#.fortune-ad-tag__leaderboard
 athensvoice.gr#@#.full-ad
@@ -6261,7 +6263,7 @@ freshedits.com,historybyday.com,livingmgz.com#@#.right_side_ads
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@#.sgAd
 meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
-1-day.co.nz,littlealchemy.com#@#.sideAd
+whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
 aljazeera.com#@#.sideAdv-wrapper
 marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
@@ -6490,6 +6492,7 @@ hollywoodpq.com#@#.content-ad
 @@||rec2-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||recette-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
+@@||adxbid.info/depo_$domain=depo.ba
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
