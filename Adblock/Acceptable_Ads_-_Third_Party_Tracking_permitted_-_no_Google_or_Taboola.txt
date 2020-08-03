@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2W3I3KVfRPOKSajhXp417Q
-! Version: 202008030200
+! Checksum: Vzg8WvMWjzG6Vl8BZ3Xv9g
+! Version: 202008031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Aug 2020 02:00 UTC
+! Last modified: 03 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6362,6 +6362,9 @@ programme-tv.net#@#.ads-paveBas2
 programme-tv.net#@#.ads-paveBas
 programme-tv.net#@#.ads-core-placer
 hollywoodpq.com#@#.content-ad
+alphr.com#@#.sticky-ads
+lovewhatmatters.com#@#.widget_ads 
+lovewhatmatters.com#@#.ad.billboard
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -7053,7 +7056,6 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
-bfi.org.uk,theartfulcrafter.com,okidoki.ee#@#div[id^="div-gpt-ad"]
 express.co.uk,nigella.com##div[block^="true"]
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
