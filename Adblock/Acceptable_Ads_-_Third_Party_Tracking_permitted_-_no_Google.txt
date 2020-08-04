@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: q+p1vv+2BVfrqP94+xrzig
-! Version: 202008031400
+! Checksum: iZWwY/SjgDW4NFZJbtU09g
+! Version: 202008040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Aug 2020 14:00 UTC
+! Last modified: 04 Aug 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7230,6 +7230,7 @@ thingiverse.com#@#div[class^="AdCard_"]
 sirved.com#@#.advertisement-container
 sirved.com#@#.top-advertisement
 pixlr.com#@#.adslot
+blockchain.com#@##ad-text
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner
