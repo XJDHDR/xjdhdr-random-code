@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OXppygmMnH0VhBNy/tCRwA
-! Version: 202008041400
+! Checksum: 99CLfSwhWxMosYF8/6Lbow
+! Version: 202008050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Aug 2020 14:00 UTC
+! Last modified: 05 Aug 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6787,28 +6787,28 @@ boardgamegeek.com#@#.advertisement-top
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?p=172799#p172799
 ! Softonic ads
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.topbanner
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.banner_box
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.bottombanner
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.topbanner_program
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.banner-caption
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###mpu-search-page-desktop-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###top-leaderboard-search-page-desktop-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###bottom-leaderboard-search-page-desktop-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###ad-slider-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad-slider-wrapper
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .js-modal-overlay
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .modal__overlay + .ad--displayed
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displayed
-softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content-wrapper
-@@||sftcdn.net/acmp^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
-||sc.sftcdn.net/statics/ads.min.js^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
-!
-!
-@@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
-@@||beacon.searchlinks.com^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
-@@||api.searchlinks.com^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.topbanner
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.banner_box
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.bottombanner
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.topbanner_program
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.banner-caption
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###mpu-search-page-desktop-wrapper
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###top-leaderboard-search-page-desktop-wrapper
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###bottom-leaderboard-search-page-desktop-wrapper
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn###ad-slider-wrapper
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad-slider-wrapper
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .js-modal-overlay
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn##.ad--loading + .modal > .modal__overlay + .ad--displayed
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad--displayed
+! softonic.com,softonic.com.br,softonic.pl,softonic.jp,softonic.cn#@#.ad-content-wrapper
+! @@||sftcdn.net/acmp^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+! ||sc.sftcdn.net/statics/ads.min.js^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+! !
+! !
+! @@||searchlinks.com/adtags/$script,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+! @@||beacon.searchlinks.com^$image,domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
+! @@||api.searchlinks.com^$domain=softonic.com|softonic.com.br|softonic.pl|softonic.jp|softonic.cn
 !:partner_token=pixmafia.com
 !:partner_id=dd349b46e21c9e9e
 !:type=partner
