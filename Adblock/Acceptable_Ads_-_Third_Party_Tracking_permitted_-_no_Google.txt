@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bEq/7K6PUUgiZ5/clpzvWA
-! Version: 202008051400
+! Checksum: 2nq0rdOfFSDViFOkTlWg2g
+! Version: 202008060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Aug 2020 14:00 UTC
+! Last modified: 06 Aug 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1882,6 +1882,9 @@ chobirich.com#@#.ad_area
 unosantafe.com.ar,lacapital.com.ar#@#.ads-wrapper
 bonnesimages.com,gbpicsonline.com#@#.native-ad
 subscene.com###content > .banner
+somosxbox.com#@#.it-ad-wrapper
+somosxbox.com#@#.it-ad
+zoorprendente.com#@#a[href^="https://www.clicktraceclick.com/"]
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7629,11 +7632,11 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78057
 ! Ads by Adnet
-@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnet.lt/stable/$script,domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnetmedia.lt/keytarget/$script,domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||adnet.lt/stable/px.gif?ch=2&rn=$domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||upapi.net^$domain=domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/$script,domain=delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnetmedia.lt/keytarget/$script,domain=delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||adnet.lt/stable/px.gif?ch=2&rn=$domain=delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||upapi.net^$domain=delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
 @@||bbelements.com/scripts/ibb-async/$script,domain=tax.lt
 alio.lt#@#.ad-placement
 autogidas.lt#@#a[href^=""]
