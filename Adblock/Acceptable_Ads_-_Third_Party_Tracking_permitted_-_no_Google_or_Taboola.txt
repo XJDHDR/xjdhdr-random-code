@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kCnU+srROjh+ZvgE6/WPoA
-! Version: 202008070200
+! Checksum: 0v0Y9B/u8N+TX7XSeO38gw
+! Version: 202008071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Aug 2020 02:00 UTC
+! Last modified: 07 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -248,6 +248,7 @@ reddit.com#@##ad_main
 reddit.com#@##ad_main_top
 reddit.com#@#.Post:-abp-has(a[href^="https://alb.reddit.com/cr?"])
 reddit.com##.promotedvideolink
+/xads.js$domain=reddit.com
 @@||z.moatads.com^$image,domain=reddit.com
 @@||secure-gl.imrworldwide.com^$image,domain=reddit.com
 @@||pixel.quantserve.com^$image,domain=reddit.com
@@ -1604,7 +1605,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
-@@/projectagora.min.js$script,domain=kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -1832,6 +1833,7 @@ subscene.com###content > .banner
 somosxbox.com#@#.it-ad-wrapper
 somosxbox.com#@#.it-ad
 zoorprendente.com#@#a[href^="https://www.clicktraceclick.com/"]
+medicitalia.it#@#a[href^="https://affiliate.across.it/"]
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
