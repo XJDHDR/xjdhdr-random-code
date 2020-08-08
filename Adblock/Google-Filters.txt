@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Od1J5joVDRJvhN9c3XJ2og
-! Version: 202008071400
+! Checksum: +PWPD/WkzFdyGNLee1N8Zg
+! Version: 202008080200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 07 Aug 2020 14:00 UTC
+! Last modified: 08 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1921,6 +1921,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||yimg.com/nn/lib/metro/g/sda/$domain=yahoo.com
 ||yimg.com/rq/darla/$domain=tumblr.com|yahoo.com
 ||yimg.com/uu/api/*/ads/$domain=yahoo.com
+||youtube.com/ad_companion
 ||youtube.com/get_midroll_
 ||youtube.com/pagead/
 ||ytimg.com^*/new_watch_background.jpg?$domain=youtube.com
@@ -2689,10 +2690,12 @@ autoaction.com.au,irishcatholic.com,lindaikeji.blogspot.com,livemixtapes.com,mix
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
 ! youtube
+youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###feedmodule-PRO
 youtube.com###homepage-chrome-side-promo
+youtube.com###masthead-ad
 youtube.com###merch-shelf
 youtube.com###pla-shelf
 youtube.com###premium-yva
@@ -2713,13 +2716,16 @@ youtube.com##.watch-extra-info-column
 youtube.com##.watch-extra-info-right
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-compact-promoted-video-renderer
+youtube.com##.ytd-companion-slot-renderer
 youtube.com##.ytd-display-ad-renderer
 youtube.com##.ytd-merch-shelf-renderer
 youtube.com##.ytd-promoted-sparkles-text-search-renderer
 youtube.com##.ytd-promoted-video-renderer
 youtube.com##.ytd-search-pyv-renderer
+youtube.com##.ytd-video-masthead-ad-v3-renderer
 youtube.com##.ytp-ad-action-interstitial-background-container
 youtube.com##.ytp-ad-action-interstitial-slot
+youtube.com##.ytp-ad-overlay-container
 youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-progress-list
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
@@ -2733,11 +2739,11 @@ youtube.com##ytd-single-option-survey-renderer
 youtube.com##ytd-video-masthead-ad-v3-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
-,antonymsfor.com,blacklistednews.com,breakingisraelnews.com,chicagotribune.com,codeproject.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,elbooru.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,jewsnews.co.il,magnetdl.com,mmorpg.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com#?#:-abp-properties(base64)
 almasdarnews.com,antonymsfor.com,breakingisraelnews.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,jewsnews.co.il,magnetdl.com,mmorpg.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com,xda-developers.com##[src*="blob:"]
 almasdarnews.com,antonymsfor.com,breakingisraelnews.com,codeproject.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,jewsnews.co.il,magnetdl.com,mmorpg.com,msn.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com,xda-developers.com##[style*="base64"]
 allthetests.com,almasdarnews.com,ancient-origins.net,antonymsfor.com,bibme.org,blacklistednews.com,breakingisraelnews.com,chicagotribune.com,codeproject.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,jewsnews.co.il,magnetdl.com,mmorpg.com,msn.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com,xda-developers.com##[style*="blob:"]
 almasdarnews.com,antonymsfor.com,breakingisraelnews.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,jewsnews.co.il,magnetdl.com,mmorpg.com,msn.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com,xda-developers.com##[style*="data:"]
+antonymsfor.com,blacklistednews.com,breakingisraelnews.com,chicagotribune.com,codeproject.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,elbooru.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,jewsnews.co.il,magnetdl.com,mmorpg.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com#?#:-abp-properties(base64)
 googlesyndication.com###adunit
 idg.com.au###float_leaderboard_bottom
 afreesms.com,dailymail.co.uk,israellycool.com,mma-core.com,technoshouter.com##.adsbygoogle
