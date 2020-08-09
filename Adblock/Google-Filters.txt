@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OMx/GjF8t2MpM8JBC4ZBvg
-! Version: 202008090200
+! Checksum: TmTxNV8dJnEWHFok7jDzQQ
+! Version: 202008091400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Aug 2020 02:00 UTC
+! Last modified: 09 Aug 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1499,7 +1499,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||cwnrunnvatbfug.com^$third-party
 ||cwvdzcqvg.com^$third-party
 ||deiqehvcdnntg.com^$third-party
-||dipsbbygv.com^$third-party
 ||dkecozphug.com^$third-party
 ||dlpyumfmg.com^$third-party
 ||dnyjhikistbhvg.com^$third-party
@@ -1522,19 +1521,14 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||enzagnshqtmhg.com^$third-party
 ||eqfnhtthkog.com^$third-party
 ||eqhawyidkdug.com^$third-party
-||esfzbdwg.com^$third-party
 ||esgvhaspsjg.com^$third-party
 ||euzlyrzg.com^$third-party
 ||evfzxjiqg.com^$third-party
 ||fdofosytszg.com^$third-party
 ||fdxdjkswppg.com^$third-party
 ||feyfjlpeexvg.com^$third-party
-||ffcqkvdaklrqkg.com^$third-party
 ||ffxobftzaiogcg.com^$third-party
 ||fgoocsqg.com^$third-party
-||fgzxlngohtg.com^$third-party
-||fjszsffyfihqlg.com^$third-party
-||flvuylhsyg.com^$third-party
 ||foxlaytg.com^$third-party
 ||foydnzdtjcjg.com^$third-party
 ||frzynewnpg.com^$third-party
@@ -1544,8 +1538,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||fzlkdwivfnreg.com^$third-party
 ||gbdzznirg.com^$third-party
 ||gfladrimbg.com^$third-party
-||ggxvxrmrjitg.com^$third-party
-||gmwqmjkggg.com^$third-party
 ||gtlcgovlg.com^$third-party
 ||gwigqsgv.com^$third-party
 ||gwohimtyhbthg.com^$third-party
@@ -3182,6 +3174,7 @@ _GoogleTagManager2/
 ||sayutracking.co.uk^$third-party
 ||sf14g.com^$third-party
 ||sharpspring.com^$third-party
+||siteplug.com^$third-party
 ||splittag.com^$third-party
 ||sptag.com^$third-party
 ||spylog.com^$third-party
@@ -3314,7 +3307,7 @@ _GoogleTagManager2/
 ||beeg.com/logo.gif?
 ||bhg.com^*/tracking-data?
 ||bing.com*^/c.gif?$image
-||bing.com/fd/ls/$~ping
+||bing.com/fd/ls/
 ||bing.com/partner/primedns
 ||bing.com/widget/metrics.js
 ||bing.com^*/GLinkPing.aspx
