@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FctK6qC1X71p34LO8G6b7w
-! Version: 202008100200
+! Checksum: K8dw2yGVvR0Z0b6SnMCYrA
+! Version: 202008101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Aug 2020 02:00 UTC
+! Last modified: 10 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2517,7 +2517,7 @@ alteroffice.pl#@#.reklama
 ! Ads by media.net
 ||mnet-ad.net^
 @@||media.net^$document
-@@||media.net^$third-party,domain=~healthyandnaturalworld.com|~thestreet.com|~ibtimes.com|~newsweek.com|~latintimes.com|~movoto.com
+@@||media.net^$third-party,domain=~greatist.com|~healthline.com|~medicalnewstoday.com|~fandom.com|~futhead.com|~gamepedia.com|~muthead.com|~healthyandnaturalworld.com|~thestreet.com|~ibtimes.com|~newsweek.com|~latintimes.com|~movoto.com
 @@||keywordblocks.com^*.cfm?$elemhide
 @@||topics.forbes.com^*.cfm?$elemhide
 @@||related.forbes.com^*.cfm?$elemhide
@@ -6388,6 +6388,7 @@ u.gg#@#.text-ad-links
 u.gg#@#.text-ads
 u.gg#@#.textAd
 u.gg#@#.text_ads
+pcgamingwiki.com#@#.ad-header-container
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com

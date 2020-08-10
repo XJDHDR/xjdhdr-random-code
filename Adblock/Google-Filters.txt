@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZK+6k75dxN5vdnW1uKKbJw
-! Version: 202008100200
+! Checksum: FlSwtN2x6EbWNNY5mFKbDA
+! Version: 202008101400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Aug 2020 02:00 UTC
+! Last modified: 10 Aug 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1223,6 +1223,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||joyvowdig.com^
 ||jzhzm30o49gv.com^
 ||kesmdg.com^
+||kgqhtakjphgdwg.com^
 ||khg97644rvbg.com^
 ||lalaping.com^
 ||leimardog.com^
@@ -1233,6 +1234,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||onergong.com^
 ||phastoag.com^
 ||pheevoug.com^
+||proxyreducing.com^
 ||pz7zrn0xxgyg.com^
 ||q6idnawboy7g.com^
 ||rowoardog.com^
@@ -2683,18 +2685,24 @@ youtube.com###video-masthead
 youtube.com###watch-branded-actions
 youtube.com###watch-buy-urls
 youtube.com###watch-channel-brand-div
+youtube.com##.GoogleActiveViewElement
+youtube.com##.banner-promo-style-type-masthead-v2
 youtube.com##.carousel-offer-url-container
+youtube.com##.companion-ad-container
 youtube.com##.list-view[style="margin: 7px 0pt;"]
 youtube.com##.promoted-sparkles-text-search-root-container
 youtube.com##.promoted-videos
 youtube.com##.searchView.list-view
+youtube.com##.sparkles-light-cta
 youtube.com##.watch-extra-info-column
 youtube.com##.watch-extra-info-right
+youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-compact-promoted-video-renderer
 youtube.com##.ytd-companion-slot-renderer
 youtube.com##.ytd-display-ad-renderer
 youtube.com##.ytd-merch-shelf-renderer
+youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ytd-promoted-sparkles-text-search-renderer
 youtube.com##.ytd-promoted-video-renderer
 youtube.com##.ytd-search-pyv-renderer
@@ -2713,6 +2721,7 @@ youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-single-option-survey-renderer
 youtube.com##ytd-video-masthead-ad-v3-renderer
+youtube.com##ytm-companion-slot
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
 almasdarnews.com,antonymsfor.com,breakingisraelnews.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,diffen.com,easybib.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,jewsnews.co.il,mmorpg.com,nba-stream.com,newsarama.com,phonesreview.co.uk,playbill.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,trifind.com,videotoolbox.com,vrheads.com,xda-developers.com##[src*="blob:"]
