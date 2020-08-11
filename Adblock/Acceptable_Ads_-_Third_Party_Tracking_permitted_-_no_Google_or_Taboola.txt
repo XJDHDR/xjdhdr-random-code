@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KTp3VyNOyFpfnbwLzhGQfg
-! Version: 202008110200
+! Checksum: vU+8691XiKCi5ANwZ88OpA
+! Version: 202008111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Aug 2020 02:00 UTC
+! Last modified: 11 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -248,7 +248,6 @@ reddit.com#@##ad_main
 reddit.com#@##ad_main_top
 reddit.com#@#.Post:-abp-has(a[href^="https://alb.reddit.com/cr?"])
 reddit.com##.promotedvideolink
-/xads.js$domain=reddit.com
 @@||z.moatads.com^$image,domain=reddit.com
 @@||secure-gl.imrworldwide.com^$image,domain=reddit.com
 @@||pixel.quantserve.com^$image,domain=reddit.com
@@ -1288,6 +1287,8 @@ indiewire.com#@#.outbrain-widget
 @@||adition.com/*boxoutbrain$script,domain=gmx.net|web.de
 @@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
 @@||*logo_mediamond_m.gif$image,domain=ilgiornale.it|meteo.it|sportmediaset.mediaset.it
+@@||vice-web-statics-cdn.vice.com/vendor/ad-lib/v2.6.0/vice-ad-lib.js$script,domain=vice.com
+@@||vice-web-statics-cdn.vice.com/vendor/ad-lib/vice/vice-ad-lib-vice-article-next-config.json$domain=vice.com
 focus.de##.AdsRec
 focus.de##.AD_area
 focus.de##.ADBox
@@ -7202,6 +7203,7 @@ sirved.com#@#.advertisement-container
 sirved.com#@#.top-advertisement
 pixlr.com#@#.adslot
 blockchain.com#@##ad-text
+temp-mail.org#@#.ads-box
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner
@@ -7642,10 +7644,13 @@ idnes.cz#@#div[class="fixi-m11"]
 idnes.cz#@#[id^="fix-block-"]
 emimino.cz#@##sticky-banner
 emimino.cz#@#[data-advert-sticky]
+emimino.cz#@#[data-advert-sticky], #sticky-banner
 emimino.cz#@#.r-box
 emimino.cz#@#[id^="r-ws480"]
 idnes.cz,expres.cz#@#a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
 idnes.cz,expres.cz#@#a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
+idnes.cz#@#[data-cy="ad-content"]
+idnes.cz#@#[id^="r-hpa"]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
