@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VKI5MDMhnjiIZ+LpZgoKbw
-! Version: 202008121400
+! Checksum: lL2Fa0TIVNBXUNnsxHf34w
+! Version: 202008130200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 12 Aug 2020 14:00 UTC
+! Last modified: 13 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1146,6 +1146,7 @@ _reklama_$domain=~youtube.com
 ##a[href^="https://a.adtng.com/"]
 ##a[href^="https://ad.doubleclick.net/"]
 ##a[href^="https://adclick.g.doubleclick.net/"]
+##a[href^="https://earandmarketing.com/"]
 ##a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://redirect.ero-advertising.com/"]
@@ -2034,7 +2035,6 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||ajax.googleapis.com^$script,domain=eztv.io|eztv.tf|eztv.yt
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eztv.io|eztv.tf|eztv.yt
 @@||gstatic.com^$script,domain=streamvid.co
-@@||apis.google.com/js/plusone.js$script,domain=4shared.com
 @@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
 @@||ajax.googleapis.com^$script,third-party,domain=cinenews.be
 @@||ajax.googleapis.com^$script,domain=mcloud.to
