@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nhvpLZz5sWG8OY6K2Kmu/g
-! Version: 202008131400
+! Checksum: sbImXpK+N6BibrVSl+Ijgw
+! Version: 202008140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 13 Aug 2020 14:00 UTC
+! Last modified: 14 Aug 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6025,6 +6025,7 @@ makeuseof.com#?#.addisclaimer:-abp-has( + div:not([id^="BT_muo-"]))
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf_d.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf_else.js$domain=walterfootball.com
 @@||tradecraft.s.llnwi.net/v1/pub/06/wf_h.js$domain=walterfootball.com
+@@||tradecraft.s.llnwi.net/v1/pub/07/jtnh.js$domain=justthenews.com
 @@||tradecraft.s.llnwi.net/v1/pub/adap.js$domain=arcamax.com|justjared.com|justjaredjr.com|uberhumor.com|walterfootball.com
 @@||videoplayerhub.com^$third-party
 @@||widget.perfectmarket.com/indiatoday-indiatoday/load.js$domain=indiatoday.in
@@ -6444,6 +6445,8 @@ u.gg#@#.text-ads
 u.gg#@#.textAd
 u.gg#@#.text_ads
 pcgamingwiki.com#@#.ad-header-container
+buscacepapp.com#@#.ads-center
+zerohedge.com#@#.ad__wrapper-element
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -6457,7 +6460,7 @@ pcgamingwiki.com#@#.ad-header-container
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||adx.zdravie.sk/www/delivery/asyncjs.php$domain=zdravie.sk
 @@||adx.zdravie.sk/www/delivery/asyncspc.php$domain=zdravie.sk
-@@||amazon-adsystem.com/aax2/apstag.js$domain=theweek.com|justjared.com|arcamax.com|justjaredjr.com|uberhumor.com|walterfootball.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=empireonline.com|justthenews.com|theweek.com|justjared.com|arcamax.com|justjaredjr.com|uberhumor.com|walterfootball.com
 @@||areavibes.com/assets/prebid.js$domain=areavibes.com
 @@||breitbart.com/t/assets/js/prebid-$script,domain=breitbart.com
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
@@ -6576,6 +6579,7 @@ pcgamingwiki.com#@#.ad-header-container
 @@||recette-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
 @@||adxbid.info/depo_$domain=depo.ba
+@@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
