@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ACB8arj7+YDEuWrpMNq4qg
-! Version: 202008151400
+! Checksum: RjVN6BPyuJinV6g2G1Wojw
+! Version: 202008160200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Aug 2020 14:00 UTC
+! Last modified: 16 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2019,10 +2019,6 @@ $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=clipwatching.co
 @@||ajax.googleapis.com^$script,domain=4archive.org|randomarchive.com|thebarchive.com
 @@||ajax.googleapis.com^$script,domain=kat.sx
 @@||video.twimg.com^$xmlhttprequest,domain=twitter.com
-@@||fonts.googleapis.com^$stylesheet,domain=yify.is
-@@||googletagservices.com/tag/js/gpt.js$domain=theinquirer.net
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=theinquirer.net
-@@||tpc.googlesyndication.com/pagead/imgad?id=$image,domain=theinquirer.net
 @@||ajax.googleapis.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 @@||ajax.googleapis.com^$script,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||apis.google.com^$script,subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
