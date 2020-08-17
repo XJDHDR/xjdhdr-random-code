@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Mf4jQ+7f03Q6M3UbHtgDEw
-! Version: 202008170200
+! Checksum: Gjol4XFatW/3aDONHJ+WPg
+! Version: 202008171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 17 Aug 2020 02:00 UTC
+! Last modified: 17 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6099,7 +6099,7 @@ didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2-wrapper
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 israelnationalnews.com#@##divTopAd
-cnn.com,skelbiu.lt#@##div[data-ad-id]
+cnn.com,skelbiu.lt#@#div[data-ad-id]
 appgamer.com#@##footAd
 tecmint.com#@##footer-ads
 colourlovers.com#@##ga-above-footer
@@ -6347,7 +6347,7 @@ skijumping.pl#@#.sidebar-advertisement
 sufficientlyremarkable.com#@#.sidebarAd
 heraldweekly.com,history-a2z.com,lifestyle-a2z.com,science-a2z.com#@#.single-ad
 ew.com#@#.sister-ads
-rent.com.au,bovary.gr,manofmany.com,tutsplus.com,videezy.com#@#.sticky-ad
+swingu.com,rent.com.au,bovary.gr,manofmany.com,tutsplus.com,videezy.com#@#.sticky-ad
 factahead.com#@#.sticky-ad-container
 moviestvnetwork.com,wegotthiscovered.com#@#.sticky-sidebar-ad
 champion.gg#@#.stickyad
@@ -6451,6 +6451,8 @@ u.gg#@#.text_ads
 pcgamingwiki.com#@#.ad-header-container
 buscacepapp.com#@#.ads-center
 zerohedge.com#@#.ad__wrapper-element
+hollywoodpq.com#@#.oboxads
+hollywoodpq.com#@#.oboxads-ad-widget
 !
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -6609,6 +6611,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
 @@||adxbid.info/depo_$domain=depo.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
+@@||static.bigpipes.co/v4/sites/hollywoodpq_site.js$domain=hollywoodpq.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -7679,11 +7682,11 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78057
 ! Ads by Adnet
-@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnet.lt/stable/$script,domain=ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnetmedia.lt/keytarget/$script,domain=ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||adnet.lt/stable/px.gif?ch=2&rn=$domain=ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||upapi.net^$domain=ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnet.lt/stable/$script,domain=plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+@@||adnetmedia.lt/keytarget/$script,domain=plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||adnet.lt/stable/px.gif?ch=2&rn=$domain=plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
+||upapi.net^$domain=plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
 @@||bbelements.com/scripts/ibb-async/$script,domain=tax.lt
 @@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=ve.lt|alfa.lt|alio.lt|domoplius.lt
 alio.lt#@#.ad-placement
