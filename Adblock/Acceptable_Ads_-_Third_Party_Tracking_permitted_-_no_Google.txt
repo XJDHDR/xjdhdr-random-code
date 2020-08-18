@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S1xnw2BJTFXouOKMvCPr3g
-! Version: 202008180200
+! Checksum: S71l546D2KX3k3yE56v+Gw
+! Version: 202008181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 18 Aug 2020 02:00 UTC
+! Last modified: 18 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -167,6 +167,11 @@ heise.de#@#.a-ad
 ! ixquick/startpage.com sponsored search results
 @@||startpage.com^$elemhide
 ||startpage.com^*px.gif?ch=2&rn=$domain=startpage.com
+@@||startpage.com/elt.gif^
+@@||startpage.com/do/avt^
+@@||startpage.com/smt^
+@@||startpage.com/pelp^
+@@||startpage.com/elp^
 !:partner_token=StandS4
 !:partner_id=36e26891a192a205
 !:type=partner
@@ -5115,6 +5120,7 @@ workupload.com#@#.ad-label
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=47740
 ! AdRecover ads
 @@||adpushup.com/innovativeAdsDemo/demo-page-shell.js$domain=adpushup.com
+@@||cdn.cookielaw.org/consent^$xmlhttprequest,domain=gsmarena.com
 freewarefiles.com#@#div > iframe[style]
 mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
@@ -7423,7 +7429,7 @@ gazeta.ua#@#.informer.double
 marathi.latestly.com#@##sponsored_content
 marathi.latestly.com#@#.sponsored_content
 thenationonlineng.net#@#.ads-wrapper
-zestradar.com#@#.native_ad
+brainberries.co,zestradar.com#@#.native_ad
 baophapluat.vn#@#.adsitem
 baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
@@ -7444,6 +7450,8 @@ footballhd.ru#@#a[href*="lentainform.com/pnews/"]
 sindonews.com#@#.adsload
 meragk.in##AMP-AD:not([data-widget="925353"])
 meragk.in#@#AMP-AD
+xaluanvn.com#@#.section-ads
+gamevui.vn#@#.adbox
 @@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
 @@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
@@ -8161,6 +8169,7 @@ testpages.adblockplus.org#@##abptest
 @@||related.charlieintel.com^$domain=charlieintel.com,document
 @@||related.fortniteintel.com^$domain=fortniteintel.com
 @@||related.fortniteintel.com^$domain=fortniteintel.com,document
+@@||thunderdom-v1.sftapi.com^$script,third-party,domain=softonic.com|softoniclabs.com|ghacks.net|filehippo.com
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
