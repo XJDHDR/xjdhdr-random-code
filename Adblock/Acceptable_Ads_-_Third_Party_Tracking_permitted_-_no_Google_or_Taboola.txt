@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Zh53ReMfGRovXVuDuQND3g
-! Version: 202008190200
+! Checksum: VcvZ5DynZTkroGF1FQ9GTw
+! Version: 202008191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Aug 2020 02:00 UTC
+! Last modified: 19 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6122,7 +6122,7 @@ littlealchemy2.com#@#.ad-inner
 airportia.com#@#.ad-item
 simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
-bgr.com,j-14.com,komando.com,pmcqa.com,zoosk.com#@#.ad-leaderboard
+yourdictionary.com,bgr.com,j-14.com,komando.com,pmcqa.com,zoosk.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mobile-banner
@@ -6142,7 +6142,7 @@ littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
 broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
 smitefire.com#@#.ad-vertical
-bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
+portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
 fosonline.gr#@#.ad-zone
 ratemyprofessors.com#@#.ad.banner
@@ -6313,7 +6313,7 @@ u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com
 civfanatics.com#@#.themonic-ad2
 britannica.com#@#.toolbar-ad
 thesimsresource.com#@#.top-300-ad
-bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
+ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
 digitaltrends.com,wnd.com#@#.top-ad-container
 aljazeera.com#@#.top-adv
 skijumping.pl#@#.top-advertisement
@@ -6563,6 +6563,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||adxbid.info/depo_$domain=depo.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||static.bigpipes.co/v4/sites/hollywoodpq_site.js$domain=hollywoodpq.com
+@@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com
 @@||nike.com^$document
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -8114,6 +8115,7 @@ testpages.adblockplus.org#@##abptest
 @@||related.fortniteintel.com^$domain=fortniteintel.com
 @@||related.fortniteintel.com^$domain=fortniteintel.com,document
 @@||thunderdom-v1.sftapi.com^$script,third-party,domain=softonic.com|softoniclabs.com|ghacks.net|filehippo.com
+||thunderdom-v1.sftapi.com/px.gif?ch=2&rn=*$domain=softoniclabs.com
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9ahBi8wkQm5Rzi4DGAAu/g
-! Version: 202008190200
+! Checksum: iNQmqsCek3iBMYkVs6vjOg
+! Version: 202008191400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Aug 2020 02:00 UTC
+! Last modified: 19 Aug 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1246,6 +1246,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||q6idnawboy7g.com^
 ||rowoardog.com^
 ||stargoug.com^
+||synthesissocietysplitting.com^
 ||third-tracking.com^
 ||tithewtog.com^
 ||waysinbeg.com^
@@ -1887,6 +1888,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||carmag.co.za/upload/dmx_banners/
 ||cimg.co/w/bn/$domain=cryptonews.com
 ||clickfunnels.com^$image,domain=wckg.com
+||clipwatching.com/pu/
 ||cloudfront.net^$script,domain=1337x.to|celticquicknews.co.uk|deadstate.org|dexerto.com|dotesports.com|downsub.com|footballleagueworld.co.uk|footballtransfertavern.com|greatergood.com|holavid.com|newsweek.com|psychcentral.com|radaronline.com|thecelticblog.com|thisisfutbol.com|turbobit.net|uploadproper.net|videocelts.com|vrv.co
 ||imgking.co/frler.js
 ||infobetting.com/bookmaker/
@@ -4290,6 +4292,7 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
+||fundingchoicesmessages.google.com^$domain=telegram.hr
 ||yimg.com^*/guce.js
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
