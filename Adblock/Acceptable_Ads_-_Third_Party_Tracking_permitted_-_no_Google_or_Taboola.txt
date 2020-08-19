@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lr5IvfHbbKd4fm2dcJ92TQ
-! Version: 202008181400
+! Checksum: Zh53ReMfGRovXVuDuQND3g
+! Version: 202008190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Aug 2020 14:00 UTC
+! Last modified: 19 Aug 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4650,8 +4650,7 @@ spanishdict.com#@#.ad-unit
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=45115
 ! pressfire.no ads
-@@||adform.net^$script,domain=pressfire.no|framerate.no
-@@||adform.net^$image,domain=pressfire.no|framerate.no
+@@||adform.net^$script,ping,image,domain=pressfire.no|framerate.no
 @@||pressfire.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=pressfire.no
 @@||framerate.no/js/blockerTracker/assets/advertisement.dummy.js?$domain=framerate.no
 @@||s1.adform.net/banners/scripts/dt/digitrust.html$domain=pressfire.no
@@ -6551,7 +6550,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
-@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=nookazon.com
+@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=nookazon.com|theouterhaven.net
 @@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
