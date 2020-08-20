@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VIWea1Njs/4ARp1FteoQfg
-! Version: 202008200200
+! Checksum: 3aUCfGLeUyy12Xi8erG9vQ
+! Version: 202008201400
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 20 Aug 2020 02:00 UTC
+! Last modified: 20 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -219,6 +219,7 @@ yelp.com#@#.yloca-list-exp
 yelp.com#@#.biz-photos-yloca
 yelp.com#@#.right-rail-yla-wrapper
 yelp.com#@#.ad-block
+yelp.com#@#section:-abp-has(div > span > span:-abp-contains(Sponsored))
 !:partner_token=Linkedin.com
 !:partner_id=3fdc3ed89884b401
 !:type=partner
