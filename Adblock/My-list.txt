@@ -524,9 +524,5 @@ americanhumanist.org##*
 ! ---- Kids without God ----
 kidswithoutgod.com##*
 !
-! ---- Youtube ----
-! Workaround a bug where editing your posts will hide them. Remove the "Edit" button.
-youtube.com##.style-scope.ytd-menu-navigation-item-renderer
-!
 
 ! ==== END OF DOCUMENT ====
