@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 24pgVJkE5sxW0Ucd86CEag
-! Version: 202008201400
+! Checksum: Cy8lnq79HZpie3rEiSsZWw
+! Version: 202008210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Aug 2020 14:00 UTC
+! Last modified: 21 Aug 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1646,7 +1646,7 @@ thenoob.net#@#.adinjwidget
 tempest.services.disqus.com#@##ad-container
 radiosarajevo.ba#@#.adloaded
 radiosarajevo.ba#@#.iAdserver
-polskiobserwator.de#@#.g1-advertisement
+healthdruggy.com,polskiobserwator.de#@#.g1-advertisement
 escape.com.au#@#.widget_newscorpau_ads
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
@@ -6197,7 +6197,7 @@ nuklearpower.com#@#.ad-tower
 broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
 smitefire.com#@#.ad-vertical
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
-buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
+tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
 fosonline.gr#@#.ad-zone
 ratemyprofessors.com#@#.ad.banner
 slader.com#@#.ad.inner
@@ -6519,7 +6519,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
 @@||massariuscdn.com/pubs/f1maximaal/f1maximaal_adtech_setup.js$domain=f1maximaal.nl
-@@||prod.adspsp.com/adb.3340835.min.js$domain=gfycat.com
+@@||prod.adspsp.com/adb.$domain=gfycat.com|yourdictionary.com
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.paraloscuriosos.com/js/es/gpt$script,domain=paraloscuriosos.com
 @@||tasty.co/static-assets/tasty-ui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
@@ -6617,7 +6617,9 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||adxbid.info/depo_$domain=depo.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||static.bigpipes.co/v4/sites/hollywoodpq_site.js$domain=hollywoodpq.com
-@@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com
+@@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
+@@||api.assertcom.de^$domain=imgur.com
+@@||cdn.ay.delivery^$domain=imgur.com
 @@||nike.com^$document
 @@||teva.com^$document
 !:partner_token=Bodis
@@ -8224,8 +8226,6 @@ testpages.adblockplus.org#@##abptest
 @@||related.askmen.com^$domain=askmen.com,document
 @@||related.sharemods.com^$domain=sharemods.com
 @@||related.sharemods.com^$domain=sharemods.com,document
-@@||meinschoenergarten.assistpub.com^$domain=mein-schoener-garten.de
-@@||meinschoenergarten.assistpub.com^$domain=mein-schoener-garten.de,document
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com

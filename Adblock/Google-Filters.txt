@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZwO/sFeeGVo4Z+ptRCiHkQ
-! Version: 202008201400
+! Checksum: H8aDh7E05oibSyUdh41wbw
+! Version: 202008210200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 20 Aug 2020 14:00 UTC
+! Last modified: 21 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1240,6 +1240,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||onergong.com^
 ||phastoag.com^
 ||pheevoug.com^
+||poorlydig.com^
 ||premiumvertising.com^
 ||proxyreducing.com^
 ||pz7zrn0xxgyg.com^
@@ -1485,8 +1486,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||bifieyhg.com^$third-party
 ||bilrtklg.com^$third-party
 ||bjcpcnhssg.com^$third-party
-||boaawvdg.com^$third-party
-||brfyubakyg.com^$third-party
 ||bwjteztqdlg.com^$third-party
 ||bwwfncfuzahpg.com^$third-party
 ||bzrsybcg.com^$third-party
@@ -2393,7 +2392,7 @@ dailyvoice.com,qatarliving.com##.b-banner
 impactwrestling.com,jumptogames.com,timesofisrael.com,tnawrestling.com##.b300x250
 1001tracklists.com,2br.co.uk,4music.com,90min.com,964eagle.co.uk,adage.com,adnkronos.com,adradio.ae,angryduck.com,anyclip.com,aol.com,arcadebomb.com,armageddonexpo.com,atlantatribune.com,autofocus.ca,autoline-market.ca,autoline-market.com,autoline.info,autotrader.co.za,b-metro.co.zw,balls.ie,bayt.com,betterrecipes.com,bikechatforums.com,billboard.com,blackamericaweb.com,blockchair.com,bored-bored.com,boxoffice.com,bukisa.com,cadplace.co.uk,caribvision.tv,cineuropa.org,cmo.com.au,cointelegraph.com,coryarcangel.com,daily-mail.co.zm,digitallook.com,dreamteamfc.com,dressuppink.com,echoroukonline.com,ecorporateoffices.com,elyricsworld.com,entrepreneur.com,euobserver.com,eurochannel.com,everyday.com.kh,evilmilk.com,fantasyleague.com,fieldandstream.com,filenewz.com,footballtradedirectory.com,forexpeacearmy.com,forum.dstv.com,freshbusinessthinking.com,freshtechweb.com,funpic.hu,gamehouse.com,gatewaynews.co.za,general-video.net,ghananation.com,girlsocool.com,git.tc,gsprating.com,guardianonline.co.nz,hitfreegames.com,hotfrog.ca,hotfrog.co.nz,hotfrog.co.uk,hotfrog.co.za,hotfrog.com,hotfrog.com.au,hotfrog.com.my,hotfrog.ie,hotfrog.in,hotfrog.ph,hotfrog.sg,hotnewhiphop.com,howard.tv,htxt.co.za,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,iconfinder.com,iguide.to,imedicalapps.com,imnotobsessed.com,insidefutbol.com,internationalmeetingsreview.com,internetnews.com,iradio.ie,irishtimes.com,isource.com,japantimes.co.jp,jewishtimes.com,josepvinaixa.com,jpost.com,kbs.co.kr,keepcalm-o-matic.co.uk,ketknbc.com,kicknews.com,kissanime.digital,ktsm.com,kuwaittimes.net,livescore.in,lmgtfy.com,londonstockexchange.com,manolith.com,marinelink.com,mariopiperni.com,mercopress.com,mmorpg.com,motherboard.tv,motortrend.com,moviezadda.com,mzhiphop.com,nanime.tv,nehandaradio.com,netmums.com,networkworld.com,news.am,nuttymp3.com,oberlo.com,oceanup.com,oncyprus.com,oxforddictionaries.com,pdfmyurl.com,pharmatimes.com,pnet.co.za,priceviewer.com,proxyhttp.net,ptotoday.com,radiotoday.co.uk,radiotoday.ie,residentadvisor.net,reversephonesearch.com.au,revizoronline.com,romereports.com,rugby365.com,scientificamerican.com,semiaccurate.com,smartcarfinder.com,snakkle.com,soccer24.co.zw,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,techfrag.com,thebull.com.au,thefanhub.com,thefringepodcast.com,thehun.com,thesaurus.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,travelpulse.com,trutv.com,tvsquad.com,twirlit.com,universalmusic.com,ustream.tv,vice.com,victoriafalls24.com,viralnova.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yellowbook.com,zbigz.com##.banner
 nbcsports.com,onrpg.com,usahealthcareguide.com##.banner-300-250
-carmag.co.za,farmonline.com.au,farmweekly.com.au,goodfruitandvegetables.com.au,irishnews.com,jewsnews.co.il,knowledgerush.com,narutoforums.com,northqueenslandregister.com.au,nscreenmedia.com,privatehealth.co.uk,queenslandcountrylife.com.au,stockandland.com.au,stockjournal.com.au,student-jobs.co.uk,teenspot.com,theland.com.au,turfcraft.com.au,vh1.com##.banner-container
+carmag.co.za,farmonline.com.au,farmweekly.com.au,goodfruitandvegetables.com.au,irishnews.com,knowledgerush.com,narutoforums.com,northqueenslandregister.com.au,nscreenmedia.com,privatehealth.co.uk,queenslandcountrylife.com.au,stockandland.com.au,stockjournal.com.au,student-jobs.co.uk,teenspot.com,theland.com.au,turfcraft.com.au,vh1.com##.banner-container
 angryduck.com##.banner160-title
 gsprating.com,jamieoliver.com,thelakewoodscoop.com##.banner2
 celebuzz.com,pinkisthenewblog.com##.banner728-wrapper
@@ -2558,9 +2557,9 @@ bloomberg.com##.widget_bb_doubleclick_widget
 motoring.com.au##.widget_car_stock_widget
 current.org,religionnews.com##.widget_doubleclick_widget
 automobilemag.com##.widget_ten_automobilemag_outbrain
-almasdarnews.com,breaking911.com,breakingac.com,carnewschina.com,hotelemarketer.com,jatan.blog,kakuchopurei.com,lbo-news.com,mediabiasfactcheck.com,mediapunta.net,michaelsavage.com,mynintendonews.com,premiumtimesng.com,theconservativetreehouse.com,thecryptosphere.com,thehungaryjournal.com,them0vieblog.com,thenationalsentinel.com,whysayanything.com,wordpress.com##.wpa
+breaking911.com,breakingac.com,carnewschina.com,hotelemarketer.com,jatan.blog,kakuchopurei.com,lbo-news.com,mediabiasfactcheck.com,mediapunta.net,michaelsavage.com,mynintendonews.com,premiumtimesng.com,theconservativetreehouse.com,thecryptosphere.com,thehungaryjournal.com,them0vieblog.com,thenationalsentinel.com,whysayanything.com,wordpress.com##.wpa
 notjustok.com,punchng.com##.wpbrbanner
-123moviesfree.com,7-up.net,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,clipwatching.com,coinad.com,dailypost.ng,digitallydownloaded.net,dotesports.com,dotmmo.com,fresherslive.com,gizmochina.com,guidedhacking.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,onlinevideoconverter.com,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rustourismnews.com,senimovie.co,sh.st,sports.yahoo.com,ssbcrack.com,tetris.com,theblaze.com,torrentdownloads.me,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
+123moviesfree.com,7-up.net,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,clipwatching.com,coinad.com,dailypost.ng,digitallydownloaded.net,dotesports.com,dotmmo.com,fresherslive.com,gizmochina.com,guidedhacking.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,onlinevideoconverter.com,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rustourismnews.com,senimovie.co,sports.yahoo.com,ssbcrack.com,tetris.com,theblaze.com,torrentdownloads.me,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
 getdroidtips.com##[href="https://youtu.be/nx8UleXvxNU"]
 msn.com##a[href*=".booking.com/"]
 doubleclick.net##a[href^="//dp.g.doubleclick.net/apps/domainpark/"]
