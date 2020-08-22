@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Aw/+pqBzJLSYbPA/Am497A
-! Version: 202008220200
+! Checksum: QPyjQOuRHjdU4i+xRnebiA
+! Version: 202008221400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Aug 2020 02:00 UTC
+! Last modified: 22 Aug 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2700,7 +2700,7 @@ porndig.com##a[href*="/trackhit/"]
 porndig.com##a[href*="/zone_link/"]
 animeidhentai.com,biqle.ru,daftsex.com,gotporn.com,katestube.com,pornhub.com,pornhubpremium.com,pstargif.com,redtube.com,sextvx.com,spankbang.com,sxyprn.com,ultrahorny.com,xnostars.com,xozilla.com,xxxporn.pics,xxxymovies.com##a[href*="?ats="]
 adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,daftsex.com,devporn.net,efukt.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,sxyprn.com,thefappeningblog.com,ultrahorny.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
-keezmovies.com,pornhub.com,pornhubthbh7ap3u.onion,redtube.com,spankbang.com,tube8.com##a[href^="http://ads.trafficjunky.net/"]
+keezmovies.com,pornhub.com,pornhubthbh7ap3u.onion,redtube.com,spankbang.com##a[href^="http://ads.trafficjunky.net/"]
 hentai-imperia.org,naughtyblog.org##a[href^="http://goo.gl/"]
 alotporn.com##a[href^="http://www.fling.com/"]
 myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
@@ -3246,7 +3246,7 @@ _GoogleTagManager2/
 ||fling.com/zeftour/t_i.php?
 ||forbesimg.com/assets/js/forbes/fast_pixel.js
 ||fotothing.com/space.gif?
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|desertsun.com|eddiebauer.com|glassesusa.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
 ||google.*/api/sclk?
 ||google.*/gwt/x/ts?
@@ -3408,6 +3408,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
 @@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|ryanair.com
 @@||googletagmanager.com/gtm.js$domain=action.com|adsoup.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nytimes.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|realestate.co.nz|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com
+@@||gstatic.com^*/firebase-analytics.js$script,domain=audiomack.com
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
 @@||hobbyking.com^*/gtm.js$script,third-party
@@ -4480,6 +4481,9 @@ google.co.uk##div[style="behavior:url(#default#userData);background-color:#5a5a5
 truthdig.com##div[style="margin-left: 10px; font-size: small;"]
 mikebloomberg.com##div[style^="float:left; padding:0px 8px 0px"]
 briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
+! Youtube TV promos
+youtube.com##.ytd-primetime-promo-renderer
+youtube.com##ytd-popup-container
 e-day.ro,mtlblog.com###CoverPop-cover
 laptopmag.com,tomshardware.co.uk,tomshardware.com###ec-popup-modal
 goodhousekeeping.co.za###enhancedtextwidget-10
