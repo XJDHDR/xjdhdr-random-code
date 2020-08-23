@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QPyjQOuRHjdU4i+xRnebiA
-! Version: 202008221400
+! Checksum: ISR9wHIqw5h20QiNdhmaeQ
+! Version: 202008230200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Aug 2020 14:00 UTC
+! Last modified: 23 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4483,7 +4483,6 @@ mikebloomberg.com##div[style^="float:left; padding:0px 8px 0px"]
 briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 ! Youtube TV promos
 youtube.com##.ytd-primetime-promo-renderer
-youtube.com##ytd-popup-container
 e-day.ro,mtlblog.com###CoverPop-cover
 laptopmag.com,tomshardware.co.uk,tomshardware.com###ec-popup-modal
 goodhousekeeping.co.za###enhancedtextwidget-10
@@ -4671,6 +4670,7 @@ boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###slid
 cuisineetvinsdefrance.com,francetvinfo.fr,leparisien.fr,phonandroid.com,silicon.fr##.newsletter
 xiachufang.com###scrollTop
 ||wp.com/www.proiezionidiborsa.it/*/google-news-
+mowmag.com##.crm-card-next
 tabelog.com###page-up
 bloomberg.co.jp##BB-MINI-PLAYER
 administradores.com.br,bit.pt,bitmag.com.br,record.pt##.newsletter
