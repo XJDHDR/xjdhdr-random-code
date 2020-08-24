@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wHN1XsZoB/pMAI4vZ94TpQ
-! Version: 202008240200
+! Checksum: VVabEM+pOeAU1u02NwX8KQ
+! Version: 202008241400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 24 Aug 2020 02:00 UTC
+! Last modified: 24 Aug 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1729,9 +1729,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||zmasxytjskg.com^$third-party
 ||zqmxzjrhchg.com^$third-party
 ||zzlayejqlzcg.com^$third-party
-||ojujyjjgg.com^$image,third-party
-||wqtdtstdxg.com^$image,third-party
-||zcrfefgrg.com^$image,third-party
 ||ad-apac.doubleclick.net^$popup,third-party
 ||ad-emea.doubleclick.net^$popup,third-party
 ||ad.doubleclick.net/ddm/trackclk/$popup,third-party
@@ -2739,7 +2736,7 @@ hdzog.com,voyeurhit.com##div[style="width:300px; height:250px;"]
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|espn.com|nbcsports.com|realestate.co.nz
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||pbs.twimg.com/ad_img/$xmlhttprequest,domain=twitter.com
@@ -3352,7 +3349,7 @@ _GoogleTagManager2/
 ||dv59b.montecarlomeeting.com^
 ||mo.moonpig.com^
 ||greenmangaming.com/omnopfddrdlevbbh.js
-$websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.net|bigspeeds.com|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bypassed.ws|byter.tv|catrumahminimalis.me|centrum-dramy.pl|cinemafacil.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|dragonballzpolo.blogspot.com|drama-cool.me|estream.to|estream.xyz|extratorrent.cd|fbmovies.org|fileone.tv|filmstreamvk.site|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|gomovie123.me|gomovies123.me|hdvid.tv|hdyayinmac1.com|hentai-online.pl|hqq.tv|hqq.watch|ianimes.co|idope.tv|ifrp.xyz|jkanime.net|kinohabr.net|kinokongo.cc|kinokrad.co|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|leon08.tk|leon12.tk|leon16.tk|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|myeffect.net|netiap.com|nowvideo.sx|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|pebx.pl|potomy.ru|povw1deo.com|powvideo.cc|powvideo.net|protect-iframe.com|proxyportal.eu|reactor.cc|replaytvstreaming.com|seventorrents.cc|severita-service.ru|sherlockonline.ru|shortbitsfree.net|shrink-service.it|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streambeam.io|streamplay.me|streamplay.to|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.org|tomadivx.tv|unblockall.org|unblocked.gdn|vidoza.net|vidtodo.com|vidtodo.me|vidtodo.pro|vidup.io|vidup.tv|vidzi.tv|void.cat|wallpoper.com|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|zenexplayer.com|zona.plus
+$websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.net|bigspeeds.com|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bypassed.ws|byter.tv|catrumahminimalis.me|centrum-dramy.pl|cinemafacil.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|dragonballzpolo.blogspot.com|drama-cool.me|estream.to|estream.xyz|extratorrent.cd|fbmovies.org|fileone.tv|filmstreamvk.site|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|gomovie123.me|gomovies123.me|hdvid.tv|hdyayinmac1.com|hentai-online.pl|hqq.tv|hqq.watch|ianimes.co|idope.tv|ifrp.xyz|jkanime.net|kinohabr.net|kinokongo.cc|kinokrad.co|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|leon08.tk|leon12.tk|leon16.tk|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|myeffect.net|netiap.com|netu.tv|nowvideo.sx|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|pebx.pl|potomy.ru|povw1deo.com|powvideo.cc|powvideo.net|protect-iframe.com|proxyportal.eu|reactor.cc|replaytvstreaming.com|seventorrents.cc|severita-service.ru|sherlockonline.ru|shortbitsfree.net|shrink-service.it|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streambeam.io|streamplay.me|streamplay.to|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.org|tomadivx.tv|unblockall.org|unblocked.gdn|vidoza.net|vidtodo.com|vidtodo.me|vidtodo.pro|vidup.io|vidup.tv|vidzi.tv|void.cat|wallpoper.com|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|zenexplayer.com|zona.plus
 $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.net|bigspeeds.com|biter.tv|bypassed.ws|byter.tv|centrum-dramy.pl|cinemafacil.com|clipwatching.com|coinfaucet.eu|coinhub.win|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|estream.to|estream.xyz|filmonet.com|filmstreamvk.site|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|hdvid.tv|hentai-online.pl|hqq.watch|ianimes.co|kinokongo.cc|kinostuff.com|lewd.ninja|love-drama.pl|movie4k.is|pebx.pl|potomy.ru|povw1deo.com|powvideo.cc|powvideo.net|proxyportal.eu|reactor.cc|severita-service.ru|sickrage.ca|sorteosrd.com|tomadivx.tv|unblockall.org|unblocked.gdn|vidtodo.com|vidtodo.me|vidtodo.pro|wallpoper.com|wearesaudis.net|ya3ale.com|yazilir.com|zenexplayer.com
 ||exactag.com^$domain=quoka.de
 ||google-analytics.com/analytics.js$domain=kabeleins.de|metal-hammer.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|quoka.de|ran.de|rollingstone.de|sat1.de|sixx.de|spiegel.de|stern.de

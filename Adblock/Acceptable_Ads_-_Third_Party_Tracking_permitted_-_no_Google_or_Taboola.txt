@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vn7Wh/QK7t6ZMt6C3lBYjw
-! Version: 202008240200
+! Checksum: wmAyXbe5xh9jwvroM+d2Fw
+! Version: 202008241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Aug 2020 02:00 UTC
+! Last modified: 24 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1141,6 +1141,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23123
 ! Outbrain ads
+||outbrain.com/nanoWidget/externals/detect/px.gif?ch=1
+@@||outbrain.com/nanoWidget/externals/detect/px.gif?ch=2
 @@||karma.mdpcdn.com/service/js-min/karma.header.js$domain=fitnessmagazine.com
 @@||karma.mdpcdn.com/service/js-min/karma.footer.js$domain=fitnessmagazine.com
 @@||blogherads.com/static/blogherads.js$domain=sheknows.com
@@ -1611,7 +1613,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
-@@/projectagora.min.js$script,domain=elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -1825,8 +1827,8 @@ ngs.ru,ngs24.ru#@#div[data-adv-type]
 radaronline.com,thechive.com#@#div[id][class] > [class] > a[target][href]:first-child
 vol.at#@#div[id^="AdContainer_"]
 dinamani.com,newindianexpress.com#@#div[id^="ad_script_"]
-thesportsdrop.com,cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,medicaregranny.com,militarybud.com,misspennystocks.com,mortgageafterlife.com,psychicmonday.com,refinancegold.com,therapyjoker.com,tradingblvd.com,tummytuckhipo.com,weightlossgroove.com#@#div[id^="advads-"]
-cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,mortgageafterlife.com,refinancegold.com,therapyjoker.com,tradingblvd.com#@#div[id^="advads_"]
+9docu.org,thesportsdrop.com,cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,medicaregranny.com,militarybud.com,misspennystocks.com,mortgageafterlife.com,psychicmonday.com,refinancegold.com,therapyjoker.com,tradingblvd.com,tummytuckhipo.com,weightlossgroove.com#@#div[id^="advads-"]
+9docu.org,cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,mortgageafterlife.com,refinancegold.com,therapyjoker.com,tradingblvd.com#@#div[id^="advads_"]
 merrjep.al,seloger.com#@#div[id^="div-gpt-ad"]
 msn.com##div[id^="tb_homePage_carousel_"] div[id^="internal_trc_"]
 moneyam.com#@#div[style="width:980px;height:450px;clear:both;margin: 0 auto;"]
@@ -1842,6 +1844,7 @@ somosxbox.com#@#.it-ad-wrapper
 somosxbox.com#@#.it-ad
 zoorprendente.com#@#a[href^="https://www.clicktraceclick.com/"]
 medicitalia.it#@#a[href^="https://affiliate.across.it/"]
+9docu.org#@#.advads-widget
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -6500,7 +6503,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||a.pub.network^*/pubfig.min.js$domain=conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^*/pubfig.min.js$domain=androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -6539,7 +6542,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||a.pub.network^$script,domain=androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@^x-kinja-static/assets/new-client/trackers.0df168682f7cd87994ab.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@^x-kinja-static/assets/new-client/runtime~trackers.83877260061b4d6ce009.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@||x.kinja-static.com/assets/new-client/runtime~frontPage.9c59709f2aba9c3fad49.js$script,domain=kotaku.com
