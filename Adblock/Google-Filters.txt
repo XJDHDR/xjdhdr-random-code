@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VVabEM+pOeAU1u02NwX8KQ
-! Version: 202008241400
+! Checksum: q7JOPYudhny0G1pMAOYCOA
+! Version: 202008250200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 24 Aug 2020 14:00 UTC
+! Last modified: 25 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1137,7 +1137,6 @@ _reklama_$domain=~youtube.com
 ##a[href^="http://googleads.g.doubleclick.net/pcs/click"]
 ##a[href^="http://imads.integral-marketing.com/"]
 ##a[href^="http://pubads.g.doubleclick.net/"]
-##a[href^="http://tracking.toroadvertising.com/"]
 ##a[href^="http://www.123-reg.co.uk/affiliate2.cgi"]
 ##a[href^="http://www.friendlyduck.com/AF_"]
 ##a[href^="http://www.greenmangaming.com/?tap_a="]
@@ -1488,30 +1487,20 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||bjcpcnhssg.com^$third-party
 ||bwjteztqdlg.com^$third-party
 ||bwwfncfuzahpg.com^$third-party
-||bzrsybcg.com^$third-party
-||caucqpoeg.com^$third-party
-||cbzkrwjdskg.com^$third-party
-||cfskcqrwbog.com^$third-party
-||cfzskkkmjg.com^$third-party
 ||ckombcgg.com^$third-party
 ||cndgrpfuuijg.com^$third-party
 ||cqvkwpulpwfudg.com^$third-party
 ||csnqzwwdtjg.com^$third-party
 ||cwnrunnvatbfug.com^$third-party
-||cwvdzcqvg.com^$third-party
 ||deiqehvcdnntg.com^$third-party
 ||dkecozphug.com^$third-party
 ||dlpyumfmg.com^$third-party
 ||dnyjhikistbhvg.com^$third-party
 ||dppeusog.com^$third-party
 ||drqlvjwhg.com^$third-party
-||drsemkuhpg.com^$third-party
 ||dstxhvmgkg.com^$third-party
-||dtvlalitvg.com^$third-party
 ||dvtwezyzog.com^$third-party
 ||dwczfwnjg.com^$third-party
-||dwopbruzifg.com^$third-party
-||dwuvmraztukg.com^$third-party
 ||eenbryfjg.com^$third-party
 ||ejodwopthpg.com^$third-party
 ||ekbiwwngwig.com^$third-party
@@ -3404,7 +3393,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|maxiclimber.com|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg
 @@||google-analytics.com/plugins/ua/ec.js$script,domain=health2000.co.nz
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
-@@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|ryanair.com
+@@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|playphrase.me|ryanair.com
 @@||googletagmanager.com/gtm.js$domain=action.com|adsoup.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nytimes.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|realestate.co.nz|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com
 @@||gstatic.com^*/firebase-analytics.js$script,domain=audiomack.com
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
