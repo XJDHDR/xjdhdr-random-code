@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dRhBJ9sgwysV8rWmwMotuw
-! Version: 202008260200
+! Checksum: jIF7cDqBBO5n0RtC7fxvjw
+! Version: 202008261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Aug 2020 02:00 UTC
+! Last modified: 26 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5124,7 +5124,6 @@ workupload.com#@#.ad-label
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=47740
 ! AdRecover ads
 @@||adpushup.com/innovativeAdsDemo/demo-page-shell.js$domain=adpushup.com
-@@||cdn.cookielaw.org/consent^$xmlhttprequest,domain=gsmarena.com
 freewarefiles.com#@#div > iframe[style]
 mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
@@ -6413,7 +6412,7 @@ segodnya.ua#@#div[id^="admixer_"]
 zakon.kz#@#div[id^="adv_"]
 didev.co.uk,expertreviews.co.uk#@#div[id^="dfp-ad-"]
 yad2.co.il#@#div[id^="dfp-slot-"]
-klp.pl#@#div[id^="ezoic-pub-ad"]
+optionsprofitcalculator.com,klp.pl#@#div[id^="ezoic-pub-ad"]
 jerusalemonline.com#@#div[style="width:300px; height:250px;"]
 jerusalemonline.com#@#div[style="width:300px; height:600px;"]
 realmadryt.pl#@#fieldset[style^="border: 1px solid; padding: 5p"]
@@ -6465,6 +6464,10 @@ hollywoodpq.com#@#.oboxads
 hollywoodpq.com#@#.oboxads-ad-widget
 gottabemobile.com#@#.mvp-widget-ad 
 gottabemobile.com#@#.mvp_ad_widget
+pcgamingwiki.com#@##mpu
+pagesix.com,decider.com,nypost.com#@#.billboard-ad
+optionsprofitcalculator.com#@#.vertical_ad
+yourdictionary.com#@#.advertising
 !
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -6521,7 +6524,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||hb.improvedigital.com/pbw/prebid$script,domain=twoplayergames.org
 @@||hostedprebid.com^$script,domain=culturehook.com
 @@||im-g.pl/static/adview/$script,domain=audycje.tokfm.pl|autotrader.pl|avanti24.pl|blox.pl|cjg.gazeta.pl|czasbrodnicy.pl|czasswiecia.pl|czterykaty.pl|domiporta.pl|edziecko.pl|elka.pl|fm.tuba.pl|gazeta.pl|haps.pl|komunikaty.pl|kurierdabrowski.pl|kutno.net.pl|logo24.gazeta.pl|logo24.pl|magazyn-kuchnia.pl|moja-ostroleka.pl|moto.pl|namonciaku.pl|natemat.pl|newsmavens.pl|ostrowmaz24.pl|plotek.pl|sport.pl|tokfm.pl|tuba.pl|ugotuj.to|wyborcza.biz|wyborcza.pl|wysokieobcasy.pl
-@@||jscdn.yieldbird.com^$script,third-party,xmlhttprequest,domain=merca20.com|allani.pl|anlikaltinfiyatlari.com|bestcraftsandrecipes.com|capitalmexico.com.mx|cas.sk|ddwloclawek.|ddwloclawek.pl|dennikn.sk|domodi.pl|elgrafico.mx|expresskaszubski.pl|fcbarca.com|gostyn24.pl|hejmielec.pl|homebook.pl|homegardendiy.com|homelook.it|iszczecinek.pl|jooble.org|klp.pl|ladnydom.pl|leszno24.pl|littlealchemy.com|littlealchemy2.com|livinggreenandfrugally.com|meczyki.pl|menicka.cz|mielec.pl|mojewypieki.com|nyheteridag.se|obrazovaka.ru|omnicalculator.com|paraloscuriosos.com|podaj.to|popularne.pl|portalplock.pl|quizowa.pl|realmadryt.pl|rmf24.pl|rozklad-pkp.pl|salon24.pl|skijumping.pl|therighthairstyles.com|trinixy.ru|tusochaczew.pl|twoplayergames.org|windowsreport.com|wyborcza.pl|yesasia.ru|zakon.kz|zdravie.sk
+@@||jscdn.yieldbird.com^$script,third-party,xmlhttprequest,domain=jastrzabpost.pl|merca20.com|allani.pl|anlikaltinfiyatlari.com|bestcraftsandrecipes.com|capitalmexico.com.mx|cas.sk|ddwloclawek.|ddwloclawek.pl|dennikn.sk|domodi.pl|elgrafico.mx|expresskaszubski.pl|fcbarca.com|gostyn24.pl|hejmielec.pl|homebook.pl|homegardendiy.com|homelook.it|iszczecinek.pl|jooble.org|klp.pl|ladnydom.pl|leszno24.pl|littlealchemy.com|littlealchemy2.com|livinggreenandfrugally.com|meczyki.pl|menicka.cz|mielec.pl|mojewypieki.com|nyheteridag.se|obrazovaka.ru|omnicalculator.com|paraloscuriosos.com|podaj.to|popularne.pl|portalplock.pl|quizowa.pl|realmadryt.pl|rmf24.pl|rozklad-pkp.pl|salon24.pl|skijumping.pl|therighthairstyles.com|trinixy.ru|tusochaczew.pl|twoplayergames.org|windowsreport.com|wyborcza.pl|yesasia.ru|zakon.kz|zdravie.sk
 @@||keytarget.adnet.lt/stable$script,third-party,xmlhttprequest,domain=118.lt|basketnews.lt|bernardinai.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt|sena.lt|supermama.lt|tax.lt|technologijos.lt|ve.lt
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
@@ -6858,6 +6861,9 @@ pixnet.net#@#div[id*="-ad-"]
 naturallivingideas.com#@#.quads-ad1_widget
 naturallivingideas.com#@##quads-ad1_widget
 boardgamegeek.com#@#.advertisement-top
+@@||cdn.cookielaw.org/consent^$xmlhttprequest,domain=gsmarena.com
+@@||cookielaw.org/scripttemplates^$xmlhttprequest,domain=gsmarena.com
+@@||dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js$script,domain=gsmarena.com
 !:partner_token=Softonic
 !:partner_id=72840e3d09846a82
 !:type=partner
@@ -7186,6 +7192,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
 express.co.uk,nigella.com##div[block^="true"]
+londontheinside.com#@#.widget_ad_widget
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
@@ -8242,6 +8249,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.askmen.com^$domain=askmen.com,document
 @@||related.sharemods.com^$domain=sharemods.com
 @@||related.sharemods.com^$domain=sharemods.com,document
+@@||related.vesty.co.il^$domain=vesty.co.il
+@@||related.vesty.co.il^$domain=vesty.co.il,document
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
@@ -8250,6 +8259,7 @@ testpages.adblockplus.org#@##abptest
 @@||global.proper.io/payloads/*.js$domain=notalwaysright.com
 ||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
+@@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -8363,7 +8373,7 @@ saltwire.com,thechronicleherald.ca,thetelegram.com#@#.banner-ad
 futbolcentroamerica.com#@#.banner_160x600
 hannity.com#@#.banner_ad
 capebretonpost.com,journalpioneer.com,theguardian.pe.ca#@#.billboard-ad
-247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.box-ad
+xlrforum.com,247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.box-ad
 koutsompolio.gr#@#.browse-banner_ad
 arsdev.net,arstechnica.com#@#.cns-ads-stage
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-container
@@ -8408,6 +8418,8 @@ reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
+vesty.co.il#@#.top-ad
+xlrforum.com#@#.afs_ads
 ! FT-1489
 @@||forbes.com^$generichide
 forbes.com##.fbs-ad--mobile-medianet-wrapper
