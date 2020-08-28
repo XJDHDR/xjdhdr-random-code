@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AJVIt99X4qGwIUdBdDk4mQ
-! Version: 202008271400
+! Checksum: Zwo0NAU0EcjRcTacJVBPUA
+! Version: 202008280200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 27 Aug 2020 14:00 UTC
+! Last modified: 28 Aug 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -23,6 +23,7 @@
 -doubleclick.min.js
 -google-ad.
 -google-ads-
+-google-ads.
 -google-ads/
 -google-adsense.
 -google2-ad-
@@ -1231,6 +1232,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||kesmdg.com^
 ||kgqhtakjphgdwg.com^
 ||khg97644rvbg.com^
+||l5fvoqimjfug.com^
 ||lalaping.com^
 ||leimardog.com^
 ||lidsfoalliving.com^
@@ -1645,23 +1647,14 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||sgutelyg.com^$third-party
 ||snbybgwiyfug.com^$third-party
 ||srrxzmcsg.com^$third-party
-||svdmxetbyfyg.com^$third-party
 ||swstkrihg.com^$third-party
 ||swtubbksgvg.com^$third-party
 ||sxzemwijeyqxg.com^$third-party
-||szxnruaeuig.com^$third-party
-||tadozqgv.com^$third-party
 ||taljnpgg.com^$third-party
 ||tcgqqmjyg.com^$third-party
 ||tfbqvqclg.com^$third-party
-||tgugqkjvinvgv.com^$third-party
 ||thuneagjhnvlg.com^$third-party
 ||tlkhzqmrg.com^$third-party
-||tnvghrlg.com^$third-party
-||tptfopotrzg.com^$third-party
-||ttomktasfnqlg.com^$third-party
-||tylzbdkjsjig.com^$third-party
-||uclylhzwg.com^$third-party
 ||udvysuucqgadg.com^$third-party
 ||ughdqpwtfabsqg.com^$third-party
 ||ulsvrptuwyovg.com^$third-party
@@ -2713,7 +2706,8 @@ hdzog.com,voyeurhit.com##div[style="width:300px; height:250px;"]
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=gamespot.com
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=fox35orlando.com|imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=9gag.com|accuweather.com|blastingnews.com|epaper.timesgroup.com|gamespot.com|theta.tv|webmd.com|womenshealthmag.com
+@@||g.doubleclick.net/ondemand/$xmlhttprequest,domain=sbs.com.au
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=9gag.com|accuweather.com|blastingnews.com|epaper.timesgroup.com|gamespot.com|independent.co.uk|theta.tv|webmd.com|womenshealthmag.com
 @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/webpagethumbnail?*&query=$script,~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
@@ -2728,7 +2722,7 @@ hdzog.com,voyeurhit.com##div[style="width:300px; height:250px;"]
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|espn.com|nbcsports.com|realestate.co.nz
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||pbs.twimg.com/ad_img/$xmlhttprequest,domain=twitter.com
 @@||oxfordlearnersdictionaries.com/external/scripts/doubleclick.js
@@ -2869,9 +2863,9 @@ www.google.com#@##videoads
 @@||ero-advertising.com/banads/$subdocument,domain=palimas.com
 @@||google.com/ads/$domain=hinduladies.com
 @@||blogger.com^$popup,domain=pornhub.com|pornhubthbh7ap3u.onion
--google-analytics-$domain=~whmcsadmintheme.com|~wordpress.org
+-google-analytics-$domain=~wordpress.org
 -google-analytics.
--google-analytics/$domain=~whmcsadmintheme.com|~wordpress.org
+-google-analytics/$domain=~wordpress.org
 -google-tag-manager/$script,domain=~wordpress.org
 .Google.Tracker.js
 .googleanalytics.js
@@ -3234,7 +3228,7 @@ _GoogleTagManager2/
 ||fling.com/zeftour/t_i.php?
 ||forbesimg.com/assets/js/forbes/fast_pixel.js
 ||fotothing.com/space.gif?
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
 ||google.*/api/sclk?
 ||google.*/gwt/x/ts?
