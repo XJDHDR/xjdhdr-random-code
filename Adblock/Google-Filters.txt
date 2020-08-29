@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: frkfxMyDSw7BL/0vfkPnKg
-! Version: 202008290200
+! Checksum: z3O1x93/5M+oF6pmNbeRqg
+! Version: 202008291400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 29 Aug 2020 02:00 UTC
+! Last modified: 29 Aug 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1210,6 +1210,7 @@ spoilertv.com#@##adsensewide
 androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,filecore.co.nz,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
 africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,manga2u.co,mangasky.co,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
 ||86pqvhdw5wpg.com^
+||alruqbfjg.com^
 ||askbegrag.com^
 ||aud3g.com^
 ||bhcf764sf8pg.com^
@@ -4712,8 +4713,8 @@ mozillamessaging.com,thebrowser.com#@#.sharebox
 theatlantic.com,youtube.com#@#.show-share
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
-deathandtaxesmag.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
-deathandtaxesmag.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
+deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
+deathandtaxesmag.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
 paperblog.com,paperblog.fr#@#.social-inline
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
 amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,reddit.com,store.google.com,twitch.tv,xhamster.com#@#.subscribe-button
