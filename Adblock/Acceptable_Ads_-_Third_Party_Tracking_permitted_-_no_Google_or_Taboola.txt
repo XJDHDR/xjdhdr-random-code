@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EEQIrgPRENsbDwX57TQ7BQ
-! Version: 202008310200
+! Checksum: zPE9ue8YkNEhku8gAd0e7Q
+! Version: 202008311400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 31 Aug 2020 02:00 UTC
+! Last modified: 31 Aug 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1141,8 +1141,8 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23123
 ! Outbrain ads
-||outbrain.com/nanoWidget/externals/detect/px.gif?ch=1
-@@||outbrain.com/nanoWidget/externals/detect/px.gif?ch=2
+||outbrain.com/widget/detect/px.gif?ch=1
+@@||outbrain.com/widget/detect/px.gif?ch=2
 @@||karma.mdpcdn.com/service/js-min/karma.header.js$domain=fitnessmagazine.com
 @@||karma.mdpcdn.com/service/js-min/karma.footer.js$domain=fitnessmagazine.com
 @@||blogherads.com/static/blogherads.js$domain=sheknows.com
