@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HtviVDd0JZLnWAylP2HLXA
-! Version: 202009010200
+! Checksum: dLh6LAF1An9v96Md3CCmNg
+! Version: 202009011400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Sep 2020 02:00 UTC
+! Last modified: 01 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6287,7 +6287,7 @@ temp-mail.org#@#.ezo_ad
 broadwayworld.com,temp-mail.org#@#.ezoic-ad
 hltv.org#@#.f-col-top
 mako.co.il#@#.feed-ad
-whosampled.com,hollywoodpq.com,meekcomic.com#@#.footer-ad
+totalprosports.com,whosampled.com,hollywoodpq.com,meekcomic.com#@#.footer-ad
 chip.com.tr#@#.footerad
 fortune.com#@#.fortune-ad-tag__leaderboard
 athensvoice.gr#@#.full-ad
@@ -6468,6 +6468,10 @@ pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
+totalprosports.com#@##cmn_ad_tag_head
+sporcle.com#@#[style*="width: 728px; height: 90px;"]
+sporcle.com#@#.page-ad
+sporcle.com#@#.ad-source
 !
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -8295,10 +8299,11 @@ askmen.com#@##ad-top
 askmen.com#@##ad-top-slot
 wowhead.com#@##ad-vertical
 old.reddit.com#@##ad_1
-old.reddit.com#@##ad_2
+dd.reddit.com,us.reddit.com,old.reddit.com#@##ad_2
 old.reddit.com#@##ad_4
 old.reddit.com#@##ad_5
 old.reddit.com#@##ad_6
+dd.reddit.com,us.reddit.com#@##ad_7
 seekingalpha.com#@##ad_728x90
 mediafire.com#@##adwrapper
 web.filehorse.com###aswift_0_expand
