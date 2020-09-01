@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zPE9ue8YkNEhku8gAd0e7Q
-! Version: 202008311400
+! Checksum: Sjhp1I+prYexVfDjlvoq0w
+! Version: 202009010200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 31 Aug 2020 14:00 UTC
+! Last modified: 01 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1631,7 +1631,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.projectagoraservices.com/?id=$script,domain=merrjep.al
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||jeded.com/ads/1.js|$domain=subscene.com
-@@||domslc.com^$third-party,domain=newsbreak.gr
+@@||domslc.com^$third-party,domain=newsbreak.gr,ciao.ro
 @@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
 @@||merrjep.al/Scripts/prebid2.$script,domain=merrjep.al
 tempest.services.disqus.com#@##ad-container
@@ -1788,7 +1788,7 @@ thedirty.com#@#.sponsored
 cronica.com.py,espn.co.uk,espn.com.au,espn.com.br,espn.com.ve,espn.in#@#.sponsored-content
 3ds-paradise.com,6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,desired.de,espn.cl,espn.co.uk,espn.com,espn.com.ar,espn.com.au,espn.com.br,espn.com.mx,espn.com.ve,espn.in,espncricinfo.com,espndeportes.espn.com,fantasy.espn.com,global.espn.com,tv5.espn.com#@#.sponsored-headlines
 holahola.cc#@#.sponsored-link
-3ds-paradise.com,desired.de,espn.co.uk,espn.com.au,espn.com.br,espn.com.ve,espn.in,espncricinfo.com,vocativ.com#@#.sponsored-links
+espn.com,3ds-paradise.com,desired.de,espn.co.uk,espn.com.au,espn.com.br,espn.com.ve,espn.in,espncricinfo.com,vocativ.com#@#.sponsored-links
 conneriesqc.com,lijstverse.nl,victoriaadvocate.com,whatreallyhappened.com#@#.sponsored_ad
 theweek.com#@#.sr-in-feed-ads
 daily-goals.com#@#.sticky-ad-container
@@ -10474,6 +10474,7 @@ yahoo.com#@#.native-leaderboard-ad
 yahoo.com#@#.pencil-ad-section
 yahoo.com#@#.geminiAd
 yahoo.com#@#.nativeAd
+yahoo.com#@#.native-ad-item
 yahoo.com##a[href*="beap.gemini.yahoo.com/mbclk?"] > img[src*=".gif"]
 @@||yahoo.com^*/av/moneyball/ads/$image,domain=~mail.yahoo.com
 @@||yahoo.com^*/av/curveball/ads/$image,domain=~mail.yahoo.com
