@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AtZfOOd4GDtDLlPcA+DKLw
-! Version: 202009030200
+! Checksum: dtSU4kMcPMltXNZjC6+q9g
+! Version: 202009031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Sep 2020 02:00 UTC
+! Last modified: 03 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8374,6 +8374,7 @@ reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
 ! vesty.co.il#@#.top-ad
 xlrforum.com#@#.afs_ads
+tabs.ultimate-guitar.com###ad_cs_2010320_160_600
 ! FT-1489
 @@||forbes.com^$generichide
 forbes.com##.fbs-ad--mobile-medianet-wrapper
@@ -10000,6 +10001,9 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 @@||criteo.com/delivery/lg.php?$domain=yahoo.com
 @@||twiago.com/adclick.php$popup,domain=style.yahoo.com|nachrichten.yahoo.com
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=style.yahoo.com|nachrichten.yahoo.com
+yahoo.com#@#.darla-lrec-ad
+yahoo.com#@#div[id*="ComboAd"]
+yahoo.com#@#.gemini-ad-feedback
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
