@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CvnUOP1t6gptESAG/2c4QQ
-! Version: 202009031400
+! Checksum: EYdW0REmXIqfepLPs5NMxQ
+! Version: 202009040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Sep 2020 14:00 UTC
+! Last modified: 04 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -10056,7 +10056,6 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 @@||criteo.com/delivery/lg.php?$domain=yahoo.com
 @@||twiago.com/adclick.php$popup,domain=style.yahoo.com|nachrichten.yahoo.com
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=style.yahoo.com|nachrichten.yahoo.com
-yahoo.com#@#.darla-lrec-ad
 yahoo.com#@#div[id*="ComboAd"]
 yahoo.com#@#.gemini-ad-feedback
 !:partner_token=Oath
