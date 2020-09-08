@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i+f6rBn3UdxDdqmvd9X/hQ
-! Version: 202009080200
+! Checksum: w9pRkoEKFaXdhNqCvBns6Q
+! Version: 202009081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Sep 2020 02:00 UTC
+! Last modified: 08 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8305,12 +8305,13 @@ seattletimes.com#@##ad-right-top
 askmen.com#@##ad-top
 askmen.com#@##ad-top-slot
 wowhead.com#@##ad-vertical
-old.reddit.com#@##ad_1
-dd.reddit.com,us.reddit.com,old.reddit.com#@##ad_2
-old.reddit.com#@##ad_4
-old.reddit.com#@##ad_5
-old.reddit.com#@##ad_6
-dd.reddit.com,us.reddit.com#@##ad_7
+reddit.com#@##ad_1
+reddit.com#@##ad_2
+reddit.com#@##ad_3
+reddit.com#@##ad_4
+reddit.com#@##ad_5
+reddit.com#@##ad_6
+reddit.com#@##ad_7
 seekingalpha.com#@##ad_728x90
 mediafire.com#@##adwrapper
 web.filehorse.com###aswift_0_expand
@@ -8433,6 +8434,8 @@ reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
+reddit.com#@#div[data-before-content="advertisement"]
+twinfinite.net#@#.adDiv
 ! vesty.co.il#@#.top-ad
 xlrforum.com#@#.afs_ads
 tabs.ultimate-guitar.com###ad_cs_2010320_160_600
@@ -10064,6 +10067,7 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=style.yahoo.com|nachrichten.yahoo.com
 yahoo.com#@#div[id*="ComboAd"]
 yahoo.com#@#.gemini-ad-feedback
+yahoo.com#@#div[class*="gemini-ad"]
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner

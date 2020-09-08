@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WFMzf1AKY3WPmpdMXMWBxg
-! Version: 202009080200
+! Checksum: c/HpAwzCns9L7fBF/pnZNg
+! Version: 202009081400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Sep 2020 02:00 UTC
+! Last modified: 08 Sep 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1258,6 +1258,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||testamentfendsounding.com^
 ||third-tracking.com^
 ||tithewtog.com^
+||turmoilexcessivetranslating.com^
 ||waysinbeg.com^
 ||wityamdog.com^
 ||wizliebeg.com^
@@ -1441,6 +1442,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||quantum-advertising.com^$third-party
 ||radiusmarketing.com^$third-party
 ||redirect18systemsg.com^$third-party
+||rhema-coaching.com^$third-party
 ||rmgserving.com^$third-party
 ||rtbtracking.com^$third-party
 ||runadtag.com^$third-party
@@ -2147,7 +2149,7 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 @@||ajax.googleapis.com^$script,domain=myporn.club|sxyprn.com
 @@||ajax.googleapis.com^$script,domain=smutr.com
 ||goo.gl^$popup,domain=thisav.com
-3g2upl4pq6kufc4m.onion,909lifefm.com,anichart.net,audioreview.com,boldsky.com,carlow-nationalist.ie,cayrock.ky,cellmapper.net,chelseanews.com,craigclassifiedads.com,daemon-tools.cc,disconnect.me,dreadcentral.com,duckduckgo.com,eveningecho.ie,full-stream.me,g.doubleclick.net,gearculture.com,genevalunch.com,goodreturns.in,healthboards.com,hot1041.ky,inspirationti.me,irannewsdaily.com,kildare-nationalist.ie,kiss.ky,laois-nationalist.ie,lorempixel.com,lshstream.com,lshstreams.com,mtbr.com,mutaz.net,nylonguysmag.com,pdfiles.com,photographyreview.com,placehold.it,playr.org,privack.com,quiz4fun.com,quote.com,roscommonherald.ie,skyuser.co.uk,talk1300.com,theindustry.cc,triblive.com,tvope.com,waterford-news.ie,wccftech.com,westernpeople.com,wexfordecho.ie,x1071.ky###ads
+3g2upl4pq6kufc4m.onion,909lifefm.com,9hentai.com,anichart.net,audioreview.com,boldsky.com,carlow-nationalist.ie,cayrock.ky,cellmapper.net,chelseanews.com,craigclassifiedads.com,daemon-tools.cc,disconnect.me,dreadcentral.com,duckduckgo.com,eveningecho.ie,full-stream.me,g.doubleclick.net,gearculture.com,genevalunch.com,goodreturns.in,healthboards.com,hot1041.ky,inspirationti.me,irannewsdaily.com,kildare-nationalist.ie,kiss.ky,laois-nationalist.ie,lorempixel.com,lshstream.com,lshstreams.com,mtbr.com,mutaz.net,nylonguysmag.com,pdfiles.com,photographyreview.com,placehold.it,playr.org,privack.com,quiz4fun.com,quote.com,roscommonherald.ie,skyuser.co.uk,talk1300.com,theindustry.cc,triblive.com,tvope.com,waterford-news.ie,wccftech.com,westernpeople.com,wexfordecho.ie,x1071.ky###ads
 1cookinggames.com,intowindows.com,irishhealth.com,playkissing.com,snewscms.com,yokogames.com###advertisment
 autoblog.com###asl_bot
 autoblog.com###asl_top
