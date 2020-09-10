@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xYATHwyVQMluMegMWXda4A
-! Version: 202009091400
+! Checksum: c1qJfd4J98nxEvVMHWEWuA
+! Version: 202009100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Sep 2020 14:00 UTC
+! Last modified: 10 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1141,6 +1141,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=23123
 ! Outbrain ads
+@@||widgets.outbrain.com/widgetOBUserSync/obUserSync.html$document,subdocument
 ||outbrain.com/widget/detect/px.gif?ch=1
 @@||outbrain.com/widget/detect/px.gif?ch=2
 ||outbrain.com/widget/detect/px.gif?ch=1$domain=spiegel.de
