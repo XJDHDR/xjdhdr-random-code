@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cms4b52Si6aHY8N2fleYyA
-! Version: 202009101400
+! Checksum: yHg0ddrshIFla4H0VRXkTQ
+! Version: 202009110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Sep 2020 14:00 UTC
+! Last modified: 11 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2320,6 +2320,7 @@ planeta.pl,wyznacz.pl,motorradonline.de,auto-motor-und-sport.de,caravaning.de,pr
 @@||gmx.net/uim/adservice/magazine_article.js$domain=gmx.net
 @@||web.de/uim/container/prebid_$script,domain=web.de|gmx.net|gmx.at|gmx.ch
 @@||adnxs.com^$domain=planeta.pl|wyznacz.pl|motorradonline.de|auto-motor-und-sport.de|caravaning.de|promobil.de|chillizet.pl|innpoland.pl|mamadu.pl|transfery.info|warszawa.wyborcza.pl|cda.pl|polityka.pl|polki.pl|gotujmy.pl|party.pl|tvzvezda.ru|radiozet.pl|theroar.com.au|mamamia.com.au|yourmovies.com.au|news.com.au|9news.com.au|canberratimes.com.au|mistrzowie.org|joemonster.org|demotywatory.pl|gmx.at|gmx.net|web.de|tips.at|rmfmaxxx.pl|telegraaf.nl|natemat.pl|wizaz.pl|meloradio.pl|planeta.fm|antyradio.pl|gmx.ch|flugrevue.de|runnersworld.de|mockups.plista.com
+@@^design/standard/javascript/modules/Adverts/Plista.js$domain=radiozet.pl
 gmx.at,gmx.net,web.de,gmx.ch#@#.js-ad-static
 gmx.at,gmx.net,web.de,gmx.ch##.adc-top
 gmx.at,gmx.net,web.de,gmx.ch##.adc-sky
