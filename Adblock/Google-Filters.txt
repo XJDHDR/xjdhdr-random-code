@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nZU3fRSaYiZvl7e30VlrPA
-! Version: 202009110200
+! Checksum: G0vqORyy/Ok4ZQL8BuGDHw
+! Version: 202009111400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 Sep 2020 02:00 UTC
+! Last modified: 11 Sep 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1218,6 +1218,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||aud3g.com^
 ||bhcf764sf8pg.com^
 ||bowmoolog.com^
+||chasteminihaunting.com^
 ||cpalabtracking.com^
 ||dcop4khjxsmg.com^
 ||displayvertising.com^
@@ -2499,7 +2500,7 @@ current.org,religionnews.com##.widget_doubleclick_widget
 automobilemag.com##.widget_ten_automobilemag_outbrain
 breaking911.com,breakingac.com,carnewschina.com,hotelemarketer.com,jatan.blog,kakuchopurei.com,lbo-news.com,mediabiasfactcheck.com,mediapunta.net,michaelsavage.com,mynintendonews.com,premiumtimesng.com,theconservativetreehouse.com,thecryptosphere.com,thehungaryjournal.com,them0vieblog.com,thenationalsentinel.com,whysayanything.com,wordpress.com##.wpa
 notjustok.com,punchng.com##.wpbrbanner
-123moviesfree.com,7-up.net,9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,clipwatching.com,coinad.com,dailypost.ng,digitallydownloaded.net,dotesports.com,dotmmo.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,iamzlnk.me,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,onlinevideoconverter.com,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rustourismnews.com,senimovie.co,ssbcrack.com,tetris.com,theblaze.com,torrentdownloads.me,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
+123moviesfree.com,7-up.net,9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,clipwatching.com,coinad.com,dailypost.ng,digitallydownloaded.net,dotesports.com,dotmmo.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,onlinevideoconverter.com,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rustourismnews.com,senimovie.co,ssbcrack.com,tetris.com,theblaze.com,torrentdownloads.me,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
 getdroidtips.com##[href="https://youtu.be/nx8UleXvxNU"]
 doubleclick.net##a[href^="//dp.g.doubleclick.net/apps/domainpark/"]
 icmag.com##a[href^="/banners.php?"]
