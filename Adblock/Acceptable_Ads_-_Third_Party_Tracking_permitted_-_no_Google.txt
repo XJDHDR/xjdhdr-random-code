@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7oAUzHwUozzxMGlkxa4YjQ
-! Version: 202009111400
+! Checksum: /3Cx6Q7ZJNQ/fAlKLoOUNg
+! Version: 202009120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Sep 2020 14:00 UTC
+! Last modified: 12 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6129,7 +6129,6 @@ parkers.co.uk#@##headerAd
 dnd-wiki.org#@##headerad
 itstillworks.com#@##inline-ad
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
-globalsecurity.org#@##leftad
 wowhead.com#@##main > .blocks
 yad2.co.il#@##martef
 parkers.co.uk#@##mpu2
@@ -6141,7 +6140,6 @@ soolide.com#@##quads-ad2_widget
 fun.freebies.com,innerstrength.zone#@##quads-ad4
 wyborcza.pl#@##rectangle-splint
 gosunoob.com#@##reklama
-blindsprings.com#@##rightad
 aljazeera.com#@##rightsideadstop
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScGp160x600
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
@@ -6151,7 +6149,6 @@ manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
-aljazeera.com,tagged.com#@##topad
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@##topbanner
 girlgeniusonline.com,tovecomic.com#@##towerad
 lexicanum.com#@#.ADBox
@@ -6222,7 +6219,7 @@ gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 littlealchemy.com#@#.adTop
 1001juegos.com,gioca.re,onlinegame.co.id,speelspelletjes.nl,crazygames.com#@#.adWrapper
-homes.com#@#.ad__container
+cprewritten.net,homes.com#@#.ad__container
 lse.co.uk#@#.ad_block
 discogs.com#@#.ad_bottom
 discogs.com#@#.ad_container
@@ -6361,7 +6358,7 @@ u.gg,meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
 whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
 aljazeera.com#@#.sideAdv-wrapper
-marecomic.com,meekcomic.com#@#.sidebar-ad
+word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
 sufficientlyremarkable.com#@#.sidebarAd
 heraldweekly.com,history-a2z.com,lifestyle-a2z.com,science-a2z.com#@#.single-ad
@@ -6478,13 +6475,19 @@ pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
-totalprosports.com#@##cmn_ad_tag_head
+vladtv.com,totalprosports.com#@##cmn_ad_tag_head
 sporcle.com#@#[style*="width: 728px; height: 90px;"]
 sporcle.com#@#.page-ad
 sporcle.com#@#.ad-source
 getsongbpm.com#@#.content_ad
 hearthstonetopdecks.com#@#.sticky-ad-wrapper
 empireonline.com#@#.full-width-ad-container
+word.tips#@##ad-sidebar1
+vg247.com#@#.low-leader-container
+vg247.com#@#.advert.mpu
+vg247.com#@#.advert.skyscraper
+vladtv.com#@#.entry-ad
+vladtv.com#@#.ad-300
 !
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -6577,7 +6580,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||a.pub.network^*/pubfig.min.js$domain=camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^*/pubfig.min.js$domain=router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -6617,7 +6620,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||a.pub.network^$script,domain=router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@^x-kinja-static/assets/new-client/trackers.0df168682f7cd87994ab.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@^x-kinja-static/assets/new-client/runtime~trackers.83877260061b4d6ce009.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@||x.kinja-static.com/assets/new-client/runtime~frontPage.9c59709f2aba9c3fad49.js$script,domain=kotaku.com
@@ -6650,6 +6653,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||zaf.services.zam.com/stable/js/topdecks.js$domain=hearthstonetopdecks.com
 @@||nike.com^$document
 @@||teva.com^$document
+@@||word.tips/assets/ads$domain=word.tips
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -6802,7 +6806,7 @@ viamichelin.fr##.ads > .magazine-item
 @@||smart.idmnet.pl^$domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.pl,voxfm.pl,muratordom.pl,gazetki-promocyjne.net.pl,poradnikzdrowie.pl,eskainfo.pl,mjakmama24.pl,menshealth.pl,auto-motor-i-sport.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl#@#[id^="aswift_"]
 se.pl#@#div[class^="zpr_inside"]
-/zpr_layouts_web/js/ads.js^$script,domain=se.pl
+/js/ads.js^$script,domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 !:partner_token=skyrie.net
 !:partner_id=3279a14bf184152d
 !:type=partner
@@ -7078,6 +7082,11 @@ fitnessrezepte.de#@#.wpa
 ! Readthedocs.io ads
 @@||readthedocs.org/api/*/sustainability/$script
 @@||readthedocs.org/sustainability/
+@@||media.ethicalads.io/media/*/ethicalads.min.js$domain=readthedocs.io
+@@||server.ethicalads.io/api/v1/decision$domain=readthedocs.io
+@@||media.ethicalads.io$image,domain=readthedocs.io
+@@||server.ethicalads.io/proxy/click$domain=readthedocs.io
+@@||server.ethicalads.io/proxy/view$domain=readthedocs.io
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
