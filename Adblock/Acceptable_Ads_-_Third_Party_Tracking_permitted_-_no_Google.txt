@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D67jOv+KEnlG9jS8P/7vuA
-! Version: 202009150200
+! Checksum: b+lncEzJmTyK6e30VOUgGg
+! Version: 202009151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Sep 2020 02:00 UTC
+! Last modified: 15 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8495,6 +8495,7 @@ twinfinite.net#@#.adDiv
 ! vesty.co.il#@#.top-ad
 xlrforum.com#@#.afs_ads
 tabs.ultimate-guitar.com###ad_cs_2010320_160_600
+planetminecraft.com#@##box_300btf
 ! FT-1489
 @@||forbes.com^$generichide
 forbes.com##.fbs-ad--mobile-medianet-wrapper
