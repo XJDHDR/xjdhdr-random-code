@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zcZJYIcPbpKCwBf9DNkQpA
-! Version: 202009141400
+! Checksum: Ua32djg+DCMBLz+qN8L0hA
+! Version: 202009150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 14 Sep 2020 14:00 UTC
+! Last modified: 15 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1616,7 +1616,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
-@@/projectagora.min.js$script,domain=workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -1630,7 +1630,7 @@ thenoob.net#@#.adinjwidget
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||projectagora.net/libs/prebid.js$script,domain=merrjep.al|rassdtunisia.net|anime2001.com|kosovarja-ks.com
-@@||ads.projectagoraservices.com^$script,domain=rassdtunisia.net|kosovarja-ks.com
+@@||ads.projectagoraservices.com^$script,domain=hinditwostop.com|rassdtunisia.net|kosovarja-ks.com
 @@||ads.projectagoraservices.com/?id=$script,domain=merrjep.al
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||jeded.com/ads/1.js|$domain=subscene.com
@@ -1638,6 +1638,9 @@ thenoob.net#@#.adinjwidget
 @@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
 @@||merrjep.al/Scripts/prebid2.$script,domain=merrjep.al
 @@||paht.tech/c/coptstoday.com.js$script,domain=coptstoday.com
+@@||htintpa.tech/c/dejnews.ro.js$domain=dejnews.ro
+@@||htintpa.tech/c/hinditwostop.com.js$domain=hinditwostop.com
+@@||tags-cdn.deployads.com/a/myanimelist.net.js$domain=myanimelist.net
 gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com,masslive.com,cleveland.com,al.com,pennlive.com,nj.com#@#.ad--sponsor-content
 tempest.services.disqus.com#@##ad-container
 radiosarajevo.ba#@#.adloaded
@@ -1666,7 +1669,7 @@ crestviewbulletin.com,srpressgazette.com#@##btmsponsoredcontent
 dailydosepolitics.com###exitpopup-modal
 didyouknowfacts.com,etonline.com#@##footer-ad
 potora.jp#@##footer_ad
-newsbugz.com#@##mvp-post-bot-ad
+eurasiantimes.com,newsbugz.com#@##mvp-post-bot-ad
 topdiez.online###ouibounce-modal
 saloona.co.il#@##popular_top
 livenewson.com#@##quads-ad2
@@ -1842,7 +1845,7 @@ elconfidencialdigital.com#@#.custom-ads
 nme.com#@#div[data-item-syndicated="true"]
 ac-illust.com#@#.section-ads
 chobirich.com#@#.ad_area
-unosantafe.com.ar,lacapital.com.ar#@#.ads-wrapper
+elbaladtv.net,unosantafe.com.ar,lacapital.com.ar#@#.ads-wrapper
 bonnesimages.com,gbpicsonline.com#@#.native-ad
 subscene.com###content > .banner
 somosxbox.com#@#.it-ad-wrapper
@@ -1850,6 +1853,9 @@ somosxbox.com#@#.it-ad
 zoorprendente.com#@#a[href^="https://www.clicktraceclick.com/"]
 medicitalia.it#@#a[href^="https://affiliate.across.it/"]
 9docu.org#@#.advads-widget
+eurasiantimes.com#@##mvp-post-bot-ad
+eurasiantimes.com#@#.mvp-ad-label
+elbaladtv.net#@#.ads_code
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
