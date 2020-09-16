@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IQ85SAl5FxiHdta5/+sGIw
-! Version: 202009160200
+! Checksum: guuladuxDc7ZeW6IAdYQAw
+! Version: 202009161400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 16 Sep 2020 02:00 UTC
+! Last modified: 16 Sep 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1209,7 +1209,7 @@ bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id
 bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,flightcentre.co.uk,foodkick.com,lavozdegalicia.es,liverpoolfc.com,mariages.net,matrimonio.com,olx.pl,payback.pl,pccomponentes.com,pianobuyer.com,ripley.cl,ripley.com.pe,thoughtcatalog.com,vroomvroomvroom.com.au,weddingspot.co.uk,wsj.com,zillow.com#@#iframe[id^="google_ads_iframe"]
 adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
 spoilertv.com#@##adsensewide
-androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,filecore.co.nz,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
+androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
 africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,manga2u.co,mangasky.co,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
 ||86pqvhdw5wpg.com^
 ||alruqbfjg.com^
@@ -1217,6 +1217,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||atilohdxsg.com^
 ||aud3g.com^
 ||bhcf764sf8pg.com^
+||blessingpudding.com^
 ||bowmoolog.com^
 ||chasteminihaunting.com^
 ||cpalabtracking.com^
@@ -1433,7 +1434,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||enusbrzlmcmg.com^$third-party
 ||enzagnshqtmhg.com^$third-party
 ||eqfnhtthkog.com^$third-party
-||eqhawyidkdug.com^$third-party
 ||esgvhaspsjg.com^$third-party
 ||euzlyrzg.com^$third-party
 ||evfzxjiqg.com^$third-party
@@ -1455,7 +1455,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||gwigqsgv.com^$third-party
 ||gwohimtyhbthg.com^$third-party
 ||gzxdkaytxdsyxg.com^$third-party
-||hcqjgkpg.com^$third-party
 ||hhdwgxmrvwyg.com^$third-party
 ||hmjtutipevtmg.com^$third-party
 ||hoghqjddg.com^$third-party
@@ -1485,9 +1484,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||jrvcwxubg.com^$third-party
 ||jvqbbfrg.com^$third-party
 ||jzgskqccroqg.com^$third-party
-||kcarnzeaipjssg.com^$third-party
 ||khaicoojypokng.com^$third-party
-||khefhmgfwnnqgv.com^$third-party
 ||kjrjvvxcg.com^$third-party
 ||kklzztog.com^$third-party
 ||krwasgyensttng.com^$third-party
@@ -2121,7 +2118,6 @@ chocablog.com,commenthaven.com,hwhills.com,movieentertainment.ca,nikktech.com,re
 bhg.com###hpoffers
 chocablog.com###i1
 campustechnology.com,fcw.com,mcpmag.com,rcpmag.com,reddevnews.com,redmondmag.com,visualstudiomagazine.com###intersitialMask
-ironmanmag.com.au###iro_banner_lka.com,nashuatelegraph.com###meerkat-wrap
 wkrg.com###krg_oas_rail
 duffelblog.com###leader-large
 100jamz.com,agriland.ie,ballitonews.co.za,blackburnnews.com,bloody-disgusting.com,football-talk.co.uk,foxnews.com,goodthingsguy.com,info.umkc.edu,irishpost.co.uk,mental-health-matters.com,mobiletoday.co.uk,mobiletor.com,morningledger.com,pcgamerhub.com,soccersouls.com,thenextmiami.com,thescoopng.com,todaysgeneralcounsel.com,urbanmecca.net,youngzimbabwe.com###leader-wrapper
@@ -3148,8 +3144,8 @@ _GoogleTagManager2/
 ||youtube.com^*/heartbeat?
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
-||bing.com^*/glinkping.aspx
-||bing.com^*/GLinkPingPost.aspx
+||bing.com^*/glinkping.aspx$ping,xmlhttprequest
+||bing.com^*/GLinkPingPost.aspx$ping,xmlhttprequest
 /^https?:\/\/www\.ugg\.com\/static\/[a-z0-9]{15,}/$domain=ugg.com
 ||bloomberg.com/8FCGYgk4/
 ||couchsurfing.com/bEcn7fQX/
