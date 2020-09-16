@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b+lncEzJmTyK6e30VOUgGg
-! Version: 202009151400
+! Checksum: Q/Yx7BGXnmmNVc0pnXsgfQ
+! Version: 202009160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Sep 2020 14:00 UTC
+! Last modified: 16 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2976,6 +2976,8 @@ viamichelin.fr#@##advertising_728
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
 ||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
 @@||i.plug.it/banners/js/adv_lib_webmail70.js$domain=virgilio.it|libero.it
+@@||i.plug.it/iplug/js/lib/iol/analytics/ads/adv/_ads.js?$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
+@@||iolam.it/js/prebid.js$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
 ! temp
 wallapop.com##.pub-wall-3-wrapper
 wallapop.com##.home-pub-section-top
