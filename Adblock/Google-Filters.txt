@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rwij8eNkwhPN38C3DhYgLQ
-! Version: 202009170200
+! Checksum: 6gufFGWWoFKxZdYivFlofQ
+! Version: 202009171400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 Sep 2020 02:00 UTC
+! Last modified: 17 Sep 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2467,6 +2467,7 @@ bing.com##.pa_carousel_mlo
 bing.com##.pa_list_sbo
 bing.com##.pa_sb
 bing.com##a[h$=",Ads"]
+bing.com##a[href*="/aclick?ld="]
 bing.com#?##b_results > li :-abp-has(span.b_aslcp)
 bing.com#?##b_results > li :-abp-has(span.b_aslcpv4)
 bing.com#?#.b_algo:-abp-has(p:-abp-properties(content: "Ad"))
@@ -3229,6 +3230,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||quantserve.com/quant.js$domain=apps.facebook.com|nymag.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
+@@||segment.com/v1/projects/$xmlhttprequest,domain=benchling.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||texasroadhouse.com/common/javascript/google-analytics.js

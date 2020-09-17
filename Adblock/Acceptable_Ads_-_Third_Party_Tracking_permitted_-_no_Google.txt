@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wVLg1dEhHzktcQAGC2cSZA
-! Version: 202009170200
+! Checksum: PfsMepx7MZN6gie7aRbocA
+! Version: 202009171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 17 Sep 2020 02:00 UTC
+! Last modified: 17 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6586,7 +6586,8 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||keytarget.adnet.lt/stable$script,third-party,xmlhttprequest,domain=118.lt|basketnews.lt|bernardinai.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt|sena.lt|supermama.lt|tax.lt|technologijos.lt|ve.lt
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
 @@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
-@@||massariuscdn.com/pubs/f1maximaal/f1maximaal_adtech_setup.js$domain=f1maximaal.nl
+@@||massariuscdn.com/pubs/*_adtech_setup.js$domain=vandal.elespanol.com|f1maximaal.nl|ajaxshowtime.com
+@@||massariuscdn.com/prod/prebid$domain=vandal.elespanol.com
 @@||prod.adspsp.com/adb.$domain=gfycat.com|yourdictionary.com
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
 @@||static.paraloscuriosos.com/js/es/gpt$script,domain=paraloscuriosos.com
@@ -6670,7 +6671,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
-@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=nookazon.com|theouterhaven.net
+@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
 @@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
