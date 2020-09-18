@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YJvRb7nODlLuzGdPilbX2w
-! Version: 202009180200
+! Checksum: ViT+Pp8TuT/zS6XPNi4fsg
+! Version: 202009181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 18 Sep 2020 02:00 UTC
+! Last modified: 18 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1637,7 +1637,7 @@ thenoob.net#@#.adinjwidget
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net|stirescu.ro
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
-@@||ads.taboola.com^$domain=taboola.com
+@@||ads.taboola.com^$document,domain=taboola.com
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||bloximages.newyork1.vip.townnews.com/fredericknewspost.com/*/vendor.taboola.*.js$script,domain=fredericknewspost.com
@@ -6237,7 +6237,7 @@ littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
 littlealchemy2.com,windfinder.com#@#.ad-sticky
-battlemetrics.com,fortnitetracker.com#@#.ad-tag
+upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
 littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
@@ -6689,7 +6689,7 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
 @@||ads.blogherads.com^$domain=rollingstone.com
-@@||zaf.services.zam.com/stable/js/topdecks.js$domain=hearthstonetopdecks.com
+@@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
 @@||nike.com^$document
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
@@ -8487,17 +8487,16 @@ adtechdaily.com#@#div[class*="td-a-rec-id-"]
 thestudentroom.co.uk#@#div[data-adunit]
 searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#div[id^="dfp-ad-"]
-aax.demo.oriel.io,agame.com,allkpop.com,boredpanda.com,capebretonpost.com,convertunits.com,firstpost.com,footballfancast.com,footballtransfertavern.com,fortniteintel.com,fr.shopping.rakuten.com,homesteadingtoday.com,intermediair.nl,journalpioneer.com,koutsompolio.gr,lacuerda.net,mashable.com,mediafire.com,michigan-sportsman.com,novini.bg,pch.com,pminteg.fr,queerty.com,saltwire.com,seattletimes.com,speedtest.net,sportal.bg,sportalbg.dev.smakmedia.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com,titantv.com,washingtontimes.com#@#div[id^="div-gpt-ad"]
 reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
 reddit.com#@#div[data-before-content="advertisement"]
 twinfinite.net#@#.adDiv
-! vesty.co.il#@#.top-ad
 xlrforum.com#@#.afs_ads
 tabs.ultimate-guitar.com###ad_cs_2010320_160_600
 planetminecraft.com#@##box_300btf
+! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
 forbes.com##.fbs-ad--mobile-medianet-wrapper
