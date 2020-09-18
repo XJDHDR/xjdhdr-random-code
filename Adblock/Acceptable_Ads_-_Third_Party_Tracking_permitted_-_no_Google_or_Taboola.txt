@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4sKCcfB4S6y4SpQbbbgAsQ
-! Version: 202009171400
+! Checksum: XFoqJ6XlvKuJ2fIvd/Ct3A
+! Version: 202009180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Sep 2020 14:00 UTC
+! Last modified: 18 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7459,16 +7459,15 @@ click-or-die.ru#@#.ads-phead
 gazeta.ua#@#.informer.double
 marathi.latestly.com#@##sponsored_content
 marathi.latestly.com#@#.sponsored_content
-thenationonlineng.net#@#.ads-wrapper
 brainberries.co,zestradar.com#@#.native_ad
 baophapluat.vn#@#.adsitem
 baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
-kronologi.id#@#.ads-wrapper
 kronologi.id#@#.ads_code
-vocedinapoli.it#@#.quads-location
+vocedinapoli.it,postadda.news#@#.quads-location
+postadda.news#@##quads-ad2
 padangkita.com#@#.ads_code
-padangkita.com#@#.ads-wrapper
+padangkita.com,hellosehat.com,thenationonlineng.net,kronologi.id#@#.ads-wrapper
 doramatv.live#@#.middle_ba
 hochu.ua#@#div[class^="banner"]
 amic.ru##div[id^="amic_banner_"]:not(#amic_banner_11)
@@ -7488,7 +7487,7 @@ gamevui.vn#@#.adbox
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
