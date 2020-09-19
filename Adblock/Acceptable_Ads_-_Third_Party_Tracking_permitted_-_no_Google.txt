@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ViT+Pp8TuT/zS6XPNi4fsg
-! Version: 202009181400
+! Checksum: reCyN2xCCAaWGaWbUH0rZg
+! Version: 202009190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 18 Sep 2020 14:00 UTC
+! Last modified: 19 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1637,7 +1637,8 @@ thenoob.net#@#.adinjwidget
 @@||dragonballsuper-vostfr.com/*videojs.ads.min.js$script,domain=dragonballsuper-vostfr.com
 @@||dynpaa.com^$script,domain=fosonline.gr|sop.ba|ra2ej.com|lajmi.net|stirescu.ro
 @@||projectagoratech.com/libs/projectagora.min.js$script,domain=mala3eb.alwakeelnews.com|asiaholic.net|elkhadra.com|ra2ej.com|mubasherpulse.com|kech24.com|dzexams.com|assarih.com
-@@||ads.taboola.com^$document,domain=taboola.com
+@@||ads.taboola.com^$document,popup,domain=taboola.com
+@@||authentication.taboola.com^$document,domain=taboola.com
 @@||ayads.co/ajs.php?zid=22740^$script,domain=ildispaccio.it
 @@||ayads.co/sublime/22740^$script,domain=ildispaccio.it
 @@||bloximages.newyork1.vip.townnews.com/fredericknewspost.com/*/vendor.taboola.*.js$script,domain=fredericknewspost.com
@@ -6526,7 +6527,8 @@ vladtv.com#@#.entry-ad
 vladtv.com#@#.ad-300
 slickdeals.net#@#.abc
 techlicious.com#@#.footad
-!
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
+! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
 sbnation.com###div-gpt-ad-desktop_article_body
@@ -6550,6 +6552,8 @@ healthline.com###inline3__slot
 nouvelobs.com###inread
 plotek.pl###div-gpt-ad-001-TOPBOARD-0
 plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###dfp-ad-2
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="MID_BANNER"]
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com

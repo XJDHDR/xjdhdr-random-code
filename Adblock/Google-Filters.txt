@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DO5uKXppuAg8cB/WfC0kTw
-! Version: 202009181400
+! Checksum: xT5DgrIO/L32Q1TU5EMhIw
+! Version: 202009190200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Sep 2020 14:00 UTC
+! Last modified: 19 Sep 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1211,7 +1211,7 @@ bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,fligh
 adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
 spoilertv.com#@##adsensewide
 androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
-africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,manga2u.co,mangasky.co,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
+africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
 ||86pqvhdw5wpg.com^
 ||alruqbfjg.com^
 ||askbegrag.com^
@@ -3015,11 +3015,9 @@ _GoogleTagManager2/
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
 ||s3wfg.com/js/vortexloader.js
-||a2x-eng.spankbang.com^
 ||affiliates.londonmarketing.com^
 ||airspacemag.com/g/g/button/
 ||analytics.bloomberg.com^
-||analytics.jabong.com^
 ||analytics.teespring.com^
 ||arcpublishing.com^*/datapoint/save
 ||autoblog.com/traffic/

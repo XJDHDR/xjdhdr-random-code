@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ETZbPZO+Ou8jsQ+YbVeK5Q
-! Version: 202009181400
+! Checksum: 0Q7jjeY8k/ncL6X51XSQvg
+! Version: 202009190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Sep 2020 14:00 UTC
+! Last modified: 19 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6472,7 +6472,8 @@ vladtv.com#@#.entry-ad
 vladtv.com#@#.ad-300
 slickdeals.net#@#.abc
 techlicious.com#@#.footad
-!
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
+! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
 sbnation.com###div-gpt-ad-desktop_article_body
@@ -6496,6 +6497,8 @@ healthline.com###inline3__slot
 nouvelobs.com###inread
 plotek.pl###div-gpt-ad-001-TOPBOARD-0
 plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###dfp-ad-2
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="MID_BANNER"]
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
