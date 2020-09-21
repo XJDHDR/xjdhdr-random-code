@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jNiS6pPKCrmhslDgYQkfeg
-! Version: 202009210200
+! Checksum: SkKbKbKVY6kOanodqbDlhg
+! Version: 202009211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Sep 2020 02:00 UTC
+! Last modified: 21 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6639,6 +6639,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.ay.delivery^$domain=imgur.com
 @@||ads.blogherads.com^$domain=rollingstone.com
 @@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
+@@||cdn.firstimpression.io/delivery^$domain=modthesims.info
+@@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
 @@||nike.com^$document
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
@@ -7703,6 +7705,13 @@ sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides)
 @@||cdn.advertserve.com^*/wingg.advertserve.com/servlet/$image,domain=win.gg
 win.gg#@#a[href*="/servlet/click/zone?"]
 @@||ads.win.gg^$script,image,domain=win.gg
+!:partner_token=search.alot.com ads
+!:partner_id=0849fd7ea0b42f74
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80137
+! search.alot.com ads
+search.alot.com,alothome.com#@##topAds
+search.alot.com,alothome.com#@##bottomAds
 !:partner_token=Rambler
 !:partner_id=0f379e9a30bc5b2e
 !:type=partner
