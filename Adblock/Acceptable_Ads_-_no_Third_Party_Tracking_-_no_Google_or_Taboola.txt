@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tLtkAW+IMsYcnS6qwqW6vQ
-! Version: 202009211400
+! Checksum: aK1SM/kravRJTSglaMChwA
+! Version: 202009220200
 ! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola
-! Last modified: 21 Sep 2020 14:00 UTC
+! Last modified: 22 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -245,6 +245,8 @@ linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actordescription:-abp-contains(/Sponsored|Promoted/))
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actorsub-description:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com#@#.feed-shared-update--is-sponsored
