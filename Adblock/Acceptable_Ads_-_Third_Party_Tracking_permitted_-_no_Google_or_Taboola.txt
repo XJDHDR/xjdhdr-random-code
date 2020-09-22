@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cztVoG7RPSFEhme443b18A
-! Version: 202009220200
+! Checksum: 2J6dgFYd+eMi0fSHqjhv8g
+! Version: 202009221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Sep 2020 02:00 UTC
+! Last modified: 22 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6149,7 +6149,7 @@ cnn.com#@#.ad--desktop
 thesimsresource.com#@#.ad-alsorectangle
 diablofans.com,mtgsalvation.com#@#.ad-atf
 mtgsalvation.com#@#.ad-atf-medRect
-capital.com.tr,pokebattler.com,theoi.com#@#.ad-banner
+papergames.io,capital.com.tr,pokebattler.com,theoi.com#@#.ad-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-banner-image
 greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
@@ -6525,6 +6525,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
+@@||cdn.fuseplatform.net/publift^$domain=motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net|
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6645,6 +6646,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
+@@||lngtd.com/prebid^$domain=2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
+@@||papergames.io/app/ads^$domain=papergames.io
 @@||nike.com^$document
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
@@ -8419,7 +8422,7 @@ billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
 stuff.co.nz#@#.display-ad
 seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
-comingsoon.net,gamerevolution.com#@#.gpt-ad
+mandatory.com,comingsoon.net,gamerevolution.com#@#.gpt-ad
 forbes.com,hannity.com,thestudentroom.co.uk#@#.header-ad
 inquisitr.com#@#.iab
 247wallst.com#@#.iframe-ad
@@ -8441,7 +8444,7 @@ bjpenn.com#@#.td-a-rec-id-custom_ad_4
 bjpenn.com#@#.td-a-rec-id-custom_ad_5
 charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
 boredpanda.com,comingsoon.net#@#.text-ad
-comingsoon.net,gamerevolution.com#@#.widget_evolve_ad_gpt_widget
+mandatory.com,comingsoon.net,gamerevolution.com#@#.widget_evolve_ad_gpt_widget
 searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 allthetests.com#@#div > iframe:first-child
 adtechdaily.com#@#div[class*="td-a-rec-id-"]
