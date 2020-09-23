@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XN7lFhSjzZvWP/3RpdRSDQ
-! Version: 202009230200
+! Checksum: jPYXQKiH2wetOyHbhyyd8w
+! Version: 202009231400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 23 Sep 2020 02:00 UTC
+! Last modified: 23 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6127,7 +6127,7 @@ a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
 lexicanum.com#@##sidebar-ad
 thewordfinder.com#@##sidebar-advertisement
-manofmany.com#@##stickyad
+wheeldecide.com,manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
@@ -6437,7 +6437,7 @@ programme-tv.net#@#.ads-paveBas
 programme-tv.net#@#.ads-core-placer
 hollywoodpq.com#@#.content-ad
 alphr.com#@#.sticky-ads
-lovewhatmatters.com#@#.widget_ads 
+crimeonline.com,lovewhatmatters.com#@#.widget_ads 
 lovewhatmatters.com#@#.ad.billboard
 u.gg#@#.side-ads_sticky-group
 zombsroyale.io,u.gg#@#.pub_300x250m
@@ -6473,6 +6473,9 @@ vladtv.com#@#.ad-300
 slickdeals.net#@#.abc
 techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
+bonginoreport.com#@#.side-advert
+wordexcerpt.com#@#.body-top-ads
+vtvgiaitri.vn#@#.ads-wrapper
 ! detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6622,7 +6625,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
-@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
+@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=gfinityesports.com|realsport101.com|stealthoptional.com|realgaming101.es|realgaming101.pt|realgaming101.me|arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
 @@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
