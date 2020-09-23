@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vVL20vmJrXujs1fDsLHFeA
-! Version: 202009221400
+! Checksum: 6YLZg42XGAlD4dlm3vWVYQ
+! Version: 202009230200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Sep 2020 14:00 UTC
+! Last modified: 23 Sep 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -667,7 +667,6 @@ _reklama_$domain=~youtube.com
 ##.ads-google-top
 ##.ads_adsense1
 ##.ads_google
-##.adsbygoogle
 ##.adsbygoogle-box
 ##.adsbygoogle-responsive-fix
 ##.adsbygoogle2
@@ -1163,6 +1162,9 @@ _reklama_$domain=~youtube.com
 ##iframe[id^="google_ads_frame"]
 ##iframe[id^="google_ads_iframe"]
 ##iframe[name^="google_ads_iframe"]
+! google
+##.adsbygoogle > [id^="aswift_"]
+##div > .adsbygoogle
 ##a[href^="http://www.cash-duck.com/"]
 ##input[onclick^="window.open('http://www.FriendlyDuck.com/"]
 ##input[onclick^="window.open('http://www.friendlyduck.com/"]

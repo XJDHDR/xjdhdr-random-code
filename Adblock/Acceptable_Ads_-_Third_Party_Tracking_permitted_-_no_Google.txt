@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ie5Vjl1Oblh9G6ehWhmquA
-! Version: 202009221400
+! Checksum: sWiEtVXcjU3xigaZfRwtvQ
+! Version: 202009230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 22 Sep 2020 14:00 UTC
+! Last modified: 23 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6529,9 +6529,6 @@ slickdeals.net#@#.abc
 techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
 ! detection
-##.pub_300x250
-##.pub_300x250m
-##.pub_728x90
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -7827,24 +7824,24 @@ andelemandele.lv#@#.ad.module
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78583
 ! AntiAdblock Ads
-@@||h.imedia.cz^$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||d.imedia.cz^$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||ssp.imedia.cz^$~script,domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-||ssp.imedia.cz/static/js/ssp.js$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||h.imedia.cz^$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||d.imedia.cz^$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz^$~script,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+||ssp.imedia.cz/static/js/ssp.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
-@@||delivery.performax.cz/sklik/$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||cdn.performax.cz/acc/accp.js$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||delivery.performax.cz^*_rtb/$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/1.js$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-||cdn.performax.cz/acc/2.js$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||imp.performax.cz^$domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=bandzone.cz|idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-bandzone.cz,idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
-bandzone.cz,idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
+@@||delivery.performax.cz/sklik/$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||cdn.performax.cz/acc/accp.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||delivery.performax.cz^*_rtb/$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/1.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+||cdn.performax.cz/acc/2.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||imp.performax.cz^$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
+bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
@@ -7864,19 +7861,19 @@ euro.cz#@##ad-skyscraper-lower
 euro.cz#@##ad-leaderboard-lower
 euro.cz#@##ad-inarticle-lower
 euro.cz#@#div[id^="ad-leaderboard"]
-idnes.cz#@##space-g-add
-idnes.cz#@##fix-block-2
-idnes.cz#@#div[class="fixi-m11"]
-idnes.cz#@#[id^="fix-block-"]
+idnes.cz,~www.idnes.cz#@##space-g-add
+idnes.cz,~www.idnes.cz#@##fix-block-2
+idnes.cz,~www.idnes.cz#@#div[class="fixi-m11"]
+idnes.cz,~www.idnes.cz#@#[id^="fix-block-"]
 emimino.cz#@##sticky-banner
 emimino.cz#@#[data-advert-sticky]
 emimino.cz#@#[data-advert-sticky], #sticky-banner
 emimino.cz#@#.r-box
 emimino.cz#@#[id^="r-ws480"]
-idnes.cz,expres.cz#@#a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
-idnes.cz,expres.cz#@#a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
-idnes.cz#@#[data-cy="ad-content"]
-idnes.cz#@#[id^="r-hpa"]
+idnes.cz,~www.idnes.cz,expres.cz#@#a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
+idnes.cz,~www.idnes.cz,expres.cz#@#a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
+idnes.cz,~www.idnes.cz#@#[data-cy="ad-content"]
+idnes.cz,~www.idnes.cz#@#[id^="r-hpa"]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
