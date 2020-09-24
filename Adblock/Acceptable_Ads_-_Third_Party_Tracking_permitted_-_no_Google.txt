@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o19hgzV6wMvxYv2N575B2g
-! Version: 202009240200
+! Checksum: Kd/OeyxqX1Nyjg0+XM2Twg
+! Version: 202009241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Sep 2020 02:00 UTC
+! Last modified: 24 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6580,7 +6580,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net|
+@@||cdn.fuseplatform.net/publift^$domain=motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -10163,6 +10163,7 @@ huffpost.com#@#.readmo-item-ad
 huffingtonpost.ca,huffingtonpost.co.uk,huffingtonpost.com.au,huffingtonpost.in,huffpostbrasil.com,stylevamp.de,www.aol.com#@#.sponsor-text
 engadget.com#@#.sponsored-links
 huffpost.com#@#.taboola
+engadget.com#@##gemini-right-rail-thumbnails
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
