@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0Kms9BgMoEsihFhIy4Vc3Q
-! Version: 202009250200
+! Checksum: o9Lj0Sazfq9ZZH/zxL95DQ
+! Version: 202009251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 Sep 2020 02:00 UTC
+! Last modified: 25 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6646,7 +6646,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
-@@||lngtd.com/prebid^$domain=2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
+@@||lngtd.com/prebid^$domain=minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
 @@||papergames.io/app/ads^$domain=papergames.io
 @@||nike.com^$document
 @@||teva.com^$document
