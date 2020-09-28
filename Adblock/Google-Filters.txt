@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WxmxgHFrwCYZBWNvW9xXHQ
-! Version: 202009280200
+! Checksum: 2zn5gS6Szc93XQCPf0otoQ
+! Version: 202009281400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 28 Sep 2020 02:00 UTC
+! Last modified: 28 Sep 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1228,7 +1228,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||blessingpudding.com^
 ||bowmoolog.com^
 ||bwjteztqdlg.com^
-||bwwfncfuzahpg.com^
 ||cash-ca-ching.com^
 ||chasteminihaunting.com^
 ||ckombcgg.com^
@@ -2331,6 +2330,7 @@ afrivibes.net,airplaydirect.com,autoaction.com.au,cryptomining-blog.com,dotsauce
 chat-avenue.com,flashx.cc,flashx.co,flashx.me,flashx.pw,forum.gsmhosting.com,hollywoodbackwash.com,muzique.com,opencarry.org,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
+! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube
 youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
@@ -4486,6 +4486,7 @@ google.com,office.com,smugmug.com#@#button[title="Share"]
 digg.com#@#div[id^="digg-widget-"]
 bing.com#@##cc_container
 youtube.com#@##consent-bump
+analog.com#@##cookie-consent-container
 bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
 vkmag.com#@##cookiesdirective
 bing.com,czuczu.pl,supertennis.tv#@#.cc-container
