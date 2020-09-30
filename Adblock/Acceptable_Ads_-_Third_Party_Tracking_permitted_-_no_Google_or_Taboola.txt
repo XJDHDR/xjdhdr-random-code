@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PinRM+qz1Gh6C26iWowK7A
-! Version: 202009300200
+! Checksum: Koo1ceWJWXorOUceJYml2w
+! Version: 202009301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 30 Sep 2020 02:00 UTC
+! Last modified: 30 Sep 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6643,7 +6643,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder/adsbooster/eb_sf.js$domain=portalebambini.it
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
-@@||ads.blogherads.com^$domain=rollingstone.com
+@@||ads.blogherads.com^$domain=variety.com|tvline.com|bgr.com|rollingstone.com
 @@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
@@ -7722,6 +7722,12 @@ win.gg#@#a[href*="/servlet/click/zone?"]
 ! search.alot.com ads
 search.alot.com,alothome.com#@##topAds
 search.alot.com,alothome.com#@##bottomAds
+!:partner_token=angularjswiki.com ads
+!:partner_id=45c4879bffbe95dc
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80180
+! angularjswiki.com ads
+@@||ethicalads.io^$domain=angularjswiki.com
 !:partner_token=Rambler
 !:partner_id=0f379e9a30bc5b2e
 !:type=partner
@@ -8464,6 +8470,10 @@ xlrforum.com#@#.afs_ads
 tabs.ultimate-guitar.com###ad_cs_2010320_160_600
 planetminecraft.com#@##box_300btf
 ghacks.net#@#.ghacks-ad
+filehippo.com#@#.ad--leaderboard
+filehippo.com#@#.ad--mpu
+filehippo.com#@#.ad__content
+filehippo.com#@##review-seethrough-program-page-desktop-wrapper
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
