@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +YwXdfixYam398Axnblkew
-! Version: 202009291400
+! Checksum: K7qK63NFWnh8h8Na2i1xMA
+! Version: 202009300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Sep 2020 14:00 UTC
+! Last modified: 30 Sep 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6532,7 +6532,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 bonginoreport.com#@#.side-advert
 wordexcerpt.com#@#.body-top-ads
 vtvgiaitri.vn#@#.ads-wrapper
-! detection
+! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -8519,6 +8519,7 @@ twinfinite.net#@#.adDiv
 xlrforum.com#@#.afs_ads
 tabs.ultimate-guitar.com###ad_cs_2010320_160_600
 planetminecraft.com#@##box_300btf
+ghacks.net#@#.ghacks-ad
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
