@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ge4BmMS+eJbddkmEzMquXQ
-! Version: 202010010200
+! Checksum: M0vAGctkIE/q9z+Bb84O+w
+! Version: 202010011400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Oct 2020 02:00 UTC
+! Last modified: 01 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -138,6 +138,7 @@ heise.de#@#a[onmousedown^="this.href='https://marketing.outbrain.com/network/red
 heise.de#@#a[href^="https://marketing.outbrain.com/network/redir?"]
 @@||marketing.outbrain.com/network/redir?$popup,domain=heise.de
 @@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=heise.de
+@@||heise.de/assets/*/prebid.$script,domain=heise.de
 !:partner_token=heise.de
 !:partner_id=ee1f510910c7063c
 !:type=partner
@@ -8528,10 +8529,6 @@ xlrforum.com#@#.afs_ads
 tabs.ultimate-guitar.com###ad_cs_2010320_160_600
 planetminecraft.com#@##box_300btf
 ghacks.net#@#.ghacks-ad
-filehippo.com#@#.ad--leaderboard
-filehippo.com#@#.ad--mpu
-filehippo.com#@#.ad__content
-filehippo.com#@##review-seethrough-program-page-desktop-wrapper
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide

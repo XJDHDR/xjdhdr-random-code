@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UwBVm1vMM5H/izryDAQBag
-! Version: 202010010200
+! Checksum: Bj9aRSuL5PCg3NornilrqA
+! Version: 202010011400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 01 Oct 2020 02:00 UTC
+! Last modified: 01 Oct 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2474,8 +2474,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|grammarist.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
-@@||pbs.twimg.com/ad_img/$image,xmlhttprequest,domain=twitter.com
-@@||pbs.twimg.com/ad_img/$xmlhttprequest,domain=twitter.com
+@@||pbs.twimg.com/ad_img/$image,xmlhttprequest
 @@||pntrs.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||rogersmagazines.com/ads/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||rover.ebay.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
