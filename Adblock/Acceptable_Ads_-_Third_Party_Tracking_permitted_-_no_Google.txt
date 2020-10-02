@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M0vAGctkIE/q9z+Bb84O+w
-! Version: 202010011400
+! Checksum: Ei3w2AssbEIFX7pheCr9ow
+! Version: 202010020200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Oct 2020 14:00 UTC
+! Last modified: 02 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -138,18 +138,21 @@ heise.de#@#a[onmousedown^="this.href='https://marketing.outbrain.com/network/red
 heise.de#@#a[href^="https://marketing.outbrain.com/network/redir?"]
 @@||marketing.outbrain.com/network/redir?$popup,domain=heise.de
 @@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=heise.de
-@@||heise.de/assets/*/prebid.$script,domain=heise.de
 !:partner_token=heise.de
 !:partner_id=ee1f510910c7063c
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=9803
 ! Text/image ads on heise.de
 @@||heise.de/js/prebid*.js$domain=heise.de
+@@||heise.de/assets/*/prebid.$domain=heise.de
 heise.de#@#.ad-container
 heise.de#@#.img_ad
 heise.de#@#.us-ad
 heise.de#@#.ad-microsites
 heise.de#@#.a-ad
+heise.de#@#.perf-cls-reduc-leaderboard
+heise.de#@##adunit
+heise.de#@#.ad-1
 !:partner_token=izito.com
 !:partner_id=de5285dacf045639
 !:type=partner
@@ -6229,7 +6232,7 @@ simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
 yourdictionary.com,bgr.com,j-14.com,komando.com,pmcqa.com,zoosk.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
-avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
+pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mobile-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mrec
 smitefire.com#@#.ad-narrow
@@ -6534,6 +6537,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 bonginoreport.com#@#.side-advert
 wordexcerpt.com#@#.body-top-ads
 vtvgiaitri.vn#@#.ads-wrapper
+pcgamesn.com#@#.ad-mpu
+pcgamesn.com#@#.inlinerail
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
