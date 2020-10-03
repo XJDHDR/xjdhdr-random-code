@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1slLMJ8lM4lFMre7B12KzQ
-! Version: 202010021400
+! Checksum: ApGWfLZHky+kzzbh3zC+Lg
+! Version: 202010030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Oct 2020 14:00 UTC
+! Last modified: 03 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6539,6 +6539,11 @@ wordexcerpt.com#@#.body-top-ads
 vtvgiaitri.vn#@#.ads-wrapper
 pcgamesn.com#@#.ad-mpu
 pcgamesn.com#@#.inlinerail
+thefantasyfootballers.com#@#.ad--inner
+thefantasyfootballers.com#@#.ad-fixed
+thefantasyfootballers.com#@#.page-ad
+sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_1
+sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_3
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6715,6 +6720,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||nike.com^$document
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
+@@||cdn.pubguru.com$script,xmlhttprequest,third-party,domain=jugantor.com
+@@||m2d.m2.ai/*.js$script,third-party,domain=jugantor.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7565,7 +7572,7 @@ gamevui.vn#@#.adbox
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
