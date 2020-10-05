@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: htgnfWjem7m3NAuAjILMOw
-! Version: 202010050200
+! Checksum: 0gl2vLOCw7Byf/i3CjDR5A
+! Version: 202010051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Oct 2020 02:00 UTC
+! Last modified: 05 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2896,6 +2896,8 @@ thevarsity.ca#@#.ad-med-rect
 @@||antenasport.ro/templates/default/js/prebid*.js$domain=antenasport.ro
 @@||js.sapo.pt/Projects/CPU/*/prebid*.js$domain=sapo.pt
 @@||a1.ro/templates/default/js/prebid*.js$domain=a1.ro
+@@||ebay-kleinanzeigen.de^*/prebid/dist/prebid.$script,domain=ebay-kleinanzeigen.de
+@@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=elperiodicodearagon.com|diariocordoba.com|elperiodicoextremadura.com|elperiodicomediterraneo.com|lne.es|laopiniondezamora.es
 @@||observatornews.ro/templates/default/js/prebid*.js$domain=observatornews.ro
 @@||code.adsales.snidigital.com/datmcp/mcp-loader.js$domain=hgtv.com|cookingchanneltv.com|travelchannel.com|foodnetwork.com|food.com|diynetwork.com|greatamericancountry.com|tlc.com|animalplanet.com|velocity.com|investigationdiscovery.com|oprah.com
 @@||code.adsales.snidigital.com/datmcp/3/DatMCP*.js$domain=hgtv.com|cookingchanneltv.com|travelchannel.com|foodnetwork.com|food.com|diynetwork.com|greatamericancountry.com|tlc.com|animalplanet.com|velocity.com|investigationdiscovery.com|oprah.com
@@ -2903,6 +2905,11 @@ thevarsity.ca#@#.ad-med-rect
 @@||code.adsales.snidigital.com/datmcp/3/prebid*.js$domain=hgtv.com|cookingchanneltv.com|travelchannel.com|foodnetwork.com|food.com|diynetwork.com|greatamericancountry.com|tlc.com|animalplanet.com|velocity.com|investigationdiscovery.com|oprah.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
+elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
+elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@##ad-container
+elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#.ad-top
+elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#.adBanner
+elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#.contentAd
 retailmenot.com#@#.adunitContainer
 retailmenot.com#@#.adBox
 ~mmo-champion.com,~giga.de#@#div[id^="crt-"][style*="width:"]
@@ -6181,13 +6188,13 @@ pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jeze
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mobile-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mrec
 smitefire.com#@#.ad-narrow
-wowdb.com#@#.ad-placement
+probuildstats.com,wowdb.com#@#.ad-placement
 essence.com#@#.ad-position
 jobseeq.com#@#.ad-right
 articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
-buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
+probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
 littlealchemy2.com,windfinder.com#@#.ad-sticky
 upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
@@ -6489,6 +6496,7 @@ thefantasyfootballers.com#@#.ad-fixed
 thefantasyfootballers.com#@#.page-ad
 sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_1
 sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_3
+narwhale.io#@##adzone
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6660,7 +6668,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
-@@||lngtd.com/prebid^$domain=minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
+@@||lngtd.com/prebid^$domain=probuildstats.com|pixelpapercraft.com|minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
 @@||papergames.io/app/ads^$domain=papergames.io
 @@||nike.com^$document
 @@||teva.com^$document
@@ -8336,6 +8344,7 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
+ccm.net#@#.ad_right
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
 toocool2betrue.com#@##RTK_KEcG
