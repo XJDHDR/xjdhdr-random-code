@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zeRcMhUN+veF1Ls+Q1PKew
-! Version: 202010060200
+! Checksum: Zin/UbMYxaJz9VziQmFODg
+! Version: 202010061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Oct 2020 02:00 UTC
+! Last modified: 06 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -25,7 +25,7 @@
 !
 !
 ! *** exceptions:exceptionrules/exceptionrules.txt ***
-cd!:partner_token=netzwelt.de
+!:partner_token=netzwelt.de
 !:partner_id=16f0b55b5f59cb42
 !:type=partner
 !:forum=-none-
@@ -5936,7 +5936,7 @@ urbandictionary.com#@#.dfp-panel
 sporcle.com#@#.display-wide
 theguardian.com#@#.fc-slice__item--mpu-candidate
 theguardian.com#@#.fc-slice__popular-mpu
-britannica.com,gamepedia,minecraft.gamepedia.com,ncaa.com,wegotthiscovered.com#@#.footer-ad
+kicksonfire.com,britannica.com,gamepedia,minecraft.gamepedia.com,ncaa.com,wegotthiscovered.com#@#.footer-ad
 iwn.io#@#.footer-advert
 fandom.com,gamepedia.com,muthead.com,snopes.com#@#.gpt-ad
 britannica.com,cordcuttersnews.com,dealmaxx.net,woodmagazine.com#@#.header-ad
@@ -6297,7 +6297,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
 fxp.co.il,pmcqa.com#@#.header-top-ad
@@ -6368,12 +6368,12 @@ yesasia.ru#@#.td-a-rec-id-custom_ad_1
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_5
-fossbytes.com#@#.td-header-ad-wrap
+kicksonfire.com,fossbytes.com#@#.td-header-ad-wrap
 zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
 britannica.com#@#.toolbar-ad
 thesimsresource.com#@#.top-300-ad
-ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
+hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
 digitaltrends.com,wnd.com#@#.top-ad-container
 aljazeera.com#@#.top-adv
 skijumping.pl#@#.top-advertisement
@@ -6470,7 +6470,7 @@ pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
-vladtv.com,totalprosports.com#@##cmn_ad_tag_head
+kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
 sporcle.com#@#[style*="width: 728px; height: 90px;"]
 sporcle.com#@#.page-ad
 sporcle.com#@#.ad-source
@@ -6665,7 +6665,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
 @@||ads.blogherads.com^$domain=variety.com|tvline.com|bgr.com|rollingstone.com
-@@||zaf.services.zam.com/stable/js/$domain=fanbyte.com|hearthstonetopdecks.com
+@@||zaf.services.zam.com/stable/js/$domain=everquest.allakhazam.com|fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
 @@||lngtd.com/prebid^$domain=probuildstats.com|pixelpapercraft.com|minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
@@ -8317,6 +8317,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.sharemods.com^$domain=sharemods.com,document
 ! @@||related.vesty.co.il^$domain=vesty.co.il
 ! @@||related.vesty.co.il^$domain=vesty.co.il,document
+@@||cloud.setupad.com/hb/sharemods.js$domain=sharemods.com
+@@||cloud.setupad.com/hb/ezgifcom.js$domain=ezgif.com
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
