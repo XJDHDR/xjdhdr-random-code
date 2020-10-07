@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DS+xGVI5FT3UBfqw88aX9Q
-! Version: 202010070200
+! Checksum: We04KdQDjg50zHLo3Z721A
+! Version: 202010071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Oct 2020 02:00 UTC
+! Last modified: 07 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5875,7 +5875,6 @@ clubroadster.net#@#.ad-card
 guidingtech.com#@#.ad-centered
 kongregate.com##.ad-container
 fleaflicker.com#@#.ad-content
-prosportsdaily.com#@#.ad-header
 spellcheck.net,usccgstaging.wpengine.com,uscreditcardguide.com#@#.ad-holder
 hometalk.com#@#.ad-item
 devmn.net,hothardware.com,mumsnet.com,siliconera.com#@#.ad-leaderboard
@@ -6497,6 +6496,7 @@ thefantasyfootballers.com#@#.page-ad
 sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_1
 sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_3
 narwhale.io#@##adzone
+u.gg#@#.ad-box-wrapper
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6635,7 +6635,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||a.pub.network^$script,domain=pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@^x-kinja-static/assets/new-client/trackers.0df168682f7cd87994ab.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@^x-kinja-static/assets/new-client/runtime~trackers.83877260061b4d6ce009.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@||x.kinja-static.com/assets/new-client/runtime~frontPage.9c59709f2aba9c3fad49.js$script,domain=kotaku.com
@@ -8319,6 +8319,7 @@ testpages.adblockplus.org#@##abptest
 ! @@||related.vesty.co.il^$domain=vesty.co.il,document
 @@||cloud.setupad.com/hb/sharemods.js$domain=sharemods.com
 @@||cloud.setupad.com/hb/ezgifcom.js$domain=ezgif.com
+@@||cloud.setupad.com/hb/cpluspluscom.js$domain=cplusplus.com
 @@||deployads.com^$domain=biggeekdad.com|homesteadingtoday.com|michigan-sportsman.com
 @@||lib.pgmcdn.com/dark-matter-$script,domain=billboard.com
 @@||lib.pgmcdn.com/clarity-$script,domain=hollywoodreporter.com
