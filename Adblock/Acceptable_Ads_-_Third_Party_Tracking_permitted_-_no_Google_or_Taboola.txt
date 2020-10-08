@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ufL5QFCwIGZgOFqAEaELPQ
-! Version: 202010080200
+! Checksum: bg5AqEg2mmcrijCTYweHqA
+! Version: 202010081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 08 Oct 2020 02:00 UTC
+! Last modified: 08 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8324,6 +8324,7 @@ testpages.adblockplus.org#@##abptest
 @@||ads.talkscreativity.com/assets/publisher/ittelefoninonet/init.js$domain=telefonino.net
 @@||ads.talkscreativity.com/assets/engine/*/engine.min.js$domain=telefonino.net
 @@||global.proper.io/payloads/*.js$domain=notalwaysright.com
+@@||cloudfront.net/script.js$domain=mapquest.com
 ||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
@@ -8345,7 +8346,6 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 !
-ccm.net#@#.ad_right
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
 toocool2betrue.com#@##RTK_KEcG
@@ -8369,6 +8369,7 @@ reddit.com#@##ad_5
 reddit.com#@##ad_6
 reddit.com#@##ad_7
 seekingalpha.com#@##ad_728x90
+tabs.ultimate-guitar.com###ad_cs_2010320_160_600
 mediafire.com#@##adwrapper
 web.filehorse.com###aswift_0_expand
 web.filehorse.com###aswift_1_expand
@@ -8378,6 +8379,7 @@ web.filehorse.com###aswift_4_expand
 web.filehorse.com###aswift_5_expand
 allthetests.com#@##banner
 gamepress.gg#@##block-sidebarad1
+planetminecraft.com#@##box_300btf
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@##dfp-ad-1
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@##dfp-ad-2
 bjpenn.com#@##div-insticator-ad-1
@@ -8408,6 +8410,7 @@ capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguar
 billboard.com,hollywoodreporter.com#@#.ad-container
 247wallst.com#@#.ad-div
 247wallst.com##.ad-div.sidebar-div.stickLoop.boxD
+mein-schoener-garten.de#@#.ad-entity-container
 askmen.com#@#.ad-gpt
 billboard.com#@#.ad-holder
 agame.com#@#.ad-leaderboard
@@ -8422,12 +8425,14 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 avclub.com,clickhole.com,deadspin.com,forbes.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-unit
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-wide
 firstpost.com#@#.ad728x90
+twinfinite.net#@#.adDiv
 mashable.com#@#.ad_container
 arsdev.net,arstechnica.com#@#.ad_crown
 billboard.com,hollywoodreporter.com#@#.ad_desktop
 arsdev.net,arstechnica.com#@#.ad_fullwidth
 arsdev.net,arstechnica.com#@#.ad_native
 arsdev.net,arstechnica.com#@#.ad_native_xrail
+ccm.net#@#.ad_right
 arsdev.net,arstechnica.com#@#.ad_xrail
 arsdev.net,arstechnica.com#@#.ad_xrail_top
 speedtest.net#@#.ads-column
@@ -8435,17 +8440,17 @@ speedtest.net#@#.ads-left
 speedtest.net#@#.ads-right
 boredpanda.com#@#.adsbox
 mein-schoener-garten.de#@#.adtag
-mein-schoener-garten.de#@#.ad-entity-container
 searchenginejournal.com#@#.adv-label
 koutsompolio.gr#@#.adv_left
 gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.advert
+xlrforum.com#@#.afs_ads
 motor1.com#@#.ap
 motor1.com#@#.apb
 saltwire.com,thechronicleherald.ca,thetelegram.com#@#.banner-ad
 futbolcentroamerica.com#@#.banner_160x600
 hannity.com#@#.banner_ad
 capebretonpost.com,journalpioneer.com,theguardian.pe.ca#@#.billboard-ad
-xlrforum.com,247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.box-ad
+247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com,xlrforum.com#@#.box-ad
 koutsompolio.gr#@#.browse-banner_ad
 arsdev.net,arstechnica.com#@#.cns-ads-stage
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-container
@@ -8456,7 +8461,8 @@ billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
 stuff.co.nz#@#.display-ad
 seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
-mandatory.com,comingsoon.net,gamerevolution.com#@#.gpt-ad
+ghacks.net#@#.ghacks-ad
+comingsoon.net,gamerevolution.com,mandatory.com#@#.gpt-ad
 forbes.com,hannity.com,thestudentroom.co.uk#@#.header-ad
 inquisitr.com#@#.iab
 247wallst.com#@#.iframe-ad
@@ -8478,23 +8484,18 @@ bjpenn.com#@#.td-a-rec-id-custom_ad_4
 bjpenn.com#@#.td-a-rec-id-custom_ad_5
 charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
 boredpanda.com,comingsoon.net#@#.text-ad
-mandatory.com,comingsoon.net,gamerevolution.com#@#.widget_evolve_ad_gpt_widget
+comingsoon.net,gamerevolution.com,mandatory.com#@#.widget_evolve_ad_gpt_widget
 searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 allthetests.com#@#div > iframe:first-child
 adtechdaily.com#@#div[class*="td-a-rec-id-"]
 thestudentroom.co.uk#@#div[data-adunit]
+reddit.com#@#div[data-before-content="advertisement"]
 searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#div[id^="dfp-ad-"]
 reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
-reddit.com#@#div[data-before-content="advertisement"]
-twinfinite.net#@#.adDiv
-xlrforum.com#@#.afs_ads
-tabs.ultimate-guitar.com###ad_cs_2010320_160_600
-planetminecraft.com#@##box_300btf
-ghacks.net#@#.ghacks-ad
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
