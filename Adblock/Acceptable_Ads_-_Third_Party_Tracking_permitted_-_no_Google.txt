@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vMmjkJY8m9IB4gHMBiDRJA
-! Version: 202010071400
+! Checksum: +12ZDsaTiBcioYt/TrPNhA
+! Version: 202010080200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 07 Oct 2020 14:00 UTC
+! Last modified: 08 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6232,7 +6232,7 @@ buzznet.com,index.hr#@#.ad-holder
 windfinder.com#@#.ad-horizontal
 mrexcel.com#@#.ad-in-post
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
-littlealchemy2.com#@#.ad-inner
+hiphopdx.com,littlealchemy2.com#@#.ad-inner
 airportia.com#@#.ad-item
 simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
@@ -6524,7 +6524,7 @@ pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
-kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
+hiphopdx.com,kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
 sporcle.com#@#[style*="width: 728px; height: 90px;"]
 sporcle.com#@#.page-ad
 sporcle.com#@#.ad-source
@@ -6552,6 +6552,9 @@ sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_1
 sneakerbardetroit.com#@#.td-a-rec-id-custom_ad_3
 narwhale.io#@##adzone
 u.gg#@#.ad-box-wrapper
+kicksonfire.com#@#.ads-section
+kicksonfire.com#@#.ads-main
+kicksonfire.com#@##leftads
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -7158,11 +7161,6 @@ fitnessrezepte.de#@#.wpa
 ! Readthedocs.io ads
 @@||readthedocs.org/api/*/sustainability/$script
 @@||readthedocs.org/sustainability/
-@@||media.ethicalads.io/media/*/ethicalads.min.js$domain=readthedocs.io
-@@||server.ethicalads.io/api/v1/decision$domain=readthedocs.io
-@@||media.ethicalads.io$image,domain=readthedocs.io
-@@||server.ethicalads.io/proxy/click$domain=readthedocs.io
-@@||server.ethicalads.io/proxy/view$domain=readthedocs.io
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
@@ -10534,9 +10532,8 @@ linkedin.com#@#.ad-hdr
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actordescription:-abp-contains(/Sponsored|Promoted/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actorsub-description:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
+linkedin.com#@#.core-rail > .ember-view > .ember-view:-abp-has(.feed-shared-actor__sub-description:-abp-contains(/Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|الترويج/))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com#@#.feed-shared-update--is-sponsored
 linkedin.com###inbox-ads-module
@@ -10566,6 +10563,11 @@ centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 @@||readthedocs.org/api/*/sustainability/$script,domain=readthedocs.io
 @@||readthedocs.org/sustainability/$domain=readthedocs.io
 readthedocs.io#@#.ethical-rtd
+@@||media.ethicalads.io/media/*/ethicalads.min.js$domain=readthedocs.io
+@@||server.ethicalads.io/api/v1/decision$domain=readthedocs.io
+@@||server.ethicalads.io/proxy/click$domain=readthedocs.io
+@@||server.ethicalads.io/proxy/view$domain=readthedocs.io
+@@||media.ethicalads.io^$image,domain=readthedocs.io
 !:partner_token=Wykop Sp. z o.o.
 !:partner_id=4d5a9dab050ee9c2
 !:type=partner

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6YUMzAsKTbq+1Iey0ryuJQ
-! Version: 202010071400
+! Checksum: F5FD+/0ew3VFfJsjIAE7Jg
+! Version: 202010080200
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 07 Oct 2020 14:00 UTC
+! Last modified: 08 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -262,9 +262,8 @@ linkedin.com#@#.ad-banner-container
 linkedin.com#@#.img_ad
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/Sponsored|Promoted/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actordescription:-abp-contains(/Sponsored|Promoted/))
-linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actorsub-description:-abp-contains(/Sponsored|Promoted/))
 linkedin.com#@#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
+linkedin.com#@#.core-rail > .ember-view > .ember-view:-abp-has(.feed-shared-actor__sub-description:-abp-contains(/Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|الترويج/))
 linkedin.com#@#.feed-shared-post-meta--is-sponsored
 linkedin.com#@#.feed-shared-update--is-sponsored
 linkedin.com###inbox-ads-module
@@ -298,6 +297,11 @@ centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 @@||readthedocs.org/api/*/sustainability/$script,domain=readthedocs.io
 @@||readthedocs.org/sustainability/$domain=readthedocs.io
 readthedocs.io#@#.ethical-rtd
+@@||media.ethicalads.io/media/*/ethicalads.min.js$domain=readthedocs.io
+@@||server.ethicalads.io/api/v1/decision$domain=readthedocs.io
+@@||server.ethicalads.io/proxy/click$domain=readthedocs.io
+@@||server.ethicalads.io/proxy/view$domain=readthedocs.io
+@@||media.ethicalads.io^$image,domain=readthedocs.io
 !:partner_token=Wykop Sp. z o.o.
 !:partner_id=4d5a9dab050ee9c2
 !:type=partner
