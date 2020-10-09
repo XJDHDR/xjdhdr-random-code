@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I1LMGx3Fo2HH8JCgWV4B3Q
-! Version: 202010090200
+! Checksum: YoyoYGoiVKyWoWIBoI7miw
+! Version: 202010091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Oct 2020 02:00 UTC
+! Last modified: 09 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1851,7 +1851,7 @@ conneriesqc.com,lijstverse.nl,victoriaadvocate.com,whatreallyhappened.com#@#.spo
 theweek.com#@#.sr-in-feed-ads
 daily-goals.com#@#.sticky-ad-container
 ajc.com#@#.story-ad-container
-libertatea.ro#@#.strawberry-ads
+auto-bild.ro,libertatea.ro#@#.strawberry-ads
 ibtimes.co.uk,odelices.ouest-france.fr,thecinemaholic.com,theweek.com#@#.taboola-ad
 10tv.com,3ds-paradise.com,accessatlanta.com,actionnewsjax.com,ajc.com,austin360.com,boston25news.com,chicago.suntimes.com,columbiatribune.com,curiouscat.me,dayton.com,daytondailynews.com,dbltap.com,desired.de,eonline.com,espn.cl,espn.co.uk,espn.com,espn.com.ar,espn.com.au,espn.com.br,espn.com.mx,espn.com.ve,espn.in,espncricinfo.com,espndeportes.espn.com,fantasy.espn.com,fox13memphis.com,fox23.com,fox30jax.com,global.espn.com,gocarolinas.com,journal-news.com,kiro7.com,latimes.com,minhavida.com.br,nascar.com,palmbeachpost.com,theonion.com,tv5.espn.com,uk.ign.com,wftv.com,wpxi.com,wsbtv.com,wsoctv.com,wthr.com,xpatnation.com#@#.taboola-container
 theonion.com#@#.taboola-inbetweener
@@ -3538,6 +3538,7 @@ minecraftforum.net#@#.atf-ad-medRect
 @@||altsysimg.developpez.com/show_i.php?$script,domain=developpez.com|developpez.net
 @@||adsafeprotected.com^$script,image,domain=developpez.com|developpez.net
 @@||developpez.be/template/images/pub728.png$domain=developpez.net
+@@||developpez.com/template/images/pub300.png$domain=developpez.net
 developpez.net#@##adl_300x250
 developpez.com#@##gabarit_pub0
 developpez.com#@##gabarit_pub1

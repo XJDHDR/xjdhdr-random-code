@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Nz+WcpQtX7MdFNH3Wa1HdQ
-! Version: 202010090200
+! Checksum: /x+nIXR4FkERTvTLmhB1Pg
+! Version: 202010091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 09 Oct 2020 02:00 UTC
+! Last modified: 09 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1806,7 +1806,7 @@ conneriesqc.com,lijstverse.nl,victoriaadvocate.com,whatreallyhappened.com#@#.spo
 theweek.com#@#.sr-in-feed-ads
 daily-goals.com#@#.sticky-ad-container
 ajc.com#@#.story-ad-container
-libertatea.ro#@#.strawberry-ads
+auto-bild.ro,libertatea.ro#@#.strawberry-ads
 otakukart.com,naldotech.com,ravejungle.com,thewalkingdead.com.br,wackyy.org#@#.td-a-rec-id-custom_ad_1
 geiletore.de,qooqootv.pro,turkish-football.com#@#.td-a-rec-id-custom_ad_2
 indigodergisi.com,stopmensonges.com#@#.td-a-rec-id-custom_ad_3
@@ -3483,6 +3483,7 @@ minecraftforum.net#@#.atf-ad-medRect
 @@||altsysimg.developpez.com/show_i.php?$script,domain=developpez.com|developpez.net
 @@||adsafeprotected.com^$script,image,domain=developpez.com|developpez.net
 @@||developpez.be/template/images/pub728.png$domain=developpez.net
+@@||developpez.com/template/images/pub300.png$domain=developpez.net
 developpez.net#@##adl_300x250
 developpez.com#@##gabarit_pub0
 developpez.com#@##gabarit_pub1
