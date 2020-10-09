@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bg5AqEg2mmcrijCTYweHqA
-! Version: 202010081400
+! Checksum: Nz+WcpQtX7MdFNH3Wa1HdQ
+! Version: 202010090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 08 Oct 2020 14:00 UTC
+! Last modified: 09 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6500,6 +6500,7 @@ u.gg#@#.ad-box-wrapper
 kicksonfire.com#@#.ads-section
 kicksonfire.com#@#.ads-main
 kicksonfire.com#@##leftads
+cram.com#@#.advertBox
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6598,6 +6599,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
+@@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@||a.pub.network^*/pubfig.min.js$domain=fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
@@ -6650,7 +6653,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
-@@||hb.vntsm.com/*/live/$script,xmlhttprequest,domain=gfinityesports.com|realsport101.com|stealthoptional.com|realgaming101.es|realgaming101.pt|realgaming101.me|arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
+@@||hb*.vntsm.com/*/live/$script,xmlhttprequest,domain=gfinityesports.com|realsport101.com|stealthoptional.com|realgaming101.es|realgaming101.pt|realgaming101.me|arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
 @@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
@@ -7749,6 +7752,12 @@ search.alot.com,alothome.com#@##bottomAds
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80180
 ! angularjswiki.com ads
 @@||ethicalads.io^$domain=angularjswiki.com
+!:partner_token=gruender.de ads
+!:partner_id=189716c999a42190
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80282
+! gruender.de ads
+@@||gruender.de/wp-content/uploads/*300x600$image,domain=gruender.de
 !:partner_token=Rambler
 !:partner_id=0f379e9a30bc5b2e
 !:type=partner
