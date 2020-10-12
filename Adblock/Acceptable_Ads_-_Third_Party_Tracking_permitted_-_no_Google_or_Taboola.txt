@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SUDaXjZNPdIhQhfE1akIfw
-! Version: 202010120200
+! Checksum: lqnPFWByhCmrEWKVTrUS0g
+! Version: 202010121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 12 Oct 2020 02:00 UTC
+! Last modified: 12 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6604,7 +6604,9 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@||a.pub.network^*/pubfig.min.js$domain=fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^*/pubfig.min.js$domain=lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^$script,domain=lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||d.pub.network/init?key$xmlhttprequest,domain=lightnovelworld.com|realestatebook.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -6644,7 +6646,6 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||rtb-usw.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-use.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
 @@||rtb-eu.mfadsrvr.com^$image,domain=wowhead.com|gamepedia.com|fandom.com|imgur.com
-@@||a.pub.network^$script,domain=pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@^x-kinja-static/assets/new-client/trackers.0df168682f7cd87994ab.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@^x-kinja-static/assets/new-client/runtime~trackers.83877260061b4d6ce009.js$script,domain=kotaku.com|gizmodo.com|lifehacker.com|theinventory.com|jalopnik.com
 @@||x.kinja-static.com/assets/new-client/runtime~frontPage.9c59709f2aba9c3fad49.js$script,domain=kotaku.com
@@ -7754,7 +7755,7 @@ search.alot.com,alothome.com#@##bottomAds
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80180
 ! angularjswiki.com ads
-@@||ethicalads.io^$domain=angularjswiki.com
+@@||ethicalads.io^$domain=arungudelli.com|angularjswiki.com
 !:partner_token=gruender.de ads
 !:partner_id=189716c999a42190
 !:type=partner
