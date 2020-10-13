@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BPkH70bRpi0ZEEIEEYNRGw
-! Version: 202010130200
+! Checksum: tHPp9a8IhGDWNd9yXXXvJQ
+! Version: 202010131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 13 Oct 2020 02:00 UTC
+! Last modified: 13 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1630,7 +1630,7 @@ thenoob.net#@#.adinjwidget
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
-@@/projectagora.min.js$script,domain=yallasky.com|hobi.ba|elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=storymag.cz|prouspech.cz|girlworld.cz|bydlimechytre.cz|nechapavyadvokat.cz|carsmag.cz|zdraverady.cz|magazin.sfdb.cz|yallasky.com|hobi.ba|elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -1657,10 +1657,15 @@ thenoob.net#@#.adinjwidget
 @@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
 @@||cdn.taboola.com^$image,domain=okmagazine.ro
 @@||merrjep.al/Scripts/prebid2.$script,domain=merrjep.al
-@@||paht.tech/c/coptstoday.com.js$script,domain=coptstoday.com
+@@||paht.tech/c^$script,domain=bydlimechytre.cz|carsmag.cz|magazin.sfdb.cz|prouspech.cz|girlworld.cz|nechapavyadvokat.cz|storymag.cz|zdraverady.cz|coptstoday.com
 @@||htintpa.tech/c/dejnews.ro.js$domain=dejnews.ro
 @@||htintpa.tech/c/hinditwostop.com.js$domain=hinditwostop.com
 @@||tags-cdn.deployads.com/a/myanimelist.net.js$domain=myanimelist.net
+@@||h.imedia.cz/js/dot-small.$domain=carsmag.cz
+@@||ssp.imedia.cz/static/js/ssp.js$domain=storymag.cz|prouspech.cz|girlworld.cz|bydlimechytre.cz|nechapavyadvokat.cz|carsmag.cz|zdraverady.cz|magazin.sfdb.cz
+@@||ssp.imedia.cz/v1/xhr^$domain=carsmag.cz
+@@||trackad.cz/get/carsmag.cz/article/bottom^$domain=carsmag.cz
+@@||trackad.cz/js/*/online/public/bundle.$domain=carsmag.cz
 gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com,masslive.com,cleveland.com,al.com,pennlive.com,nj.com#@#.ad--sponsor-content
 tempest.services.disqus.com#@##ad-container
 radiosarajevo.ba#@#.adloaded
@@ -1917,6 +1922,7 @@ medicitalia.it#@#a[href^="https://affiliate.across.it/"]
 eurasiantimes.com#@##mvp-post-bot-ad
 eurasiantimes.com#@#.mvp-ad-label
 elbaladtv.net#@#.ads_code
+carsmag.cz##.AdTrack-container
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7501,7 +7507,7 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
 @@/px.gif?ch=1&rn=$domain=gismeteo.ru
 /px.gif?ch=2&rn=$domain=gismeteo.ru
-@@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js?v=2
+@@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
 @@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
 7days.ru#@#.b-section_content_partners-news
 7days.ru#@#.b-hz2_type_section
