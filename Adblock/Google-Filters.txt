@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SyiwCEtuG5jxLLQm4bUGjw
-! Version: 202010131400
+! Checksum: b3ZA4GMhaZu2lctdmVd9Kg
+! Version: 202010140200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 13 Oct 2020 14:00 UTC
+! Last modified: 14 Oct 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1153,6 +1153,7 @@ _reklama_$domain=~youtube.com
 ##a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://redirect.ero-advertising.com/"]
+##a[href^="https://syndication.dynsrvtbg.com/splash.php?"]
 ##a[href^="https://www.friendlyduck.com/AF_"]
 ##a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
@@ -1212,6 +1213,7 @@ adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,not
 spoilertv.com#@##adsensewide
 androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
 africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
+||2020mustang.com^
 ||86pqvhdw5wpg.com^
 ||aaqpsddtjnsmug.com^
 ||advmaiotg.com^
@@ -2978,6 +2980,7 @@ _GoogleTagManager2/
 ||samsung.com^*/scripts/tracking.js
 ||shopping.com/pixel/
 ||sp.redding.com^
+||spankbang.com/auth_fetch?$xmlhttprequest
 ||spankbang.com/fetch$xmlhttprequest
 ||spankbang.com^$ping
 ||stan.xing.com^
