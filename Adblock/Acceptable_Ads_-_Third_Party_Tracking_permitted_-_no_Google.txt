@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DfmfRZppzIgONah/GRIbzw
-! Version: 202010141400
+! Checksum: ydblB8gqwwtwSQU8VyK8OQ
+! Version: 202010150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Oct 2020 14:00 UTC
+! Last modified: 15 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6229,7 +6229,7 @@ papergames.io,capital.com.tr,pokebattler.com,theoi.com#@#.ad-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-banner-image
 greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
-bovary.gr#@#.ad-block
+yankodesign.com,bovary.gr#@#.ad-block
 owfire.com,smitefire.com#@#.ad-break
 buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
@@ -6298,7 +6298,7 @@ wyborcza.pl#@#.ads-top
 publicholidays.com.au#@#.ads__sidebar
 therighthairstyles.com#@#.ads_top
 ozbargain.com.au#@#.adsbillboard
-ew.com,omnicalculator.com,topky.sk#@#.adsbox
+yourdictionary.com,lightnovelworld.com,ew.com,omnicalculator.com,topky.sk#@#.adsbox
 ozbargain.com.au#@#.adslisting
 ozbargain.com.au#@#.adslisting2
 ozbargain.com.au#@#.adslistingz
@@ -6565,6 +6565,7 @@ kicksonfire.com#@#.ads-section
 kicksonfire.com#@#.ads-main
 kicksonfire.com#@##leftads
 cram.com#@#.advertBox
+romajidesu.com#@##sidebar_ads
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6746,6 +6747,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||word.tips/assets/ads$domain=word.tips
 @@||cdn.pubguru.com$script,xmlhttprequest,third-party,domain=jugantor.com
 @@||m2d.m2.ai/*.js$script,third-party,domain=jugantor.com
+@@||cdn1.htlbid.com/*/wordfinder.yourdictionary.com/htlbid.js$script,domain=yourdictionary.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
