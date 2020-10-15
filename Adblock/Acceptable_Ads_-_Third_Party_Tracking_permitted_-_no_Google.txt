@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ydblB8gqwwtwSQU8VyK8OQ
-! Version: 202010150200
+! Checksum: 7jMqLKsOWGAfUIlPCXMAOg
+! Version: 202010151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Oct 2020 02:00 UTC
+! Last modified: 15 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6203,7 +6203,7 @@ a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
 lexicanum.com#@##sidebar-ad
 thewordfinder.com#@##sidebar-advertisement
-wheeldecide.com,manofmany.com#@##stickyad
+loveawake.com,wheeldecide.com,manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
@@ -6283,7 +6283,7 @@ discogs.com#@#.ad_bottom
 discogs.com#@#.ad_container
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label_method
-discogs.com#@#.ad_top
+urldecoder.org,discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
 itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
@@ -6566,6 +6566,9 @@ kicksonfire.com#@#.ads-main
 kicksonfire.com#@##leftads
 cram.com#@#.advertBox
 romajidesu.com#@##sidebar_ads
+urldecoder.org#@#.ad_right
+zkillboard.com#@#.adrow
+technical.city#@#div[class^="banner_"]
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6616,7 +6619,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -8574,6 +8577,7 @@ reddit.com#@#div[id^="overlay-sidebar-atf-"]
 reddit.com#@#div[id^="overlay-sidebar-btf-"]
 reddit.com#@#div[id^="sidebar-atf-"]
 reddit.com#@#div[id^="sidebar-btf-"]
+boredpanda.com#@#.post-ads
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
