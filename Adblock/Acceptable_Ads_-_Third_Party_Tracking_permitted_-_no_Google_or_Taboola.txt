@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: z4AeWKLUKDZ96CLG+QgnWg
-! Version: 202010160200
+! Checksum: zNbgeZU5cO+PfnJlSyMHpw
+! Version: 202010161400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 16 Oct 2020 02:00 UTC
+! Last modified: 16 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6203,7 +6203,7 @@ articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,
 littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
 probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
-littlealchemy2.com,windfinder.com#@#.ad-sticky
+lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
 littlealchemy2.com,omnicalculator.com#@#.ad-top
@@ -6410,7 +6410,7 @@ indiewire.com,israelnationalnews.com,wnd.com#@#[style] > iframe
 nauka.rocks#@#aside[id^="advads_ad_widget-"]
 tetrisfriends.com#@#div :-abp-properties(display: inline-table !important;)
 colourlovers.com,convertcase.net,indiewire.com,israelnationalnews.com,jerusalemonline.com,wnd.com#@#div > iframe:first-child
-fortnitemaster.com,greatist.com,healthline.com,medicalnewstoday.com#@#div[adonis-marker]
+destructoid.com,fortnitemaster.com,greatist.com,healthline.com,medicalnewstoday.com#@#div[adonis-marker]
 haaretz.co.il,themarker.com#@#div[class*="banner"]
 yesasia.ru#@#div[class*="td-a-rec-id-"]
 ynet.co.il,ynetnews.com#@#div[data-adunit]
@@ -6514,6 +6514,9 @@ romajidesu.com#@##sidebar_ads
 urldecoder.org#@#.ad_right
 zkillboard.com#@#.adrow
 technical.city#@#div[class^="banner_"]
+lightnovelworld.com#@#.ad-container-left
+sohh.com#@#.g1-advertisement
+sohh.com#@#.type-ad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6614,8 +6617,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@||a.pub.network^*/pubfig.min.js$domain=lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
-@@||a.pub.network^$script,domain=lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||a.pub.network^*/pubfig.min.js$domain=solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^$script,domain=solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@||d.pub.network/init?key$xmlhttprequest,domain=lightnovelworld.com|realestatebook.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
@@ -6690,6 +6693,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
 @@||lngtd.com/prebid^$domain=probuildstats.com|pixelpapercraft.com|minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
 @@||papergames.io/app/ads^$domain=papergames.io
+@@||cdn.enthusiast.gg/script/prebid/prebid$domain=icy-veins.com|thesimsresource.com|destructoid.com
 @@||nike.com^$document
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
