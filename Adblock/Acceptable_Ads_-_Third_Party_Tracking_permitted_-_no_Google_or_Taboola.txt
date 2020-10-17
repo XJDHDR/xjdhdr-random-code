@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zNbgeZU5cO+PfnJlSyMHpw
-! Version: 202010161400
+! Checksum: Ku1XNyxzBMEEd44mHYy08g
+! Version: 202010170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 16 Oct 2020 14:00 UTC
+! Last modified: 17 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7840,6 +7840,7 @@ andelemandele.lv#@#.ad.module
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||delivery.performax.cz/sklik/$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 @@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
 @@||cdn.performax.cz/acc/accp.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||delivery.performax.cz^*_rtb/$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 @@||cdn.performax.cz/acc/*_rtb.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
