@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QI5KpipSWfzy4JKuTFbiXA
-! Version: 202010190200
+! Checksum: armHFfwOWjfTf4GX/jRMFA
+! Version: 202010191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Oct 2020 02:00 UTC
+! Last modified: 19 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6189,7 +6189,7 @@ itstillworks.com#@##inline-ad
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
 wowhead.com#@##main > .blocks
 yad2.co.il#@##martef
-parkers.co.uk#@##mpu2
+gamesradar.com,parkers.co.uk#@##mpu2
 cnn.com#@##partner-zone
 soolide.com#@##quads-ad1
 soolide.com#@##quads-ad1_widget
@@ -7331,7 +7331,7 @@ habr.com#@#.dfp-slot__placeholder-text a
 habr.com#@#.sidebar_right_ad
 habr.com#@#.dfp-slot
 @@||cdn-plus.roxot-panel.com/roxot-wrapper/js/$script,domain=habr.com
-@@||cdn-plus.roxot-panel.com/wrapper-builder/$script,domain=habr.com
+@@||cdn-plus.roxot-panel.com/wrapper-builder/$script,xmlhttprequest,domain=habr.com
 !:partner_token=express-novosti.ru
 !:partner_id=be2745a8380cdcf3
 !:type=partner
@@ -8414,6 +8414,7 @@ testpages.adblockplus.org#@##abptest
 ||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
+@@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 ! temp
