@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gMRd+zgjpqwZZ0g1jSAVSA
-! Version: 202010191400
+! Checksum: Ft6VVlAg3Yk70O35iGJRdA
+! Version: 202010200200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Oct 2020 14:00 UTC
+! Last modified: 20 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2910,6 +2910,9 @@ thevarsity.ca#@#.ad-med-rect
 @@||code.adsales.snidigital.com/datmcp/3/DatMCP*.js$domain=hgtv.com|cookingchanneltv.com|travelchannel.com|foodnetwork.com|food.com|diynetwork.com|greatamericancountry.com|tlc.com|animalplanet.com|velocity.com|investigationdiscovery.com|oprah.com
 @@||code.adsales.snidigital.com/conf/ads-config.js$domain=hgtv.com|cookingchanneltv.com|travelchannel.com|foodnetwork.com|food.com|diynetwork.com|greatamericancountry.com|tlc.com|animalplanet.com|velocity.com|investigationdiscovery.com|oprah.com
 @@||code.adsales.snidigital.com/datmcp/3/prebid*.js$domain=hgtv.com|cookingchanneltv.com|travelchannel.com|foodnetwork.com|food.com|diynetwork.com|greatamericancountry.com|tlc.com|animalplanet.com|velocity.com|investigationdiscovery.com|oprah.com
+@@||c.amazon-adsystem.com/aax2/apstag.js$domain=autouncle.it|autouncle.de|autouncle.se|autouncle.dk|autouncle.at|autouncle.pt|autouncle.co.uk|autouncle.es|autouncle.pl|autouncle.fi|autouncle.ch|autouncle.fr|autouncle.com
+@@||ads.pubmatic.com/AdServer/js/pwt/158933/1891/pwt.js$domain=autouncle.it|autouncle.de|autouncle.se|autouncle.dk|autouncle.at|autouncle.pt|autouncle.co.uk|autouncle.es|autouncle.pl|autouncle.fi|autouncle.ch|autouncle.fr|autouncle.com
+@@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=autouncle.it|autouncle.de|autouncle.se|autouncle.dk|autouncle.at|autouncle.pt|autouncle.co.uk|autouncle.es|autouncle.pl|autouncle.fi|autouncle.ch|autouncle.fr|autouncle.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
