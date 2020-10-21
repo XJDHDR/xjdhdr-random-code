@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: roAR6y04OnMbhCsej4gYrA
-! Version: 202010201400
+! Checksum: Gb+X3SY7fyAbiG2QLHa+kA
+! Version: 202010210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Oct 2020 14:00 UTC
+! Last modified: 21 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1174,7 +1174,6 @@ orange.fr#@##commercial-links
 meteoconsult.fr#@##favoris_pub_ligatus
 money.cnn.com#@##js-outbrain-recommended
 cnn.com#@##js-outbrain-rightrail-ads-module
-huffingtonpost.fr###modulous_right_rail_recirc > .OUTBRAIN > .ob-widget .ob-p
 distractify.com,salon.com###outbrain_widget_0
 cnn.com#@##outbrain_widget_0 > .ob_stripDual_container > .ob_dual_left
 cnn.com,cracked.com,foxnews.com,stuff.co.nz#@##outbrain_widget_1
@@ -2968,6 +2967,14 @@ thevarsity.ca#@#.ad-med-rect
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=autouncle.it|autouncle.de|autouncle.se|autouncle.dk|autouncle.at|autouncle.pt|autouncle.co.uk|autouncle.es|autouncle.pl|autouncle.fi|autouncle.ch|autouncle.fr|autouncle.com
 @@||ads.pubmatic.com/AdServer/js/pwt/158933/1891/pwt.js$domain=autouncle.it|autouncle.de|autouncle.se|autouncle.dk|autouncle.at|autouncle.pt|autouncle.co.uk|autouncle.es|autouncle.pl|autouncle.fi|autouncle.ch|autouncle.fr|autouncle.com
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=autouncle.it|autouncle.de|autouncle.se|autouncle.dk|autouncle.at|autouncle.pt|autouncle.co.uk|autouncle.es|autouncle.pl|autouncle.fi|autouncle.ch|autouncle.fr|autouncle.com
+@@||bt.dk/adops/Prebid/PROD/prebid-library*.js$domain=bt.dk
+@@||bt.dk/adops/Prebid/PROD/prebid-config*.js$domain=bt.dk
+@@||euroinvestor.dk/adops/Prebid/PROD/prebid-config*.js$domain=euroinvestor.dk
+@@||euroinvestor.dk/adops/Prebid/PROD/prebid-library*.js$domain=euroinvestor.dk
+@@||bem-upload-adops.s3.amazonaws.com/adops/Prebid/PROD/prebid-config*.js$domain=valutakurser.dk
+@@||bem-upload-adops.s3.amazonaws.com/adops/Prebid/PROD/prebid-library*.js$domain=valutakurser.dk
+@@||berlingske.dk/adops/Prebid/PROD/prebid-library*.js$domain=berlingske.dk
+@@||berlingske.dk/adops/Prebid/PROD/prebid-config*.js$domain=berlingske.dk
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -6536,7 +6543,7 @@ pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
-hiphopdx.com,kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
+gameranx.com,hiphopdx.com,kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
 sporcle.com#@#[style*="width: 728px; height: 90px;"]
 sporcle.com#@#.page-ad
 sporcle.com#@#.ad-source
@@ -6554,7 +6561,7 @@ techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
 bonginoreport.com#@#.side-advert
 wordexcerpt.com#@#.body-top-ads
-vtvgiaitri.vn#@#.ads-wrapper
+latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
 pcgamesn.com#@#.ad-mpu
 pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
@@ -6575,6 +6582,9 @@ technical.city#@#div[class^="banner_"]
 lightnovelworld.com#@#.ad-container-left
 sohh.com#@#.g1-advertisement
 sohh.com#@#.type-ad
+fossmint.com#@#.vce-ad-container
+fossmint.com#@#.vce-ad-below-header
+latribuna.hn#@#.ads-text
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6675,9 +6685,9 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@||a.pub.network^*/pubfig.min.js$domain=solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
-@@||a.pub.network^$script,domain=solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
-@@||d.pub.network/init?key$xmlhttprequest,domain=lightnovelworld.com|realestatebook.com
+@@||a.pub.network^*/pubfig.min.js$domain=onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^$script,domain=onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||d.pub.network/init?key$xmlhttprequest,domain=onlinepianist.com|lightnovelworld.com|realestatebook.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -7416,11 +7426,11 @@ vk.com#@#div[id^="yandex_ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73315
 ! GG Software Ads
-||s.nitropay.com/ads-*.js$domain=upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/aan-*.js$domain=upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/px.gif?ch=1$domain=upjourney.com|guardian.gg|royalroad.com
-||s.nitropay.com/px.gif?ch=2$domain=upjourney.com|guardian.gg|royalroad.com
-@@||tracker.nitropay.com/sites/*/analytics$domain=upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/ads-*.js$domain=upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/aan-*.js$domain=upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/px.gif?ch=1$domain=upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/px.gif?ch=2$domain=upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||tracker.nitropay.com/sites/*/analytics$domain=upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 !:partner_token=BuySellAds
 !:partner_id=2476edbd2862931e
 !:type=partner
@@ -7888,26 +7898,26 @@ andelemandele.lv#@#.ad.module
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78583
 ! AntiAdblock Ads
-@@||h.imedia.cz^$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||d.imedia.cz^$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||ssp.imedia.cz^$~script,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-||ssp.imedia.cz/static/js/ssp.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||h.imedia.cz^$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||d.imedia.cz^$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz^$~script,domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+||ssp.imedia.cz/static/js/ssp.js$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
-@@||delivery.performax.cz/sklik/$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||cdn.performax.cz/acc/accp.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||delivery.performax.cz^*_rtb/$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/1.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-||cdn.performax.cz/acc/2.js$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||imp.performax.cz^$domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
-bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
+@@||delivery.performax.cz/sklik/$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||cdn.performax.cz/acc/accp.js$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||delivery.performax.cz^*_rtb/$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/1.js$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+||cdn.performax.cz/acc/2.js$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||imp.performax.cz^$domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
+toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top
@@ -8219,6 +8229,12 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||d.adroll.com/ipixel$image,third-party
 @@||stags.bluekai.com/site/$image,third-party
 @@||secure.adnxs.com/seg$image,third-party
+@@||adform.net/serving/cookie^$third-party
+@@||rubiconproject.com/tap.php^$third-party
+@@||adnxs.com/dmp/async_usersync.$document,subdocument,third-party
+@@||3lift.com/getuid^$third-party
+@@||3lift.com/xuid^$third-party
+@@||adroll.com/cm^$third-party
 !:type=combined
 ! Global exception rules for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup
