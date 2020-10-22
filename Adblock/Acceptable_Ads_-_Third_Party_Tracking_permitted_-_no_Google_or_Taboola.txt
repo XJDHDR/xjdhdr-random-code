@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cHcK1mefJQWXscbvRJZeWw
-! Version: 202010220200
+! Checksum: mmhQbUC9xVBJjTgc7Nacfg
+! Version: 202010221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Oct 2020 02:00 UTC
+! Last modified: 22 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7901,6 +7901,19 @@ idnes.cz,~www.idnes.cz#@#[id^="r-hpa"]
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
 @@||c.imedia.cz/retargeting?$image
+electropiknik.cz#@#.dcmads
+electropiknik.cz#@#.adform-adbox
+electropiknik.cz#@#a[href*=".adform.net/"]
+@@||adx.adform.net^$domain=electropiknik.cz
+@@||track.adform.net^$domain=electropiknik.cz
+@@||s1.adform.net/banners^$domain=electropiknik.cz
+@@||adx.adform.net/adx^$domain=electropiknik.cz
+@@||cm.adform.net^$domain=electropiknik.cz
+@@||cdn.performax.cz/acc/adx_acc.js$domain=electropiknik.cz
+@@||static.adsafeprotected.com^$domain=electropiknik.cz
+@@||dt.adsafeprotected.com^$domain=electropiknik.cz
+@@||fw.adsafeprotected.com^$domain=electropiknik.cz
+@@||2mdn.net^$domain=electropiknik.cz
 !:partner_token=newsmonkey.be
 !:partner_id=0ebf44a31b6e35b4
 !:type=partner
@@ -8380,6 +8393,7 @@ testpages.adblockplus.org#@##abptest
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
+/javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 ! temp
