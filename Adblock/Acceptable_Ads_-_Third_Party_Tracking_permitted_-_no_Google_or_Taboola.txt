@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mu9WUW98572nHiu7yOgQqQ
-! Version: 202010231400
+! Checksum: b+PxQ7Z4BvWtYcqh3xzuUQ
+! Version: 202010240200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 23 Oct 2020 14:00 UTC
+! Last modified: 24 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1285,6 +1285,7 @@ bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 indiewire.com#@#.outbrain-widget
+ok.co.uk,laroma24.it,sportmediaset.mediaset.it,meteo.it,nicematin.com,globalnews.ca,t3n.de,comment-economiser.fr,canberratimes.com.au,nouvelobs.com,huffingtonpost.fr,courrierinternational.com,hellomagazine.com,foot01.com,dailycaller.com,focus.de,lesoir.be,showbizz24.be,sudinfo.be#@#.ob-smartfeed-wrapper
 @@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
@@ -1651,6 +1652,11 @@ thenoob.net#@#.adinjwidget
 @@||ssp.imedia.cz/v1/xhr^$domain=carsmag.cz
 @@||trackad.cz/get/carsmag.cz/article/bottom^$domain=carsmag.cz
 @@||trackad.cz/js/*/online/public/bundle.$domain=carsmag.cz
+@@||smartadserver.com/ac?nwid=$script,domain=manga-sanctuary.com
+@@||smartadserver.com/config.js?nwid=$script,domain=manga-sanctuary.com
+@@||ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=manga-sanctuary.com
+@@||ced-ns.sascdn.com/diff/js/smart.js$script,domain=manga-sanctuary.com
+@@||cdn.elasticad.net/native/serve/js/quantx/$script,domain=manga-sanctuary.com
 gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com,masslive.com,cleveland.com,al.com,pennlive.com,nj.com#@#.ad--sponsor-content
 tempest.services.disqus.com#@##ad-container
 radiosarajevo.ba#@#.adloaded
@@ -6371,7 +6377,7 @@ freshedits.com,historybyday.com,livingmgz.com#@#.right_side_ads
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@#.sgAd
 u.gg,meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
-whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
+placebuzz.com,whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
 aljazeera.com#@#.sideAdv-wrapper
 word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
@@ -6533,6 +6539,8 @@ fossmint.com#@#.vce-ad-container
 fossmint.com#@#.vce-ad-below-header
 latribuna.hn#@#.ads-text
 dolldivine.com#@#.adboxtop
+mingle2.com#@#.skyscraper_ad
+mingle2.com#@##topbannerad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -8394,6 +8402,8 @@ testpages.adblockplus.org#@##abptest
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
+@@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
+@@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
@@ -10710,6 +10720,8 @@ celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yah
 celebrity.yahoo.com,finance.yahoo.com,news.yahoo.com,search.yahoo.com,sports.yahoo.com#@#li[data-beacon^="https://beap.gemini.yahoo.com/"]
 yahoo.com#@#.Feedback
 yahoo.com#@#div[data-wf-beacons^="https://ir2.beap.gemini.yahoo.com/mbcsc?"]
+yahoo.com#@#.ad-transition
+yahoo.com#@#div[data-content="Advertisement"]
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
