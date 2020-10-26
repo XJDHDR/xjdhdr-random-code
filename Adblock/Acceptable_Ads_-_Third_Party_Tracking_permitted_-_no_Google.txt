@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4rcHItimeo4eAo3X8t6Ggg
-! Version: 202010260200
+! Checksum: HC+pT8nIMGeEwL19XsqaIg
+! Version: 202010261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Oct 2020 02:00 UTC
+! Last modified: 26 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6099,11 +6099,6 @@ makeuseof.com#?#.addisclaimer:-abp-has( + div:not([id^="BT_muo-"]))
 @@||grabien.com/ads/intermarkets_$xmlhttprequest,domain=grabien.com
 @@||hb.vntsm.com^*/live/$script,xmlhttprequest,domain=venatusmedia.com
 @@||ib.3lift.com/xuid^$image,third-party
-@@||ib.adnxs.com/getuid^$image,third-party
-@@||ib.adnxs.com/mapuid^$image,third-party
-@@||ib.adnxs.com/px^$image,third-party
-@@||ib.adnxs.com/setuid^$image,third-party
-@@||ib.adnxs.com/bounce^$image,third-party
 @@||lijit.com/bidder/impression
 @@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
 @@||secure.adnxs.com/getuid^$image,third-party
@@ -6779,6 +6774,12 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.pubguru.com$script,xmlhttprequest,third-party,domain=jugantor.com
 @@||m2d.m2.ai/*.js$script,third-party,domain=jugantor.com
 @@||cdn1.htlbid.com/*/wordfinder.yourdictionary.com/htlbid.js$script,domain=yourdictionary.com
+@@||ib.adnxs.com/getuid^$third-party
+@@||ib.adnxs.com/mapuid^$image,third-party
+@@||ib.adnxs.com/px^$third-party
+@@||ib.adnxs.com/setuid^$third-party
+@@||ib.adnxs.com/bounce^$third-party
+@@||adnxs.com/dmp^$third-party
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -8461,6 +8462,8 @@ testpages.adblockplus.org#@##abptest
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
+@@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
+@@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 ! temp
@@ -8632,6 +8635,8 @@ reddit.com#@#div[id^="sidebar-btf-"]
 boredpanda.com#@#.post-ads
 allestoerungen.at,related.allestoerungen.de,allestoerungen.ch,related.downdetector.com,allestoerungen.de,related.allestoringen.nl,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@##ad-leaderboard
 allestoerungen.at,related.allestoerungen.de,allestoerungen.ch,related.downdetector.com,allestoerungen.de,related.allestoringen.nl,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@#.bottom-ad
+softonic.com#@#.sam-slot
+ooreka.fr#@#div[data-iab-tag]
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
