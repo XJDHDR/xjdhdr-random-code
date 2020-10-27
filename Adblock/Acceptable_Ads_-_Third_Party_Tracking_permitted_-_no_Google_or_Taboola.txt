@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X3vRLeOTx1SRNzhjVROPXQ
-! Version: 202010270200
+! Checksum: gaxpdt4Pjogst4F5goGFdg
+! Version: 202010271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 Oct 2020 02:00 UTC
+! Last modified: 27 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6656,9 +6656,9 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@||a.pub.network^*/pubfig.min.js$domain=tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
-@@||a.pub.network^$script,domain=tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
-@@||d.pub.network/init?key$xmlhttprequest,domain=tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
+@@||a.pub.network^*/pubfig.min.js$domain=purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^$script,domain=purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||d.pub.network/init?key$xmlhttprequest,domain=purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -6733,6 +6733,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||lngtd.com/prebid^$domain=probuildstats.com|pixelpapercraft.com|minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
 @@||papergames.io/app/ads^$domain=papergames.io
 @@||cdn.enthusiast.gg/script/prebid/prebid$domain=icy-veins.com|thesimsresource.com|destructoid.com
+@@||cdn.enthusiast.gg/script/prebid$domain=thesimsresource.com
 @@||nike.com^$document
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
@@ -7499,19 +7500,9 @@ lentainform.com#@#[id*="ScriptRoot"]
 lentainform.com#@#[id*="MarketGid"]
 lentainform.com#@#a[href^="//www.mgid.com/"]
 lentainform.com#@#div[id^="M"][id*="Composite"]
-@@||mgid.com^$domain=lentainform.com
-@@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
-@@||rnet.plus^$script,xmlhttprequest,domain=rambler.ru
-@@||rnet.plus^$script,xmlhttprequest,image,domain=livejournal.com
-@@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
-@@/px.gif?ch=1&rn=$domain=gismeteo.ru
-/px.gif?ch=2&rn=$domain=gismeteo.ru
-@@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
-@@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
 7days.ru#@#.b-section_content_partners-news
 7days.ru#@#.b-hz2_type_section
 tsargrad.tv#@#.article__banner
-www.gismeteo.ru#@#.widget-container
 gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
 gismeteo.ru#@#.xby400
 gismeteo.ru#@##weather-right
@@ -7522,6 +7513,10 @@ rambler.ru#@#.article__partners
 fishki.net#@#[class^="partner-post"]
 fishki.net#@#[class^="partner-post"] *
 fishki.net#@#.content__sub-heading:-abp-contains(Новости партнёров)
+clck.lentainform.com#@#div[id^="yandex_rtb"]
+clck.lentainform.com#@#div[id^="adfox_"]
+gismeteo.ru#@#.widget-container
+glagol.press#@#.adsbox
 @@||an.yandex.ru/system/context.js$domain=clck.lentainform.com
 @@||yastatic.net/pcode/adfox/loader.js$domain=clck.lentainform.com
 @@||yandex.net/get-direct/$image,domain=clck.lentainform.com
@@ -7530,10 +7525,15 @@ fishki.net#@#.content__sub-heading:-abp-contains(Новости партнёро
 @@||ads.adfox.ru/220463/$xmlhttprequest,domain=clck.lentainform.com
 @@||igromania.ru/mnt/support/none/1x1transp.gif?ch=1$domain=igromania.ru
 ||igromania.ru/mnt/support/none/1x1transp.gif?ch=2$domain=igromania.ru
-clck.lentainform.com#@#div[id^="yandex_rtb"]
-clck.lentainform.com#@#div[id^="adfox_"]
-gismeteo.ru#@#.widget-container
-glagol.press#@#.adsbox
+@@||mgid.com^$domain=lentainform.com
+@@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
+@@||rnet.plus^$script,xmlhttprequest,domain=rambler.ru
+@@||rnet.plus^$script,xmlhttprequest,image,domain=livejournal.com
+@@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
+@@/px.gif?ch=1&rn=$domain=gismeteo.ru
+/px.gif?ch=2&rn=$domain=gismeteo.ru
+@@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
+@@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
@@ -8670,10 +8670,11 @@ forbes.com##.pub_300x250
 @@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-link-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||images-*.ssl-images-amazon.com/images/G/*/ad-feedback/info_icon_*$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 !
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||d1lxz4vuik53pc.cloudfront.net/w/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||d1lxz4vuik53pc.cloudfront.net/w/*/inner-host.min.js$,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||d1lxz4vuik53pc.cloudfront.net/w/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-left-advertising-1&$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-bottom-advertising-0&$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
