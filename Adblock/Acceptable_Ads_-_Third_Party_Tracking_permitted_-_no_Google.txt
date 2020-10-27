@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HC+pT8nIMGeEwL19XsqaIg
-! Version: 202010261400
+! Checksum: XOEw1+cRtaBdk7TclFwhnw
+! Version: 202010270200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Oct 2020 14:00 UTC
+! Last modified: 27 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1331,6 +1331,26 @@ glavpoezdrus.ru#@#.ya-partner
 @@||an.yandex.ru/page/*^callback^$script,domain=medspecial.ru
 medspecial.ru#@#.ya-partner
 medspecial.ru#@##yandex_ad
+!:partner_token=gismeteo.ru
+!:partner_id=501a98900addb890
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80277
+! gismeteo.ru ads
+@@||an.yandex.ru/system/widget.js$domain=gismeteo.ru
+@@||an.yandex.ru/system/context.js$script,xmlhttprequest,domain=gismeteo.ru
+@@||an.yandex.ru/resource/context_static_*$xmlhttprequest,domain=gismeteo.ru
+@@||yastatic.net/pcode/adfox^$script,domain=gismeteo.ru
+@@||an.yandex.ru/jstracer?pcode_native^$xmlhttprequest,domain=gismeteo.ru
+@@||an.yandex.ru/adfox/$xmlhttprequest,domain=gismeteo.ru
+@@||an.yandex.ru/partner-code-bundles^$script,domain=gismeteo.ru
+@@||an.yandex.ru/resource/context_static^$xmlhttprequest,domain=gismeteo.ru
+@@||avatars.mds.yandex.net/get-direct^$image,domain=gismeteo.ru
+@@||creativecdn.com/bidder/adfox/bids^$xmlhttprequest,domain=gismeteo.ru
+@@||ads.adfox.ru^$xmlhttprequest,domain=gismeteo.ru
+@@||yastatic.net/safeframe-bundles/*/host.js$domain=gismeteo.ru
+@@||yastatic.net/safeframe-bundles/*/render.html$subdocument,document,domain=gismeteo.ru
+gismeteo.ru#@#.media_with_map > :not(.map_right)
+gismeteo.ru###media-middle
 !:partner_token=Digimedia
 !:partner_id=f66f2790ea302ce0
 !:type=partner
@@ -6774,11 +6794,11 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.pubguru.com$script,xmlhttprequest,third-party,domain=jugantor.com
 @@||m2d.m2.ai/*.js$script,third-party,domain=jugantor.com
 @@||cdn1.htlbid.com/*/wordfinder.yourdictionary.com/htlbid.js$script,domain=yourdictionary.com
-@@||ib.adnxs.com/getuid^$third-party
+@@||adnxs.com/getuid^$third-party
 @@||ib.adnxs.com/mapuid^$image,third-party
-@@||ib.adnxs.com/px^$third-party
-@@||ib.adnxs.com/setuid^$third-party
-@@||ib.adnxs.com/bounce^$third-party
+@@||adnxs.com/px^$third-party
+@@||adnxs.com/setuid^$third-party
+@@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
