@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2QlGwVcTVkDksnZ0zCqcYw
-! Version: 202010271400
+! Checksum: rHw9Nj6UGXYY0iXygDuknQ
+! Version: 202010280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Oct 2020 14:00 UTC
+! Last modified: 28 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1285,7 +1285,7 @@ bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 indiewire.com#@#.outbrain-widget
-ok.co.uk,laroma24.it,sportmediaset.mediaset.it,meteo.it,nicematin.com,globalnews.ca,t3n.de,comment-economiser.fr,canberratimes.com.au,nouvelobs.com,huffingtonpost.fr,courrierinternational.com,hellomagazine.com,foot01.com,dailycaller.com,focus.de,lesoir.be,showbizz24.be,sudinfo.be#@#.ob-smartfeed-wrapper
+mako.co.il,ok.co.uk,laroma24.it,sportmediaset.mediaset.it,meteo.it,nicematin.com,globalnews.ca,t3n.de,comment-economiser.fr,canberratimes.com.au,nouvelobs.com,huffingtonpost.fr,courrierinternational.com,hellomagazine.com,foot01.com,dailycaller.com,focus.de,lesoir.be,showbizz24.be,sudinfo.be#@#.ob-smartfeed-wrapper
 @@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
@@ -6611,6 +6611,8 @@ latribuna.hn#@#.ads-text
 dolldivine.com#@#.adboxtop
 mingle2.com#@#.skyscraper_ad
 mingle2.com#@##topbannerad
+calcxml.com#@##oas_Top
+calcxml.com#@#.rightAd1
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6660,7 +6662,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeednews.com/static/js/advertiser/amazon.js$domain=buzzfeednews.com
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
-@@||cdn.adapex.io/hb/aaw*.js$script,domain=dlisted.com|inquisitr.com|trueactivist.com
+@@||cdn.adapex.io/hb/aaw*.js$script,domain=convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
 @@||cdn.fuseplatform.net/publift^$domain=technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
@@ -6781,7 +6783,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder/adsbooster/eb_sf.js$domain=portalebambini.it
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
-@@||ads.blogherads.com^$domain=variety.com|tvline.com|bgr.com|rollingstone.com
+@@||ads.blogherads.com^$domain=indiewire.com|deadline.com|footwearnews.com|goldderby.com|variety.com|tvline.com|bgr.com|rollingstone.com
 @@||zaf.services.zam.com/stable/js/$domain=everquest.allakhazam.com|fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
@@ -7459,11 +7461,11 @@ vk.com#@#div[id^="yandex_ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73315
 ! GG Software Ads
-||s.nitropay.com/ads-*.js$domain=modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/aan-*.js$domain=modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/px.gif?ch=1$domain=modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-||s.nitropay.com/px.gif?ch=2$domain=modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||tracker.nitropay.com/sites/*/analytics$domain=modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/ads-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/aan-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/px.gif?ch=1$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/px.gif?ch=2$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||tracker.nitropay.com/sites/*/analytics$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 !:partner_token=BuySellAds
 !:partner_id=2476edbd2862931e
 !:type=partner
@@ -7733,7 +7735,7 @@ mail.ru,sportmail.ru#@#.rb_banner
 mail.ru,sportmail.ru#@#.rb_banner:-abp-has(*)
 mail.ru,sportmail.ru#@#.sticky-springs__item
 mail.ru,sportmail.ru#@#.tgb-wrapper
-mail.ru,sportmail.ru#@#[class=^"ymarket-affiliate"]
+mail.ru,sportmail.ru#@#[class^="ymarket-affiliate"]
 mail.ru,sportmail.ru#@#[class^="Direct"]
 mail.ru,sportmail.ru#@#[class^="direct"]
 mail.ru,sportmail.ru#@#[class^="Yandex"]
@@ -7775,6 +7777,7 @@ auto.mail.ru#@#.js-slot-parallax-inner
 auto.mail.ru#@#.rb_loaded.rb_main-240x400.js-module
 auto.mail.ru#@#[class*="grid"] > .grid__item_banner
 auto.mail.ru#@#body > div div > center div[class^="rb-criteo-"]
+auto.mail.ru#@#div[data-adq-id]:not(.layout)
 ! Clouds (without mail)
 cloud.mail.ru#@#.content__along > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
 cloud.mail.ru#@#.public__content > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
@@ -8486,6 +8489,7 @@ testpages.adblockplus.org#@##abptest
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
+@@/loadad.js$script,domain=chron.com|chron.assistpub.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -8657,6 +8661,8 @@ allestoerungen.at,related.allestoerungen.de,allestoerungen.ch,related.downdetect
 allestoerungen.at,related.allestoerungen.de,allestoerungen.ch,related.downdetector.com,allestoerungen.de,related.allestoringen.nl,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@#.bottom-ad
 softonic.com#@#.sam-slot
 ooreka.fr#@#div[data-iab-tag]
+chron.com,chron.assistpub.com#@#.featured_ad
+chron.com,chron.assistpub.com#@#.adBanner
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
@@ -8731,8 +8737,7 @@ forbes.com##.pub_300x250
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||d1lxz4vuik53pc.cloudfront.net/w/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||d1lxz4vuik53pc.cloudfront.net/w/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-left-advertising-1&$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-bottom-advertising-0&$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 !:partner_id=1771032db7d723d7
