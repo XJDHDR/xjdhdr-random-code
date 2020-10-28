@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ryt80L4132U2A3deq4RjUg
-! Version: 202010280200
+! Checksum: LeykcBIeONW94JRDzcV09Q
+! Version: 202010281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 Oct 2020 02:00 UTC
+! Last modified: 28 Oct 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6658,9 +6658,9 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@||a.pub.network^*/pubfig.min.js$domain=purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
-@@||a.pub.network^$script,domain=purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
-@@||d.pub.network/init?key$xmlhttprequest,domain=purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
+@@||a.pub.network^*/pubfig.min.js$domain=socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^$script,domain=socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||d.pub.network/init?key$xmlhttprequest,domain=socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -6748,6 +6748,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||adnxs.com/setuid^$third-party
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
+||calculatorcamera.com^$domain=sporcle.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7406,11 +7407,11 @@ vk.com#@#div[id^="yandex_ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73315
 ! GG Software Ads
-||s.nitropay.com/ads-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/aan-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/px.gif?ch=1$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-||s.nitropay.com/px.gif?ch=2$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||tracker.nitropay.com/sites/*/analytics$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/ads-*.js$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/aan-*.js$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/px.gif?ch=1$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/px.gif?ch=2$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||tracker.nitropay.com/sites/*/analytics$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 !:partner_token=BuySellAds
 !:partner_id=2476edbd2862931e
 !:type=partner
@@ -8433,7 +8434,7 @@ testpages.adblockplus.org#@##abptest
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
-@@/loadad.js$script,domain=chron.com|chron.assistpub.com
+@@/loadads.js$script,domain=cmf.qa2.chron.com|chron.com|chron.assistpub.com
 ! temp
 @@||sharethrough.com^$domain=redditad.com
 @@||adrecover.com^$domain=redditad.com
@@ -8605,8 +8606,8 @@ allestoerungen.at,related.allestoerungen.de,allestoerungen.ch,related.downdetect
 allestoerungen.at,related.allestoerungen.de,allestoerungen.ch,related.downdetector.com,allestoerungen.de,related.allestoringen.nl,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@#.bottom-ad
 softonic.com#@#.sam-slot
 ooreka.fr#@#div[data-iab-tag]
-chron.com,chron.assistpub.com#@#.featured_ad
-chron.com,chron.assistpub.com#@#.adBanner
+cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.featured_ad
+cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.adBanner
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
