@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8IzgnNkAnFuusfYzvp6bEw
-! Version: 202010281400
+! Checksum: DvorDHCPmGt0FqaD5Q5Cnw
+! Version: 202010290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Oct 2020 14:00 UTC
+! Last modified: 29 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5898,6 +5898,7 @@ bouwsteentjes.info#@#.td-adspot-title
 @@||btserve.com^$document,subdocument,image,script,xmlhttprequest
 @@||blockthroughserve.com^$document,subdocument,image,script,xmlhttprequest
 wikia.com#@##WikiaTopAds
+fandom.com#@#.WikiaTopAds
 accuweather.com#@##aadTop300
 novi.ba,screamqueensonline.com,slickdeals.net#@##ad-container
 tmz.com#@##ad-header
@@ -6613,6 +6614,13 @@ mingle2.com#@#.skyscraper_ad
 mingle2.com#@##topbannerad
 calcxml.com#@##oas_Top
 calcxml.com#@#.rightAd1
+howchoo.com#@#.ad--header
+howchoo.com#@#.ad--sidebar
+howchoo.com#@#.ad--top
+riddles.com#@#.ad_banner
+riddles.com#@#.sidebar_ad_container
+purewow.com#@#.ad-300x250
+purewow.com#@#.ad-300x600
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6651,7 +6659,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
 @@||ads.rubiconproject.com/prebid/21666_$domain=justjared.com|arcamax.com|justjaredjr.com|uberhumor.com|walterfootball.com
-@@||ads.rubiconproject.com/prebid^$domain=drudgereport.com
+@@||ads.rubiconproject.com/prebid^$domain=justthenews.com|drudgereport.com
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||adx.zdravie.sk/www/delivery/asyncjs.php$domain=zdravie.sk
 @@||adx.zdravie.sk/www/delivery/asyncspc.php$domain=zdravie.sk
@@ -7462,11 +7470,11 @@ vk.com#@#div[id^="yandex_ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73315
 ! GG Software Ads
-||s.nitropay.com/ads-*.js$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/aan-*.js$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/px.gif?ch=1$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-||s.nitropay.com/px.gif?ch=2$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||tracker.nitropay.com/sites/*/analytics$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/ads-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/aan-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/px.gif?ch=1$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/px.gif?ch=2$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||tracker.nitropay.com/sites/*/analytics$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 !:partner_token=BuySellAds
 !:partner_id=2476edbd2862931e
 !:type=partner
@@ -7648,7 +7656,7 @@ gamevui.vn#@#.adbox
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
