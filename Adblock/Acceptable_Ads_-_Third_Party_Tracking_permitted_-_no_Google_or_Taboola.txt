@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EE0wf5cvukWzSp+RdVGGfw
-! Version: 202010291400
+! Checksum: u7CH+JQiMtQpCMiNkeI47g
+! Version: 202010300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Oct 2020 14:00 UTC
+! Last modified: 30 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1285,7 +1285,6 @@ bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 indiewire.com#@#.outbrain-widget
-mako.co.il,ok.co.uk,laroma24.it,sportmediaset.mediaset.it,meteo.it,nicematin.com,globalnews.ca,t3n.de,comment-economiser.fr,canberratimes.com.au,nouvelobs.com,huffingtonpost.fr,courrierinternational.com,hellomagazine.com,foot01.com,dailycaller.com,focus.de,lesoir.be,showbizz24.be,sudinfo.be#@#.ob-smartfeed-wrapper
 @@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
@@ -6331,7 +6330,7 @@ temp-mail.org#@#.ezo_ad
 broadwayworld.com,temp-mail.org#@#.ezoic-ad
 hltv.org#@#.f-col-top
 mako.co.il#@#.feed-ad
-totalprosports.com,whosampled.com,hollywoodpq.com,meekcomic.com#@#.footer-ad
+siliconera.com,totalprosports.com,whosampled.com,hollywoodpq.com,meekcomic.com#@#.footer-ad
 chip.com.tr#@#.footerad
 fortune.com#@#.fortune-ad-tag__leaderboard
 athensvoice.gr#@#.full-ad
@@ -6395,7 +6394,7 @@ u.gg,meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
 placebuzz.com,whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
 aljazeera.com#@#.sideAdv-wrapper
-word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
+siliconera.com,word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
 sufficientlyremarkable.com#@#.sidebarAd
 heraldweekly.com,history-a2z.com,lifestyle-a2z.com,science-a2z.com#@#.single-ad
@@ -6506,8 +6505,8 @@ buscacepapp.com#@#.ads-center
 zerohedge.com#@#.ad__wrapper-element
 5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
 hollywoodpq.com#@#.oboxads-ad-widget
-gottabemobile.com#@#.mvp-widget-ad 
-gottabemobile.com#@#.mvp_ad_widget
+operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
+operationsports.com,gottabemobile.com#@#.mvp_ad_widget
 pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
@@ -6566,6 +6565,8 @@ riddles.com#@#.ad_banner
 riddles.com#@#.sidebar_ad_container
 purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
+operationsports.com#@##mvp-post-bot-ad
+operationsports.com#@##mvp-foot-ad-wrap
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6757,6 +6758,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
