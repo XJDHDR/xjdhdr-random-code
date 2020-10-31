@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nQQ3CKhR8rR5eonAyhjQUw
-! Version: 202010301400
+! Checksum: OTIsk4g+ALM0Ut5/6w6J/Q
+! Version: 202010310200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Oct 2020 14:00 UTC
+! Last modified: 31 Oct 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1947,6 +1947,7 @@ eurasiantimes.com#@##mvp-post-bot-ad
 eurasiantimes.com#@#.mvp-ad-label
 elbaladtv.net#@#.ads_code
 carsmag.cz##.AdTrack-container
+cbs8.com#@#.grid__module-sizer_name_taboola
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -2690,27 +2691,6 @@ alteroffice.pl#@#.reklama
 @@||related.Thecourier.com^*.cfm?$elemhide
 @@||related.Reviewtimes.com^*.cfm?$elemhide
 @@||related.wallstcheatsheet.com^*.cfm?$elemhide
-!:partner_token=Yieldlove GmbH
-!:partner_id=7c64de9d07d43687
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=39899
-! Ads on sites by Yieldlove
-@@||ampproject.org/rtv/*/amp4ads-$script,domain=equideow.com|oeffnungszeitenbuch.de|schulferien.org|ibancalculator.com|taz.de
-@@||cas.criteo.com/delivery/ajs.php?zoneid=308400^$script,domain=schulferien.org
-@@||equideow.com/media/equideo/js/ads.js|$domain=equideow.com
-@@||equideow.com/media/sowcle/js/min/advertising_v1270363845.js|$domain=equideow.com
-taz.de#@#.contentad
-taz.de#@#.ad_zone
-equideow.com#@#.ad-160x600
-equideow.com#@#.ad-300x250
-equideow.com#@#.ad-728x90
-equideow.com#@#.banner-300x250
-equideow.com#@#.banner-728x90
-equideow.com#@#.banner-leaderboard
-equideow.com,oeffnungszeitenbuch.de,schulferien.org,ibancalculator.com,taz.de#@##adunit
-equideow.com,oeffnungszeitenbuch.de,schulferien.org,ibancalculator.com,taz.de#@#.ad-1
-equideow.com,oeffnungszeitenbuch.de,schulferien.org,ibancalculator.com,taz.de#@#.img_ad
-equideow.com,oeffnungszeitenbuch.de,schulferien.org,ibancalculator.com,taz.de#@#div[id^="div-gpt-ad"]
 !:partner_token=nostrongbeliefs.com
 !:partner_id=df1646082484e10e
 !:type=partner
@@ -3000,6 +2980,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||bem-upload-adops.s3.amazonaws.com/adops/Prebid/PROD/prebid-library*.js$domain=valutakurser.dk
 @@||berlingske.dk/adops/Prebid/PROD/prebid-library*.js$domain=berlingske.dk
 @@||berlingske.dk/adops/Prebid/PROD/prebid-config*.js$domain=berlingske.dk
+@@||js2.uai.com.br/headerbidding/aol-app-cri-rtb-rub-smt-teads/*/prebid.js$domain=uai.com.br
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -3821,6 +3802,8 @@ codewars.com#@##carbonads-container
 base64-image.de#@#.native-ad
 dribbble.com#@#.ad
 iconfinder.com#@#.carbon_ads
+! Hidden for compliance
+getbootstrap.com##main > #carbonads
 !:partner_token=free-blog.net
 !:partner_id=e065f4704a3988d7
 !:type=partner
@@ -6294,7 +6277,7 @@ probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,hom
 lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
-littlealchemy2.com,omnicalculator.com#@#.ad-top
+sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
 zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
 smitefire.com#@#.ad-vertical
@@ -6578,7 +6561,7 @@ vg247.com#@#.low-leader-container
 vg247.com#@#.advert.mpu
 vg247.com#@#.advert.skyscraper
 vladtv.com#@#.entry-ad
-vladtv.com#@#.ad-300
+lgbtqnation.com,vladtv.com#@#.ad-300
 slickdeals.net#@#.abc
 techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
@@ -6660,7 +6643,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
 @@||ads.rubiconproject.com/prebid/21666_$domain=justjared.com|arcamax.com|justjaredjr.com|uberhumor.com|walterfootball.com
-@@||ads.rubiconproject.com/prebid^$domain=justthenews.com|drudgereport.com
+@@||ads.rubiconproject.com/prebid^$domain=sporcle.com|justthenews.com|drudgereport.com
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||adx.zdravie.sk/www/delivery/asyncjs.php$domain=zdravie.sk
 @@||adx.zdravie.sk/www/delivery/asyncspc.php$domain=zdravie.sk
@@ -6695,7 +6678,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||tasty.co/static-assets/tasty-ui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
 @@||tasty.co/static-assets/tastyui/_next/static/chunks/adlib.b65f1e7a4b983e823ccd.js$domain=tasty.co
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
-@@||tradecraft.s.llnwi.net^$domain=justthenews.com|justjared.com|justjaredjr.com|arcamax.com|uberhumor.com|walterfootball.com
+@@||tradecraft.s.llnwi.net^$domain=sporcle.com|justthenews.com|justjared.com|justjaredjr.com|arcamax.com|uberhumor.com|walterfootball.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@||wrapper.lemde.fr/glmaw.$script,domain=nouvelobs.com
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
@@ -6813,8 +6796,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7473,11 +7456,11 @@ vk.com#@#div[id^="yandex_ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73315
 ! GG Software Ads
-||s.nitropay.com/ads-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/aan-*.js$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||s.nitropay.com/px.gif?ch=1$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-||s.nitropay.com/px.gif?ch=2$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
-@@||tracker.nitropay.com/sites/*/analytics$domain=unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/ads-*.js$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/aan-*.js$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||s.nitropay.com/px.gif?ch=1$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+||s.nitropay.com/px.gif?ch=2$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+@@||tracker.nitropay.com/sites/*/analytics$domain=otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 !:partner_token=BuySellAds
 !:partner_id=2476edbd2862931e
 !:type=partner
@@ -7547,18 +7530,18 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
-@@||jsc.lentainform.com^$script,domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||lentainform.com^$popup,domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||c.lentainform.com^$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||autocounter.lentainform.com^$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||s-img.lentainform.com^$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||cm.lentainform.com^$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||servicer.lentainform.com^$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||cdn.lentainform.com^$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-@@||marketgid.com/images/lentainform/$domain=mir24.tv|m24.ru|360tv.ru|nat-geo.ru|glagol.press|realnoevremya.ru|e1.ru|ngs.ru|nn.ru|svpressa.ru|kanobu.ru|igromania.ru|pravda.ru|steaklovers.menu|life.ru|teleprogramma.pro|radiokp.ru|fishki.net|sib.fm|howto-news.info|ria.ru|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|mail.ru|gismeteo.ru|teleprogramma.pro|rambler.ru|sovetov.su|livejournal.com|tvzvezda.ru
-mir24.tv,m24.ru,360tv.ru,nat-geo.ru,glagol.press,realnoevremya.ru,e1.ru,ngs.ru,nn.ru,svpressa.ru,kanobu.ru,igromania.ru,pravda.ru,steaklovers.menu,life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#a[href*="lentainform.com/pnews/"]
-mir24.tv,m24.ru,360tv.ru,nat-geo.ru,glagol.press,realnoevremya.ru,e1.ru,ngs.ru,nn.ru,svpressa.ru,kanobu.ru,igromania.ru,pravda.ru,steaklovers.menu,life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,rambler.ru,sovetov.su,livejournal.com,tvzvezda.ru#@#[id*="ScriptRoot"]
-mir24.tv,m24.ru,360tv.ru,nat-geo.ru,glagol.press,realnoevremya.ru,e1.ru,ngs.ru,nn.ru,svpressa.ru,kanobu.ru,igromania.ru,pravda.ru,steaklovers.menu,life.ru,teleprogramma.pro,radiokp.ru,fishki.net,sib.fm,howto-news.info,ria.ru,iz.ru,stan.kz,russian.rt.com,starhit.ru,7days.ru,tsargrad.tv,wday.ru,mail.ru,gismeteo.ru,teleprogramma.pro,sovetov.su,livejournal.com,tvzvezda.ru##div[id*="Composite"]:not([id^="M"]):not([id*="Composite988644"]):not([id*="Composite971159"]):not([id*="Composite760918"]):not([id*="Composite996148"]):not([id*="Composite762427"]):not([id*="Composite970966"]):not([id*="Composite772781"]):not([id*="Composite773419"]):not([id*="Composite774605"]):not([id*="Composite686380"]):not([id*="Composite661649"]):not([id*="Composite718177"]):not([id*="Composite690066"]):not([id*="Composite675353"]):not([id*="Composite675347"]):not([id*="Composite672000"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite689844"]):not([id*="Composite791769"]):not([id*="Composite721065"]):not([id*="Composite690143"]):not([id*="Composite689749"]):not([id*="Composite689716"]):not([id*="Composite690141"]):not([id*="Composite690145"]):not([id*="Composite690144"]):not([id*="Composite690112"]):not([id*="Composite690123"]):not([id*="Composite828938"]):not([id*="Composite828943"]):not([id*="Composite828949"]):not([id*="Composite828957"]):not([id*="Composite828959"]):not([id*="Composite828962"]):not([id*="Composite828965"]):not([id*="Composite828968"]):not([id*="Composite858402"]):not([id*="Composite847972"]):not([id*="Composite626533"]):not([id*="Composite689704"]):not([id*="Composite690200"]):not([id*="Composite721065"]):not([id*="Composite721350"]):not([id*="Composite933406"]):not([id*="Composite914168"]):not([id*="Composite647009"]):not([id*="Composite834234"]):not([id*="Composite971073"]):not([id*="Composite971071"]):not([id*="Composite983431"])
+@@||jsc.lentainform.com^$script,domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||lentainform.com^$popup,domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||c.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||autocounter.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||s-img.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||cm.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||servicer.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||cdn.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||marketgid.com/images/lentainform/$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
+mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,gismeteo.ru,tsargrad.tv,e1.ru,ngs.ru#@#a[href*="lentainform.com/pnews/"]
+mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,gismeteo.ru,tsargrad.tv,e1.ru,ngs.ru#@#[id*="ScriptRoot"]
+mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,gismeteo.ru,tsargrad.tv,e1.ru,ngs.ru##div[id*="Composite"]:not([id^="M"]):not([id*="Composite772781"]):not([id*="Composite773419"]):not([id*="Composite686380"]):not([id*="Composite718177"]):not([id*="Composite675347"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite791769"]):not([id*="Composite858402"]):not([id*="Composite690200"]):not([id*="Composite933406"]):not([id*="Composite914168"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7908,38 +7891,6 @@ search.alot.com,alothome.com#@##bottomAds
 @@||ads.adfox.ru/getid^$script,domain=www.afisha.ru
 @@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=www.afisha.ru
 @@||s0.2mdn.net/simgad^$image,domain=www.afisha.ru
-!:partner_token=Adnet media
-!:partner_id=4d6e6ef13bfe4ac7
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78057
-! Ads by Adnet
-@@||adnet.lt/stable/px.gif?ch=1&rn=$domain=minfo.lt|andelemandele.lv|raskakcija.lt|inbox.lt|bernardinai.lt|vlmedicina.lt|ieskok.lt|flirtas.lt|flirts.lv|muge.eu|98.lt|mainyk.lt|lietuviuzodynas.lt|mintys.lt|svietimogidas.lt|plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnet.lt/stable/$script,domain=minfo.lt|andelemandele.lv|raskakcija.lt|inbox.lt|bernardinai.lt|vlmedicina.lt|ieskok.lt|flirtas.lt|flirts.lv|muge.eu|98.lt|mainyk.lt|lietuviuzodynas.lt|mintys.lt|svietimogidas.lt|plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||adnetmedia.lt/keytarget/$script,domain=minfo.lt|andelemandele.lv|raskakcija.lt|inbox.lt|bernardinai.lt|vlmedicina.lt|ieskok.lt|flirtas.lt|flirts.lv|muge.eu|98.lt|mainyk.lt|lietuviuzodynas.lt|mintys.lt|svietimogidas.lt|plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||adnet.lt/stable/px.gif?ch=2&rn=$domain=minfo.lt|andelemandele.lv|raskakcija.lt|inbox.lt|bernardinai.lt|vlmedicina.lt|ieskok.lt|flirtas.lt|flirts.lv|muge.eu|98.lt|mainyk.lt|lietuviuzodynas.lt|mintys.lt|svietimogidas.lt|plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-||upapi.net^$domain=minfo.lt|andelemandele.lv|raskakcija.lt|inbox.lt|bernardinai.lt|vlmedicina.lt|ieskok.lt|flirtas.lt|flirts.lv|muge.eu|98.lt|mainyk.lt|lietuviuzodynas.lt|mintys.lt|svietimogidas.lt|plius.lt|supermama.lt|tax.lt|vinted.lt|musumazyliai.lt|ve.lt|alfa.lt|alio.lt|domoplius.lt|delfi.lt|domoplius.lt|musumazyliai.lt|vinted.lt|ve.lt|alfa.lt|supermama.lt|alio.lt|tax.lt|plius.lt|autogidas.lt
-@@||bbelements.com/scripts/ibb-async/$script,domain=minfo.lt|tax.lt
-@@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=ve.lt|alfa.lt|alio.lt|domoplius.lt
-@@||b.adbox.lv/bxlib/js/loader.js^$script,domain=inbox.lt
-@@||b.adbox.lv/bxlib/js/emiter.js^$script,domain=inbox.lt
-@@||b.adbox.lv/emiter/bx_placement.js^$script,domain=inbox.lt
-@@||b.adbox.lv/b/$image,domain=inbox.lt
-@@||b.adbox.lv/stats/?ids=$image,domain=inbox.lt
-alio.lt#@#.ad-placement
-autogidas.lt#@#a[href^=""]
-autogidas.lt#@#.img_ad
-domoplius.lt,vinted.lt,musumazyliai.lt#@#.ad-leaderboard
-domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-rectangle
-domoplius.lt,vinted.lt,musumazyliai.lt#@##ad-leaderboard
-alio.lt#@##main-content-right
-bernardinai.lt##.aside-native-ad
-bernardinai.lt#@#.ad-banner
-bernardinai.lt#@#.aside-ad
-minfo.lt#@#.ad-unit
-mainyk.lt#@#.sidebar-ad
-lietuviuzodynas.lt#@##right-ad
-andelemandele.lv#@#.ad-sticky
-andelemandele.lv#@#.ad.module
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
@@ -8675,6 +8626,7 @@ softonic.com#@#.sam-slot
 ooreka.fr#@#div[data-iab-tag]
 cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.featured_ad
 cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.adBanner
+chron.com,chron.assistpub.com,cmf.qa2.chron.com#@#.adModule
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
