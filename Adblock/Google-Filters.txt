@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fn03Y0oHvCobrhNncD7npw
-! Version: 202011011400
+! Checksum: mUFYGtCBoAQWrm/Ezt81UA
+! Version: 202011020200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 01 Nov 2020 14:00 UTC
+! Last modified: 02 Nov 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1278,6 +1278,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||excludeneighbourlyattempting.com^
 ||expertnifg.com^
 ||fairyceiling.com^
+||fdnfnqgmfykg.com^
 ||fdofosytszg.com^
 ||fdxdjkswppg.com^
 ||feyfjlpeexvg.com^
@@ -3069,7 +3070,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
 @@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|sportmaster.ru|teddyfood.com
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|sportmaster.ru|teddyfood.com
 @@||komus.ru/_ui/shared/js/ga/googleTagManager.js$script,~third-party
 @@||mts.ru/app/vendor/angular-google-analytics.min.js
 @@||c5n.com^*/angulartics-google-analytics.min.js
