@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EJpMXvgYqarMRNpKNxTpsQ
-! Version: 202011021400
+! Checksum: CMR8KoplvtNSsoRgGIe71Q
+! Version: 202011030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Nov 2020 14:00 UTC
+! Last modified: 03 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1348,8 +1348,10 @@ medspecial.ru#@##yandex_ad
 @@||ads.adfox.ru^$xmlhttprequest,domain=gismeteo.ru
 @@||yastatic.net/safeframe-bundles/*/host.js$domain=gismeteo.ru
 @@||yastatic.net/safeframe-bundles/*/render.html$subdocument,document,domain=gismeteo.ru
+||criteo.net/js/ld/publishertag.js$script,domain=gismeteo.ru
 gismeteo.ru#@#.media_with_map > :not(.map_right)
 gismeteo.ru###media-middle
+gismeteo.ru##.x90
 !:partner_token=Digimedia
 !:partner_id=f66f2790ea302ce0
 !:type=partner
@@ -2888,7 +2890,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.*.*.criteo.net^$domain=criteo.com
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
-@@||criteo.net/js/ld/publishertag.js$script,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.net/js/ld/publishertag.js$script,domain=~gismeteo.ru|~yahoo.com|~mmo-champion.com|~giga.de
 @@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com|~giga.de
 @@||bidder.criteo.com/csm^
 @@||ads.urban-media.com/js/19953022/prebid.js
@@ -7563,7 +7565,7 @@ baophapluat.vn#@#.adsitem
 baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
 kronologi.id#@#.ads_code
-vocedinapoli.it,postadda.news#@#.quads-location
+stiai.net,vocedinapoli.it,postadda.news#@#.quads-location
 postadda.news#@##quads-ad2
 padangkita.com#@#.ads_code
 padangkita.com,hellosehat.com,thenationonlineng.net,kronologi.id#@#.ads-wrapper
@@ -7586,7 +7588,7 @@ gamevui.vn#@#.adbox
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=gogoanime.so|4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
@@ -8570,6 +8572,8 @@ ooreka.fr#@#div[data-iab-tag]
 cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.featured_ad
 cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.adBanner
 chron.com,chron.assistpub.com,cmf.qa2.chron.com#@#.adModule
+lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__container
+lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__high-impact
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
