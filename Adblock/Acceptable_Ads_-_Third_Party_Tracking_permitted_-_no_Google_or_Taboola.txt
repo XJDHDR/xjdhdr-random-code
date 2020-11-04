@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iBByOTJ/Jj0xC74rGAfctQ
-! Version: 202011031400
+! Checksum: PRKurNOecwjjR4aPzsethg
+! Version: 202011040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Nov 2020 14:00 UTC
+! Last modified: 04 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6664,7 +6664,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=woot.com
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
 @@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=op.gg|mobafire.com|futbin.com
-@@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=nookazon.com
+@@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=mobafire.com|nookazon.com
 @@||rafvertizing.crazygames.com/rafvertizing-v2.js$domain=crazygames.com
 @@||s.imgur.com/min/gallery.js?1591118015$domain=imgur.com
 @@||www.daily-choices.com/why-this-hotel-amenity-is-a-must-have-when-traveling-with-kids/?xcmg=1$domain=daily-choices.com
@@ -8473,7 +8473,6 @@ hannity.com#@#.ad-728-90
 keno.pch.com,keno.qa.pch.com#@#.ad-728x90
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-billboard
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-bottom
-queerty.com#@#.ad-card
 capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.ad-center
 billboard.com,hollywoodreporter.com#@#.ad-container
 247wallst.com#@#.ad-div
