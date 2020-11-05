@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EVpubmqxU1dOmChBRXPh4w
-! Version: 202011050200
+! Checksum: WJpokFzAvIkd9JWvS3vmGQ
+! Version: 202011051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Nov 2020 02:00 UTC
+! Last modified: 05 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6547,7 +6547,7 @@ howchoo.com#@#.ad--sidebar
 howchoo.com#@#.ad--top
 firstwefeast.com#@#.top-ad-wrapper
 solecollector.com#@#.contentAd
-complex.com#@#.suitcase-ad
+firstwefeast.com,complex.com#@#.suitcase-ad
 complex.com#@##asideAd
 riddles.com#@#.ad_banner
 riddles.com#@#.sidebar_ad_container
@@ -6555,6 +6555,7 @@ purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
 operationsports.com#@##mvp-post-bot-ad
 operationsports.com#@##mvp-foot-ad-wrap
+brainfall.com#@#.ad-warning
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -7835,6 +7836,13 @@ search.alot.com,alothome.com#@##bottomAds
 @@||webidextrous.com/wp-content/plugins/adrotate/library/jquery.adrotate.$script,domain=webidextrous.com
 webidextrous.com#@#div[id^="adrotate_widgets-"]
 webidextrous.com#@#.adrotate_widgets
+!:partner_token=bedienungsanleitu.ng ads
+!:partner_id=bcb8c89e6cddf972
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80476
+! bedienungsanleitu.ng ads
+@@||bedienungsanleitu.ng/px.gif?ch=1&rn=*$domain=bedienungsanleitu.ng
+||bedienungsanleitu.ng/px.gif?ch=2&rn=*$domain=bedienungsanleitu.ng
 !:partner_token=Rambler
 !:partner_id=0f379e9a30bc5b2e
 !:type=partner
