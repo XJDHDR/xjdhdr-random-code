@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8sfgvm0izE1DhygO46zIBg
-! Version: 202011041400
+! Checksum: TucTPMDwMgG3vDeJ+eV/Vw
+! Version: 202011050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Nov 2020 14:00 UTC
+! Last modified: 05 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1841,7 +1841,7 @@ quotedb.com#@#.ezoic-ad
 didyouknowfacts.com,etonline.com#@#.footer-ad
 bigstory.ap.org#@#.for-taboola
 didyouknowfacts.com#@#.header-ad
-kprofiles.com,otvfoco.com.br,sguru.org#@#.herald-ad
+losprimeros.tv,kprofiles.com,otvfoco.com.br,sguru.org#@#.herald-ad
 balkandownload.org#@#.ipsAd
 nana10.co.il#@#.item-label-href[rel="nofollow"][target="_blank"]
 nana10.co.il#@#.item-thumbnail-href[rel="nofollow"][target="_blank"]
@@ -1881,7 +1881,7 @@ holahola.cc#@#.sponsored-link
 espn.com,3ds-paradise.com,desired.de,espn.co.uk,espn.com.au,espn.com.br,espn.com.ve,espn.in,espncricinfo.com,vocativ.com#@#.sponsored-links
 conneriesqc.com,lijstverse.nl,victoriaadvocate.com,whatreallyhappened.com#@#.sponsored_ad
 theweek.com#@#.sr-in-feed-ads
-daily-goals.com#@#.sticky-ad-container
+pastpedia.com,daily-goals.com#@#.sticky-ad-container
 ajc.com#@#.story-ad-container
 auto-bild.ro,libertatea.ro#@#.strawberry-ads
 ibtimes.co.uk,odelices.ouest-france.fr,thecinemaholic.com,theweek.com#@#.taboola-ad
@@ -6434,7 +6434,7 @@ u.gg,meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
 placebuzz.com,whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
 aljazeera.com#@#.sideAdv-wrapper
-siliconera.com,word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
+pcinvasion.com,siliconera.com,word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
 sufficientlyremarkable.com#@#.sidebarAd
 heraldweekly.com,history-a2z.com,lifestyle-a2z.com,science-a2z.com#@#.single-ad
@@ -6551,7 +6551,7 @@ pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
-gameranx.com,hiphopdx.com,kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
+firstwefeast.com,dmarge.com,solecollector.com,gameranx.com,hiphopdx.com,kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
 sporcle.com#@#[style*="width: 728px; height: 90px;"]
 sporcle.com#@#.page-ad
 sporcle.com#@#.ad-source
@@ -6601,6 +6601,10 @@ calcxml.com#@#.rightAd1
 howchoo.com#@#.ad--header
 howchoo.com#@#.ad--sidebar
 howchoo.com#@#.ad--top
+firstwefeast.com#@#.top-ad-wrapper
+solecollector.com#@#.contentAd
+complex.com#@#.suitcase-ad
+complex.com#@##asideAd
 riddles.com#@#.ad_banner
 riddles.com#@#.sidebar_ad_container
 purewow.com#@#.ad-300x250
@@ -7644,7 +7648,7 @@ gamevui.vn#@#.adbox
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=gogoanime.so|4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=ruburn.info|gogoanime.so|4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
@@ -7877,6 +7881,16 @@ search.alot.com,alothome.com#@##bottomAds
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80282
 ! gruender.de ads
 @@||gruender.de/wp-content/uploads/*300x600$image,domain=gruender.de
+!:partner_token=webidextrous.com ads
+!:partner_id=96389f2c7be92be6
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80470
+! webidextrous.com ads
+@@||webidextrous.com/wp-content/uploads/*.png|$image,domain=webidextrous.com
+@@||static.shareasale.com/image/74778/*jpg|$image,domain=webidextrous.com
+@@||webidextrous.com/wp-content/plugins/adrotate/library/jquery.adrotate.$script,domain=webidextrous.com
+webidextrous.com#@#div[id^="adrotate_widgets-"]
+webidextrous.com#@#.adrotate_widgets
 !:partner_token=Rambler
 !:partner_id=0f379e9a30bc5b2e
 !:type=partner
