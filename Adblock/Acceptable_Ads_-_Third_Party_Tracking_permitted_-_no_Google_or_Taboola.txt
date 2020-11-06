@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H44ZM1Rk249VZ8pnFm7pbQ
-! Version: 202011060200
+! Checksum: RwgzWFK5B9/3rvx4bhx/lA
+! Version: 202011061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Nov 2020 02:00 UTC
+! Last modified: 06 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1894,6 +1894,7 @@ eurasiantimes.com#@##mvp-post-bot-ad
 eurasiantimes.com#@#.mvp-ad-label
 elbaladtv.net#@#.ads_code
 carsmag.cz##.AdTrack-container
+eldesmarque.com#@#.adBanner
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7869,12 +7870,9 @@ webidextrous.com#@#.adrotate_widgets
 @@||ssp.imedia.cz^$~script,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 ||ssp.imedia.cz/static/js/ssp.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||cdn.performax.cz/sssp.gif?$domain=extra.cz
-@@||cdn.performax.cz/sssp/$domain=extra.cz
-@@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
-@@||delivery.performax.cz/sklik/$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
-@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz
+@@||delivery.performax.cz/sklik/$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||cdn.performax.cz/acc/accp.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||delivery.performax.cz^*_rtb/$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 @@||cdn.performax.cz/acc/*_rtb.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
@@ -7882,6 +7880,13 @@ webidextrous.com#@#.adrotate_widgets
 ||cdn.performax.cz/acc/2.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 @@||imp.performax.cz^$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 @@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.cpex.cz/cmp^$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||cdn.cpex.cz/loader/v2/cpex-loader-min.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||h.imedia.cz/js/cmp2/$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||h.imedia.cz/js/scmp-external.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz/cmp^$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz/static/html/cmp.html^$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz/static/js/cmp.js$domain=superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
 superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 extra.cz#@#div.klik--leaderboard
@@ -7916,13 +7921,13 @@ idnes.cz,~www.idnes.cz,expres.cz#@#a[href*="utm_medium%3Dbanner%"], a[href*="lea
 idnes.cz,~www.idnes.cz,expres.cz#@#a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
 idnes.cz,~www.idnes.cz#@#[data-cy="ad-content"]
 idnes.cz,~www.idnes.cz#@#[id^="r-hpa"]
+electropiknik.cz#@#.dcmads
+electropiknik.cz#@#.adform-adbox
+electropiknik.cz#@#a[href*=".adform.net/"]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
 @@||c.imedia.cz/retargeting?$image
-electropiknik.cz#@#.dcmads
-electropiknik.cz#@#.adform-adbox
-electropiknik.cz#@#a[href*=".adform.net/"]
 @@||adx.adform.net^$domain=electropiknik.cz
 @@||track.adform.net^$domain=electropiknik.cz
 @@||s1.adform.net/banners^$domain=electropiknik.cz
@@ -7933,6 +7938,10 @@ electropiknik.cz#@#a[href*=".adform.net/"]
 @@||dt.adsafeprotected.com^$domain=electropiknik.cz
 @@||fw.adsafeprotected.com^$domain=electropiknik.cz
 @@||2mdn.net^$domain=electropiknik.cz
+@@||cdn.performax.cz/sssp.gif?$domain=extra.cz
+@@||cdn.performax.cz/sssp/$domain=extra.cz
+@@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
+@@||mail.centrum.cz/img/advert.php^$subdocument,document,domain=mail.centrum.cz
 !:partner_token=newsmonkey.be
 !:partner_id=0ebf44a31b6e35b4
 !:type=partner
@@ -8595,6 +8604,20 @@ cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.adBanner
 chron.com,chron.assistpub.com,cmf.qa2.chron.com#@#.adModule
 lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__container
 lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__high-impact
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-1
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-10
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-11
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-2
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-3
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-4
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-5
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-6
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-7
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-8
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-9
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad__label
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad__placeholder
+lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad-refresh
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
