@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GS9thaDP2wDjB10Id6WPCw
-! Version: 202011061400
+! Checksum: t2/0Y7QvzKh1nvYNjRgGTA
+! Version: 202011070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 06 Nov 2020 14:00 UTC
+! Last modified: 07 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7900,22 +7900,6 @@ webidextrous.com#@#.adrotate_widgets
 ! bedienungsanleitu.ng ads
 @@||bedienungsanleitu.ng/px.gif?ch=1&rn=*$domain=bedienungsanleitu.ng
 ||bedienungsanleitu.ng/px.gif?ch=2&rn=*$domain=bedienungsanleitu.ng
-!:partner_token=Rambler
-!:partner_id=0f379e9a30bc5b2e
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78046
-! Tracking by Rambler
-@@||ssp.rambler.ru/px.gif?ch=1^$image,domain=www.afisha.ru
-||ssp.rambler.ru/px.gif?ch=2^$image,domain=www.afisha.ru
-@@||img01.rambler.ru/file.jsp^$image,domain=www.afisha.ru
-@@||profile.ssp.rambler.ru/sync2.204^$image,domain=www.afisha.ru
-@@||ssp.rambler.ru/blockstat^$xmlhttprequest,domain=www.afisha.ru
-@@||ssp.rambler.ru/capirs_async.js^$script,domain=www.afisha.ru
-@@||ssp.rambler.ru/context.jsp^$xmlhttprequest,domain=www.afisha.ru
-@@||ssp.rambler.ru/file.jsp^$xmlhttprequest,image,domain=www.afisha.ru
-@@||ads.adfox.ru/getid^$script,domain=www.afisha.ru
-@@||cdn.ampproject.org/rtv/*/amp4ads-$script,domain=www.afisha.ru
-@@||s0.2mdn.net/simgad^$image,domain=www.afisha.ru
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
