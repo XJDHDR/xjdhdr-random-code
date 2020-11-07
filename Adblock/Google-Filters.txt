@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5r0S6zpb4U4zJDFW5yNipw
-! Version: 202011070200
+! Checksum: WyONs4ZBimFl8gVKYTjAng
+! Version: 202011071400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 07 Nov 2020 02:00 UTC
+! Last modified: 07 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1235,6 +1235,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||bilrtklg.com^
 ||blessingpudding.com^
 ||bowmoolog.com^
+||boxofficecounselling.com^
 ||bwjteztqdlg.com^
 ||chasteminihaunting.com^
 ||ckombcgg.com^
@@ -1415,6 +1416,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||rdwcvesg.com^
 ||rdwsjnifcemg.com^
 ||rdxwaydglehog.com^
+||receptionstudying.com^
 ||rigybdgiubwqg.com^
 ||rjwdhpxdrufbcg.com^
 ||rniuuamwoohg.com^
@@ -3006,6 +3008,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||monetate.net/img/$script,domain=newegg.com
 @@||monetate.net/js/$domain=newegg.com|nike.com
 @@||monetate.net/trk/$script,domain=newegg.com
+@@||oceanstatejoblot.com^*/widget/osjl-google-analytics/$script,~third-party
 @@||pixelpressmedia.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=pixelpressmedia.com
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
