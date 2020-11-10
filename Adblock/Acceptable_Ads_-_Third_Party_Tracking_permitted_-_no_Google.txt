@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0Rd3tucHPHWHDv7f9lJlrw
-! Version: 202011100200
+! Checksum: /ae2pss+mBXhxY0wUHW86g
+! Version: 202011101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Nov 2020 02:00 UTC
+! Last modified: 10 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6270,7 +6270,7 @@ simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
 yourdictionary.com,bgr.com,j-14.com,komando.com,pmcqa.com,zoosk.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
-pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
+pockettactics.com,theloadout.com,pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mobile-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mrec
 smitefire.com#@#.ad-narrow
@@ -6575,8 +6575,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 bonginoreport.com#@#.side-advert
 wordexcerpt.com#@#.body-top-ads
 latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
-pcgamesn.com#@#.ad-mpu
-pcgamesn.com#@#.inlinerail
+pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
+theloadout.com,pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
 thefantasyfootballers.com#@#.ad-fixed
 thefantasyfootballers.com#@#.page-ad
@@ -6621,6 +6621,8 @@ bab.la#@##ad_topslot
 bab.la#@##ad_rightslot
 bab.la#@##ad_leftslot
 bab.la#@#.info-panel
+pockettactics.com,theloadout.com#@#.ad-slot-2
+theloadout.com#@#.sticky_rail600
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6670,7 +6672,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||buzzfeednews.com/static/js/advertiser/amazon.js$domain=buzzfeednews.com
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
-@@||cdn.adapex.io/hb/aaw*.js$script,domain=convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
+@@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
 @@||cdn.fuseplatform.net/publift^$domain=technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
@@ -6721,9 +6723,9 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@||a.pub.network^*/pubfig.min.js$domain=socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
-@@||a.pub.network^$script,domain=socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
-@@||d.pub.network/init?key$xmlhttprequest,domain=socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
+@@||a.pub.network^*/pubfig.min.js$domain=fanaticsoutlet.com|kidfanatics.com|bigtallfanatics.com|fansedge.com|fanaticsauthentic.com|lids.com|garagejournal.com|thecolor.com|typeracer.com|fordbarn.com|ladyfanatics.com|jalopyjournal.com|socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
+@@||a.pub.network^$script,domain=fanaticsoutlet.com|kidfanatics.com|bigtallfanatics.com|fansedge.com|fanaticsauthentic.com|lids.com|garagejournal.com|thecolor.com|typeracer.com|fordbarn.com|ladyfanatics.com|jalopyjournal.com|socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
+@@||d.pub.network/init?key$xmlhttprequest,domain=fanaticsoutlet.com|kidfanatics.com|bigtallfanatics.com|fansedge.com|fanaticsauthentic.com|lids.com|garagejournal.com|thecolor.com|typeracer.com|fordbarn.com|ladyfanatics.com|jalopyjournal.com|socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
