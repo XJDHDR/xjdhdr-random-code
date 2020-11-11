@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: W9T+/mdTNcM7TkB/SIgxow
-! Version: 202011110200
+! Checksum: b8BklDMWrbSf4053VECk+g
+! Version: 202011111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Nov 2020 02:00 UTC
+! Last modified: 11 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6402,7 +6402,7 @@ tasty.co#@#.js-ad
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
 themarker.com#@#.js-dfp-ad
 didev.co.uk,expertreviews.co.uk#@#.lazyadslot
-itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
+escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
 explosm.net#@#.leaderboard-container
 ratemyprofessors.com#@#.leaderboard_ad
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.left-ad
@@ -6817,8 +6817,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -8482,6 +8482,7 @@ testpages.adblockplus.org#@##abptest
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 @@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
+@@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=sport.es
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=cmf.qa2.chron.com|chron.com|chron.assistpub.com
