@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ae2pss+mBXhxY0wUHW86g
-! Version: 202011101400
+! Checksum: W9T+/mdTNcM7TkB/SIgxow
+! Version: 202011110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Nov 2020 14:00 UTC
+! Last modified: 11 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1352,6 +1352,7 @@ medspecial.ru#@##yandex_ad
 ||criteo.net/js/ld/publishertag.js$script,domain=gismeteo.ru
 gismeteo.ru#@#.media_with_map > :not(.map_right)
 gismeteo.ru###media-middle
+gismeteo.ru###media-bottom
 gismeteo.ru##.x90
 !:partner_token=Digimedia
 !:partner_id=f66f2790ea302ce0
@@ -1952,6 +1953,8 @@ elbaladtv.net#@#.ads_code
 carsmag.cz##.AdTrack-container
 cbs8.com#@#.grid__module-sizer_name_taboola
 eldesmarque.com#@#.adBanner
+clicrbs.com.br#@#.card-ad
+clicrbs.com.br#@#.ad-area
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
