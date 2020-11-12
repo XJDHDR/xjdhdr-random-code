@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8V87kM7t52ej64NdfgPRBA
-! Version: 202011111400
+! Checksum: 3mZ8FSHQT6qiwIgCDTKYKw
+! Version: 202011120200
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 11 Nov 2020 14:00 UTC
+! Last modified: 12 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -325,27 +325,6 @@ slatestarcodex.com#@#.widget_arvins_ad_randomizer
 filezilla-project.org#@##rightad
 filezilla-project.org#@#.TopAd
 filezilla-project.org#@##leftad
-!:partner_token=codefund
-!:partner_id=3e9235d2b51bb097
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=61184
-! codefund ads
-||codefund.app/assets/px.js?ch=2
-@@||codefund.app/assets/px.js?ch=1
-@@||codefund.app/properties/*/funder.js$third-party
-@@||codefund.app/properties/*/funder.html?$third-party
-@@||codefund.app^$image,third-party
-@@||codefund.app/impressions/$third-party
-@@||codefund.io/packs/
-@@||codefund.app/packs/
-javascript.info#@##sponsorBar
-! legacy
-@@||codefund.io/scripts/*/embed.js$third-party
-@@||codefund.io/display/$image,third-party
-@@||codefund.io/properties/*/funder.js$third-party
-@@||codefund.io/properties/*/funder.html?$third-party
-@@||codefund.io/impressions/$third-party
-@@||codefund.io^$image,third-party
 ! *** exceptions:exceptionrules/exceptionrules-minimal-no-third-party-tracking.txt ***
 !:partner_id=1771032db7d723d7
 !:type=partner
