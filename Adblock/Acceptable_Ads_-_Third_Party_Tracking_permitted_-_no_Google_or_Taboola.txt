@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ycsdjl5TWKqtn+kRJbQczQ
-! Version: 202011120200
+! Checksum: BLJoFzcqGRfTEN4K172zdg
+! Version: 202011121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 12 Nov 2020 02:00 UTC
+! Last modified: 12 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6354,7 +6354,8 @@ wnd.com#@#.left_prom_160
 op.gg#@#.life-owner
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@#.lower-ad
 itstillworks.com#@#.main-ad
-bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.middle-ad
+reserveamerica.com,bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.middle-ad
+reserveamerica.com#@#.marketing-ad
 theweek.com#@#.mobads
 ew.com,people.com,theweek.com#@#.mobile-ad
 theweek.com#@#.mp-ad
@@ -6406,7 +6407,7 @@ zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewir
 civfanatics.com#@#.themonic-ad2
 britannica.com#@#.toolbar-ad
 thesimsresource.com#@#.top-300-ad
-hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
+reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
 digitaltrends.com,wnd.com#@#.top-ad-container
 aljazeera.com#@#.top-adv
 skijumping.pl#@#.top-advertisement
@@ -6761,8 +6762,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7118,35 +7119,6 @@ alilove.pl#@#.td-adspot-title
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54903
 ! Offerista Ads
 @@||widget.marktjagd.de/dist/$script,domain=wetteronline.de|chip.de
-!:partner_token=IPONWEB limited
-!:partner_id=967207b79f9e1e00
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54920
-! iponweb ads
-wordpress.com#@#.wpa
-wordpress.com#@#.wpmrec
-wordpress.com#@##adimg
-wordpress.com#@#.wpwidesky
-@@||s.pubmine.com/head.js$domain=wordpress.com
-@@||s.pubmine.com/adjr$domain=wordpress.com
-@@||s.pubmine.com/jslog?$domain=wordpress.com
-@@||s.pubmine.com/outstream.js$domain=wordpress.com
-@@||s.pubmine.com/push_sync?$domain=wordpress.com
-@@||s.pubmine.com/wl_pixel/$domain=wordpress.com
-@@||s.pubmine.com/match?$domain=wordpress.com
-@@||s.pubmine.com/hbconf?$domain=wordpress.com
-@@||s.pubmine.com/hbstat$domain=wordpress.com
-@@||s.pubmine.com/passback/$domain=wordpress.com
-@@||s.pubmine.com/userfeedback$domain=wordpress.com
-@@||s.pubmine.com/passback.html$subdocument,document,domain=wordpress.com
-@@||s.pubmine.com/sandbox.html$subdocument,document,domain=wordpress.com
-@@||s.pubmine.com/imp_pixel$domain=wordpress.com
-@@||s.pubmine.com/hba$domain=wordpress.com
-@@||s.pubmine.com/adv?$xmlhttprequest,domain=wordpress.com
-@@||pubpress.net/houseads/$domain=wordpress.com
-@@||s.pubmine.com/ata.js$domain=wordpress.com
-@@||c0.pubmine.com/*/ata.js$domain=wordpress.com
-||s.pubmine.com/pixel?id=15&type=img$domain=wordpress.com
 !:partner_id=1a8580989e736521
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54940
