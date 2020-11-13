@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5es1H3+oj2PDfNs2ubWRrg
-! Version: 202011121400
+! Checksum: 6Fta+HlsxGgWV0QPsBij0Q
+! Version: 202011130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Nov 2020 14:00 UTC
+! Last modified: 13 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6820,6 +6820,8 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 ||calculatorcamera.com^$domain=sporcle.com
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||www8.smartadserver.com^$domain=planet.fr
+@@||ced.sascdn.com/tag^$domain=planet.fr
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
