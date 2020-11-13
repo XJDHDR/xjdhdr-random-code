@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ld7Pc1h+UgMDgonrfpwLwg
-! Version: 202011130200
+! Checksum: 8Tsl7ase0PNL/WBDuNB75w
+! Version: 202011131400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 13 Nov 2020 02:00 UTC
+! Last modified: 13 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2844,7 +2844,7 @@ _GoogleTagManager2/
 ||fling.com/zeftour/t_i.php?
 ||forbesimg.com/assets/js/forbes/fast_pixel.js
 ||fotothing.com/space.gif?
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|cbs.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
 ||google.*/api/sclk?
 ||google.*/gwt/x/ts?
@@ -3814,6 +3814,7 @@ _youtube_social_
 ###adsense-constent-modal
 ###google-policy-box
 ###google_analytics_hinweis
+##.google_line_tracking
 ##.googleadwordsconversiontracking-cookie
 ##.msg.cookies
 ##.warning.cookie

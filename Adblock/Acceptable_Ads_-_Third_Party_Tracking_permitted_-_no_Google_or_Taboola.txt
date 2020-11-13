@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: x9v1sLGYTejukmFpkASfyA
-! Version: 202011130200
+! Checksum: oEA1wqtbBWZphYtHhoMnOA
+! Version: 202011131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Nov 2020 02:00 UTC
+! Last modified: 13 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6571,6 +6571,8 @@ bab.la#@##ad_leftslot
 bab.la#@#.info-panel
 pockettactics.com,theloadout.com#@#.ad-slot-2
 theloadout.com#@#.sticky_rail600
+thecolor.com#@##rectangleAd
+dotabuff.com,overbuff.com#@#.elo-placement
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -10606,6 +10608,9 @@ readthedocs.io#@#.ethical-rtd
 @@||server.ethicalads.io/proxy/click$domain=readthedocs.io
 @@||server.ethicalads.io/proxy/view$domain=readthedocs.io
 @@||media.ethicalads.io^$image,domain=readthedocs.io
+@@||ethicalads.io/images^$domain=ethicalads.io
+@@||media.ethicalads.io/abp/px.gif?ch=1&rn=*$image,domain=ethicalads.io|readthedocs.io
+||media.ethicalads.io/abp/px.gif?ch=2&rn=*$image,domain=ethicalads.io|readthedocs.io
 !:partner_token=Wykop Sp. z o.o.
 !:partner_id=4d5a9dab050ee9c2
 !:type=partner
