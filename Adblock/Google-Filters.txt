@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UBouQnMIvGA70gRTTpesng
-! Version: 202011140200
+! Checksum: X4Qwg5U4MA8lzaKQf3N+oQ
+! Version: 202011141400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 14 Nov 2020 02:00 UTC
+! Last modified: 14 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1236,6 +1236,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||blessingpudding.com^
 ||bowmoolog.com^
 ||boxofficecounselling.com^
+||brinkstretching.com^
 ||bwjteztqdlg.com^
 ||chasteminihaunting.com^
 ||ckombcgg.com^
@@ -1364,7 +1365,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||ltjvgpxg.com^
 ||lxhkqjqpswhg.com^
 ||mfdhvdwkdg.com^
-||mfxxpyhzofbsg.com^
 ||minorexportshopping.com^
 ||missiontestamentinterfering.com^
 ||mixuaeielbnlg.com^
@@ -1437,6 +1437,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||soapproceeding.com^
 ||srrxzmcsg.com^
 ||stargoug.com^
+||stoutoffering.com^
 ||swstkrihg.com^
 ||sxzemwijeyqxg.com^
 ||synthesissocietysplitting.com^
