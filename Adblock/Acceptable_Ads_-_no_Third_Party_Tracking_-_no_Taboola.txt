@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +7EEVHbbCFXKPJubHeXKjg
-! Version: 202011131400
+! Checksum: f4oy0C985rPp8F5sEK1oTg
+! Version: 202011140200
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 13 Nov 2020 14:00 UTC
+! Last modified: 14 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -297,14 +297,14 @@ centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 @@||readthedocs.org/api/*/sustainability/$script,domain=readthedocs.io
 @@||readthedocs.org/sustainability/$domain=readthedocs.io
 readthedocs.io#@#.ethical-rtd
-@@||media.ethicalads.io/media/*/ethicalads.min.js$domain=readthedocs.io
-@@||server.ethicalads.io/api/v1/decision$domain=readthedocs.io
-@@||server.ethicalads.io/proxy/click$domain=readthedocs.io
-@@||server.ethicalads.io/proxy/view$domain=readthedocs.io
-@@||media.ethicalads.io^$image,domain=readthedocs.io
 @@||ethicalads.io/images^$domain=ethicalads.io
-@@||media.ethicalads.io/abp/px.gif?ch=1&rn=*$image,domain=ethicalads.io|readthedocs.io
-||media.ethicalads.io/abp/px.gif?ch=2&rn=*$image,domain=ethicalads.io|readthedocs.io
+@@||media.ethicalads.io/media/*/ethicalads.min.js$script
+@@||server.ethicalads.io/api/v1/decision^
+@@||server.ethicalads.io/proxy/click^
+@@||server.ethicalads.io/proxy/view^
+@@||media.ethicalads.io^$image
+@@||media.ethicalads.io/abp/px.gif?ch=1&rn=*$image
+||media.ethicalads.io/abp/px.gif?ch=2&rn=*$image
 !:partner_token=Wykop Sp. z o.o.
 !:partner_id=4d5a9dab050ee9c2
 !:type=partner
