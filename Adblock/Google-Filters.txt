@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ut0N2MiSzwKu33Iu43ojgw
-! Version: 202011150200
+! Checksum: UWeBinwxE6b/4QvYBaUWFQ
+! Version: 202011151400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Nov 2020 02:00 UTC
+! Last modified: 15 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1774,6 +1774,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ! Google Hosted scripts
 ||googleapis.com/qmftp/$script
 ||googleapis.com/yieldlab/$script
+||amazing-dating.com^$popup,third-party
 ||adb.fling.com^$third-party
 ||blogspot.com^*/ad.jpg
 ||br.fling.com^
@@ -2845,7 +2846,7 @@ _GoogleTagManager2/
 ||fling.com/zeftour/t_i.php?
 ||forbesimg.com/assets/js/forbes/fast_pixel.js
 ||fotothing.com/space.gif?
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|cbs.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
 ||google.*/api/sclk?
 ||google.*/gwt/x/ts?
