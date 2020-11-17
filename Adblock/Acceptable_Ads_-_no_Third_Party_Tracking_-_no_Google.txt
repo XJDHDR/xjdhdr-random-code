@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6VqxvbAhVURPNcvwTuLoZQ
-! Version: 202011170200
+! Checksum: KYG3q2nMvv19Rr8VnyWmqw
+! Version: 202011171400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 17 Nov 2020 02:00 UTC
+! Last modified: 17 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -281,7 +281,7 @@ readthedocs.io#@#.ethical-rtd
 @@||server.ethicalads.io/api/v1/decision^
 @@||server.ethicalads.io/proxy/click^
 @@||server.ethicalads.io/proxy/view^
-@@||media.ethicalads.io^$image
+@@||media.ethicalads.io/media/images/$image
 @@||media.ethicalads.io/abp/px.gif?ch=1&rn=*$image
 ||media.ethicalads.io/abp/px.gif?ch=2&rn=*$image
 !:partner_token=Wykop Sp. z o.o.

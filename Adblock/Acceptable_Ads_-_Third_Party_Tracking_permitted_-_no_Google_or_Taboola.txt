@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7+PogtX0T1Fb1BH25z8EYQ
-! Version: 202011170200
+! Checksum: EkW9L5gJ7LygXOZLnCVolQ
+! Version: 202011171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Nov 2020 02:00 UTC
+! Last modified: 17 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5932,7 +5932,6 @@ popmatters.com#@#.ad-tag
 hothardware.com#@#.ad-top
 dailywire.com,masteroverwatch.com,mrexcel.com,zombs.io#@#.ad-unit
 fstoppers.com#@#.ad-unit-wrapper
-britannica.com#@#.ad-with-header-wrapper
 lolcounter.com#@#.ad1
 basketball-reference.com,boingboing.net#@#.ad300
 worldometers.info#@#.ad728
@@ -5945,14 +5944,12 @@ phonearena.com#@#.ad_728_90
 ajaxshowtime.com,productdemos.nl#@#.ad_footer
 mrexcel.com#@#.ad_global_header
 gogy.com#@#.adbottom
-makeuseof.com#@#.addisclaimer
 golfwrx.com#@#.adops
 worldometers.info#@#.adright
 strawpoll.me#@#.ads
 ets2.lt#@#.ads-top
 woxikon.de#@#.ads-wrapper
 dailywire.com#@#.adsbox
-makeuseof.com#@#.adslot
 kongregate.com,kongregatetrunk.com#@#.adspacer
 famousbirthdays.com#@#.adspot
 famousbirthdays.com#@#.adspot1
@@ -5973,10 +5970,10 @@ urbandictionary.com#@#.dfp-panel
 sporcle.com#@#.display-wide
 theguardian.com#@#.fc-slice__item--mpu-candidate
 theguardian.com#@#.fc-slice__popular-mpu
-kicksonfire.com,britannica.com,gamepedia,minecraft.gamepedia.com,ncaa.com,wegotthiscovered.com#@#.footer-ad
+kicksonfire.com,gamepedia,minecraft.gamepedia.com,ncaa.com,wegotthiscovered.com#@#.footer-ad
 iwn.io#@#.footer-advert
-fandom.com,gamepedia.com,muthead.com,snopes.com#@#.gpt-ad
-britannica.com,cordcuttersnews.com,dealmaxx.net,woodmagazine.com#@#.header-ad
+fandom.com,gamepedia.com,muthead.com#@#.gpt-ad
+cordcuttersnews.com,dealmaxx.net,woodmagazine.com#@#.header-ad
 knowyourmeme.com#@#.header-unit-wrapper
 headphonereview.com#@#.home-ad
 fandom.com,wikia.com#@#.home-top-right-ads
@@ -6008,7 +6005,7 @@ guru99.com#@#.quads-location
 time.is#@#.rad
 knowyourmeme.com#@#.rectangle-unit-wrapper
 cnsnews.com#@#.region-top-ad
-britannica.com,triviahive.com#@#.right-rail-ad
+triviahive.com#@#.right-rail-ad
 gogy.com#@#.rightAd
 hi5.com#@#.right_ad
 slickdeals.net#@#.sideGridBox.abc
@@ -6018,7 +6015,6 @@ woodmagazine.com#@#.sidebar-ads
 dailywire.com#@#.sponsored-content
 phonearena.com#@#.spot_disclaimer
 kongregate.com,kongregatetrunk.com#@#.square_ad
-britannica.com#@#.sticky-ad
 offbeat.topix.com,rewind.topix.com,stars.topix.com,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com,www.topix.com#@#.str-300x250-ad
 androidguys.com#@#.td-a-rec-id-custom_ad_2
 androidguys.com#@#.td-a-rec-id-custom_ad_3
@@ -6045,7 +6041,6 @@ ncaa.com#@#div[id^="ad_rect_"]
 gamepedia.com#@#div[id^="cdm-zone"]
 dailywire.com#@#div[style^="max-width: 300px;"]
 dailywire.com#@#div[style^="width: 728px;"]
-makeuseof.com#?#.addisclaimer:-abp-has( + div:not([id^="BT_muo-"]))
 @@/packs/concert_ads-$script,domain=sbnation.com|sbndev.net
 @@||247chess.com/js/ads.js
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
@@ -6251,7 +6246,8 @@ cprewritten.net,homes.com#@#.ad__container
 lse.co.uk#@#.ad_block
 discogs.com#@#.ad_bottom
 discogs.com#@#.ad_container
-wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label
+askmefast.com#@#.add300
+askmefast.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label_method
 urldecoder.org,discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
@@ -6308,10 +6304,8 @@ pronews.gr#@#.column-ad
 news247.gr#@#.container_ad
 pwinsider.com#@#.content-left
 pwinsider.com#@#.content-right
-snopes.com#@#.creative
 itstillworks.com#@#.desktop-ad
 guidingtech.com#@#.detail-ad
-nouvelobs.com#@#.dfp-slot
 didev.co.uk,expertreviews.co.uk#@#.dfp-tag-wrapper
 hi5.com,tagged.com#@#.dfp_ad
 elgrafico.mx#@#.dfp_slot
@@ -6405,7 +6399,6 @@ pokemoncoders.com#@#.td-a-rec-id-custom_ad_5
 kicksonfire.com,fossbytes.com#@#.td-header-ad-wrap
 zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
-britannica.com#@#.toolbar-ad
 thesimsresource.com#@#.top-300-ad
 reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
 digitaltrends.com,wnd.com#@#.top-ad-container
@@ -6574,6 +6567,10 @@ theloadout.com#@#.sticky_rail600
 thecolor.com#@##rectangleAd
 dotabuff.com,overbuff.com#@#.elo-placement
 variety.com#@##leaderboard-no-padding
+wordreference.com#@##adrightbottom
+wordreference.com#@##ad1
+wordreference.com#@#.adtitle
+visihow.com#@#.wh_ad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6596,7 +6593,6 @@ buzzfeednews.com###BF_WIDGET_211-1
 healthline.com###inline1__slot
 healthline.com###inline2__slot
 healthline.com###inline3__slot
-nouvelobs.com###inread
 plotek.pl###div-gpt-ad-001-TOPBOARD-0
 plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###dfp-ad-2
@@ -6638,7 +6634,6 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||jscdn.yieldbird.com^$script,third-party,xmlhttprequest,domain=dziennik.pl|infor.pl|gazetaprawna.pl|forsal.pl|jastrzabpost.pl|merca20.com|allani.pl|anlikaltinfiyatlari.com|bestcraftsandrecipes.com|capitalmexico.com.mx|cas.sk|ddwloclawek.|ddwloclawek.pl|dennikn.sk|domodi.pl|elgrafico.mx|expresskaszubski.pl|fcbarca.com|gostyn24.pl|hejmielec.pl|homebook.pl|homegardendiy.com|homelook.it|iszczecinek.pl|jooble.org|klp.pl|ladnydom.pl|leszno24.pl|littlealchemy.com|littlealchemy2.com|livinggreenandfrugally.com|meczyki.pl|menicka.cz|mielec.pl|mojewypieki.com|nyheteridag.se|obrazovaka.ru|omnicalculator.com|paraloscuriosos.com|podaj.to|popularne.pl|portalplock.pl|quizowa.pl|realmadryt.pl|rmf24.pl|rozklad-pkp.pl|salon24.pl|skijumping.pl|therighthairstyles.com|trinixy.ru|tusochaczew.pl|twoplayergames.org|windowsreport.com|wyborcza.pl|yesasia.ru|zakon.kz|zdravie.sk
 @@||keytarget.adnet.lt/stable$script,third-party,xmlhttprequest,domain=118.lt|basketnews.lt|bernardinai.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt|sena.lt|supermama.lt|tax.lt|technologijos.lt|ve.lt
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
-@@||le-monde-ams.gscontxt.net/main/channels.cgi?$domain=nouvelobs.com
 @@||massariuscdn.com/pubs/*_adtech_setup.js$domain=vandal.elespanol.com|f1maximaal.nl|ajaxshowtime.com
 @@||massariuscdn.com/prod/prebid$domain=vandal.elespanol.com
 @@||prod.adspsp.com/adb.$domain=gfycat.com|yourdictionary.com
@@ -6649,12 +6644,10 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 @@||tradecraft.s.llnwi.net^$domain=sporcle.com|justthenews.com|justjared.com|justjaredjr.com|arcamax.com|uberhumor.com|walterfootball.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
-@@||wrapper.lemde.fr/glmaw.$script,domain=nouvelobs.com
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
 ||assets.medicalnewstoday.com/content/advertising.js^$script,domain=greatist.com|healthline.com|medicalnewstoday.com
 @@||9to5mac.com^$csp
 @@||9to5toys.com^$csp
-@@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-inline'
 @@||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -6674,6 +6667,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
+@@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||a.pub.network^*/pubfig.min.js$domain=fanaticsoutlet.com|kidfanatics.com|bigtallfanatics.com|fansedge.com|fanaticsauthentic.com|lids.com|garagejournal.com|thecolor.com|typeracer.com|fordbarn.com|ladyfanatics.com|jalopyjournal.com|socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|worldofsolitaire.com|stocktwits.com|krunker.io|iwastesomuchtime.com
 @@||a.pub.network^$script,domain=fanaticsoutlet.com|kidfanatics.com|bigtallfanatics.com|fansedge.com|fanaticsauthentic.com|lids.com|garagejournal.com|thecolor.com|typeracer.com|fordbarn.com|ladyfanatics.com|jalopyjournal.com|socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|solitaired.com|lightnovelworld.com|monografias.com|realestatebook.com|pennantchase.com|sleepertrader.com|moviefone.com|machineryaccess.com|homesandland.com|fanatics.com|baseball-almanac.com|thecourierdaily.com|phoronix.com|worldpopulationreview.com|router-network.com|vg247.com|word.tips|camelcamelcamel.com|androidpolice.com|conjuguemos.com|woofwoof.tv|techlicious.com|dealwiki.net|123helpme.com|har.com|cram.com|gottabemobile.com|greatschools.org|sears.com|kmart.com|stockcharts.com|itsfoss.com|worldometers.info
 @@||d.pub.network/init?key$xmlhttprequest,domain=fanaticsoutlet.com|kidfanatics.com|bigtallfanatics.com|fansedge.com|fanaticsauthentic.com|lids.com|garagejournal.com|thecolor.com|typeracer.com|fordbarn.com|ladyfanatics.com|jalopyjournal.com|socialbasecamp.com|purewow.com|instantstreetview.com|tunebat.com|onlinepianist.com|lightnovelworld.com|realestatebook.com
@@ -6769,6 +6763,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
+@@||wordreference.com/*/publ/prebid*$domain=wordreference.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7311,12 +7306,12 @@ londontheinside.com#@#.widget_ad_widget
 @@||yandex.net/get-direct/$image,domain=habr.com
 @@||an.yandex.ru/meta/$domain=habr.com
 @@||an.yandex.ru/system/context.js$domain=habr.com
+@@||cdn-plus.roxot-panel.com/roxot-wrapper/js/$script,domain=habr.com
+@@||cdn-plus.roxot-panel.com/wrapper-builder/$script,xmlhttprequest,domain=habr.com
 habr.com#@#.sidebar > .sidebar_right_ad
 habr.com#@#.dfp-slot__placeholder-text a
 habr.com#@#.sidebar_right_ad
 habr.com#@#.dfp-slot
-@@||cdn-plus.roxot-panel.com/roxot-wrapper/js/$script,domain=habr.com
-@@||cdn-plus.roxot-panel.com/wrapper-builder/$script,xmlhttprequest,domain=habr.com
 !:partner_token=express-novosti.ru
 !:partner_id=be2745a8380cdcf3
 !:type=partner
@@ -10614,7 +10609,7 @@ readthedocs.io#@#.ethical-rtd
 @@||server.ethicalads.io/api/v1/decision^
 @@||server.ethicalads.io/proxy/click^
 @@||server.ethicalads.io/proxy/view^
-@@||media.ethicalads.io^$image
+@@||media.ethicalads.io/media/images/$image
 @@||media.ethicalads.io/abp/px.gif?ch=1&rn=*$image
 ||media.ethicalads.io/abp/px.gif?ch=2&rn=*$image
 !:partner_token=Wykop Sp. z o.o.
