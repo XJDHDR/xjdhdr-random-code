@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OtLhHT5ajVCz//UEuGusBw
-! Version: 202011180200
+! Checksum: nGzWOJLr6mF/BW1RJfQAKA
+! Version: 202011181400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Nov 2020 02:00 UTC
+! Last modified: 18 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1234,6 +1234,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||bifieyhg.com^
 ||bilrtklg.com^
 ||blessingpudding.com^
+||boahwswzuebmmg.com^
 ||bowmoolog.com^
 ||boxofficecounselling.com^
 ||brinkstretching.com^
@@ -1414,6 +1415,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||qkspafpgg.com^
 ||qqtqicbvrwg.com^
 ||qwlckbrwxizg.com^
+||racesstuffing.com^
 ||rangparenting.com^
 ||rdoovrzqazvpgv.com^
 ||rdrceting.com^
@@ -1841,6 +1843,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 @@||fonts.googleapis.com^$stylesheet,domain=vshare.eu
 @@||ajax.googleapis.com^$script,domain=torrentdownload.info
 @@||ajax.googleapis.com^$script,domain=kat.sx
+@@||fonts.googleapis.com^$stylesheet,domain=animepahe.com
 @@||video.twimg.com^$xmlhttprequest,domain=twitter.com
 @@||ajax.googleapis.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 @@||ajax.googleapis.com^$script,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
@@ -2520,7 +2523,7 @@ www.google.com#@##videoads
 /google_analytics.$~image
 /google_analytics/*
 /google_analytics3_
-/google_analytics_
+/google_analytics_$domain=~github.com
 /google_page_track
 /google_tag.
 /google_tag/*
@@ -3000,7 +3003,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||files.mycloud.com/js/analytics/google_analytics.js
 @@||flsenate.gov/Scripts/GoogleAnalytics.js$~third-party
 @@||ghstatic.com/images/site/zylom/scripts/google-analytics.js?$domain=zylom.com
-@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|anchor.fm|bebo.com|bennysva.com|blastingnews.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|health2000.co.nz|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|m.timesofindia.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|pure.com|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tracking.narvar.com|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
+@@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|anchor.fm|bebo.com|beinsports.com|bennysva.com|blastingnews.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|health2000.co.nz|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|m.timesofindia.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|pure.com|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tracking.narvar.com|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com
 @@||google-analytics.com/ga.js$domain=7digital.com|account.hirezstudios.com|aebn.net|aftonbladet.se|alatest.com|americanapparel.net|apps.facebook.com|asus.com|avast.com|babylon.com|bangbros.com|banshee.fm|billabong.com|billboard.com|bolha.com|bookadumpster.com|boostmobile.com|break.com|brobible.com|cinemassacre.com|comingsoon.net|dailyfreegames.com|donanimhaber.com|ehow.com|eonline.com|everydayhealth.com|expensify.com|filmweb.pl|fora.tv|fossil.com|foxsports.com.au|frequency.com|g4tv.com|gasbuddy.com|globaltv.com|google.com|gumtree.com.au|hoerzu.de|imageshack.us|intellicast.com|jetbrains.com|jobsite.co.uk|justjared.com|juxtapoz.com|kleinanzeigen.ebay.de|latimes.com|lemonfree.com|liptonicetea.com|logitech.com|lucasarts.com|mashable.com|maxcdn.com|medonet.pl|meetme.com|mevio.com|mommyish.com|newyorker.com|nme.com|nuts.co.uk|opendns.com|oyster.com|philips.com|photobucket.com|priceme.co.nz|priestville.org|salon.com|search.diy.com|seekingalpha.com|sundance.org|techbargains.com|tempe12.com|theblaze.com|thegrindstone.com|thevine.com.au|theweek.com|threatfire.com|timberland.com|tomshardware.com|tube8.com|tvunetworks.com|tweetgrid.com|umbro.com|weeworld.com|wonka.com|xda-developers.com|yellow.co.nz|youtube.com|zoo.org.au
 @@||google-analytics.com/gtm/js$script,domain=curbed.com|eater.com|funnyordie.com|gumtree.com|mmafighting.com|mmamania.com|nflgamepass.com|polygon.com|racked.com|reuters.com|riftherald.com|sbnation.com|theringer.com|theta.tv|toysrus.ca|vox.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|maxiclimber.com|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg
