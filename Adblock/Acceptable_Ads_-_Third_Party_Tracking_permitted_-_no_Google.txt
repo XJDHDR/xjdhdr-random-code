@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KJtgVNQVOH3tCgMgAP8xzQ
-! Version: 202011191400
+! Checksum: 8WtUjnR5Qbj24fBouLybzg
+! Version: 202011200200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Nov 2020 14:00 UTC
+! Last modified: 20 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7580,6 +7580,8 @@ clck.lentainform.com#@#div[id^="yandex_rtb"]
 clck.lentainform.com#@#div[id^="adfox_"]
 gismeteo.ru#@#.widget-container
 glagol.press#@#.adsbox
+e1.ru,ngs.ru#@#div[data-cms-place]
+e1.ru#@#div[data-place-id]
 @@||an.yandex.ru/system/context.js$domain=clck.lentainform.com
 @@||yastatic.net/pcode/adfox/loader.js$domain=clck.lentainform.com
 @@||yandex.net/get-direct/$image,domain=clck.lentainform.com
