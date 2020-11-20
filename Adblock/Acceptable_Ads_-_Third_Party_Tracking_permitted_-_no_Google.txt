@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8WtUjnR5Qbj24fBouLybzg
-! Version: 202011200200
+! Checksum: jr53VgCn8QyxQYnvFp553w
+! Version: 202011201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Nov 2020 02:00 UTC
+! Last modified: 20 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8547,7 +8547,7 @@ agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@##sgAd
 mashable.com#@##sticky-spacer
 legacy.com#@#.BannerAd
 legacy.com#@#.GalleryViewerAdSuppress
-koutsompolio.gr#@#.MediumRectangleAdPanel
+chess.com,koutsompolio.gr#@#.MediumRectangleAdPanel
 legacy.com#@#.NGOLocalFooterAd
 legacy.com#@#.ObitBottomWideAd
 legacy.com#@#.PremiumObitAdBar
@@ -8595,7 +8595,7 @@ speedtest.net#@#.ads-right
 boredpanda.com#@#.adsbox
 mein-schoener-garten.de#@#.adtag
 searchenginejournal.com#@#.adv-label
-koutsompolio.gr#@#.adv_left
+chess.com,koutsompolio.gr#@#.adv_left
 gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.advert
 xlrforum.com#@#.afs_ads
 motor1.com#@#.ap
@@ -8605,7 +8605,7 @@ futbolcentroamerica.com#@#.banner_160x600
 hannity.com#@#.banner_ad
 capebretonpost.com,journalpioneer.com,theguardian.pe.ca#@#.billboard-ad
 247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com,xlrforum.com#@#.box-ad
-koutsompolio.gr#@#.browse-banner_ad
+chess.com,koutsompolio.gr#@#.browse-banner_ad
 arsdev.net,arstechnica.com#@#.cns-ads-stage
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-container
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-shaft
@@ -8675,6 +8675,16 @@ lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad__label
 lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad__placeholder
 lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad-refresh
 gamepress.gg#@#.top-ad-desktop
+chess.com#@#.banner_slot
+chess.com#@#.postad
+chess.com#@#.adLeaderboard
+chess.com#@##adBanner
+chess.com#@##content-ad
+chess.com#@#.short-sidebar-ad-bottom
+chess.com#@#.short-sidebar-ad-component
+chess.com#@#.tmsads
+chess.com#@#.short-sidebar-ad-sticky
+chess.com#@##main-ad
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
