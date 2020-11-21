@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TM3P3zCAbrhwauIFAXQ/8g
-! Version: 202011210200
+! Checksum: eoMn/B/lwQWz0LBnyxpqiQ
+! Version: 202011211400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Nov 2020 02:00 UTC
+! Last modified: 21 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1389,6 +1389,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||omsyfxirjg.com^
 ||onergong.com^
 ||orvzvaqig.com^
+||oughtbuilding.com^
 ||oymlttqg.com^
 ||pcdjvinnlhysg.com^
 ||phastoag.com^
@@ -2189,6 +2190,7 @@ ten.com.au##.small-listing.small-listing4.google
 arabianbusiness.com,automotive-fleet.com,brainz.org,businessfleet.com,centralchronicle.in,cfl.ca,dnainfo.com,ebony.com,fleetfinancials.com,government-fleet.com,lctmag.com,leedsunited.com,letstalkbitcoin.com,reverso.net,schoolbusfleet.com,spanishdict.com,sportpesanews.com,total-croatia-news.com,truckinginfo.com,weeklyworldnews.com,worktruckonline.com,yellowpages.com.jo,yellowpages.com.lb##.top-banner
 belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,essexlive.news,football.london,gazettelive.co.uk,getreading.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,grimsbytelegraph.co.uk,hertfordshiremercury.co.uk,hulldailymail.co.uk,irishmirror.ie,kentlive.news,lancs.live,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.top-slot
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,coinad.com,dailypost.ng,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,tetris.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
+rtvonline.com##[href^="https://goo.gl/"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 amgreatness.com,ancient-origins.net,avclub.com,bestgadgetry.com,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,livescience.com,marineelectronics.com,marinelink.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,mydramalist.com,myrailinfo.in,oneangrygamer.net,powerlineblog.com,segmentnext.com,spartareport.com,ssbcrack.com,techradar.com,theroot.com,thetakeout.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
@@ -2291,7 +2293,7 @@ youtubelike.com###header-top
 phonedog.com###headerboard
 allureamateurs.net,mataporno.com,sexmummy.com,teenwantme.com,worldgatas.com,xpg.com.br###topbar
 pinkrod.com,pornsharing.com,wetplace.com##.allIMwindow
-analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imagezog.com,momthumb.com,myxvids.com,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,porngames.com,pornoreino.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
+3movs.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imagezog.com,momthumb.com,myxvids.com,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,porngames.com,pornoreino.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
 celebritymovieblog.com##.banner700
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
