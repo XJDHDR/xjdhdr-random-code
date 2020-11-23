@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TYnm0ESZrfEky9cDSRpceA
-! Version: 202011230200
+! Checksum: 2/X9QTH5Jo4d30VZHr6tQg
+! Version: 202011231400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 23 Nov 2020 02:00 UTC
+! Last modified: 23 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1291,6 +1291,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||fgoocsqg.com^
 ||flowerythug.com^
 ||fosterheiressdug.com^
+||fourthug.com^
 ||foxlaytg.com^
 ||foydnzdtjcjg.com^
 ||frzynewnpg.com^
@@ -2190,7 +2191,7 @@ infosecurity-magazine.com,sassyhongkong.com##.site-leaderboard
 ten.com.au##.small-listing.small-listing4.google
 arabianbusiness.com,automotive-fleet.com,brainz.org,businessfleet.com,centralchronicle.in,cfl.ca,dnainfo.com,ebony.com,fleetfinancials.com,government-fleet.com,lctmag.com,leedsunited.com,letstalkbitcoin.com,reverso.net,schoolbusfleet.com,spanishdict.com,sportpesanews.com,total-croatia-news.com,truckinginfo.com,weeklyworldnews.com,worktruckonline.com,yellowpages.com.jo,yellowpages.com.lb##.top-banner
 belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,essexlive.news,football.london,gazettelive.co.uk,getreading.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,grimsbytelegraph.co.uk,hertfordshiremercury.co.uk,hulldailymail.co.uk,irishmirror.ie,kentlive.news,lancs.live,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.top-slot
-9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,coinad.com,dailypost.ng,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,tetris.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
+9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coinad.com,dailypost.ng,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,tetris.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
 rtvonline.com##[href^="https://goo.gl/"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
