@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NcHWKTTJLAeZN+ofnjOYFA
-! Version: 202011221400
+! Checksum: TYnm0ESZrfEky9cDSRpceA
+! Version: 202011230200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Nov 2020 14:00 UTC
+! Last modified: 23 Nov 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3031,7 +3031,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||puch-ersatzteile.at^*/google-analytics.min.js
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|nymag.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
