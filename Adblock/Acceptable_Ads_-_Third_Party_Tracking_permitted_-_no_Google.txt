@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JeGCbn9fLckNawK+1RK0QA
-! Version: 202011240200
+! Checksum: 9AYhgBALZ/y58bfTpjrUdg
+! Version: 202011241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Nov 2020 02:00 UTC
+! Last modified: 24 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8280,6 +8280,7 @@ premiere.fr#@#a[href^="http://clkde.tradedoubler.com/click?"]
 @@||3lift.com/xuid^$third-party
 @@||adroll.com/cm^$third-party
 @@||amazon-adsystem.com//ecm
+@@||amazon-adsystem.com/ecm
 !:type=combined
 ! Global exception rules for ad tags, ad click redirects etc.
 @@||clickserve.dartsearch.net/link/click?$popup
@@ -8717,6 +8718,9 @@ chess.com#@#.short-sidebar-ad-component
 chess.com#@#.tmsads
 chess.com#@#.short-sidebar-ad-sticky
 chess.com#@##main-ad
+economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@#.adsbg300
+economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##bottomAd
+economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##topAd
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
