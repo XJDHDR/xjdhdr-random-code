@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9AYhgBALZ/y58bfTpjrUdg
-! Version: 202011241400
+! Checksum: z565X3q+XeeL5gYCMdd40w
+! Version: 202011250200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 24 Nov 2020 14:00 UTC
+! Last modified: 25 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6557,8 +6557,8 @@ buscacepapp.com#@#.ads-center
 zerohedge.com#@#.ad__wrapper-element
 5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
 hollywoodpq.com#@#.oboxads-ad-widget
-operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
-operationsports.com,gottabemobile.com#@#.mvp_ad_widget
+autooverload.com,operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
+autooverload.com,operationsports.com,gottabemobile.com#@#.mvp_ad_widget
 pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
@@ -6624,8 +6624,8 @@ purewow.com#@#.ad-300x600
 operationsports.com#@##mvp-post-bot-ad
 operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
-pons.com,ldoceonline.com,bab.la#@##ad_topslot
-pons.com,ldoceonline.com,bab.la#@##ad_rightslot
+collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
+collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
 pons.com,ldoceonline.com,bab.la#@##ad_leftslot
 pons.com,ldoceonline.com#@##ad_btmslot
 bab.la#@#.info-panel
@@ -6646,6 +6646,8 @@ infor.pl#@##top-advert
 irishpost.com#@#.add-pad
 irishpost.com#@#.lazy-ad
 irishpost.com#@#.add-block
+autooverload.com#@#.mvp-widget-feat2-side-ad
+unica.ro,viva.ro,elle.ro#@#.strawberry-ads
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6839,6 +6841,9 @@ garagejournal.com##.ad > a
 @@||wordreference.com/*/publ/prebid*$domain=wordreference.com
 @@||ldoceonline.com/external/js/prebid$domain=ldoceonline.com
 @@||assets.pons.com/assets/ads/iaw-pons$domain=pons.com
+@@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib*$domain=viceops.net
+@@^wp-content/plugins/*/js/*.js$~third-party,domain=autooverload.com|bonvoyaged.com|lifestylogy.com
+@@||^external/scripts/prebid$~third-party,domain=collinsdictionary.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -8798,6 +8803,8 @@ forbes.com##.pub_300x250
 @@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+!
+||d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/$media,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
