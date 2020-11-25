@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: z565X3q+XeeL5gYCMdd40w
-! Version: 202011250200
+! Checksum: lVqqupWN7zCj211ZTtQb5g
+! Version: 202011251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Nov 2020 02:00 UTC
+! Last modified: 25 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2988,6 +2988,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||berlingske.dk/adops/Prebid/PROD/prebid-library*.js$domain=berlingske.dk
 @@||berlingske.dk/adops/Prebid/PROD/prebid-config*.js$domain=berlingske.dk
 @@||js2.uai.com.br/headerbidding/aol-app-cri-rtb-rub-smt-teads/*/prebid.js$domain=uai.com.br
+@@||blog.with2.net/js/prebid*$domain=blog.with2.net
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -7236,13 +7237,6 @@ mafojobs.de,studentenjobs4u.de#@##adunit
 ! fitnessrezepte.de ads
 @@||s.pubmine.com^$domain=fitnessrezepte.de
 fitnessrezepte.de#@#.wpa
-!:partner_token=Readthedocs.io
-!:partner_id=36f9671c2ff3473f
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=56425
-! Readthedocs.io ads
-@@||readthedocs.org/api/*/sustainability/$script
-@@||readthedocs.org/sustainability/
 !:partner_token=anyaplanet.net
 !:partner_id=0182567a048a5a08
 !:type=partner
@@ -8469,6 +8463,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.askmen.com^$domain=askmen.com,document
 @@||related.sharemods.com^$domain=sharemods.com
 @@||related.sharemods.com^$domain=sharemods.com,document
+@@||related.billboard.com.com^$domain=billboard.com
+@@||related.billboard.com.com^$domain=billboard.com,document
 ! @@||related.vesty.co.il^$domain=vesty.co.il
 ! @@||related.vesty.co.il^$domain=vesty.co.il,document
 @@||cloud.setupad.com/hb/sharemods.js$domain=sharemods.com
@@ -8509,6 +8505,7 @@ testpages.adblockplus.org#@##abptest
 @@||static-cdn.adblade.com^$domain=web.adblade.com
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
+@@||ads.blogherads.com^$domain=related.billboard.com|billboard.com
 !
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
@@ -10736,8 +10733,8 @@ centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=56425
 ! Readthedocs.io ads
-@@||readthedocs.org/api/*/sustainability/$script,domain=readthedocs.io
-@@||readthedocs.org/sustainability/$domain=readthedocs.io
+@@||readthedocs.org/api/*/sustainability/$script
+@@||readthedocs.org/sustainability/
 readthedocs.io#@#.ethical-rtd
 @@||ethicalads.io/images^$domain=ethicalads.io
 @@||media.ethicalads.io/media/*/ethicalads.min.js$script

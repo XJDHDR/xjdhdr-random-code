@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: O85Z/Luko3/LCcxzN8H0/Q
-! Version: 202011250200
+! Checksum: 3wEZC65r/US/rTuK3QfEmA
+! Version: 202011251400
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 25 Nov 2020 02:00 UTC
+! Last modified: 25 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -294,8 +294,8 @@ centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=56425
 ! Readthedocs.io ads
-@@||readthedocs.org/api/*/sustainability/$script,domain=readthedocs.io
-@@||readthedocs.org/sustainability/$domain=readthedocs.io
+@@||readthedocs.org/api/*/sustainability/$script
+@@||readthedocs.org/sustainability/
 readthedocs.io#@#.ethical-rtd
 @@||ethicalads.io/images^$domain=ethicalads.io
 @@||media.ethicalads.io/media/*/ethicalads.min.js$script
