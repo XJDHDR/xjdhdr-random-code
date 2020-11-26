@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r6MqaU/wGBHJw3haHBKxqQ
-! Version: 202011260200
+! Checksum: 8HzPYayl6EUljGGLZcTyFw
+! Version: 202011261400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google or Taboola
-! Last modified: 26 Nov 2020 02:00 UTC
+! Last modified: 26 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -80,20 +80,6 @@ vk.com#@#div[data-ad]
 vk.com#@#._ads_promoted_post_data_w
 @@||vk.com/ads_light.php$domain=vk.com
 @@||vk.com/js/cmodules/web/ads_light.$script,domain=vk.com
-!:partner_token=justgoodfood.be
-!:partner_id=5930b5dd7a3191cd
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=44791
-! justgoodfood.be ads
-justgoodfood.be#@#.wpproaddlink
-justgoodfood.be#@#.wppaszone
-justgoodfood.be#@#.td-adspot-title
-justgoodfood.be#@##wp_pro_ad_system_ad_zone
-justgoodfood.be#@#.td-a-rec-id-custom_ad_1
-@@||justgoodfood.be/?wpproadszoneid=236$subdocument,domain=justgoodfood.be
-@@||justgoodfood.be/?wpproadszoneid=268$subdocument,domain=justgoodfood.be
-@@||justgoodfood.be/?wpproadszoneid=269$subdocument,domain=justgoodfood.be
-@@||justgoodfood.be/?wpproadszoneid=270$subdocument,domain=justgoodfood.be
 !:partner_token=madinati-dz.com
 !:partner_id=df135bafd7f7898c
 !:type=partner
@@ -255,24 +241,17 @@ linkedin.com###right-rail > #right-ad-container > #ad-contacts-pymk-fs-2
 linkedin.com#@#.iframe-ad
 linkedin.com##IMG.img_ad[src^="https://media.licdn.com/mpr/mpr/"]
 linkedin.com#@#a[href^="https://bs.serving-sys.com"]
-!:partner_token=centrifuge-lemag.fr
-!:partner_id=cd706142337322b2
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54236
-! centrifuge-lemag.fr ads
-@@||centrifuge-lemag.fr/wp-content/uploads/*-728x90-$image,domain=centrifuge-lemag.fr
-centrifuge-lemag.fr#@#[role="banner"] > #cb-logo-box
 !:partner_token=south-plus.net
 !:partner_id=a3d205dfd0a2eb76
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54245
 ! south-plus.net ads
 @@||bbs.south-plus.net/images/$image,domain=bbs.south-plus.net
-!:partner_token=Readthedocs.io
-!:partner_id=36f9671c2ff3473f
+!:partner_token=Ethical Ads
+!:partner_id=e984752206082b8e
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=56425
-! Readthedocs.io ads
+! Ethical Ads
 @@||readthedocs.org/api/*/sustainability/$script
 @@||readthedocs.org/sustainability/
 readthedocs.io#@#.ethical-rtd
