@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lVqqupWN7zCj211ZTtQb5g
-! Version: 202011251400
+! Checksum: HQLzgd1m43jitLAX2Itekg
+! Version: 202011260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Nov 2020 14:00 UTC
+! Last modified: 26 Nov 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6345,7 +6345,7 @@ broadwayworld.com#@#.adtester-container
 free-power-point-templates.com#@#.adtop
 realestateview.com.au,arcamax.com,mrexcel.com,pronews.gr,publicholidays.com.au,thenewdaily.com.au#@#.adunit
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,ekstramagazyn.pl,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,goldenline.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskapress.pl,polskatimes.pl,pomorska.pl,poranny.pl,rodzina500plus.biz,sportowy24.pl,strefabiznesu.pl,stronakobiet.pl,swieta24.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#@#.advContainer
-games.co.uk#@#.advert
+ft.com,games.co.uk#@#.advert
 thestudentroom.co.uk#@#.advert-block
 www.visitlondon.com#@#.advert-mpu
 convertfiles.com#@#.advertisement_box
@@ -6649,6 +6649,10 @@ irishpost.com#@#.lazy-ad
 irishpost.com#@#.add-block
 autooverload.com#@#.mvp-widget-feat2-side-ad
 unica.ro,viva.ro,elle.ro#@#.strawberry-ads
+ft.com#@#.above-header-advert
+ft.com#@#.o-ads--center
+ft.com#@#.o-ads
+ft.com#@#.sidebar-advert
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6845,6 +6849,7 @@ garagejournal.com##.ad > a
 @@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib*$domain=viceops.net
 @@^wp-content/plugins/*/js/*.js$~third-party,domain=autooverload.com|bonvoyaged.com|lifestylogy.com
 @@||^external/scripts/prebid$~third-party,domain=collinsdictionary.com
+@@||ads-api.ft.com/v2/$xmlhttprequest,domain=ft.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner

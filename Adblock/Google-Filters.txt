@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UUc/l9Ihf0c496MXcthqUg
-! Version: 202011251400
+! Checksum: pMqb+B6lW6r+myRAU0rJtg
+! Version: 202011260200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Nov 2020 14:00 UTC
+! Last modified: 26 Nov 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2682,6 +2682,7 @@ _GoogleTagManager2/
 ||netmng.com^$third-party
 ||nstracking.com^$third-party
 ||nytlog.com^$third-party
+||opstag.com^$third-party
 ||otracking.com^$third-party
 ||performtracking.com^$third-party
 ||postclickmarketing.com^$third-party
@@ -2727,6 +2728,7 @@ _GoogleTagManager2/
 ||j93557g.com^$third-party
 ||raintwig.com^$third-party
 ||richstring.com^$third-party
+||sablesong.com^$third-party
 ||thirstytwig.com^$third-party
 ||google-rank.org^$third-party
 ||websitesampling.com^$third-party
@@ -2856,7 +2858,7 @@ _GoogleTagManager2/
 ||fling.com/zeftour/t_i.php?
 ||forbesimg.com/assets/js/forbes/fast_pixel.js
 ||fotothing.com/space.gif?
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
 ||google.*/api/sclk?
 ||google.*/gwt/x/ts?
