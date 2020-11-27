@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /Mn+mYqri/KQvNM8HAWDUA
-! Version: 202011270200
+! Checksum: +j8cz4JLutvjHe57C2TnrA
+! Version: 202011271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 Nov 2020 02:00 UTC
+! Last modified: 27 Nov 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7475,6 +7475,7 @@ webidextrous.com#@#.adrotate_widgets
 @@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||cdn.performax.cz/acc/accp.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||delivery.performax.cz^*_rtb/$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||delivery.performax.cz^*_rtb/$subdocument,generichide,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 @@||cdn.performax.cz/acc/*_rtb.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 @@||cdn.performax.cz/acc/1.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
 ||cdn.performax.cz/acc/2.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
@@ -7524,6 +7525,7 @@ idnes.cz,~www.idnes.cz#@#[id^="r-hpa"]
 electropiknik.cz#@#.dcmads
 electropiknik.cz#@#.adform-adbox
 electropiknik.cz#@#a[href*=".adform.net/"]
+mail.centrum.cz###leftbanner_1
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
@@ -7541,7 +7543,8 @@ electropiknik.cz#@#a[href*=".adform.net/"]
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
-@@||mail.centrum.cz/img/advert.php^$subdocument,document,domain=mail.centrum.cz
+@@||mail.centrum.cz/img/advert.php^$subdocument,elemhide,genericblock,domain=mail.centrum.cz
+||i0.cz/reklama/bo/ads/email150x150-centrum.js$domain=mail.centrum.cz
 @@||c1.adform.net/imatch^$domain=electropiknik.cz
 @@||s1.adform.net/stoat^$domain=electropiknik.cz
 @@||adskeeper.co.uk/mghtml/framehtml^$document,subdocument,domain=opensubtitles.org
