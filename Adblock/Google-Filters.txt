@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: C1L6iezvQOF0YWdugGh+NQ
-! Version: 202011271400
+! Checksum: Zq7oqsMZOK0tPYpFxmDzeg
+! Version: 202011280200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 27 Nov 2020 14:00 UTC
+! Last modified: 28 Nov 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1405,6 +1405,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||pquuiokltzjpeg.com^
 ||premiumvertising.com^
 ||privacysearching.com^
+||propeller-tracking.com^
 ||proxyreducing.com^
 ||ptrqrnadg.com^
 ||pvptwhhkfmog.com^
@@ -1647,30 +1648,30 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||ad.doubleclick.net/ddm/trackclk/$popup,third-party
 ||adtng.com^$popup
 ||bravo-dog.com^$popup
-||cm.g.doubleclick.net^$popup,third-party
+||cm.g.doubleclick.net^$popup
 ||earandmarketing.com^$popup
-||fast-redirecting.com^$popup,third-party
+||fast-redirecting.com^$popup
 ||focuusing.com^$popup
 ||friendlyduck.com^$popup
-||googleads.g.doubleclick.net^$popup,third-party
+||googleads.g.doubleclick.net^$popup
 ||integral-marketing.com^$popup,third-party
 ||maomaotang.com^$popup,third-party
-||media-serving.com^$popup,third-party
+||media-serving.com^$popup
 ||mediaseeding.com^$popup,third-party
-||openadserving.com^$popup,third-party
+||openadserving.com^$popup
 ||pegloang.com^$popup
-||pixelsfighting.co^$popup,third-party
+||pixelsfighting.co^$popup
 ||predictivadvertising.com^$popup
 ||prmtracking.com^$popup
 ||psoomeeg.com^$popup
-||pubads.g.doubleclick.net^$popup,third-party
+||pubads.g.doubleclick.net^$popup
 ||punsong.com^$popup
-||quantomcoding.com^$popup,third-party
+||quantomcoding.com^$popup
 ||redirect18systemsg.com^$popup
-||srv2trking.com^$popup,third-party
+||srv2trking.com^$popup
 ||srvbytrking.com^$popup
 ||syndication.dynsrvtbg.com^$popup
-||twqiqiang.com^$popup,third-party
+||twqiqiang.com^$popup
 ||adtng.com^$third-party
 ||adultmediabuying.com^$third-party
 ||clockdisplaystoring.com^$third-party
