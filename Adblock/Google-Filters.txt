@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Zq7oqsMZOK0tPYpFxmDzeg
-! Version: 202011280200
+! Checksum: l+P/m3qMzSy/PF5t3QyTTw
+! Version: 202011281400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 28 Nov 2020 02:00 UTC
+! Last modified: 28 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2321,6 +2321,7 @@ hentai-imperia.org,naughtyblog.org##a[href^="http://goo.gl/"]
 alotporn.com##a[href^="http://www.fling.com/"]
 myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 ddlporn.org##a[href^="https://uploadgig.com/premium/"]
+alrincon.com,boobieblog.com,thenipslip.com,wetpussygames.com##canvas
 @@||9cache.com/piwik.$domain=9gag.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
 @@||banmancounselling.com/wp-content/themes/banman/
@@ -2339,7 +2340,7 @@ ddlporn.org##a[href^="https://uploadgig.com/premium/"]
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=fox35orlando.com|imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/ondemand/$xmlhttprequest,domain=sbs.com.au
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=9gag.com|accuweather.com|blastingnews.com|epaper.timesgroup.com|gamespot.com|independent.co.uk|theta.tv|webmd.com|womenshealthmag.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=9gag.com|accuweather.com|blastingnews.com|epaper.timesgroup.com|gamespot.com|independent.co.uk|indy100.com|theta.tv|webmd.com|womenshealthmag.com
 @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/webpagethumbnail?*&query=$script,~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
@@ -2460,7 +2461,7 @@ www.google.com#@##videoads
 @@||weatherbug.com/desktop-weather/*=728x90&
 @@||weatherbug.com/images/stickers/*/728x90/
 @@||weatherbug.com/style/stickers/*_728x90.css
-@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com
+@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com|nytimes.com
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||adfarm.mediaplex.com/ad/ck/$popup,domain=betwonga.com|comparison411.com|dealsplus.com|matched-bet.net|pcmag.com
 @@||ads.ellmountgaming.com/redirect.aspx?pid=*&bid=$popup
@@ -3020,7 +3021,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google-analytics.com/plugins/ua/ec.js$script,domain=health2000.co.nz
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
 @@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|playphrase.me|ryanair.com
-@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nflgamepass.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|postable.com|realestate.co.nz|rebtel.com|redbull.com|rockstargames.com|rollingstone.com|royalbank.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com
+@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|indy100.com|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nflgamepass.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|postable.com|realestate.co.nz|rebtel.com|redbull.com|rockstargames.com|rollingstone.com|royalbank.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
 @@||hobbyking.com^*/gtm.js$script,third-party
@@ -3035,7 +3036,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||puch-ersatzteile.at^*/google-analytics.min.js
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|nymag.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
@@ -4404,7 +4405,7 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@||autohdforyoutube.com^*/uk-cookie-consent-js$script,~third-party
 @@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
-@@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|laptopmag.com|livescience.com|livingetc.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|laptopmag.com|livescience.com|livingetc.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
 @@/url?*&source=$subdocument,domain=google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.cn|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.bz|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.nf|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.je|google.jo|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tk|google.tl|google.tm|google.tn|google.to|google.tt|google.vg|google.vu|google.ws
 @@/wp-content/js/googleplus-sign-in.js$script
 @@||about.me^*/googleplus?
