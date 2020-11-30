@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N2ZOOzg4z9/lYhQd+WmR2Q
-! Version: 202011291400
+! Checksum: 8SX6mlaP3crAms2ErT+xxA
+! Version: 202011300200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 29 Nov 2020 14:00 UTC
+! Last modified: 30 Nov 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2405,7 +2405,7 @@ alrincon.com,boobieblog.com,thenipslip.com,wetpussygames.com##canvas
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=pccomponentes.com
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|vlive.tv
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv.rakuten.co.jp|tver.jp|vlive.tv|wtk.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv.rakuten.co.jp|tver.jp|vlive.tv|wtk.pl
 ! Google
 @@||accounts.google.com/adwords/$domain=accounts.google.com
 @@||accounts.google.com^$document,subdocument,domain=adwords.google.com
