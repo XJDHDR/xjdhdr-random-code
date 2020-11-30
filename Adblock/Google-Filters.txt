@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8SX6mlaP3crAms2ErT+xxA
-! Version: 202011300200
+! Checksum: +RNUD4UUXU9Vl8J+uqPTbQ
+! Version: 202011301400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 30 Nov 2020 02:00 UTC
+! Last modified: 30 Nov 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1842,6 +1842,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 @@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.co|adyou.me
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heapfiles.com|vidoza.co|vidoza.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
+@@||googleapis.com^$script,stylesheet,domain=canyoublockit.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=shink.me|shon.xyz
 @@||ajax.googleapis.com^$script,domain=up-4ever.com|up-4ever.org
 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.com|up-4ever.org
@@ -2311,7 +2312,7 @@ dominationtube.com,gaysexarchive.com,skeezy.com,sticking.com##.sb-txt
 waybig.com##.sidebar_zing
 sexyandshocking.com##.sub-holder
 ero-advertising.com##[id][style]
-asspoint.com,babepedia.com,babesandstars.com,babesource.com,dachix.com,dbnaked.com,definebabe.com,freeones.com,fux.com,gaytube.com,gfycatporn.com,girlsnaked.net,javfor.me,mansurfer.com,newpornstarblogs.com,ok.porn,pichunter.com,porn.com,porndoe.com,pornerbros.com,pornhubpremium.com,pornoxo.com,pornstarchive.com,porntube.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,spankbang.com,str8upgayporn.com,the-new-lagoon.com,theanalist.info,tube8.com,wcareviews.com,xxxhdd.com,xxxonxxx.com,youjizz.com,youporn.com,yourdailypornstars.com##a[href*=".com/track/"]
+asspoint.com,babepedia.com,babesandstars.com,babesource.com,dachix.com,dbnaked.com,definebabe.com,freeones.com,fux.com,gaytube.com,gfycatporn.com,girlsnaked.net,javfor.me,mansurfer.com,newpornstarblogs.com,ok.porn,pichunter.com,porn-star.com,porn.com,porndoe.com,pornerbros.com,pornhubpremium.com,pornoxo.com,pornstarchive.com,porntube.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,spankbang.com,str8upgayporn.com,the-new-lagoon.com,theanalist.info,tube8.com,wcareviews.com,xxxhdd.com,xxxonxxx.com,youjizz.com,youporn.com,yourdailypornstars.com##a[href*=".com/track/"]
 faapy.com,hdzog.com,xcafe.com##a[href*="/cs/"]
 porndig.com##a[href*="/trackhit/"]
 porndig.com##a[href*="/zone_link/"]
@@ -3908,7 +3909,7 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
-||fundingchoicesmessages.google.com^$domain=gameblog.fr|telegram.hr
+||fundingchoicesmessages.google.com^$domain=gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
 ||yimg.com^*/guce.js
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
