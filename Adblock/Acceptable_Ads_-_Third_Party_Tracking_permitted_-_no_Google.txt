@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: obSACA+ELAqXMJCMolY26Q
-! Version: 202012010200
+! Checksum: hq045gN8cxTgn0uTHvZf9w
+! Version: 202012011400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Dec 2020 02:00 UTC
+! Last modified: 01 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6021,7 +6021,7 @@ broadwayworld.com,temp-mail.org#@#.ezoic-ad
 hltv.org#@#.f-col-top
 mako.co.il#@#.feed-ad
 siliconera.com,totalprosports.com,whosampled.com,hollywoodpq.com,meekcomic.com#@#.footer-ad
-chip.com.tr#@#.footerad
+chip.com.tr,futwiz.com#@#.footerad
 fortune.com#@#.fortune-ad-tag__leaderboard
 athensvoice.gr#@#.full-ad
 futbin.com#@#.g_ad
@@ -6478,6 +6478,11 @@ garagejournal.com##.ad > a
 ||calculatorcamera.com^$domain=sporcle.com
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||cdn.snigelweb.com/prebid/latest/prebid.js$domain=javacodegeeks.com
+@@||cdn.snigelweb.com/adconsent/adconsent*$domain=javacodegeeks.com
+@@||cdn.snigelweb.com/sncmp/latest/sncmp*$domain=javacodegeeks.com
+@@||geo-us.snigelweb.com/bp/$domain=javacodegeeks.com
+@@||geo-eu.snigelweb.com/bp/$domain=javacodegeeks.com
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
 @@||wordreference.com/*/publ/prebid*$domain=wordreference.com
@@ -6487,6 +6492,7 @@ garagejournal.com##.ad > a
 @@^wp-content/plugins/*/js/*.js$~third-party,domain=autooverload.com|bonvoyaged.com|lifestylogy.com
 @@^external/scripts/prebid$~third-party,domain=collinsdictionary.com
 @@||ads-api.ft.com/v2/$xmlhttprequest,domain=ft.com
+@@||tabstats.com/js/prebid*$domain=tabstats.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -10009,6 +10015,7 @@ yahoo.com#@##my-adsLREC4-base
 @@||yahoo.com/px.gif?ch=1$domain=yahoo.com
 @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
 @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
+@@||atwola.com/adcount*$image,domain=yahoo.com
 yahoo.com#@##sticky-lrec2-footer
 yahoo.com#@#.uba-container
 yahoo.com#@#.billboard-ads
