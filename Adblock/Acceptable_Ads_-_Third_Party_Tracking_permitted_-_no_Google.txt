@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Kccfu5+Xl1g04zHtuHxM6A
-! Version: 202011301400
+! Checksum: obSACA+ELAqXMJCMolY26Q
+! Version: 202012010200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Nov 2020 14:00 UTC
+! Last modified: 01 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1863,6 +1863,7 @@ cbs8.com#@#.grid__module-sizer_name_taboola
 eldesmarque.com#@#.adBanner
 clicrbs.com.br#@#.card-ad
 clicrbs.com.br#@#.ad-area
+lasicilia.it#@#.bannervcms
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7262,7 +7263,7 @@ societatea.ro#@#.quads-location
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
