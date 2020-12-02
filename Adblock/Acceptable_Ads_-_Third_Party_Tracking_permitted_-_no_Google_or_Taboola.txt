@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lrRu2ruDIzPDM75s0hrb8A
-! Version: 202012011400
+! Checksum: e2QE1P7P4h9UV0CrORAGqg
+! Version: 202012020200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 01 Dec 2020 14:00 UTC
+! Last modified: 02 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1808,6 +1808,7 @@ eldesmarque.com#@#.adBanner
 clicrbs.com.br#@#.card-ad
 clicrbs.com.br#@#.ad-area
 lasicilia.it#@#.bannervcms
+ouest-france.fr#@#.partenaire-externe
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -2778,6 +2779,7 @@ vinted.fr#@#.ad-container
 vinted.fr#@#.ad-leaderboard
 vinted.fr#@##ad-rectangle
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es#@#.add
+globo.com#@#.content-ads
 @@||viamichelin.fr/static/*/advertising/orange.html?width=728&height=90&prefix=2&$subdocument,domain=viamichelin.fr
 viamichelin.fr#@##advertising_728
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
@@ -3152,6 +3154,9 @@ wallapop.com##.home-pub-section-top
 @@||ads.rubiconproject.com/prebid/11366_$domain=redeglobo.globo.com
 @@||pa.rxthdr.com^*/c?publisherId=dec595f6-a081-4001-8b0f-6572368191ca&host=$domain=bloggbevakning.se|familjeliv.se
 @@||content.lwadm.com/lw/*/prebid.js$domain=blogg.se|tyda.se|nyheter24.se|mittlivpalandet.se|modette.se
+@@||ad.woman.mynavi.jp/js/news/prebid.js$domain=mynavi.jp
+@@||cdn2.mynvwm.com/wp-content/themes/mwp-parent/js/prebid.js$domain=mynavi.jp
+@@||ads.rubiconproject.com/prebid$domain=forzastyle.com
 wetteronline.de#@#.adplace
 wherevent.com#@#.ad_note
 singletrackworld.com#@##header-ad
@@ -7970,6 +7975,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.charlieintel.com^$domain=charlieintel.com,document
 @@||related.fortniteintel.com^$domain=fortniteintel.com
 @@||related.fortniteintel.com^$domain=fortniteintel.com,document
+@@||related.motorsport.com^$domain=motorsport.com
+@@||related.motorsport.com^$domain=motorsport.com,document
 @@||allthetests.com^$csp=script-src 'self' * blob: data:,domain=allthetests.com
 @@||twt-assets.washtimes.com/js/twt_app.$script,domain=washingtontimes.com
 @@||twt-assets.washtimes.com/v4/js/ads/config/story.$script,domain=washingtontimes.com
@@ -8284,6 +8291,7 @@ economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##bo
 economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##topAd
 chess.assistpub.com,chess.com#@#.sidebar-ad
 chess.assistpub.com,chess.com#@#.index-content-ad-wrapper
+motorsport.com#@#.ms-apb-dmpu
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
