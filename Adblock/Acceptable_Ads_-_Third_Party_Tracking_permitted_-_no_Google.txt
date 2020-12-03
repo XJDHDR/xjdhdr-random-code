@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wJIcvZWK/1B7G4zLojMKeg
-! Version: 202012030200
+! Checksum: wGhnkA1j27/NCaejuM7Mdw
+! Version: 202012031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Dec 2020 02:00 UTC
+! Last modified: 03 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2808,6 +2808,17 @@ thevarsity.ca#@#.ad-med-rect
 @@||berlingske.dk/adops/Prebid/PROD/prebid-config*.js$domain=berlingske.dk
 @@||js2.uai.com.br/headerbidding/aol-app-cri-rtb-rub-smt-teads/*/prebid.js$domain=uai.com.br
 @@||blog.with2.net/js/prebid*$domain=blog.with2.net
+@@||friday-ad.co.uk/bundles/fafrontend/js/advertisement.js$domain=friday-ad.co.uk
+@@||passback.free.fr/webmails/pub/$subdocument,domain=zimbra.free.fr
+@@||intermarkets.net/u/Intermarkets/AdFeedback/$script,domain=drudgereport.com
+@@||intermarkets.net/u/Intermarkets/DrudgeReport/$domain=drudgereport.com
+@@||passback.free.fr/webmails/pub/rc_free_$subdocument,domain=webmail.free.fr
+@@||viamichelin.fr/static/*/advertising/orange.html?width=728&height=90&prefix=2&$subdocument,domain=viamichelin.fr
+@@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
+||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
+@@||i.plug.it/banners/js/adv_lib_webmail70.js$domain=virgilio.it|libero.it
+@@||i.plug.it/iplug/js/lib/iol/analytics/ads/adv/_ads.js?$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
+@@||iolam.it/js/prebid.js$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -2836,13 +2847,112 @@ vinted.fr#@#.ad-leaderboard
 vinted.fr#@##ad-rectangle
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es#@#.add
 globo.com#@#.content-ads
-@@||viamichelin.fr/static/*/advertising/orange.html?width=728&height=90&prefix=2&$subdocument,domain=viamichelin.fr
 viamichelin.fr#@##advertising_728
-@@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
-||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
-@@||i.plug.it/banners/js/adv_lib_webmail70.js$domain=virgilio.it|libero.it
-@@||i.plug.it/iplug/js/lib/iol/analytics/ads/adv/_ads.js?$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
-@@||iolam.it/js/prebid.js$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
+wetteronline.de#@#.adplace
+wherevent.com#@#.ad_note
+singletrackworld.com#@##header-ad
+makeuseof.com#@#.wdt_ads
+thegatewaypundit.com#@#.ad_leaderboard_atf
+fark.com#@##rightAd300x250
+fark.com#@##rightAd300x250Lower
+fark.com#@#.ad_container
+fark.com#@##topAd728x90
+aliceadsl.fr,aliceadsl.glamourparis.com,aliceadsl.closermag.fr,aliceadsl.lemonde.fr,aliceadsl.topsante.com#@##pub_pave
+tvtropes.org#@#.ad-item
+tvtropes.org#@#.ad-wrapper
+gameblog.fr#@#.internal_ad
+gameblog.fr#@#.noPremium
+merrjep.com#@##rightAds
+businessadvicesource.com#@##adrotate_widgets-3
+businessadvicesource.com#@#.widget_adrotate_widgets
+portail.free.fr#@#div[style="margin: 0 auto;width: 1000px;background-color:#fff;height:300px;\a   border-bottom: 4px solid #2d98e0"]
+portail.free.fr#@#.troiscent
+mensfitness.com#@##top-ad
+mensfitness.com,muscleandfitness.com#@#div[id^="dfp-ad-"]
+mensfitness.com#@#.sidebar > .region-inner > div:first-child
+mensfitness.com#@#.sticky-ad
+mensfitness.com,muscleandfitness.com#@#.dfp-tag-wrapper
+paroles.net#@#.header-ad-wrapper
+slickdeals.net,washingtontimes.com#@#.ad
+slickdeals.net#@#.adunit
+tomshardware.com,tomshardware.fr,tomsguide.fr,tomshardware.co.uk,tomshardware.de,tomsitpro.com#@##topAd
+tomshardware.com,tomshardware.fr,tomsguide.fr,tomshardware.co.uk,tomshardware.de,tomsitpro.com#@#.bomAd
+tomshardware.com,tomshardware.fr,tomsguide.fr#@#.zonepub
+newsarama.com#@##ad-leaderboard
+space.com#@#.ad-slot
+meteo60.fr#@#.afs_ads
+meilleurvendeur.com##.soarad
+meilleurvendeur.com#@##adblock2
+maison.com,gmx.com#@#.ad-banner
+maison.com#@##ad-banner
+linguee.de#@#.horizontalAdText
+frequence-radio.com#@##pub_listing_top
+frequence-radio.com#@##wrap_pub_listing
+thesalarycalculator.co.uk#@#.widead
+hearthpwn.com#@#.ad-atf
+hearthpwn.com#@#.ad-atf-leaderboard
+hearthpwn.com#@#.ad-bin
+hearthpwn.com#@#.ad-container
+hearthpwn.com#@#.ad-container-footer
+hearthpwn.com#@#.ad-leaderboard
+hearthpwn.com#@#.ad-main-med-rect-footer
+hearthpwn.com#@#.ad-placement
+hearthpwn.com#@#.atf-ad-leaderboard
+paruvendu.fr#@#.sidebar-advertisement
+meteofrance.com#@#.sidebar-ad
+quizzclub.ru#@#.adv
+zaskakujaca.pl#@#.pagefair-acceptable
+zaskakujaca.pl#@#.static-ad
+the-gadgeteer.com#@#.header_ad
+speedtest.net#@#.ad-stack
+speedtest.net#@##ad-top-wrap
+speedtest.net#@#.ad-horizontal
+speedtest.net#@#.ad-space
+speedtest.net#@#.lbc-ad
+speedtest.net#@#.lbc
+speedtest.net#@#div > div > iframe[id]
+speedtest.net#@##ad-horizontal
+cdkitchen.com#@#.ad300x600
+cdkitchen.com#@#.ad728x90
+phonearena.com#@#.s_ad_160x600
+phonearena.com#@#.s_ad_300x250
+phonearena.com#@##top_banner
+contra-magazin.com#@#.ads-top
+toppriser.dk,onlinepriset.se,suchepreise.de#@#.sidebar-ads
+starmagazine.com,nationalenquirer.com#@#.widget-gpt2-ami-ads
+starmagazine.com#@##gpt2_ads_widget-6
+rambler.ru#@#div[class^="adfox-ban_"]
+rambler.ru#@#.mixednews__aside > :not(.mixednews-aside-item_traffic-informer)
+rambler.ru#@#.aside-banners__banner-static
+androidgalaxys.net#@#.adinjwidget
+coiffurefacile.fr#@#.widget-ad
+linguee.de#@#.verticalAdText
+gmx.com#@#.ad-sky
+gmx.com#@#.ad-content
+iminent.com#@#.ad_placement
+bradsdeals.com#@#.bottom-ad-container
+bradsdeals.com#@#.sidebar-ad-slot
+rbc.ru#@#.js-rbcslider-banner
+mamba.ru,love.mail.ru#@#.banner_left
+mamba.ru,love.mail.ru#@#.adv-slide-block-wrapper
+chip.de#@##contentad-story-bottom-1
+planet.fr,medisite.fr,femmesplus.fr#@#.block-gc-ad
+medisite.fr,planet.fr,femmesplus.fr#@#.label-pub-span
+medisite.fr#@#.region > div > img
+medisite.fr#@##block-gc-ad-pave_haut
+i-love-harvard.com#@##criteoDiv2
+telegrafi.com#@#.widget_ad_widget
+washingtontimes.com#@##ad-secondary-sidebar-1
+washingtontimes.com#@##ad-lead
+libero.it#@##admputop
+libero.it#@##adslider
+libero.it#@#.hp_adv300x250
+libero.it#@#.hp_advP1
+gmx.net#@#.left-col__bottom
+redeglobo.globo.com#@#.publicidade
+bloggbevakning.se#@#.ad-panorama
+! Hidden for compliance
+secretsdujeu.com###skyscraper > div + hr + div:nth-child(3) > div:not([id]):not([class]) > div[class] > div[id]
 ! temp
 wallapop.com##.pub-wall-3-wrapper
 wallapop.com##.home-pub-section-top
@@ -3213,114 +3323,6 @@ wallapop.com##.home-pub-section-top
 @@||ad.woman.mynavi.jp/js/news/prebid.js$domain=mynavi.jp
 @@||cdn2.mynvwm.com/wp-content/themes/mwp-parent/js/prebid.js$domain=mynavi.jp
 @@||ads.rubiconproject.com/prebid$domain=forzastyle.com
-wetteronline.de#@#.adplace
-wherevent.com#@#.ad_note
-singletrackworld.com#@##header-ad
-makeuseof.com#@#.wdt_ads
-thegatewaypundit.com#@#.ad_leaderboard_atf
-fark.com#@##rightAd300x250
-fark.com#@##rightAd300x250Lower
-fark.com#@#.ad_container
-fark.com#@##topAd728x90
-aliceadsl.fr,aliceadsl.glamourparis.com,aliceadsl.closermag.fr,aliceadsl.lemonde.fr,aliceadsl.topsante.com#@##pub_pave
-tvtropes.org#@#.ad-item
-tvtropes.org#@#.ad-wrapper
-gameblog.fr#@#.internal_ad
-gameblog.fr#@#.noPremium
-merrjep.com#@##rightAds
-businessadvicesource.com#@##adrotate_widgets-3
-businessadvicesource.com#@#.widget_adrotate_widgets
-portail.free.fr#@#div[style="margin: 0 auto;width: 1000px;background-color:#fff;height:300px;\a   border-bottom: 4px solid #2d98e0"]
-portail.free.fr#@#.troiscent
-mensfitness.com#@##top-ad
-mensfitness.com,muscleandfitness.com#@#div[id^="dfp-ad-"]
-mensfitness.com#@#.sidebar > .region-inner > div:first-child
-mensfitness.com#@#.sticky-ad
-mensfitness.com,muscleandfitness.com#@#.dfp-tag-wrapper
-paroles.net#@#.header-ad-wrapper
-slickdeals.net,washingtontimes.com#@#.ad
-slickdeals.net#@#.adunit
-tomshardware.com,tomshardware.fr,tomsguide.fr,tomshardware.co.uk,tomshardware.de,tomsitpro.com#@##topAd
-tomshardware.com,tomshardware.fr,tomsguide.fr,tomshardware.co.uk,tomshardware.de,tomsitpro.com#@#.bomAd
-tomshardware.com,tomshardware.fr,tomsguide.fr#@#.zonepub
-newsarama.com#@##ad-leaderboard
-space.com#@#.ad-slot
-meteo60.fr#@#.afs_ads
-meilleurvendeur.com##.soarad
-meilleurvendeur.com#@##adblock2
-maison.com,gmx.com#@#.ad-banner
-maison.com#@##ad-banner
-linguee.de#@#.horizontalAdText
-frequence-radio.com#@##pub_listing_top
-frequence-radio.com#@##wrap_pub_listing
-thesalarycalculator.co.uk#@#.widead
-hearthpwn.com#@#.ad-atf
-hearthpwn.com#@#.ad-atf-leaderboard
-hearthpwn.com#@#.ad-bin
-hearthpwn.com#@#.ad-container
-hearthpwn.com#@#.ad-container-footer
-hearthpwn.com#@#.ad-leaderboard
-hearthpwn.com#@#.ad-main-med-rect-footer
-hearthpwn.com#@#.ad-placement
-hearthpwn.com#@#.atf-ad-leaderboard
-paruvendu.fr#@#.sidebar-advertisement
-meteofrance.com#@#.sidebar-ad
-quizzclub.ru#@#.adv
-zaskakujaca.pl#@#.pagefair-acceptable
-zaskakujaca.pl#@#.static-ad
-the-gadgeteer.com#@#.header_ad
-speedtest.net#@#.ad-stack
-speedtest.net#@##ad-top-wrap
-speedtest.net#@#.ad-horizontal
-speedtest.net#@#.ad-space
-speedtest.net#@#.lbc-ad
-speedtest.net#@#.lbc
-speedtest.net#@#div > div > iframe[id]
-speedtest.net#@##ad-horizontal
-cdkitchen.com#@#.ad300x600
-cdkitchen.com#@#.ad728x90
-phonearena.com#@#.s_ad_160x600
-phonearena.com#@#.s_ad_300x250
-phonearena.com#@##top_banner
-contra-magazin.com#@#.ads-top
-toppriser.dk,onlinepriset.se,suchepreise.de#@#.sidebar-ads
-starmagazine.com,nationalenquirer.com#@#.widget-gpt2-ami-ads
-starmagazine.com#@##gpt2_ads_widget-6
-rambler.ru#@#div[class^="adfox-ban_"]
-rambler.ru#@#.mixednews__aside > :not(.mixednews-aside-item_traffic-informer)
-rambler.ru#@#.aside-banners__banner-static
-androidgalaxys.net#@#.adinjwidget
-coiffurefacile.fr#@#.widget-ad
-linguee.de#@#.verticalAdText
-gmx.com#@#.ad-sky
-gmx.com#@#.ad-content
-iminent.com#@#.ad_placement
-bradsdeals.com#@#.bottom-ad-container
-bradsdeals.com#@#.sidebar-ad-slot
-rbc.ru#@#.js-rbcslider-banner
-mamba.ru,love.mail.ru#@#.banner_left
-mamba.ru,love.mail.ru#@#.adv-slide-block-wrapper
-chip.de#@##contentad-story-bottom-1
-planet.fr,medisite.fr,femmesplus.fr#@#.block-gc-ad
-medisite.fr,planet.fr,femmesplus.fr#@#.label-pub-span
-medisite.fr#@#.region > div > img
-medisite.fr#@##block-gc-ad-pave_haut
-i-love-harvard.com#@##criteoDiv2
-telegrafi.com#@#.widget_ad_widget
-washingtontimes.com#@##ad-secondary-sidebar-1
-washingtontimes.com#@##ad-lead
-libero.it#@##admputop
-libero.it#@##adslider
-libero.it#@#.hp_adv300x250
-libero.it#@#.hp_advP1
-gmx.net#@#.left-col__bottom
-redeglobo.globo.com#@#.publicidade
-bloggbevakning.se#@#.ad-panorama
-@@||friday-ad.co.uk/bundles/fafrontend/js/advertisement.js$domain=friday-ad.co.uk
-@@||passback.free.fr/webmails/pub/$subdocument,domain=zimbra.free.fr
-@@||intermarkets.net/u/Intermarkets/AdFeedback/$script,domain=drudgereport.com
-@@||intermarkets.net/u/Intermarkets/DrudgeReport/$domain=drudgereport.com
-@@||passback.free.fr/webmails/pub/rc_free_$subdocument,domain=webmail.free.fr
 ! Criteo sponsored products on retailer websites
 !:partner_token=Curse
 !:partner_id=f615659f2fc7ce11
@@ -7269,6 +7271,8 @@ meragk.in#@#AMP-AD
 xaluanvn.com#@#.section-ads
 gamevui.vn#@#.adbox
 societatea.ro#@#.quads-location
+informateperu.pe#@#.ads-wrapper
+informateperu.pe#@#.ads_code
 @@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
 @@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com

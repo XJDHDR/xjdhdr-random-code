@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TEBdfgk6Xj6iBx4U/GKrrQ
-! Version: 202012030200
+! Checksum: 4ssCl8ROBgGzvr6lIdxJzw
+! Version: 202012031400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 03 Dec 2020 02:00 UTC
+! Last modified: 03 Dec 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -191,7 +191,7 @@
 /toigoogleleads_
 /vifGoogleAd.
 /widgetadsense.
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.lapalingo.com|~ads.lordlucky.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ;adsense_
 =showsearchgoogleads&
 _adsense.
@@ -1405,7 +1405,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||pquuiokltzjpeg.com^
 ||premiumvertising.com^
 ||privacysearching.com^
-||propeller-tracking.com^
 ||proxyreducing.com^
 ||ptrqrnadg.com^
 ||pvptwhhkfmog.com^
@@ -2606,6 +2605,7 @@ _GoogleTagManager2/
 ! google tracking
 /cdn-cgi/pe/bag2?*.google-analytics.com
 /cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js
+||propeller-tracking.com^
 ||24log.com^$third-party
 ||360tag.com^$third-party
 ||77tracking.com^$third-party
@@ -2691,7 +2691,6 @@ _GoogleTagManager2/
 ||otracking.com^$third-party
 ||performtracking.com^$third-party
 ||postclickmarketing.com^$third-party
-||propeller-tracking.com^$third-party
 ||pulleymarketing.com^$third-party
 ||pulselog.com^$third-party
 ||qzlog.com^$third-party
