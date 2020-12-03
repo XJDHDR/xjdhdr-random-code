@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0V1va/HcHjkVcooLJClH6w
-! Version: 202012021400
+! Checksum: wJIcvZWK/1B7G4zLojMKeg
+! Version: 202012030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Dec 2020 14:00 UTC
+! Last modified: 03 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6636,11 +6636,11 @@ viamichelin.fr##.ads > .magazine-item
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=54343
 ! Grupa ZPR ads
-@@||smartadserver.com/config.js?nwid=$script,domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
-@@||smart.idmnet.pl^$domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
-eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.pl,voxfm.pl,muratordom.pl,gazetki-promocyjne.net.pl,poradnikzdrowie.pl,eskainfo.pl,mjakmama24.pl,menshealth.pl,auto-motor-i-sport.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl#@#[id^="aswift_"]
+@@||smartadserver.com/config.js?nwid=$script,domain=lubimyczytac.pl|eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
+@@||smart.idmnet.pl^$domain=lubimyczytac.pl|eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
+lubimyczytac.pl,eska.pl,radiowawa.pl,wmeritum.pl,urzadzamy.pl,se.pl,eskarock.pl,wymarzonyogrod.pl,voxfm.pl,muratordom.pl,gazetki-promocyjne.net.pl,poradnikzdrowie.pl,eskainfo.pl,mjakmama24.pl,menshealth.pl,auto-motor-i-sport.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl#@#[id^="aswift_"]
 se.pl#@#div[class^="zpr_inside"]
-/js/ads.js^$script,domain=eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
+/js/ads.js^$script,domain=lubimyczytac.pl|eska.pl|radiowawa.pl|wmeritum.pl|urzadzamy.pl|se.pl|eskarock.pl|wymarzonyogrod.pl|voxfm.pl|muratordom.pl|gazetki-promocyjne.net.pl|poradnikzdrowie.pl|eskainfo.pl|mjakmama24.pl|menshealth.pl|auto-motor-i-sport.pl|womenshealth.pl|runners-world.pl|motocykl-online.pl
 !:partner_token=skyrie.net
 !:partner_id=3279a14bf184152d
 !:type=partner
