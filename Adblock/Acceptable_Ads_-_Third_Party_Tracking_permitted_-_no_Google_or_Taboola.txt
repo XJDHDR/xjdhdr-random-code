@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cIKPTgOFqtjweyXAK796Gg
-! Version: 202012031400
+! Checksum: /bb/h3+7TZQaD5QsXCJCgg
+! Version: 202012040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Dec 2020 14:00 UTC
+! Last modified: 04 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1239,8 +1239,6 @@ indiewire.com#@#.outbrain-widget
 @@||adition.com/*boxoutbrain$script,domain=gmx.net|web.de
 @@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
 @@||*logo_mediamond_m.gif$image,domain=ilgiornale.it|meteo.it|sportmediaset.mediaset.it
-@@||vice-web-statics-cdn.vice.com/vendor/ad-lib/v2.6.0/vice-ad-lib.js$script,domain=vice.com
-@@||vice-web-statics-cdn.vice.com/vendor/ad-lib/vice/vice-ad-lib-vice-article-next-config.json$domain=vice.com
 focus.de##.AdsRec
 focus.de##.AD_area
 focus.de##.ADBox
@@ -2893,7 +2891,7 @@ libero.it#@##adslider
 libero.it#@#.hp_adv300x250
 libero.it#@#.hp_advP1
 gmx.net#@#.left-col__bottom
-redeglobo.globo.com#@#.publicidade
+globo.com#@#.publicidade
 bloggbevakning.se#@#.ad-panorama
 ! Hidden for compliance
 secretsdujeu.com###skyscraper > div + hr + div:nth-child(3) > div:not([id]):not([class]) > div[class] > div[id]
@@ -3261,7 +3259,7 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/afr.php?*zoneid=403233&^$domain=leboncoin.fr
 @@||criteo.com/delivery/ajs.php?*zoneid=1315988&$domain=viamichelin.fr
 @@||motor-talk.de/polly/static/scripts/prebid_v4.5.0.js$domain=motor-talk.de
-@@||ads.rubiconproject.com/prebid/11366_$domain=redeglobo.globo.com
+@@||ads.rubiconproject.com/prebid/11366_$domain=globo.com
 @@||pa.rxthdr.com^*/c?publisherId=dec595f6-a081-4001-8b0f-6572368191ca&host=$domain=bloggbevakning.se|familjeliv.se
 @@||content.lwadm.com/lw/*/prebid.js$domain=blogg.se|tyda.se|nyheter24.se|mittlivpalandet.se|modette.se
 @@||ad.woman.mynavi.jp/js/news/prebid.js$domain=mynavi.jp
@@ -6444,6 +6442,8 @@ garagejournal.com##.ad > a
 @@^external/scripts/prebid$~third-party,domain=collinsdictionary.com
 @@||ads-api.ft.com/v2/$xmlhttprequest,domain=ft.com
 @@||tabstats.com/js/prebid*$domain=tabstats.com
+@@||vice-web-statics-cdn.vice.com/vendor/ad-lib^$script,xmlhttprequest,domain=vice.com
+@@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib^$xmlhttprequest,domain=vice.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
