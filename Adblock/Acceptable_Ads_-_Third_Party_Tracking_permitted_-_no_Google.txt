@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gPVhFzOj+ZQfHyH3k7q34g
-! Version: 202012041400
+! Checksum: ixdH9rBf+Ebj7u+Nk7W0Aw
+! Version: 202012050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Dec 2020 14:00 UTC
+! Last modified: 05 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6296,6 +6296,12 @@ ft.com#@#.above-header-advert
 ft.com#@#.o-ads--center
 ft.com#@#.o-ads
 ft.com#@#.sidebar-advert
+teamworld.it#@#.gptslot
+planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-pave-haut
+planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml
+planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-centre-1
+planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-droite-1
+planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -7334,6 +7340,9 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 @@||coub.com^$domain=mail.ru|sportmail.ru
 @@||vk.com^$domain=mail.ru|sportmail.ru
 @@||criteo.com/delivery/r/afr.php$subdocument,document,domain=mail.ru|sportmail.ru|mradx.net
+@@||adriver.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||adhigh.net^$image,domain=mail.ru|sportmail.ru|mradx.net
+@@||sravni.ru^$domain=mail.ru|sportmail.ru|mradx.net
 mail.ru,sportmail.ru#@##advWrapper
 mail.ru,sportmail.ru#@##yandex_ad
 mail.ru,sportmail.ru#@#.adsblock
@@ -7395,6 +7404,11 @@ mail.ru,sportmail.ru#@#div[id^="yandex_rtb"]
 mail.ru,sportmail.ru#@#iframe[width="240"][height="400"]
 mail.ru,sportmail.ru#@#img[width="240"][height="200"]
 mail.ru,sportmail.ru#@#tr > .daynews__spring
+mail.ru,sportmail.ru#@#.js-fixed-panel > .box
+mail.ru,sportmail.ru#@#.article__item_slot
+mail.ru,sportmail.ru#@#.rb_body
+mail.ru,sportmail.ru#@#.adsbox
+mail.ru,sportmail.ru#@#.box_double ~ .box_double
 ! Main
 mail.ru#@#.pulse-lenta
 mail.ru#@#.pulse-lenta a[href*="t.mail.ru/redir"]
@@ -7410,6 +7424,10 @@ auto.mail.ru#@#.rb_loaded.rb_main-240x400.js-module
 auto.mail.ru#@#[class*="grid"] > .grid__item_banner
 auto.mail.ru#@#body > div div > center div[class^="rb-criteo-"]
 auto.mail.ru#@#div[data-adq-id]:not(.layout)
+auto.mail.ru#@#.article__item > p:-abp-contains(/P.S.+(ОСАГО|каско)/i)
+auto.mail.ru#@#.pm-toolbar a[href="https://auto.mail.ru/info/insurance/"]
+auto.mail.ru#@#a[href="/info/osago/"]
+auto.mail.ru#@#a[href="https://auto.mail.ru/info/osago/"]
 ! Clouds (without mail)
 cloud.mail.ru#@#.content__along > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
 cloud.mail.ru#@#.public__content > div[id]:not(#react-public-upload):not([title]):not([class]):not([data-classes])
@@ -7418,6 +7436,8 @@ cloud.mail.ru#@#.w-public__content > .b-layout div[id][class][style="width: 240p
 deti.mail.ru#@#.cols__inner > [data-module="Toggle.comments"] ~ div[class^="margin_bottom_"]
 ! Home, sweet home
 dom.mail.ru#@#.cols__inner > .article ~ .margin_top_20
+dom.mail.ru#@#.cols__inner > .root-Article ~ .margin_top_20
+dom.mail.ru#@#div[data-qa="ArticlesList"] > [data-qa="ArticleThumb"] ~ :not([data-qa="ArticleThumb"] )
 ! Mail
 e.mail.ru#@##app-canvas .layout__overflow-container > .advert-column > .slot
 e.mail.ru#@##app-canvas .layout__overflow-container > .slot
@@ -7478,7 +7498,6 @@ realty.mail.ru#@#div[class][data-module^="TopMail.Special."]
 tv.mail.ru#@#.rbtopblock
 tv.mail.ru#@#div[class][id^="mailru"]
 ! Sport
-sportmail.ru#@#.box_double ~ .box_double
 sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
