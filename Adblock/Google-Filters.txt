@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JYU5aMh8Q/req8iE8ERG1A
-! Version: 202012080200
+! Checksum: rCQvQ4yObx92XE+zIEXIGA
+! Version: 202012081400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Dec 2020 02:00 UTC
+! Last modified: 08 Dec 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4068,11 +4068,13 @@ lightreading.com###mktng_popin
 bleacherreport.com,macworld.com,myjewishlearning.com,pcworld.com,techhive.com,theatlantic.com###newsletters
 africanreporter.co.za,albertonrecord.co.za,alexnews.co.za,barbertontimes.co.za,bedfordviewedenvalenews.co.za,benonicitytimes.co.za,bereamail.co.za,boksburgadvertiser.co.za,brakpanherald.co.za,capricornreview.co.za,carletonvilleherald.com,citybuzz.co.za,comarochronicle.co.za,corridorgazette.co.za,estcourtnews.co.za,eyethunews.co.za,fourwaysreview.co.za,germistoncitynews.co.za,hazyviewherald.co.za,heidelbergnigelheraut.co.za,highvelder.co.za,highwaymail.co.za,joburgeastexpress.co.za,kathorusmail.co.za,kemptonexpress.co.za,kormorant.co.za,krugersdorpnews.co.za,ladysmithgazette.co.za,letabaherald.co.za,maritzburgsun.co.za,midrandreporter.co.za,newcastleadvertiser.co.za,northcliffmelvilletimes.co.za,northcoastcourier.co.za,northeasterntribune.co.za,northernnatalcourier.co.za,northglennews.co.za,parysgazette.co.za,phoenixsun.co.za,potchefstroomherald.co.za,publiceyemaritzburg.co.za,randburgsun.co.za,randfonteinherald.co.za,rekordcenturion.co.za,rekordeast.co.za,rekordmoot.co.za,rekordnorth.co.za,reviewonline.co.za,ridgetimes.co.za,risingsunchatsworth.co.za,risingsunlenasia.co.za,risingsunoverport.co.za,roodepoortnorthsider.co.za,roodepoortrecord.co.za,rosebankkillarneygazette.co.za,sandtonchronicle.co.za,sedibengster.com,southcoastherald.co.za,southcoastsun.co.za,southerncourier.co.za,southlandssun.co.za,sowetourban.co.za,springsadvertiser.co.za,standertonadvertiser.co.za,tembisan.co.za,vaalweekblad.com,vryheidherald.co.za,westside-eldos.co.za,witbanknews.co.za,zululandobserver.co.za###nl-main
 appstorm.net,artnet.com,beforeitsnews.com,biographile.com,celebrity.red,dailygood.org,digg.com,doctortipster.com,dumblittleman.com,freemake.com,freshtechweb.com,fuelsandlubes.com,heavy.com,leftturn.org,lifehack.org,marineelectronics.com,maximumpc.com,michigandaily.com,nexustabletcentral.com,sfgate.com,stoppress.co.nz,techieapps.com,technostall.com,techsplurge.com,the-scientist.com,theamericanscholar.org,theatlantic.com,thinkprogress.org,tv.com,wakoopa.com,worldwatchmonitor.org,yahoo.com,yibada.com###subscribe
+digg.com###subscribePromotion
 ecnmag.com###subscription-newsletter-mainContent
 powerlineblog.com###text-12
 aranews.net,infrastructurene.ws,powerlineblog.com,propertywheel.co.za###text-6
 gohacking.com##.GH_sidebar_optin_inr
 lamag.com,texasmonthly.com##.article-subscription
+digg.com##.cta-stories
 digg.com##.editions-promo
 sassyhongkong.com,sassymanila.com##.entry-subscribe
 mygaming.co.za##.form-container

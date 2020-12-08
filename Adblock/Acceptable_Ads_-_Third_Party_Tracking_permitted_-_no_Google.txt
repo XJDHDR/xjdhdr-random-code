@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: winkGgiFX7K4Mwo9J55YTA
-! Version: 202012080200
+! Checksum: wZU2Bvn1DbWuXEiSxb4W4A
+! Version: 202012081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Dec 2020 02:00 UTC
+! Last modified: 08 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8274,7 +8274,7 @@ seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
 ghacks.net#@#.ghacks-ad
 comingsoon.net,gamerevolution.com,mandatory.com#@#.gpt-ad
-forbes.com,hannity.com,thestudentroom.co.uk#@#.header-ad
+timesofindia.indiatimes.com,forbes.com,hannity.com,thestudentroom.co.uk#@#.header-ad
 inquisitr.com#@#.iab
 247wallst.com#@#.iframe-ad
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.js_contained-ad-container
@@ -8377,6 +8377,8 @@ economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##to
 chess.assistpub.com,chess.com#@#.sidebar-ad
 chess.assistpub.com,chess.com#@#.index-content-ad-wrapper
 motorsport.com#@#.ms-apb-dmpu
+timesofindia.indiatimes.com#@#.ad-widget
+m.timesofindia.com,djhungama.net,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamrreview.com,lolcounter.com,rodalenews.com,timesofindia.com,weathernationtv.com,webmaster-source.com#@#.ad1
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
