@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wZU2Bvn1DbWuXEiSxb4W4A
-! Version: 202012081400
+! Checksum: DFV/Hzp4Xzc8ljEwztLv2Q
+! Version: 202012090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Dec 2020 14:00 UTC
+! Last modified: 09 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6302,6 +6302,8 @@ planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-centre-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-droite-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
+gematsu.com#@##ad-container-1
+gematsu.com#@##ad-container-2
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -7634,7 +7636,7 @@ mail.centrum.cz###leftbanner_1
 @@||fw.adsafeprotected.com^$domain=electropiknik.cz
 @@||2mdn.net^$domain=electropiknik.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
-@@||cdn.performax.cz/sssp/$domain=extra.cz
+@@||cdn.performax.cz/sssp/$domain=extra.cz|centrum.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||mail.centrum.cz/img/advert.php^$subdocument,elemhide,genericblock,domain=mail.centrum.cz
 ||i0.cz/reklama/bo/ads/email150x150-centrum.js$domain=mail.centrum.cz
