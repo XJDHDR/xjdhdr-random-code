@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kFoPvlpAhPlq4K2FwagEIQ
-! Version: 202012091400
+! Checksum: wb3UL9hUN2Eyx2IjTM0yOg
+! Version: 202012100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Dec 2020 14:00 UTC
+! Last modified: 10 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5859,7 +5859,7 @@ colourlovers.com#@##ga-below-header
 commercialobserver.com,eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,theoi.com,wowinterface.com#@##header-ad
 tecmint.com#@##header-ads
 parkers.co.uk#@##headerAd
-dnd-wiki.org#@##headerad
+tollypics.com,dnd-wiki.org#@##headerad
 itstillworks.com#@##inline-ad
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
 wowhead.com#@##main > .blocks
@@ -6304,6 +6304,7 @@ planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-droite-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
 gematsu.com#@##ad-container-1
 gematsu.com#@##ad-container-2
+tollypics.com#@#.rightad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -7617,33 +7618,34 @@ idnes.cz,~www.idnes.cz,expres.cz#@#a[href*="utm_medium%3Dbanner%"], a[href*="lea
 idnes.cz,~www.idnes.cz,expres.cz#@#a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
 idnes.cz,~www.idnes.cz#@#[data-cy="ad-content"]
 idnes.cz,~www.idnes.cz#@#[id^="r-hpa"]
-electropiknik.cz#@#.dcmads
-electropiknik.cz#@#.adform-adbox
-electropiknik.cz#@#a[href*=".adform.net/"]
+lidovky.cz,electropiknik.cz#@#.dcmads
+lidovky.cz,electropiknik.cz#@#.adform-adbox
+lidovky.cz,electropiknik.cz#@#a[href*=".adform.net/"]
 mail.centrum.cz###leftbanner_1
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script
 @@||c.imedia.cz/retargeting?$image
-@@||adx.adform.net^$domain=electropiknik.cz
-@@||track.adform.net^$domain=electropiknik.cz
-@@||adform.net/banners^$domain=electropiknik.cz
-@@||adx.adform.net/adx^$domain=electropiknik.cz
-@@||cm.adform.net^$domain=electropiknik.cz
-@@||cdn.performax.cz/acc/adx_acc.js$domain=electropiknik.cz
-@@||static.adsafeprotected.com^$domain=electropiknik.cz
-@@||dt.adsafeprotected.com^$domain=electropiknik.cz
-@@||fw.adsafeprotected.com^$domain=electropiknik.cz
-@@||2mdn.net^$domain=electropiknik.cz
+@@||adx.adform.net^$domain=lidovky.cz|electropiknik.cz
+@@||track.adform.net^$domain=lidovky.cz|electropiknik.cz
+@@||adform.net/banners^$domain=lidovky.cz|electropiknik.cz\
+@@||cm.adform.net^$domain=lidovky.cz|electropiknik.cz
+@@||cdn.performax.cz/acc/adx_acc.js$domain=lidovky.cz|electropiknik.cz
+@@||static.adsafeprotected.com^$domain=lidovky.cz|electropiknik.cz
+@@||dt.adsafeprotected.com^$domain=lidovky.cz|electropiknik.cz
+@@||fw.adsafeprotected.com^$domain=lidovky.cz|electropiknik.cz
+@@||2mdn.net^$domain=lidovky.cz|electropiknik.cz
 @@||cdn.performax.cz/sssp.gif?$domain=extra.cz
 @@||cdn.performax.cz/sssp/$domain=extra.cz|centrum.cz
 @@||delivery.performax.cz/halfpage_2/$script,domain=electropiknik.cz
 @@||mail.centrum.cz/img/advert.php^$subdocument,elemhide,genericblock,domain=mail.centrum.cz
 ||i0.cz/reklama/bo/ads/email150x150-centrum.js$domain=mail.centrum.cz
-@@||c1.adform.net/imatch^$domain=electropiknik.cz
-@@||s1.adform.net/stoat^$domain=electropiknik.cz
+@@||c1.adform.net/imatch^$domain=lidovky.cz|electropiknik.cz
+@@||s1.adform.net/stoat^$domain=lidovky.cz|electropiknik.cz
 @@||adskeeper.co.uk/mghtml/framehtml^$document,subdocument,domain=opensubtitles.org
 @@||mg.mgid.com/mghtml/framehtml/*/antiadblock.$subdocument,document,domain=ortsa.gr|superdad.gr
+@@||s1.adform.net/banners/scripts/assets/images/OBA/$domain=lidovky.cz
+@@||s1.adform.net/banners/scripts/dt$domain=lidovky.cz
 !:partner_token=newsmonkey.be
 !:partner_id=0ebf44a31b6e35b4
 !:type=partner
