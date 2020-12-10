@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wb3UL9hUN2Eyx2IjTM0yOg
-! Version: 202012100200
+! Checksum: OLYuDMZ+UM8yW7B312CcQw
+! Version: 202012101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Dec 2020 02:00 UTC
+! Last modified: 10 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7628,7 +7628,7 @@ mail.centrum.cz###leftbanner_1
 @@||c.imedia.cz/retargeting?$image
 @@||adx.adform.net^$domain=lidovky.cz|electropiknik.cz
 @@||track.adform.net^$domain=lidovky.cz|electropiknik.cz
-@@||adform.net/banners^$domain=lidovky.cz|electropiknik.cz\
+@@||adform.net/banners^$domain=lidovky.cz|electropiknik.cz
 @@||cm.adform.net^$domain=lidovky.cz|electropiknik.cz
 @@||cdn.performax.cz/acc/adx_acc.js$domain=lidovky.cz|electropiknik.cz
 @@||static.adsafeprotected.com^$domain=lidovky.cz|electropiknik.cz
@@ -10018,6 +10018,7 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 yahoo.com#@#div[id*="ComboAd"]
 yahoo.com#@#.gemini-ad-feedback
 yahoo.com#@#div[class*="gemini-ad"]
+yahoo.com#@#div[id^="gemini-item-"]
 !:partner_token=Oath
 !:partner_id=89957ff1e879eb7f
 !:type=partner
