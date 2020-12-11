@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OLYuDMZ+UM8yW7B312CcQw
-! Version: 202012101400
+! Checksum: wbLwkvsxxUH/5uywp/qLFA
+! Version: 202012110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Dec 2020 14:00 UTC
+! Last modified: 11 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6491,8 +6491,8 @@ garagejournal.com##.ad > a
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/prebid/latest/prebid.js$domain=javacodegeeks.com
 @@||cdn.snigelweb.com/adconsent/adconsent*$domain=javacodegeeks.com
 @@||cdn.snigelweb.com/sncmp/latest/sncmp*$domain=javacodegeeks.com
@@ -6510,6 +6510,9 @@ garagejournal.com##.ad > a
 @@||tabstats.com/js/prebid*$domain=tabstats.com
 @@||vice-web-statics-cdn.vice.com/vendor/ad-lib^$script,xmlhttprequest,domain=vice.com
 @@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib^$xmlhttprequest,domain=vice.com
+@@^wp-content/plugins/ad-inserter-pro/includes/aos/aos.js$~third-party,domain=fossbytes.com
+@@||rddywd.com/advertising.js$domain=gamersheroes.com
+@@||rddywd.com/adcode.png$domain=gamersheroes.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7262,7 +7265,7 @@ baophapluat.vn#@#.adsitem
 baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
 kronologi.id#@#.ads_code
-criativaonline.com.br,lifestyle90s.com,stiai.net,vocedinapoli.it,postadda.news#@#.quads-location
+mojerecepty.com,criativaonline.com.br,lifestyle90s.com,stiai.net,vocedinapoli.it,postadda.news#@#.quads-location
 postadda.news#@##quads-ad2
 padangkita.com#@#.ads_code
 padangkita.com,hellosehat.com,thenationonlineng.net,kronologi.id#@#.ads-wrapper
@@ -7561,31 +7564,31 @@ webidextrous.com#@#.adrotate_widgets
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=78583
 ! AntiAdblock Ads
-@@||h.imedia.cz^$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||d.imedia.cz^$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||ssp.imedia.cz^$~script,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-||ssp.imedia.cz/static/js/ssp.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||delivery.performax.cz/sklik/$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/accp.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||delivery.performax.cz^*_rtb/$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||delivery.performax.cz^*_rtb/$subdocument,genericblock,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/*_rtb.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc/1.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-||cdn.performax.cz/acc/2.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||imp.performax.cz^$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
-@@||cdn.cpex.cz/cmp^$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||cdn.cpex.cz/loader/v2/cpex-loader-min.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||h.imedia.cz/js/cmp2/$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||h.imedia.cz/js/scmp-external.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||ssp.imedia.cz/cmp^$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||ssp.imedia.cz/static/html/cmp.html^$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-@@||ssp.imedia.cz/static/js/cmp.js$domain=tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
-tydenikpolicie.cz,ortsa.gr,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
-tydenikpolicie.cz,ortsa.gr,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
+@@||h.imedia.cz^$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||d.imedia.cz^$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz^$~script,domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+||ssp.imedia.cz/static/js/ssp.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||imedia.cz/sklik/imp?$xmlhttprequest,subdocument,document,domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||delivery.performax.cz/sklik/$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||c-ko.seznam.cz/sklik/*$xmlhttprequest,domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||c-ng.seznam.cz/sklik/*$xmlhttprequest,domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/accp.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||delivery.performax.cz^*_rtb/$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||delivery.performax.cz^*_rtb/$subdocument,genericblock,domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/*_rtb.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc/1.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+||cdn.performax.cz/acc/2.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|moulik.cz|lidovky.cz|extra.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||imp.performax.cz^$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.performax.cz/acc_files^$image,xmlhttprequest,domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|extra.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|mimibazar.cz
+@@||cdn.cpex.cz/cmp^$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||cdn.cpex.cz/loader/v2/cpex-loader-min.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||h.imedia.cz/js/cmp2/$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||h.imedia.cz/js/scmp-external.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz/cmp^$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz/static/html/cmp.html^$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+@@||ssp.imedia.cz/static/js/cmp.js$domain=tyden.cz|tydenikpolicie.cz|ortsa.gr|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
+tyden.cz,tydenikpolicie.cz,ortsa.gr,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
+tyden.cz,tydenikpolicie.cz,ortsa.gr,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
 cnews.cz#@#.ad-leaderboard-top

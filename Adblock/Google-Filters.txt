@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 32hnRfzdaKFZzTDurKaaww
-! Version: 202012101400
+! Checksum: M4IB/REAWCWTkwIIUU3jGw
+! Version: 202012110200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Dec 2020 14:00 UTC
+! Last modified: 11 Dec 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4322,7 +4322,7 @@ aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-techn
 app.sococo.com,disqus.com,disroot.org,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,livelib.ru,tumblr.com#@#.share-menu
 flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 viewbug.com#@#.share-with-friends
-mozillamessaging.com,thebrowser.com#@#.sharebox
+mozillamessaging.com,thebrowser.com,wired.it#@#.sharebox
 theatlantic.com,youtube.com#@#.show-share
 buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
