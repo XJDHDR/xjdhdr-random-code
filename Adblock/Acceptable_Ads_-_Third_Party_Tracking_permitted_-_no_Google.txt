@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wbLwkvsxxUH/5uywp/qLFA
-! Version: 202012110200
+! Checksum: YU4B5HxoTbXH2S5FN+fs1g
+! Version: 202012111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Dec 2020 02:00 UTC
+! Last modified: 11 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1523,7 +1523,7 @@ fincalculator.ru#@#.adv-border
 @@||cas.criteo.com/delivery/$script,domain=gaspachio.com|lightersideofrealestate.com
 @@||cas.criteo.com/delivery/$xmlhttprequest,domain=jeremstar.fr|parc-attraction-loisirs.fr|touchdownactu.com|nextgen-auto.com|telquel.ma|clubmondeobrasil.forumbom.com|secretldn.com|booska-p.com
 @@||adsafeprotected.com^$script,domain=entrepreneur.com
-@@||perfectmarket.com^script,domain=zacks.com
+@@||perfectmarket.com^$script,domain=zacks.com
 @@||pub17.media-clic.com/www/delivery/*$domain=culture-informatique.net
 @@||feedxp.com/cdn-cgi/pe/$xmlhttprequest,domain=feedxp.com
 @@||ads.servebom.com^$script,domain=tomsguide.fr|tomshardware.de|tomshardware.fr|tomshardware.co.uk

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M4IB/REAWCWTkwIIUU3jGw
-! Version: 202012110200
+! Checksum: +D7cqy1wJgVW5PYPv1mQ8w
+! Version: 202012111400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 Dec 2020 02:00 UTC
+! Last modified: 11 Dec 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3729,7 +3729,6 @@ _youtube_social_
 ##[title="Share on Google Plus"]
 ##[title^="Share on Google+"]
 ##[title^="Subscribe to our YouTube "]
-##[uk-icon="google-plus"]
 ##a[data-tm-ref-type-id="Follow-on-YouTube"]
 ##a[href^="http://digg.com/submit?"]
 ##a[href^="http://www.digg.com/submit?"]
@@ -3745,13 +3744,10 @@ _youtube_social_
 ##a[title="Bookmark on Google History Bookmarks"]
 ##a[title="Condividi su Google+"]
 ##a[title="Follow on youtube"]
-##a[title="Google +"]
-##a[title="Google Plus"]
 ##a[title="Seguici su Google+"]
 ##a[title="Share via Google+"]
 ##a[title="Visit our YouTube channel"]
 ##a[title="Watch our videos on Youtube"]
-##a[title="YouTube"]
 ##a[title^="Connect with us on Google"]
 ##a[title^="Connect with us on Youtube"]
 ##a[title^="Follow Us on Google"]
@@ -3765,12 +3761,9 @@ _youtube_social_
 ##a[title^="Subscribe to us on YouTube"]
 ##a[title^="follow us on Google"]
 ##div[title="Share link on Google+"]
-##img[alt="Google +"]
-##img[alt="Google-plus"]
 ##img[alt="Subscribe to me on YouTube"]
 ##img[alt="Visit Our Google+ Page"]
 ##img[alt="Visit our Google+ page"]
-##img[alt="google plus"]
 ##img[alt="link to youtube"]
 ##img[alt^="Follow us at Youtube"]
 ##img[alt^="Follow us on Google Plus"]
@@ -4340,8 +4333,6 @@ digg.com#@#[title="Digg This Post"]
 youtube.com#@#[title="Share to Facebook"]
 digg.com#@#a[href^="http://digg.com/submit?url="]
 digg.com#@#a[href^="http://www.digg.com/submit?"]
-livetv210.me#@#a[title="YouTube"]
-google.com,office.com,smugmug.com#@#button[title="Share"]
 digg.com#@#div[id^="digg-widget-"]
 bing.com#@##cc_container
 youtube.com#@##consent-bump
