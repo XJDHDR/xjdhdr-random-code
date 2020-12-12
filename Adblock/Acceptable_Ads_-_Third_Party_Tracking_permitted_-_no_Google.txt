@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YU4B5HxoTbXH2S5FN+fs1g
-! Version: 202012111400
+! Checksum: NN6mtz3z/kL2qAJAeajYxA
+! Version: 202012120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Dec 2020 14:00 UTC
+! Last modified: 12 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5798,7 +5798,7 @@ westeros.org#@##FooterAd
 westeros.org#@##HeaderAd
 westeros.org#@##SidebarAd
 elites.io#@##ad-bottom
-ratemyprofessors.com#@##ad-container
+calibre-ebook.com,ratemyprofessors.com#@##ad-container
 elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
 cnn.com#@##adBanner
@@ -5906,7 +5906,7 @@ greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
 irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
 owfire.com,smitefire.com#@#.ad-break
-buzzfeed.com#@#.ad-card
+queerty.com,buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
 greatschools.org#@#.ad-column
 broadwayworld.com#@#.ad-desktop
@@ -5997,7 +5997,7 @@ digitaltrends.com#@#.b-anterior
 timesofisrael.com#@#.b300x250
 dennikn.sk#@#.b_ads
 jpost.com,timesofisrael.com#@#.banner
-top5.com,wowhead.com#@#.banner-ad
+zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
 breitbart.com,discogs.com,photographylife.com#@#.banner_ad
 kizi.com#@#.banner_holder
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.big-ad
@@ -6305,6 +6305,7 @@ planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
 gematsu.com#@##ad-container-1
 gematsu.com#@##ad-container-2
 tollypics.com#@#.rightad
+footballdb.com#@##header_ad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6414,6 +6415,7 @@ garagejournal.com##.ad > a
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
 @@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=op.gg|mobafire.com|futbin.com
 @@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=mobafire.com|nookazon.com
+@@||hb-ab.vntsm.com/v3/webpack-5/ad-manager.min.js$domain=mobafire.com
 @@||rafvertizing.crazygames.com/rafvertizing-v2.js$domain=crazygames.com
 @@||s.imgur.com/min/gallery.js?1591118015$domain=imgur.com
 @@||www.daily-choices.com/why-this-hotel-amenity-is-a-must-have-when-traveling-with-kids/?xcmg=1$domain=daily-choices.com
@@ -6513,6 +6515,8 @@ garagejournal.com##.ad > a
 @@^wp-content/plugins/ad-inserter-pro/includes/aos/aos.js$~third-party,domain=fossbytes.com
 @@||rddywd.com/advertising.js$domain=gamersheroes.com
 @@||rddywd.com/adcode.png$domain=gamersheroes.com
+@@||basketball-gm.com/prebid/zengm.js$domain=zengm.com
+@@^dist/js/main.js$~third-party,domain=itstillworks.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
