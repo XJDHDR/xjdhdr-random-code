@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KqwelSQapzyzYCqmllbwRw
-! Version: 202012150200
+! Checksum: Rt+E2MajIqGNkznnamuZGQ
+! Version: 202012151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Dec 2020 02:00 UTC
+! Last modified: 15 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5940,7 +5940,6 @@ aljazeera.com#@#.article-adv-right-sideBar
 digitaltrends.com#@#.b-anterior
 timesofisrael.com#@#.b300x250
 dennikn.sk#@#.b_ads
-jpost.com,timesofisrael.com#@#.banner
 zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
 breitbart.com,discogs.com,photographylife.com#@#.banner_ad
 kizi.com#@#.banner_holder
@@ -5988,6 +5987,7 @@ photographylife.com#@#.header_ad
 detaly.co.il,nep.co.il#@#.herald-ad
 tetrisfriends.com#@#.home_advertisement
 maketecheasier.com#@#.in-content-ad
+maketecheasier.com#@#.header-widget
 itstillworks.com#@#.inline-ad
 indiewire.com#@#.iw-leaderboard-ad
 tasty.co#@#.js-ad
@@ -6277,6 +6277,10 @@ plotek.pl###div-gpt-ad-007-CONTENTBOARD-0
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###dfp-ad-2
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="MID_BANNER"]
 garagejournal.com##.ad > a
+overbuff.com,dotabuff.com#@#.medium_rectangle_a
+dotabuff.com#@#.medium_rectangle_b
+overbuff.com,dotabuff.com#@#.leaderboard_a
+overbuff.com,dotabuff.com#@#.leaderboard_b
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6417,7 +6421,6 @@ garagejournal.com##.ad > a
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
 @@||ads.blogherads.com^$domain=indiewire.com|deadline.com|footwearnews.com|goldderby.com|variety.com|tvline.com|bgr.com|rollingstone.com
-@@||zaf.services.zam.com/stable/js/$domain=everquest.allakhazam.com|fanbyte.com|hearthstonetopdecks.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
 @@||lngtd.com/prebid^$domain=probuildstats.com|pixelpapercraft.com|minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|collegeconfidential.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
