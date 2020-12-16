@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rt+E2MajIqGNkznnamuZGQ
-! Version: 202012151400
+! Checksum: nFWSTvdEHMb/P66cxHjnFg
+! Version: 202012160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Dec 2020 14:00 UTC
+! Last modified: 16 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1197,7 +1197,7 @@ allocine.fr#@#.jtp
 cnn.com##.module-body > .summary-list a[href^="http://www.nextadvisor.com/"]
 cnn.com##.module-body > .summary-list a[href^="https://www.nextadvisor.com/"]
 eatthis.com#@#.nav-ad
-salon.com##.ob-smartfeed-wrapper .ob-p
+unitedwithisrael.org,salon.com##.ob-smartfeed-wrapper .ob-p
 cnn.com,epicurious.com#@#.ob-widget-section > .ob-widget-header
 portail.free.fr##.ob-widget.AR_33
 topappli.fr##.ob-widget.ob-strip-layout.CRAB_1
@@ -6281,6 +6281,7 @@ overbuff.com,dotabuff.com#@#.medium_rectangle_a
 dotabuff.com#@#.medium_rectangle_b
 overbuff.com,dotabuff.com#@#.leaderboard_a
 overbuff.com,dotabuff.com#@#.leaderboard_b
+vice.com#@#.vice-ad__container
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
