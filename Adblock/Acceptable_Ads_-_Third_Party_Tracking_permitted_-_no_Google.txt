@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xNlelYJxnZDR5NFcGDWcfg
-! Version: 202012161400
+! Checksum: ojT7i+RbO+EWi8hDYcw9kw
+! Version: 202012170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Dec 2020 14:00 UTC
+! Last modified: 17 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3320,7 +3320,7 @@ wallapop.com##.home-pub-section-top
 @@||content.lwadm.com/lw/*/prebid.js$domain=blogg.se|tyda.se|nyheter24.se|mittlivpalandet.se|modette.se
 @@||ad.woman.mynavi.jp/js/news/prebid.js$domain=mynavi.jp
 @@||cdn2.mynvwm.com/wp-content/themes/mwp-parent/js/prebid.js$domain=mynavi.jp
-@@||ads.rubiconproject.com/prebid$domain=forzastyle.com
+@@||ads.rubiconproject.com/prebid$domain=forzastyle.com|mdpr.jp
 ! Criteo sponsored products on retailer websites
 !:partner_token=Curse
 !:partner_id=f615659f2fc7ce11
@@ -6069,7 +6069,6 @@ cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs
 runt-of-the-web.com#@#.mrec
 golfwrx.com#@#.mvp-ad-label
 probuilds.net#@#.overlay-ad
-zerohedge.com#@#.placement
 stackabuse.com#@#.post-ad
 tutsplus.com#@#.post__inarticle-ad-template
 ynet.co.il#@#.pplus_hdr_ad
@@ -6199,6 +6198,8 @@ zombsroyale.io,u.gg#@#.text_ads
 pcgamingwiki.com#@#.ad-header-container
 buscacepapp.com#@#.ads-center
 zerohedge.com#@#.ad__wrapper-element
+zerohedge.com#@#[class^="Advert_"]
+zerohedge.com#@#.placement
 5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
 hollywoodpq.com#@#.oboxads-ad-widget
 autooverload.com,operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
@@ -8219,7 +8220,6 @@ agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@##sgAd
 mashable.com#@##sticky-spacer
 legacy.com#@#.BannerAd
 legacy.com#@#.GalleryViewerAdSuppress
-charliekirk.com,charliekirk.assistpub.com,chess.com,koutsompolio.gr#@#.MediumRectangleAdPanel
 legacy.com#@#.NGOLocalFooterAd
 legacy.com#@#.ObitBottomWideAd
 legacy.com#@#.PremiumObitAdBar
@@ -8267,7 +8267,6 @@ speedtest.net#@#.ads-right
 boredpanda.com#@#.adsbox
 mein-schoener-garten.de#@#.adtag
 searchenginejournal.com#@#.adv-label
-charliekirk.com,charliekirk.assistpub.com,chess.com,koutsompolio.gr#@#.adv_left
 gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.advert
 xlrforum.com#@#.afs_ads
 motor1.com#@#.ap
@@ -8277,7 +8276,6 @@ futbolcentroamerica.com#@#.banner_160x600
 hannity.com#@#.banner_ad
 capebretonpost.com,journalpioneer.com,theguardian.pe.ca#@#.billboard-ad
 247wallst.com,capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com,xlrforum.com#@#.box-ad
-charliekirk.com,charliekirk.assistpub.com,chess.com,koutsompolio.gr#@#.browse-banner_ad
 arsdev.net,arstechnica.com#@#.cns-ads-stage
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-container
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-shaft
@@ -8328,7 +8326,6 @@ xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,re
 softonic.com#@#.sam-slot
 ooreka.fr#@#div[data-iab-tag]
 cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.featured_ad
-charliekirk.com,charliekirk.assistpub.com,chess.com,chess.assistpub.com,cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.adBanner
 chron.com,chron.assistpub.com,cmf.qa2.chron.com#@#.adModule
 lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__container
 lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__high-impact
@@ -8378,8 +8375,6 @@ lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad-refresh
 gamepress.gg#@#.top-ad-desktop
 chess.com#@#.banner_slot
 chess.com#@#.postad
-charliekirk.com,charliekirk.assistpub.com,chess.com#@#.adLeaderboard
-charliekirk.com,charliekirk.assistpub.com,chess.com#@##adBanner
 chess.com#@##content-ad
 chess.com#@#.short-sidebar-ad-bottom
 chess.com#@#.short-sidebar-ad-component
