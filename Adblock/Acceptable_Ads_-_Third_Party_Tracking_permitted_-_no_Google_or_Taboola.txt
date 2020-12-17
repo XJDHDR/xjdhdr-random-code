@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iO/qNuJjGyEjnZsFeLWcJA
-! Version: 202012170200
+! Checksum: +t8KGK07XHAqepyju3yALA
+! Version: 202012171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Dec 2020 02:00 UTC
+! Last modified: 17 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4454,6 +4454,7 @@ thestreet.com#@#.sticky-ad
 thisismoney.co.uk#@#.money.item.html_snippet_module
 telegraph.co.uk#@#.js-snippet-sidebar
 kiplinger.com#@#.kip-stationbreak
+marketwatch.com#@#.dianomi_context
 @@||reuters.com/reuters_gpt_bootstrap.js$domain=reuters.com
 @@||reuters.com/reuters_ads_framework.js$domain=reuters.com
 reuters.com#@#div[class^="DPSlot"]
@@ -7063,6 +7064,7 @@ vk.com#@#div[id^="yandex_ad"]
 @@||s.nitropay.com/px.gif?ch=1$domain=deckstats.net|otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 ||s.nitropay.com/px.gif?ch=2$domain=deckstats.net|otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
 @@||tracker.nitropay.com/sites/*/analytics$domain=deckstats.net|otakukan.com|unbelievaboat.com|modthesims.info|tiermaker.com|upjourney.com|edhrec.com|discordbotlist.com|ygoprodeck.com|fnbr.co|upjourney.com|guardian.gg|royalroad.com
+edhrec.com#@#.home__ad
 !:partner_token=BuySellAds
 !:partner_id=2476edbd2862931e
 !:type=partner
