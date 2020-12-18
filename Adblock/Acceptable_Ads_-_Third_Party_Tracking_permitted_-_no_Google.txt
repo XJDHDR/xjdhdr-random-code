@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wKsT5wlRtwKbqK7ZlZtDXA
-! Version: 202012171400
+! Checksum: opArxA9nqjeiQZEr2BxByA
+! Version: 202012180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 17 Dec 2020 14:00 UTC
+! Last modified: 18 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6407,8 +6407,8 @@ vice.com#@#.vice-ad__container
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
