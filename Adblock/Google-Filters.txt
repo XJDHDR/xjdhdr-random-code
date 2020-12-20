@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WU3++c6FE9bnM01vKhHDtw
-! Version: 202012191400
+! Checksum: NJNaa9cxFfPjUGJG/pKTXg
+! Version: 202012200200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Dec 2020 14:00 UTC
+! Last modified: 20 Dec 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1484,6 +1484,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||vdfoejtqimcgog.com^
 ||veoujrnenng.com^
 ||vkudpjuvg.com^
+||vlitag.com^
 ||vlyuopulvewg.com^
 ||vnjeqfwmotkvbg.com^
 ||vpwlynobnnqg.com^
@@ -2168,7 +2169,7 @@ afrivibes.net,airplaydirect.com,autoaction.com.au,cryptomining-blog.com,dotsauce
 chat-avenue.com,flashx.cc,flashx.co,flashx.me,flashx.pw,forum.gsmhosting.com,hollywoodbackwash.com,muzique.com,opencarry.org,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
-youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
+! youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube
 youtube.com###YtKevlarVisibilityIdentifier
