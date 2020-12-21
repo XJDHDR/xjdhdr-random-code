@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1BJLgCE4aMQs6pMGuYZHcw
-! Version: 202012210200
+! Checksum: cSLARwiFX0m2RSgw9NdQJw
+! Version: 202012211400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Dec 2020 02:00 UTC
+! Last modified: 21 Dec 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2679,6 +2679,7 @@ _GoogleTagManager2/
 ||wt-safetag.com^$third-party
 ||www-google-analytics.l.google.com^$third-party
 ||zdtag.com^$third-party
+! https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
 ||jeeng.com^$third-party
 ||coinwebmining.com^$third-party
 ||coinzillatag.com^$third-party
@@ -3748,11 +3749,7 @@ _youtube_social_
 ##a[title="Watch our videos on Youtube"]
 ##a[title^="Connect with us on Google"]
 ##a[title^="Connect with us on Youtube"]
-##a[title^="Follow Us on Google"]
-##a[title^="Follow Us on Youtube"]
 ##a[title^="Follow on Google Plus"]
-##a[title^="Follow us on Google Plus"]
-##a[title^="Follow us on Google"]
 ##a[title^="Partager via Google Plus"]
 ##a[title^="Share a link on Google"]
 ##a[title^="Share on Google"]
@@ -3772,7 +3769,6 @@ _youtube_social_
 ##img[alt^="Share on Google+"]
 ##img[title="Connect with us on Google+"]
 ##img[title="Find us on Google+"]
-##img[title="Follow us on Google Plus"]
 ##img[title="Share at Google+"]
 ##img[title="View videos on YouTube"]
 ##img[title="Visit Our Google Plus Page"]

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cJl0rgmmUQTboQTnazbdhw
-! Version: 202012210200
+! Checksum: fTSyzhd9XruQm/YrTVVrJA
+! Version: 202012211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Dec 2020 02:00 UTC
+! Last modified: 21 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5896,8 +5896,10 @@ slant.co#@#._SummaryPageHeaderAdView
 slant.co#@#._SummaryPageSidebarStickyAdView
 slant.co#@#._has-ads
 merriam-webster.com#@#.abl
-garagejournal.com,cnn.com,greatschools.org,ratemyprofessors.com,topky.sk#@#.ad
-cnn.com#@#.ad--desktop
+tribalfootball.com,garagejournal.com,cnn.com,greatschools.org,ratemyprofessors.com,topky.sk#@#.ad
+tribalfootball.com,cnn.com#@#.ad--desktop
+tribalfootball.com#@#.ad--mobile
+tribalfootball.com#@#.ad__centered
 thesimsresource.com#@#.ad-alsorectangle
 diablofans.com,mtgsalvation.com#@#.ad-atf
 mtgsalvation.com#@#.ad-atf-medRect
@@ -6102,9 +6104,10 @@ moviestvnetwork.com,wegotthiscovered.com#@#.sticky-sidebar-ad
 champion.gg#@#.stickyad
 pokemoncoders.com#@#.td-a-ad
 yesasia.ru#@#.td-a-rec
-yesasia.ru#@#.td-a-rec-id-custom_ad_1
-pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
-pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
+betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
+betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
+betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
+betootaadvocate.com#@#.td-a-rec-id-custom_ad_4
 pokemoncoders.com#@#.td-a-rec-id-custom_ad_5
 kicksonfire.com,fossbytes.com#@#.td-header-ad-wrap
 zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
@@ -6164,7 +6167,11 @@ indiewire.com#@#iframe[style][src]
 themarker.com#@#iframe[width="300"]
 ma3comic.com#@#img[width="468"][height="60"]
 top5.com#@#.bottom-ad-container
-top5.com#@#.slide-ad
+letsrun.com,top5.com#@#.slide-ad
+letsrun.com#@##ads_banner
+letsrun.com#@##ads_300
+letsrun.com#@##ads_160
+letsrun.com#@#.ad-top-banner
 digital-photography-school.com#@#.hero-ad
 woot.com#@##advertisement-detail1
 woot.com#@##advertisement-detail2
@@ -6363,7 +6370,7 @@ vice.com#@#.vice-ad__container
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6523,6 +6530,7 @@ vice.com#@#.vice-ad__container
 @@||rddywd.com/adcode.png$domain=gamersheroes.com
 @@||basketball-gm.com/prebid/zengm.js$domain=zengm.com
 @@^dist/js/main.js$~third-party,domain=itstillworks.com
+@@||files.letsrun.com/ads/prebid/asc_prebid.js$script,domain=letsrun.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
