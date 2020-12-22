@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PS+oUPRW0kqQ9b3vVjUBJw
-! Version: 202012211400
+! Checksum: iADx/SONBgDz+m4qjHcrkQ
+! Version: 202012220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Dec 2020 14:00 UTC
+! Last modified: 22 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6259,6 +6259,7 @@ gematsu.com#@##ad-container-1
 gematsu.com#@##ad-container-2
 tollypics.com#@#.rightad
 footballdb.com#@##header_ad
+avforums.com#@#.adHeader
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
