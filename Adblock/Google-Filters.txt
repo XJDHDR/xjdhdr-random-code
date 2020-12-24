@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4KO5HgyyNfXoFwS5Ai0rrQ
-! Version: 202012231400
+! Checksum: O6SDc8aJY05pTHu7Yt98fw
+! Version: 202012240200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 23 Dec 2020 14:00 UTC
+! Last modified: 24 Dec 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -843,6 +843,7 @@ _reklama_$domain=~youtube.com
 ##.doubleGoogleTextAd
 ##.double_adsense
 ##.doubleclick-ad
+##.doubleclickAds
 ##.doubleclick_adtype
 ##.editorial-adsense
 ##.ezAdsense
@@ -1862,17 +1863,12 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.com|up-4ever.org
 @@||ajax.googleapis.com^$script,domain=vshare.eu
 @@||fonts.googleapis.com^$stylesheet,domain=vshare.eu
-@@||ajax.googleapis.com^$script,domain=torrentdownload.info
-@@||ajax.googleapis.com^$script,domain=kat.sx
 @@||fonts.googleapis.com^$stylesheet,domain=animepahe.com
-@@||video.twimg.com^$xmlhttprequest,domain=twitter.com
 @@||ajax.googleapis.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|webfirstrow.eu
 @@||ajax.googleapis.com^$script,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||apis.google.com^$script,subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||gstatic.com^$domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||youtube.com/embed/$subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
-@@||ajax.googleapis.com^$script,domain=eztv.io|eztv.tf|eztv.yt
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eztv.io|eztv.tf|eztv.yt
 @@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
 @@||ajax.googleapis.com^$script,domain=mcloud.to
 @@||fonts.googleapis.com^$stylesheet,domain=mcloud.to
