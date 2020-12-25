@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b03MJzfxCXTl1zVKodRz8A
-! Version: 202012250200
+! Checksum: 4v1HWqgSiM/sTbMWi9Ai7w
+! Version: 202012251400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Dec 2020 02:00 UTC
+! Last modified: 25 Dec 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1372,6 +1372,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||lmlvzeeag.com^
 ||lpoggqfdlmdsg.com^
 ||ltjvgpxg.com^
+||luuming.com^
 ||lxhkqjqpswhg.com^
 ||managesdancing.com^
 ||mfdhvdwkdg.com^
@@ -1908,8 +1909,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||servedby.flashtalking.com/imp/$script,domain=spiegel.de
 ||goo.gl^$popup,domain=amaderforum.com|dexerto.com
 ||google.com.eg/url?$popup,domain=hulkload.com
-||boobieblog.com/submityourbitchbanner3.jpg
-||boobieblog.com/TilaTequilaBackdoorBanner2.jpg
 ||hawaiipornblog.com/post_images/
 ||hdzog.com/*.php?$script
 ||hdzog.com/contents/content_sources/
@@ -1920,10 +1919,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||hothag.com/img/banners/
 ||js.hdzog.com^
 ||plx.porndig.com^
-||pornsharing.com/App_Themes/pornsharianew/$subdocument,~third-party
-||pornsharing.com/App_Themes/pornsharianew/js/adppornsharia*.js
-||pornsharing.com/App_Themes/pornsharingnew/$subdocument,~third-party
-||pornsharing.com/App_Themes/pornsharingnew/js/adppornsharia*.js
 ||rusdosug.com/Fotos/Banners/
 ||sexy-youtubers.com/backbackbackr.php
 ||sexyandshocking.com/mzpop.js
@@ -1934,23 +1929,8 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||thefappeningblog.com/sproject/
 ||thumblogger.com/thumblog/top_banner_silver.js
 ||youtubelike.com/ftt2/toplists/
-/poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|shemalez.com|thegay.com|tubepornclassic.com|txxx.com|upornia.com|voyeurhit.com
-@@||ajax.googleapis.com/ajax/$script,domain=efukt.com
-@@||ajax.googleapis.com^$domain=txxx.com
-@@||ajax.googleapis.com/ajax/$script,domain=urlgalleries.net
-@@||ajax.googleapis.com^$script,domain=milfzr.com
-@@||apis.google.com^$script,domain=milfzr.com
+/^https?:\/\/.*.(club|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|space|network|live|work|systems|ml|world|life)\/.*/$script,third-party,xmlhttprequest,domain=4tube.com|asianpornmovies.com|hclips.com|hdzog.com|hotmovs.com|milfzr.com|porn555.com|shemalez.com|thegay.com|tubepornclassic.com|txxx.com|upornia.com|voyeurhit.com|xozilla.com
 @@||translate.google.com^$script,domain=gaybeeg.info
-! hdzog.com
-@@||ajax.googleapis.com^$script,domain=hdzog.com
-@@||hdzog.com/key=$~third-party,xmlhttprequest
-@@||hdzog.com/player/timelines.php?$~third-party,xmlhttprequest
-|http://$script,third-party,xmlhttprequest,domain=hdzog.com
-|https://$script,third-party,xmlhttprequest,domain=hdzog.com
-||hdzog.com/njs/$script
-||hdzog.com^$~third-party,xmlhttprequest
-@@||ajax.googleapis.com^$script,third-party,domain=amateurdumper.com
-@@||ajax.googleapis.com^$script,domain=myporn.club|sxyprn.com
 ||goo.gl^$popup,domain=thisav.com
 3g2upl4pq6kufc4m.onion,9hentai.com,audioreview.com,carlow-nationalist.ie,cellmapper.net,craigclassifiedads.com,duckduckgo.com,eveningecho.ie,g.doubleclick.net,irannewsdaily.com,kildare-nationalist.ie,laois-nationalist.ie,lorempixel.com,mtbr.com,photographyreview.com,placehold.it,quiz4fun.com,roscommonherald.ie,waterford-news.ie###ads
 gobackpacking.com###ban_300
@@ -1986,6 +1966,7 @@ sk-gaming.com###pts
 sk-gaming.com###ptsf
 cartoonnetwork.co.nz,cartoonnetwork.com.au,cartoonnetworkasia.com,gizgag.com,slacker.com###rightBanner
 forums.anandtech.com,laptopmag.com###rightcol_top
+pcmag.com###rmn-link
 actiontrip.com,dvdfile.com,ecnmag.com,thefashionspot.com###roadblock
 edomaining.com###sedo-search
 coolhunting.com###showcase
