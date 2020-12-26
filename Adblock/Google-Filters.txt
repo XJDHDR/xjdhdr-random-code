@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vsKkm9mjYO9p4hsUW4yBkw
-! Version: 202012260200
+! Checksum: Ls3jUclUAGjXw/wUf06qwQ
+! Version: 202012261400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 Dec 2020 02:00 UTC
+! Last modified: 26 Dec 2020 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1797,12 +1797,9 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||googleapis.com/qmftp/$script
 ||googleapis.com/yieldlab/$script
 ||amazing-dating.com^$popup,third-party
-||adb.fling.com^$third-party
 ||blogspot.com^*/300X250%2B%25281%2529.gif$domain=streamxxx.tv
-||blogspot.com^*/ad.jpg
 ||blogspot.com^*/Screenshot_383.png$domain=streamxxx.tv
 ||br.fling.com^
-||ero-advertising.com^*/banners/
 ||galeriaseroticas.xpg.com.br^$third-party
 ||sexy.fling.com^$third-party
 ||spankbang.xxx^$domain=spankbang.com
@@ -1909,19 +1906,13 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||servedby.flashtalking.com/imp/$script,domain=spiegel.de
 ||goo.gl^$popup,domain=amaderforum.com|dexerto.com
 ||google.com.eg/url?$popup,domain=hulkload.com
-||hawaiipornblog.com/post_images/
 ||hgimg.com/js/beacon.
-||hothag.com/img/banners/
-||js.hdzog.com^
 ||plx.porndig.com^
 ||rusdosug.com/Fotos/Banners/
 ||sexy-youtubers.com/backbackbackr.php
-||sexyandshocking.com/mzpop.js
-||thefappeningblog.com/icloud9.html
-||thefappeningblog.com/sproject/
 ||thumblogger.com/thumblog/top_banner_silver.js
 ||youtubelike.com/ftt2/toplists/
-/^https?:\/\/.*.(club|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|space|network|live|work|systems|ml|world|life)\/.*/$script,third-party,xmlhttprequest,domain=4tube.com|asianpornmovies.com|hclips.com|hdzog.com|hotmovs.com|milfzr.com|porn555.com|shemalez.com|thegay.com|tubepornclassic.com|txxx.com|upornia.com|voyeurhit.com|xozilla.com
+/^https?:\/\/.*\.(club|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|space|network|live|work|systems|ml|world|life)\/.*/$script,subdocument,third-party,xmlhttprequest,domain=4tube.com|asianpornmovies.com|hclips.com|hdzog.com|hotmovs.com|milfzr.com|porn555.com|shemalez.com|thegay.com|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com|xozilla.com
 @@||translate.google.com^$script,domain=gaybeeg.info
 ||goo.gl^$popup,domain=thisav.com
 3g2upl4pq6kufc4m.onion,9hentai.com,audioreview.com,carlow-nationalist.ie,cellmapper.net,craigclassifiedads.com,duckduckgo.com,eveningecho.ie,g.doubleclick.net,irannewsdaily.com,kildare-nationalist.ie,laois-nationalist.ie,lorempixel.com,mtbr.com,photographyreview.com,placehold.it,quiz4fun.com,roscommonherald.ie,waterford-news.ie###ads
@@ -2082,8 +2073,6 @@ pointblanknews.com,sharktankblog.com##img[height="60"]
 bigeye.ug,breakingbelizenews.com,espnrichmond.com,naijaloaded.com.ng,punchng.com,techpowerup.com,theolivepress.es,therep.co.za##img[width="300"]
 afrivibes.net,airplaydirect.com,autoaction.com.au,cryptomining-blog.com,dotsauce.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,gossipmillnigeria.com,mkvcage.com,movin100.com,mycolumbuspower.com,nehandaradio.com,onislandtimes.com,portugaldailyview.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,samoatimes.co.nz,seguintoday.com,tangatawhenua.com,techpowerup.com,themediaonline.co.za,thenationonlineng.net,thewillnigeria.com,wantedinafrica.com,wantedinrome.com,yomzansi.com,zizonline.com##img[width="300"][height="250"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.me,flashx.pw,forum.gsmhosting.com,hollywoodbackwash.com,muzique.com,opencarry.org,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
-xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
-xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
 ! youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube
@@ -2149,6 +2138,8 @@ youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
 googlesyndication.com###adunit
 afreesms.com##.adsbygoogle
+xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
+xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
 msn.com##a[href*=".booking.com/"]
 bing.com###mm_pla
 bing.com###verticalads
