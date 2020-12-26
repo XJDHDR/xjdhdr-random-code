@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4v1HWqgSiM/sTbMWi9Ai7w
-! Version: 202012251400
+! Checksum: vsKkm9mjYO9p4hsUW4yBkw
+! Version: 202012260200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Dec 2020 14:00 UTC
+! Last modified: 26 Dec 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1910,11 +1910,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||goo.gl^$popup,domain=amaderforum.com|dexerto.com
 ||google.com.eg/url?$popup,domain=hulkload.com
 ||hawaiipornblog.com/post_images/
-||hdzog.com/*.php?$script
-||hdzog.com/contents/content_sources/
-||hdzog.com/contents/cst/
-||hdzog.com/hdzog.php?t_sid=
-||hdzog.com/hdzog/vanload/
 ||hgimg.com/js/beacon.
 ||hothag.com/img/banners/
 ||js.hdzog.com^
@@ -1922,9 +1917,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||rusdosug.com/Fotos/Banners/
 ||sexy-youtubers.com/backbackbackr.php
 ||sexyandshocking.com/mzpop.js
-||spankbang.com/api/live_
-||spankbang.com/api/livecam_
-||spankbang.com^*/ero_loader.
 ||thefappeningblog.com/icloud9.html
 ||thefappeningblog.com/sproject/
 ||thumblogger.com/thumblog/top_banner_silver.js
@@ -2711,6 +2703,7 @@ _GoogleTagManager2/
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
 ||s3wfg.com/js/vortexloader.js
+||a3xo-eng.spankbang.com^
 ||affiliates.londonmarketing.com^
 ||airspacemag.com/g/g/button/
 ||analytics.bloomberg.com^
