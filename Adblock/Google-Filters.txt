@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ls3jUclUAGjXw/wUf06qwQ
-! Version: 202012261400
+! Checksum: dmFOj2N30Mtj6FXM8bUakQ
+! Version: 202012270200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 Dec 2020 14:00 UTC
+! Last modified: 27 Dec 2020 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1909,12 +1909,11 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||hgimg.com/js/beacon.
 ||plx.porndig.com^
 ||rusdosug.com/Fotos/Banners/
-||sexy-youtubers.com/backbackbackr.php
-||thumblogger.com/thumblog/top_banner_silver.js
 ||youtubelike.com/ftt2/toplists/
-/^https?:\/\/.*\.(club|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|space|network|live|work|systems|ml|world|life)\/.*/$script,subdocument,third-party,xmlhttprequest,domain=4tube.com|asianpornmovies.com|hclips.com|hdzog.com|hotmovs.com|milfzr.com|porn555.com|shemalez.com|thegay.com|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com|xozilla.com
+/^https?:\/\/.*\.(club|news|live|online|store|tech|cloud|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|today|space|network|live|work|systems|ml|world|life)\/.*/$domain=4tube.com|asianpornmovies.com|getsex.xxx|hclips.com|hdzog.com|homemadevids.org|hotmovs.com|milfzr.com|porn555.com|pornforrelax.com|pornj.com|puporn.com|see.xxx|shemalez.com|sss.xxx|thegay.com|thegay.porn|tits-guru.com|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|vjav.com|voyeurhit.com|xozilla.com
 @@||translate.google.com^$script,domain=gaybeeg.info
 ||goo.gl^$popup,domain=thisav.com
+/^https?:\/\/.*\.(club|news|live|online|store|tech|cloud|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|today|space|network|live|work|systems|ml|world|life)\/.*/$popup,domain=4tube.com|asianpornmovies.com|getsex.xxx|hclips.com|hdzog.com|homemadevids.org|hotmovs.com|milfzr.com|porn555.com|pornforrelax.com|pornj.com|puporn.com|see.xxx|shemalez.com|sss.xxx|thegay.com|thegay.porn|tits-guru.com|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|vjav.com|voyeurhit.com|xozilla.com
 3g2upl4pq6kufc4m.onion,9hentai.com,audioreview.com,carlow-nationalist.ie,cellmapper.net,craigclassifiedads.com,duckduckgo.com,eveningecho.ie,g.doubleclick.net,irannewsdaily.com,kildare-nationalist.ie,laois-nationalist.ie,lorempixel.com,mtbr.com,photographyreview.com,placehold.it,quiz4fun.com,roscommonherald.ie,waterford-news.ie###ads
 gobackpacking.com###ban_300
 absoluteradio.co.uk,allmyfaves.com,allthetests.com,dailynews.lk,dealmac.com,dealsonwheels.co.nz,delcotimes.com,djmag.com,dosgamesarchive.com,farmtrader.co.nz,moviesfoundonline.com,news-herald.com,newstonight.co.za,nhregister.com,northernvirginiamag.com,nzmusicmonth.co.nz,ocia.net,openstreetmap.org,pgpartner.com,proxy-list.org,ps3-hacks.com,registercitizen.com,roughlydrafted.com,safaricom.com,sail-world.com,saratogian.com,sfx.co.uk,sportinglife.com,starwarsunderworld.com,theoaklandpress.com,theweek.com,tortoisehg.bitbucket.org,vidmax.com,wellsphere.com,wn.com,wsof.com,zootoday.com###banner
@@ -2187,7 +2186,7 @@ hentai-imperia.org,naughtyblog.org##a[href^="http://goo.gl/"]
 alotporn.com##a[href^="http://www.fling.com/"]
 myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 ddlporn.org##a[href^="https://uploadgig.com/premium/"]
-alrincon.com,boobieblog.com,thenipslip.com,wetpussygames.com##canvas
+8boobs.com,alrincon.com,boobieblog.com,thenipslip.com,wetpussygames.com##canvas
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
 @@||banmancounselling.com/wp-content/themes/banman/
 @@||campingworld.com/images/AffiliateAds/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
