@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FnTxleti1arMpUNfv/v6qg
-! Version: 202012290200
+! Checksum: uIunI3BqyK4WKcSzT8kI6g
+! Version: 202012291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Dec 2020 02:00 UTC
+! Last modified: 29 Dec 2020 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7578,8 +7578,8 @@ webidextrous.com#@#.adrotate_widgets
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80476
 ! WdH Media ads
-@@||*/px.gif?ch=1&rn=*$domain=xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
-||*/px.gif?ch=2&rn=*$domain=xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
+@@||*/px.gif?ch=1&rn=*$domain=manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
+||*/px.gif?ch=2&rn=*$domain=manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
