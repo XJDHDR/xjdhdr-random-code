@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RpQtK/w5ZPuQea3+oIXbxw
-! Version: 202012301400
+! Checksum: ycq7ft6QxSWqvpON5z77Tg
+! Version: 202012310200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Dec 2020 14:00 UTC
+! Last modified: 31 Dec 2020 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6317,6 +6317,9 @@ gematsu.com#@##ad-container-2
 tollypics.com#@#.rightad
 footballdb.com#@##header_ad
 avforums.com#@#.adHeader
+japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.ad-widget-wrapper
+japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.secondary-ad-widget
+japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.primary-ad-widget
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
