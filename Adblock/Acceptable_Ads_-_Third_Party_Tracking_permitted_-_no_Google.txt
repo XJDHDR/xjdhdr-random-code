@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OlOoWQ+yp9RVTvPLP8EUtw
-! Version: 202101050200
+! Checksum: Ej5bBDhm2slIqDBh2/FDtA
+! Version: 202101051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Jan 2021 02:00 UTC
+! Last modified: 05 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1223,7 +1223,7 @@ bento.de#@#a[onmousedown^="this.href='http://marketing.outbrain.com/network/redi
 bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
-indiewire.com#@#.outbrain-widget
+allure.com,architecturaldigest.com,bgr.com,bonappetit.com,cntraveler.com,deadline.com,digitalartsonline.co.uk,epicurious.com,gq.com,hollywoodlife.com,macworld.co.uk,macworld.es,pcworld.es,self.com,sheknows.com,techadvisor.co.uk,techadvisor.fr,teenvogue.com,tvline.com,vanityfair.com,variety.com,indiewire.com#@#.outbrain-widget
 @@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
@@ -6209,8 +6209,8 @@ buscacepapp.com#@#.ads-center
 zerohedge.com#@#.ad__wrapper-element
 zerohedge.com#@#[class^="Advert_"]
 zerohedge.com#@#.placement
-5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
-hollywoodpq.com#@#.oboxads-ad-widget
+nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
+nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,hollywoodpq.com#@#.oboxads-ad-widget
 autooverload.com,operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
 autooverload.com,operationsports.com,gottabemobile.com#@#.mvp_ad_widget
 pcgamingwiki.com#@##mpu
@@ -6486,7 +6486,7 @@ vice.com#@#.vice-ad__container
 @@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
 @@||adxbid.info/depo_$domain=depo.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
-@@||static.bigpipes.co/v4/sites^$script,domain=5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
+@@||static.bigpipes.co/v*/sites^$script,domain=nightlife.ca|tonpetitlook.com|tplmoms.com|tonbarbier.com|danslescoulisses.com|5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
 @@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
 @@||cdn.exmarketplace.com/bidder/adsbooster/eb_sf.js$domain=portalebambini.it
 @@||api.assertcom.de^$domain=imgur.com
@@ -6536,6 +6536,7 @@ vice.com#@#.vice-ad__container
 @@||basketball-gm.com/prebid/zengm.js$domain=zengm.com
 @@^dist/js/main.js$~third-party,domain=itstillworks.com
 @@||files.letsrun.com/ads/prebid/asc_prebid.js$script,domain=letsrun.com
+@@||gumtree.com^*.prebid-bundle.js$~third-party
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -8405,6 +8406,10 @@ motorsport.com#@#.ms-apb-dmpu
 timesofindia.indiatimes.com#@#.ad-widget
 m.timesofindia.com,djhungama.net,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamrreview.com,lolcounter.com,rodalenews.com,timesofindia.com,weathernationtv.com,webmaster-source.com#@#.ad1
 charliekirk.com,charliekirk.assistpub.com#@#div[id^="rc-widget-"]
+sammobile.com#@#.g-39
+sammobile.com#@#.g-32
+sammobile.com#@#.g-30
+sammobile.com#@#.g-29
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
