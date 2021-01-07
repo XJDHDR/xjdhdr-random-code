@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h/4j4bK8vK1jyiuQ+qXcXg
-! Version: 202101061400
+! Checksum: X5f1D0y0xzMp4+LItSK9cQ
+! Version: 202101070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 06 Jan 2021 14:00 UTC
+! Last modified: 07 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6320,6 +6320,13 @@ avforums.com#@#.adHeader
 japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.ad-widget-wrapper
 japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.secondary-ad-widget
 japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.primary-ad-widget
+shockwave.com#@#.ympb_target_banner
+addictinggames.com#@#.add-bx
+topsante.com#@#.dfp-slot
+topsante.com#@#div[id^="gpt-ad-masthead"]
+topsante.com#@#div[id^="gpt-ad-mpu"]
+topsante.com#@#.dfp-slot-megaban
+topsante.com#@#.dfp-slot.megaban
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6537,6 +6544,8 @@ vice.com#@#.vice-ad__container
 @@^dist/js/main.js$~third-party,domain=itstillworks.com
 @@||files.letsrun.com/ads/prebid/asc_prebid.js$script,domain=letsrun.com
 @@||gumtree.com^*.prebid-bundle.js$~third-party
+@@||prebid.reworldmediafactory.com/topsante.fr/script.min.js$script,domain=topsante.com
+@@||prebid.reworldmediafactory.com/prebid.js$domain=topsante.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
