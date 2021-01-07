@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X5f1D0y0xzMp4+LItSK9cQ
-! Version: 202101070200
+! Checksum: RnHTldgvNrFYAxqSn66GeQ
+! Version: 202101071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 07 Jan 2021 02:00 UTC
+! Last modified: 07 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8419,6 +8419,9 @@ sammobile.com#@#.g-39
 sammobile.com#@#.g-32
 sammobile.com#@#.g-30
 sammobile.com#@#.g-29
+cars.com#@#.pencil-ad
+cars.com#@#.top-ad-container
+cars.com#@#.bottom-ad-container
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
