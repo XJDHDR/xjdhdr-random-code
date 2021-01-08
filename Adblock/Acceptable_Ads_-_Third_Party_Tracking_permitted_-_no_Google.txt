@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AIpIqqG4znOxEjGKQ4gAqQ
-! Version: 202101080200
+! Checksum: wWw0/H6sJEVGRvGxKgTrog
+! Version: 202101081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Jan 2021 02:00 UTC
+! Last modified: 08 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2817,6 +2817,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||i.plug.it/banners/js/adv_lib_webmail70.js$domain=virgilio.it|libero.it
 @@||i.plug.it/iplug/js/lib/iol/analytics/ads/adv/_ads.js?$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
 @@||iolam.it/js/prebid.js$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
+@@||leboncoin.fr/fronttools/js/hb_3-20-0.js$script,~third-party
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -8355,51 +8356,51 @@ softonic.com#@#.sam-slot
 ooreka.fr#@#div[data-iab-tag]
 cmf.qa2.chron.com,chron.com,chron.assistpub.com#@#.featured_ad
 chron.com,chron.assistpub.com,cmf.qa2.chron.com#@#.adModule
-lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__container
-lfpress.com,lfpress.assistpub.com,dcs-cheet-1875-lfpress.dev.postmedia.digital#@#.ad__high-impact
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-1
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-1:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-10
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-10:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-11
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-11:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-12
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-12:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-13
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-13:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-14
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-14:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-15
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-15:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-16
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-16:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-17
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-17:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-18
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-18:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-19
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-19:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-2
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-2:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-20
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-20:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-3
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-3:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-4
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-4:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-5
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-5:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-6
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-6:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-7
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-7:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-8
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-8:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@##ad-9
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital###ad-9:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad__label
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad__placeholder
-lfpress.com,lfpress.assistpub.com,dev.postmedia.digital#@#.ad-refresh
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__container
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__high-impact
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-1
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-1:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-10
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-10:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-11
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-11:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-12
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-12:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-13
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-13:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-14
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-14:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-15
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-15:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-16
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-16:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-17
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-17:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-18
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-18:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-19
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-19:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-2
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-2:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-20
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-20:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-3
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-3:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-4
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-4:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-5
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-5:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-6
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-6:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-7
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-7:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-8
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-8:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-9
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-9:not([data-ad-acceptable])
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__label
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__placeholder
+lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad-refresh
 gamepress.gg#@#.top-ad-desktop
 chess.com#@#.banner_slot
 chess.com#@#.postad
@@ -10202,6 +10203,7 @@ tumblr.com#@#.standalone-ad-container
 @@||duckduckgo.com/html$elemhide
 @@||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
 @@||duckduckgo.com/m.js?$domain=duckduckgo.com
+@@||duckduckgo.com/t/$~third-party
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner

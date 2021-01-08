@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5WV74AIpAe0jdnkVQePNVQ
-! Version: 202101080200
+! Checksum: fK+E9va5C9UnrBuIhQY5xg
+! Version: 202101081400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 08 Jan 2021 02:00 UTC
+! Last modified: 08 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -36,6 +36,7 @@
 @@||duckduckgo.com/html$elemhide
 @@||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
 @@||duckduckgo.com/m.js?$domain=duckduckgo.com
+@@||duckduckgo.com/t/$~third-party
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
