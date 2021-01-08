@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RnHTldgvNrFYAxqSn66GeQ
-! Version: 202101071400
+! Checksum: AIpIqqG4znOxEjGKQ4gAqQ
+! Version: 202101080200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 07 Jan 2021 14:00 UTC
+! Last modified: 08 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6327,6 +6327,9 @@ topsante.com#@#div[id^="gpt-ad-masthead"]
 topsante.com#@#div[id^="gpt-ad-mpu"]
 topsante.com#@#.dfp-slot-megaban
 topsante.com#@#.dfp-slot.megaban
+topsante.com#@#.dfp-slot-bas-banniere
+goldderby.com,deadline.com#@#.markplace-ads
+goldderby.com,deadline.com#@#.marketplace-ad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
