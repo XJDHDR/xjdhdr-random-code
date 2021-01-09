@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kb+J3/U8z2UAJGr8EbCD/A
-! Version: 202101081400
+! Checksum: 7ps8LbBbqVVLLUdSugOfXg
+! Version: 202101090200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Jan 2021 14:00 UTC
+! Last modified: 09 Jan 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1008,7 +1008,6 @@ _reklama_$domain=~youtube.com
 ##.google_top_adsense1_footer
 ##.google_top_adsense_footer
 ##.google_txt_ads_mid_big_img
-##.googlead
 ##.googlead-sidebar
 ##.googleadArea
 ##.googlead_idx_b_97090
@@ -2646,7 +2645,6 @@ _GoogleTagManager2/
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
 ||s3wfg.com/js/vortexloader.js
-||a3xo-eng.spankbang.com^
 ||affiliates.londonmarketing.com^
 ||analytics.bloomberg.com^
 ||analytics.teespring.com^
@@ -2730,6 +2728,7 @@ _GoogleTagManager2/
 ||sp.redding.com^
 ||spankbang.com/pull_stats?$xmlhttprequest
 ||spankbang.com^$ping
+||spankbang.com^*?type=pv
 ||stan.xing.com^
 ||stats.avg.com^
 ||stats.digg.com^
@@ -2856,7 +2855,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||puch-ersatzteile.at^*/google-analytics.min.js
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|f1aldia.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|nymag.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
