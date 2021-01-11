@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vT97z1YVumf0HBMKwISsIg
-! Version: 202101101400
+! Checksum: 7hnYy4uTz2lqHLjB9oFUWQ
+! Version: 202101110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Jan 2021 14:00 UTC
+! Last modified: 11 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8176,6 +8176,7 @@ testpages.adblockplus.org#@##abptest
 ||ebay-kleinanzeigen.de^*/advertising.$script,domain=ebay-kleinanzeigen.de
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
+||speedtest.net/javascript/adsjs.js$script,domain=speedtest.net
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com

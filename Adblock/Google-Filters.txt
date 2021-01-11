@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YDQn09wHu/d1RsoE3B6xIw
-! Version: 202101101400
+! Checksum: e/wIA2NnpSd3a6/6D9B6wA
+! Version: 202101110200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Jan 2021 14:00 UTC
+! Last modified: 11 Jan 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1588,6 +1588,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||in-appadvertising.com^$third-party
 ||integral-marketing.com^$third-party
 ||iv.doubleclick.net^$third-party
+||kaiu-marketing.com^$third-party
 ||klikadvertising.com^$third-party
 ||kumpulblogger.com^$third-party
 ||madserving.com^$third-party
@@ -2917,6 +2918,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt
 @@||nostv.pt^*/angulartics-google-analytics.js?
 @@||stats.g.doubleclick.net/dc.js$domain=netcombo.com.br
+@@||googletagmanager.com/gtm.js$script,domain=olx.ro
 @@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|sportmaster.ru|teddyfood.com
