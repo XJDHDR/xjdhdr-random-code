@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7hnYy4uTz2lqHLjB9oFUWQ
-! Version: 202101110200
+! Checksum: KONfBE5aZIiaSkqm4zY29A
+! Version: 202101111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Jan 2021 02:00 UTC
+! Last modified: 11 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5934,7 +5934,7 @@ smitefire.com#@#.ad-narrow
 probuildstats.com,wowdb.com#@#.ad-placement
 essence.com#@#.ad-position
 jobseeq.com#@#.ad-right
-gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
+virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
 probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
@@ -6293,7 +6293,7 @@ wordreference.com#@##adrightbottom
 wordreference.com#@##ad1
 wordreference.com#@#.adtitle
 visihow.com#@#.wh_ad
-truetrophies.com,trueachievements.com#@#.ad-wrap
+virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
 trueachievements.com#@#.ad-2
 gta5-mods.com#@##ad-side
 forsal.pl,infor.pl#@#.textAds
@@ -6331,6 +6331,9 @@ topsante.com#@#.dfp-slot.megaban
 topsante.com#@#.dfp-slot-bas-banniere
 goldderby.com,deadline.com#@#.markplace-ads
 goldderby.com,deadline.com#@#.marketplace-ad
+isitdownrightnow.com#@#.ad336
+virtualpiano.net#@#.bottom-ad
+virtualpiano.net#@#.vertical-ad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -8177,6 +8180,7 @@ testpages.adblockplus.org#@##abptest
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
 ||speedtest.net/javascript/adsjs.js$script,domain=speedtest.net
+||cdn2.downdetector.com^*/javascript/adsjs.js$script,domain=downdetector.com
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
@@ -8427,6 +8431,11 @@ sammobile.com#@#.g-29
 cars.com#@#.pencil-ad
 cars.com#@#.top-ad-container
 cars.com#@#.bottom-ad-container
+ultimate-guitar.com#@#.js-ab-regular
+searchenginejournal.com#@#.ss_slot
+searchenginejournal.com#@#.avert-text
+searchenginejournal.com#@#.img-mmax-100
+searchenginejournal.com#@#.sss_slot
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
@@ -10117,6 +10126,8 @@ yahoo.com#@#.darla
 mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
 mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
+! Hidden for compliance
+mail.yahoo.com###sb_rel_tgtLREC4.darla
 !:partner_token=tumblr.com
 !:partner_id=79d1eac8b97e2141
 !:type=partner

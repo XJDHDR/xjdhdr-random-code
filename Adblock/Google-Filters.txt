@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e/wIA2NnpSd3a6/6D9B6wA
-! Version: 202101110200
+! Checksum: 1ntZ4TTDxu6XWwcL6FasaQ
+! Version: 202101111400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 Jan 2021 02:00 UTC
+! Last modified: 11 Jan 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3328,7 +3328,6 @@ _youtube_social_
 ##.genericon-googleplus
 ##.genericon-googleplus-alt
 ##.genericon-youtube
-##.google-btn
 ##.google-plus-button
 ##.google-plus-icon
 ##.google-plus-link
@@ -4133,7 +4132,6 @@ digg.com#@#.digg_button
 busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.facebook.icon
 firebase.google.com#@#.fb-dialog
 500px.com,academia.edu,peerlyst.com,shitposter.club,smashcast.tv,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
-academia.edu,epicgames.com,martini.com,oneplus.net#@#.google-btn
 battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
 hotforfoodblog.com#@#.pin-it
 californiasunday.com,youtube.com#@#.share-bar
@@ -4143,7 +4141,6 @@ flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 viewbug.com#@#.share-with-friends
 mozillamessaging.com,thebrowser.com,wired.it#@#.sharebox
 theatlantic.com,youtube.com#@#.show-share
-buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 deathandtaxesmag.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
