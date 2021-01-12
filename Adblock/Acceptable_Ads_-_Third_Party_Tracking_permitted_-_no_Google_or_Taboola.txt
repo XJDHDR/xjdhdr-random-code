@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RN8g+8K1wS3SBRXkoztM0A
-! Version: 202101111400
+! Checksum: sBv4Nfxryd5UYCzPEeY8vQ
+! Version: 202101120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Jan 2021 14:00 UTC
+! Last modified: 12 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8123,7 +8123,7 @@ testpages.adblockplus.org#@##abptest
 @@||darkmatter.billboard.com/wp-content/uploads/ad-tech/dark-matter-billboard-com.js$script,domain=billboard.com
 ||speedtest.net/javascript/adscript.js$domain=speedtest.net
 ||speedtest.net/javascript/adsjs.js$script,domain=speedtest.net
-||cdn2.downdetector.com^*/javascript/adsjs.js$script,domain=downdetector.com
+||cdn2.downdetector.com^*/javascript/adsjs.js$script,domain=downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr|downdetector.ru|allestoringen.nl|allestoerungen.at|allestoringen.be|allestoerungen.ch|allestoerungen.de|xn--allestrungen-9ib.de|downdetector.com
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
