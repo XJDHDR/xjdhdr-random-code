@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6qDmoYi1hCIiEADtqjen9A
-! Version: 202101130200
+! Checksum: WF+GYraWVgAUHMlEu6FxbQ
+! Version: 202101131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jan 2021 02:00 UTC
+! Last modified: 13 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -412,6 +412,7 @@ winfuture.de#@#a[href^="https://bs.serving-sys.com"]
 @@||outbrain.com/outbrain.js$domain=winfuture.de
 winfuture.de##.SL_1 A[data-redirect^="http://paid.outbrain.com/network/redir?"]
 winfuture.de##.SL_1 A[data-redirect^="http://marketing.outbrain.com/network/redir?"]
+winfuture.de#@#.ob_what
 !:partner_token=winfuture.de
 !:partner_id=81ccc29d4fa307ee
 !:type=partner
@@ -1286,10 +1287,14 @@ medspecial.ru#@##yandex_ad
 @@||yastatic.net/safeframe-bundles/*/host.js$domain=gismeteo.ru
 @@||yastatic.net/safeframe-bundles/*/render.html$subdocument,document,domain=gismeteo.ru
 ||criteo.net/js/ld/publishertag.js$script,domain=gismeteo.ru
+@@/px.gif?ch=1&rn=$domain=gismeteo.ru
+/px.gif?ch=2&rn=$domain=gismeteo.ru
 gismeteo.ru#@#.media_with_map > :not(.map_right)
 gismeteo.ru###media-middle
 gismeteo.ru###media-bottom
 gismeteo.ru##.x90
+gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
+gismeteo.ru#@#.xby400
 !:partner_token=Digimedia
 !:partner_id=f66f2790ea302ce0
 !:type=partner
@@ -5862,7 +5867,7 @@ broadwayworld.com#@#.ad-desktop
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
 buzznet.com,index.hr#@#.ad-holder
-windfinder.com#@#.ad-horizontal
+theartstory.org,windfinder.com#@#.ad-horizontal
 mrexcel.com#@#.ad-in-post
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 hiphopdx.com,littlealchemy2.com#@#.ad-inner
@@ -5982,7 +5987,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
 fxp.co.il,pmcqa.com#@#.header-top-ad
@@ -6156,8 +6161,8 @@ zerohedge.com#@#[class^="Advert_"]
 zerohedge.com#@#.placement
 nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
 nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,hollywoodpq.com#@#.oboxads-ad-widget
-autooverload.com,operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
-autooverload.com,operationsports.com,gottabemobile.com#@#.mvp_ad_widget
+bittbox.com,autooverload.com,operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
+bittbox.com,autooverload.com,operationsports.com,gottabemobile.com#@#.mvp_ad_widget
 pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
@@ -6218,10 +6223,10 @@ firstwefeast.com,complex.com#@#.suitcase-ad
 complex.com#@##asideAd
 riddles.com#@#.ad_banner
 riddles.com#@#.sidebar_ad_container
-purewow.com#@#.ad-300x250
+theartstory.org,purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
 operationsports.com#@##mvp-post-bot-ad
-operationsports.com#@##mvp-foot-ad-wrap
+bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
 collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
 collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
@@ -6278,6 +6283,9 @@ goldderby.com,deadline.com#@#.marketplace-ad
 isitdownrightnow.com#@#.ad336
 virtualpiano.net#@#.bottom-ad
 virtualpiano.net#@#.vertical-ad
+theartstory.org#@#.ad-160x600
+theartstory.org#@#.ad-728x90
+theartstory.org#@#.ad-wide
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -7159,18 +7167,18 @@ bankier.pl#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
-@@||jsc.lentainform.com^$script,domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||lentainform.com^$popup,domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||c.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||autocounter.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||s-img.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||cm.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||servicer.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||cdn.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||marketgid.com/images/lentainform/$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|gismeteo.ru|tsargrad.tv|e1.ru|ngs.ru
-mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,gismeteo.ru,tsargrad.tv,e1.ru,ngs.ru#@#a[href*="lentainform.com/pnews/"]
-mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,gismeteo.ru,tsargrad.tv,e1.ru,ngs.ru#@#[id*="ScriptRoot"]
-mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,gismeteo.ru,tsargrad.tv,e1.ru,ngs.ru##div[id*="Composite"]:not([id^="M"]):not([id*="Composite772781"]):not([id*="Composite773419"]):not([id*="Composite686380"]):not([id*="Composite718177"]):not([id*="Composite675347"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite791769"]):not([id*="Composite858402"]):not([id*="Composite690200"]):not([id*="Composite933406"]):not([id*="Composite914168"])
+@@||jsc.lentainform.com^$script,domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||lentainform.com^$popup,domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||c.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||autocounter.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||s-img.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||cm.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||servicer.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||cdn.lentainform.com^$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||marketgid.com/images/lentainform/$domain=mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru#@#a[href*="lentainform.com/pnews/"]
+mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru#@#[id*="ScriptRoot"]
+mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru##div[id*="Composite"]:not([id^="M"]):not([id*="Composite772781"]):not([id*="Composite773419"]):not([id*="Composite686380"]):not([id*="Composite718177"]):not([id*="Composite675347"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite791769"]):not([id*="Composite858402"]):not([id*="Composite690200"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7184,9 +7192,6 @@ lentainform.com#@#div[id^="M"][id*="Composite"]
 7days.ru#@#.b-section_content_partners-news
 7days.ru#@#.b-hz2_type_section
 tsargrad.tv#@#.article__banner
-gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
-gismeteo.ru#@#.xby400
-gismeteo.ru#@##weather-right
 rambler.ru#@#.article__read-also
 rambler.ru#@#.article__banner
 rambler.ru#@#.traffic-blocks[class*="intresting"]
@@ -7196,7 +7201,6 @@ fishki.net#@#[class^="partner-post"] *
 fishki.net#@#.content__sub-heading:-abp-contains(Новости партнёров)
 clck.lentainform.com#@#div[id^="yandex_rtb"]
 clck.lentainform.com#@#div[id^="adfox_"]
-gismeteo.ru#@#.widget-container
 glagol.press#@#.adsbox
 e1.ru,ngs.ru#@#div[data-cms-place]
 e1.ru#@#div[data-place-id]
@@ -7208,13 +7212,9 @@ e1.ru#@#div[data-place-id]
 @@||ads.adfox.ru/220463/$xmlhttprequest,domain=clck.lentainform.com
 @@||igromania.ru/mnt/support/none/1x1transp.gif?ch=1$domain=igromania.ru
 ||igromania.ru/mnt/support/none/1x1transp.gif?ch=2$domain=igromania.ru
-@@||mgid.com^$domain=lentainform.com
-@@||mgid.com^$popup,domain=lentainform.com|iz.ru|stan.kz|russian.rt.com|starhit.ru|7days.ru|tsargrad.tv|wday.ru|gismeteo.ru|teleprogramma.pro|rambler.ru
 @@||rnet.plus^$script,xmlhttprequest,domain=rambler.ru
 @@||rnet.plus^$script,xmlhttprequest,image,domain=livejournal.com
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
-@@/px.gif?ch=1&rn=$domain=gismeteo.ru
-/px.gif?ch=2&rn=$domain=gismeteo.ru
 @@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
 @@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
 !:partner_token=AdPone
@@ -8379,6 +8379,7 @@ searchenginejournal.com#@#.ss_slot
 searchenginejournal.com#@#.avert-text
 searchenginejournal.com#@#.img-mmax-100
 searchenginejournal.com#@#.sss_slot
+pch.com#@#div[class^="div-gpt-ad"]
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
