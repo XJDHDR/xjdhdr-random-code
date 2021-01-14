@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gojHehOg4AktwaN8Ohn4VQ
-! Version: 202101140200
+! Checksum: u9N26Th2Y+T8K06vxj2DSw
+! Version: 202101141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 14 Jan 2021 02:00 UTC
+! Last modified: 14 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5868,6 +5868,7 @@ buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
 buzznet.com,index.hr#@#.ad-holder
 theartstory.org,windfinder.com#@#.ad-horizontal
+theartstory.org,smitefire.com#@#.ad-vertical
 mrexcel.com#@#.ad-in-post
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 hiphopdx.com,littlealchemy2.com#@#.ad-inner
@@ -5893,7 +5894,6 @@ bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,roll
 gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
 nexusmods.com,zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
-smitefire.com#@#.ad-vertical
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
 fosonline.gr#@#.ad-zone
@@ -6161,13 +6161,10 @@ zerohedge.com#@#[class^="Advert_"]
 zerohedge.com#@#.placement
 nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
 nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,hollywoodpq.com#@#.oboxads-ad-widget
-bittbox.com,autooverload.com,operationsports.com,gottabemobile.com#@#.mvp-widget-ad 
-bittbox.com,autooverload.com,operationsports.com,gottabemobile.com#@#.mvp_ad_widget
 pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
 yourdictionary.com#@#.advertising
-firstwefeast.com,dmarge.com,solecollector.com,gameranx.com,hiphopdx.com,kicksonfire.com,vladtv.com,totalprosports.com#@##cmn_ad_tag_head
 sporcle.com#@#[style*="width: 728px; height: 90px;"]
 sporcle.com#@#.page-ad
 sporcle.com#@#.ad-source
@@ -6225,7 +6222,6 @@ riddles.com#@#.ad_banner
 riddles.com#@#.sidebar_ad_container
 theartstory.org,purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
-operationsports.com#@##mvp-post-bot-ad
 bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
 collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
@@ -6286,6 +6282,8 @@ virtualpiano.net#@#.vertical-ad
 theartstory.org#@#.ad-160x600
 theartstory.org#@#.ad-728x90
 theartstory.org#@#.ad-wide
+joblo.com#@##right-ad
+comicskingdom.com#@#.ad-tile
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6519,33 +6517,34 @@ vice.com#@#.vice-ad__container
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=52629
 ! Surfingbird ads
-@@||relap.io/api/*/similar_pages.js$domain=progorod76.ru|bigame.info
-@@||relap.io/api/*/similar_pages.js?*^adSlotManager=1%2C1%2C1%2C1^$domain=knijky.ru
-@@||relap.io/api/*/similar_pages.js?*^adSlotManager=1%2C1^$domain=yaplakal.com
-@@||relap.io/api/*/similar_pages_jsonp.js?$domain=om1.ru
-ria.ru#@#a[href][data-ad-link]
-fishki.net#@#[class^="side"][class*="right"] > div[class*="promo"]
-womanhit.ru#@#.sidebar > :not(.card)
-fishki.net#@#[class^="side"][class*="right"] div[class*="promo"]
-km.ru###smi_teaser_10366
-km.ru##div[style="width: 240px; height: 400px; visibility: visible;"]
-km.ru#@#.pane-advertisment
-provapes.ru#@#.flat_ads_block
-masloved.ru#@#.heatmapthemead_ad_widget
-doctor-neurologist.ru#@#div[id^="advads-"]
-txnews.ru#@#.myAds
-auto.mail.ru#@#.mailru-visibility-check-counter + div
-pogoda.mail.ru#@#.mailru-visibility-check
-pogoda.mail.ru#@#div[data-adq-id]
-knijky.ru#@#div[class*="banner"]
-@@||relap.io^$script,xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|sport-express.ru|deti.mail.ru
-@@||ad.mail.ru/adp^$xmlhttprequest,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
-@@||ad.mail.ru^adq^$script,domain=news.mail.ru|auto.mail.ru|health.mail.ru|sport.mail.ru|pogoda.mail.ru|hi-tech.mail.ru|deti.mail.ru
-@@||beta.mediafort.ru/show.php?placeid=23^$script,domain=stranamam.ru
+mk.ru,knijky.ru,news.mail.ru,kino-teatr.ru,echo.msk.ru,starhit.ru,zr.ru,fontanka.ru,forbes.ru,sport-express.ru,ria.ru,rg.ru,e1.ru,wday.ru,ellegirl.ru,m.fishki.net,russian.rt.com,psychologies.ru,ngs.ru,woman.ru,kp.ru,auto.mail.ru,maximonline.ru,avtovzglyad.ru,kolesa.ru,74.ru,elle.ru,72.ru,lady.mail.ru,novayagazeta.ru,novate.ru,fishki.net,fiteria.ru,v1.ru,marieclaire.ru,hi-tech.mail.ru,womanhit.ru,ngs24.ru,63.ru,nsn.fm,litlib.net,161.ru,kulturologia.ru,59.ru,76.ru,ngs55.ru,ufa1.ru,povarenok.ru,kino.mail.ru,sportmail.ru,parents.ru,nn.ru,vokrugsveta.ru,km.ru,tourprom.ru,pogoda.mail.ru,29.ru,45.ru,doctorpiter.ru,calendar.fontanka.ru,ellegirl.ru,elledecoration.ru,ohotniki.ru,prophotos.ru,buro247.ru,m.buro247.ru,ru.hellomagazine.com,cyrillitsa.ru,7days.ru,bloknot.ru#@#a[href*="https://relap.io/r?"]
+mk.ru,knijky.ru,news.mail.ru,kino-teatr.ru,echo.msk.ru,starhit.ru,zr.ru,fontanka.ru,forbes.ru,sport-express.ru,ria.ru,rg.ru,e1.ru,wday.ru,ellegirl.ru,m.fishki.net,russian.rt.com,psychologies.ru,ngs.ru,woman.ru,kp.ru,auto.mail.ru,maximonline.ru,avtovzglyad.ru,kolesa.ru,74.ru,elle.ru,72.ru,lady.mail.ru,novayagazeta.ru,novate.ru,fishki.net,fiteria.ru,v1.ru,marieclaire.ru,hi-tech.mail.ru,womanhit.ru,ngs24.ru,63.ru,nsn.fm,litlib.net,161.ru,kulturologia.ru,59.ru,76.ru,ngs55.ru,ufa1.ru,povarenok.ru,kino.mail.ru,sportmail.ru,parents.ru,nn.ru,vokrugsveta.ru,km.ru,tourprom.ru,pogoda.mail.ru,29.ru,45.ru,doctorpiter.ru,calendar.fontanka.ru,ellegirl.ru,elledecoration.ru,ohotniki.ru,prophotos.ru,buro247.ru,m.buro247.ru,ru.hellomagazine.com,cyrillitsa.ru,7days.ru,bloknot.ru#@#a[href^="https://relap.io/"][href*="promo_ad_link"]
+@@||relap.io^$xmlhttprequest,domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||relap.io/cc?$script,domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||relap.io/partners/$image,domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||relap.io/v*.js|$script,domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||cdn.relap.io^$image,domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||relap.io/abp.gif?ch=1&rn=$domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||ad.mail.ru/adq/?q=*$script,domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||ad.mail.ru/hbid_yandex^$domain=mk.ru|knijky.ru|news.mail.ru|kino-teatr.ru|echo.msk.ru|starhit.ru|zr.ru|fontanka.ru|forbes.ru|sport-express.ru|ria.ru|rg.ru|e1.ru|wday.ru|ellegirl.ru|m.fishki.net|russian.rt.com|psychologies.ru|ngs.ru|woman.ru|kp.ru|auto.mail.ru|maximonline.ru|avtovzglyad.ru|kolesa.ru|74.ru|elle.ru|72.ru|lady.mail.ru|novayagazeta.ru|novate.ru|fishki.net|fiteria.ru|v1.ru|marieclaire.ru|hi-tech.mail.ru|womanhit.ru|ngs24.ru|63.ru|nsn.fm|litlib.net|161.ru|kulturologia.ru|59.ru|76.ru|ngs55.ru|ufa1.ru|povarenok.ru|kino.mail.ru|sportmail.ru|parents.ru|nn.ru|vokrugsveta.ru|km.ru|tourprom.ru|pogoda.mail.ru|29.ru|45.ru|doctorpiter.ru|calendar.fontanka.ru|ellegirl.ru|elledecoration.ru|ohotniki.ru|prophotos.ru|buro247.ru|m.buro247.ru|ru.hellomagazine.com|cyrillitsa.ru|7days.ru|bloknot.ru
+@@||ad.mail.ru/adp^$xmlhttprequest,domain=news.mail.ru|auto.mail.ru|lady.mail.ru|hi-tech.mail.ru|kino.mail.ru|sportmail.ru|pogoda.mail.ru
+@@||relap.io/v*.js$domain=povarenok.ru
+@@||relap.io/api/*/head.js?token=$domain=povarenok.ru
 @@||beta.mediafort.ru/show.php?placeid=160^$domain=povarenok.ru
-@@||beta.mediafort.ru/show.php?placeid=24^$domain=diets.ru
-@@||beta.mediafort.ru/show.php?placeid=126^$domain=mycharm.ru
-@@||beta.mediafort.ru/show.php?placeid=26^$domain=myjane.ru
+mk.ru#@#div[class^="good-place"]
+knijky.ru#@#div[class*="banner"]
+zr.ru#@#div[id^="crt-"][style]
+russian.rt.com#@#.listing_partners-news
+fiteria.ru#@#div[class*="relap-"]
+km.ru#@#.pane-advertisment
+fontanka.ru#@#article + div + div[class] ~ div
+fontanka.ru#@#section div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
+161.ru,29.ru,45.ru,59.ru,63.ru,72.ru,74.ru,76.ru,e1.ru,ngs.ru,ngs24.ru,ngs42.ru,ngs55.ru,nn.ru,ufa1.ru,v1.ru#@#div[data-cms-place]
+161.ru,29.ru,45.ru,59.ru,63.ru,72.ru,74.ru,76.ru,e1.ru,ngs.ru,ngs24.ru,ngs42.ru,ngs55.ru,nn.ru,ufa1.ru,v1.ru##div[data-cms-place] >div:not(.js-relap-widget-wrapper):not([id*="ScriptRoot"])
+womanhit.ru#@#.sidebar > :not(.card)
+ria.ru#@#.recommend__item-banner
+fishki.net###relap_div_outer
+km.ru##.pane-advertisment > .pane-content > .view-dom-id-6
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
@@ -8200,7 +8199,6 @@ legacy.com#@#.aa_Table
 searchenginejournal.com#@#.absolute-banner
 xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr,avclub.com,billboard.com,clickhole.com,deadspin.com,gizmodo.com,hollywoodreporter.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,seattletimes.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad
 xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@##ad-leaderboard
-xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@#.bottom-ad
 charliekirk.com,charliekirk.assistpub.com,firstpost.com,keno.pch.com,keno.qa.pch.com#@#.ad-300x250
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600
 charliekirk.com,charliekirk.assistpub.com,hannity.com#@#.ad-728-90
@@ -8223,7 +8221,7 @@ washingtontimes.com#@#.ad-slot
 biggeekdad.com#@#.ad-tag
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-top
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-top-banner
-avclub.com,clickhole.com,deadspin.com,forbes.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-unit
+hellhorror.com,avclub.com,clickhole.com,deadspin.com,forbes.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-unit
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-wide
 firstpost.com#@#.ad728x90
 twinfinite.net#@#.adDiv
@@ -8276,18 +8274,17 @@ billboard.com#@#.rail-ad
 agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.sgAd
 allthetests.com#@#.squareAd
 adtechdaily.com#@#.td-a-rec
-bjpenn.com#@#.td-a-rec-id-custom_ad_1
-charlieintel.com,fortniteintel.com#@#.td-a-rec-id-custom_ad_2
+factsherald.com,bjpenn.com#@#.td-a-rec-id-custom_ad_1
+factsherald.com,charlieintel.com,fortniteintel.com#@#.td-a-rec-id-custom_ad_2
 bjpenn.com#@#.td-a-rec-id-custom_ad_3
 bjpenn.com#@#.td-a-rec-id-custom_ad_4
 bjpenn.com#@#.td-a-rec-id-custom_ad_5
-charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
+factsherald.com,charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
 boredpanda.com,comingsoon.net#@#.text-ad
 comingsoon.net,gamerevolution.com,mandatory.com#@#.widget_evolve_ad_gpt_widget
 searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 allthetests.com#@#div > iframe:first-child
 adtechdaily.com#@#div[class*="td-a-rec-id-"]
-thestudentroom.co.uk#@#div[data-adunit]
 reddit.com#@#div[data-before-content="advertisement"]
 searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#div[id^="dfp-ad-"]
@@ -8362,7 +8359,7 @@ chess.assistpub.com,chess.com#@#.index-content-ad-wrapper
 motorsport.com#@#.ms-apb-dmpu
 timesofindia.indiatimes.com#@#.ad-widget
 djhungama.net,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamrreview.com,lolcounter.com,rodalenews.com,timesofindia.com,weathernationtv.com,webmaster-source.com#@#.ad1
-charliekirk.com,charliekirk.assistpub.com#@#div[id^="rc-widget-"]
+thegreggjarrett.com,charliekirk.com,charliekirk.assistpub.com#@#div[id^="rc-widget-"]
 sammobile.com#@#.g-39
 sammobile.com#@#.g-32
 sammobile.com#@#.g-30
@@ -8376,6 +8373,9 @@ searchenginejournal.com#@#.avert-text
 searchenginejournal.com#@#.img-mmax-100
 searchenginejournal.com#@#.sss_slot
 pch.com#@#div[class^="div-gpt-ad"]
+hellhorror.com#@#.c-ad
+thegreggjarrett.com#@#.ads-wrapper
+thegreggjarrett.com#@#.ads_code
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
