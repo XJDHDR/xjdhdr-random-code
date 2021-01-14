@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WF+GYraWVgAUHMlEu6FxbQ
-! Version: 202101131400
+! Checksum: gojHehOg4AktwaN8Ohn4VQ
+! Version: 202101140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jan 2021 14:00 UTC
+! Last modified: 14 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7146,15 +7146,6 @@ temp-mail.org#@#.ads-box
 @@||bankier.pl/static/px.gif?ch=1&rn=$domain=bankier.pl
 @@||s0.2mdn.net/simgad/$image,domain=bankier.pl
 bankier.pl#@#div[id^="div-gpt-ad"]
-!:partner_token=tisoomi
-!:partner_id=a39ee005e26fa3b8
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74291
-! gedichte.ws ads
-@@||tisoomi-adservice.com/aa/$popup,domain=gedichte.ws|adsinlove.de
-@@||tisoomi-adservice.com/aa/$domain=gedichte.ws|adsinlove.de
-||tisoomi-adservice.com/detection/px.gif?ch=2$domain=gedichte.ws|adsinlove.de|t-online.de|quoka.de|meinestadt.de
-@@||tisoomi-adservice.com/detection/px.gif?ch=1$domain=gedichte.ws|adsinlove.de|t-online.de|quoka.de|meinestadt.de
 !:partner_token=shortorial.com
 !:partner_id=1c3ab5b9439d3d2f
 !:type=partner
@@ -7656,6 +7647,11 @@ newsmonkey.be#@#div[id^="div-gpt-ad"]
 @@||kunner.wiesentbote.de/k/www/delivery/asyncjs.php^$script,domain=barockgarten-egloffstein.de|kirschenfest-pretzfeld.de|wiesentbote.de
 @@||kunner.wiesentbote.de/k/www/delivery/asyncspc.php^$xmlhttprequest,domain=barockgarten-egloffstein.de|kirschenfest-pretzfeld.de|wiesentbote.de
 @@||kunner.wiesentbote.de/k/www/delivery/lg.php^$image,domain=barockgarten-egloffstein.de|kirschenfest-pretzfeld.de|wiesentbote.de
+!:partner_token=valuta.exchange ads
+!:partner_id=3cf9ec3c38b84309
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81338
+! valuta.exchange ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
