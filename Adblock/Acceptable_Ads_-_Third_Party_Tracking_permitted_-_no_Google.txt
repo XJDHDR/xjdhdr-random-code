@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IS/bVrHohGYo3uh1hHTo/g
-! Version: 202101141400
+! Checksum: 5ajofkltqMVYyV0aBYB5Og
+! Version: 202101150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Jan 2021 14:00 UTC
+! Last modified: 15 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7185,22 +7185,6 @@ temp-mail.org#@#.ads-box
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73576
 ! bestecode.com ads
-!:partner_token=Bonnier.pl
-!:partner_id=d04af34f78250666
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74203
-! Bonnier.pl Ads
-@@||ampproject.org/rtv/*/amp4ads-$script,domain=bankier.pl
-@@||smartadserver.com/h/nshow?$script,domain=bankier.pl
-@@||sascdn.com/diff/*/sas-banner-$script,domain=bankier.pl
-@@||smartadserver.com^*/prebid.js$domain=bankier.pl
-@@||smartadserver.com^*/smart.prebid.js$domain=bankier.pl
-@@||smartadserver.com^$xmlhttprequest,domain=bankier.pl
-@@||sascdn.com/tag/*/smart.js$domain=bankier.pl
-||bankier.pl/static/px.gif?ch=2&rn=$domain=bankier.pl
-@@||bankier.pl/static/px.gif?ch=1&rn=$domain=bankier.pl
-@@||s0.2mdn.net/simgad/$image,domain=bankier.pl
-bankier.pl#@#div[id^="div-gpt-ad"]
 !:partner_token=shortorial.com
 !:partner_id=1c3ab5b9439d3d2f
 !:type=partner
