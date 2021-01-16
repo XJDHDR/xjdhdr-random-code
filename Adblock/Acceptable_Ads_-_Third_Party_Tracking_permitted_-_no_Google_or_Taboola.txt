@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: az+F0pA2svH8R7zkkCI24w
-! Version: 202101151400
+! Checksum: 3HAYa3vKkluTvAmqJ8Nc8w
+! Version: 202101160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Jan 2021 14:00 UTC
+! Last modified: 16 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6317,6 +6317,47 @@ dotabuff.com#@#.medium_rectangle_b
 overbuff.com,dotabuff.com#@#.leaderboard_a
 overbuff.com,dotabuff.com#@#.leaderboard_b
 vice.com#@#.vice-ad__container
+buzzfeednews.com###div-gpt-ad-223
+buzzfeednews.com###div-gpt-ad-222
+buzzfeednews.com###div-gpt-ad-221
+fandom.com###top_boxad
+buzzfeed.com###div-gpt-ad-42
+probuilds.net###div-gpt-ad-1560554785516-0
+buzzfeed.com###div-gpt-ad-13
+buzzfeed.com###div-gpt-ad-212
+buzzfeed.com###div-gpt-ad-211
+buzzfeed.com###div-gpt-ad-210
+indiewire.com###gpt-iw-article-mid-article-uid0
+woxikon.de###snhb-in_content_1_desktop-0
+gamepedia.com###top_boxad
+jpost.com###div-gpt-ad-1568619711045-0
+jpost.com###div-gpt-ad-1487595824104-0
+globalsecurity.org###globalsecurity_728x90_320x50_Sticky
+hannity.com##[id^="Hannity_desktop_Incontent_Dynamic"]
+hannity.com###Hannity_Desktop_In_Content
+hannity.com###Hannity_Sticky_Footer
+10fastfingers.com##[id="10FastFingers_728x90_320x50_Sticky"]
+xda-developers.com###div-gpt-ad-xda-developerscom35955
+itsfoss.com###itsfoss_320x50_adhesive
+gardeningknowhow.com###gardeningknowhow_728x90_desktop_adhesion
+segmentnext.com##.ad-after-paragraph
+slashfilm.com###SlashFilm_300x250_300x600_ATF
+slashfilm.com###SlashFilm_728x90_320x50_Adhesion
+slashfilm.com###SlashFilm_300x250_In_Post_2
+slashfilm.com###SlashFilm_300x250_In_Post
+polygon.com###div-gpt-ad-desktop_article_body
+thecinemaholic.com###thecinemaholic_320x50_728x90_Adhesion_new_tag
+vox.com###div-gpt-ad-desktop_article_medrec_dynamic
+rollingstone.com###gpt-dsk-tab-article-inbody1-uid0
+ilovemydogsomuch.tv###ilovemydogsomuch_728x90_300x250_320x50_320x100_incontent_2
+lse.co.uk###lsecouk_adhesion
+dlisted.com###dlisted_300x250_300x600_Right_Desktop_1
+dlisted.com###dlisted_300x250_300x600_Right_Desktop_2
+dlisted.com###dlisted_728x90_320x50_Adhesion
+probuilds.net##[id*="Probuilds_336x768_ROS_Skin_"]
+ilovemydogsomuch.tv###ilovemydogsomuch_728x90_300x250_320x50_320x100_incontent_1
+metasrc.com###div-gpt-ad-1542043574283-0
+komando.com###Komando_Adhesion
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -7251,7 +7292,7 @@ informateperu.pe#@#.ads_code
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|wootly.ch|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
 !:partner_token=Lemonde.fr
