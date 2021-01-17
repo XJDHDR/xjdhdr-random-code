@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MZmtNqK3ch0KKwBmc64hiw
-! Version: 202101170200
+! Checksum: MxLdRbg+4hz0IUC7uGNTyA
+! Version: 202101171400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 Jan 2021 02:00 UTC
+! Last modified: 17 Jan 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4114,7 +4114,7 @@ radiolodz.pl##.fa-youtube
 mf24.pl##.youtube
 bit.pt,bitmag.com.br##.follow
 paconsulting.com###cookPop
-4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
+4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 techbang.com##.notify_stickie
 hashrating.com##.cookie
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
