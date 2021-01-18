@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o3vDnWpovRbnCKYQw8U9Nw
-! Version: 202101180200
+! Checksum: uoEI6XEi/r0+dSPVc8mVfA
+! Version: 202101181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Jan 2021 02:00 UTC
+! Last modified: 18 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6320,7 +6320,7 @@ vice.com#@#.vice-ad__container
 buzzfeednews.com###div-gpt-ad-223
 buzzfeednews.com###div-gpt-ad-222
 buzzfeednews.com###div-gpt-ad-221
-fandom.com###top_boxad
+fandom.com###incontent_boxad_1
 buzzfeed.com###div-gpt-ad-42
 probuilds.net###div-gpt-ad-1560554785516-0
 buzzfeed.com###div-gpt-ad-13
@@ -6329,7 +6329,6 @@ buzzfeed.com###div-gpt-ad-211
 buzzfeed.com###div-gpt-ad-210
 indiewire.com###gpt-iw-article-mid-article-uid0
 woxikon.de###snhb-in_content_1_desktop-0
-gamepedia.com###top_boxad
 jpost.com###div-gpt-ad-1568619711045-0
 jpost.com###div-gpt-ad-1487595824104-0
 globalsecurity.org###globalsecurity_728x90_320x50_Sticky
@@ -6358,6 +6357,20 @@ probuilds.net##[id*="Probuilds_336x768_ROS_Skin_"]
 ilovemydogsomuch.tv###ilovemydogsomuch_728x90_300x250_320x50_320x100_incontent_1
 metasrc.com###div-gpt-ad-1542043574283-0
 komando.com###Komando_Adhesion
+iefimerida.gr###ros_sidebar_2
+pagesix.com###div-gpt-ad-rec_widget
+pagesix.com###div-gpt-ad-rec_btf
+gizmodo.com###dfp-ad-13
+weatherzone.com.au###fuse-slot-21899796894-1
+sport.pl###DFP-003-RECTANGLE-3
+sport.pl###DFP-003-RECTANGLE-2
+sport.pl###DFP-003-RECTANGLE-1
+justjared.com###article_Top_Right_160x600_OuterRail
+justjared.com###article_Top_Left_160x600_OuterRail
+sdna.gr###inline1-null
+sdna.gr###ros_article_billboard
+medicalnewstoday.com###inline1__slot
+9to5mac.com###aswift_0_anchor
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6545,6 +6558,7 @@ komando.com###Komando_Adhesion
 @@||gumtree.com^*.prebid-bundle.js$~third-party
 @@||prebid.reworldmediafactory.com/topsante.fr/script.min.js$script,domain=topsante.com
 @@||prebid.reworldmediafactory.com/prebid.js$domain=topsante.com
+||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
