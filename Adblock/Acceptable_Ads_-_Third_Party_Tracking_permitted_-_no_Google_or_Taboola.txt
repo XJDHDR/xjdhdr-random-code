@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VrkDPMEBh85PXFpPtuuv1g
-! Version: 202101190200
+! Checksum: Y9LHaN+bsT6LFKrsPV5O6g
+! Version: 202101191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Jan 2021 02:00 UTC
+! Last modified: 19 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1555,7 +1555,7 @@ fincalculator.ru#@#.adv-border
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
-@@/projectagora.min.js$script,domain=cairo24.com|proaktivdirekt.com|pronews.gr|skai.gr|qiyada.me|promotor.ro|storymag.cz|prouspech.cz|girlworld.cz|bydlimechytre.cz|nechapavyadvokat.cz|carsmag.cz|zdraverady.cz|magazin.sfdb.cz|yallasky.com|hobi.ba|elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=aqartalk.com|ontha.com|cairo24.com|proaktivdirekt.com|pronews.gr|skai.gr|qiyada.me|promotor.ro|storymag.cz|prouspech.cz|girlworld.cz|bydlimechytre.cz|nechapavyadvokat.cz|carsmag.cz|zdraverady.cz|magazin.sfdb.cz|yallasky.com|hobi.ba|elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|shabab.ahram.org.eg|souq-jobs.com|gonowapps.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
@@ -1573,11 +1573,11 @@ fincalculator.ru#@#.adv-border
 @@||ads.projectagoraservices.com/?id=$script,domain=merrjep.al
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||patgsrv.com/c/hobi.ba.js$script,domain=hobi.ba
+@@||patgsrv.com/c/cluj24.ro.js$script,domain=cluj24.ro
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=skai.gr|newsbreak.gr|ciao.ro
 @@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
 @@||merrjep.al/Scripts/prebid2.$script,domain=merrjep.al
-@@||paht.tech/c^$script,domain=proaktivdirekt.com|promotor.ro|bydlimechytre.cz|carsmag.cz|magazin.sfdb.cz|prouspech.cz|girlworld.cz|nechapavyadvokat.cz|storymag.cz|zdraverady.cz|coptstoday.com
 @@||htintpa.tech/c/dejnews.ro.js$domain=dejnews.ro
 @@||htintpa.tech/c/hinditwostop.com.js$domain=hinditwostop.com
 @@||tags-cdn.deployads.com/a/myanimelist.net.js$domain=myanimelist.net
@@ -6371,6 +6371,7 @@ sdna.gr###inline1-null
 sdna.gr###ros_article_billboard
 medicalnewstoday.com###inline1__slot
 9to5mac.com###aswift_0_anchor
+dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -8388,8 +8389,8 @@ lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#
 lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__placeholder
 lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad-refresh
 gamepress.gg#@#.top-ad-desktop
-chess.com#@#.banner_slot
-chess.com#@#.postad
+gamepur.com,chess.com#@#.banner_slot
+gamepur.com,chess.com#@#.postad
 chess.com#@##content-ad
 chess.com#@#.short-sidebar-ad-bottom
 chess.com#@#.short-sidebar-ad-component
