@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dKqgqdqE9NtYCKgZ/jFmkA
-! Version: 202101201400
+! Checksum: bmimnZIWbQ9+jWICUKq9DA
+! Version: 202101210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Jan 2021 14:00 UTC
+! Last modified: 21 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6410,7 +6410,6 @@ dlisted.com###dlisted_300x250_300x600_Right_Desktop_2
 dlisted.com###dlisted_728x90_320x50_Adhesion
 probuilds.net##[id*="Probuilds_336x768_ROS_Skin_"]
 ilovemydogsomuch.tv###ilovemydogsomuch_728x90_300x250_320x50_320x100_incontent_1
-metasrc.com###div-gpt-ad-1542043574283-0
 komando.com###Komando_Adhesion
 iefimerida.gr###ros_sidebar_2
 pagesix.com###div-gpt-ad-rec_widget
@@ -7309,10 +7308,6 @@ e1.ru#@#div[data-place-id]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
-@@?unblockia=true$document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com|elperiodicodelazulejo.es|elperiodicoextremadura.com|elperiodicomediterraneo.com|diariodeleon.es|diarioinformacion.com|farodevigo.es|diariodeibiza.es|diariodemallorca.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|eldia.es|laprovincia.es|levante-emv.com|superdeporte.es|mallorcazeitung.es|regio7.cat|diaridegirona.cat|emporda.info
-@@?unblockia=true$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com|elperiodicodelazulejo.es|elperiodicoextremadura.com|elperiodicomediterraneo.com|diariodeleon.es|diarioinformacion.com|farodevigo.es|diariodeibiza.es|diariodemallorca.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|eldia.es|laprovincia.es|levante-emv.com|superdeporte.es|mallorcazeitung.es|regio7.cat|diaridegirona.cat|emporda.info
-@@||r.unblockia.com/r?$subdocument,document,domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com|elperiodicodelazulejo.es|elperiodicoextremadura.com|elperiodicomediterraneo.com|diariodeleon.es|diarioinformacion.com|farodevigo.es|diariodeibiza.es|diariodemallorca.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|eldia.es|laprovincia.es|levante-emv.com|superdeporte.es|mallorcazeitung.es|regio7.cat|diaridegirona.cat|emporda.info
-@@||cdn.unblockia.com/h.js$domain=paginasamarillas.es|elespanol.com|laregion.es|atlantico.net|juegosjuegos.com|baixaki.com.br|monografias.com|lne.es|eldesmarque.com|sport.es|eksiup.com|elperiodico.com|diariolagrada.com|lacronicabadajoz.com|elperiodicodearagon.com|redextremadura.com|codigonuevo.com|elperiodicodelazulejo.es|elperiodicoextremadura.com|elperiodicomediterraneo.com|diariodeleon.es|diarioinformacion.com|farodevigo.es|diariodeibiza.es|diariodemallorca.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|eldia.es|laprovincia.es|levante-emv.com|superdeporte.es|mallorcazeitung.es|regio7.cat|diaridegirona.cat|emporda.info
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 !:partner_token=cienciaglobal.com
