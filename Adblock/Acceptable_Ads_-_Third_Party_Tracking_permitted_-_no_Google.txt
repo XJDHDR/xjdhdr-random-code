@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Yr1PBt/zTP4jbUaphkpUIQ
-! Version: 202101220200
+! Checksum: llw3rUglUQX6YOpmBXkoIg
+! Version: 202101221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 22 Jan 2021 02:00 UTC
+! Last modified: 22 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5932,7 +5932,6 @@ hiphopdx.com,littlealchemy2.com#@#.ad-inner
 airportia.com#@#.ad-item
 simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
-yourdictionary.com,bgr.com,j-14.com,komando.com,pmcqa.com,zoosk.com#@#.ad-leaderboard
 thesimsresource.com#@#.ad-midleader
 pockettactics.com,theloadout.com,pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mobile-banner
@@ -6281,10 +6280,10 @@ theartstory.org,purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
 bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
-collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
-collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
-pons.com,ldoceonline.com,bab.la#@##ad_leftslot
-pons.com,ldoceonline.com#@##ad_btmslot
+macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
+macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
+macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_leftslot
+macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com#@##ad_btmslot
 bab.la#@#.info-panel
 pockettactics.com,theloadout.com#@#.ad-slot-2
 theloadout.com#@#.sticky_rail600
@@ -6379,7 +6378,6 @@ buzzfeednews.com###div-gpt-ad-222
 buzzfeednews.com###div-gpt-ad-221
 buzzfeed.com###div-gpt-ad-42
 probuilds.net###div-gpt-ad-1560554785516-0
-buzzfeed.com###div-gpt-ad-13
 buzzfeed.com###div-gpt-ad-212
 buzzfeed.com###div-gpt-ad-211
 buzzfeed.com###div-gpt-ad-210
@@ -6549,7 +6547,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||buzzfeed.com/static-assets/js/core.0b1d5620d67b7a3d3aff.js$script,domain=buzzfeed.com
 @@||postfun.com/wp-content/plugins/outrigger/scripts/vendor/header.js$script,domain=postfun.com
 @@||cdn.adpushup.com/39699/adpushup.js$script,domain=fossbytes.com
-@@||hb*.vntsm.com/*/live/$script,xmlhttprequest,domain=gfinityesports.com|realsport101.com|stealthoptional.com|realgaming101.es|realgaming101.pt|realgaming101.me|arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
+@@||hb*.vntsm.com/*/live/$script,xmlhttprequest,domain=fortnitenews.com|fnbr.co|fortnite.gg|poe-vault.com|starlist.pro|fm-base.co.uk|gamezo.co.uk|gfinityesports.com|realsport101.com|stealthoptional.com|realgaming101.es|realgaming101.pt|realgaming101.me|arcadehippo.com|grumpygreen.cricket|r6stats.com|nookazon.com|theouterhaven.net
 @@||analytics2.m2.ai^$domain=free-power-point-templates.com
 @@||hometalk.com/resources/combined/js/prebid-new-cacheBids.$domain=hometalk.com
 @@||plus.addkt.com/collegeconfidential_topics.js$domain=collegeconfidential.com
@@ -6589,10 +6587,13 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/prebid/latest/prebid.js$domain=javacodegeeks.com
-@@||cdn.snigelweb.com/adconsent/adconsent*$domain=javacodegeeks.com
-@@||cdn.snigelweb.com/sncmp/latest/sncmp*$domain=javacodegeeks.com
+@@||cdn.snigelweb.com/adconsent/adconsent*$domain=wordhippo.com|trakt.tv|techcult.com|switchingtomac.com|raymond.cc|notebookcheck.net|morewords.com|maketecheasier.com|azaleasdolls.com|javacodegeeks.com
+@@||cdn.snigelweb.com/sncmp/latest/sncmp*$domain=wordfind.com|tenforums.com|sevenforums.com|online-tech-tips.com|mrexcel.com|helpdeskgeek.com|askmefast.com|javacodegeeks.com
+@@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
+@@||cdn.snigelweb.com/adengine^*^loader.js$domain=windfinder.com
 @@||geo-us.snigelweb.com/bp/$domain=javacodegeeks.com
 @@||geo-eu.snigelweb.com/bp/$domain=javacodegeeks.com
+@@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
 @@||wordreference.com/*/publ/prebid*$domain=wordreference.com
@@ -6618,6 +6619,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
 @@||kumo.network-n.com/dist/latest/gpt.js$domain=theloadout.com
 @@||kumo.network-n.com/dist/latest/prebid.js$domain=theloadout.com
+@@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
