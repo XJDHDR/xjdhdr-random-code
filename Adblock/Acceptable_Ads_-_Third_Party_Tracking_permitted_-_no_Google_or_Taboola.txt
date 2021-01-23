@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rpZdxo52+pjVjL9RZzBUdQ
-! Version: 202101221400
+! Checksum: zp5NrLBuhYQ4NEMvtyMB/A
+! Version: 202101230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Jan 2021 14:00 UTC
+! Last modified: 23 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6604,8 +6604,12 @@ fontanka.ru#@#section div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 161.ru,29.ru,45.ru,59.ru,63.ru,72.ru,74.ru,76.ru,e1.ru,ngs.ru,ngs24.ru,ngs42.ru,ngs55.ru,nn.ru,ufa1.ru,v1.ru##div[data-cms-place] >div:not(.js-relap-widget-wrapper):not([id*="ScriptRoot"])
 womanhit.ru#@#.sidebar > :not(.card)
 ria.ru#@#.recommend__item-banner
+! Hidden for compliance
 fishki.net###relap_div_outer
 km.ru##.pane-advertisment > .pane-content > .view-dom-id-6
+bloknot.ru##div[class*="article__content"] .js-relap-widget-wrapper
+fiteria.ru##div[class*="article-text"] .js-relap-widget-wrapper
+kolesa.ru##div[class*="post-content"] .js-relap-widget-wrapper
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
@@ -8501,6 +8505,7 @@ forbes.com##.pub_300x250
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||d1lxz4vuik53pc.cloudfront.net/w/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||d1lxz4vuik53pc.cloudfront.net/w/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa
 @@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
