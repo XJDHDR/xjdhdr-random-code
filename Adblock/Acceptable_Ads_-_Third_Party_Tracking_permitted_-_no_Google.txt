@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bxKjlnHzHT1flLYxiFenLQ
-! Version: 202101260200
+! Checksum: iOffz+CoFZhGgfXIOsqQjw
+! Version: 202101261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Jan 2021 02:00 UTC
+! Last modified: 26 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5871,7 +5871,7 @@ tecmint.com#@##footer-ads
 colourlovers.com#@##ga-above-footer
 colourlovers.com#@##ga-below-header
 commercialobserver.com,eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,theoi.com,wowinterface.com#@##header-ad
-tecmint.com#@##header-ads
+logisquebec.com,tecmint.com#@##header-ads
 parkers.co.uk#@##headerAd
 tollypics.com,dnd-wiki.org#@##headerad
 itstillworks.com#@##inline-ad
@@ -5962,6 +5962,7 @@ ratemyprofessors.com#@#.ad.banner
 slader.com#@#.ad.inner
 baseball-reference.com,chip.com.tr,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
 baseball-reference.com,basketball-reference.com,chip.com.tr,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad728
+21usdeal.com#@#.AD728
 lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
 gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
@@ -5994,7 +5995,8 @@ ozbargain.com.au#@#.adslisting
 ozbargain.com.au#@#.adslisting2
 ozbargain.com.au#@#.adslistingz
 manofmany.com#@#.adsload
-concerty.com,boingboing.net,gameskinny.com#@#.adslot
+healthyeater.com,concerty.com,boingboing.net,gameskinny.com#@#.adslot
+healthyeater.com#@#.adwrap
 chip.com.tr#@#.adspace
 ozbargain.com.au#@#.adsrecnode
 ozbargain.com.au#@#.adssidebar2
@@ -6242,7 +6244,7 @@ slickdeals.net#@#.abc
 techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
 bonginoreport.com#@#.side-advert
-wordexcerpt.com#@#.body-top-ads
+manga3s.com,wordexcerpt.com#@#.body-top-ads
 latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
 pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
 theloadout.com,pcgamesn.com#@#.inlinerail
@@ -7637,9 +7639,9 @@ webidextrous.com#@#.adrotate_widgets
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80476
 ! WdH Media ads
-@@||*/px.gif?ch=1&rn=*$domain=manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
-||*/px.gif?ch=2&rn=*$domain=manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
-manua.ls,xn--80adah2aybmok5f.bg,xn----2lbcmca4cdtsdb1c.gr,xn--80aaexjatkpdggghih8b1a2yhv.com.ua,handleidi.ng,bedienungsanleitu.ng,manualsearcher.com,manualpdf.es,manualeduso.it,manualpdf.pt,manualspdf.ru,modesdemploi.fr,bruksanvisni.ng,instrukcjaobslugipdf.pl,manualdeinstructiuni.ro,bruksanvisningpdf.no,kayttooh.je,pdfmanualer.dk,petunjuk.co.id,manualypdf.cz,huang-dan.vn,prirucnici.hr,prirucky.sk,hasznalati-utasitasok.hu,manualpdf.us,usermanual.uk,manual.ar#@#.native.ad
+@@||*/px.gif?ch=1&rn=*$domain=manuals.ca|manualpdf.com.br|manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
+||*/px.gif?ch=2&rn=*$domain=manuals.ca|manualpdf.com.br|manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
+manuals.ca,manualpdf.com.br,manua.ls,xn--80adah2aybmok5f.bg,xn----2lbcmca4cdtsdb1c.gr,xn--80aaexjatkpdggghih8b1a2yhv.com.ua,handleidi.ng,bedienungsanleitu.ng,manualsearcher.com,manualpdf.es,manualeduso.it,manualpdf.pt,manualspdf.ru,modesdemploi.fr,bruksanvisni.ng,instrukcjaobslugipdf.pl,manualdeinstructiuni.ro,bruksanvisningpdf.no,kayttooh.je,pdfmanualer.dk,petunjuk.co.id,manualypdf.cz,huang-dan.vn,prirucnici.hr,prirucky.sk,hasznalati-utasitasok.hu,manualpdf.us,usermanual.uk,manual.ar#@#.native.ad
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
