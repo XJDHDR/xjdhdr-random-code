@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QSTy0+HztKnsylJRwhZsOw
-! Version: 202101250200
+! Checksum: o/AUktBgW82it1s2nJrE1w
+! Version: 202101260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 Jan 2021 02:00 UTC
+! Last modified: 26 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1225,6 +1225,7 @@ bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 allure.com,architecturaldigest.com,bgr.com,bonappetit.com,cntraveler.com,deadline.com,digitalartsonline.co.uk,epicurious.com,gq.com,hollywoodlife.com,macworld.co.uk,macworld.es,pcworld.es,self.com,sheknows.com,techadvisor.co.uk,techadvisor.fr,teenvogue.com,tvline.com,vanityfair.com,variety.com,indiewire.com#@#.outbrain-widget
+passeportsante.net#@#.pstAd
 @@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
 @@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
@@ -2768,6 +2769,10 @@ thevarsity.ca#@#.ad-med-rect
 @@||i.plug.it/iplug/js/lib/iol/analytics/ads/adv/_ads.js?$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
 @@||iolam.it/js/prebid.js$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
 @@||leboncoin.fr/fronttools/js/hb_3-20-0.js$script,~third-party
+@@||lib.wtg-ads.com/lib.min.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
+@@||lib.wtg-ads.com/publisher^*/standard.publisher.config.min.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
+@@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
+@@||lib.wtg-ads.com/prebid/prebid_*.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -6224,7 +6229,7 @@ theartstory.org,purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
 bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
-macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
+oxfordlearnersdictionaries.com,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
 macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
 macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_leftslot
 macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com#@##ad_btmslot
@@ -6320,7 +6325,6 @@ vice.com#@#.vice-ad__container
 buzzfeednews.com###div-gpt-ad-223
 buzzfeednews.com###div-gpt-ad-222
 buzzfeednews.com###div-gpt-ad-221
-buzzfeed.com###div-gpt-ad-42
 probuilds.net###div-gpt-ad-1560554785516-0
 buzzfeed.com###div-gpt-ad-212
 buzzfeed.com###div-gpt-ad-211
@@ -6545,7 +6549,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||assets.pons.com/assets/ads/iaw-pons$domain=pons.com
 @@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib*$domain=viceops.net
 @@^wp-content/plugins/*/js/*.js$~third-party,domain=autooverload.com|bonvoyaged.com|lifestylogy.com
-@@^external/scripts/prebid$~third-party,domain=collinsdictionary.com
+@@^external/scripts/prebid$~third-party,domain=oxfordlearnersdictionaries.com|collinsdictionary.com
 @@||ads-api.ft.com/v2/$xmlhttprequest,domain=ft.com
 @@||tabstats.com/js/prebid*$domain=tabstats.com
 @@||vice-web-statics-cdn.vice.com/vendor/ad-lib^$script,xmlhttprequest,domain=vice.com
@@ -7579,6 +7583,7 @@ webidextrous.com#@#.adrotate_widgets
 ! WdH Media ads
 @@||*/px.gif?ch=1&rn=*$domain=manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
 ||*/px.gif?ch=2&rn=*$domain=manua.ls|xn--80adah2aybmok5f.bg|xn----2lbcmca4cdtsdb1c.gr|xn--80aaexjatkpdggghih8b1a2yhv.com.ua|handleidi.ng|bedienungsanleitu.ng|manualsearcher.com|manualpdf.es|manualeduso.it|manualpdf.pt|manualspdf.ru|modesdemploi.fr|bruksanvisni.ng|instrukcjaobslugipdf.pl|manualdeinstructiuni.ro|bruksanvisningpdf.no|kayttooh.je|pdfmanualer.dk|petunjuk.co.id|manualypdf.cz|huang-dan.vn|prirucnici.hr|prirucky.sk|hasznalati-utasitasok.hu|manualpdf.us|usermanual.uk|manual.ar
+manua.ls,xn--80adah2aybmok5f.bg,xn----2lbcmca4cdtsdb1c.gr,xn--80aaexjatkpdggghih8b1a2yhv.com.ua,handleidi.ng,bedienungsanleitu.ng,manualsearcher.com,manualpdf.es,manualeduso.it,manualpdf.pt,manualspdf.ru,modesdemploi.fr,bruksanvisni.ng,instrukcjaobslugipdf.pl,manualdeinstructiuni.ro,bruksanvisningpdf.no,kayttooh.je,pdfmanualer.dk,petunjuk.co.id,manualypdf.cz,huang-dan.vn,prirucnici.hr,prirucky.sk,hasznalati-utasitasok.hu,manualpdf.us,usermanual.uk,manual.ar#@#.native.ad
 !:partner_token=antiadblock
 !:partner_id=c33fedb29e10ff22
 !:type=partner
@@ -8431,6 +8436,7 @@ thedirect.com#@#.pw-ph-sky
 thedirect.com#@#.pw-ph-leaderboard
 thedirect.com#@#.ads_container
 opex360.com,opex360.assistpub.com#@##header-ads
+cars.com#@#.cubeAd
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
