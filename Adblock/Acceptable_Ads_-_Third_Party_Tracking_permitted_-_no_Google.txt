@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mlCleaxXCMoGOmLTYzQ0Lg
-! Version: 202101270200
+! Checksum: UmjBv04G2gx85KVzzZI7VQ
+! Version: 202101271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Jan 2021 02:00 UTC
+! Last modified: 27 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7325,6 +7325,7 @@ e1.ru#@#div[data-place-id]
 ! Adpone ads
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
+elperiodico.com#@#.adv-header
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
