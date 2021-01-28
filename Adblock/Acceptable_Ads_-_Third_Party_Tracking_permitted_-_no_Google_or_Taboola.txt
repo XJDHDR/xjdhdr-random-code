@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zzZslcDT/fSThsb+C4ci6w
-! Version: 202101271400
+! Checksum: tZNIVTTSRm4mrQEeLgpbHw
+! Version: 202101280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 Jan 2021 14:00 UTC
+! Last modified: 28 Jan 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1597,7 +1597,7 @@ gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com
 tempest.services.disqus.com#@##ad-container
 radiosarajevo.ba#@#.adloaded
 radiosarajevo.ba#@#.iAdserver
-healthdruggy.com,polskiobserwator.de#@#.g1-advertisement
+delicieux.fr,healthdruggy.com,polskiobserwator.de#@#.g1-advertisement
 escape.com.au#@#.widget_newscorpau_ads
 quizdiva.net#@##banner_ad
 krstarica.com#@#.bsac-container
@@ -1737,7 +1737,7 @@ ouest-france.fr,sofoot.com,yatahonga.com#@#.pub
 livenewson.com#@#.quads-ad2
 buzzissime.com#@#.quads-ad3_widget
 inews24.it,emdireto.pt,conserve-energy-future.com,solidesnake.com#@#.quads-ad4
-bombeiros24.pt,inews24.it,emdireto.pt,alternativemediasyndicate.com,ancient-code.com,conserve-energy-future.com,elfarandi.com,larecette.net,livenewson.com,newsroom24.co.uk,slavorum.org,solidesnake.com,soo-healthy.com,soolide.com,themindcircle.com,thewildchild.co.za,topimag.fr,trustmyscience.com,zipbr.com#@#.quads-location
+delicieux.fr,bombeiros24.pt,inews24.it,emdireto.pt,alternativemediasyndicate.com,ancient-code.com,conserve-energy-future.com,elfarandi.com,larecette.net,livenewson.com,newsroom24.co.uk,slavorum.org,solidesnake.com,soo-healthy.com,soolide.com,themindcircle.com,thewildchild.co.za,topimag.fr,trustmyscience.com,zipbr.com#@#.quads-location
 goldpara.com#@#.reklam2
 eurosport.com#@#.related-content-story--sponsored
 guiadasemana.com.br#@#.side-ads
@@ -1814,6 +1814,7 @@ clicrbs.com.br#@#.card-ad
 clicrbs.com.br#@#.ad-area
 lasicilia.it#@#.bannervcms
 ouest-france.fr#@#.partenaire-externe
+dailymix.info#@#.ad_center
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -6324,9 +6325,6 @@ dotabuff.com#@#.medium_rectangle_b
 overbuff.com,dotabuff.com#@#.leaderboard_a
 overbuff.com,dotabuff.com#@#.leaderboard_b
 vice.com#@#.vice-ad__container
-buzzfeednews.com###div-gpt-ad-223
-buzzfeednews.com###div-gpt-ad-222
-buzzfeednews.com###div-gpt-ad-221
 probuilds.net###div-gpt-ad-1560554785516-0
 buzzfeed.com###div-gpt-ad-212
 buzzfeed.com###div-gpt-ad-211
@@ -6344,7 +6342,6 @@ xda-developers.com###div-gpt-ad-xda-developerscom35955
 itsfoss.com###itsfoss_320x50_adhesive
 gardeningknowhow.com###gardeningknowhow_728x90_desktop_adhesion
 segmentnext.com##.ad-after-paragraph
-slashfilm.com###SlashFilm_300x250_300x600_ATF
 slashfilm.com###SlashFilm_728x90_320x50_Adhesion
 slashfilm.com###SlashFilm_300x250_In_Post_2
 slashfilm.com###SlashFilm_300x250_In_Post
@@ -8440,6 +8437,11 @@ thedirect.com#@#.pw-ph-leaderboard
 thedirect.com#@#.ads_container
 opex360.com,opex360.assistpub.com#@##header-ads
 cars.com#@#.cubeAd
+travelandleisure.com,parents.com#@#.ad-wrapper
+travelandleisure.com,parents.com#@#.desktop-ad
+travelandleisure.com#@#.ad-title
+travelandleisure.com,parents.com#@#.ad-sticky-container
+delish.com,delish.assistpub.com#@#.vertical-ad
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide

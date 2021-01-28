@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bW5wKgTcW+wEjyMxS/S7pg
-! Version: 202101271400
+! Checksum: Mi5emdgzdRlMOCap3eU20w
+! Version: 202101280200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 27 Jan 2021 14:00 UTC
+! Last modified: 28 Jan 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1218,7 +1218,7 @@ jabong.com,people.com,spaargids.be,techrepublic.com,time.com,yahoo.com#@#a[href^
 pcmag.com,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
 linkedin.com,tasteofhome.com#@#a[href^="http://pubads.g.doubleclick.net/"]
 google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.de#@#a[href^="http://www.liutilities.com/"]
-buzzfeed.com,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+buzzfeed.com,spaargids.be,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 drive.google.com#@#div[aria-label="Ads"]
 daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#div[id^="google_ads_iframe_"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
@@ -2286,7 +2286,7 @@ www.google.com#@##videoads
 @@||weatherbug.com/desktop-weather/*=728x90&
 @@||weatherbug.com/images/stickers/*/728x90/
 @@||weatherbug.com/style/stickers/*_728x90.css
-@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com|nytimes.com
+@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com|nytimes.com|spaargids.be
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||adfarm.mediaplex.com/ad/ck/$popup,domain=betwonga.com|comparison411.com|dealsplus.com|matched-bet.net|pcmag.com
 @@||ads.ellmountgaming.com/redirect.aspx?pid=*&bid=$popup
@@ -3239,6 +3239,7 @@ _youtube_social_
 ###ico-google
 ###icon-GooglePlus
 ###icon-youtube
+###iconSocialYoutube
 ###icon_googleplus
 ###icon_youtube
 ###like-bar-google
