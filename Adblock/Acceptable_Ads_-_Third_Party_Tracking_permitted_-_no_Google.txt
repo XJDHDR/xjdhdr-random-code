@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b+keBm+isSLjbTS1Krs3Tw
-! Version: 202101290200
+! Checksum: KUye2XLTRiULHZ9E2BzHuw
+! Version: 202101291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Jan 2021 02:00 UTC
+! Last modified: 29 Jan 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1873,6 +1873,8 @@ ouest-france.fr#@#.partenaire-externe
 10gifs.com,americantimesfood.com,bd-pratidin.com,boxingnews24.com,boxingscene.com,dailymix.info,delicieux.fr,fcporto.ws,geny.com,gifopotamo.com,legnanonews.com,letudiant.fr,nationnews.com,news1.co.il,olay.com.tr,sponser.co.il,superesportes.com.br,tusciaweb.eu,woohay.com,strefa-beki.pl,top13.net,twtd.co.uk,whatreallyhappened.com,madamebuzz.com#@##taboola-mid-article-thumbnails
 dailymix.info#@#.ad_center
 delicieux.fr##.quads-location > div:not(#taboola-mid-article-thumbnails)
+lephoceen.fr#@#.m-adbanner
+lephoceen.fr#@#.m-adbanner--newsunder
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -5941,7 +5943,7 @@ airportia.com#@#.ad-item
 simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
 thesimsresource.com#@#.ad-midleader
-pockettactics.com,theloadout.com,pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
+wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mobile-banner
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-mrec
 smitefire.com#@#.ad-narrow
@@ -6249,7 +6251,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 bonginoreport.com#@#.side-advert
 manga3s.com,wordexcerpt.com#@#.body-top-ads
 latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
-pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
+wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
 theloadout.com,pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
 thefantasyfootballers.com#@#.ad-fixed
@@ -6295,7 +6297,7 @@ macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ld
 macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_leftslot
 macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com#@##ad_btmslot
 bab.la#@#.info-panel
-pockettactics.com,theloadout.com#@#.ad-slot-2
+wargamer.com,pockettactics.com,theloadout.com#@#.ad-slot-2
 theloadout.com#@#.sticky_rail600
 thecolor.com#@##rectangleAd
 dotabuff.com,overbuff.com#@#.elo-placement
@@ -6351,6 +6353,7 @@ theartstory.org#@#.ad-wide
 joblo.com#@##right-ad
 comicskingdom.com#@#.ad-tile
 msn.com#@#.widead
+metservice.com#@#.Sidebar-ad
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
