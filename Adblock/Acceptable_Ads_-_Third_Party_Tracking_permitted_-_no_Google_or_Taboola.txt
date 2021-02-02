@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QiDefpaGJ1M77iWdrLHdAw
-! Version: 202102020200
+! Checksum: logiawtzwZ6W62GlepylNg
+! Version: 202102021400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Feb 2021 02:00 UTC
+! Last modified: 02 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7314,6 +7314,7 @@ gamevui.vn#@#.adbox
 societatea.ro#@#.quads-location
 informateperu.pe#@#.ads-wrapper
 informateperu.pe#@#.ads_code
+super-nonni.it#@#.td-a-ad
 @@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
 @@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
@@ -7322,6 +7323,7 @@ informateperu.pe#@#.ads_code
 @@||s-img.steepto.com/g^$image,domain=pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
+@@||redactia.ro/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js^$domain=redactia.ro
 !:partner_token=Lemonde.fr
 !:partner_id=e6ee3ec59227327c
 !:type=partner
