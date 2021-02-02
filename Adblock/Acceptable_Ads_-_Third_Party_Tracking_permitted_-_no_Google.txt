@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mV5TJHPYf/6Zlf9IXN70JA
-! Version: 202102011400
+! Checksum: GQOU1QATCH3pIWIiGvhGRw
+! Version: 202102020200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Feb 2021 14:00 UTC
+! Last modified: 02 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5982,7 +5982,7 @@ visihow.com,askmefast.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,w
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label_method
 urldecoder.org,discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
-itstillworks.com#@#.adcontainer
+msn.com,itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.admz
 somethingawful.com#@#.adrect
@@ -6354,6 +6354,7 @@ joblo.com#@##right-ad
 comicskingdom.com#@#.ad-tile
 msn.com#@#.widead
 metservice.com#@#.Sidebar-ad
+msn.com#@#.dynamicRRWrapper
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -10181,6 +10182,15 @@ yahoo.com#@##my-adsLREC4-base
 @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
 @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
 @@||atwola.com/adcount*$image,domain=yahoo.com
+@@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=yahoo.com
+@@||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
+yahoo.com##[id^="sda-LREC"]
+yahoo.com###sda-LDRB
+yahoo.com#@##my-adsLREC
+yahoo.com##div[id^="my-ads"]:not(.uba-container):not([id$="-base"]):not([id$="-iframe"])
+yahoo.com#@##my-adsLREC2
+yahoo.com#@#.darla-lrec-ad
+yahoo.com##.darla-lrec-ad:not(.uba-container)
 yahoo.com#@##sticky-lrec2-footer
 yahoo.com#@#.uba-container
 yahoo.com#@#.billboard-ads
