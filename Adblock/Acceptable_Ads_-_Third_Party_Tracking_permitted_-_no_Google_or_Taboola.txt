@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CO4yFtcaOzxV2b+G0gvAZg
-! Version: 202102030200
+! Checksum: 6yxf+82aHTfTwGjP6OGWRw
+! Version: 202102031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Feb 2021 02:00 UTC
+! Last modified: 03 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4916,6 +4916,7 @@ freewarefiles.com#@#div > iframe[style]
 mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
 gsmarena.com##.sticky-mpu
+geeksforgeeks.org#@#.advertise-here
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 !:partner_token=bedandchai.com
@@ -6301,6 +6302,7 @@ comicskingdom.com#@#.ad-tile
 msn.com#@#.widead
 metservice.com#@#.Sidebar-ad
 msn.com#@#.dynamicRRWrapper
+fiscoetasse.com#@##banner728
 ! additional detection
 ! Hidden for compliance 
 geekycamel.com###ad_pos_gc-desktop-underr
@@ -6447,8 +6449,10 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=diritto.it|fiscoetasse.com|portalebambini.it|portalebambini.itthegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
+@@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
@@ -6516,7 +6520,6 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||static.bigpipes.co/v*/sites^$script,domain=nightlife.ca|tonpetitlook.com|tplmoms.com|tonbarbier.com|danslescoulisses.com|5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
 @@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
-@@||cdn.exmarketplace.com/bidder/adsbooster/eb_sf.js$domain=portalebambini.it
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
 @@||ads.blogherads.com^$domain=indiewire.com|deadline.com|footwearnews.com|goldderby.com|variety.com|tvline.com|bgr.com|rollingstone.com
@@ -7386,6 +7389,7 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 @@||adriver.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
 @@||adhigh.net^$image,domain=mail.ru|sportmail.ru|mradx.net
 @@||sravni.ru^$domain=mail.ru|sportmail.ru|mradx.net
+@@||r.mradx.net^$image,domain=mail.ru
 mail.ru,sportmail.ru#@##advWrapper
 mail.ru,sportmail.ru#@##yandex_ad
 mail.ru,sportmail.ru#@#.adsblock
@@ -8195,6 +8199,7 @@ testpages.adblockplus.org#@##abptest
 @@/iqadcontroller.js$~third-party,domain=faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de
 @@||static.faz.net^*/FAZ_secondary-info.min.js$domain=faz.net
 @@||twt-assets.washtimes.com/v4/js/ads/config$domain=washingtontimes.com
+@@/ad-api/*$domain=delish.com|delish.assistpub.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
@@ -8455,6 +8460,8 @@ travelandleisure.com,parents.com#@#.desktop-ad
 travelandleisure.com#@#.ad-title
 travelandleisure.com,parents.com#@#.ad-sticky-container
 delish.com,delish.assistpub.com#@#.vertical-ad
+delish.com,delish.assistpub.com#@#.right-rail-ad
+delish.com,delish.assistpub.com#@#.listicle--ad-rail
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
