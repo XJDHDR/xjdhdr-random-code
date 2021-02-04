@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: op0wa2WnMndpj5aGlWWoKQ
-! Version: 202102040200
+! Checksum: zZf9HEFfLP8VlR1iSe4ppg
+! Version: 202102041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Feb 2021 02:00 UTC
+! Last modified: 04 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8468,6 +8468,7 @@ travelandleisure.com,parents.com#@#.ad-sticky-container
 delish.com,delish.assistpub.com#@#.vertical-ad
 delish.com,delish.assistpub.com#@#.right-rail-ad
 delish.com,delish.assistpub.com#@#.listicle--ad-rail
+windowsreport.com#@#div[data-insertion]
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide

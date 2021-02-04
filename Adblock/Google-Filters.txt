@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4LJTA+Lhi3QxCnfVfKaREw
-! Version: 202102040200
+! Checksum: oSItREfzgO/DbwoUlMf6QA
+! Version: 202102041400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 04 Feb 2021 02:00 UTC
+! Last modified: 04 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4154,7 +4154,7 @@ passeidireto.com#@#.btn_google
 digg.com#@#.digg-button
 digg.com#@#.digg_button
 busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.facebook.icon
-firebase.google.com#@#.fb-dialog
+google.com#@#.fb-dialog
 500px.com,academia.edu,crackwatch.com,peerlyst.com,shitposter.club,smashcast.tv,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
 battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
 hotforfoodblog.com#@#.pin-it
