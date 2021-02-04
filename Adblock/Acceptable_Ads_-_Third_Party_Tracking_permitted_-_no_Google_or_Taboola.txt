@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6yxf+82aHTfTwGjP6OGWRw
-! Version: 202102031400
+! Checksum: op0wa2WnMndpj5aGlWWoKQ
+! Version: 202102040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Feb 2021 14:00 UTC
+! Last modified: 04 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6238,6 +6238,7 @@ theartstory.org,purewow.com#@#.ad-300x250
 purewow.com#@#.ad-300x600
 bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
+collinsdictionary.com#@#.topslot_container
 oxfordlearnersdictionaries.com,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
 dictionary.cambridge.org#@##ad_topslot_b
 dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
@@ -6305,6 +6306,7 @@ msn.com#@#.dynamicRRWrapper
 fiscoetasse.com#@##banner728
 ! additional detection
 ! Hidden for compliance 
+nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
 sbnation.com###div-gpt-ad-desktop_article_body
@@ -6620,12 +6622,16 @@ fontanka.ru#@#section div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 161.ru,29.ru,45.ru,59.ru,63.ru,72.ru,74.ru,76.ru,e1.ru,ngs.ru,ngs24.ru,ngs42.ru,ngs55.ru,nn.ru,ufa1.ru,v1.ru##div[data-cms-place] >div:not(.js-relap-widget-wrapper):not([id*="ScriptRoot"])
 womanhit.ru#@#.sidebar > :not(.card)
 ria.ru#@#.recommend__item-banner
+kulturologia.ru#@##right > h2:-abp-contains(Рекомендуем) + .bordered
+kulturologia.ru#@##right > h2:-abp-contains(Рекомендуем)
+kulturologia.ru#@#.post > h2:-abp-contains(Обратите внимание)
 ! Hidden for compliance
 fishki.net###relap_div_outer
 km.ru##.pane-advertisment > .pane-content > .view-dom-id-6
 bloknot.ru##div[class*="article__content"] .js-relap-widget-wrapper
 fiteria.ru##div[class*="article-text"] .js-relap-widget-wrapper
 kolesa.ru##div[class*="post-content"] .js-relap-widget-wrapper
+kulturologia.ru##div[class*="content"] .js-relap-widget-wrapper
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
