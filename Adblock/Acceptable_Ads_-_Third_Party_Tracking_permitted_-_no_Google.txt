@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4atn09MJMfEdUr7J9mO3kA
-! Version: 202102041400
+! Checksum: jvqw6xXb30XQaFsHpsc9bA
+! Version: 202102050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Feb 2021 14:00 UTC
+! Last modified: 05 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1184,6 +1184,8 @@ bizportal.co.il##.OUTBRAIN[data-widget-id="AR_8"] .ob-p
 beaumontenterprise.com,ctnews.com,ctpost.com,greenwichtime.com,newstimes.com,seattlepi.com,sfgate.com,stamfordadvocate.com,timesunion.com##.OUTBRAIN > div[class*="AR_"] > .ob_dual_left
 one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 one.co.il,valeursactuelles.com##.OUTBRAIN[data-widget-id="AR_2"]
+9news.com.au,nine.com.au##div[class^="article__body-"] .ob-widget
+9news.com.au,nine.com.au##div[class^="component__Body-"] .ob-widget
 politico.com,slate.com#@#.ad
 ew.com,fortune.com,people.com#@#.ad-sticky-container
 huffingtonpost.es,huffingtonpost.fr#@#.ad_spot
@@ -1736,7 +1738,7 @@ autoexpress.co.uk#@#.block-taboola
 cotemaison.fr,lexpress.fr#@#.block_partners
 bradenton.com,centredaily.com,idahostatesman.com,islandpacket.com,kentucky.com,sunherald.com#@#.bottom_ad
 jewishworldreview.com#@#.bottom_ads
-poradyiwskazowki.pl,animaals.com,tips-and-tricks.co,99traveltips.com,asiantvsub.com,awesomejelly.com,buzz-panda.de,dingenvoorvrouwen.nl,ejemplosde.info,estaily.com,feedxp.com,holahoop.com,ijustlovethis.com,kookfans.nl,mangaforever.net,mesastuces.net,tippsundtricks.co,viralhindi.com,womendailymagazine.com,ziperto.com#@#.bottomad
+guncelfiyatlari.com,poradyiwskazowki.pl,animaals.com,tips-and-tricks.co,99traveltips.com,asiantvsub.com,awesomejelly.com,buzz-panda.de,dingenvoorvrouwen.nl,ejemplosde.info,estaily.com,feedxp.com,holahoop.com,ijustlovethis.com,kookfans.nl,mangaforever.net,mesastuces.net,tippsundtricks.co,viralhindi.com,womendailymagazine.com,ziperto.com#@#.bottomad
 ibtimes.co.uk#@#.box-recommend-ad
 patch.com#@#.box-taboola-content
 dasibogilink.com#@#.bsac
@@ -1870,7 +1872,7 @@ clicrbs.com.br#@#.card-ad
 clicrbs.com.br#@#.ad-area
 lasicilia.it#@#.bannervcms
 ouest-france.fr#@#.partenaire-externe
-10gifs.com,americantimesfood.com,bd-pratidin.com,boxingnews24.com,boxingscene.com,dailymix.info,delicieux.fr,fcporto.ws,geny.com,gifopotamo.com,legnanonews.com,letudiant.fr,nationnews.com,news1.co.il,olay.com.tr,sponser.co.il,superesportes.com.br,tusciaweb.eu,woohay.com,strefa-beki.pl,top13.net,twtd.co.uk,whatreallyhappened.com,madamebuzz.com#@##taboola-mid-article-thumbnails
+healthdruggy.com,10gifs.com,americantimesfood.com,bd-pratidin.com,boxingnews24.com,boxingscene.com,dailymix.info,delicieux.fr,fcporto.ws,geny.com,gifopotamo.com,legnanonews.com,letudiant.fr,nationnews.com,news1.co.il,olay.com.tr,sponser.co.il,superesportes.com.br,tusciaweb.eu,woohay.com,strefa-beki.pl,top13.net,twtd.co.uk,whatreallyhappened.com,madamebuzz.com#@##taboola-mid-article-thumbnails
 dailymix.info#@#.ad_center
 delicieux.fr##.quads-location > div:not(#taboola-mid-article-thumbnails)
 lephoceen.fr#@#.m-adbanner
@@ -5815,7 +5817,7 @@ dailywire.com#@#div[style^="width: 728px;"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
 ! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
-healthline.com,speedrun.com#@#div[data-ad]
+letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
 westeros.org#@##HeaderAd
@@ -6668,6 +6670,8 @@ mk.ru,knijky.ru,news.mail.ru,kino-teatr.ru,echo.msk.ru,starhit.ru,zr.ru,fontanka
 @@||relap.io/v*.js$domain=povarenok.ru
 @@||relap.io/api/*/head.js?token=$domain=povarenok.ru
 @@||beta.mediafort.ru/show.php?placeid=160^$domain=povarenok.ru
+@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=rg.ru
+@@||yastatic.net/pcode/adfox/loader.js$script,domain=rg.ru
 mk.ru#@#div[class^="good-place"]
 knijky.ru#@#div[class*="banner"]
 zr.ru#@#div[id^="crt-"][style]
@@ -6683,7 +6687,11 @@ ria.ru#@#.recommend__item-banner
 kulturologia.ru#@##right > h2:-abp-contains(Рекомендуем) + .bordered
 kulturologia.ru#@##right > h2:-abp-contains(Рекомендуем)
 kulturologia.ru#@#.post > h2:-abp-contains(Обратите внимание)
+rg.ru#@#.b-ads
+rg.ru#@#.b-adfox
+rg.ru#@#div[id^="adfox_"]
 ! Hidden for compliance
+rg.ru##div[id^="rgb_adfox_media-"]
 fishki.net###relap_div_outer
 km.ru##.pane-advertisment > .pane-content > .view-dom-id-6
 bloknot.ru##div[class*="article__content"] .js-relap-widget-wrapper
