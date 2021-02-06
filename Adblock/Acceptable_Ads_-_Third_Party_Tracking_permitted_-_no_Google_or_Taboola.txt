@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uywrKp1E1OzAItvD/mchYQ
-! Version: 202102051400
+! Checksum: Ippoh50cf1H3SuwOZm2wKg
+! Version: 202102060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Feb 2021 14:00 UTC
+! Last modified: 06 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2778,6 +2778,9 @@ thevarsity.ca#@#.ad-med-rect
 @@||lib.wtg-ads.com/publisher^*/standard.publisher.config.min.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
 @@||lib.wtg-ads.com/prebid/prebid_*.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
+@@||dx6ctphzljkf1.cloudfront.net/iqdcdnes/prebid/live/prebid*.js$domain=tagesspiegel.de|faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de|ze.tt
+@@/iqadcontroller.js$~third-party,domain=tagesspiegel.de|faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de
+@@||static.faz.net^*/FAZ_secondary-info.min.js$domain=tagesspiegel.de|faz.net
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -6306,6 +6309,11 @@ msn.com#@#.widead
 metservice.com#@#.Sidebar-ad
 msn.com#@#.dynamicRRWrapper
 fiscoetasse.com#@##banner728
+flightconnections.com#@#.ad-box
+flightconnections.com#@#.ad-box-2
+coolfont.org#@#.sponsored_ad
+chaptercheats.com#@#.leader_ad
+chaptercheats.com#@#.adright
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6584,6 +6592,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/adfuel/ais/2.1/ncaa_3-ais.min.js$domain=ncaa.com
 @@||i.cdn.turner.com/ads/adfuel/adfuel-2.1.min.js$domain=ncaa.com
+@@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -8209,9 +8218,6 @@ testpages.adblockplus.org#@##abptest
 @@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
 @@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=sport.es
-@@||dx6ctphzljkf1.cloudfront.net/iqdcdnes/prebid/live/prebid*.js$domain=faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de|ze.tt
-@@/iqadcontroller.js$~third-party,domain=faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de
-@@||static.faz.net^*/FAZ_secondary-info.min.js$domain=faz.net
 @@||twt-assets.washtimes.com/v4/js/ads/config$domain=washingtontimes.com
 @@/ad-api/*$domain=menshealth.com|menshealth.assistpub.com|delish.com|delish.assistpub.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
@@ -8477,6 +8483,7 @@ menshealth.com,menshealth.assistpub.com,delish.com,delish.assistpub.com#@#.verti
 menshealth.com,menshealth.assistpub.com,delish.com,delish.assistpub.com#@#.right-rail-ad
 menshealth.com,menshealth.assistpub.com,delish.com,delish.assistpub.com#@#.listicle--ad-rail
 windowsreport.com#@#div[data-insertion]
+downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr,downdetector.ru,allestoringen.nl,allestoerungen.at,allestoringen.be,allestoerungen.ch,allestoerungen.de,xn--allestrungen-9ib.de#@#.leaderboard.ad
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
