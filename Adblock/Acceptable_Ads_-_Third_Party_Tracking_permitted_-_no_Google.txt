@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rCag9Sew4J5oFuAGwxLNVA
-! Version: 202102081400
+! Checksum: Ykogyz6OwVOfBOPdicr2/A
+! Version: 202102090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Feb 2021 14:00 UTC
+! Last modified: 09 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6475,7 +6475,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=hebbarskitchen.com|hebbarskitchen.com|free-ebooks.net|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -7285,7 +7285,9 @@ sirved.com#@#.advertisement-container
 sirved.com#@#.top-advertisement
 pixlr.com#@#.adslot
 blockchain.com#@##ad-text
-temp-mail.org#@#.ads-box
+10minemail.com,temp-mail.org#@#.ads-box
+cryptorival.com#@##header-ad
+cryptorival.com#@##banner-ad
 !:partner_token=bestecode.com
 !:partner_id=5f8c81adbe83b743
 !:type=partner
