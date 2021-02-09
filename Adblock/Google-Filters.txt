@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1OtEwq50/R21IPRCeIeDTQ
-! Version: 202102090200
+! Checksum: rNP/Hka89taF2jFENoxnsg
+! Version: 202102091400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Feb 2021 02:00 UTC
+! Last modified: 09 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4220,7 +4220,7 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
 @@||amazonaws.com/mibbit/gfx/youtube.png
 @@||androidpit.info/userfiles/*image/youtube-logo-
-@@||apis.google.com/js/platform.js$domain=9gag.com|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
+@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
 @@||authy.com/wp-content/themes/authy/assets/images/icons/google-authenticator.svg
 @@||cdn.syndication.twimg.com/tweets.json
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
