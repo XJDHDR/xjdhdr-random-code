@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: waplrpRsxhNBlCwFSYLVLg
-! Version: 202102100200
+! Checksum: TUZBpO2M3tGVhbHDSoNF3A
+! Version: 202102101400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 10 Feb 2021 02:00 UTC
+! Last modified: 10 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4174,10 +4174,10 @@ mozillamessaging.com,thebrowser.com,wired.it#@#.sharebox
 theatlantic.com,youtube.com#@#.show-share
 deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
-deathandtaxesmag.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
+deathandtaxesmag.com,experttur.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
 paperblog.com,paperblog.fr#@#.social-inline
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
-amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,last.fm,reddit.com,rutube.ru,store.google.com,twitch.tv,xhamster.com#@#.subscribe-button
+amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,last.fm,reddit.com,rutube.ru,skeptikon.fr,store.google.com,twitch.tv,xhamster.com#@#.subscribe-button
 youtube.com#@#.twitter-icon
 about.me,busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.twitter.icon
 youtube.com#@#.youtube-icon

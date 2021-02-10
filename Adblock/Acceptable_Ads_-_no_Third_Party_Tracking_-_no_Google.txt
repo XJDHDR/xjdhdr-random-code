@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NzkbMkeTt4mSS/4BdrmAXQ
-! Version: 202102100200
+! Checksum: xnYweN3LvuZqB7CQJzH3mQ
+! Version: 202102101400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 10 Feb 2021 02:00 UTC
+! Last modified: 10 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -202,8 +202,7 @@ yelp.com#@#section:-abp-has(div > span > span:-abp-contains(Sponsored))
 @@||linkedin.com/csp/ads?f=f496x80_exp_$subdocument
 @@||linkedin.com/csp/ads?f=f300x250_exp_$subdocument
 @@||linkedin.com/csp/ads?f=f160x600_exp_$subdocument
-@@||licdn.com/scds/common/u/img/promo/ads/*_Logo50x50.$image,domain=linkedin.com
-@@||licdn.com/scds/common/u/images/promo/ads/*_VideoAds50x50.$image,domain=linkedin.com
+@@||licdn.com/scds/common/*/promo/ads^$image,domain=linkedin.com
 @@||linkedin.com/csp/dtag^
 @@||linkedin.com/tscp-serving/dtag^
 @@||linkedin.com/li/track$domain=linkedin.com
