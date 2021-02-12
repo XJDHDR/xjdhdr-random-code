@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /TvuZ9/TyPNxHep0Ejb9eg
-! Version: 202102111400
+! Checksum: YV9q64MPGBHAQI8FKSvujA
+! Version: 202102120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Feb 2021 14:00 UTC
+! Last modified: 12 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5765,6 +5765,7 @@ dailywire.com#@#div[style^="width: 728px;"]
 letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
+aftvnews.com#@##footerad
 westeros.org#@##HeaderAd
 westeros.org#@##SidebarAd
 elites.io#@##ad-bottom
@@ -5781,7 +5782,10 @@ discogs.com,awkwardzombie.com#@##ad_left
 ratemyprofessors.com#@##ad_rec_01
 awkwardzombie.com#@##ad_right
 awkwardzombie.com,discogs.com#@##ad_top
-cnn.com#@##adbanner
+bikez.com,cnn.com#@##adbanner
+bikez.com#@##adcontainer
+bikez.com#@##adheader
+bikez.com#@##adskyscraper
 fxp.co.il#@##adfxp
 globalsecurity.org#@##adleft
 globalsecurity.org#@##adright
@@ -6259,7 +6263,7 @@ wordreference.com#@##adrightbottom
 wordreference.com#@##ad1
 wordreference.com#@#.adtitle
 visihow.com#@#.wh_ad
-virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
+mycast.io,virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
 trueachievements.com#@#.ad-2
 gta5-mods.com#@##ad-side
 forsal.pl,infor.pl#@#.textAds
@@ -6317,6 +6321,7 @@ chaptercheats.com#@#.adright
 discogs.com#@#.ads-ad
 discogs.com#@#.ads-here
 discogs.com#@#.display-ad
+collegeconfidential.com#@##CC_T_D_1
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6468,6 +6473,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=diritto.it|fiscoetasse.com|portalebambini.it|portalebambini.itthegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
+@@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=fiscoetasse.com
+@@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
@@ -7362,7 +7369,7 @@ super-nonni.it#@#.td-a-ad
 @@||x-true.info^$csp=script-src 'self' * blob: data:
 @@||s-img.steepto.com/g^$image,domain=pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
-@@||jsc.epeex.io/t/a/targatocn.it.715372.js?$script,domain=targatocn.it
+@@||jsc.epeex.io^*.js$script,domain=gazzettadelsud.it|targatocn.it
 @@||redactia.ro/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js^$domain=redactia.ro
 @@||adserver.kl-youniverse.com^$domain=m.dream.co.id
 !:partner_token=Lemonde.fr
@@ -8226,6 +8233,9 @@ testpages.adblockplus.org#@##abptest
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
+@@||spn-v1.revampcdn.com/publishers/windowsreport.js$domain=windowsreport.com
+@@||spn-v1.revampcdn.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
+@@||spn-v1.revampcdn.com/publishers/toucharger.js$domain=toucharger.com
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 @@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
