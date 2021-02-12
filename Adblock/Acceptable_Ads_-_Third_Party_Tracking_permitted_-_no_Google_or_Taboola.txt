@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YV9q64MPGBHAQI8FKSvujA
-! Version: 202102120200
+! Checksum: MUVco/eNObsRo4oGb7xo9Q
+! Version: 202102121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 12 Feb 2021 02:00 UTC
+! Last modified: 12 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1819,6 +1819,8 @@ ouest-france.fr#@#.partenaire-externe
 dailymix.info#@#.ad_center
 lephoceen.fr#@#.m-adbanner
 lephoceen.fr#@#.m-adbanner--newsunder
+infoescola.com#@#.ads
+infoescola.com##.ads:not(#recomendacoes)
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -2781,6 +2783,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||dx6ctphzljkf1.cloudfront.net/iqdcdnes/prebid/live/prebid*.js$domain=tagesspiegel.de|faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de|ze.tt
 @@/iqadcontroller.js$~third-party,domain=tagesspiegel.de|faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de
 @@||static.faz.net^*/FAZ_secondary-info.min.js$domain=tagesspiegel.de|faz.net
+@@^sites/all/modules/custom/*_advertisement/assets/js/marketers/dfp/cpg_ads.ros.js$~third-party,domain=eatsmarter.de
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
@@ -4922,6 +4925,7 @@ mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
 gsmarena.com##.sticky-mpu
 geeksforgeeks.org#@#.advertise-here
+ntv.com.tr,startv.com.tr##[id^="dygtag-gpt-ad"]
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 !:partner_token=bedandchai.com
@@ -8212,6 +8216,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.economictimes.indiatimes.com^$domain=economictimes.indiatimes.com,document
 @@||related.economictimes.com^$domain=m.economictimes.com
 @@||related.economictimes.com^$domain=m.economictimes.com,document
+@@||related.ezgif.com^$domain=ezgif.com
+@@||related.ezgif.com^$domain=ezgif.com,document
 ! @@||related.vesty.co.il^$domain=vesty.co.il
 ! @@||related.vesty.co.il^$domain=vesty.co.il,document
 @@||cloud.setupad.com/hb/sharemods.js$domain=sharemods.com
@@ -10191,6 +10197,8 @@ yahoo.com##div[id^="my-ads"]:not(.uba-container):not([id$="-base"]):not([id$="-i
 yahoo.com#@##my-adsLREC2
 yahoo.com#@#.darla-lrec-ad
 yahoo.com##.darla-lrec-ad:not(.uba-container)
+yahoo.com#@##sda-LDRB
+yahoo.com#@##sda-LDRB:not(.uba-container)
 yahoo.com#@##sticky-lrec2-footer
 yahoo.com#@#.uba-container
 yahoo.com#@#.billboard-ads
