@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mt4w2CpK9tTGVoi8JviInw
-! Version: 202102150200
+! Checksum: niCQaoO5xqJl6hl6J3TGXQ
+! Version: 202102151400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Feb 2021 02:00 UTC
+! Last modified: 15 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1265,6 +1265,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||cpalabtracking.com^
 ||csnqzwwdtjg.com^
 ||dcop4khjxsmg.com^
+||deductdoorwayfig.com^
 ||deiqehvcdnntg.com^
 ||diametertwelfthvending.com^
 ||diminishkidnapping.com^
@@ -1334,20 +1335,14 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||kgqhtakjphgdwg.com^
 ||khg97644rvbg.com^
 ||kjrjvvxcg.com^
-||kklzztog.com^
 ||krwasgyensttng.com^
-||ktfjyexcacujjg.com^
-||kygssorgg.com^
 ||l5fvoqimjfug.com^
 ||lalaping.com^
 ||ldgvxuhg.com^
 ||ldqxdxtkepveg.com^
-||leijsdpbkgobg.com^
 ||leimardog.com^
 ||lidsfoalliving.com^
-||lmlvzeeag.com^
 ||lpoggqfdlmdsg.com^
-||ltjvgpxg.com^
 ||luuming.com^
 ||lxhkqjqpswhg.com^
 ||managesdancing.com^
@@ -1413,18 +1408,11 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||qwlckbrwxizg.com^
 ||racesstuffing.com^
 ||rangparenting.com^
-||rdoovrzqazvpgv.com^
 ||rdrceting.com^
-||rdwcvesg.com^
-||rdwsjnifcemg.com^
-||rdxwaydglehog.com^
 ||receptionstudying.com^
 ||resolutioncomplexionfinishing.com^
-||rigybdgiubwqg.com^
-||rjwdhpxdrufbcg.com^
 ||rniuuamwoohg.com^
 ||rowoardog.com^
-||rsuwxqaoqpuueg.com^
 ||rszimg.com^
 ||safestteacherwaiting.com^
 ||samtrg.com^
@@ -1472,13 +1460,10 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||vkudpjuvg.com^
 ||vlitag.com^
 ||vlyuopulvewg.com^
-||vnjeqfwmotkvbg.com^
 ||vpwlynobnnqg.com^
 ||vrmuyscnqgsg.com^
 ||waysinbeg.com^
 ||wdbqsuukggoyg.com^
-||whjwcghg.com^
-||whlvjuprdpkg.com^
 ||wityamdog.com^
 ||wizliebeg.com^
 ||wjeeqkdbjsg.com^
@@ -2259,7 +2244,7 @@ www.google.com#@##videoads
 @@||weatherbug.com/desktop-weather/*=728x90&
 @@||weatherbug.com/images/stickers/*/728x90/
 @@||weatherbug.com/style/stickers/*_728x90.css
-@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com|nytimes.com|spaargids.be
+@@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|mail.yahoo.com|nytimes.com|spaargids.be
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||adfarm.mediaplex.com/ad/ck/$popup,domain=betwonga.com|comparison411.com|dealsplus.com|matched-bet.net|pcmag.com
 @@||ads.ellmountgaming.com/redirect.aspx?pid=*&bid=$popup
