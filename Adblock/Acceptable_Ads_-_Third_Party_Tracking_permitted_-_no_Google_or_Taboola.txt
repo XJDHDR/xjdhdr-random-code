@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bANYNIcM+/pXqiAg2GhKRQ
-! Version: 202102151400
+! Checksum: wWHkwqXe/71ld19STWIOTA
+! Version: 202102160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Feb 2021 14:00 UTC
+! Last modified: 16 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1821,6 +1821,20 @@ lephoceen.fr#@#.m-adbanner
 lephoceen.fr#@#.m-adbanner--newsunder
 infoescola.com#@#.ads
 infoescola.com##.ads:not(#recomendacoes)
+! Hidden for compliance
+news.com.au##.promoted-stories
+ynetnews.com###embedder-1
+belfasttelegraph.co.uk##div[observeid="tbl-observe-0"]
+em.com.br##div[data-feed-container-num="1"] > * > *:not(.comment-header)
+skaitv.gr##div[observeid="tbl-observe-0"]
+bluradio.com##div[observeid="tbl-observe-0"]
+donga.com###rbox-t2m .syndicatedItem
+msnbc.com##div[data-packageid="1"]
+definition.org###gallery-bottom-widget-wrapper
+star.gr##.trc_elastic_ab_sc-star_new_abp-mode
+businesstoday.in##.tabolabg .syndicatedItem
+espn.com.mx##.sponsored-headlines > *
+taste.com.au##div[data-feed-container-num="1"] .syndicatedItem
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -2714,7 +2728,6 @@ thevarsity.ca#@#.ad-med-rect
 @@||criteo.com/delivery/afr.php?ptv=*&abp=7*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
 @@||criteo.com/delivery/afr.php?ptv=*&abp=8*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
 @@||criteo.com/delivery/afr.php?ptv=*&abp=9*&zoneid=$subdocument,document,domain=~yahoo.com|~mmo-champion.com|~giga.de
-@@||criteo.com/delivery/afr.php?abp=1$subdocument,document,domain=demo.criteo.com
 @@||criteo.com/delivery/r/afr.php?abp=1$subdocument,document
 @@||bidder.criteo.com/cdb?ptv=*&abp=1&
 @@||criteo.com/delivery/ck.php?$popup,domain=criteo.com
@@ -2822,14 +2835,12 @@ fark.com#@##rightAd300x250
 fark.com#@##rightAd300x250Lower
 fark.com#@#.ad_container
 fark.com#@##topAd728x90
-aliceadsl.fr,aliceadsl.glamourparis.com,aliceadsl.closermag.fr,aliceadsl.lemonde.fr,aliceadsl.topsante.com#@##pub_pave
+aliceadsl.fr,aliceadsl.closermag.fr,aliceadsl.topsante.com#@##pub_pave
 tvtropes.org#@#.ad-item
 tvtropes.org#@#.ad-wrapper
 gameblog.fr#@#.internal_ad
 gameblog.fr#@#.noPremium
 merrjep.com#@##rightAds
-businessadvicesource.com#@##adrotate_widgets-3
-businessadvicesource.com#@#.widget_adrotate_widgets
 portail.free.fr#@#div[style="margin: 0 auto;width: 1000px;background-color:#fff;height:300px;\a   border-bottom: 4px solid #2d98e0"]
 portail.free.fr#@#.troiscent
 mensfitness.com#@##top-ad
@@ -2890,7 +2901,6 @@ rambler.ru#@#div[class^="adfox-ban_"]
 rambler.ru#@#.mixednews__aside > :not(.mixednews-aside-item_traffic-informer)
 rambler.ru#@#.aside-banners__banner-static
 androidgalaxys.net#@#.adinjwidget
-coiffurefacile.fr#@#.widget-ad
 linguee.de#@#.verticalAdText
 gmx.com#@#.ad-sky
 gmx.com#@#.ad-content
@@ -2948,17 +2958,13 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=354229&$script,domain=babylon.com
 @@||criteo.com/delivery/ajs.php?zoneid=346020$script,domain=area-codes.org.uk
 @@||criteo.com/delivery/ajs.php?zoneid=324652&$script,domain=sortiesdvd.com
-@@||criteo.com/delivery/ajs.php?zoneid=341879&$script,domain=retenews24.it
-@@||criteo.com/delivery/ajs.php?*zoneid=322389$script,domain=dppteammakesitpossible.com
-@@||criteo.com/delivery/ajs.php?*zoneid=328767$script,domain=dppteammakesitpossible.com
 @@||criteo.com/delivery/ajs.php?zoneid=346081$domain=tvtropes.org
-@@||criteo.com/delivery/ajs.php?zoneid=349971$script,domain=aliceadsl.fr|aliceadsl.glamourparis.com|aliceadsl.closermag.fr|aliceadsl.lemonde.fr|aliceadsl.topsante.com
-@@||criteo.com/delivery/ajs.php?zoneid=349975$script,domain=aliceadsl.fr|aliceadsl.glamourparis.com|aliceadsl.closermag.fr|aliceadsl.lemonde.fr|aliceadsl.topsante.com
-@@||criteo.com/delivery/ajs.php?zoneid=349976$script,domain=aliceadsl.fr|aliceadsl.glamourparis.com|aliceadsl.closermag.fr|aliceadsl.lemonde.fr|aliceadsl.topsante.com
+@@||criteo.com/delivery/ajs.php?zoneid=349971$script,domain=aliceadsl.fr|aliceadsl.closermag.fr|aliceadsl.topsante.com
+@@||criteo.com/delivery/ajs.php?zoneid=349975$script,domain=aliceadsl.fr|aliceadsl.closermag.fr|aliceadsl.topsante.com
+@@||criteo.com/delivery/ajs.php?zoneid=349976$script,domain=aliceadsl.fr|aliceadsl.closermag.fr|aliceadsl.topsante.com
 @@||criteo.com/delivery/ajs.php?zoneid=321486$script,domain=dailymail.co.uk
 @@||criteo.com/delivery/ajs.php?zoneid=351686&$script,domain=gameblog.fr
 @@||criteo.com/delivery/ajs.php?zoneid=348965&$script,domain=gameblog.fr
-@@||criteo.com/delivery/ajs.php?zoneid=347461&$script,domain=italiaora.net
 @@||criteo.com/delivery/ajs.php?zoneid=343477&$script,domain=friday-ad.co.uk
 @@||criteo.com/delivery/ajs.php?zoneid=351837&$script,domain=aranzulla.it
 @@||criteo.com/delivery/ajs.php?zoneid=351890&$script,domain=aranzulla.it
@@ -2985,8 +2991,6 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=355968&$script,domain=soccernews.nl
 @@||criteo.com/delivery/ajs.php?zoneid=358955&$script,domain=ecranlarge.com
 @@||criteo.com/delivery/ajs.php?zoneid=355939&$script,domain=merrjep.com
-@@||criteo.com/delivery/ajs.php?zoneid=351942&$script,domain=businessadvicesource.com
-@@||criteo.com/delivery/ajs.php?zoneid=352081&$script,domain=businessadvicesource.com
 @@||criteo.com/delivery/ajs.php?zoneid=351946&$script,domain=tips.life
 @@||criteo.com/delivery/ajs.php?zoneid=352084&$script,domain=tips.life
 @@||criteo.com/delivery/ajs.php?zoneid=351947&$script,domain=smarttravel.tips
@@ -3088,7 +3092,7 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=353466&$script,domain=thesalarycalculator.co.uk
 @@||criteo.com/delivery/ajs.php?zoneid=374853$script,domain=healthyandnaturalworld.com
 @@||criteo.com/delivery/ajs.php?zoneid=353369&$script,domain=jobs4.co.uk
-@@||criteo.com/delivery/ajs.php?zoneid=372119$script,domain=ucoz.net|ucozmedia.com|ucoz.ru|3dn.ru|ucoz.com|my1.ru|ucoz.ua|moy.su|at.ua|do.am|clan.su|ucoz.org|pp.net.ua|ucoz.kz|dmon.com
+@@||criteo.com/delivery/ajs.php?zoneid=372119$script,domain=ucoz.net|ucozmedia.com|ucoz.ru|3dn.ru|ucoz.com|my1.ru|ucoz.ua|moy.su|at.ua|do.am|clan.su|ucoz.org|pp.net.ua|ucoz.kz|
 @@||criteo.com/delivery/ajs.php?zoneid=372120$script,domain=narod.ru|narod2.ru
 @@||criteo.com/delivery/ajs.php?zoneid=368545&$script,domain=atajitos.com
 @@||criteo.com/delivery/ajs.php?zoneid=349153&$script,domain=startpagina.nl
@@ -3103,7 +3107,6 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=352464&$script,domain=meteofrance.com
 @@||criteo.com/delivery/ajs.php?zoneid=352466&$script,domain=meteofrance.com
 @@||criteo.com/delivery/ajs.php?zoneid=352467&$script,domain=meteofrance.com
-@@||criteo.com/delivery/ajs.php?zoneid=379137&$script,domain=allekleinanzeigen.at
 @@||criteo.com/delivery/ajs.php?zoneid=362225&$script,domain=deutschland.fm
 @@||criteo.com/delivery/ajs.php?zoneid=362224&$script,domain=espana.fm
 @@||criteo.com/delivery/ajs.php?zoneid=362223&$script,domain=danmark.fm
@@ -3115,15 +3118,12 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=379291&$script,domain=computershopper.com
 @@||criteo.com/delivery/ajs.php?zoneid=379297&$script,domain=computershopper.com
 @@||criteo.com/delivery/ajs.php?zoneid=379316&$script,domain=techbargains.com
-@@||criteo.com/delivery/ajs.php?zoneid=379320&$script,domain=logicbuy.com
 @@||criteo.com/delivery/ajs.php?zoneid=379307&$script,domain=toolbox.com
 @@||criteo.com/delivery/ajs.php?zoneid=379310&$script,domain=toolbox.com
 @@||criteo.com/delivery/ajs.php?zoneid=351782$script,domain=freepostcodelottery.com
 @@||criteo.com/delivery/ajs.php?zoneid=354908&$script,domain=ideegreen.it
 @@||criteo.com/delivery/ajs.php?zoneid=354910&$script,domain=ideegreen.it
 @@||criteo.com/delivery/ajs.php?zoneid=362221&$script,domain=italia.fm
-@@||criteo.com/delivery/ajs.php?zoneid=380643&$script,domain=zumbido.es
-@@||criteo.com/delivery/ajs.php?zoneid=380644&$script,domain=zumbido.es
 @@||criteo.com/delivery/ajs.php?zoneid=382584&$script,domain=de.bab.la
 @@||criteo.com/delivery/ajs.php?zoneid=379311&$script,domain=toolbox.com
 @@||criteo.com/delivery/ajs.php?zoneid=379312&$script,domain=toolbox.com
@@ -3210,7 +3210,6 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=391776$script,domain=jobdiagnosis.com
 @@||criteo.com/delivery/ajs.php?zoneid=378632$script,domain=expatica.com
 @@||criteo.com/delivery/ajs.php?zoneid=378633$script,domain=expatica.com
-@@||criteo.com/delivery/ajs.php?zoneid=401619$script,domain=coiffurefacile.fr
 @@||criteo.com/delivery/ajs.php?zoneid=375404$script,domain=ngs24.ru|ngs55.ru|ngs.ru
 @@||criteo.com/delivery/ajs.php?zoneid=402905&$script,domain=voetbalzone.nl
 @@||criteo.com/delivery/ajs.php?zoneid=374198$script,domain=thefinancialword.com
@@ -3221,7 +3220,6 @@ wallapop.com##.home-pub-section-top
 @@||criteo.com/delivery/ajs.php?zoneid=403194&$script,domain=voetbalzone.nl
 @@||criteo.com/delivery/ajs.php?zoneid=359288&$script,domain=correryfitness.com
 @@||criteo.com/delivery/ajs.php?zoneid=359291&$script,domain=correryfitness.com
-@@||criteo.com/delivery/ajs.php?zoneid=402753$script,domain=fixb.com
 @@||criteo.com/delivery/ajs.php?zoneid=405274&$script,domain=multitran.ru
 @@||criteo.com/delivery/ajs.php?zoneid=323014$script,domain=autonews.ru|rbc.ru
 @@||criteo.com/delivery/ajs.php?zoneid=351232$script,domain=iminent.com
