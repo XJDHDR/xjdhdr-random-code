@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9g+TB4n4wV1vO2nKy+CxyQ
-! Version: 202102170200
+! Checksum: 5H4Z8oLGKoygK7gcfT5sIA
+! Version: 202102171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Feb 2021 02:00 UTC
+! Last modified: 17 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5592,7 +5592,7 @@ geeksaresexy.net#@#.ad-below
 hothardware.com,iefimerida.gr#@#.ad-block
 clubroadster.net#@#.ad-card
 guidingtech.com#@#.ad-centered
-kongregate.com##.ad-container
+kongregate.com#@#.ad-container
 fleaflicker.com#@#.ad-content
 spellcheck.net,usccgstaging.wpengine.com,uscreditcardguide.com#@#.ad-holder
 hometalk.com#@#.ad-item
@@ -6226,7 +6226,7 @@ urldecoder.org#@#.ad_right
 zkillboard.com#@#.adrow
 technical.city#@#div[class^="banner_"]
 lightnovelworld.com#@#.ad-container-left
-sohh.com#@#.g1-advertisement
+webboh.it,sohh.com#@#.g1-advertisement
 sohh.com#@#.type-ad
 fossmint.com#@#.vce-ad-container
 fossmint.com#@#.vce-ad-below-header
@@ -6285,7 +6285,7 @@ planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-centre-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-droite-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
-gematsu.com#@##ad-container-1
+gamezo.co.uk,gematsu.com#@##ad-container-1
 gematsu.com#@##ad-container-2
 tollypics.com#@#.rightad
 footballdb.com#@##header_ad
@@ -6472,8 +6472,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=diritto.it|fiscoetasse.com|portalebambini.it|portalebambini.itthegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=healthnfitness.net|diritto.it|fiscoetasse.com|portalebambini.it|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=fiscoetasse.com
@@ -6540,8 +6540,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||rec2-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||recette-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
-@@||adxbid.info/balasevizamNoviAll.js$domain=balasevizam.novi.ba
-@@||adxbid.info/depo_$domain=depo.ba
+@@||adxbid.info^$script,domain=depo.ba|balasevizam.novi.ba|novi.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||static.bigpipes.co/v*/sites^$script,domain=nightlife.ca|tonpetitlook.com|tplmoms.com|tonbarbier.com|danslescoulisses.com|5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
 @@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
@@ -8526,6 +8525,8 @@ windowsreport.com#@#div[data-insertion]
 downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr,downdetector.ru,allestoringen.nl,allestoerungen.at,allestoringen.be,allestoerungen.ch,allestoerungen.de,xn--allestrungen-9ib.de#@#.leaderboard.ad
 jsoneditoronline.org#@#.ad-panel
 resetera.com#@#.samCodeUnit
+viedemerde.fr#@#.sticky-ad
+viedemerde.fr#@#.optidigital-ad-center
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
@@ -10203,7 +10204,7 @@ yahoo.com#@##my-adsLREC4-base
 @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
 @@||atwola.com/adcount*$image,domain=yahoo.com
 @@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=yahoo.com
-@@||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
+||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
 yahoo.com##[id^="sda-LREC"]:not(.uba-container):not([id$="iframe"])
 yahoo.com###sda-LDRB:not(.uba-container)
 yahoo.com#@##my-adsLREC
