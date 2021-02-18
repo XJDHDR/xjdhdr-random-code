@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tbs7C2GFHHZ43xNnlt43LA
-! Version: 202102180200
+! Checksum: g+cYraXqNLFWefTANovsTQ
+! Version: 202102181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 18 Feb 2021 02:00 UTC
+! Last modified: 18 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1298,6 +1298,7 @@ gismeteo.ru###media-bottom
 gismeteo.ru##.x90
 gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
 gismeteo.ru#@#.xby400
+gismeteo.ru#@##weather-right
 !:partner_token=Digimedia
 !:partner_id=f66f2790ea302ce0
 !:type=partner
@@ -4486,6 +4487,7 @@ strojar.com#@#[id^="aswift"]
 @@||dianomi.com/smartads.epl?id=1912^$subdocument,domain=businessinsider.com
 @@||dianomi.com/smartads.epl?id=2556^$subdocument,domain=thebusinessdesk.com
 @@||dianomi.com/partner/marketwatch/js/dianomi-marketwatch.js$domain=marketwatch.com
+@@||dianomi.com/js/tcflib.js$domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2582&$script,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2583&$script,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2641$subdocument,domain=seekingalpha.com
@@ -5946,7 +5948,7 @@ willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-banner-image
 greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
 irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
-owfire.com,smitefire.com#@#.ad-break
+heroesfire.com,owfire.com,smitefire.com#@#.ad-break
 queerty.com,buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
 greatschools.org#@#.ad-column
@@ -6015,7 +6017,7 @@ wyborcza.pl#@#.ads-top
 publicholidays.com.au#@#.ads__sidebar
 therighthairstyles.com#@#.ads_top
 ozbargain.com.au#@#.adsbillboard
-posta.com.tr,yourdictionary.com,lightnovelworld.com,ew.com,omnicalculator.com,topky.sk#@#.adsbox
+fanatik.com.tr,posta.com.tr,yourdictionary.com,lightnovelworld.com,ew.com,omnicalculator.com,topky.sk#@#.adsbox
 ozbargain.com.au#@#.adslisting
 ozbargain.com.au#@#.adslisting2
 ozbargain.com.au#@#.adslistingz
@@ -6388,6 +6390,8 @@ discogs.com#@#.display-ad
 collegeconfidential.com#@##CC_T_D_1
 cnn.com#@#div[data-ad-refresh]
 cnn.com#@#div[data-ad-position]
+heroesfire.com#@#.ad-bot
+heroesfire.com#@#.ads-narrow
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6660,13 +6664,14 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||kumo.network-n.com/dist/latest/gpt.js$domain=theloadout.com
 @@||kumo.network-n.com/dist/latest/prebid.js$domain=theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
-@@||i.cdn.turner.com/ads/adfuel/ais/2.1/ncaa_3-ais.min.js$domain=ncaa.com
-@@||i.cdn.turner.com/ads/adfuel/adfuel-2.1.min.js$domain=ncaa.com
+@@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
 @@^js/upload/prebid.js^$script,~third-party,domain=pdfwonder.com|sportsspotter.com
 @@||z.moatads.com/addthismoatframe*/moatframe.js$domain=inquisitr.com
-@@||app.medyanetads.com/dfp.js$domain=posta.com.tr
-@@||app.medyanetads.com/w.js$domain=posta.com.tr
+@@||app.medyanetads.com/dfp.js$domain=posta.com.tr|fanatik.com.tr
+@@||app.medyanetads.com/w.js$domain=posta.com.tr|fanatik.com.tr
+@@||k318e.overbuff.com/pb.js$~third-party
+@@||k318e.overbuff.com/a.js$~third-party
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner

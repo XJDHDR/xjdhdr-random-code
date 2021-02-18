@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ur15F+CLV6RY0c3ht5pslw
-! Version: 202102180200
+! Checksum: 9pe/sL/w978yYPFdf0s3YQ
+! Version: 202102181400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Feb 2021 02:00 UTC
+! Last modified: 18 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1940,7 +1940,7 @@ bandwidthblog.com,comtar.com,demerarawaves.com,eaglecars.com,earth911.com,propor
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 appagg.com##.atit
 doubleviking.com##.az
-adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
+adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,keygames.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
 carmag.co.za,irishnews.com,nscreenmedia.com,teenspot.com,vh1.com##.banner-container
 gsprating.com##.banner2
 domainmasters.co.ke##.banner_google
