@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g+cYraXqNLFWefTANovsTQ
-! Version: 202102181400
+! Checksum: X4+O1sfQ2UV5WC34nk/vDQ
+! Version: 202102190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 18 Feb 2021 14:00 UTC
+! Last modified: 19 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7329,18 +7329,18 @@ jscompress.com###bsa-zone_1572364402444-3_123456
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=74831
 ! Lentainform.com ads
-@@||jsc.lentainform.com^$script,domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||lentainform.com^$popup,domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||c.lentainform.com^$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||autocounter.lentainform.com^$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||s-img.lentainform.com^$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||cm.lentainform.com^$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||servicer.lentainform.com^$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||cdn.lentainform.com^$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-@@||marketgid.com/images/lentainform/$domain=360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
-360tv.ru,mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru#@#a[href*="lentainform.com/pnews/"]
-360tv.ru,mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru#@#[id*="ScriptRoot"]
-360tv.ru,mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru##div[id*="Composite"]:not([id^="M"]):not([id*="Composite760918"]):not([id*="Composite772781"]):not([id*="Composite773419"]):not([id*="Composite686380"]):not([id*="Composite718177"]):not([id*="Composite675347"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite791769"]):not([id*="Composite858402"]):not([id*="Composite690200"])
+@@||jsc.lentainform.com^$script,domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||lentainform.com^$popup,domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||c.lentainform.com^$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||autocounter.lentainform.com^$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||s-img.lentainform.com^$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||cm.lentainform.com^$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||servicer.lentainform.com^$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||cdn.lentainform.com^$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+@@||marketgid.com/images/lentainform/$domain=riafan.ru|360tv.ru|mail.ru|russian.rt.com|fishki.net|rambler.ru|iz.ru|ria.ru|tsargrad.tv|e1.ru|ngs.ru
+riafan.ru,360tv.ru,mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru#@#a[href*="lentainform.com/pnews/"]
+riafan.ru,360tv.ru,mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru#@#[id*="ScriptRoot"]
+riafan.ru,360tv.ru,mail.ru,russian.rt.com,fishki.net,rambler.ru,iz.ru,ria.ru,tsargrad.tv,e1.ru,ngs.ru##div[id*="Composite"]:not([id^="M"]):not([id*="Composite760918"]):not([id*="Composite772781"]):not([id*="Composite773419"]):not([id*="Composite686380"]):not([id*="Composite718177"]):not([id*="Composite675347"]):not([id*="Composite678965"]):not([id*="Composite690231"]):not([id*="Composite791769"]):not([id*="Composite858402"]):not([id*="Composite690200"]):not([id*="Composite841957"])
 @@||lentainform.com/pnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/rnews/$csp=sandbox allow-same-origin;
 @@||lentainform.com/tnews/$csp=sandbox allow-same-origin;
@@ -7368,6 +7368,7 @@ e1.ru,ngs.ru#@#div[data-cms-place]
 e1.ru#@#div[data-place-id]
 360tv.ru#@#div[class*="commercial"]
 360tv.ru##.commercial_wrapper:not(.lenta)
+riafan.ru#@#a[href*="utm_campai"]
 @@||an.yandex.ru/system/context.js$domain=clck.lentainform.com
 @@||yastatic.net/pcode/adfox/loader.js$domain=clck.lentainform.com
 @@||yandex.net/get-direct/$image,domain=clck.lentainform.com
