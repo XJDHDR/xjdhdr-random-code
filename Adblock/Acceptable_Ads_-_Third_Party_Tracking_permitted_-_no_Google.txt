@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X4+O1sfQ2UV5WC34nk/vDQ
-! Version: 202102190200
+! Checksum: +ETst7uVEN8Gb2Z9b3UZrQ
+! Version: 202102191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Feb 2021 02:00 UTC
+! Last modified: 19 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6661,8 +6661,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||prebid.reworldmediafactory.com/prebid.js$domain=topsante.com
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
-@@||kumo.network-n.com/dist/latest/gpt.js$domain=theloadout.com
-@@||kumo.network-n.com/dist/latest/prebid.js$domain=theloadout.com
+@@||kumo.network-n.com/dist/latest/gpt.js$domain=alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/prebid.js$domain=alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
