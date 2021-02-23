@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KpfNaX7ImalN21ErbZmBzQ
-! Version: 202102221400
+! Checksum: sZrwKdIQi/1MWi1FwUByIg
+! Version: 202102230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Feb 2021 14:00 UTC
+! Last modified: 23 Feb 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6477,7 +6477,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=healthnfitness.net|diritto.it|fiscoetasse.com|portalebambini.it|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=fiscoetasse.com
