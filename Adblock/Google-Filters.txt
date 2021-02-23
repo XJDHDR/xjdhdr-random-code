@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1Wqxxg3U37SfQmdck5LrpQ
-! Version: 202102230200
+! Checksum: jl+SzjQYzyMwOwzuWqYHjA
+! Version: 202102231400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 23 Feb 2021 02:00 UTC
+! Last modified: 23 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1325,7 +1325,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||ipbiydocgvllrg.com^
 ||irritatebeing.com^
 ||iutkryvnixptlg.com^
-||iycdikcbgsmihg.com^
 ||jmykbogg.com^
 ||joyvowdig.com^
 ||jrvcwxubg.com^
@@ -1338,6 +1337,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||krwasgyensttng.com^
 ||l5fvoqimjfug.com^
 ||lalaping.com^
+||lasyowayrzgv.com^
 ||ldgvxuhg.com^
 ||ldqxdxtkepveg.com^
 ||leimardog.com^
@@ -2787,7 +2787,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||azureedge.net^*/eventtracking.js$domain=crimemapping.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com|talktalk.co.uk
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||clicsante.ca^*/angulartics-google-tag-manager.min.js$domain=clicsante.ca
 @@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
