@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +qRUFRTpEp/wPsQukgoCUA
-! Version: 202102240200
+! Checksum: Akj1vAD2yGjzcEMdnr8BPQ
+! Version: 202102241400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 24 Feb 2021 02:00 UTC
+! Last modified: 24 Feb 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1266,6 +1266,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||couponcashmerelining.com^
 ||cpalabtracking.com^
 ||csnqzwwdtjg.com^
+||ctjvkaqiekquag.com^
 ||dcop4khjxsmg.com^
 ||deductdoorwayfig.com^
 ||deiqehvcdnntg.com^
@@ -1341,7 +1342,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||lalaping.com^
 ||lasyowayrzgv.com^
 ||ldgvxuhg.com^
-||ldqxdxtkepveg.com^
 ||leimardog.com^
 ||lidsfoalliving.com^
 ||lpoggqfdlmdsg.com^
@@ -1387,13 +1387,8 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||pycmdgig.com^
 ||pz7zrn0xxgyg.com^
 ||q6idnawboy7g.com^
-||qcnrblgdonypg.com^
-||qdgpsfmg.com^
-||qelrpourxvvg.com^
 ||qgkmjpgwg.com^
 ||qkspafpgg.com^
-||qqtqicbvrwg.com^
-||qwlckbrwxizg.com^
 ||racesstuffing.com^
 ||rangparenting.com^
 ||rdrceting.com^
@@ -2789,7 +2784,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||azureedge.net^*/eventtracking.js$domain=crimemapping.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com|talktalk.co.uk
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||clicsante.ca^*/angulartics-google-tag-manager.min.js$domain=clicsante.ca
 @@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
