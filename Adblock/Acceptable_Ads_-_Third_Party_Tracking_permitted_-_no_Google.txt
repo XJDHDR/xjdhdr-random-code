@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lZRB9ksMCkhgGs7KPAxloQ
-! Version: 202102250200
+! Checksum: ybNEYsrzW7c0ZkJVHcIoPw
+! Version: 202102251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Feb 2021 02:00 UTC
+! Last modified: 25 Feb 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4988,7 +4988,6 @@ workupload.com#@#.ad-label
 ! AdRecover ads
 @@||adpushup.com/innovativeAdsDemo/demo-page-shell.js$domain=adpushup.com
 freewarefiles.com#@#div > iframe[style]
-mutdworld.com###_adr_abp_iframe_4
 sports.fr#@##banner-full
 gsmarena.com##.sticky-mpu
 geeksforgeeks.org#@#.advertise-here
@@ -5907,7 +5906,7 @@ colourlovers.com#@##ga-below-header
 commercialobserver.com,eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,theoi.com,wowinterface.com#@##header-ad
 logisquebec.com,tecmint.com#@##header-ads
 parkers.co.uk#@##headerAd
-tollypics.com,dnd-wiki.org#@##headerad
+spriters-resource.com,models-resource.com,tollypics.com,dnd-wiki.org#@##headerad
 itstillworks.com#@##inline-ad
 allkpop.com,mymarketresearchmethods.com#@##insticator-container
 wowhead.com#@##main > .blocks
@@ -5915,8 +5914,8 @@ yad2.co.il#@##martef
 gamesradar.com,parkers.co.uk#@##mpu2
 cnn.com#@##partner-zone
 soolide.com#@##quads-ad1
-dailybreak.co,soolide.com#@##quads-ad1_widget
-soolide.com#@##quads-ad2
+soo-healthy.com,dailybreak.co,soolide.com#@##quads-ad1_widget
+soo-healthy.com,soolide.com#@##quads-ad2
 dailybreak.co,soolide.com#@##quads-ad2_widget
 fun.freebies.com,innerstrength.zone#@##quads-ad4
 wyborcza.pl#@##rectangle-splint
@@ -5924,7 +5923,7 @@ gosunoob.com#@##reklama
 aljazeera.com#@##rightsideadstop
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScGp160x600
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
-lexicanum.com#@##sidebar-ad
+spriters-resource.com,models-resource.com,lexicanum.com#@##sidebar-ad
 thewordfinder.com#@##sidebar-advertisement
 loveawake.com,wheeldecide.com,manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
@@ -6126,8 +6125,8 @@ ynet.co.il#@#.pplus_hdr_ad
 americanupbeat.com,insidemystery.com#@#.proper-ad-unit
 zombsroyale.io,u.gg,powerpyx.com,breitbart.com#@#.pub_300x250
 soolide.com#@#.quads-ad1
-dailybreak.co,soolide.com#@#.quads-ad1_widget
-soolide.com#@#.quads-ad2
+soo-healthy.com,dailybreak.co,soolide.com#@#.quads-ad1_widget
+soo-healthy.com,soolide.com#@#.quads-ad2
 dailybreak.co,soolide.com#@#.quads-ad2_widget
 fun.freebies.com,innerstrength.zone#@#.quads-ad4
 fun.freebies.com,innerstrength.zone#@#.quads-location
@@ -6400,6 +6399,13 @@ cnn.com#@#div[data-ad-position]
 heroesfire.com#@#.ad-bot
 heroesfire.com#@#.ads-narrow
 free-ebooks.net#@#.ad-placeholder
+happymag.tv#@#.leader-ad
+happymag.tv#@#.ads-left
+happymag.tv#@#.ads-right
+happymag.tv#@#.article-header-ad
+17track.net#@#.gad-container
+17track.net#@#.gad-right1
+17track.net#@#.gad-right2
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6503,7 +6509,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6641,8 +6647,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
 @@||cdn.snigelweb.com/adengine^*^loader.js$domain=windfinder.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
@@ -6681,6 +6687,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||k318e.overbuff.com/pb.js$~third-party
 @@||k318e.overbuff.com/a.js$~third-party
 @@||dailybreak.co/ads-hb/prebid/*.js$script,domain=dailybreak.co
+@@||soo-healthy.com/ads-hb/prebid/prebid*.media-filter.js$domain=soo-healthy.com
+@@||soo-healthy.com/ads-hb/quantcast/gdpr$domain=soo-healthy.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -7848,6 +7856,12 @@ newsmonkey.be#@#div[id^="div-gpt-ad"]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81338
 ! valuta.exchange ads
+!:partner_token=nfhost.me ads
+!:partner_id=013357be42dc511d
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81649
+! nfhost.me ads
+nfhost.me,nfhost.pl#@#.ad-banner
 !:partner_token=typing-speed.net ads
 !:partner_id=e33245096f717352
 !:type=partner
