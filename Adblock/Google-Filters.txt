@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Akj1vAD2yGjzcEMdnr8BPQ
-! Version: 202102241400
+! Checksum: CivuqZndiMAVNXMo9R6raQ
+! Version: 202102250200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 24 Feb 2021 14:00 UTC
+! Last modified: 25 Feb 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1401,7 +1401,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||samtrg.com^
 ||sbietlbug.com^
 ||sebeagnjowtg.com^
-||setrtcjfhreqg.com^
 ||sgutelyg.com^
 ||siegemeg.com^
 ||snbybgwiyfug.com^
@@ -1420,7 +1419,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||taljnpgg.com^
 ||tarlifting.com^
 ||tastedisparitychecking.com^
-||tcgqqmjyg.com^
 ||tensecolonialismwandering.com^
 ||testamentfendsounding.com^
 ||tfbqvqclg.com^
@@ -1431,14 +1429,11 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||tlkhzqmrg.com^
 ||tqxdhokpeigv.com^
 ||turmoilexcessivetranslating.com^
-||udvysuucqgadg.com^
 ||ueudahqfig.com^
 ||ughdqpwtfabsqg.com^
 ||ukfpgaeihxamg.com^
-||ulsvrptuwyovg.com^
 ||umannwig.com^
 ||umwyfqgsg.com^
-||uoifloesog.com^
 ||uujdthyg.com^
 ||vaftkcyzqg.com^
 ||vdfoejtqimcgog.com^
@@ -4072,6 +4067,7 @@ radiolodz.pl##.fa-google-plus
 radiolodz.pl##.fa-youtube
 mf24.pl##.youtube
 bit.pt,bitmag.com.br##.follow
+der-farang.com###consent_overlay
 paconsulting.com###cookPop
 4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 techbang.com##.notify_stickie
