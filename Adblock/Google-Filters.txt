@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DHy4xnR5djNrnfJ1pBATGg
-! Version: 202102251400
+! Checksum: aIPOD/CwRGG9crsTPl4hvg
+! Version: 202102260200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Feb 2021 14:00 UTC
+! Last modified: 26 Feb 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1412,6 +1412,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||springcorridorworking.com^
 ||srrxzmcsg.com^
 ||stargoug.com^
+||stepmotherillegaldepressing.com^
 ||stoutoffering.com^
 ||swstkrihg.com^
 ||sxzemwijeyqxg.com^
@@ -1425,6 +1426,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||third-tracking.com^
 ||thuneagjhnvlg.com^
 ||tieecstasythrong.com^
+||timbercooling.com^
 ||tithewtog.com^
 ||tlkhzqmrg.com^
 ||tqxdhokpeigv.com^
@@ -2590,6 +2592,7 @@ _GoogleTagManager2/
 ||traffic.acwebconnecting.com^
 ||trakksocial.googlecode.com^$third-party
 ||twimg.com/jot?
+||unpkg.com/web-vitals?
 ||video-ad-stats.googlesyndication.com^
 ||video.google.com/api/stats/
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
