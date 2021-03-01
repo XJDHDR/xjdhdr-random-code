@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fEqu0TgUzLmpKFvTucQuow
-! Version: 202103010200
+! Checksum: KsJeSe33pDSO7PLsA194xA
+! Version: 202103011400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 01 Mar 2021 02:00 UTC
+! Last modified: 01 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1218,6 +1218,7 @@ nicovideo.jp#@#.googleAds
 ziehl-abegg.com#@#.newsAd
 youtube.com#@#.overlay-ads
 thoughtcatalog.com#@#.tc_ad_unit
+codedevstuff.blogspot.com,wingsbirdpro.com#@#.vertical-ads
 youtube.com#@#.video-ads
 santander.co.uk#@#a[href^="http://ad-emea.doubleclick.net/"]
 jabong.com,people.com,spaargids.be,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
