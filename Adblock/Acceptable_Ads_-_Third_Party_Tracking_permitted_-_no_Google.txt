@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WVVhAOAfsjYgUIj1mEuxkg
-! Version: 202103020200
+! Checksum: 6vzVF4GGNjy3yLSJizmMRg
+! Version: 202103021400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Mar 2021 02:00 UTC
+! Last modified: 02 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8598,6 +8598,9 @@ resetera.com#@#.samCodeUnit
 viedemerde.fr#@#.sticky-ad
 viedemerde.fr#@#.optidigital-ad-center
 seekingalpha.com#@#.ad-placement
+familyeducation.com#@##bannerad
+infoplease.com#@##block-ipleaderboardad
+infoplease.com#@##block-ipabovethefold
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
