@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S0vF3bS5KJrgvkiXEw/Giw
-! Version: 202103030200
+! Checksum: bTbzyVDMy0bWUQgpsXPR8w
+! Version: 202103031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Mar 2021 02:00 UTC
+! Last modified: 03 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1100,6 +1100,21 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||adhese.com/json/sl_llb_international_europe_-THINARTICLE_CENTER/$xmlhttprequest,domain=lalibre.be
 ||celebspulse.com^*/ouibounce.js
 ||unpuzzlefinance.com^*/ouibounce.js
+@@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
+@@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
+@@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
+@@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
+@@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
+@@||bonappetit.com/ads/js/cn.dart.bun.min.js$script,domain=bonappetit.com
+@@||ew.com/sites/all/themes/ew_com/js/ew_com_advertising.js$domain=ew.com
+@@||people.com/people/static/h/ads/adFactory-outbrain.html?width=660&height=200&url=$subdocument,domain=people.com
+@@||widgets.outbrain.com/hub/*&widgetId=AR_1&$domain=au.be.yahoo.com,generichide
+@@||outbrain.com/utils/get?url=$script,domain=lesnumeriques.com|focus-numerique.com|slate.fr|zdnet.fr|cnetfrance.fr
+@@||global.proper.io/salon.min.js$script,domain=salon.com
+@@||ui-portal.de/c/ads/adservice/adservice-2-connector-current.js$script,domain=gmx.net|web.de
+@@||adition.com/*boxoutbrain$script,domain=gmx.net|web.de
+@@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
+@@||*logo_mediamond_m.gif$image,domain=ilgiornale.it|meteo.it|sportmediaset.mediaset.it
 nouvelobs.com#@#.ObsPartners
 unpuzzlefinance.com#@#.below-next-nativeads
 brit.co#@#.ad-tag
@@ -1228,27 +1243,13 @@ huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 allure.com,architecturaldigest.com,bgr.com,bonappetit.com,cntraveler.com,deadline.com,digitalartsonline.co.uk,epicurious.com,gq.com,hollywoodlife.com,macworld.co.uk,macworld.es,pcworld.es,self.com,sheknows.com,techadvisor.co.uk,techadvisor.fr,teenvogue.com,tvline.com,vanityfair.com,variety.com,indiewire.com#@#.outbrain-widget
 passeportsante.net#@#.pstAd
-@@||adnext.fr/wrapper-webmail.laposte.net.js$domain=web-mail.laposte.net
-@@||adnext.fr/wrapper-laposte.net.js$domain=web-mail.laposte.net
-@@||adnext.fr/vendor/prebid.js/prebid-$domain=web-mail.laposte.net
-@@||delivery.guardian.switchadhub.com/0.js$domain=theguardian.com
-@@||foodandwine.com/sites/all/themes/fwresponsive/js/ads_invoke.js$domain=foodandwine.com
-@@||bonappetit.com/ads/js/cn.dart.bun.min.js$script,domain=bonappetit.com
-@@||ew.com/sites/all/themes/ew_com/js/ew_com_advertising.js$domain=ew.com
-@@||people.com/people/static/h/ads/adFactory-outbrain.html?width=660&height=200&url=$subdocument,domain=people.com
-@@||widgets.outbrain.com/hub/*&widgetId=AR_1&$domain=au.be.yahoo.com,generichide
-@@||outbrain.com/utils/get?url=$script,domain=lesnumeriques.com|focus-numerique.com|slate.fr|zdnet.fr|cnetfrance.fr
-@@||global.proper.io/salon.min.js$script,domain=salon.com
-@@||ui-portal.de/c/ads/adservice/adservice-2-connector-current.js$script,domain=gmx.net|web.de
-@@||adition.com/*boxoutbrain$script,domain=gmx.net|web.de
-@@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
-@@||*logo_mediamond_m.gif$image,domain=ilgiornale.it|meteo.it|sportmediaset.mediaset.it
 focus.de##.AdsRec
 focus.de##.AD_area
 focus.de##.ADBox
 focus.de##.Ads_4
 nationalinterest.org##.ad--center
 mako.co.il##div[data-widget-id='VR_2']
+walla.co.il#@#.ads-mail-cube
 !:partner_token=glavpoezdrus.ru
 !:partner_id=bfd7769575cd5623
 !:type=partner
@@ -6380,6 +6381,10 @@ happymag.tv#@#.article-header-ad
 17track.net#@#.gad-right2
 milliyet.com.tr#@#.ads-widget
 milliyet.com.tr#@#.card-ads
+healthline.com#@#.css-12efcmn
+healthline.com#@#.css-1vcjrad
+healthline.com#@##DMR1__slot
+healthline.com#@#[data-dynamic-ads]
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -8328,7 +8333,7 @@ testpages.adblockplus.org#@##abptest
 @@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=sport.es
 @@||twt-assets.washtimes.com/v4/js/ads/config$domain=washingtontimes.com
 @@/ad-api/*$domain=menshealth.com|menshealth.assistpub.com|delish.com|delish.assistpub.com
-@@||staging.techadvisor.co.uk/scripts-dist/ads/dynamicAds.js?bust=1611567768&JS_20210211103739062$domain=staging.techadvisor.co.uk
+@@^scripts-dist/ads/dynamicAds.js$~third-party,domain=techadvisor.co.uk|macworld.co.uk|
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
