@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bTbzyVDMy0bWUQgpsXPR8w
-! Version: 202103031400
+! Checksum: RgbkUPxiRAOtbawpuo4vzw
+! Version: 202103040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Mar 2021 14:00 UTC
+! Last modified: 04 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6385,6 +6385,7 @@ healthline.com#@#.css-12efcmn
 healthline.com#@#.css-1vcjrad
 healthline.com#@##DMR1__slot
 healthline.com#@#[data-dynamic-ads]
+healthline.com#@#.css-1y1s420
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -8333,7 +8334,7 @@ testpages.adblockplus.org#@##abptest
 @@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=sport.es
 @@||twt-assets.washtimes.com/v4/js/ads/config$domain=washingtontimes.com
 @@/ad-api/*$domain=menshealth.com|menshealth.assistpub.com|delish.com|delish.assistpub.com
-@@^scripts-dist/ads/dynamicAds.js$~third-party,domain=techadvisor.co.uk|macworld.co.uk|
+@@^scripts-dist/ads/dynamicAds.js$~third-party,domain=techadvisor.co.uk|macworld.co.uk
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
@@ -8676,6 +8677,7 @@ forbes.com##.pub_300x250
 @@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||images-*.ssl-images-amazon.com/images/G/*/ad-feedback/info_icon_*$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||m.media-amazon.com/images^$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 !
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||d1lxz4vuik53pc.cloudfront.net/w/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
