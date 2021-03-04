@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EjYiFJic0XNhbbTIK4VwaQ
-! Version: 202103040200
+! Checksum: XFP73JvFu3qYb2GRB8j8jg
+! Version: 202103041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Mar 2021 02:00 UTC
+! Last modified: 04 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6187,7 +6187,7 @@ techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
 bonginoreport.com#@#.side-advert
 manga3s.com,wordexcerpt.com#@#.body-top-ads
-latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
+theonlinecitizen.com,latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
 wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
 theloadout.com,pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
@@ -6322,6 +6322,7 @@ healthline.com#@#.css-1vcjrad
 healthline.com#@##DMR1__slot
 healthline.com#@#[data-dynamic-ads]
 healthline.com#@#.css-1y1s420
+xda-developers.com#@#.spot
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6567,7 +6568,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine^*^loader.js$domain=windfinder.com
+@@||cdn.snigelweb.com/adengine^*^loader.js$domain=morewords.com|windfinder.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6607,6 +6608,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||soo-healthy.com/ads-hb/prebid^$domain=soo-healthy.com
 @@||soo-healthy.com/ads-hb/quantcast/gdpr$domain=soo-healthy.com
 @@||lib.medyanetads.com/adservice^$domain=milliyet.com.tr
+@@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
+@@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
@@ -8570,6 +8573,18 @@ forbes.com##.text-ad
 forbes.com##.pub_728x90
 forbes.com##.pub_300x250m
 forbes.com##.pub_300x250
+! Verizon
+@@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=yahoo.com
+||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
+yahoo.com##[id^="sda-LREC"]:not(.uba-container):not([id$="iframe"])
+yahoo.com###sda-LDRB:not(.uba-container)
+yahoo.com###sda-LDRB2:not(.uba-container)
+yahoo.com#@##my-adsLREC
+yahoo.com##div[id^="my-ads"]:not(.uba-container):not([id$="-base"]):not([id$="-iframe"])
+yahoo.com#@##my-adsLREC2
+yahoo.com#@#.darla-lrec-ad
+yahoo.com##.darla-lrec-ad:not(.uba-container)
+yahoo.com#@##sda-LDRB
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -10219,17 +10234,6 @@ yahoo.com#@##my-adsLREC4-base
 @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
 @@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
 @@||atwola.com/adcount*$image,domain=yahoo.com
-@@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=yahoo.com
-||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
-yahoo.com##[id^="sda-LREC"]:not(.uba-container):not([id$="iframe"])
-yahoo.com###sda-LDRB:not(.uba-container)
-yahoo.com#@##my-adsLREC
-yahoo.com##div[id^="my-ads"]:not(.uba-container):not([id$="-base"]):not([id$="-iframe"])
-yahoo.com#@##my-adsLREC2
-yahoo.com#@#.darla-lrec-ad
-yahoo.com##.darla-lrec-ad:not(.uba-container)
-yahoo.com#@##sda-LDRB
-yahoo.com#@##sda-LDRB:not(.uba-container)
 yahoo.com#@##sticky-lrec2-footer
 yahoo.com#@#.uba-container
 yahoo.com#@#.billboard-ads
