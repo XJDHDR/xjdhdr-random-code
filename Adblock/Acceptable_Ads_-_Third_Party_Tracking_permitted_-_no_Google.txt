@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5wLbAE2ffJxkDlE4Yv5LkA
-! Version: 202103041400
+! Checksum: LQm3SAz1EjTPl5EmdezC1Q
+! Version: 202103050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Mar 2021 14:00 UTC
+! Last modified: 05 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5888,7 +5888,7 @@ gamesradar.com,parkers.co.uk#@##mpu2
 cnn.com#@##partner-zone
 soolide.com#@##quads-ad1
 soo-healthy.com,dailybreak.co,soolide.com#@##quads-ad1_widget
-soo-healthy.com,soolide.com#@##quads-ad2
+dailybreak.co,soo-healthy.com,soolide.com#@##quads-ad2
 dailybreak.co,soolide.com#@##quads-ad2_widget
 fun.freebies.com,innerstrength.zone#@##quads-ad4
 wyborcza.pl#@##rectangle-splint
@@ -6099,10 +6099,10 @@ americanupbeat.com,insidemystery.com#@#.proper-ad-unit
 zombsroyale.io,u.gg,powerpyx.com,breitbart.com#@#.pub_300x250
 soolide.com#@#.quads-ad1
 soo-healthy.com,dailybreak.co,soolide.com#@#.quads-ad1_widget
-soo-healthy.com,soolide.com#@#.quads-ad2
+dailybreak.co,soo-healthy.com,soolide.com#@#.quads-ad2
 dailybreak.co,soolide.com#@#.quads-ad2_widget
 fun.freebies.com,innerstrength.zone#@#.quads-ad4
-fun.freebies.com,innerstrength.zone#@#.quads-location
+dailybreak.co,fun.freebies.com,innerstrength.zone#@#.quads-location
 gazetaprawna.pl,infor.pl,realmadryt.pl#@#.reklama
 bobshideout.com,coolimba.com,graduatez.com,jobright.com,jobungo.com,joorala.com,lse.co.uk,parentztalk.com,thefamouspeople.com,tworeddots.com#@#.right-ad
 starmagazine.com#@#.right-ads
@@ -6656,6 +6656,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 @@||prebid.reworldmediafactory.com/topsante.fr/script.min.js$script,domain=topsante.com
 @@||prebid.reworldmediafactory.com/prebid.js$domain=topsante.com
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
+||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
 @@||kumo.network-n.com/dist/latest/gpt.js$domain=pockettactics.com|alcasthq.com|theloadout.com
 @@||kumo.network-n.com/dist/latest/prebid.js$domain=pockettactics.com|alcasthq.com|theloadout.com
