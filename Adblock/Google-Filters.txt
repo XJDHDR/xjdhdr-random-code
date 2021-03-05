@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7zCp1cdUs9aXRtx4aEiKmA
-! Version: 202103050200
+! Checksum: S9eUaxyGAiL02K639QFhZg
+! Version: 202103051400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 05 Mar 2021 02:00 UTC
+! Last modified: 05 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -831,6 +831,7 @@ _reklama_$domain=~youtube.com
 ##.bottomgooglead
 ##.box-adsense
 ##.box-google-text-ad
+##.c-adSense
 ##.c-googleadslot
 ##.c_google_adsense_nxn
 ##.center_adsense
@@ -2766,6 +2767,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||teraes.hgreg.com^
 ||yfhauq.bodybuilding.com^
 ||dv59b.montecarlomeeting.com^
+||secure.alga9frog.com^
+||secure.raab3frog.com^
 ||superfunblog.com/stats/stats.php
 /acceptable.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com

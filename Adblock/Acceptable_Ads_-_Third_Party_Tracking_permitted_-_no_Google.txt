@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LQm3SAz1EjTPl5EmdezC1Q
-! Version: 202103050200
+! Checksum: viHmQwB/iGih25ZUdAW6Tg
+! Version: 202103051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Mar 2021 02:00 UTC
+! Last modified: 05 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6387,6 +6387,8 @@ healthline.com#@##DMR1__slot
 healthline.com#@#[data-dynamic-ads]
 healthline.com#@#.css-1y1s420
 xda-developers.com#@#.spot
+animalcrossingworld.com#@#.at-header-ad
+animalcrossingworld.com#@#.at-sidebar-1
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -8338,7 +8340,10 @@ testpages.adblockplus.org#@##abptest
 @@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=sport.es
 @@||twt-assets.washtimes.com/v4/js/ads/config$domain=washingtontimes.com
 @@/ad-api/*$domain=menshealth.com|menshealth.assistpub.com|delish.com|delish.assistpub.com
-@@^scripts-dist/ads/dynamicAds.js$~third-party,domain=techadvisor.co.uk|macworld.co.uk
+@@||staging.techadvisor.co.uk/scripts-dist/ads/dynamicAds.js$domain=staging.techadvisor.co.uk
+@@||staging.macworld.co.uk/scripts-dist/ads/dynamicAds.js$domain=staging.macworld.co.uk
+@@||macworld.co.uk/scripts-dist/ads/dynamicAds.js$domain=macworld.co.uk
+@@||techadvisor.co.uk/scripts-dist/ads/dynamicAds.js$domain=techadvisor.co.uk
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
@@ -8639,9 +8644,13 @@ forbes.com##.text-ad
 forbes.com##.pub_728x90
 forbes.com##.pub_300x250m
 forbes.com##.pub_300x250
-! Verizon
+! Yahoo
 @@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=yahoo.com
 ||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
+@@||atwola.com/adcount*$image,domain=yahoo.com
+||yahoo.com/px.gif?ch=2$domain=yahoo.com
+@@||yahoo.com/px.gif?ch=1$domain=yahoo.com
+yahoo.com#@#.darla
 yahoo.com##[id^="sda-LREC"]:not(.uba-container):not([id$="iframe"])
 yahoo.com###sda-LDRB:not(.uba-container)
 yahoo.com###sda-LDRB2:not(.uba-container)
@@ -10025,10 +10034,47 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||watchonline.guide^$elemhide
 !A120
 @@||zazzle.com^$elemhide
-!:partner_token=Oath
-!:partner_id=89957ff1e879eb7f
+!:partner_token=Verizon Media
+!:partner_id=627d41fb6de11f94
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=18121
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24361
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
+!:forum=https://adblockplus.org/forum/viewtopic.php?p=142591#p142591
+!:forum=https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
+! Verizon Media ads
+! Display ads
+@@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
+@@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
+@@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
+@@||criteo.com/delivery/lg.php?$domain=yahoo.com
+@@||twiago.com/adclick.php$popup,domain=style.yahoo.com|nachrichten.yahoo.com
+@@||bs.serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=style.yahoo.com|nachrichten.yahoo.com
+@@||ads.yahoo.com/st?ad_type=*&publisher_blob=*|TL1|*&ad_size=120x45&$subdocument,document,script
+||csc.beap.bc.yahoo.com^
+yahoo.com#@##sticky-lrec2-footer
+yahoo.com#@#.uba-container
+yahoo.com#@#.billboard-ads
+yahoo.com#@##my-adsLREC4-base
+yahoo.com#@#div[id*="ComboAd"]
+yahoo.com#@#.gemini-ad-feedback
+yahoo.com#@#div[class*="gemini-ad"]
+yahoo.com#@#div[id^="gemini-item-"]
+yahoo.com#@#.can_ad_slug
+yahoo.com#@#.ad_slug_table
+yahoo.com#@#.ad-tl1
+! Yahoo Mail
+@@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
+@@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
+||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
+@@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
+@@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
+@@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
+mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
+mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
+mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
+! Hidden for compliance
+mail.yahoo.com###sb_rel_tgtLREC4.darla
 ! Yahoo search/in-feed ads
 !
 !
@@ -10243,27 +10289,6 @@ answers.yahoo.com#@#div[id^="dmRosAdWrapper"]
 @@||dmros1.ysm.yahoo.com/ros/$script,domain=answers.yahoo.com
 @@||rover.ebay.com^*&size=1x1&$image,domain=answers.yahoo.com
 @@||2mdn.net/viewad/*-1x1.gif$image,domain=answers.yahoo.com
-!:partner_token=Oath
-!:partner_id=89957ff1e879eb7f
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24361
-! Yahoo display ads
-!:partner_token=Oath
-!:partner_id=89957ff1e879eb7f
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=142591#p142591
-! Yahoo display ads
-@@||criteo.com/delivery/lg.php?$domain=yahoo.com
-@@||twiago.com/adclick.php$popup,domain=style.yahoo.com|nachrichten.yahoo.com
-@@||bs.serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=style.yahoo.com|nachrichten.yahoo.com
-yahoo.com#@#div[id*="ComboAd"]
-yahoo.com#@#.gemini-ad-feedback
-yahoo.com#@#div[class*="gemini-ad"]
-yahoo.com#@#div[id^="gemini-item-"]
-!:partner_token=Oath
-!:partner_id=89957ff1e879eb7f
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
 ! Ads by Yahoo! Partner Ads
 @@||gemini.yahoo.com^*^syndication^$script,domain=stylevamp.de
 engadget.com#@##right-ads-rail
@@ -10278,45 +10303,6 @@ huffingtonpost.ca,huffingtonpost.co.uk,huffingtonpost.com.au,huffingtonpost.in,h
 engadget.com#@#.sponsored-links
 huffpost.com#@#.taboola
 engadget.com#@##gemini-right-rail-thumbnails
-!:partner_token=Oath
-!:partner_id=89957ff1e879eb7f
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=105622#p105622
-! Small text ad with static image below navigation on left side
-@@||ads.yahoo.com/st?ad_type=*&publisher_blob=*|TL1|*&ad_size=120x45&$subdocument,document,script
-yahoo.com#@#.can_ad_slug
-yahoo.com#@#.ad_slug_table
-yahoo.com#@#.ad-tl1
-!
-||csc.beap.bc.yahoo.com^
-!:partner_token=Oath
-!:partner_id=89957ff1e879eb7f
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
-! Yahoo display ads
-yahoo.com#@##my-adsLREC4-base
-@@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
-||yahoo.com/px.gif?ch=2$domain=yahoo.com
-@@||yahoo.com/px.gif?ch=1$domain=yahoo.com
-@@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
-@@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
-@@||atwola.com/adcount*$image,domain=yahoo.com
-yahoo.com#@##sticky-lrec2-footer
-yahoo.com#@#.uba-container
-yahoo.com#@#.billboard-ads
-yahoo.com#@#.darla
-! Yahoo Mail
-@@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
-@@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
-||mail.yahoo.com/px.gif?ch=2$domain=mail.yahoo.com
-@@||beap.gemini.yahoo.com/mbcsc?$image,domain=mail.yahoo.com
-@@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
-@@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
-mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
-mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
-mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
-! Hidden for compliance
-mail.yahoo.com###sb_rel_tgtLREC4.darla
 !:partner_token=Microsoft
 !:partner_id=c7cdd2fa8a3d0b2a
 !:type=partner
