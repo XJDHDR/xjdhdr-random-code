@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o9Zl4n83/xmaMaTIdmssvg
-! Version: 202103060200
+! Checksum: bCaNhPEjW4jOXCZUmFEZdQ
+! Version: 202103061400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 06 Mar 2021 02:00 UTC
+! Last modified: 06 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2381,9 +2381,6 @@ _GoogleTagManager2/
 /cdn-cgi/pe/bag2?*.google-analytics.com
 /cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js
 ||propeller-tracking.com^
-||alga9frog.com^
-||raab3frog.com^
-||yirr5frog.com^
 ||24log.com^$third-party
 ||360tag.com^$third-party
 ||77tracking.com^$third-party
@@ -2757,6 +2754,41 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||googletagmanager.com/gtm.js?$domain=autobild.de|transfermarkt.de
 ||wt-safetag.com^$domain=stern.de
 ||c0012.brsimg.com^
+||metrics.automobilemag.com^
+||metrics.bloomberg.com^
+||metrics.flyingmag.com^
+||metrics.handbag.com^
+||smetrics.lakeshorelearning.com^
+||smetrics.vueling.com^
+||somni.amsurg.com^
+||ssdc.bawag.com^
+||stat-ssl.tabelog.com^
+||aa.analog.com^
+||adobetp.chegg.com^
+||adobetps.chegg.com^
+||infos.belong.com.au^
+||metrics.astrogaming.com^
+||metrics.duluthtrading.com^
+||metrics.okcashbag.com^
+||metrics.wmg.com^
+||nats.xing.com^
+||nmetrics.samsung.com^
+||omniture.lg.com^
+||smetrics.motorsportreg.com^
+||smetrics.moving.com^
+||smetrics.msg.com^
+||smetrics.samsung.com^
+||smetrics.sling.com^
+||smetrics.tataaig.com^
+||smetrics.wmg.com^
+||somni.bcg.com^
+||somni.sundancecatalog.com^
+||sstats.airfarewatchdog.com^
+||stat-ssl.kakakumag.com^
+||states.newegg.com^
+||tracking.lg.com^
+||trk.chegg.com^
+||www-172.aig.com^
 ||detnmz.livestrong.com^
 ||detnmz.sciencing.com^
 ||dwbotr.ssg.com^
@@ -2767,8 +2799,9 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||teraes.hgreg.com^
 ||yfhauq.bodybuilding.com^
 ||dv59b.montecarlomeeting.com^
-||secure.alga9frog.com^
-||secure.raab3frog.com^
+||alga9frog.com^
+||raab3frog.com^
+||yirr5frog.com^
 ||superfunblog.com/stats/stats.php
 /acceptable.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
