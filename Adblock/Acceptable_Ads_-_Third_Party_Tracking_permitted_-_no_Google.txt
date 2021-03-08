@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fJ1a6IzWC5VrciTfRtfV+g
-! Version: 202103080200
+! Checksum: Y24SfwMpDN/tLT0K4UHNOw
+! Version: 202103081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Mar 2021 02:00 UTC
+! Last modified: 08 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5955,12 +5955,12 @@ virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,j
 fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
 probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
-lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
+cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
 gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
-nexusmods.com,zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
+cnn.gr,nexusmods.com,zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
 fosonline.gr#@#.ad-zone
@@ -6070,7 +6070,7 @@ maketecheasier.com#@#.header-widget
 itstillworks.com#@#.inline-ad
 indiewire.com#@#.iw-leaderboard-ad
 tasty.co#@#.js-ad
-buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
+cnn.gr,buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
 themarker.com#@#.js-dfp-ad
 didev.co.uk,expertreviews.co.uk#@#.lazyadslot
 escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
@@ -6168,7 +6168,7 @@ yesasia.ru#@#div[class*="td-a-rec-id-"]
 ynet.co.il,ynetnews.com#@#div[data-adunit]
 minecraftforge.net,boards.sportslogos.net#@#div[data-role="sidebarAd"]
 greatist.com,healthline.com,medicalnewstoday.com,topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@#div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
-usatoday.com#@#div[id^="ad-position-"]
+cnn.gr,usatoday.com#@#div[id^="ad-position-"]
 cnn.com#@#div[id^="ad_rect_"]
 segodnya.ua#@#div[id^="admixer_"]
 zakon.kz#@#div[id^="adv_"]
@@ -6351,7 +6351,7 @@ isitdownrightnow.com#@#.ad336
 virtualpiano.net#@#.bottom-ad
 theartstory.org#@#.ad-160x600
 theartstory.org#@#.ad-728x90
-theartstory.org#@#.ad-wide
+newsbomb.gr,theartstory.org#@#.ad-wide
 joblo.com#@##right-ad
 comicskingdom.com#@#.ad-tile
 msn.com#@#.widead
@@ -6469,6 +6469,7 @@ sdna.gr###ros_article_billboard
 medicalnewstoday.com###inline1__slot
 9to5mac.com###aswift_0_anchor
 dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
+animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
