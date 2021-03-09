@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: avPNB9AumE9+7Zn50Aw/ow
-! Version: 202103090200
+! Checksum: GWOgn47NNO/HBPJ0ZQlxdA
+! Version: 202103091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 09 Mar 2021 02:00 UTC
+! Last modified: 09 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1809,6 +1809,7 @@ star.gr##.trc_elastic_ab_sc-star_new_abp-mode
 businesstoday.in##.tabolabg .syndicatedItem
 espn.com.mx##.sponsored-headlines > *
 taste.com.au##div[data-feed-container-num="1"] .syndicatedItem
+! Default filters for long domain lists
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7241,6 +7242,7 @@ edhrec.com#@#.home__ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73514
 ! BuySellAds ads
+@@||pixel.adsafeprotected.com^*^network=BUYSELLADS_
 @@||acceptable.buysellads.net^*^adunit=bsa-zone_1537909991-0_123456^$subdocument,document,domain=scotch.io
 @@||coincodex.com/apps/coincodex/lib/position/main.js$domain=coincodex.com
 @@||coincodex.com/apps/coincodex/lib/position/index.html?name=leaderboard^$subdocument,domain=coincodex.com

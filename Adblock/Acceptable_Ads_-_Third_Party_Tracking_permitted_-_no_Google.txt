@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P2F1jGyGXtRRrFrkK4Kq0Q
-! Version: 202103090200
+! Checksum: 8THk/hGNa6i2L5TXm1VAcg
+! Version: 202103091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Mar 2021 02:00 UTC
+! Last modified: 09 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1873,6 +1873,7 @@ espn.com.mx##.sponsored-headlines > *
 maxifoot.fr###taboola-below-article-thumbnails-2nd
 taste.com.au##div[data-feed-container-num="1"] .syndicatedItem
 jerusalem.mynet.co.il,rishon.mynet.co.il,kfarsaba.mynet.co.il,petahtikva.mynet.co.il,krayot.mynet.co.il#@#.taboola-general
+! Default filters for long domain lists
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -7305,6 +7306,7 @@ edhrec.com#@#.home__ad
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73514
 ! BuySellAds ads
+@@||pixel.adsafeprotected.com^*^network=BUYSELLADS_
 @@||acceptable.buysellads.net^*^adunit=bsa-zone_1537909991-0_123456^$subdocument,document,domain=scotch.io
 @@||coincodex.com/apps/coincodex/lib/position/main.js$domain=coincodex.com
 @@||coincodex.com/apps/coincodex/lib/position/index.html?name=leaderboard^$subdocument,domain=coincodex.com
