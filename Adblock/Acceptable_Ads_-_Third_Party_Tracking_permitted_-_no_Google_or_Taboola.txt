@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fiOETWz1FCOwl9nC/a5Y0w
-! Version: 202103081400
+! Checksum: avPNB9AumE9+7Zn50Aw/ow
+! Version: 202103090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 08 Mar 2021 14:00 UTC
+! Last modified: 09 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5079,6 +5079,15 @@ buydlp.com#@##amzn-native-ad-0
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=49337
 ! zurecraft.it ads
+! test for pcprofessionale.it ads
+@@||cdn.adasta.it/abp/px.js?ch=2$domain=pcprofessionale.it
+||cdn.adasta.it/abp/px.js?ch=1$domain=pcprofessionale.it
+@@||assoc-amazon.com/widgets^$third-party,document,subdocument,domain=pcprofessionale.it
+@@||amazon-adsystem.com/e^$document,subdocument,domain=pcprofessionale.it
+pcprofessionale.it#@#div[data-adunit]
+pcprofessionale.it#@#.adunit
+pcprofessionale.it##.adunit:not(#adunit-widget-2)
+pcprofessionale.it###strip_infooter
 !:partner_token=4gnews.pt
 !:partner_id=f41be41b4b67d5a9
 !:type=partner
@@ -8280,6 +8289,7 @@ testpages.adblockplus.org#@##abptest
 @@||staging.macworld.co.uk/scripts-dist/ads/dynamicAds.js$domain=staging.macworld.co.uk
 @@||macworld.co.uk/scripts-dist/ads/dynamicAds.js$domain=macworld.co.uk
 @@||techadvisor.co.uk/scripts-dist/ads/dynamicAds.js$domain=techadvisor.co.uk
+@@||gateway.reddit.com/desktopapi/*/comments_page_ads^$domain=reddit.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
