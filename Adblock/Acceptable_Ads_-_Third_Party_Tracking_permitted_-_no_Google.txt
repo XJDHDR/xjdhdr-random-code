@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ZAhcygpCzmr5sayTJLUNg
-! Version: 202103101400
+! Checksum: 4V7F2sZU329HWaN+n+uKNw
+! Version: 202103110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Mar 2021 14:00 UTC
+! Last modified: 11 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5978,6 +5978,7 @@ nuklearpower.com#@#.ad-tower
 cnn.gr,nexusmods.com,zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
+buzzfeed.com,buzzfeednews.com#@#.ad-wireframe
 fosonline.gr#@#.ad-zone
 ratemyprofessors.com#@#.ad.banner
 slader.com#@#.ad.inner
@@ -8723,8 +8724,8 @@ yahoo.com#@##sda-LDRB
 @@||m.media-amazon.com/images^$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 !
 @@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||d1lxz4vuik53pc.cloudfront.net/w/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||d1lxz4vuik53pc.cloudfront.net/w/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||d1lxz4vuik53pc.cloudfront.net/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||d1lxz4vuik53pc.cloudfront.net/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa
 @@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 @@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
