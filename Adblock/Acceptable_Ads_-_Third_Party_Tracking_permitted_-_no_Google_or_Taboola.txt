@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ku9m+/OzT1sxkXm9APqpMg
-! Version: 202103110200
+! Checksum: eAReTpN4H9F73HPBTK2ExQ
+! Version: 202103111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Mar 2021 02:00 UTC
+! Last modified: 11 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6445,7 +6445,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6508,7 +6508,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=woot.com
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
 @@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=op.gg|mobafire.com|futbin.com
-@@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=mobafire.com|nookazon.com
+@@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=wepc.com|resetera.com|mtggoldfish.com|mobafire.com|nookazon.com
 @@||hb-ab.vntsm.com/v3/webpack-5/ad-manager.min.js$domain=mobafire.com
 @@||rafvertizing.crazygames.com/rafvertizing-v2.js$domain=crazygames.com
 @@||s.imgur.com/min/gallery.js?1591118015$domain=imgur.com
@@ -6687,6 +6687,10 @@ bloknot.ru##div[class*="article__content"] .js-relap-widget-wrapper
 fiteria.ru##div[class*="article-text"] .js-relap-widget-wrapper
 kolesa.ru##div[class*="post-content"] .js-relap-widget-wrapper
 kulturologia.ru##div[class*="content"] .js-relap-widget-wrapper
+mk.ru#?#div[class*="article__body"] .additional__item:-abp-has(>.js-relap-widget-wrapper)
+mk.ru##div[class*="article__body"] .js-relap-widget-wrapper
+mk.ru##div[class*="article__body"] .meta__item_adv
+mk.ru##.good-place__top
 !:partner_token=menginspirasi.com
 !:partner_id=a3c2cb4e59b87d8b
 !:type=partner
