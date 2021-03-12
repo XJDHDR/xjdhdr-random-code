@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: C4oCz/+spf3sUEVmL0PIRg
-! Version: 202103120200
+! Checksum: 8pfzfGS6yQJsBrMCbVAjLA
+! Version: 202103121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Mar 2021 02:00 UTC
+! Last modified: 12 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -459,6 +459,8 @@ computerbase.de#@#.adbox-wrapper
 computerbase.de#@#.adbox-rectangle
 computerbase.de#@#.block1--ads
 computerbase.de#@##afc-box
+computerbase.de#@#.block1--banner
+computerbase.de#@#.block1--skyscraper
 !:partner_token=computerbase.de
 !:partner_id=b09e339b289c942f
 !:type=partner
@@ -1201,6 +1203,7 @@ one.co.il##.OUTBRAIN > div[class*="SL_"] .ob-p
 one.co.il,valeursactuelles.com##.OUTBRAIN[data-widget-id="AR_2"]
 9news.com.au,nine.com.au##div[class^="article__body-"] .ob-widget
 9news.com.au,nine.com.au##div[class^="component__Body-"] .ob-widget
+corriereadriatico.it##div[class^="body-text"] .ob-widget
 politico.com,slate.com#@#.ad
 ew.com,fortune.com,people.com#@#.ad-sticky-container
 huffingtonpost.es,huffingtonpost.fr#@#.ad_spot
@@ -7338,6 +7341,7 @@ blockchain.com#@##ad-text
 cryptorival.com#@##header-ad
 cryptorival.com#@##banner-ad
 swordscomic.com#@##ad-banner
+tryspree.com#@#.top-ad
 ! Hidden for compliance
 jscompress.com###bsa-zone_1572364402444-3_123456
 !:partner_token=bestecode.com

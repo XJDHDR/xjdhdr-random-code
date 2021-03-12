@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nA63tzbvCuOJDod2FXsjCA
-! Version: 202103120200
+! Checksum: n1xKAd9P6WVewbCSULsWVw
+! Version: 202103121400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 12 Mar 2021 02:00 UTC
+! Last modified: 12 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2716,7 +2716,6 @@ _GoogleTagManager2/
 ||pf.newegg.com^
 ||phonedog.com/geo.php
 ||photographyblog.com/?ACT
-||samsung.com^*/scripts/tracking.js
 ||shopping.com/pixel/
 ||sp.redding.com^
 ||spankbang.com/pull_stats?$xmlhttprequest
@@ -2815,6 +2814,20 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||tracking.lg.com^
 ||trk.chegg.com^
 ||www-172.aig.com^
+||act.convergencetraining.com^
+||go.phhlending.com^
+||info.jadelearning.com^
+||marketing.cologuardclassic.com^
+||marketing.confidentialcures.com^
+||marketing.construsoft.com^
+||marketing.globalcorporateventuring.com^
+||marketing.omnifymarketing.com^
+||marketing.techdata.com.techdatamarketing.com^
+||marketing.tourismwinnipeg.com^
+||mkt.pushspring.com^
+||seniorliving.theridgeseniorliving.com^
+||service.frankwatching.com^
+||tr.emailing.coe.int^
 ||detnmz.livestrong.com^
 ||detnmz.sciencing.com^
 ||dwbotr.ssg.com^
@@ -2824,6 +2837,13 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||soxnwz.lg.com^
 ||teraes.hgreg.com^
 ||yfhauq.bodybuilding.com^
+||catracking.finning.com^
+||landing.computershare.com^
+||log.cognex.com^
+||seao.business.samsung.com^
+||trk.darkreading.com^
+||trk.networkcomputing.com^
+||webtracking.oncourselearning.com^
 ||dv59b.montecarlomeeting.com^
 ||alga9frog.com^
 ||raab3frog.com^
