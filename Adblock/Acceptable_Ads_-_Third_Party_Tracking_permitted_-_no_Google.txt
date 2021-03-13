@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8pfzfGS6yQJsBrMCbVAjLA
-! Version: 202103121400
+! Checksum: J8/p+UeyObQP0agQzB+ymw
+! Version: 202103130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Mar 2021 14:00 UTC
+! Last modified: 13 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6651,8 +6651,8 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
 @@||cdn.snigelweb.com/adengine^*^loader.js$domain=morewords.com|windfinder.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
