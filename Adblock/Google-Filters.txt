@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Dt5ojOoFv0qMS7vcc9GtpQ
-! Version: 202103141400
+! Checksum: Q3ID4O0jsJ1laNCS+v9bEQ
+! Version: 202103150200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 14 Mar 2021 14:00 UTC
+! Last modified: 15 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1018,6 +1018,7 @@ _reklama_$domain=~youtube.com
 ##.google_top_adsense1_footer
 ##.google_top_adsense_footer
 ##.google_txt_ads_mid_big_img
+##.googlead
 ##.googlead-sidebar
 ##.googleadArea
 ##.googlead_idx_b_97090
@@ -1413,6 +1414,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||soapproceeding.com^
 ||soilenthusiasmshindig.com^
 ||somedayanchovydepressing.com^
+||spareddepressing.com^
 ||spedhowusing.com^
 ||splashfloating.com^
 ||springcorridorworking.com^
@@ -1646,6 +1648,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||punsong.com^$popup
 ||quantomcoding.com^$popup
 ||redirect18systemsg.com^$popup
+||spareddepressing.com^$popup
 ||srv2trking.com^$popup
 ||srvbytrking.com^$popup
 ||syndication.dynsrvtbg.com^$popup
