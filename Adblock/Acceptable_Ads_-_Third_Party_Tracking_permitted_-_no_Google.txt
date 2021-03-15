@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6ICS/pdcgxRhk4pLG9Z+vQ
-! Version: 202103150200
+! Checksum: QL0on5JnBr/+xGVX6Y9dnw
+! Version: 202103151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Mar 2021 02:00 UTC
+! Last modified: 15 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8454,7 +8454,7 @@ foxnews.com,billboard.com,hollywoodreporter.com#@#.ad-container
 247wallst.com##.ad-div.sidebar-div.stickLoop.boxD
 mein-schoener-garten.de#@#.ad-entity-container
 askmen.com#@#.ad-gpt
-billboard.com#@#.ad-holder
+epicstream.com,billboard.com#@#.ad-holder
 agame.com#@#.ad-leaderboard
 speedtest.net#@#.ad-left
 agame.com#@#.ad-mpu
@@ -8597,7 +8597,6 @@ chess.com#@##main-ad
 economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@#.adsbg300
 economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##bottomAd
 economictimes.indiatimes.com,m.economictimes.com,related.economictimes.com#@##topAd
-chess.assistpub.com,chess.com#@#.sidebar-ad
 chess.assistpub.com,chess.com#@#.index-content-ad-wrapper
 motorsport.com#@#.ms-apb-dmpu
 timesofindia.indiatimes.com#@#.ad-widget
@@ -8643,6 +8642,19 @@ infoplease.com#@##block-ipleaderboardad
 infoplease.com#@##block-ipabovethefold
 foxnews.com#@#.amp-ad-container
 foxnews.com#@#.amp-ads
+epicstream.com#@#.ads-block
+infoplease.com#@##block-ipbtfad
+leasticoulddo.com#@#div[id^="zergnet-widget"]
+leasticoulddo.com#@#.ad-leader
+leasticoulddo.com#@#.ad-box
+f4wonline.com#@#.banner300
+f4wonline.com#@##banner728
+supercheats.com#@#.cboth_sm
+supercheats.com#@#.a300
+supercheats.com#@##bottom_ad_728
+ygorganization.com#@#.advertisement_above_footer
+rajah.com#@#.ad-section
+rajah.com#@#.content-ad
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
