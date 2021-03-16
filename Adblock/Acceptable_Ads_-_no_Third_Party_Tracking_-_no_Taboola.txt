@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ke5lH5gaiwqojPwucZFKVw
-! Version: 202103151400
+! Checksum: /JhZFteEG+UlR3scyELWrQ
+! Version: 202103160200
 ! Title: Acceptable Ads - no Third Party Tracking - no Taboola
-! Last modified: 15 Mar 2021 14:00 UTC
+! Last modified: 16 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -154,12 +154,6 @@ boardgamequest.com#@#.td-header-ad-wrap
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43775
 ! ourworldofenergy.com ads
 ourworldofenergy.com#@##sponsors_container
-!:partner_token=ecosia.org
-!:partner_id=c1757eb4f2c4d962
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
-! ecosia.org sponsored search results
-@@||ecosia.org/search?$elemhide
 !:partner_token=theweddingcat.net
 !:partner_id=113ab810390af099
 !:type=partner
@@ -437,3 +431,4 @@ nachrichten.yahoo.com#@#.ad-source
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
 ! ecosia.org sponsored search results
+@@||ecosia.org/search?$elemhide

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QL0on5JnBr/+xGVX6Y9dnw
-! Version: 202103151400
+! Checksum: btjiQ/ahZp4NbOtlI/CEbA
+! Version: 202103160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Mar 2021 14:00 UTC
+! Last modified: 16 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5656,6 +5656,7 @@ clubroadster.net#@#.ad-card
 guidingtech.com#@#.ad-centered
 kongregate.com#@#.ad-container
 fleaflicker.com#@#.ad-content
+pink.rs#@#.ad-medium
 spellcheck.net,usccgstaging.wpengine.com,uscreditcardguide.com#@#.ad-holder
 hometalk.com#@#.ad-item
 devmn.net,hothardware.com,mumsnet.com,siliconera.com#@#.ad-leaderboard
@@ -5836,7 +5837,7 @@ elites.io#@##ad-bottom
 calibre-ebook.com,ratemyprofessors.com#@##ad-container
 elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
-cnn.com#@##adBanner
+rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com,cnn.com#@##adBanner
 cnn.com#@##adSquare
 discogs.com#@##ad_bottom
 www.visitlondon.com#@##ad_footer
@@ -5978,7 +5979,7 @@ upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
 gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
-cnn.gr,nexusmods.com,zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
+whathifi.com,creativebloq.com,space.com,pcgamer.com,gamesradar.com,cnn.gr,nexusmods.com,zombsroyale.io,broadsheet.com.au,fosonline.gr,free-power-point-templates.com,meetme.com,spinz.io#@#.ad-unit
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe
@@ -6028,7 +6029,7 @@ ozbargain.com.au#@#.adssidebar2
 ozbargain.com.au#@#.adstop
 broadwayworld.com#@#.adtester-container
 free-power-point-templates.com#@#.adtop
-realestateview.com.au,arcamax.com,mrexcel.com,pronews.gr,publicholidays.com.au,thenewdaily.com.au#@#.adunit
+whathifi.com,space.com,realestateview.com.au,arcamax.com,mrexcel.com,pronews.gr,publicholidays.com.au,thenewdaily.com.au#@#.adunit
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,ekstramagazyn.pl,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,goldenline.pl,gp24.pl,gs24.pl,kurierlubelski.pl,naszahistoria.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskapress.pl,polskatimes.pl,pomorska.pl,poranny.pl,rodzina500plus.biz,sportowy24.pl,strefabiznesu.pl,stronakobiet.pl,swieta24.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#@#.advContainer
 ft.com,games.co.uk#@#.advert
 thestudentroom.co.uk#@#.advert-block
@@ -6038,7 +6039,7 @@ aljazeera.com#@#.article-adv-right-sideBar
 digitaltrends.com#@#.b-anterior
 timesofisrael.com#@#.b300x250
 dennikn.sk#@#.b_ads
-zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
+metalsucks.net,zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
 breitbart.com,discogs.com,photographylife.com#@#.banner_ad
 kizi.com#@#.banner_holder
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.big-ad
@@ -6264,7 +6265,7 @@ vg247.com#@#.low-leader-container
 vg247.com#@#.advert.mpu
 vg247.com#@#.advert.skyscraper
 vladtv.com#@#.entry-ad
-lgbtqnation.com,vladtv.com#@#.ad-300
+metalsucks.net,theprp.com,lgbtqnation.com,vladtv.com#@#.ad-300
 slickdeals.net#@#.abc
 techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
@@ -6408,6 +6409,14 @@ healthline.com#@#.css-1y1s420
 xda-developers.com#@#.spot
 animalcrossingworld.com#@#.at-header-ad
 animalcrossingworld.com#@#.at-sidebar-1
+metalinjection.net#@#.zox_ad_widget
+rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com#@#.adLeaderboard
+comicbookmovie.com#@##adATF300x250
+comicbookmovie.com#@##adBTF300x250
+tomshardware.com,pcgamer.com,space.com,creativebloq.com,whathifi.com,gamesradar.com#@#.dfp-leaderboard-container
+pcgamer.com,tomshardware.com#@#div[class*="ad-unit"]
+tomshardware.com#@#div[class^="ad-unit"]
+pcgamer.com,tomshardware.com#@#div[class^="slot-"]
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6512,7 +6521,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=thewash.online|allbad.cards|australiangeographic.com.au|fromyourinside.com|life4insurance.com|base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6625,7 +6634,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||rec2-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
 @@||recette-tra.scds.pmdstatic.net/advertising-core^$domain=programme-tv.net
-@@||adxbid.info^$script,domain=depo.ba|novi.ba
+@@||adxbid.info^$script,domain=pink.rs|depo.ba|novi.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||static.bigpipes.co/v*/sites^$script,domain=nightlife.ca|tonpetitlook.com|tplmoms.com|tonbarbier.com|danslescoulisses.com|5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
 @@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
@@ -6651,8 +6660,8 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
 @@||cdn.snigelweb.com/adengine^*^loader.js$domain=morewords.com|windfinder.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
@@ -6697,6 +6706,9 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||lib.medyanetads.com/adservice^$domain=milliyet.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
+@@||cdn.intergi.com/hera/releases/*$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
+@@||cdn.intergi.com/prebid/prebid.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
+@@||c.amazon-adsystem.com/aax2/apstag.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 ! Default filters for long domain lists
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
@@ -10522,12 +10534,6 @@ boardgamequest.com#@#.td-header-ad-wrap
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=43775
 ! ourworldofenergy.com ads
 ourworldofenergy.com#@##sponsors_container
-!:partner_token=ecosia.org
-!:partner_id=c1757eb4f2c4d962
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
-! ecosia.org sponsored search results
-@@||ecosia.org/search?$elemhide
 !:partner_token=theweddingcat.net
 !:partner_id=113ab810390af099
 !:type=partner
@@ -10772,3 +10778,4 @@ nachrichten.yahoo.com#@#.ad-source
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
 ! ecosia.org sponsored search results
+@@||ecosia.org/search?$elemhide
