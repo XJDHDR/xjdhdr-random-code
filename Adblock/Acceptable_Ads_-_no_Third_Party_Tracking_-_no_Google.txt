@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: L4jH0Qr8+JJkQfIR7I1x6w
-! Version: 202103170200
+! Checksum: XocE6d1xCkIInw2qrN0Edw
+! Version: 202103171400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 17 Mar 2021 02:00 UTC
+! Last modified: 17 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -177,14 +177,8 @@ hochzeitswahn.de#@#.ad-section
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=39641
 ! yelp.com ads
-yelp.com#@#.yloca-search-result-exp
-yelp.com#@#.yloca-search-result
-yelp.com#@#.yloca-list
-yelp.com#@#.yloca-list-exp
-yelp.com#@#.biz-photos-yloca
-yelp.com#@#.right-rail-yla-wrapper
 yelp.com#@#.ad-block
-yelp.com#@#section:-abp-has(div > span > span:-abp-contains(Sponsored))
+yelp.com#@#.ABP
 !:partner_token=Linkedin.com
 !:partner_id=3fdc3ed89884b401
 !:type=partner

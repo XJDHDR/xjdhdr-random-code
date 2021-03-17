@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F8r2tnX4BUEHcwfqTz4KhQ
-! Version: 202103170200
+! Checksum: JLnSbde5Qs/uG18PRiUm0Q
+! Version: 202103171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 Mar 2021 02:00 UTC
+! Last modified: 17 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6390,6 +6390,7 @@ tomshardware.com,pcgamer.com,space.com,creativebloq.com,whathifi.com,gamesradar.
 pcgamer.com,tomshardware.com#@#div[class*="ad-unit"]
 tomshardware.com#@#div[class^="ad-unit"]
 pcgamer.com,tomshardware.com#@#div[class^="slot-"]
+twinfinite.net#@#.centerAd
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6544,7 +6545,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
-@@||cdn.exmarketplace.com/bidder^$domain=mondodesign.it
+@@||cdn.exmarketplace.com/bidder^$domain=ooyyo.com|mondodesign.it
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
@@ -6682,6 +6683,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||cdn.intergi.com/hera/releases/*$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 @@||cdn.intergi.com/prebid/prebid.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
+@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=reverso.net
 ! Default filters for long domain lists
 !
 !
@@ -7782,6 +7784,7 @@ manuals.ca,manualpdf.com.br,manua.ls,xn--80adah2aybmok5f.bg,xn----2lbcmca4cdtsdb
 @@||cm.adform.net/pixel$domain=e15.cz|autorevue.cz|zeny.cz|horoscopes-love.eu|peak.cz|dama.cz|nasezdravotnictvi.cz|maminka.cz|reflex.cz|onlyu.cz|root.cz|bezrealitky.cz|serialzone.cz|blesk.cz|drbna.cz|karaoke-lyrics.net|vareni.cz|onlymen.cz|zive.cz|aktualne.cz|recepty.cz|frekvence1.cz|ireferaty.cz|mimishop.cz|mimiaukce.cz|slunecnice.cz|lupa.cz|podnikatel.cz|vitalia.cz|tyden.cz|tydenikpolicie.cz|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 @@||s2.adform.net/banners/scripts/st/trackpoint-async.js$domain=e15.cz|autorevue.cz|zeny.cz|horoscopes-love.eu|peak.cz|dama.cz|nasezdravotnictvi.cz|maminka.cz|reflex.cz|onlyu.cz|root.cz|bezrealitky.cz|serialzone.cz|blesk.cz|drbna.cz|karaoke-lyrics.net|vareni.cz|onlymen.cz|zive.cz|aktualne.cz|recepty.cz|frekvence1.cz|ireferaty.cz|mimishop.cz|mimiaukce.cz|slunecnice.cz|lupa.cz|podnikatel.cz|vitalia.cz|tyden.cz|tydenikpolicie.cz|opensubtitles.org|mesec.cz|superdad.gr|ortsa.gr|toprecepty.cz|bandzone.cz|idnes.cz|~www.idnes.cz|emimino.cz|centrum.cz|vw-club.cz|euro.cz|avizo.cz|efotbal.cz|moulik.cz|lidovky.cz|cnews.cz|smartmania.cz|electropiknik.cz|g.cz|extra.cz|mimibazar.cz
 e15.cz,autorevue.cz,zeny.cz,horoscopes-love.eu,peak.cz,dama.cz,nasezdravotnictvi.cz,maminka.cz,reflex.cz,onlyu.cz,root.cz,bezrealitky.cz,serialzone.cz,blesk.cz,drbna.cz,karaoke-lyrics.net,vareni.cz,onlymen.cz,zive.cz,aktualne.cz,recepty.cz,frekvence1.cz,ireferaty.cz,mimishop.cz,mimiaukce.cz,slunecnice.cz,lupa.cz,podnikatel.cz,vitalia.cz,tyden.cz,tydenikpolicie.cz,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="aswift"]
+e15.cz,autorevue.cz,zeny.cz,horoscopes-love.eu,peak.cz,dama.cz,nasezdravotnictvi.cz,maminka.cz,reflex.cz,onlyu.cz,root.cz,bezrealitky.cz,serialzone.cz,blesk.cz,drbna.cz,karaoke-lyrics.net,vareni.cz,onlymen.cz,zive.cz,aktualne.cz,recepty.cz,frekvence1.cz,ireferaty.cz,mimishop.cz,mimiaukce.cz,slunecnice.cz,lupa.cz,podnikatel.cz,vitalia.cz,tyden.cz,tydenikpolicie.cz,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,moulik.cz,lidovky.cz,cnews.cz,smartmania.cz,electropiknik.cz,g.cz,extra.cz,mimibazar.cz#@#[id^="px-"]
 e15.cz,autorevue.cz,zeny.cz,horoscopes-love.eu,peak.cz,dama.cz,nasezdravotnictvi.cz,maminka.cz,reflex.cz,onlyu.cz,root.cz,bezrealitky.cz,serialzone.cz,blesk.cz,drbna.cz,karaoke-lyrics.net,vareni.cz,onlymen.cz,zive.cz,aktualne.cz,recepty.cz,frekvence1.cz,ireferaty.cz,mimishop.cz,mimiaukce.cz,slunecnice.cz,lupa.cz,podnikatel.cz,vitalia.cz,tyden.cz,tydenikpolicie.cz,opensubtitles.org,mesec.cz,superdad.gr,ortsa.gr,toprecepty.cz,bandzone.cz,idnes.cz,~www.idnes.cz,emimino.cz,centrum.cz,vw-club.cz,euro.cz,avizo.cz,efotbal.cz,cnews.cz#@#[data-ad-client][data-ad-slot]
 extra.cz#@#div.klik--leaderboard
 extra.cz#@#.adFull
@@ -8359,9 +8362,7 @@ testpages.adblockplus.org#@##abptest
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
-@@||spn-v1.revampcdn.com/publishers/windowsreport.js$domain=windowsreport.com
-@@||spn-v1.revampcdn.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
-@@||spn-v1.revampcdn.com/publishers/toucharger.js$domain=toucharger.com
+@@||spn-v1.revampcdn.com/publishers^$script,domain=filehorse.com|toucharger.com|lelogicielgratuit.com|windowsreport.com
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 @@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
@@ -8656,6 +8657,7 @@ supercheats.com#@##bottom_ad_728
 ygorganization.com#@#.advertisement_above_footer
 rajah.com#@#.ad-section
 rajah.com#@#.content-ad
+weatherbugsc.com##img[alt^="Default Ad"]
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
@@ -8700,6 +8702,7 @@ yahoo.com#@##my-adsLREC2
 yahoo.com#@#.darla-lrec-ad
 yahoo.com##.darla-lrec-ad:not(.uba-container)
 yahoo.com#@##sda-LDRB
+yahoo.com###sda-MON:not(.uba-container)
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -10558,14 +10561,8 @@ hochzeitswahn.de#@#.ad-section
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=39641
 ! yelp.com ads
-yelp.com#@#.yloca-search-result-exp
-yelp.com#@#.yloca-search-result
-yelp.com#@#.yloca-list
-yelp.com#@#.yloca-list-exp
-yelp.com#@#.biz-photos-yloca
-yelp.com#@#.right-rail-yla-wrapper
 yelp.com#@#.ad-block
-yelp.com#@#section:-abp-has(div > span > span:-abp-contains(Sponsored))
+yelp.com#@#.ABP
 !:partner_token=Linkedin.com
 !:partner_id=3fdc3ed89884b401
 !:type=partner
