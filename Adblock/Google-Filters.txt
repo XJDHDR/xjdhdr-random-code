@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EieFc0IGJFY4nKLMePvxlw
-! Version: 202103161400
+! Checksum: yjnqYWKkFOw2SFtvj0h3uw
+! Version: 202103170200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 16 Mar 2021 14:00 UTC
+! Last modified: 17 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -916,6 +916,7 @@ _reklama_$domain=~youtube.com
 ##.google-ads2
 ##.google-adsbygoogle
 ##.google-adsense
+##.google-advert-sidebar
 ##.google-advertisement
 ##.google-advertisement_txt
 ##.google-afc-wrapper
@@ -2161,7 +2162,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|espn.com|etf.com|nbcsports.com|realestate.co.nz|vimeo.com|windalert.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.screen9.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|iheart.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|navbharattimes.indiatimes.com|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.earthtv.com|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|truvid.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.screen9.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|iheart.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|navbharattimes.indiatimes.com|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.earthtv.com|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|truvid.com|tvguide.com|ultimedia.com|usatoday.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||oxfordlearnersdictionaries.com/external/scripts/doubleclick.js
@@ -2195,7 +2196,6 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||flashtalking.com/spot/$image,domain=itv.com
 @@||googletagservices.com/activeview/js/current/osd.js$script,domain=webmd.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abcnews.go.com|slacker.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=foxnews.com
 @@||newsconcierge.com.au/google-adwords-offer/$~third-party
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpu-world.com|megaleech.us|short.am
 @@||player.foxdcg.com/shared/$xmlhttprequest,domain=fxnetworks.com
@@ -2885,17 +2885,14 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
-@@||dplay.com^*/google_analytics.js
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||files.mycloud.com/js/analytics/google_analytics.js
 @@||flsenate.gov/Scripts/GoogleAnalytics.js$~third-party
 @@||ghstatic.com/images/site/zylom/scripts/google-analytics.js?$domain=zylom.com
-@@||google-analytics.com/analytics.js$domain=beinsports.com|health2000.co.nz|jackbox.tv|readyrefresh.com|tracking.narvar.com|westernunion.com
-@@||google-analytics.com/ga.js$domain=aftonbladet.se|apps.facebook.com|asus.com|everydayhealth.com|expensify.com|filmweb.pl|fora.tv|fossil.com|hoerzu.de|jetbrains.com|kleinanzeigen.ebay.de|medonet.pl|opendns.com
-@@||google-analytics.com/gtm/js$script,domain=readyrefresh.com
-@@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=opendns.com|openshift.com|westernunion.com
-@@||google-analytics.com/plugins/ua/ec.js$script,domain=health2000.co.nz
+@@||google-analytics.com/analytics.js$domain=beinsports.com|jackbox.tv|tracking.narvar.com|westernunion.com
+@@||google-analytics.com/ga.js$domain=apps.facebook.com|everydayhealth.com
+@@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how
 @@||googletagmanager.com/gtm.js$domain=ads.spotify.com|aim.steelseries.com|atptour.com|bsa-whitelabel.com|chipotle.com|easternbank.com|hbomax.com|medibank.com.au|newsletter.co.uk|nflgamepass.com|pioneer.eu|porsche.com|readyrefresh.com|redbull.com|royalbank.com|scotsman.com|trademe.co.nz
@@ -2903,7 +2900,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
 @@||hobbyking.com^*/gtm.js$script,~third-party
 @@||homedepotrebates11percent.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
-@@||ibispaint.com/js/googleAnalytics.js
 @@||ikea.com/cdn/googleanalytics/$~third-party,xmlhttprequest
 @@||ipapi.co/json/$xmlhttprequest,domain=athleticbrewing.com|audius.co
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VqFwwFHEtqcAn18DR/sKhg
-! Version: 202103161400
+! Checksum: F8r2tnX4BUEHcwfqTz4KhQ
+! Version: 202103170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 16 Mar 2021 14:00 UTC
+! Last modified: 17 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1532,6 +1532,7 @@ fincalculator.ru#@#.adv-border
 @@||secretsdujeu.com/ads/ad-banner.v5.js$domain=secretsdujeu.com
 @@||starswelt.com/wp-content/plugins/advanced-ads/$script,domain=starswelt.com
 @@||adfarm1.adition.com/lt?wpt=j&nw=42&*tagid(relatedbox)$script,domain=web.de|gmx.net
+@@||adfarm1.adition.com/banner^$xmlhttprequest,domain=web.de|gmx.net
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
@@ -1813,6 +1814,42 @@ businesstoday.in##.tabolabg .syndicatedItem
 espn.com.mx##.sponsored-headlines > *
 taste.com.au##div[data-feed-container-num="1"] .syndicatedItem
 ! Default filters for long domain lists
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
 !:partner_token=cyfrowydoradca.pl
 !:partner_id=29827a15dfa14c8d
 !:type=partner
@@ -6646,6 +6683,23 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||cdn.intergi.com/prebid/prebid.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 ! Default filters for long domain lists
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
 !:partner_token=Bodis
 !:partner_id=560e12a6881e0591
 !:type=partner
