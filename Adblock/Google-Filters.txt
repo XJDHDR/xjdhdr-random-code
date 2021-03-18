@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Dmfv7vH7vzn+xC5dbJEkRg
-! Version: 202103180200
+! Checksum: +nlhN12FzoHI7xMoGwtEMw
+! Version: 202103181400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Mar 2021 02:00 UTC
+! Last modified: 18 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1245,6 +1245,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||aaqpsddtjnsmug.com^
 ||adtng.com^
 ||advmaiotg.com^
+||affableindigestionstruggling.com^
 ||agzfxovg.com^
 ||alruqbfjg.com^
 ||analyzeagg.com^
@@ -2880,9 +2881,9 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||google-analytics.com/analytics.js$domain=planetsnow.de
 ||google-analytics.com/analytics.js$domain=notebookcheck.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
-@@||atptour.com/assets/atpwt/scripts/util/googleAnalytics.js
+@@||atptour.com/assets/atpwt/scripts/util/googleAnalytics.js$~third-party
 @@||bam.nr-data.net^$script,domain=kapwing.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
@@ -2902,7 +2903,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||homedepotrebates11percent.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||ikea.com/cdn/googleanalytics/$~third-party,xmlhttprequest
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
-@@||legendstracking.com/js/legends-tracking.js
+@@||legendstracking.com/js/legends-tracking.js$~third-party
 @@||lowesgiftcardbonus.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||oceanstatejoblot.com^*/widget/osjl-google-analytics/$script,~third-party

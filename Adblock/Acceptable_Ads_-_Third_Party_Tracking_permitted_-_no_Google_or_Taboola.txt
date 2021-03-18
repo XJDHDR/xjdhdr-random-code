@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t0n4blyxPldSZgTKWXbfyA
-! Version: 202103180200
+! Checksum: PDA7FDE08Yn/BwD7q91KMw
+! Version: 202103181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Mar 2021 02:00 UTC
+! Last modified: 18 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5810,7 +5810,8 @@ elites.io#@##ad-bottom
 calibre-ebook.com,ratemyprofessors.com#@##ad-container
 elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
-rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com,cnn.com#@##adBanner
+thecoli.com,f4wonline.com,yugipedia.com,rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com,cnn.com#@##adBanner
+thecoli.com,f4wonline.com,yugipedia.com,rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com#@#.adLeaderboard
 cnn.com#@##adSquare
 discogs.com#@##ad_bottom
 www.visitlondon.com#@##ad_footer
@@ -6117,7 +6118,7 @@ moviestvnetwork.com,wegotthiscovered.com#@#.sticky-sidebar-ad
 champion.gg#@#.stickyad
 pokemoncoders.com#@#.td-a-ad
 yesasia.ru#@#.td-a-rec
-hebbarskitchen.com,betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
+businesscasestudies.co.uk,hebbarskitchen.com,betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
 hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
 hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
 hebbarskitchen.com,betootaadvocate.com#@#.td-a-rec-id-custom_ad_4
@@ -6383,7 +6384,6 @@ xda-developers.com#@#.spot
 animalcrossingworld.com#@#.at-header-ad
 animalcrossingworld.com#@#.at-sidebar-1
 metalinjection.net#@#.zox_ad_widget
-rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com#@#.adLeaderboard
 comicbookmovie.com#@##adATF300x250
 comicbookmovie.com#@##adBTF300x250
 tomshardware.com,pcgamer.com,space.com,creativebloq.com,whathifi.com,gamesradar.com#@#.dfp-leaderboard-container
@@ -6391,6 +6391,9 @@ pcgamer.com,tomshardware.com#@#div[class*="ad-unit"]
 tomshardware.com#@#div[class^="ad-unit"]
 pcgamer.com,tomshardware.com#@#div[class^="slot-"]
 twinfinite.net#@#.centerAd
+businesscasestudies.co.uk#@#.td-adspot-title
+paruvendu.fr#@##optidigital-adslot-Billboard_1
+paruvendu.fr#@#.optidigital-ad-center
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6539,11 +6542,11 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=rockol.it|healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=rockol.it|healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
-@@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=fiscoetasse.com
+@@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=businesscasestudies.co.uk|fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder^$domain=ooyyo.com|mondodesign.it
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
@@ -6680,10 +6683,13 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||lib.medyanetads.com/adservice^$domain=milliyet.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
-@@||cdn.intergi.com/hera/releases/*$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
-@@||cdn.intergi.com/prebid/prebid.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$domain=rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
+@@||cdn.intergi.com/hera/releases/*$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
+@@||cdn.intergi.com/prebid/prebid.js$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
+@@||c.amazon-adsystem.com/aax2/apstag.js$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 @@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=reverso.net
+@@||scripts.static-od.com/setup/?site=$domain=paruvendu.fr
+@@||sac.ayads.co/sublime/31128/prebid$domain=paruvendu.fr
+@@||optchk.ayads.co/?callback=sublimeCb$domain=paruvendu.fr
 ! Default filters for long domain lists
 !
 !
@@ -7325,6 +7331,7 @@ edhrec.com#@#.home__ad
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=73514
 ! BuySellAds ads
 @@||pixel.adsafeprotected.com^*^network=BUYSELLADS
+@@||static.adsafeprotected.com^*^network=BUYSELLADS
 @@||acceptable.buysellads.net^*^adunit=bsa-zone_1537909991-0_123456^$subdocument,document,domain=scotch.io
 @@||coincodex.com/apps/coincodex/lib/position/main.js$domain=coincodex.com
 @@||coincodex.com/apps/coincodex/lib/position/index.html?name=leaderboard^$subdocument,domain=coincodex.com
