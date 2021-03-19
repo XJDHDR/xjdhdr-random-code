@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +nlhN12FzoHI7xMoGwtEMw
-! Version: 202103181400
+! Checksum: 8AtVI/uEiQuYYDtCVUmssA
+! Version: 202103190200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Mar 2021 14:00 UTC
+! Last modified: 19 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1149,6 +1149,8 @@ _reklama_$domain=~youtube.com
 ##.youtubeSuperLeaderBoardAdHolder
 ##.youtubeSuperLeaderOverallAdArea
 ##[ad-id^="googlead"]
+##[id^="google_ads_iframe_"]
+##[name^="google_ads_iframe"]
 ##a[href*=".bang.com/"][href*="&aff="]
 ##a[href^="//pubads.g.doubleclick.net/"]
 ##a[href^="//syndication.dynsrvtbg.com/splash.php?"]
@@ -1182,11 +1184,10 @@ _reklama_$domain=~youtube.com
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href^="https://www.what-sexdating.com/"]
 ##div[class^="pane-google-admanager-"]
-##div[id^="google_ads_iframe_"]
 ##div[id^="google_dfp_"]
 ##iframe[id^="google_ads_frame"]
-##iframe[id^="google_ads_iframe"]
-##iframe[name^="google_ads_iframe"]
+##iframe[src^="https://pagead2.googlesyndication.com/"]
+##iframe[src^="https://tpc.googlesyndication.com/"]
 ! google
 ##a[href^="http://www.cash-duck.com/"]
 ##input[onclick^="window.open('http://www.FriendlyDuck.com/"]
@@ -1226,6 +1227,7 @@ youtube.com#@#.overlay-ads
 thoughtcatalog.com#@#.tc_ad_unit
 codedevstuff.blogspot.com,wingsbirdpro.com#@#.vertical-ads
 youtube.com#@#.video-ads
+daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#[id^="google_ads_iframe_"]
 santander.co.uk#@#a[href^="http://ad-emea.doubleclick.net/"]
 jabong.com,people.com,spaargids.be,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
 pcmag.com,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
@@ -1233,7 +1235,6 @@ linkedin.com,tasteofhome.com#@#a[href^="http://pubads.g.doubleclick.net/"]
 google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.de#@#a[href^="http://www.liutilities.com/"]
 buzzfeed.com,guide-epargne.be,spaargids.be,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 drive.google.com#@#div[aria-label="Ads"]
-daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#div[id^="google_ads_iframe_"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
 bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,flightcentre.co.uk,foodkick.com,lavozdegalicia.es,liverpoolfc.com,mariages.net,matrimonio.com,olx.pl,payback.pl,pccomponentes.com,pianobuyer.com,ripley.cl,ripley.com.pe,thoughtcatalog.com,vroomvroomvroom.com.au,weddingspot.co.uk,wsj.com,zillow.com#@#iframe[id^="google_ads_iframe"]
 adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense

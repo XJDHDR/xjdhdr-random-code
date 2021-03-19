@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PDA7FDE08Yn/BwD7q91KMw
-! Version: 202103181400
+! Checksum: rduG5BKdhOqzzwThGtmoUg
+! Version: 202103190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Mar 2021 14:00 UTC
+! Last modified: 19 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1020,13 +1020,6 @@ kupidom2.com#@#.ya-partner
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=22099
 ! anglissime.com Ads
-!:partner_token=Renego
-!:partner_id=21408df8e9fa3d83
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=21508
-! Renego Ads
-@@||renegoads.com^$third-party
-androidnext.de#@##mrec_sidebar
 !:partner_token=payzle.com
 !:partner_id=1f5a0d4148bd032b
 !:type=partner
@@ -3674,14 +3667,6 @@ yepman.ru#@#span[style="font-size:14px;"] + *
 ! 01humours.com ads
 @@||01humours.com/images/advertising.jpg$domain=01humours.com
 @@||01referencement.com/images/advertising.jpg$domain=01humours.com
-!:partner_token=OB Media
-!:partner_id=8b5b0a0ec8f38dbb
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55388
-! OB Media ads
-@@$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
-/abp/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
-@@/abp/px.gif?ch=1&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
 !:partner_token=System1 Search
 !:partner_id=c5e23ab784525267
 !:type=partner
@@ -3923,13 +3908,6 @@ sberometer.ru,maxi-karta.ru,xn--80aapkb3algkc.xn--p1ai,audit-it.ru,maxikarta.ru,
 ! studentdoctor.net and forums.studentdoctor.net ads
 @@||studentdoctor.net/wp-content/themes/fps-studentdoctor/ads.php$subdocument,domain=studentdoctor.net
 @@||rackcdn.com/ads/$image,domain=forums.studentdoctor.net
-!:partner_token=System1 parking
-!:partner_id=caf961246c82170a
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42837
-@@*$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
-/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
-@@/px.js?ch=1$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
 !:partner_token=almodi.org
 !:partner_id=d6a2827425749dfd
 !:type=partner
@@ -7425,6 +7403,23 @@ riafan.ru#@#a[href*="utm_campai"]
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
 @@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
 @@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
+! Idealmedia ads
+@@||idealmedia.io$csp=script-src self
+@@||idealmedia.io/pnews/$csp=script-src self
+@@||jsc.idealmedia.io^$script,domain=idealmedia.io|tsn.ua
+@@||idealmedia.io^$script,image,xmlhttprequest,popup,stylesheet,other,domain=idealmedia.io|tsn.ua
+@@||s-img.idealmedia.io^$image,xmlhttprequest,domain=idealmedia.io|tsn.ua
+@@||cdn.idealmedia.io^$image,script,domain=idealmedia.io|tsn.ua
+@@||autocounter.idealmedia.io^$image,xmlhttprequest,domain=idealmedia.io|tsn.ua
+@@||servicer.idealmedia.io^$script,xmlhttprequest,domain=idealmedia.io|tsn.ua
+@@||mgid.com^$popup,third-party,domain=idealmedia.io|tsn.ua
+idealmedia.io#@#*
+tsn.ua#@#a[href*="idealmedia.io"]
+tsn.ua#@#[id*="ScriptRoot"]
+tsn.ua##div[id*="Composite"]:not([id^="M"]):not([id*="Composite898338"]):not([id*="Composite900549"])
+@@||player.adtcdn.com/prebidlink^$script,domain=tsn.ua
+@@/partner-news?dark=0&priority=1$subdocument,domain=tsn.ua
+tsn.ua#@#[data-partners-iframe]
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
