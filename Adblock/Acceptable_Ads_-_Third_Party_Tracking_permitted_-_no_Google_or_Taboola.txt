@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rduG5BKdhOqzzwThGtmoUg
-! Version: 202103190200
+! Checksum: xVNucToridaR9Ll7IHoDYg
+! Version: 202103191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Mar 2021 02:00 UTC
+! Last modified: 19 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1762,7 +1762,7 @@ vol.at#@#div[id^="AdContainer_"]
 dinamani.com,newindianexpress.com#@#div[id^="ad_script_"]
 9docu.org,thesportsdrop.com,cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,medicaregranny.com,militarybud.com,misspennystocks.com,mortgageafterlife.com,psychicmonday.com,refinancegold.com,therapyjoker.com,tradingblvd.com,tummytuckhipo.com,weightlossgroove.com#@#div[id^="advads-"]
 9docu.org,cashroadster.com,directhealthy.com,financeblvd.com,financenancy.com,gameofglam.com,healthygeorge.com,investmentguru.com,loanpride.com,medicalmatters.com,mortgageafterlife.com,refinancegold.com,therapyjoker.com,tradingblvd.com#@#div[id^="advads_"]
-merrjep.al,seloger.com#@#div[id^="div-gpt-ad"]
+merrjep.al,seloger.com#@#[id^="div-gpt-ad"]
 msn.com##div[id^="tb_homePage_carousel_"] div[id^="internal_trc_"]
 moneyam.com#@#div[style="width:980px;height:450px;clear:both;margin: 0 auto;"]
 rotter.net#@#td[style="border:0px solid red; width:160px; table-layout:fixed;"]
@@ -2284,7 +2284,7 @@ gmx.at,gmx.net,web.de,gmx.ch##.adc-top
 gmx.at,gmx.net,web.de,gmx.ch##.adc-sky
 radiozet.pl##.plista_widget_topArticle_eyeo_item[data-type="pet"]
 rmfmaxxx.pl##.plista_widget_topArticle_item[data-type="pet"]
-rmfmaxxx.pl#@#div[id^="div-gpt-ad"]
+rmfmaxxx.pl#@#[id^="div-gpt-ad"]
 gmx.net,web.de#@#div[data-adservice-slot]
 antyradio.pl,chillizet.pl,planeta.pl,radiozet.pl##amp-ad:not([type="plista"])
 !:partner_token=Words Nouveau
@@ -2807,7 +2807,7 @@ thevarsity.ca#@#.ad-med-rect
 @@^sites/all/modules/custom/*_advertisement/assets/js/marketers/dfp/cpg_ads.ros.js$~third-party,domain=eatsmarter.de
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
-elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#div[id^="div-gpt-ad"]
+elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@##ad-container
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#.ad-top
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#.adBanner
@@ -3955,7 +3955,7 @@ sberometer.ru,maxi-karta.ru,xn--80aapkb3algkc.xn--p1ai,audit-it.ru,maxikarta.ru,
 godvine.com#@#.ad-spot
 vamoslaportugal.net,ayoye.com,mondedestars.com,habsolumentfan.com,mafourchette.com#@#.ad-wrap
 dailydot.com#@##recommendation-engine
-conservativetribune.com,westernjournalism.com#@#div[id^="div-gpt-ad"]
+conservativetribune.com,westernjournalism.com#@#[id^="div-gpt-ad"]
 unilad.co.uk,viralthread.com,allenbwest.com,conservativetribune.com#@#a[target="_blank"][href^="/"] > [class*="-"]
 thesportbuzz.com,pixte.com,gleems.com#@#.adspace-widget
 thesportbuzz.com,timetobreak.com,pixte.com,gleems.com#@##advert-placeholder-post-content-image-1
@@ -4464,7 +4464,7 @@ strojar.com#@#[id^="aswift"]
 @@||dianomi.com/smartads.epl?id=2589^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2590^$subdocument,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2606^$subdocument,domain=marketwatch.com
-finews.asia#@#div[id^="div-gpt-ad"]
+finews.asia#@#[id^="div-gpt-ad"]
 seekingalpha.com#@##source-ad-native-sticky-wrapper
 seekingalpha.com###article-right-slot-1
 businessinsider.com#@#.right-ad
@@ -4557,7 +4557,7 @@ pressfire.no#@#a[href^="http://track.adform.net/"]
 pressfire.no#@#a[href^="https://track.adform.net/"]
 pressfire.no#@#a[href*=".adform.net/"]
 pressfire.no#@#.adform-adbox
-pressfire.no#@#div[id^="div-gpt-ad"]
+pressfire.no#@#[id^="div-gpt-ad"]
 !:partner_token=Addoor Native Ads
 !:partner_id=df14e98d7a9a587c
 !:type=partner
@@ -6784,7 +6784,7 @@ t-online.de#@#.ad-marker
 autozeitung.de#@#.adColumn
 autozeitung.de#@#.adBox
 autozeitung.de#@#.dikr-responsive-ads-slot
-animemanga.de#@#div[id^="div-gpt-ad"]
+animemanga.de#@#[id^="div-gpt-ad"]
 animemanga.de#@##base-advertising-top
 myfanbase.de#@##ad-rectangle
 myfanbase.de#@##ad-skyscraper
@@ -6793,7 +6793,7 @@ kicker.de##.ovAdPresenter
 kicker.de##.ovAdIntext
 markt.de#@##markt_superbanner
 spieletipps.de#@##leaderboard
-gofeminin.de#@#div[id^="div-gpt-ad"]
+gofeminin.de#@#[id^="div-gpt-ad"]
 !:partner_token=trackingthepros.com
 !:partner_id=657c91c68b9dbf3e
 !:type=partner
@@ -7097,7 +7097,7 @@ fitnessrezepte.de#@#.wpa
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=56958
 ! thecrimson.com ads
 thecrimson.com#@#.sidekick
-thecrimson.com#@#div[id^="div-gpt-ad"]
+thecrimson.com#@#[id^="div-gpt-ad"]
 thecrimson.com#@#.ad-tag
 thecrimson.com#@#.leader-ad
 thecrimson.com#@#.ad-label
@@ -7125,7 +7125,7 @@ adtechdaily.com#@#.img_ad
 @@||goldenline.pl/bundles/utils/img/px.gif?ch=1&rn=$domain=goldenline.pl
 ||goldenline.pl/bundles/utils/img/px.gif?ch=2&rn=$domain=goldenline.pl
 goldenline.pl#@#.img_ad
-goldenline.pl#@#div[id^="div-gpt-ad"]
+goldenline.pl#@#[id^="div-gpt-ad"]
 !:partner_token=gamesflow.com
 !:partner_id=0055d2dc1912df76
 !:type=partner
@@ -7165,7 +7165,7 @@ gamesflow.com#@#.iconads
 ! OLX Global B.V. ads
 @@||akamaized.net^*/pixel.gif?ch=1&rn=$domain=olx.bg|olx.ro|olx.ua|olx.kz|olx.pt
 ||akamaized.net^*/pixel.gif?ch=2&rn=$domain=olx.bg|olx.ro|olx.ua|olx.kz|olx.pt
-olx.bg,olx.ro,olx.ua,olx.kz,olx.pt#@#div[id^="div-gpt-ad"]
+olx.bg,olx.ro,olx.ua,olx.kz,olx.pt#@#[id^="div-gpt-ad"]
 !:partner_token=rimessolides.com
 !:partner_id=7f39b9871c9a94a0
 !:type=partner
@@ -7414,7 +7414,7 @@ riafan.ru#@#a[href*="utm_campai"]
 @@||servicer.idealmedia.io^$script,xmlhttprequest,domain=idealmedia.io|tsn.ua
 @@||mgid.com^$popup,third-party,domain=idealmedia.io|tsn.ua
 idealmedia.io#@#*
-tsn.ua#@#a[href*="idealmedia.io"]
+idealmedia.io,tsn.ua#@#a[href*="idealmedia.io"]
 tsn.ua#@#[id*="ScriptRoot"]
 tsn.ua##div[id*="Composite"]:not([id^="M"]):not([id*="Composite898338"]):not([id*="Composite900549"])
 @@||player.adtcdn.com/prebidlink^$script,domain=tsn.ua
@@ -7859,7 +7859,7 @@ abecedazahrady.dama.cz#@#[class*="ads-"]
 ! newsmonkey.be ads
 newsmonkey.be##.billboard.advert
 newsmonkey.be##.leaderboard.advert
-newsmonkey.be#@#div[id^="div-gpt-ad"]
+newsmonkey.be#@#[id^="div-gpt-ad"]
 !:partner_token=Quora
 !:partner_id=ee6342968f990c88
 !:type=partner

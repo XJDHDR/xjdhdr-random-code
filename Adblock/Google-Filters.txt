@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8AtVI/uEiQuYYDtCVUmssA
-! Version: 202103190200
+! Checksum: DHgdqi+hwgLlIgoDKGuO9w
+! Version: 202103191400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 Mar 2021 02:00 UTC
+! Last modified: 19 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1149,7 +1149,7 @@ _reklama_$domain=~youtube.com
 ##.youtubeSuperLeaderBoardAdHolder
 ##.youtubeSuperLeaderOverallAdArea
 ##[ad-id^="googlead"]
-##[id^="google_ads_iframe_"]
+##[id^="google_ads_iframe"]
 ##[name^="google_ads_iframe"]
 ##a[href*=".bang.com/"][href*="&aff="]
 ##a[href^="//pubads.g.doubleclick.net/"]
@@ -1227,7 +1227,7 @@ youtube.com#@#.overlay-ads
 thoughtcatalog.com#@#.tc_ad_unit
 codedevstuff.blogspot.com,wingsbirdpro.com#@#.vertical-ads
 youtube.com#@#.video-ads
-daveramsey.com,foodkick.com,olx.pl,pccomponentes.com,ripley.cl,ripley.com.pe#@#[id^="google_ads_iframe_"]
+bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,flightcentre.co.uk,foodkick.com,lavozdegalicia.es,liverpoolfc.com,mariages.net,matrimonio.com,olx.pl,payback.pl,pccomponentes.com,pianobuyer.com,ripley.cl,ripley.com.pe,thoughtcatalog.com,vroomvroomvroom.com.au,weddingspot.co.uk,wsj.com,zillow.com#@#[id^="google_ads_iframe"]
 santander.co.uk#@#a[href^="http://ad-emea.doubleclick.net/"]
 jabong.com,people.com,spaargids.be,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
 pcmag.com,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
@@ -1236,7 +1236,6 @@ google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.de#@#a[href^
 buzzfeed.com,guide-epargne.be,spaargids.be,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 drive.google.com#@#div[aria-label="Ads"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
-bodas.com.mx,bodas.net,concursovirtual.com.br,daveramsey.com,economist.com,flightcentre.co.uk,foodkick.com,lavozdegalicia.es,liverpoolfc.com,mariages.net,matrimonio.com,olx.pl,payback.pl,pccomponentes.com,pianobuyer.com,ripley.cl,ripley.com.pe,thoughtcatalog.com,vroomvroomvroom.com.au,weddingspot.co.uk,wsj.com,zillow.com#@#iframe[id^="google_ads_iframe"]
 adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
 spoilertv.com#@##adsensewide
 androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
