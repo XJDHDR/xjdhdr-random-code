@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Nd1e5fuu8ODasw+AKGWh0A
-! Version: 202103210200
+! Checksum: IQfl/WlEZPQoYKO5Du6T1w
+! Version: 202103211400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Mar 2021 02:00 UTC
+! Last modified: 21 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1297,6 +1297,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||eeltaung.com^
 ||eenbryfjg.com^
 ||efficiencycypressregarding.com^
+||elliotfoodauditioning.com^
 ||elmfnadgg.com^
 ||emxyuehfnlssg.com^
 ||enbvylulfg.com^
@@ -1385,6 +1386,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||pheevoug.com^
 ||physicianhung.com^
 ||piozhntfxag.com^
+||playwrightglancing.com^
 ||poifinsegg.com^
 ||pointexcusestretching.com^
 ||poorlydig.com^
@@ -1453,6 +1455,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||uujdthyg.com^
 ||vaftkcyzqg.com^
 ||vdfoejtqimcgog.com^
+||vehemenceclung.com^
 ||veoujrnenng.com^
 ||vkudpjuvg.com^
 ||vlitag.com^
@@ -1654,6 +1657,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||punsong.com^$popup
 ||quantomcoding.com^$popup
 ||redirect18systemsg.com^$popup
+||significantlyentering.com^$popup
 ||spareddepressing.com^$popup
 ||srv2trking.com^$popup
 ||srvbytrking.com^$popup
@@ -1983,6 +1987,7 @@ gokunming.com##.prom
 lamag.com,nextdoor.com##.promo-container
 andoveradvertiser.co.uk,asianimage.co.uk,autoexchange.co.uk,banburycake.co.uk,barryanddistrictnews.co.uk,basildonstandard.co.uk,basingstokegazette.co.uk,bicesteradvertiser.net,borehamwoodtimes.co.uk,bournemouthecho.co.uk,braintreeandwithamtimes.co.uk,brentwoodlive.co.uk,bridgwatermercury.co.uk,bridportnews.co.uk,bromsgroveadvertiser.co.uk,bucksfreepress.co.uk,burnhamandhighbridgeweeklynews.co.uk,burytimes.co.uk,campaignseries.co.uk,chardandilminsternews.co.uk,chelmsfordweeklynews.co.uk,chesterlestreetadvertiser.co.uk,chorleycitizen.co.uk,clactonandfrintongazette.co.uk,cotswoldessence.co.uk,cotswoldjournal.co.uk,cravenherald.co.uk,creweguardian.co.uk,dailyecho.co.uk,darlingtonandstocktontimes.co.uk,dorsetecho.co.uk,droitwichadvertiser.co.uk,dudleynews.co.uk,ealingtimes.co.uk,echo-news.co.uk,enfieldindependent.co.uk,eppingforestguardian.co.uk,eveshamjournal.co.uk,falmouthpacket.co.uk,freepressseries.co.uk,gazette-news.co.uk,gazetteherald.co.uk,gazetteseries.co.uk,guardian-series.co.uk,halesowennews.co.uk,halsteadgazette.co.uk,hampshirechronicle.co.uk,harrowtimes.co.uk,harwichandmanningtreestandard.co.uk,heraldseries.co.uk,herefordtimes.com,hillingdontimes.co.uk,ilkleygazette.co.uk,keighleynews.co.uk,kidderminstershuttle.co.uk,knutsfordguardian.co.uk,lancashiretelegraph.co.uk,ledburyreporter.co.uk,leighjournal.co.uk,ludlowadvertiser.co.uk,maldonandburnhamstandard.co.uk,malverngazette.co.uk,messengernewspapers.co.uk,milfordmercury.co.uk,newsshopper.co.uk,northwichguardian.co.uk,oxfordmail.co.uk,penarthtimes.co.uk,prestwichandwhitefieldguide.co.uk,redditchadvertiser.co.uk,redhillandreigatelife.co.uk,richmondandtwickenhamtimes.co.uk,romseyadvertiser.co.uk,runcornandwidnesworld.co.uk,salisburyjournal.co.uk,somersetcountygazette.co.uk,southendstandard.co.uk,southwalesargus.co.uk,southwalesguardian.co.uk,southwestfarmer.co.uk,stalbansreview.co.uk,sthelensstar.co.uk,stourbridgenews.co.uk,surreycomet.co.uk,suttonguardian.co.uk,swindonadvertiser.co.uk,tewkesburyadmag.co.uk,theargus.co.uk,theboltonnews.co.uk,thenational.scot,thenorthernecho.co.uk,thescottishfarmer.co.uk,thetelegraphandargus.co.uk,thetottenhamindependent.co.uk,thewestmorlandgazette.co.uk,thisisthewestcountry.co.uk,thurrockgazette.co.uk,times-series.co.uk,wandsworthguardian.co.uk,warringtonguardian.co.uk,watfordobserver.co.uk,westerntelegraph.co.uk,wharfedaleobserver.co.uk,wiltsglosstandard.co.uk,wiltshiretimes.co.uk,wimbledonguardian.co.uk,wirralglobe.co.uk,witneygazette.co.uk,worcesternews.co.uk,yeovilexpress.co.uk,yorkpress.co.uk,yourlocalguardian.co.uk##.promoted-block
 siteslike.com##.rif
+bing.com##.rtb_ad_mvtr
 beermoneyforum.com,geekdoing.com,studentdoctor.net##.samBannerUnit
 freshbusinessthinking.com##.sidebar-mpu
 thenokiablog.com##.sidebardirect
@@ -2111,7 +2116,7 @@ youtubelike.com###header-top
 phonedog.com###headerboard
 allureamateurs.net,mataporno.com,sexmummy.com,teenwantme.com,worldgatas.com,xpg.com.br###topbar
 pornsharing.com##.allIMwindow
-3movs.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imagezog.com,momthumb.com,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,porngames.com,pornoreino.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
+3movs.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,porngames.com,pornoreino.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
 celebritymovieblog.com##.banner700
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
@@ -2929,7 +2934,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||youtube.com/api/analytics/$~third-party
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||bugsnag.com^$~third-party,domain=app.bugsnag.com
-@@||sourcepointcmp.bloomberg.com/ccpa.js$script,domain=bloomberg.com
+@@||sourcepointcmp.bloomberg.*/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
+@@||sourcepointcmp.bloomberg.*/mms/get_site_data$xmlhttprequest,domain=bloomberg.co.jp|bloomberg.com
 @@||googletagservices.com/tag/js/gpt.js$domain=allestoringen.be|allestoringen.nl|allestörungen.at|allestörungen.ch|allestörungen.de|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr
 ! Google
 @@||google.com/analytics/$domain=analytics.google.com
