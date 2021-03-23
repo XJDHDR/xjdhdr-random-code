@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sOKcO/rhHPqmbfKPBcJ6nA
-! Version: 202103230200
+! Checksum: ydrvbJpbXQxjVLuQOUuKNQ
+! Version: 202103231400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 23 Mar 2021 02:00 UTC
+! Last modified: 23 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7305,15 +7305,6 @@ habr.com#@#.dfp-slot
 @@||yandex.net/get-direct/$domain=express-novosti.ru,image
 @@||an.yandex.ru/partner-code-bundles/$domain=express-novosti.ru,image
 express-novosti.ru#@#div[id^="yandex_rtb"]
-! kp.ru ads
-||kp.ru/img/form/px.gif?ch=2&rn=*$domain=kp.ru
-@@||yastatic.net/safeframe-bundles^$subdocument,domain=kp.ru
-@@||yastatic.net/pcode/adfox/header-bidding.js$script,domain=kp.ru
-@@||yastatic.net/pcode/adfox/loader.js$script,domain=kp.ru
-@@||avatars.mds.yandex.net/get-direct^$image,domain=kp.ru
-@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
-@@||an.yandex.ru/system/context.js$script,domain=kp.ru
-kp.ru#@#div[id^="yandex_rtb"]
 !:partner_token=firstimpression.io
 !:partner_id=3091741a0cc23c65
 !:type=partner
@@ -8799,7 +8790,7 @@ yahoo.com###sda-MON:not(.uba-container)
 @@||amazon-adsystem.com/aan/us?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
 @@||amazon-adsystem.com/aan/ca?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
 @@||amazon-adsystem.com/aan/cn?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/e/loi/imp?b=$image,domain=amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.in|amazon.ca|amazon.fr|amazon.es|amazon.it
+@@||amazon-adsystem.com/e/loi/imp?b=$image,domain=amazon.com.br|amazon.com.au|amazon.com.mx|amazon.sg|amazon.nl|amazon.ae|amazon.sa|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.in|amazon.ca|amazon.fr|amazon.es|amazon.it
 @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right$script,domain=amazon.cn|amazon.co.jp|amazon.in|images-amazon.com|ssl-images-amazon.com|amazon.ca
 @@||amazon-adsystem.com/x/getad?*^slot=hero-quick-promo^$script,domain=images-eu.ssl-images-amazon.com|images-na.ssl-images-amazon.com
 @@||ams-ads-cornerstone-creatives-*.s3.amazonaws.com^$script,domain=amazon.cn|images-amazon.com|ssl-images-amazon.com
@@ -10487,6 +10478,19 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||www.pets.world^$elemhide
 @@||www.247.vacations^$elemhide
 @@||kitchepedia.com^$elemhide
+!:partner_token=kp.ru ads
+!:partner_id=4d92b819d968f683
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81921
+! kp.ru ads
+||kp.ru/img/form/px.gif?ch=2&rn=*$domain=kp.ru
+@@||yastatic.net/safeframe-bundles^$subdocument,domain=kp.ru
+@@||yastatic.net/pcode/adfox/header-bidding.js$script,domain=kp.ru
+@@||yastatic.net/pcode/adfox/loader.js$script,domain=kp.ru
+@@||avatars.mds.yandex.net/get-direct^$image,domain=kp.ru
+@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
+@@||an.yandex.ru/system/context.js$script,domain=kp.ru
+kp.ru#@#div[id^="yandex_rtb"]
 !:partner_token=Taboola
 !:partner_id=25a5b2915c0c608d
 !:type=partner
