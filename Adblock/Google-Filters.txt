@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SUpa2XIBcB1BmQVr6mNREA
-! Version: 202103221400
+! Checksum: ek35KMIi8tbt7c5Yl5hBNg
+! Version: 202103230200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 Mar 2021 14:00 UTC
+! Last modified: 23 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1403,13 +1403,13 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||receptionstudying.com^
 ||resolutioncomplexionfinishing.com^
 ||rniuuamwoohg.com^
+||roadmapcredulousfang.com^
 ||rowoardog.com^
 ||rszimg.com^
 ||safestteacherwaiting.com^
 ||samtrg.com^
 ||sbietlbug.com^
 ||sebeagnjowtg.com^
-||sgutelyg.com^
 ||siegemeg.com^
 ||significantlyentering.com^
 ||snbybgwiyfug.com^
@@ -1448,13 +1448,8 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||umwyfqgsg.com^
 ||untruewring.com^
 ||uujdthyg.com^
-||vaftkcyzqg.com^
-||vdfoejtqimcgog.com^
 ||vehemenceclung.com^
-||veoujrnenng.com^
-||vkudpjuvg.com^
 ||vlitag.com^
-||vlyuopulvewg.com^
 ||vpwlynobnnqg.com^
 ||vrmuyscnqgsg.com^
 ||waysinbeg.com^
@@ -1463,38 +1458,21 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||wityamdog.com^
 ||wizliebeg.com^
 ||wjeeqkdbjsg.com^
-||wjpaspdktadog.com^
-||wjuowevxibmg.com^
 ||wkcuhilbg.com^
 ||worsterring.com^
 ||wredmtmvkjbg.com^
 ||wvesvozyuoxg.com^
-||wxaeamianbg.com^
-||xcwmyyglayg.com^
-||xcwnwrgvwg.com^
 ||xdobkqqg.com^
-||xmevsiig.com^
 ||xxutoyreg.com^
 ||yachtpreceding.com^
 ||ycczhbzoyseg.com^
 ||ydvexlxyg.com^
 ||yegsrmqqpg.com^
-||ygemknajajg.com^
-||yjpwmybjkg.com^
 ||yobthmvxwedkkg.com^
-||ysaloykchjyxg.com^
 ||zcwjasfrog.com^
-||zdhnepeadrwetg.com^
-||zdsyifistjlag.com^
-||zfnvguzg.com^
-||zgcplfvjpixarg.com^
-||zhovjymmkg.com^
-||zkfjgzonjvg.com^
 ||zmasxytjskg.com^
-||zqmxzjrhchg.com^
 ||zwnxzckwihg.com^
 ||zzdb5p4upiug.com^
-||zzlayejqlzcg.com^
 ||a4g.com^$third-party
 ||ad.doubleclick.net^$third-party
 ||ad.mo.doubleclick.net/dartproxy/$third-party
@@ -1508,7 +1486,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||adstargeting.com^$third-party
 ||advantageglobalmarketing.com^$third-party
 ||advertmarketing.com^$third-party
-||advgoogle.com^$third-party
 ||adxchg.com^$third-party
 ||adyoulike.com^$third-party
 ||adzouk1tag.com^$third-party
@@ -2161,7 +2138,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=downloads.codefi.re|globaldjmix.com|nlfreevpn.com|oldapps.com|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com|windows7themes.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=real-sports.jp|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|grammarist.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
 @@||pbs.twimg.com/ad_img/$image,xmlhttprequest
