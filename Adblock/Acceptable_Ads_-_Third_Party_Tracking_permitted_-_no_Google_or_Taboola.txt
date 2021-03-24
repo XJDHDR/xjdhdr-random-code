@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SygfXdgyhK+ADSp4Wesr8A
-! Version: 202103240200
+! Checksum: /mkwwbVpKNOyOVUQIGbQIQ
+! Version: 202103241400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Mar 2021 02:00 UTC
+! Last modified: 24 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5830,7 +5830,7 @@ slickdeals.com,slickdeals.net#@##bottomDDAd
 slickdeals.net#@#.middleBannerAd
 blindsprings.com#@##bottomad
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@##bottombanner
-6gunmage.com,aliceandthenightmare.com,blindsprings.com,boumerie.com,cuttimecomic.com,dincomic.com,empoweredcomic.com,enenkay.com,forgottenordercomic.com,harpygee.com,headlessbliss.com,insidephobia.com,johnnywander.com,lilithword.com,lonelyvincent.com,metacarpolis.com,ndecomic.com,nighheavenandhell.com,oddlookingbird.com,sakana-comic.com,sdamned.com,skullkickers.com,thelastdiplomat.com,threepanelsoul.com,tovecomic.com#@##boxad
+egscomics.com,6gunmage.com,aliceandthenightmare.com,blindsprings.com,boumerie.com,cuttimecomic.com,dincomic.com,empoweredcomic.com,enenkay.com,forgottenordercomic.com,harpygee.com,headlessbliss.com,insidephobia.com,johnnywander.com,lilithword.com,lonelyvincent.com,metacarpolis.com,ndecomic.com,nighheavenandhell.com,oddlookingbird.com,sakana-comic.com,sdamned.com,skullkickers.com,thelastdiplomat.com,threepanelsoul.com,tovecomic.com#@##boxad
 eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,wowinterface.com#@##cubeAd
 yad2.co.il#@##desktop-top-banners
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-billboard_leaderboard
@@ -6096,8 +6096,8 @@ moviestvnetwork.com,wegotthiscovered.com#@#.sticky-sidebar-ad
 champion.gg#@#.stickyad
 pokemoncoders.com#@#.td-a-ad
 yesasia.ru#@#.td-a-rec
-businesscasestudies.co.uk,hebbarskitchen.com,betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
-hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
+trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com,businesscasestudies.co.uk,hebbarskitchen.com,betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
+trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com,hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
 hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
 hebbarskitchen.com,betootaadvocate.com#@#.td-a-rec-id-custom_ad_4
 hebbarskitchen.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_5
@@ -6455,6 +6455,7 @@ medicalnewstoday.com###inline1__slot
 9to5mac.com###aswift_0_anchor
 dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
+trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com##.code-block
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6635,6 +6636,7 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||vice-web-statics-cdn.vice.com/vendor/ad-lib^$script,xmlhttprequest,domain=vice.com
 @@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib^$xmlhttprequest,domain=vice.com
 @@^wp-content/plugins/ad-inserter-pro/includes/aos/aos.js$~third-party,domain=fossbytes.com
+@@^wp-content/plugins/ad-inserter^$script,domain=trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com
 @@||rddywd.com/advertising.js$domain=gamersheroes.com
 @@||rddywd.com/adcode.png$domain=gamersheroes.com
 @@||basketball-gm.com/prebid/zengm.js$domain=zengm.com
@@ -6646,8 +6648,8 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 ||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
-@@||kumo.network-n.com/dist/latest/gpt.js$domain=pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/dist/latest/prebid.js$domain=pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/gpt.js$domain=thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/prebid.js$domain=thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
@@ -6667,11 +6669,14 @@ animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 @@||cdn.intergi.com/hera/releases/*$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 @@||cdn.intergi.com/prebid/prebid.js$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
-@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=reverso.net
+@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=soo-healthy.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com|reverso.net
 @@||scripts.static-od.com/setup/?site=$domain=paruvendu.fr
 @@||sac.ayads.co/sublime/31128/prebid$domain=paruvendu.fr
 @@||optchk.ayads.co/?callback=sublimeCb$domain=paruvendu.fr
 @@||currency.prebid.org/latest.json$xmlhttprequest,domain=paruvendu.fr
+@@/prebid.js$~third-party,script,domain=trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com
+@@||trendscatchers.co.uk/index.php/en^$script,domain=trendscatchers.co.uk
+@@||fdyn.pubwise.io/script^$domain=guru99.com
 ! Default filters for long domain lists
 !
 !
@@ -8369,7 +8374,7 @@ testpages.adblockplus.org#@##abptest
 @@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
 @@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
 @@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
-@@||spn-v1.revampcdn.com/publishers^$script,domain=filehorse.com|toucharger.com|lelogicielgratuit.com|windowsreport.com
+@@||spn-v1.revampcdn.com/publishers^$script,domain=softonic.com|filehorse.com|toucharger.com|lelogicielgratuit.com|windowsreport.com
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 @@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
 @@||cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json$domain=bunte.de
@@ -8623,7 +8628,7 @@ searchenginejournal.com#@#.ss_slot
 searchenginejournal.com#@#.avert-text
 searchenginejournal.com#@#.img-mmax-100
 searchenginejournal.com#@#.sss_slot
-pch.com#@#div[class^="div-gpt-ad"]
+pch.com#@#[class^="div-gpt-ad"]
 hellhorror.com#@#.c-ad
 thegreggjarrett.com#@#.ads-wrapper
 thegreggjarrett.com#@#.ads_code
@@ -8710,6 +8715,7 @@ yahoo.com#@#.darla-lrec-ad
 yahoo.com##.darla-lrec-ad:not(.uba-container)
 yahoo.com#@##sda-LDRB
 yahoo.com###sda-MON:not(.uba-container)
+yahoo.com#@##sda-LDRB2
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
