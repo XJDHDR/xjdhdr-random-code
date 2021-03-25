@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1Oc6Pb/KNRu2l1f7E3uRCA
-! Version: 202103250200
+! Checksum: /ZJ3B9Wv8afFsXoEFc/IvA
+! Version: 202103251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 Mar 2021 02:00 UTC
+! Last modified: 25 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7426,6 +7426,7 @@ riafan.ru#@#a[href*="utm_campai"]
 @@||servicer.idealmedia.io^$script,xmlhttprequest,domain=strana.ua|idealmedia.io|tsn.ua
 @@||mgid.com^$popup,third-party,domain=strana.ua|idealmedia.io|tsn.ua
 @@||s-img.mgid.com^$image,domain=idealmedia.io
+@@||s-img.lentainform.com^$image,domain=idealmedia.io
 idealmedia.io#@#a[href^="//www.mgid.com/"]
 idealmedia.io#@#*
 strana.ua,idealmedia.io,tsn.ua#@#a[href*="idealmedia.io"]
@@ -7708,6 +7709,30 @@ tv.mail.ru#@#.rbtopblock
 tv.mail.ru#@#div[class][id^="mailru"]
 ! Sport
 sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
+!:partner_token=gismeteo.ru
+!:partner_id=501a98900addb890
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80277
+! gismeteo.ru ads
+@@||an.yandex.ru/system/adfox.js$script,domain=gismeteo.ru
+@@||an.yandex.ru/system/widget.js$domain=gismeteo.ru
+@@||an.yandex.ru/jstracer?pcode_native^$xmlhttprequest,domain=gismeteo.ru
+@@||an.yandex.ru/adfox/$xmlhttprequest,domain=gismeteo.ru
+@@||yastatic.net/pcode/adfox^$script,domain=gismeteo.ru
+@@||yastatic.net/safeframe-bundles/*/host.js$domain=gismeteo.ru
+@@||creativecdn.com/bidder/adfox/bids^$xmlhttprequest,domain=gismeteo.ru
+@@||ads.adfox.ru^$xmlhttprequest,domain=gismeteo.ru
+@@||avatars.mds.yandex.net/get-direct^$image,domain=gismeteo.ru
+||criteo.net/js/ld/publishertag.js$script,domain=gismeteo.ru
+@@/px.gif?ch=1&rn=$domain=gismeteo.ru
+/px.gif?ch=2&rn=$domain=gismeteo.ru
+gismeteo.ru#@#.media_with_map > :not(.map_right)
+gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
+gismeteo.ru###media-middle
+gismeteo.ru###media-bottom
+gismeteo.ru##.x90
+gismeteo.ru#@#.xby400
+gismeteo.ru#@##weather-right
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
 !:type=partner
@@ -8673,7 +8698,6 @@ supercheats.com#@##bottom_ad_728
 ygorganization.com#@#.advertisement_above_footer
 rajah.com#@#.ad-section
 rajah.com#@#.content-ad
-weatherbugsc.com##img[alt^="Default Ad"]
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
