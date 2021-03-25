@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PFFcwVXJu0D0KMOlcBOnsA
-! Version: 202103241400
+! Checksum: umqYkqwUEaulwOGRk/66Lg
+! Version: 202103250200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 24 Mar 2021 14:00 UTC
+! Last modified: 25 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -67,7 +67,7 @@
 /adsGooglePP3.
 /advertiser/*$domain=~admin.exoclick.com|~ads.microsoft.com|~ads.tiktok.com|~advertiser.flossbank.com|~affili.net|~affiliprint.com|~bingads.microsoft.com|~linkpizza.com|~mediance.com|~mobileapptracking.com|~trialpay.com
 /advertising-$image,script,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising-stands.com.ua|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
-/advertising.$~script,~xmlhttprequest,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.greunenberg.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
+/advertising.$~script,~xmlhttprequest,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.boardgamegeek.com|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.greunenberg.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
 /adwords/*$domain=~google.com
 /adwordstracking.js
 /assets/doubleclick/*
@@ -2913,7 +2913,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script
 @@||google-analytics.com/analytics.js$domain=carnesvizzera.ch
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
-@@||googletagmanager.com/gtm.js?$domain=iphoneitalia.com|la7.it|raiplayradio.it
+@@||googletagmanager.com/gtm.js$domain=iphoneitalia.com|la7.it|raiplayradio.it|savethechildren.it
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||panorama.it/wp-content/themes/panorama/js/google-nielsen-analytics.js?
 @@||synlab.it^*/angular-google-analytics.js
@@ -4202,7 +4202,7 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
 @@||amazonaws.com/mibbit/gfx/youtube.png
 @@||androidpit.info/userfiles/*image/youtube-logo-
-@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at
+@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|porticoindia.com|prntscr.com|sato.fi|typewriter.at
 @@||authy.com/wp-content/themes/authy/assets/images/icons/google-authenticator.svg
 @@||cdn.syndication.twimg.com/tweets.json
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
