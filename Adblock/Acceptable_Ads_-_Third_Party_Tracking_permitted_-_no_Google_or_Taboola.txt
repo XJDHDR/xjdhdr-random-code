@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S1vL4jNToeNry8hmsPwaRg
-! Version: 202103260200
+! Checksum: 9qU+Wit0VIrwbirs91ziLA
+! Version: 202103261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 26 Mar 2021 02:00 UTC
+! Last modified: 26 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2789,7 +2789,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||passback.free.fr/webmails/pub/$subdocument,domain=zimbra.free.fr
 @@||intermarkets.net/u/Intermarkets/AdFeedback/$script,domain=drudgereport.com
 @@||intermarkets.net/u/Intermarkets/DrudgeReport/$domain=drudgereport.com
-@@||passback.free.fr/webmails/pub/rc_free_$subdocument,domain=webmail.free.fr
+@@||passback.free.fr/webmails/pub/$subdocument,domain=webmail.free.fr
 @@||viamichelin.fr/static/*/advertising/orange.html?width=728&height=90&prefix=2&$subdocument,domain=viamichelin.fr
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
 ||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
@@ -7447,6 +7447,7 @@ tsn.ua#@#[data-partners-iframe]
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 elperiodico.com#@#.adv-header
+3djuegos.com#@##dst_pub_728
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
