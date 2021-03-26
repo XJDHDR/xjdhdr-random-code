@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b+xy1x//pM+I2s8FT5zcmg
-! Version: 202103251400
+! Checksum: OkWylUorgGzsYPMZvpgamQ
+! Version: 202103260200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Mar 2021 14:00 UTC
+! Last modified: 26 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1080,6 +1080,7 @@ _reklama_$domain=~youtube.com
 ##.mod-google-ads
 ##.mod-google-ads-container
 ##.moduletable-googleads
+##.nativiadsense
 ##.news_article_ad_google
 ##.npAdGoogle
 ##.ovadsenselabel
@@ -1454,6 +1455,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||untruewring.com^
 ||uujdthyg.com^
 ||vehemenceclung.com^
+||vffvtxcykog.com^
 ||vlitag.com^
 ||vpwlynobnnqg.com^
 ||vrmuyscnqgsg.com^
@@ -2875,6 +2877,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
 @@||segment.com/v1/projects/$xmlhttprequest,domain=benchling.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
+@@||ssl.gstatic.com/analytics/$script,domain=analytics.google.com
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||texasroadhouse.com/common/javascript/google-analytics.js
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party

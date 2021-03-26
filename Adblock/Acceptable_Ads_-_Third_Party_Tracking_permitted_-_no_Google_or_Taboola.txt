@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ZJ3B9Wv8afFsXoEFc/IvA
-! Version: 202103251400
+! Checksum: S1vL4jNToeNry8hmsPwaRg
+! Version: 202103260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 Mar 2021 14:00 UTC
+! Last modified: 26 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2748,7 +2748,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
 @@||criteo.net/js/ld/publishertag.js$script,domain=~gismeteo.ru|~yahoo.com|~mmo-champion.com|~giga.de
-@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~cnnturk.com|~yahoo.com|~mmo-champion.com|~giga.de
 @@||bidder.criteo.com/csm^
 @@||ads.urban-media.com/js/19953022/prebid.js
 @@||ads.urban-media.com/js/13774210/urban.js
@@ -2796,6 +2796,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||i.plug.it/banners/js/adv_lib_webmail70.js$domain=virgilio.it|libero.it
 @@||i.plug.it/iplug/js/lib/iol/analytics/ads/adv/_ads.js?$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
 @@||iolam.it/js/prebid.js$domain=virgilio.it|libero.it|dilei.it|3bmeteo.com
+@@||bidder.criteo.com^$ping,domain=libero.it
 @@||leboncoin.fr/fronttools/js/hb_3-20-0.js$script,~third-party
 @@||lib.wtg-ads.com/lib.min.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
 @@||lib.wtg-ads.com/publisher^*/standard.publisher.config.min.js$domain=sinoptik.bg|abv.bg|vesti.bg|gong.bg|gbg.bg|dariknews.bg|edna.bg|nova.bg|pariteni.bg
@@ -2928,8 +2929,10 @@ telegrafi.com#@#.widget_ad_widget
 washingtontimes.com#@##ad-secondary-sidebar-1
 washingtontimes.com#@##ad-lead
 libero.it#@##admputop
+libero.it#@##adv_topper
 libero.it#@##adslider
 libero.it#@#.hp_adv300x250
+libero.it#@#.hp_970x90
 libero.it#@#.hp_advP1
 libero.it#@#.hp_300x1
 heise.de#@#.article-layout__header-wrbng
@@ -5936,6 +5939,7 @@ whathifi.com,creativebloq.com,space.com,pcgamer.com,gamesradar.com,cnn.gr,nexusm
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
 buzzfeed.com,buzzfeednews.com#@#.ad-wireframe
+sundaydigest.com,smartingly.com,yummypress.com,newagenews.com,theprintstreet.com,smarttelly.com#@#.ad-title
 fosonline.gr#@#.ad-zone
 ratemyprofessors.com#@#.ad.banner
 slader.com#@#.ad.inner
@@ -8665,6 +8669,8 @@ thedirect.com#@#.pw-ph-sky
 thedirect.com#@#.pw-ph-leaderboard
 thedirect.com#@#.ads_container
 opex360.com,opex360.assistpub.com#@##header-ads
+basketusa.com,basketusa.assistpub.com#@#.ad-desktop
+basketusa.com,basketusa.assistpub.com#@#.ad-medium
 cars.com#@#.cubeAd
 travelandleisure.com,parents.com#@#.ad-wrapper
 travelandleisure.com,parents.com#@#.desktop-ad
