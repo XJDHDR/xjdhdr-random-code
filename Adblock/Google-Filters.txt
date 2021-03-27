@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ezuu5SlIkHT6rtWuPLPHmg
-! Version: 202103261400
+! Checksum: O+Mkf5Cc8UnUdfyds369NQ
+! Version: 202103270200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 Mar 2021 14:00 UTC
+! Last modified: 27 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1236,7 +1236,7 @@ jabong.com,people.com,spaargids.be,techrepublic.com,time.com,yahoo.com#@#a[href^
 pcmag.com,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
 linkedin.com,tasteofhome.com#@#a[href^="http://pubads.g.doubleclick.net/"]
 google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.de#@#a[href^="http://www.liutilities.com/"]
-buzzfeed.com,gofeminin.de,guide-epargne.be,spaargids.be,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+buzzfeed.com,guide-epargne.be,spaargids.be,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 drive.google.com#@#div[aria-label="Ads"]
 bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id^="google_ads_frame"]
 adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
@@ -1285,6 +1285,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||disloyalmeddling.com^
 ||displayvertising.com^
 ||dkecozphug.com^
+||dorothydrawing.com^
 ||dostophog.com^
 ||doubleclick-net.com^
 ||dppeusog.com^

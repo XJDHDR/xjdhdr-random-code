@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oI0oQpwgNfwvDV3n05YmXw
-! Version: 202103261400
+! Checksum: jatg/zGZgj8bs34Qd2endA
+! Version: 202103270200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Mar 2021 14:00 UTC
+! Last modified: 27 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2850,10 +2850,9 @@ thevarsity.ca#@#.ad-med-rect
 @@||js2.uai.com.br/headerbidding/aol-app-cri-rtb-rub-smt-teads/*/prebid.js$domain=uai.com.br
 @@||blog.with2.net/js/prebid*$domain=blog.with2.net
 @@||friday-ad.co.uk/bundles/fafrontend/js/advertisement.js$domain=friday-ad.co.uk
-@@||passback.free.fr/webmails/pub/$subdocument,domain=zimbra.free.fr
+@@||passback.free.fr/webmails/pub/$subdocument,domain=webmail.free.fr|passback.free.fr|webmail.aliceadsl.fr|zimbra.free.fr
 @@||intermarkets.net/u/Intermarkets/AdFeedback/$script,domain=drudgereport.com
 @@||intermarkets.net/u/Intermarkets/DrudgeReport/$domain=drudgereport.com
-@@||passback.free.fr/webmails/pub/$subdocument,domain=webmail.free.fr
 @@||viamichelin.fr/static/*/advertising/orange.html?width=728&height=90&prefix=2&$subdocument,domain=viamichelin.fr
 @@||imgur.com/spotlight-iframe?criteo_first=true$subdocument,domain=imgur.com
 ||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
@@ -3004,6 +3003,8 @@ heise.de#@#.perf-cls-reduc-rectangle
 gmx.net#@#.left-col__bottom
 globo.com#@#.publicidade
 bloggbevakning.se#@#.ad-panorama
+webmail.free.fr#@##pubfooter
+webmail.free.fr#@##PubFooter
 ! Hidden for compliance
 secretsdujeu.com###skyscraper > div + hr + div:nth-child(3) > div:not([id]):not([class]) > div[class] > div[id]
 ! temp
@@ -5785,7 +5786,9 @@ androidguys.com#@#.td-a-rec-id-custom_ad_3
 androidguys.com#@#.td-a-rec-id-custom_ad_4
 ncaa.com#@#.tile-ad
 boardingschoolreview.com,brusheezy.com,communitycollegereview.com,privateschoolreview.com,publicschoolreview.com,vecteezy.com,videezy.com#@#.tmsads
-thetechgame.com#@#.top-ad
+gem021.tv,thetechgame.com#@#.top-ad
+gem021.tv#@#.top-ad-content
+gem021.tv#@#.top-ad-wrap
 theguardian.com#@#.top-banner-ad-container
 hi5.com#@#.top_ad
 justjared.com,justjaredjr.com#@#.topads
@@ -5856,8 +5859,6 @@ elites.io#@##ad-bottom
 calibre-ebook.com,ratemyprofessors.com#@##ad-container
 elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
-thecoli.com,f4wonline.com,yugipedia.com,rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com,cnn.com#@##adBanner
-thecoli.com,f4wonline.com,yugipedia.com,rajah.com,comicbookmovie.com,brickset.com,thedirect.com,geektyrant.com#@#.adLeaderboard
 cnn.com#@##adSquare
 discogs.com#@##ad_bottom
 www.visitlondon.com#@##ad_footer
@@ -6014,7 +6015,7 @@ lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
 gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 littlealchemy.com#@#.adTop
-1001juegos.com,gioca.re,onlinegame.co.id,speelspelletjes.nl,crazygames.com#@#.adWrapper
+gazeta.pl,1001juegos.com,gioca.re,onlinegame.co.id,speelspelletjes.nl,crazygames.com#@#.adWrapper
 cprewritten.net,homes.com#@#.ad__container
 lse.co.uk#@#.ad_block
 discogs.com#@#.ad_bottom
@@ -6097,7 +6098,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
 fxp.co.il,pmcqa.com#@#.header-top-ad
@@ -6165,7 +6166,7 @@ moviestvnetwork.com,wegotthiscovered.com#@#.sticky-sidebar-ad
 champion.gg#@#.stickyad
 pokemoncoders.com#@#.td-a-ad
 yesasia.ru#@#.td-a-rec
-trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com,businesscasestudies.co.uk,hebbarskitchen.com,betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
+greedyfinance.com,trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com,businesscasestudies.co.uk,hebbarskitchen.com,betootaadvocate.com,yesasia.ru#@#.td-a-rec-id-custom_ad_1
 trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com,hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_2
 hebbarskitchen.com,betootaadvocate.com,pokemoncoders.com#@#.td-a-rec-id-custom_ad_3
 hebbarskitchen.com,betootaadvocate.com#@#.td-a-rec-id-custom_ad_4
@@ -6443,6 +6444,8 @@ paruvendu.fr#@##optidigital-adslot-Billboard_1
 paruvendu.fr#@#.optidigital-ad-center
 paruvendu.fr#@#div[id^="optidigital-adslot-"]
 paruvendu.fr#@#.pagin_pub
+modworkshop.net#@##top-ad
+modworkshop.net#@##left-ad
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6690,7 +6693,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine^*^loader.js$domain=morewords.com|windfinder.com
+@@||cdn.snigelweb.com/adengine^*^loader.js$domain=online-tech-tips.com|morewords.com|windfinder.com
+@@||adengine.snigelweb.com/*/adngin.js$domain=online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6735,17 +6739,17 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||ad.medyanetads.com/adservice^$xmlhttprequest,script,domain=milliyet.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
-@@||cdn.intergi.com/hera/releases/*$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
-@@||cdn.intergi.com/prebid/prebid.js$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$domain=thecoli.com|f4wonline.com|yugipedia.com|rajah.com|comicbookmovie.com|brickset.com|thedirect.com|geektyrant.com
-@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=soo-healthy.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com|reverso.net
+@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=greedyfinance.com|soo-healthy.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com|reverso.net
 @@||scripts.static-od.com/setup/?site=$domain=paruvendu.fr
 @@||sac.ayads.co/sublime/31128/prebid$domain=paruvendu.fr
 @@||optchk.ayads.co/?callback=sublimeCb$domain=paruvendu.fr
 @@||currency.prebid.org/latest.json$xmlhttprequest,domain=paruvendu.fr
-@@/prebid.js$~third-party,script,domain=trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com
+@@/prebid.js$~third-party,script,domain=greedyfinance.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com
 @@||trendscatchers.co.uk/index.php/en^$script,domain=trendscatchers.co.uk
 @@||fdyn.pubwise.io/script^$domain=guru99.com
+@@||trackercdn.com/cdn^$domain=tracker.gg|battlefieldtracker.com|realmtracker.com|dungeon.report|destinytracker.com|tracker.network
+@@||trackerads.com/cdn^$domain=raid.report
+@@||r6-trackercdn.com/cdn^$domain=tracker.network
 ! Default filters for long domain lists
 !
 !
