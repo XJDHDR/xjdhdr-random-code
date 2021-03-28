@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rh1vfkaXBdqBSzea2TRObQ
-! Version: 202103271400
+! Checksum: Q6NpmCCu+4iGSNjBAkKtig
+! Version: 202103280200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 27 Mar 2021 14:00 UTC
+! Last modified: 28 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1479,6 +1479,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||ydvexlxyg.com^
 ||yegsrmqqpg.com^
 ||yobthmvxwedkkg.com^
+||yr9n47004g.com^
 ||zcwjasfrog.com^
 ||zmasxytjskg.com^
 ||znaptag.com^
@@ -1594,8 +1595,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||videoegg.com^$third-party
 ||wlmarketing.com^$third-party
 ||worthyadvertising.com^$third-party
-||yr9n47004g.com^$third-party
-||znaptag.com^$third-party
 ! fiber-ads (https://blog.confiant.com/hong-kong-based-malvertiser-brokers-traffic-to-fake-antivirus-scams-over-100-million-ads-300e251eff06)
 ||chanelets-aurning.com^
 ||thegreenzoneblog.com^
@@ -2141,7 +2140,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|nbcsports.com|vimeo.com|windalert.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blastingnews.com|cbsnews.com|cbssports.com|chicagotribune.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=downloads.codefi.re|globaldjmix.com|nlfreevpn.com|oldapps.com|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com|windows7themes.net
