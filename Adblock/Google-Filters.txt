@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q6NpmCCu+4iGSNjBAkKtig
-! Version: 202103280200
+! Checksum: Ndjb6bVVH5H8tg+9mekXTA
+! Version: 202103281400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 28 Mar 2021 02:00 UTC
+! Last modified: 28 Mar 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1250,6 +1250,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||advmaiotg.com^
 ||affableindigestionstruggling.com^
 ||agzfxovg.com^
+||aimseerg.com^
 ||alruqbfjg.com^
 ||analyzeagg.com^
 ||armedearring.com^
@@ -1269,25 +1270,32 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||boxofficecounselling.com^
 ||brinkstretching.com^
 ||calorieintimidating.com^
+||cash-duck.com^
+||cdn.flashtalking.com^
 ||chasteminihaunting.com^
 ||chatintegrationastonishing.com^
 ||cold-cold-freezing.com^
+||combotag.com^
 ||cotchaug.com^
 ||couponcashmerelining.com^
 ||cpalabtracking.com^
+||creative-serving.com^
 ||csnqzwwdtjg.com^
 ||ctjvkaqiekquag.com^
 ||dcop4khjxsmg.com^
 ||deductdoorwayfig.com^
 ||deliberatelyadvancing.com^
+||dh2xbuwg.com^
 ||diametertwelfthvending.com^
 ||diminishkidnapping.com^
 ||disloyalmeddling.com^
+||disorderpoking.com^
 ||displayvertising.com^
 ||dkecozphug.com^
 ||dorothydrawing.com^
 ||dostophog.com^
 ||doubleclick-net.com^
+||doubleclickbygoogle.com^
 ||dppeusog.com^
 ||dstxhvmgkg.com^
 ||dwczfwnjg.com^
@@ -1361,12 +1369,19 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||lpoggqfdlmdsg.com^
 ||luuming.com^
 ||lxhkqjqpswhg.com^
+||madserving.com^
 ||managesdancing.com^
+||maxserving.com^
+||metavertising.com^
+||mftracking.com^
+||mh9dskj8jg.com^
 ||minorexportshopping.com^
 ||missiontestamentinterfering.com^
 ||mixuaeielbnlg.com^
 ||mkgosjtrbhag.com^
 ||mkomrzsizvjdg.com^
+||mlnadvertising.com^
+||mnbvjhg.com^
 ||mobbahjug.com^
 ||monadplug.com^
 ||monarchypainting.com^
@@ -1505,11 +1520,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||bnserving.com^$third-party
 ||bptracking.com^$third-party
 ||buywing.com^$third-party
-||cash-duck.com^$third-party
-||cdn.flashtalking.com^$third-party
-||combotag.com^$third-party
-||creative-serving.com^$third-party
-||dh2xbuwg.com^$third-party
 ||domainadvertising.com^$third-party
 ||doubleclick.com^$third-party
 ||doubleclick.net/*/ch_news.com/$third-party
@@ -1521,11 +1531,11 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||doubleclick.net^*/ad/$~object,third-party
 ||doubleclick.net^*/adi/$~object,third-party
 ||doubleclick.net^*/adj/$~object,third-party
-||doubleclickbygoogle.com^$third-party
 ||ebuzzing.com^$third-party
 ||egadvertising.com^$third-party
 ||ero-advertising.com^$third-party
 ||fast-redirecting.com^$third-party
+||flashtalking.com^$third-party
 ||friendlyduck.com^$third-party
 ||g.doubleclick.net^$third-party
 ||gan.doubleclick.net^$third-party
@@ -1543,13 +1553,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||kaiu-marketing.com^$third-party
 ||klikadvertising.com^$third-party
 ||kumpulblogger.com^$third-party
-||madserving.com^$third-party
-||maxserving.com^$third-party
 ||mdialog.com^$third-party
-||metavertising.com^$third-party
-||mftracking.com^$third-party
-||mlnadvertising.com^$third-party
-||mnbvjhg.com^$third-party
 ||n4403ad.doubleclick.net^$third-party
 ||networkmanag.com^$third-party
 ||nhpfvdlbjg.com^$third-party
@@ -1606,7 +1610,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||dlzm790g.com^$third-party
 ||fkbwtoopwg.com^$third-party
 ||ktyawzg.com^$third-party
-||mh9dskj8jg.com^$third-party
 ||ad-apac.doubleclick.net^$popup,third-party
 ||ad-emea.doubleclick.net^$popup,third-party
 ||ad.doubleclick.net/ddm/trackclk/$popup,third-party
@@ -1683,7 +1686,9 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||goo.gl^$script,domain=transphoto.ru
 ||goo.gl^$subdocument,domain=backin.net
 ||google.com/adsense/ad
+||google.com/adsense/domains
 ||google.com/adsense/search/
+||google.com/dp/ads
 ||google.com/pagead/
 ||google.com/uds/afs?*adsense$subdocument
 ||googleadapis.l.google.com^$third-party
@@ -1791,12 +1796,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||www.google.com/pagead/$domain=youtube.com
 ||www.youtube.com/get_midroll_$domain=youtube.com
 ||youtube.com/get_video_info?*adunit$~third-party
-|http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=viewerig.com
-|https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=viewerig.com
-@@||fonts.googleapis.com^$stylesheet,domain=dood.to|dood.watch
-@@||gstatic.com^$script,domain=dood.to|dood.watch
-/^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=123films.cc|1337x.to|1newmoviesonline.me|9xflix.asia|animekisa.tv|anonfiles.com|aparat.cam|bdupload.asia|bitfly.io|cashurl.in|clipwatching.com|clk.ink|cloudvideo.tv|cocomanhua.com|cutewallpaper.org|downloadpirate.com|eztv.io|eztv.tf|eztv.yt|filmix.co|filmlinks4u.is|flashx.pw|fmovies.taxi|fmovies.world|freeroms.com|fullmatchesandshows.com|getlink.pro|gomoviesfree.sc|heapfiles.com|indishare.org|intoupload.net|limetorrents.info|ling.online|linksly.co|macupload.net|mangareader.net|megaup.net|mhktricks.org|mixdrop.co|monova.org|newser.com|nutritioninsight.com|ouo.press|piknu.com|powv1deo.cc|powvideo.net|powvldeo.cc|powvldeo.co|primewire.sc|putlocker.fyi|putlocker.style|putlockers.movie|readcomiconline.to|realgfporn.com|sendit.cloud|sendspace.com|serials.ws|shrinke.me|shrinkhere.xyz|solarmovie.to|techrfour.com|thatav.net|thewpsite.com|torlock.com|torrentdownload.info|uiz.io|up-load.io|upload.ac|uploadever.com|uploadproper.net|uploadrive.com|uplovd.com|upstream.to|uptobox.com|userscloud.com|v96-surf.com|vev.io|vev.red|vidbull.tv|videobin.co|vidlox.me|vidop.icu|vidoza.co|vidoza.net|vidtomp3.com|vidtoply.com|vidup.io|vumoo.life|watchtvseries.video|xnxxxvideos.co|xtgem.com|xtits.com|y2mate.com|yify-movies.net|yourbittorrent2.com|youvideoporno.mobi|youzik.com|zippyshare.com
-@@||ajax.googleapis.com/ajax/libs/$script,domain=adyou.co|adyou.me
+/^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=123films.cc|1337x.to|1newmoviesonline.me|9xflix.asia|animekisa.tv|anonfiles.com|aparat.cam|bdupload.asia|bitfly.io|cashurl.in|clipwatching.com|clk.ink|cloudvideo.tv|cocomanhua.com|cutewallpaper.org|downloadpirate.com|eztv.io|eztv.tf|eztv.yt|filmix.co|filmlinks4u.is|flashx.pw|fmovies.taxi|fmovies.world|freeroms.com|fullmatchesandshows.com|getlink.pro|gomoviesfree.sc|heapfiles.com|indishare.org|intoupload.net|limetorrents.info|ling.online|linksly.co|macupload.net|mangareader.net|megaup.net|mhktricks.org|mixdrop.co|newser.com|nutritioninsight.com|ouo.press|piknu.com|powv1deo.cc|powvideo.net|powvldeo.cc|powvldeo.co|primewire.sc|putlocker.fyi|putlocker.style|putlockers.movie|readcomiconline.to|realgfporn.com|sendit.cloud|sendspace.com|serials.ws|shrinke.me|shrinkhere.xyz|solarmovie.to|techrfour.com|thatav.net|thewpsite.com|torlock.com|torrentdownload.info|uiz.io|up-load.io|upload.ac|uploadever.com|uploadproper.net|uploadrive.com|uplovd.com|upstream.to|uptobox.com|userscloud.com|v96-surf.com|vev.io|vev.red|vidbull.tv|videobin.co|vidlox.me|vidop.icu|vidoza.co|vidoza.net|vidtomp3.com|vidtoply.com|vidup.io|vumoo.life|watchtvseries.video|xnxxxvideos.co|xtgem.com|xtits.com|y2mate.com|yify-movies.net|yourbittorrent2.com|youvideoporno.mobi|youzik.com|zippyshare.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heapfiles.com|vidoza.co|vidoza.net
 @@||google.com/recaptcha/$csp,domain=vidoza.co|vidoza.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
@@ -1812,14 +1812,10 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 @@||gstatic.com^$domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||youtube.com/embed/$subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||ajax.googleapis.com^$script,third-party,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.net
-@@||ajax.googleapis.com^$script,domain=mcloud.to
-@@||fonts.googleapis.com^$stylesheet,domain=mcloud.to
-@@||gstatic.com^$script,domain=mcloud.to
 @@||ajax.googleapis.com^$script,domain=uptobox.com|uptostream.com
 @@||googleapis.com/js/sdkloader/ima3.js$script,domain=uptobox.com|uptostream.com
 @@||googletagmanager.com/gtag/js$script,domain=uptobox.com|uptostream.com
 @@||gstatic.com^$script,domain=uptobox.com|uptostream.com
-@@||gstatic.com^$script,third-party,domain=monova.org
 $script,third-party,xmlhttprequest,domain=clickopen.club|core1player.com|exvcon.com|fembed.com|feurl.com|fsimg.info|gaobook.review|mavplay.com|mavplayer.xyz|novelplanet.me|secfilm.xyz|sonline.pro|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com|youtubedownloader.cx
 @@||ajax.googleapis.com/ajax/libs/$script,domain=flashx.cc|flashx.to|flashx.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=youwatch.org
@@ -1921,7 +1917,7 @@ bandwidthblog.com,comtar.com,demerarawaves.com,eaglecars.com,earth911.com,propor
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 appagg.com##.atit
 doubleviking.com##.az
-adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,keygames.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
+adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,keygames.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
 carmag.co.za,irishnews.com,nscreenmedia.com,teenspot.com,vh1.com##.banner-container
 gsprating.com##.banner2
 domainmasters.co.ke##.banner_google
@@ -2407,7 +2403,6 @@ _GoogleTagManager2/
 ||exactag.com^$third-party
 ||factortg.com^$third-party
 ||fast-thinking.co.uk^$third-party
-||flashtalking.com^$third-party
 ||fqtag.com^$third-party
 ||freeweblogger.com^$third-party
 ||gammachug.com^$third-party
