@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kmBX84HxDEWz4jIT0E8z9w
-! Version: 202103291400
+! Checksum: waYEz6/mAj1CdccsopZVmA
+! Version: 202103300200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 29 Mar 2021 14:00 UTC
+! Last modified: 30 Mar 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -805,6 +805,7 @@ _reklama_$domain=~youtube.com
 ##.article_google-ad
 ##.article_google_ads
 ##.aside_google_ads
+##.azk-adsense
 ##.banner-adsense
 ##.bannerWrapAdwords
 ##.banneradsensetop
@@ -1794,7 +1795,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||www.google.com/pagead/$domain=youtube.com
 ||www.youtube.com/get_midroll_$domain=youtube.com
 ||youtube.com/get_video_info?*adunit$~third-party
-/^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=123films.cc|1337x.to|1newmoviesonline.me|9xflix.asia|animekisa.tv|anonfiles.com|aparat.cam|bdupload.asia|bitfly.io|cashurl.in|clipwatching.com|clk.ink|cloudvideo.tv|cocomanhua.com|cutewallpaper.org|downloadpirate.com|eztv.io|eztv.tf|eztv.yt|filmix.co|filmlinks4u.is|flashx.pw|fmovies.taxi|fmovies.world|freeroms.com|fullmatchesandshows.com|getlink.pro|gomoviesfree.sc|heapfiles.com|indishare.org|intoupload.net|limetorrents.info|ling.online|linksly.co|macupload.net|mangareader.net|megaup.net|mhktricks.org|mixdrop.co|newser.com|nutritioninsight.com|ouo.press|piknu.com|powv1deo.cc|powvideo.net|powvldeo.cc|powvldeo.co|primewire.sc|putlocker.fyi|putlocker.style|putlockers.movie|readcomiconline.to|realgfporn.com|sendit.cloud|sendspace.com|serials.ws|shrinke.me|shrinkhere.xyz|solarmovie.to|techrfour.com|thatav.net|thewpsite.com|torlock.com|torrentdownload.info|uiz.io|up-load.io|upload.ac|uploadever.com|uploadproper.net|uploadrive.com|uplovd.com|upstream.to|uptobox.com|userscloud.com|v96-surf.com|vev.io|vev.red|vidbull.tv|videobin.co|vidlox.me|vidop.icu|vidoza.co|vidoza.net|vidtomp3.com|vidtoply.com|vidup.io|vumoo.life|watchtvseries.video|xnxxxvideos.co|xtgem.com|xtits.com|y2mate.com|yify-movies.net|yourbittorrent2.com|youvideoporno.mobi|youzik.com|zippyshare.com
+/^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=123films.cc|1337x.to|1newmoviesonline.me|9xflix.asia|animekisa.tv|anonfiles.com|aparat.cam|bdupload.asia|bitfly.io|cashurl.in|clipwatching.com|clk.ink|cloudvideo.tv|cocomanhua.com|cutewallpaper.org|downloadpirate.com|eztv.io|eztv.tf|eztv.yt|filmix.co|filmlinks4u.is|flashx.pw|fmovies.taxi|fmovies.world|freeroms.com|fullmatchesandshows.com|getlink.pro|gomoviesfree.sc|heapfiles.com|indishare.org|intoupload.net|limetorrents.info|ling.online|linksly.co|macupload.net|mangareader.net|megaup.net|mhktricks.org|mixdrop.co|newser.com|nutritioninsight.com|ouo.press|piknu.com|powv1deo.cc|powvideo.net|powvldeo.cc|powvldeo.co|primewire.sc|putlocker.fyi|putlocker.style|putlockers.movie|readcomiconline.to|realgfporn.com|sendit.cloud|sendspace.com|serials.ws|shrinke.me|shrinkhere.xyz|solarmovie.to|techrfour.com|thatav.net|thewpsite.com|torlock.com|torrentdownload.info|uiz.io|up-load.io|upload.ac|uploadever.com|uploadproper.net|uploadrive.com|uplovd.com|upstream.to|userscloud.com|v96-surf.com|vev.io|vev.red|vidbull.tv|videobin.co|vidlox.me|vidop.icu|vidoza.co|vidoza.net|vidtomp3.com|vidtoply.com|vidup.io|vumoo.life|watchtvseries.video|xnxxxvideos.co|xtgem.com|xtits.com|y2mate.com|yify-movies.net|yourbittorrent2.com|youvideoporno.mobi|youzik.com|zippyshare.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heapfiles.com|vidoza.co|vidoza.net
 @@||google.com/recaptcha/$csp,domain=vidoza.co|vidoza.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
@@ -1913,7 +1914,7 @@ bandwidthblog.com,comtar.com,demerarawaves.com,eaglecars.com,earth911.com,propor
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 appagg.com##.atit
 doubleviking.com##.az
-adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,keygames.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
+adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,keygames.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
 carmag.co.za,irishnews.com,nscreenmedia.com,teenspot.com,vh1.com##.banner-container
 gsprating.com##.banner2
 domainmasters.co.ke##.banner_google
@@ -1974,7 +1975,7 @@ googletutor.com##div[style="width:125px;text-align:center;"]
 stopmalvertising.com##div[style="width:728px;height:90px;margin:0 auto;padding:0;text-align:center;margin-bottom:32px;"]
 pointblanknews.com,sharktankblog.com##img[height="60"]
 bigeye.ug,breakingbelizenews.com,espnrichmond.com,naijaloaded.com.ng,punchng.com,techpowerup.com,theolivepress.es,therep.co.za##img[width="300"]
-afrivibes.net,airplaydirect.com,cryptomining-blog.com,dotsauce.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,gossipmillnigeria.com,mkvcage.com,movin100.com,mycolumbuspower.com,onislandtimes.com,portugaldailyview.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,tangatawhenua.com,techpowerup.com,themediaonline.co.za,thenationonlineng.net,thewillnigeria.com,wantedinafrica.com,wantedinrome.com,yomzansi.com,zizonline.com##img[width="300"][height="250"]
+afrivibes.net,airplaydirect.com,cryptomining-blog.com,dotsauce.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,onislandtimes.com,portugaldailyview.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,tangatawhenua.com,techpowerup.com,themediaonline.co.za,thenationonlineng.net,thewillnigeria.com,wantedinafrica.com,wantedinrome.com,yomzansi.com,zizonline.com##img[width="300"][height="250"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.me,flashx.pw,forum.gsmhosting.com,hollywoodbackwash.com,muzique.com,opencarry.org,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
 ! youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153

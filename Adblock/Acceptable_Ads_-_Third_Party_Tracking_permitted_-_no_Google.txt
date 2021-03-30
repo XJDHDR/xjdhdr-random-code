@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: q2Pq05YJzSSyMbB5nR0aiQ
-! Version: 202103291400
+! Checksum: m3VWyOpUejm7DMWH813CpQ
+! Version: 202103300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Mar 2021 14:00 UTC
+! Last modified: 30 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1641,6 +1641,7 @@ lifezette.com###taboola-native-thumbnails
 the-share.club###taboola-right-rail-photo-gallery-thumbnails
 newsitaliane.it,rightforever.com,shacknews.com,ulusalpost.com,video-facts.com,voddrama.online###taboola-right-rail-thumbnails
 nydailynews.com#@##taboola-right-rail-thumbnails-1st
+salud180.com,telestar.fr,boredarticles.com,brasil247.com,donbalon.com,excelsior.com.mx,fredzone.org,jazzycash.com,legorafi.fr,mediatoday.co.kr,paristeam.fr,perles-du-bon-coin.fr,vesty.co.il,rustica.fr,standard.co.uk#@##taboola-right-rail
 topito.com#@##taboola_related
 fabulous55.com###wbounce-modal
 jeremstar.fr#@#.AD_area
@@ -6576,7 +6577,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||tradecraft.s.llnwi.net^$domain=sporcle.com|justthenews.com|justjared.com|justjaredjr.com|arcamax.com|uberhumor.com|walterfootball.com
 @@||watch2gether.com/ads.js$domain=watch2gether.com
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
-||assets.medicalnewstoday.com/content/advertising.js^$script,domain=greatist.com|healthline.com|medicalnewstoday.com
+||assets.medicalnewstoday.com/content/advertising.js^$script,domain=psychcentral.com|greatist.com|healthline.com|medicalnewstoday.com
 @@||9to5mac.com^$csp
 @@||9to5toys.com^$csp
 @@||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
