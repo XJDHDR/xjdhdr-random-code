@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4/FbbUsGWdv4RsQDsFljow
-! Version: 202103300200
+! Checksum: HAfCelUq5Edgv5Y8eMaXhg
+! Version: 202103301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 30 Mar 2021 02:00 UTC
+! Last modified: 30 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5959,7 +5959,7 @@ discogs.com#@#.ad_container
 askmefast.com#@#.add300
 visihow.com,askmefast.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label_method
-urldecoder.org,discogs.com#@#.ad_top
+base64decode.org,urldecoder.org,discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
 kongregate.com,msn.com,itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
@@ -6382,6 +6382,9 @@ paruvendu.fr#@#div[id^="optidigital-adslot-"]
 paruvendu.fr#@#.pagin_pub
 modworkshop.net#@##top-ad
 modworkshop.net#@##left-ad
+guru99.com#@#.mobileadunit
+guru99.com#@#div.custom > .hidden-phone
+guru99.com#@#[style^="float"]
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -8592,51 +8595,51 @@ softonic.com#@#.sam-slot
 ooreka.fr#@#div[data-iab-tag]
 chron.com,chron.assistpub.com#@#.featured_ad
 chron.com,chron.assistpub.com#@#.adModule
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__container
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__high-impact
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-1
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-1:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-10
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-10:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-11
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-11:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-12
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-12:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-13
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-13:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-14
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-14:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-15
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-15:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-16
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-16:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-17
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-17:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-18
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-18:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-19
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-19:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-2
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-2:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-20
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-20:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-3
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-3:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-4
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-4:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-5
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-5:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-6
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-6:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-7
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-7:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-8
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-8:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-9
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-9:not([data-ad-acceptable])
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__label
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__placeholder
-lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad-refresh
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__container
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__high-impact
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-1
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-1:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-10
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-10:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-11
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-11:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-12
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-12:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-13
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-13:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-14
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-14:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-15
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-15:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-16
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-16:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-17
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-17:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-18
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-18:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-19
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-19:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-2
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-2:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-20
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-20:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-3
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-3:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-4
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-4:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-5
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-5:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-6
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-6:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-7
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-7:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-8
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-8:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@##ad-9
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital###ad-9:not([data-ad-acceptable])
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__label
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__placeholder
+nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad-refresh
 gamepress.gg#@#.top-ad-desktop
 gamepur.com,chess.com#@#.banner_slot
 gamepur.com,chess.com#@#.postad
