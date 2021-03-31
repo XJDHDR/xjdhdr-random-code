@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9TegS5zxGKqejY/ujDOoKg
-! Version: 202103310200
+! Checksum: bhlmGg0g4P1OHcu0g/Ecwg
+! Version: 202103311400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 31 Mar 2021 02:00 UTC
+! Last modified: 31 Mar 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1664,7 +1664,7 @@ timesnownews.com#@#.ad-panel
 newsner.com#@#.ad-placement
 thepoliticalinsider.com#@#.ad-row
 nbcnews.com#@#.ad-s-rendered
-lavozdelanzarote.com,hibridosyelectricos.com,pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
+elprogreso.es,lavozdelanzarote.com,hibridosyelectricos.com,pronto.com.ar,navarra.elespanol.com,kizlarsoruyor.com,politico.com#@#.ad-slot
 navarra.elespanol.com#@#.big-ads
 cultbox.co.uk,nuevatribuna.es#@#.ad-slot-sidebar-b
 medyabar.com#@#.ad-unit
@@ -1730,7 +1730,7 @@ quotedb.com#@#.ezoic-ad
 didyouknowfacts.com,etonline.com#@#.footer-ad
 bigstory.ap.org#@#.for-taboola
 didyouknowfacts.com#@#.header-ad
-losprimeros.tv,kprofiles.com,otvfoco.com.br,sguru.org#@#.herald-ad
+photografix-magazin.de,losprimeros.tv,kprofiles.com,otvfoco.com.br,sguru.org#@#.herald-ad
 balkandownload.org#@#.ipsAd
 nana10.co.il#@#.item-label-href[rel="nofollow"][target="_blank"]
 nana10.co.il#@#.item-thumbnail-href[rel="nofollow"][target="_blank"]
@@ -8860,23 +8860,23 @@ yahoo.com#@##sda-LDRB2
 @@||ssl-images-amazon.com^*/dacx/sf/$subdocument,domain=amazon.co.uk|amazon.com|amazon.de
 @@||ssl-images-amazon.com^*/dacx/sf/sf-$subdocument,domain=amazon.co.jp|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
 @@||ssl-images-amazon.com^*/sf/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn
-@@||ssl-images-amazon.com^*/ape/sf/desktop/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html?$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.ae|amazon.sa
-@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-link-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||images-*.ssl-images-amazon.com/images/G/*/ad-feedback/info_icon_*$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||m.media-amazon.com/images^$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-||m.media-amazon.com/images/G/*/csm/showads.*.js$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||ssl-images-amazon.com^*/ape/sf/desktop/DAsf-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html?$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-link-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||images-*.ssl-images-amazon.com/images/G/*/productAds/ad_feedback_icon_$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon.*/gp/aq-feedback/lazyLoad/handler/af-sp-form-handler.html$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||images-*.ssl-images-amazon.com/images/G/*/ad-feedback/info_icon_*$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||m.media-amazon.com/images^$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+||m.media-amazon.com/images/G/*/csm/showads.*.js$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 !
-@@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||d1lxz4vuik53pc.cloudfront.net/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||d1lxz4vuik53pc.cloudfront.net/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa
-@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||d1lxz4vuik53pc.cloudfront.net/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||d1lxz4vuik53pc.cloudfront.net/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
@@ -10541,6 +10541,7 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
 @@||an.yandex.ru/system/context.js$script,domain=kp.ru
 kp.ru#@#div[id^="yandex_rtb"]
+kp.ru#@#div[data-slot-name]
 !:partner_token=Taboola
 !:partner_id=25a5b2915c0c608d
 !:type=partner
