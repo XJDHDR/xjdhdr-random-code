@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 46a3kYws5A5k+1PefEc/Vw
-! Version: 202103301400
+! Checksum: 9TegS5zxGKqejY/ujDOoKg
+! Version: 202103310200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Mar 2021 14:00 UTC
+! Last modified: 31 Mar 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5995,7 +5995,7 @@ jobseeq.com#@#.ad-right
 virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
-probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
+whosampled.com,probuildstats.com,buzzfeed.com,buzzfeed.io,buzzfeednews.com,greatschools.org,homes.com,imgur.com,maketecheasier.com,tasty.co,usatoday.com#@#.ad-slot
 cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
@@ -6045,7 +6045,7 @@ ozbargain.com.au#@#.adslisting2
 ozbargain.com.au#@#.adslistingz
 manofmany.com#@#.adsload
 healthyeater.com,concerty.com,boingboing.net,gameskinny.com#@#.adslot
-healthyeater.com#@#.adwrap
+allbad.cards,healthyeater.com#@#.adwrap
 chip.com.tr#@#.adspace
 ozbargain.com.au#@#.adsrecnode
 ozbargain.com.au#@#.adssidebar2
@@ -6176,7 +6176,7 @@ kicksonfire.com,fossbytes.com#@#.td-header-ad-wrap
 zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
 thesimsresource.com#@#.top-300-ad
-brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
+whosampled.com,brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
 digitaltrends.com,wnd.com#@#.top-ad-container
 aljazeera.com#@#.top-adv
 skijumping.pl#@#.top-advertisement
@@ -6333,15 +6333,16 @@ complex.com#@##asideAd
 riddles.com#@#.ad_banner
 riddles.com#@#.sidebar_ad_container
 theartstory.org,purewow.com#@#.ad-300x250
+dictionnaire.lerobert.com#@#.ad-300-250
 purewow.com#@#.ad-300x600
 bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
 collinsdictionary.com#@#.topslot_container
-oxfordlearnersdictionaries.com,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
+dictionnaire.lerobert.com,oxfordlearnersdictionaries.com,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
 dictionary.cambridge.org#@##ad_topslot_b
-dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
-dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_leftslot
-macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com#@##ad_btmslot
+dictionnaire.lerobert.com,dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
+dictionnaire.lerobert.com,dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_leftslot
+dictionnaire.lerobert.com,macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com#@##ad_btmslot
 bab.la#@#.info-panel
 wargamer.com,pockettactics.com,theloadout.com#@#.ad-slot-2
 theloadout.com#@#.sticky_rail600
@@ -6697,8 +6698,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine^*^loader.js$domain=online-tech-tips.com|morewords.com|windfinder.com
-@@||adengine.snigelweb.com/*/adngin.js$domain=online-tech-tips.com
+@@||cdn.snigelweb.com/adengine^*^loader.js$domain=raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||adengine.snigelweb.com/*/adngin.js$domain=raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
