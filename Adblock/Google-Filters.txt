@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kK38SjAWqWnX7LoUS7ThpQ
-! Version: 202103311400
+! Checksum: uzFyLTRs2CaAVQQbgpp6vw
+! Version: 202104010200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 31 Mar 2021 14:00 UTC
+! Last modified: 01 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -149,9 +149,9 @@
 /googleadmanager-
 /googleadpush.
 /googleadright.
-/googleads-$domain=~github.com
-/googleads.$~script,domain=~googleads.github.io
-/googleads/*$domain=~github.com
+/googleads-$domain=~github.com|~github.io
+/googleads.$~script,domain=~github.com|~github.io
+/googleads/*$domain=~github.com|~github.io
 /googleads1.
 /googleads2.
 /googleads3widetext.
@@ -1468,6 +1468,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||tlkhzqmrg.com^
 ||tqxdhokpeigv.com^
 ||turmoilexcessivetranslating.com^
+||turtlesootheongoing.com^
 ||ueudahqfig.com^
 ||ughdqpwtfabsqg.com^
 ||ukfpgaeihxamg.com^
@@ -1791,7 +1792,6 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||youtube.com/pagead/
 ! Test (Webkit Mobile/Desktop for Youtube)
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
-||googleads.g.doubleclick.net^$domain=youtube.com
 ||m.youtube.com/get_midroll_$domain=youtube.com
 ||pagead2.googlesyndication.com^$domain=youtube.com
 ||static.doubleclick.net^$domain=youtube.com
