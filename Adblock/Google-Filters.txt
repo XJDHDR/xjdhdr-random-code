@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1g4D/G0A71iI71moOPyulw
-! Version: 202104020200
+! Checksum: bJE+St8x3tuUKqIpeArs/Q
+! Version: 202104021400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 02 Apr 2021 02:00 UTC
+! Last modified: 02 Apr 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1242,7 +1242,6 @@ bodas.com.mx,bodas.net,mariages.net,matrimonio.com,weddingspot.co.uk#@#iframe[id
 adlice.com,androiding.how,appwikia.com,bagas31.com,elchapuzasinformatico.com,noticiasautomotivas.com.br,oklivetv.com,sharefreeall.com,simply-debrid.com,unixmen.com,xsportnews.com,xup.to#@##adsense
 spoilertv.com#@##adsensewide
 androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro-games.com,coingamez.com,demos.krajee.com,doulci.net,eveskunk.com,freebitco.in,gnomio.com,kadinlarkulubu.com,niresh.co,nzb.su,orlygift.com,pixiz.com,r1db.com,sc2casts.com,spoilertv.com,unlocktheinbox.com,zeperfs.com#@#.adsbygoogle
-africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramacafe.in,eveskunk.com,farsondigitalwatercams.com,file4go.com,freeccnaworkbook.com,gaybeeg.info,hack-sat.com,is-arquitectura.es,keygames.com,latesthackingnews.com,localeyes.dk,minecraftskins.com,perrosycachorros.net,phoronix.com,ps3news.com,psicologiayautoayuda.com,recetasreceta.com,smplayer.sourceforge.net,thenewboston.com,tubitv.com,youtubecristiano.net#@#.afs_ads
 ||2020mustang.com^
 ||86pqvhdw5wpg.com^
 ||aaqpsddtjnsmug.com^
@@ -1489,6 +1488,7 @@ africasports.net,bakersfield.com,cheatpain.com,diplomat.so,directwonen.nl,dramac
 ||wizliebeg.com^
 ||wjeeqkdbjsg.com^
 ||wkcuhilbg.com^
+||wmruzfvtg.com^
 ||worsterring.com^
 ||wredmtmvkjbg.com^
 ||wvesvozyuoxg.com^
