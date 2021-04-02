@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LGksO29YK12ScOt4K23KkQ
-! Version: 202104011400
+! Checksum: vQFlp82v6MPsCJIzbvwH/A
+! Version: 202104020200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Apr 2021 14:00 UTC
+! Last modified: 02 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1505,6 +1505,7 @@ fincalculator.ru#@#.adv-border
 @@||pub17.media-clic.com/www/delivery/*$domain=culture-informatique.net
 @@||feedxp.com/cdn-cgi/pe/$xmlhttprequest,domain=feedxp.com
 @@||ads.servebom.com^$script,domain=tomsguide.fr|tomshardware.de|tomshardware.fr|tomshardware.co.uk
+@@||ads.servebom.com/config^$xmlhttprequest,domain=whathifi.com
 @@||ocubee.com/assets/*$script,domain=ocubee.com
 @@||adtech.de/dt/common/DAC.js$domain=footmercato.net
 @@||nbcnews.com/pages/ads/taboola/belowarticle.html$subdocument,domain=nbcnews.com
@@ -6620,9 +6621,10 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||cdm.cursecdn.com/js/socialblade/cdmfactorem_min.js?misc=1591301407275$domain=socialblade.com
 @@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=woot.com
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
-@@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=op.gg|mobafire.com|futbin.com
+@@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=cad-comic.com|statsforspotify.com|op.gg|mobafire.com|futbin.com
 @@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=wepc.com|resetera.com|mtggoldfish.com|mobafire.com|nookazon.com
 @@||hb-ab.vntsm.com/v3/webpack-5/ad-manager.min.js$domain=mobafire.com
+@@||cdn.oboxads.com/v3/sites^$script,domain=jolijolidesign.com
 @@||rafvertizing.crazygames.com/rafvertizing-v2.js$domain=crazygames.com
 @@||s.imgur.com/min/gallery.js?1591118015$domain=imgur.com
 @@||www.daily-choices.com/why-this-hotel-amenity-is-a-must-have-when-traveling-with-kids/?xcmg=1$domain=daily-choices.com
@@ -6698,8 +6700,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adnxs.com/bounce^$third-party
 @@||adnxs.com/dmp^$third-party
 ||calculatorcamera.com^$domain=sporcle.com
-@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
-@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
+@@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
 @@||cdn.snigelweb.com/adengine^*^loader.js$domain=raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
 @@||adengine.snigelweb.com/*/adngin.js$domain=raymond.cc|online-tech-tips.com
