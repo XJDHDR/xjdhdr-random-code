@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bJE+St8x3tuUKqIpeArs/Q
-! Version: 202104021400
+! Checksum: sLBfehHjYRFDLqT7vAe9UA
+! Version: 202104030200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 02 Apr 2021 14:00 UTC
+! Last modified: 03 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1338,6 +1338,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||governrecycling.com^
 ||grudgeslylonging.com^
 ||hash-hash-tag.com^
+||hickunwilling.com^
 ||highwayprinting.com^
 ||hobfadbig.com^
 ||humpqretttg.com^
@@ -1478,6 +1479,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||uujdthyg.com^
 ||vehemenceclung.com^
 ||vffvtxcykog.com^
+||viibug.com^
 ||vlitag.com^
 ||vpwlynobnnqg.com^
 ||vrmuyscnqgsg.com^
@@ -1647,6 +1649,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||srvbytrking.com^$popup
 ||syndication.dynsrvtbg.com^$popup
 ||twqiqiang.com^$popup
+||viibug.com^$popup
 ||cpacoreg.com^$third-party
 ||eroadvertising.com^$third-party
 ||erotikdating.com^$third-party
@@ -1979,9 +1982,11 @@ livejournal.com##div[data-google-query-id]
 googletutor.com##div[style="width:125px;text-align:center;"]
 stopmalvertising.com##div[style="width:728px;height:90px;margin:0 auto;padding:0;text-align:center;margin-bottom:32px;"]
 pointblanknews.com,sharktankblog.com##img[height="60"]
+nsfwyoutube.com##img[src*="data"]
 bigeye.ug,breakingbelizenews.com,espnrichmond.com,naijaloaded.com.ng,punchng.com,techpowerup.com,theolivepress.es,therep.co.za##img[width="300"]
 afrivibes.net,airplaydirect.com,cryptomining-blog.com,dotsauce.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,onislandtimes.com,portugaldailyview.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,tangatawhenua.com,techpowerup.com,themediaonline.co.za,thenationonlineng.net,thewillnigeria.com,wantedinafrica.com,wantedinrome.com,yomzansi.com,zizonline.com##img[width="300"][height="250"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.me,flashx.pw,forum.gsmhosting.com,hollywoodbackwash.com,muzique.com,opencarry.org,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
+nsfwyoutube.com##pp
 ! youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube
