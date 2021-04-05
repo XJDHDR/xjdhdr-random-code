@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RsZB4iGoGPxDnsCvYE4AGA
-! Version: 202104041400
+! Checksum: HNWFMqp4qa8dkyK0xKMThw
+! Version: 202104050200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 04 Apr 2021 14:00 UTC
+! Last modified: 05 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1848,8 +1848,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||googlesyndication.com/sodar/$domain=spiegel.de
 ||pagead2.googlesyndication.com^$domain=spiegel.de
 ||servedby.flashtalking.com/imp/$script,domain=spiegel.de
-||goo.gl^$popup,domain=amaderforum.com|dexerto.com
-||google.com.eg/url?$popup,domain=hulkload.com
 ||plx.porndig.com^
 ||rusdosug.com/Fotos/Banners/
 ||youtubelike.com/ftt2/toplists/
@@ -2245,8 +2243,6 @@ www.google.com#@##videoads
 @@||accounts.google.com/o/oauth2/$popup
 @@||accounts.google.com/signin/$popup
 @@||bing.com/search$popup,domain=msn.com
-@@||adtng.com/get/$xmlhttprequest,domain=porn00.org
-@@||hdzog.com/js/advertising.js
 @@||ajax.googleapis.com^$script,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||apis.google.com^$script,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||google.com/recaptcha/$image,script
