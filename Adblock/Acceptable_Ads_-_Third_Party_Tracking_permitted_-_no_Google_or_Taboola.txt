@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zi9Q/ZjTyouW6LVUWU4B3g
-! Version: 202104060200
+! Checksum: IvPE4OEVv9Vkqg0Ahdy1Yg
+! Version: 202104061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Apr 2021 02:00 UTC
+! Last modified: 06 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1623,6 +1623,7 @@ brilliantmaps.com,sciencepost.fr#@#.ad-inserter
 vgpwn.com#@#.ad-inserter-widget
 nbcnews.com#@#.ad-location
 timesnownews.com#@#.ad-panel
+timesnownews.com#@#.tncls_ad_250
 newsner.com#@#.ad-placement
 thepoliticalinsider.com#@#.ad-row
 nbcnews.com#@#.ad-s-rendered
@@ -6389,6 +6390,7 @@ modworkshop.net#@##left-ad
 guru99.com#@#.mobileadunit
 guru99.com#@#div.custom > .hidden-phone
 guru99.com#@#[style^="float"]
+guru99.com#@#.moduletable:-abp-has(div[id^="div-gpt-ad"])
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
