@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MpTWeJ+RYuQyZA1SgfIQNg
-! Version: 202104070200
+! Checksum: RtZGx3EtIU95Rj4NJU2mqg
+! Version: 202104071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Apr 2021 02:00 UTC
+! Last modified: 07 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8478,7 +8478,6 @@ toocool2betrue.com#@##RTK_XKKV
 seekingalpha.com#@##ad-300x250
 askmen.com#@##ad-aside-1
 askmen.com,seattletimes.com#@##ad-bottom
-seattletimes.com#@##ad-flex-top
 247wallst.com#@##ad-header
 wowhead.com#@##ad-horizontal
 wowhead.com#@##ad-horizontalBTF
@@ -10501,6 +10500,7 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||avatars.mds.yandex.net/get-direct^$image,domain=kp.ru
 @@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
 @@||an.yandex.ru/system/context.js$script,domain=kp.ru
+@@||an.yandex.ru/system/adfox.js$script,domain=kp.ru
 kp.ru#@#div[id^="yandex_rtb"]
 kp.ru#@#div[data-slot-name]
 !:partner_id=25a5b2915c0c608d
