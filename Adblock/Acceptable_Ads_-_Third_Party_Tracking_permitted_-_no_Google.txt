@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uqcc/znQiSqPGHoD56fsOQ
-! Version: 202104061400
+! Checksum: oKblFmoakahEo75LyrLp4g
+! Version: 202104070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 06 Apr 2021 14:00 UTC
+! Last modified: 07 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5679,7 +5679,6 @@ clubroadster.net#@#.ad-card
 guidingtech.com#@#.ad-centered
 kongregate.com#@#.ad-container
 fleaflicker.com#@#.ad-content
-pink.rs#@#.ad-medium
 spellcheck.net,usccgstaging.wpengine.com,uscreditcardguide.com#@#.ad-holder
 hometalk.com#@#.ad-item
 devmn.net,hothardware.com,mumsnet.com,siliconera.com#@#.ad-leaderboard
@@ -5854,7 +5853,7 @@ dailywire.com#@#div[style^="width: 728px;"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
 ! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
-letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
+psychcentral.com,letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
 aftvnews.com#@##footerad
@@ -5986,7 +5985,7 @@ mrexcel.com#@#.ad-in-post
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 hiphopdx.com,littlealchemy2.com#@#.ad-inner
 airportia.com#@#.ad-item
-simbaly.com#@#.ad-label
+aternos.org,simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
 thesimsresource.com#@#.ad-midleader
 wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-mobile
@@ -6103,7 +6102,8 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+tracker.gg#@#.lb-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
 fxp.co.il,pmcqa.com#@#.header-top-ad
@@ -6134,7 +6134,9 @@ theweek.com#@#.mobads
 ew.com,people.com,theweek.com#@#.mobile-ad
 theweek.com#@#.mp-ad
 games.co.uk#@#.mpu
-irishpost.com,parkers.co.uk#@#.mpu-ad
+falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk,irishpost.com,parkers.co.uk#@#.mpu-ad
+falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.dmpu-ad
+falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.ad-overlay
 cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,se1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com#@#.mpu_container
 runt-of-the-web.com#@#.mrec
 golfwrx.com#@#.mvp-ad-label
@@ -6456,6 +6458,12 @@ guru99.com#@#.mobileadunit
 guru99.com#@#div.custom > .hidden-phone
 guru99.com#@#[style^="float"]
 guru99.com#@#.moduletable:-abp-has(div[id^="div-gpt-ad"])
+aternos.org#@##adUnit
+pink.rs#@#.ad-header
+pink.rs#@#.ad-medium
+thesocialpost.it#@##admpubottom
+thesocialpost.it#@##admpumiddle
+thesocialpost.it#@##adwallpaper
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -8014,6 +8022,17 @@ nfhost.me,nfhost.pl#@#.ad-banner
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81582
 ! typing-speed.net ads
+!:partner_token=verdem-crypto.github.io ads
+!:partner_id=e74a73527e6790ed
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81988
+! verdem-crypto.github.io ads
+verdem-crypto.github.io#@##sponsored_content
+@@||adlane.info/view^$xmlhttprequest,domain=verdem-crypto.github.io
+@@||adlane.info/tracking^$xmlhttprequest,domain=verdem-crypto.github.io
+@@||s.adlane.info/?floor=0^$domain=verdem-crypto.github.io
+@@||adlane.info/sync.js^$script,domain=verdem-crypto.github.io
+@@||us-research.adlane.info/load^$image,domain=verdem-crypto.github.io
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -8847,7 +8866,7 @@ yahoo.com#@##sda-LDRB2
 @@||amazon-adsystem.com/aan/us?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
 @@||amazon-adsystem.com/aan/ca?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
 @@||amazon-adsystem.com/aan/cn?Operation=GetDecoratedOffers^$script,domain=ssl-images-amazon.com
-@@||amazon-adsystem.com/e/loi/imp?b=$image,domain=amazon.com.br|amazon.com.au|amazon.com.mx|amazon.sg|amazon.nl|amazon.ae|amazon.sa|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.in|amazon.ca|amazon.fr|amazon.es|amazon.it
+@@||amazon-adsystem.com/e/loi/imp^$image,xmlhttprequest,domain=amazon.com.br|amazon.com.au|amazon.com.mx|amazon.sg|amazon.nl|amazon.ae|amazon.sa|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.in|amazon.ca|amazon.fr|amazon.es|amazon.it
 @@||amazon-adsystem.com/x/getad?*^slot=ams-detail-right$script,domain=amazon.cn|amazon.co.jp|amazon.in|images-amazon.com|ssl-images-amazon.com|amazon.ca
 @@||amazon-adsystem.com/x/getad?*^slot=hero-quick-promo^$script,domain=images-eu.ssl-images-amazon.com|images-na.ssl-images-amazon.com
 @@||ams-ads-cornerstone-creatives-*.s3.amazonaws.com^$script,domain=amazon.cn|images-amazon.com|ssl-images-amazon.com
@@ -8884,6 +8903,8 @@ yahoo.com#@##sda-LDRB2
 @@||amazon-adsystem.com/e/xsp/getAdj?*&slot=auto-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/s/iu3^$subdocument,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics.min.js$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
