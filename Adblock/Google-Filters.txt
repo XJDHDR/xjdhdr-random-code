@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gNULDkAtohsgg5R2I9u7MQ
-! Version: 202104090200
+! Checksum: yI8do77cLEFXURLGlKUbTA
+! Version: 202104091400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Apr 2021 02:00 UTC
+! Last modified: 09 Apr 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1326,6 +1326,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||fertilizeranaemiaupcoming.com^
 ||feyfjlpeexvg.com^
 ||fgoocsqg.com^
+||fifteenthfeeding.com^
 ||fkbwtoopwg.com^
 ||flippantreprehensiblecharming.com^
 ||flowerythug.com^
@@ -1860,6 +1861,7 @@ investing.com###generalOverlay
 gearlive.com,mediamass.net,noscript.net###google
 photojpl.com###google01
 mediamass.net###google3
+topwar.ru###google_full_story_mobile
 windows2universe.org###google_mockup
 inventorspot.com,mothering.com,wordfind.com,yokogames.com###header
 googleping.com###itro_opaco
@@ -1918,7 +1920,7 @@ gsprating.com##.banner2
 domainmasters.co.ke##.banner_google
 beckershospitalreview.com##.becker_doubleclick
 furiousfanboys.com,regretfulmorning.com,viva.co.nz##.big-banner
-9gag.com,sport360.fit##.billboard
+9gag.com,hotstar.com,sport360.fit##.billboard
 stlmag.com##.buzzworthy
 androidweblog.com##.cgdyh > [data-adid]
 googlesightseeing.com##.comm-square
@@ -1961,7 +1963,7 @@ belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,cam
 mcpmag.com##.xContent
 swarajyamag.com##[class*="page-top-adv-wrapper"]
 swarajyamag.com##[class^="banner-ad-"]
-9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,dailypost.ng,digitallydownloaded.net,downturk.net,elitepvpers.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,techspot.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
+9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,dailypost.ng,digitallydownloaded.net,downturk.net,elitepvpers.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,techspot.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
 mmorpg.com##[href^="https://www.blackdesertonline.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
@@ -2084,7 +2086,7 @@ hentai-img.com###display_image_detail > span
 cantoot.com###googlebox
 youtubelike.com###header-top
 phonedog.com###headerboard
-allureamateurs.net,mataporno.com,sexmummy.com,teenwantme.com,worldgatas.com,xpg.com.br###topbar
+69gfs.com,allureamateurs.net,mataporno.com,sexmummy.com,teenwantme.com,worldgatas.com,xpg.com.br###topbar
 pornsharing.com##.allIMwindow
 3movs.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,porngames.com,pornoreino.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
 celebritymovieblog.com##.banner700
@@ -2121,7 +2123,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=gamespot.com
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|epaper.timesgroup.com|gamespot.com|indy100.com|theta.tv
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|edy.rakuten.co.jp|epaper.timesgroup.com|gamespot.com|indy100.com|theta.tv
 @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/webpagethumbnail?*&query=$script,~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
@@ -2162,8 +2164,8 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||www.google.com/afs/ads?*^channel=month$subdocument
 @@||www.google.com/dp/ads^$subdocument,domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 @@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
-@@||g.doubleclick.net/gampad/ads?$domain=pccomponentes.com|video.tv-tokyo.co.jp
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=pccomponentes.com
+@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|video.tv-tokyo.co.jp
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=edy.rakuten.co.jp|pccomponentes.com
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|klix.ba|locipo.jp|maharashtratimes.com|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
@@ -2178,6 +2180,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||google.*/adwords/$~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/services/$generichide,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.com/payments/*/adwords.$document,subdocument
+@@||googleadservices.com/pagead/conversion_async.js$script,domain=zubizu.com
 @@||gstatic.com/accounts/services/adwords/$image,domain=accounts.google.com
 @@||gstatic.com/adsense/$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||gstatic.com/awn/displayads/$domain=ads.google.com
@@ -2827,6 +2830,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||atptour.com/assets/atpwt/scripts/util/googleAnalytics.js$~third-party
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
+@@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
 @@||googleoptimize.com/optimize.js$script,domain=tentree.ca
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
@@ -2839,7 +2843,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||google-analytics.com/analytics.js$domain=beinsports.com|jackbox.tv|tracking.narvar.com|westernunion.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how|schwab.com
-@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|cyclingnews.com|easternbank.com|nflgamepass.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|easternbank.com|nflgamepass.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
 @@||hobbyking.com^*/gtm.js$script,~third-party
@@ -2878,9 +2882,10 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
 @@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.net|radiorur.de|saturn.at|sport1.de
+@@||lzstatic.com^*/gdpr/consentHandler/google_analytics.js$domain=ladenzeile.de
 @@||sunday.de/skin/*/googleanalytics.js$script
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
-@@||googletagmanager.com/gtm.js$script,domain=linternaute.com|sciencesetavenir.fr|wamiz.com
+@@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
 @@||googletagmanager.com/gtag/js$script,domain=klix.ba|radiosarajevo.ba
 @@||google-analytics.com/analytics.js$domain=novatv.bg
 @@||360buyimg.com/item/unite/$script,domain=item.jd.com
@@ -2905,7 +2910,9 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||panorama.it/wp-content/themes/panorama/js/google-nielsen-analytics.js?
 @@||synlab.it^*/angular-google-analytics.js
 @@||chancro.jp/assets/lib/googleanalytics-$script
+@@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
 @@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|kakuyomu.jp|sankei.com
+@@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||google-analytics.com/analytics.js$domain=skaties.lv
 @@||google-analytics.com/analytics.js$domain=tv3play.no
@@ -3700,7 +3707,7 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
-||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|phonearena.com|smallseotools.com|telegram.hr|wordreference.com
+||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|phonearena.com|smallseotools.com|telegram.hr|wordreference.com
 ||yimg.com^*/guce.js
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
@@ -3900,7 +3907,7 @@ e-day.ro,mtlblog.com###CoverPop-cover
 laptopmag.com,tomshardware.co.uk,tomshardware.com###ec-popup-modal
 goodhousekeeping.co.za###enhancedtextwidget-10
 trailrunnermag.com###inside-dirt
-bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,spectrumlocalnews.com,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com,wweek.com###mc-embedded-subscribe-form
+bcheights.com,cargofacts.com,cnn.com,dailyhive.com,egyptianstreets.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,spectrumlocalnews.com,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com,wweek.com###mc-embedded-subscribe-form
 99fm.com.na,activistmommy.com,ahtribune.com,alreporter.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,firstpost.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iowapublicradio.org,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,national-justice.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,ny1.com,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,theartnewspaper.com,thegrayzone.com,theloadout.com,thenationalnews.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wpr.org,wttw.com###mc_embed_signup
 lightreading.com###mktng_popin
 6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,dailymaverick.co.za,digitaltrends.com,disclose.tv,download3k.com,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
@@ -3929,7 +3936,7 @@ simpleflying.com##.post-subscribe
 interestingengineering.com##.slim-subscription
 deathandtaxesmag.com,spin.com,stereogum.com,vibe.com##.sm-widget-campaign-monitor
 swarajyamag.com##.smag-subscription-wrapper
-al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,defenseone.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freep.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mpr.org,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsmaxtv.com,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,thehill.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,defenseone.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freep.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hindustantimes.com,hpcwire.com,huffpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mpr.org,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsmaxtv.com,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,thehill.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 digg.com##.subscribe-bar
 advocate.com,asiatatler.com,healthboards.com,livejournal.com,makeuseof.com,newsweek.com,nymag.com,refinery29.com##.subscription
 goodhousekeeping.co.za##.subscription_block
@@ -4067,6 +4074,7 @@ dideo.ir##.youtube-terms-banner
 youtube.com##.yt-consent
 santatracker.google.com##SANTA-NOTICE
 youtube.com##div[class^="ytd-consent"]
+androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 weatherbug.com##notification-footer
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -4172,6 +4180,7 @@ porndig.com,thagson.com#@#.disclaimer_wrapper
 booking.pobeda.aero,coastalliving.com,commercialtrucktrader.com,cookinglight.com,esselunga.it,essence.com,ew.com,food.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
 elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
+@@||app.mailjet.com/widget/iframe/$subdocument,domain=2040training.co.uk
 @@||bing.net/videos/thumbnail.aspx?$domain=bing.com
 @@||cdn.jsdelivr.net^*/jquery.particleground.min.js?$script,domain=url.hulblog.com
 @@||google.com/friendconnect/$script,domain=blogspot.com

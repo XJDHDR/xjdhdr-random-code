@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dOGZ0UJu+NAFRRPOkzERXQ
-! Version: 202104090200
+! Checksum: CM8omgY7RpEfk4t7EOZIjw
+! Version: 202104091400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Apr 2021 02:00 UTC
+! Last modified: 09 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2872,6 +2872,7 @@ thevarsity.ca#@#.ad-med-rect
 @@/iqadcontroller.js$domain=tagesspiegel.de|faz.net|zeit.de|sueddeutsche.de|ariva.de|jetzt.de|brandeins.de
 @@||static.faz.net^*/FAZ_secondary-info.min.js$domain=tagesspiegel.de|faz.net
 @@^sites/all/modules/custom/*_advertisement/assets/js/marketers/dfp/cpg_ads.ros.js$~third-party,domain=eatsmarter.de
+@@||cdn.adgtw.orangeads.fr/build/adgw-spa.min.js$script,domain=mappy.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
@@ -6719,8 +6720,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine^*^loader.js$domain=raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
-@@||adengine.snigelweb.com/*/adngin.js$domain=raymond.cc|online-tech-tips.com
+@@||snigelweb.com/adengine^*^loader.js$domain=online-tech-tips.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||snigelweb.com/*/adngin.js$domain=online-tech-tips.com|raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -7542,7 +7543,7 @@ tsn.ua#@#[data-partners-iframe]
 ! Adpone ads
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
-elperiodico.com#@#.adv-header
+elperiodico.com,elperiodico.cat#@#.adv-header
 3djuegos.com#@##dst_pub_728
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
@@ -8812,6 +8813,9 @@ supercheats.com#@##bottom_ad_728
 ygorganization.com#@#.advertisement_above_footer
 rajah.com#@#.ad-section
 rajah.com#@#.content-ad
+insidermonkey.com#@#.ad-horizontal-top
+insidermonkey.com#@##ad-horizontal-top
+insidermonkey.com#@##sidebar-ad-1
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
@@ -8912,6 +8916,7 @@ yahoo.com#@##sda-LDRB2
 @@||amazon-adsystem.com/x/px/$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/s/iu3^$subdocument,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics.min.js$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/x/px/$xmlhttprequest,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
