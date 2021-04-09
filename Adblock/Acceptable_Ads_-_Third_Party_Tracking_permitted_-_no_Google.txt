@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZS7NPbx56fmkg3NZvfgwjw
-! Version: 202104081400
+! Checksum: dOGZ0UJu+NAFRRPOkzERXQ
+! Version: 202104090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Apr 2021 14:00 UTC
+! Last modified: 09 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5984,7 +5984,7 @@ theartstory.org,smitefire.com#@#.ad-vertical
 mrexcel.com#@#.ad-in-post
 buzzfeed.com,buzzfeednews.com#@#.ad-inline
 hiphopdx.com,littlealchemy2.com#@#.ad-inner
-airportia.com#@#.ad-item
+upstyledaily.com,foodtalkdaily.com,airportia.com#@#.ad-item
 aternos.org,simbaly.com#@#.ad-label
 nuklearpower.com#@#.ad-leader
 thesimsresource.com#@#.ad-midleader
@@ -6379,7 +6379,7 @@ planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-centre-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-droite-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
-gamezo.co.uk,gematsu.com#@##ad-container-1
+gamespew.com,gamezo.co.uk,gematsu.com#@##ad-container-1
 gematsu.com#@##ad-container-2
 tollypics.com#@#.rightad
 footballdb.com#@##header_ad
@@ -6464,6 +6464,13 @@ pink.rs#@#.ad-medium
 thesocialpost.it#@##admpubottom
 thesocialpost.it#@##admpumiddle
 thesocialpost.it#@##adwallpaper
+iefimerida.gr#@#.ad-loaded
+news12.com#@#.banner-leaderboard
+gamewatcher.com#@#.advertisement-wrapper
+ricetta.it#@#.banner-300x250
+nomix.it#@##ad02
+upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-1
+upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-2
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6529,7 +6536,6 @@ dlisted.com###dlisted_728x90_320x50_Adhesion
 probuilds.net##[id*="Probuilds_336x768_ROS_Skin_"]
 ilovemydogsomuch.tv###ilovemydogsomuch_728x90_300x250_320x50_320x100_incontent_1
 komando.com###Komando_Adhesion
-iefimerida.gr###ros_sidebar_2
 pagesix.com###div-gpt-ad-rec_widget
 pagesix.com###div-gpt-ad-rec_btf
 gizmodo.com###dfp-ad-13
@@ -6569,7 +6575,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=thewash.online|allbad.cards|australiangeographic.com.au|fromyourinside.com|life4insurance.com|base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=rewardia.com.au|dealdrop.com|bikeexchange.de|godsavethepoints.com|thewash.online|allbad.cards|australiangeographic.com.au|fromyourinside.com|life4insurance.com|base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6613,13 +6619,13 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=ilcaudino.it|businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=ricetta.it|ilcaudino.it|businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=businesscasestudies.co.uk|fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
-@@||cdn.exmarketplace.com/bidder^$domain=ooyyo.com|mondodesign.it
+@@||cdn.exmarketplace.com/bidder^$domain=cosmicbook.news|nomix.it|ooyyo.com|mondodesign.it
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
@@ -6770,6 +6776,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||trackercdn.com/cdn^$domain=tracker.gg|battlefieldtracker.com|realmtracker.com|dungeon.report|destinytracker.com|tracker.network
 @@||trackerads.com/cdn^$domain=raid.report
 @@||r6-trackercdn.com/cdn^$domain=tracker.network
+@@^resources/combined/js/prebid-new-cacheBids$~third-party,domain=foodtalkdaily.com|upstyledaily.com
+@@^/api/adunits^$~third-party,domain=foodtalkdaily.com|upstyledaily.com
 ! Default filters for long domain lists
 !
 !
