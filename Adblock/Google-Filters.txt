@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yI8do77cLEFXURLGlKUbTA
-! Version: 202104091400
+! Checksum: A7aXU9kk9/LoXXGvdUay6A
+! Version: 202104100200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Apr 2021 14:00 UTC
+! Last modified: 10 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -3707,7 +3707,7 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
-||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|phonearena.com|smallseotools.com|telegram.hr|wordreference.com
+||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|phonearena.com|quotes.net|smallseotools.com|telegram.hr|wordreference.com
 ||yimg.com^*/guce.js
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
@@ -4074,8 +4074,9 @@ dideo.ir##.youtube-terms-banner
 youtube.com##.yt-consent
 santatracker.google.com##SANTA-NOTICE
 youtube.com##div[class^="ytd-consent"]
-androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 weatherbug.com##notification-footer
+! googlefunding consent warning
+androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,quotes.net,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
 bing.com##div[data-cookie]

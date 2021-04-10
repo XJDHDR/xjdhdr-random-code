@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AIgGmoBB+ivbmEYScQY/KQ
-! Version: 202104091400
+! Checksum: Dybq+SQYVMSMT2/STUeULA
+! Version: 202104100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 09 Apr 2021 14:00 UTC
+! Last modified: 10 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6511,7 +6511,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=rewardia.com.au|dealdrop.com|bikeexchange.de|godsavethepoints.com|thewash.online|allbad.cards|australiangeographic.com.au|fromyourinside.com|life4insurance.com|base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
+@@||cdn.fuseplatform.net/publift^$domain=bikeexchange.com|rewardia.com.au|dealdrop.com|bikeexchange.de|godsavethepoints.com|thewash.online|allbad.cards|australiangeographic.com.au|fromyourinside.com|life4insurance.com|base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -6655,8 +6655,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||snigelweb.com/adengine^*^loader.js$domain=online-tech-tips.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
-@@||snigelweb.com/*/adngin.js$domain=online-tech-tips.com|raymond.cc|online-tech-tips.com
+@@||snigelweb.com/adengine^*^loader.js$domain=officearticles.com|online-tech-tips.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||snigelweb.com/*/adngin.js$domain=officearticles.com|online-tech-tips.com|raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6699,6 +6699,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||soo-healthy.com/ads-hb/quantcast/gdpr$domain=soo-healthy.com
 @@||lib.medyanetads.com/adservice^$domain=milliyet.com.tr
 @@||ad.medyanetads.com/adservice^$xmlhttprequest,script,domain=milliyet.com.tr
+@@||ad.medyanetads.com/adservice/adservice.js$script,domain=fanatik.com.tr|posta.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
 @@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=greedyfinance.com|soo-healthy.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com|reverso.net
