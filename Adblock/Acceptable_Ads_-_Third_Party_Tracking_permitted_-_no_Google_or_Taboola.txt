@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uXQTDZWLLqPOlAeXYPZrqQ
-! Version: 202104130200
+! Checksum: zAXap7LFNktyeHj8pW8EAA
+! Version: 202104131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Apr 2021 02:00 UTC
+! Last modified: 13 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1791,6 +1791,7 @@ lephoceen.fr#@#.m-adbanner
 lephoceen.fr#@#.m-adbanner--newsunder
 infoescola.com#@#.ads
 infoescola.com##.ads:not(#recomendacoes)
+elperiodico.com##.adLoaded
 ! Hidden for compliance
 news.com.au##.promoted-stories
 ynetnews.com###embedder-1
@@ -7968,6 +7969,14 @@ verdem-crypto.github.io#@##sponsored_content
 @@||s.adlane.info/?floor=0^$domain=verdem-crypto.github.io
 @@||adlane.info/sync.js^$script,domain=verdem-crypto.github.io
 @@||us-research.adlane.info/load^$image,domain=verdem-crypto.github.io
+!:partner_token=OB Media ads
+!:partner_id=36b87ab2e6bdf254
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=55388
+! OB Media ads
+@@$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
+/abp/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
+@@/abp/px.gif?ch=1&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
