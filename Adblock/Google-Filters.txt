@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hMNEo0l6dP+dMZdikqPxNw
-! Version: 202104121400
+! Checksum: SQa2puhC73nQsiP9EA6CAA
+! Version: 202104130200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 12 Apr 2021 14:00 UTC
+! Last modified: 13 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1258,7 +1258,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||askbegrag.com^
 ||atilohdxsg.com^
 ||aud3g.com^
-||aysydyqpkg.com^
 ||bckfnohmg.com^
 ||berryborrowing.com^
 ||bhcf764sf8pg.com^
@@ -1301,7 +1300,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||doubleclick-net.com^
 ||doubleclickbygoogle.com^
 ||dppeusog.com^
-||dstxhvmgkg.com^
 ||dwczfwnjg.com^
 ||dyingdesignscharming.com^
 ||dynamitematerialisticwriting.com^
@@ -1326,7 +1324,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||feintstrainhog.com^
 ||fertilizeranaemiaupcoming.com^
 ||feyfjlpeexvg.com^
-||fgoocsqg.com^
 ||fifteenthfeeding.com^
 ||fkbwtoopwg.com^
 ||flippantreprehensiblecharming.com^
@@ -1481,6 +1478,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||thuneagjhnvlg.com^
 ||tieecstasythrong.com^
 ||timbercooling.com^
+||timeryielding.com^
 ||tithewtog.com^
 ||tlkhzqmrg.com^
 ||tncomg.com^
