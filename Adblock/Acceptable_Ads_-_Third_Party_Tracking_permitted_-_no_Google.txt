@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fz1u9LOwGUIKXFI9//WTEQ
-! Version: 202104141400
+! Checksum: sWQFFTncZbMYAGy3ehGAcg
+! Version: 202104150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Apr 2021 14:00 UTC
+! Last modified: 15 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2813,7 +2813,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||pix.*.*.criteo.net^$domain=criteo.com
 @@||pix.criteo.net^$domain=criteo.com
 @@||static.criteo.net^$domain=criteo.com
-@@||criteo.net/js/ld/publishertag.js$script,domain=~gismeteo.ru|~yahoo.com|~mmo-champion.com|~giga.de
+@@||criteo.net/js/ld/publishertag.js$script,domain=~gismeteo.ru|~gismeteo.by|~yahoo.com|~mmo-champion.com|~giga.de
 @@||criteo.net/js/ld/publishertag.prebid.js$script,xmlhttprequest,domain=~cnnturk.com|~yahoo.com|~mmo-champion.com|~giga.de
 @@||bidder.criteo.com/csm^
 @@||ads.urban-media.com/js/19953022/prebid.js
@@ -7812,25 +7812,26 @@ sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides)
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=80277
 ! gismeteo.ru ads
-@@||an.yandex.ru/system/adfox.js$script,domain=gismeteo.ru
-@@||an.yandex.ru/system/widget.js$domain=gismeteo.ru
-@@||an.yandex.ru/jstracer?pcode_native^$xmlhttprequest,domain=gismeteo.ru
-@@||an.yandex.ru/adfox/$xmlhttprequest,domain=gismeteo.ru
-@@||yastatic.net/pcode/adfox^$script,domain=gismeteo.ru
-@@||yastatic.net/safeframe-bundles/*/host.js$domain=gismeteo.ru
-@@||creativecdn.com/bidder/adfox/bids^$xmlhttprequest,domain=gismeteo.ru
-@@||ads.adfox.ru^$xmlhttprequest,domain=gismeteo.ru
-@@||avatars.mds.yandex.net/get-direct^$image,domain=gismeteo.ru
-||criteo.net/js/ld/publishertag.js$script,domain=gismeteo.ru
-@@/px.gif?ch=1&rn=$domain=gismeteo.ru
-/px.gif?ch=2&rn=$domain=gismeteo.ru
-gismeteo.ru#@#.media_with_map > :not(.map_right)
-gismeteo.ru#@#[class^="media_"]:not(.media_with_map)
-gismeteo.ru###media-middle
-gismeteo.ru###media-bottom
-gismeteo.ru##.x90
-gismeteo.ru#@#.xby400
-gismeteo.ru#@##weather-right
+@@||an.yandex.ru/system/adfox.js$script,domain=gismeteo.ru|gismeteo.by
+@@||an.yandex.ru/system/widget.js$domain=gismeteo.ru|gismeteo.by
+@@||an.yandex.ru/jstracer?pcode_native^$xmlhttprequest,domain=gismeteo.ru|gismeteo.by
+@@||an.yandex.ru/adfox/$xmlhttprequest,domain=gismeteo.ru|gismeteo.by
+@@||yastatic.net/pcode/adfox^$script,domain=gismeteo.ru|gismeteo.by
+@@||yastatic.net/safeframe-bundles/*/host.js$domain=gismeteo.ru|gismeteo.by
+@@||creativecdn.com/bidder/adfox/bids^$xmlhttprequest,domain=gismeteo.ru|gismeteo.by
+@@||ads.adfox.ru^$xmlhttprequest,domain=gismeteo.ru|gismeteo.by
+@@||avatars.mds.yandex.net/get-direct^$image,domain=gismeteo.ru|gismeteo.by
+||criteo.net/js/ld/publishertag.js$script,domain=gismeteo.ru|gismeteo.by
+@@/px.gif?ch=1&rn=$domain=gismeteo.ru|gismeteo.by
+/px.gif?ch=2&rn=$domain=gismeteo.ru|gismeteo.by
+gismeteo.ru,gismeteo.by#@#.media_with_map > :not(.map_right)
+gismeteo.ru,gismeteo.by#@#[class^="media_"]:not(.media_with_map)
+gismeteo.ru,gismeteo.by###media-middle
+gismeteo.ru,gismeteo.by###media-bottom
+gismeteo.ru,gismeteo.by##.x90
+gismeteo.ru,gismeteo.by#@#.xby400
+gismeteo.ru,gismeteo.by#@##weather-right
+gismeteo.by#@#.x250imp
 !:partner_token=styleyourselfhub.com
 !:partner_id=e93499b07015a9b2
 !:type=partner
@@ -10604,6 +10605,7 @@ elperiodico.com#@#.adv-header
 @@||an.yandex.ru/system/adfox.js$script,domain=kp.ru
 kp.ru#@#div[id^="yandex_rtb"]
 kp.ru#@#div[data-slot-name]
+kp.ru##div[class*="styled__ContentBody"] > div[class*="styled__Advert-"]
 !:partner_token=Surfingbird
 !:partner_id=12071ed44b271043
 !:type=partner
