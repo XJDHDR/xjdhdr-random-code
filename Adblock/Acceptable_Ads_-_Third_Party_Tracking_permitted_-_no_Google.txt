@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 31LdF7btLQ0D0X0XwX+qRw
-! Version: 202104160200
+! Checksum: KgNzYG/lZyTWn2wOZMc8Xg
+! Version: 202104161400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Apr 2021 02:00 UTC
+! Last modified: 16 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2872,6 +2872,10 @@ thevarsity.ca#@#.ad-med-rect
 @@||static.faz.net^*/FAZ_secondary-info.min.js$domain=tagesspiegel.de|faz.net
 @@^sites/all/modules/custom/*_advertisement/assets/js/marketers/dfp/cpg_ads.ros.js$~third-party,domain=eatsmarter.de
 @@||cdn.adgtw.orangeads.fr/build/adgw-spa.min.js$script,domain=mappy.com
+@@||static.lefigaro.fr/figads/fgds-short-ttl.js$domain=lefigaro.fr
+@@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-content-js.c165.js$domain=lefigaro.fr
+@@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-script-js.2829.js$domain=lefigaro.fr
+@@||static.lefigaro.fr/figads/fgds-criteoService-cd0d6d29.js$domain=lefigaro.fr
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
@@ -6020,7 +6024,7 @@ slader.com#@#.ad.inner
 baseball-reference.com,chip.com.tr,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
 baseball-reference.com,basketball-reference.com,chip.com.tr,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad728
 21usdeal.com#@#.AD728
-lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
+walla.co.il,lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
 gamerlaunch.com#@#.adFrame
 dlisted.com#@#.adOuterContainer
 littlealchemy.com#@#.adTop
@@ -6331,7 +6335,7 @@ fossmint.com#@#.vce-ad-below-header
 latribuna.hn#@#.ads-text
 dolldivine.com#@#.adboxtop
 mingle2.com#@#.skyscraper_ad
-mingle2.com#@##topbannerad
+twitlonger.com,mingle2.com#@##topbannerad
 calcxml.com#@##oas_Top
 calcxml.com#@#.rightAd1
 howchoo.com#@#.ad--header
@@ -6481,6 +6485,9 @@ lecahier.com#@#.mobileAd
 lecoupdegrace.ca#@#.side-ads
 dotesports.com#@##top-billboard
 cyclingnews.com#@#.widget-ads
+walla.co.il#@#.adunitContainer
+walla.co.il#@#div[data-slot-name]
+cad-comic.com#@##ad-container-1
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
