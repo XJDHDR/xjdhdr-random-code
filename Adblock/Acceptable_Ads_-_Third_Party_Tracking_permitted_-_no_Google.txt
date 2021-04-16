@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VFo8iUmYaVBgskaEOiP0RQ
-! Version: 202104151400
+! Checksum: 31LdF7btLQ0D0X0XwX+qRw
+! Version: 202104160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Apr 2021 14:00 UTC
+! Last modified: 16 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7579,7 +7579,7 @@ amic.ru#@#div[id^="amic_banner_"]
 stadion.uz#@#div[class*="banner"]
 stadion.uz##div[id*="banner"]:not(#left_middle_banner)
 footballhd.ru#@#.lastnewscat:-abp-has(> [id*="ScriptRoot"])
-footballhd.ru#@#a[href*="lentainform.com/pnews/"]
+footballhd.ru,click-test.com#@#a[href*="lentainform.com/pnews/"]
 sindonews.com#@#.adsload
 meragk.in##AMP-AD:not([data-widget="925353"])
 meragk.in#@#AMP-AD
