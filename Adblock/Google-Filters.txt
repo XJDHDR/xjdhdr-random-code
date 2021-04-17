@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LZ0DnA1aRIVbghb86Az7+w
-! Version: 202104170200
+! Checksum: qLNBbLBPoKUnW/q552m9Cg
+! Version: 202104171400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 Apr 2021 02:00 UTC
+! Last modified: 17 Apr 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1245,7 +1245,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||2020mustang.com^
 ||86pqvhdw5wpg.com^
 ||98bf9h8jbg.com^
-||aaqpsddtjnsmug.com^
 ||admob.com^
 ||adtng.com^
 ||advmaiotg.com^
@@ -1293,7 +1292,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||disloyalmeddling.com^
 ||disorderpoking.com^
 ||displayvertising.com^
-||dkecozphug.com^
 ||dlzm790g.com^
 ||dorothydrawing.com^
 ||dostophog.com^
@@ -1319,7 +1317,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||fairyceiling.com^
 ||faqrdrkwdhqgug.com^
 ||fdnfnqgmfykg.com^
-||fdofosytszg.com^
 ||fdxdjkswppg.com^
 ||feintstrainhog.com^
 ||fertilizeranaemiaupcoming.com^
@@ -1331,7 +1328,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||folksattunewig.com^
 ||fosterheiressdug.com^
 ||fourthug.com^
-||foydnzdtjcjg.com^
 ||fsvulvfqg.com^
 ||fthkmwrkqg.com^
 ||fzehxxsdxyfg.com^
@@ -1358,6 +1354,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||iutkryvnixptlg.com^
 ||jmykbogg.com^
 ||joyvowdig.com^
+||jswxwofumjg.com^
 ||jyagyffnbysg.com^
 ||jzhzm30o49gv.com^
 ||kesmdg.com^
@@ -1422,7 +1419,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||psoomeeg.com^
 ||pvptwhhkfmog.com^
 ||pxmyjxebxgv.com^
-||pycmdgig.com^
 ||pz7zrn0xxgyg.com^
 ||q6idnawboy7g.com^
 ||qgkmjpgwg.com^
@@ -1497,20 +1493,17 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||willowmutilatebanking.com^
 ||wityamdog.com^
 ||wizliebeg.com^
-||wjeeqkdbjsg.com^
 ||wkcuhilbg.com^
 ||wmruzfvtg.com^
 ||worsterring.com^
 ||worthyadvertising.com^
 ||wredmtmvkjbg.com^
-||wvesvozyuoxg.com^
 ||xdobkqqg.com^
 ||xxutoyreg.com^
 ||yachtpreceding.com^
 ||ycczhbzoyseg.com^
 ||yegsrmqqpg.com^
 ||yr9n47004g.com^
-||zmasxytjskg.com^
 ||znaptag.com^
 ||zwnxzckwihg.com^
 ||zzdb5p4upiug.com^
@@ -2906,6 +2899,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|kakuyomu.jp|sankei.com
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
+@@||delet.jhi.pl/bower_components/angular-google-analytics/$script,~third-party
 @@||google-analytics.com/analytics.js$domain=skaties.lv
 @@||google-analytics.com/analytics.js$domain=tv3play.no
 @@||googletagmanager.com/gtm.js$script,domain=telia.no
