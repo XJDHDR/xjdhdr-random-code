@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zl7RZUGC5riPJwXQh5xf7Q
-! Version: 202104161400
+! Checksum: gzj3/4wtJDq10ASFknRnrQ
+! Version: 202104170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 16 Apr 2021 14:00 UTC
+! Last modified: 17 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5920,7 +5920,7 @@ irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
 heroesfire.com,owfire.com,smitefire.com#@#.ad-break
 queerty.com,buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
-greatschools.org#@#.ad-column
+arcamax.com,greatschools.org#@#.ad-column
 broadwayworld.com#@#.ad-desktop
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
@@ -6424,6 +6424,7 @@ cyclingnews.com#@#.widget-ads
 walla.co.il#@#.adunitContainer
 walla.co.il#@#div[data-slot-name]
 cad-comic.com#@##ad-container-1
+aternos.org#@#.ad-dfp
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -7280,6 +7281,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/images/pixel.gif?ch=1$third-party
 express.co.uk,nigella.com##div[block^="true"]
 londontheinside.com#@#.widget_ad_widget
+thepostmillennial.com##.article-content .mot
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
