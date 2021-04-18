@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BeHn+A9F6Oa+7eiwzQQ5dw
-! Version: 202104180200
+! Checksum: TDETX4dkNIVHC6vxErl3TQ
+! Version: 202104181400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Apr 2021 02:00 UTC
+! Last modified: 18 Apr 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1860,7 +1860,7 @@ investing.com###mainPopUpContainer
 mostlyblogging.com###media_image-5
 ginbig.com,rushlane.com###message_box
 theweedblog.com###meteor-slides-widget-3
-mmorpg.com###mmorpg_300x250_1
+mmorpg.com###mmorpg_desktop_list_1
 bounty.com,carpages.co.uk,consobaby.co.uk,gumtree.com,icreatemagazine.com,lbc.co.uk,metalhammer.co.uk,nickjr.co.uk,pcgamingwiki.com,sportinglife.com,taletela.com,thatgrapejuice.net,thefootballnetwork.net,tv.com,webdesignermag.co.uk,zoopla.co.uk###mpu
 whatshappening.com.ph###mrecCarousel
 irishracing.com###naobox
@@ -1951,14 +1951,14 @@ mcpmag.com##.xContent
 swarajyamag.com##[class*="page-top-adv-wrapper"]
 swarajyamag.com##[class^="banner-ad-"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,dailypost.ng,digitallydownloaded.net,downturk.net,elitepvpers.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,techspot.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
-mmorpg.com##[href^="https://www.blackdesertonline.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 livejournal.com##div[data-google-query-id]
 9gag.com##div[style*="width: 500px; height: 281px;"]
 googletutor.com##div[style="width:125px;text-align:center;"]
-stopmalvertising.com##div[style="width:728px;height:90px;margin:0 auto;padding:0;text-align:center;margin-bottom:32px;"]
+google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^=jsx-]
+interglot.com,stopmalvertising.com##div[style^="width:728px;"]
 pointblanknews.com,sharktankblog.com##img[height="60"]
 nsfwyoutube.com##img[src*="data"]
 bigeye.ug,breakingbelizenews.com,espnrichmond.com,naijaloaded.com.ng,punchng.com,techpowerup.com,theolivepress.es,therep.co.za##img[width="300"]
@@ -2098,7 +2098,7 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 hentai-imperia.org,naughtyblog.org##a[href^="http://goo.gl/"]
 alotporn.com##a[href^="http://www.fling.com/"]
 myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
-8boobs.com,alrincon.com,boobieblog.com,thenipslip.com,wetpussygames.com##canvas
+8boobs.com,alrincon.com,boobieblog.com,porngames.club,thenipslip.com,wetpussygames.com##canvas
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
 @@||banmancounselling.com/wp-content/themes/banman/
 @@||clients*.google.com/adsense/*?key=$domain=~calcalist.co.il|~gaytube.com|~mako.co.il|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~walla.co.il|~xtube.com|~ynet.co.il|~youjizz.com|~youporn.com|~youporngay.com
