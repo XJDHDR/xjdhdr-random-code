@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K4hqhWspjVeikRw9aUAkRA
-! Version: 202104190200
+! Checksum: eb9CMmbDLKTKoz4g4j/AXw
+! Version: 202104191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Apr 2021 02:00 UTC
+! Last modified: 19 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1549,6 +1549,7 @@ fincalculator.ru#@#.adv-border
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||patgsrv.com/c/hobi.ba.js$script,domain=hobi.ba
 @@||patgsrv.com/c/cluj24.ro.js$script,domain=cluj24.ro
+@@||patgsrv.com/c/arabiaweather.js$script,domain=arabiaweather.com
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=skai.gr|newsbreak.gr|ciao.ro
 @@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
@@ -5799,7 +5800,7 @@ dailywire.com#@#div[style^="width: 728px;"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
 ! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
-psychcentral.com,letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
+timecardcalculator.net,calculatorsoup.com,psychcentral.com,letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
 cnn.com#@##Adbanner
 westeros.org#@##FooterAd
 aftvnews.com#@##footerad
@@ -6343,7 +6344,7 @@ topsante.com#@#.dfp-slot-bas-banniere
 goldderby.com,deadline.com#@#.markplace-ads
 goldderby.com,deadline.com#@#.marketplace-ad
 isitdownrightnow.com#@#.ad336
-virtualpiano.net#@#.bottom-ad
+hunt4freebies.com,virtualpiano.net#@#.bottom-ad
 theartstory.org#@#.ad-160x600
 theartstory.org#@#.ad-728x90
 newsbomb.gr,theartstory.org#@#.ad-wide
@@ -6425,6 +6426,15 @@ walla.co.il#@#.adunitContainer
 walla.co.il#@#div[data-slot-name]
 cad-comic.com#@##ad-container-1
 aternos.org#@#.ad-dfp
+dailyvoice.com#@#.b-banner
+fantasysharks.com#@#div[id^="ads300_250-widget"]
+fantasysharks.com#@#.e3lan
+fantasysharks.com#@#.e3lan-cell
+fantasysharks.com#@#.e3lan-top
+fantasysharks.com#@#.e3lan-widget-content
+fantasysharks.com#@#.e3lan300-250
+timecardcalculator.net#@##AdTop
+timecardcalculator.net#@#.pageAds
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6676,8 +6686,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||snigelweb.com/adengine^*^loader.js$domain=askmefast.com|officearticles.com|online-tech-tips.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
-@@||snigelweb.com/*/adngin.js$domain=askmefast.com|officearticles.com|online-tech-tips.com|raymond.cc|online-tech-tips.com
+@@||snigelweb.com/adengine^*^loader.js$domain=askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||snigelweb.com/*/adngin.js$domain=askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6709,7 +6719,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
-@@^js/upload/prebid.js^$script,~third-party,domain=pdfwonder.com|sportsspotter.com
+@@^js/upload/prebid.js^$script,~third-party,domain=people-today.com|pdfwonder.com|sportsspotter.com
 @@||z.moatads.com/addthismoatframe*/moatframe.js$domain=inquisitr.com
 @@||app.medyanetads.com/dfp.js$domain=posta.com.tr|fanatik.com.tr
 @@||app.medyanetads.com/w.js$domain=posta.com.tr|fanatik.com.tr
@@ -6738,6 +6748,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@^api/adunits^$~third-party,domain=foodtalkdaily.com|upstyledaily.com
 @@^ads/prebid/prebid.js$~third-party,domain=letsrun.com
 @@||*-cdn.tracker.network/prebid.*tracker-network.js$script,domain=r6.tracker.network
+@@||calculatorsoup.com/scripts/asc_prebid.js$script,domain=calculatorsoup.com
+@@||timecardcalculator.net/scripts/asc_prebid-new.js$script,domain=timecardcalculator.net
 ! Default filters for long domain lists
 !
 !
@@ -8570,7 +8582,7 @@ agame.com#@#.ad-mpu
 firstpost.com#@#.ad-section
 agame.com#@#.ad-skyscraper
 washingtontimes.com#@#.ad-slot
-biggeekdad.com#@#.ad-tag
+theblaze.com,biggeekdad.com#@#.ad-tag
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-top
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-top-banner
 hellhorror.com,avclub.com,clickhole.com,deadspin.com,forbes.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-unit
@@ -8695,8 +8707,8 @@ nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postm
 nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad__placeholder
 nationalpost.com,financialpost.com,lfpress.com,lfpress.assistpub.com,stage.postmedia.digital,dev.postmedia.digital#@#.ad-refresh
 gamepress.gg#@#.top-ad-desktop
-gamepur.com,chess.com#@#.banner_slot
-gamepur.com,chess.com#@#.postad
+theblaze.com,gamepur.com,chess.com#@#.banner_slot
+theblaze.com,gamepur.com,chess.com#@#.postad
 chess.com#@##content-ad
 chess.com#@#.short-sidebar-ad-bottom
 chess.com#@#.short-sidebar-ad-component
@@ -8710,7 +8722,7 @@ chess.assistpub.com,chess.com#@#.index-content-ad-wrapper
 motorsport.com#@#.ms-apb-dmpu
 timesofindia.indiatimes.com#@#.ad-widget
 djhungama.net,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamrreview.com,lolcounter.com,rodalenews.com,timesofindia.com,weathernationtv.com,webmaster-source.com#@#.ad1
-thegreggjarrett.com,charliekirk.com,charliekirk.assistpub.com#@#div[id^="rc-widget-"]
+theblaze.com,thegreggjarrett.com,charliekirk.com,charliekirk.assistpub.com#@#div[id^="rc-widget-"]
 sammobile.com#@#.g-39
 sammobile.com#@#.g-32
 sammobile.com#@#.g-30
