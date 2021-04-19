@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TDETX4dkNIVHC6vxErl3TQ
-! Version: 202104181400
+! Checksum: tFhWOeZ5V3T+LKcC9LNl7w
+! Version: 202104190200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 18 Apr 2021 14:00 UTC
+! Last modified: 19 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1606,9 +1606,9 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||videoegg.com^$third-party
 ||wlmarketing.com^$third-party
 ||atresadvertising.com^$third-party
-||ad-apac.doubleclick.net^$popup,third-party
-||ad-emea.doubleclick.net^$popup,third-party
-||ad.doubleclick.net/ddm/trackclk/$popup,third-party
+||ad-apac.doubleclick.net^$popup
+||ad-emea.doubleclick.net^$popup
+||ad.doubleclick.net/ddm/trackclk/$popup
 ||adtng.com^$popup
 ||bravo-dog.com^$popup
 ||cm.g.doubleclick.net^$popup
@@ -1617,10 +1617,10 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||focuusing.com^$popup
 ||friendlyduck.com^$popup
 ||googleads.g.doubleclick.net^$popup
-||integral-marketing.com^$popup,third-party
-||maomaotang.com^$popup,third-party
+||integral-marketing.com^$popup
+||maomaotang.com^$popup
 ||media-serving.com^$popup
-||mediaseeding.com^$popup,third-party
+||mediaseeding.com^$popup
 ||openadserving.com^$popup
 ||pegloang.com^$popup
 ||pixelsfighting.co^$popup
