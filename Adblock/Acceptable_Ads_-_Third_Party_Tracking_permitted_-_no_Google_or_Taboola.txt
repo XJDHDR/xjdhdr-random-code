@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oi5DfAbmenEZeWCujRkZGQ
-! Version: 202104200200
+! Checksum: 1xFoc2haiQKfSO9wrKIlhA
+! Version: 202104201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Apr 2021 02:00 UTC
+! Last modified: 20 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6516,6 +6516,7 @@ medicalnewstoday.com###inline1__slot
 dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com##.code-block
+1001freefonts.com#@#.footerPageAds
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6659,7 +6660,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adxbid.info^$script,domain=pink.rs|depo.ba|novi.ba
 @@||hometalk.com/resources/combined/js/prebid-default-cacheBids.$domain=hometalk.com
 @@||hometalk.com/api/adunits^$xmlhttprequest,domain=hometalk.com
-@@||static.bigpipes.co/v*/sites^$script,domain=lecoupdegrace.ca|lecahier.com|toutsurlehockey.com|je-decore.com|nightlife.ca|tonpetitlook.com|tplmoms.com|tonbarbier.com|danslescoulisses.com|5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
+@@||static.bigpipes.co/v*/sites^$script,domain=jolijolidesign.com|lecoupdegrace.ca|lecahier.com|toutsurlehockey.com|je-decore.com|nightlife.ca|tonpetitlook.com|tplmoms.com|tonbarbier.com|danslescoulisses.com|5ingredients15minutes.com|beachnewseveryday.com|cliqueduplateau.com|hollywoodpq.com
 @@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
@@ -6719,7 +6720,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
-@@^js/upload/prebid.js^$script,~third-party,domain=people-today.com|pdfwonder.com|sportsspotter.com
+@@^js/upload/prebid.js^$script,~third-party,domain=factahead.com|people-today.com|pdfwonder.com|sportsspotter.com
 @@||z.moatads.com/addthismoatframe*/moatframe.js$domain=inquisitr.com
 @@||app.medyanetads.com/dfp.js$domain=posta.com.tr|fanatik.com.tr
 @@||app.medyanetads.com/w.js$domain=posta.com.tr|fanatik.com.tr
@@ -6733,7 +6734,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||ad.medyanetads.com/adservice/adservice.js$script,domain=fanatik.com.tr|posta.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
-@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=greedyfinance.com|soo-healthy.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com|reverso.net
+@@||cdn.jsdelivr.net/gh/prebid/currency-file$domain=factahead.com|people-today.com|greedyfinance.com|soo-healthy.com|trendscatchers.co.uk|trendscatchers.de|trendscatchers.io|trendscatchers.com|travelcatchers.fr|travelcatchers.de|indeedfinance.com|reverso.net
 @@||scripts.static-od.com/setup/?site=$domain=paruvendu.fr
 @@||sac.ayads.co/sublime/31128/prebid$domain=paruvendu.fr
 @@||optchk.ayads.co/?callback=sublimeCb$domain=paruvendu.fr
@@ -7404,6 +7405,7 @@ cryptorival.com#@##header-ad
 cryptorival.com#@##banner-ad
 swordscomic.com#@##ad-banner
 tryspree.com#@#.top-ad
+awebanalysis.com#@#.ads-right
 ! Hidden for compliance
 jscompress.com###bsa-zone_1572364402444-3_123456
 !:partner_token=bestecode.com
@@ -7476,6 +7478,7 @@ riafan.ru#@#a[href*="utm_campai"]
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
 @@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
 @@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
+@@||mgid.com^$popup,domain=rostov.tsargrad.tv
 ! Idealmedia ads
 @@||idealmedia.io$csp=script-src self
 @@||idealmedia.io/pnews/$csp=script-src self
@@ -8489,7 +8492,8 @@ testpages.adblockplus.org#@##abptest
 @@||acdn.adnxs.com/prebid/c/9779_zeta/pb.js$domain=sport.es
 @@||twt-assets.washtimes.com/v4/js/ads/config$domain=washingtontimes.com
 @@/ad-api/*$domain=menshealth.com|menshealth.assistpub.com|delish.com|delish.assistpub.com
-@@^ads/dynamicAds.js$~third-party,domain=techadvisor.co.uk|macworld.co.uk
+@@^ads/dynamicAds.js$~third-party,script,domain=macworld.es|pcworld.es|webwereld.nl|digitalartsonline.co.uk|techadvisor.co.uk|macworld.co.uk
+@@^ads/afterImgAds.js$~third-party,script,domain=digitalartsonline.co.uk
 @@||gateway.reddit.com/desktopapi/*/comments_page_ads^$domain=reddit.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
@@ -8887,6 +8891,8 @@ yahoo.com#@#.viewer-sda-container
 @@||amazon-adsystem.com/s/iu3^$subdocument,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics.min.js$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/x/px/$xmlhttprequest,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||ssl-images-amazon.com/*/ape/la/desktop/ApeDLA-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||m.media-amazon.com/images^*&ape_al=true^$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
