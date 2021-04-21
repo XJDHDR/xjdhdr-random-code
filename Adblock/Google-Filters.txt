@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QI+KBkYCrcUsgvMrGbqd3g
-! Version: 202104210200
+! Checksum: uoVrAqiV4Ftctk2rEAvTAA
+! Version: 202104211400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Apr 2021 02:00 UTC
+! Last modified: 21 Apr 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2714,6 +2714,14 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||googleapis.com^*/gen_204?$domain=tellows.de
 ||googletagmanager.com/gtm.js?$domain=autobild.de|transfermarkt.de
 ||wt-safetag.com^$domain=stern.de
+||plauplauplau.app.budg.co^
+||plauplauplau.budg.co^
+||plausible.benscarblog.com^
+||stats.changelog.com^
+||stats.jackwhiting.co.uk^
+||stats.learnappmaking.com^
+||stats.readng.co^
+||stats3.ferheng.co^
 ||c0012.brsimg.com^
 ||metrics.automobilemag.com^
 ||metrics.bloomberg.com^
@@ -2763,7 +2771,6 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||mkt.pushspring.com^
 ||seniorliving.theridgeseniorliving.com^
 ||service.frankwatching.com^
-||tr.emailing.coe.int^
 ||detnmz.livestrong.com^
 ||detnmz.sciencing.com^
 ||dwbotr.ssg.com^
@@ -2773,15 +2780,54 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||soxnwz.lg.com^
 ||teraes.hgreg.com^
 ||yfhauq.bodybuilding.com^
+||bldr.mkt.samsung.com^
 ||catracking.finning.com^
+||channelusa.samsung.com^
+||forms.b.oncourselearning.com^
+||gbtracking.finning.com^
+||info.commercial.keurig.com^
 ||landing.computershare.com^
 ||log.cognex.com^
+||satracking.finning.com^
 ||seao.business.samsung.com^
+||tracking.columbiabank.com^
+||tracking.oceaneering.com^
 ||trk.darkreading.com^
 ||trk.networkcomputing.com^
+||webtracking.moneylaundering.com^
 ||webtracking.oncourselearning.com^
-||dv59b.montecarlomeeting.com^
-||alga9frog.com^
+||bc.bannerengineering.com^
+||biz-info.fielding.co.jp^
+||content.awaze.com^
+||engage.wearemarketing.com^
+||fairy.wfairyg.com^
+||go.advantage.zpg.co.uk^
+||go.americanlaboratorytrading.com^
+||go.avisonyoung.com^
+||go.cadlog.com^
+||go.creelighting.com^
+||go.dainichi-eng.co.jp^
+||go.domino-printing.com^
+||go.ezfreightfactoring.com^
+||go.falconfastening.com^
+||go.getsling.com^
+||go.groupemyconnecting.com^
+||go.helplightning.com^
+||go.honestreporting.com^
+||go.jlg.com^
+||go.labelsandlabeling.com^
+||go.lakeshorelearning.com^
+||go.newton-consulting.co.jp^
+||go.penguincomputing.com^
+||go.simplertrading.com^
+||go.stemmer-imaging.com^
+||go.turning.com^
+||go.valuesccg.com^
+||google.pluto7.com^
+||grow.purelansing.com^
+||imagination.aimementoring.com^
+||info.clariongaming.com^
+||net1.coolsailing.com^
 ||raab3frog.com^
 ||yirr5frog.com^
 ||superfunblog.com/stats/stats.php

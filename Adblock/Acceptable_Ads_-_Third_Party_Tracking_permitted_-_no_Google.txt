@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wB0HOpFziMykpCwebUnjSg
-! Version: 202104210200
+! Checksum: f2XYH8IowTA6AHK6nAjjNQ
+! Version: 202104211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Apr 2021 02:00 UTC
+! Last modified: 21 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5834,7 +5834,6 @@ dailywire.com#@#div[style^="width: 728px;"]
 @@||hb.vntsm.com^*/live/$script,xmlhttprequest,domain=venatusmedia.com
 @@||ib.3lift.com/xuid^$image,third-party
 @@||lijit.com/bidder/impression
-@@||massariuscdn.com/pubs/ajaxshowtime/ajaxshowtime_adtech_setup.js$domain=ajaxshowtime.com
 @@||secure.adnxs.com/getuid^$image,third-party
 @@||secure.adnxs.com/mapuid^$image,third-party
 @@||secure.adnxs.com/px^$image,third-party
@@ -6192,7 +6191,7 @@ kicksonfire.com,fossbytes.com#@#.td-header-ad-wrap
 zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.text-ad
 civfanatics.com#@#.themonic-ad2
 thesimsresource.com#@#.top-300-ad
-whosampled.com,brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
+theblaze.com,whosampled.com,brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
 digitaltrends.com,wnd.com#@#.top-ad-container
 aljazeera.com#@#.top-adv
 skijumping.pl#@#.top-advertisement
@@ -6499,6 +6498,7 @@ fantasysharks.com#@#.e3lan-widget-content
 fantasysharks.com#@#.e3lan300-250
 timecardcalculator.net#@##AdTop
 timecardcalculator.net#@#.pageAds
+metservice.com#@#.Header
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6581,6 +6581,7 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com##.code-block
 1001freefonts.com#@#.footerPageAds
+theblaze.com#@##top_ad_banner
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6611,7 +6612,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=shliza.com|epiqlife.com|tradingdraft.com|foodfortravel.com|mindfulgazette.com|simpleblitz.com|economicr.com|scientificfeed.com|dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
 @@||dronedj.com^*/assets/js/vendor/prebid1.$script
 @@||electrek.co^*/assets/js/vendor/prebid1.$script
-@@||global.proper.io/payloads/latest.js$domain=progameguides.com|touchtapplay.com
+@@||global.proper.io/payloads/latest.js$domain=gamepur.com|progameguides.com|touchtapplay.com
 @@||bids.proper.io/api/bidding$domain=progameguides.com|dotesports.com|gamepur.com|touchtapplay.com
 @@||eb.proper.io/s2s^$domain=progameguides.com|dotesports.com|gamepur.com|touchtapplay.com
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
@@ -6621,7 +6622,7 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||jscdn.yieldbird.com^$script,third-party,xmlhttprequest,domain=dziennik.pl|infor.pl|gazetaprawna.pl|forsal.pl|jastrzabpost.pl|merca20.com|allani.pl|anlikaltinfiyatlari.com|bestcraftsandrecipes.com|capitalmexico.com.mx|cas.sk|ddwloclawek.|ddwloclawek.pl|dennikn.sk|domodi.pl|elgrafico.mx|expresskaszubski.pl|fcbarca.com|gostyn24.pl|hejmielec.pl|homebook.pl|homegardendiy.com|homelook.it|iszczecinek.pl|jooble.org|klp.pl|ladnydom.pl|leszno24.pl|littlealchemy.com|littlealchemy2.com|livinggreenandfrugally.com|meczyki.pl|menicka.cz|mielec.pl|mojewypieki.com|nyheteridag.se|obrazovaka.ru|omnicalculator.com|paraloscuriosos.com|podaj.to|popularne.pl|portalplock.pl|quizowa.pl|realmadryt.pl|rmf24.pl|rozklad-pkp.pl|salon24.pl|skijumping.pl|therighthairstyles.com|trinixy.ru|tusochaczew.pl|twoplayergames.org|windowsreport.com|wyborcza.pl|yesasia.ru|zakon.kz|zdravie.sk
 @@||keytarget.adnet.lt/stable$script,third-party,xmlhttprequest,domain=118.lt|basketnews.lt|bernardinai.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt|sena.lt|supermama.lt|tax.lt|technologijos.lt|ve.lt
 @@||keytarget.adnet.lt/stable/keytarget.min.js$script,domain=basketnews.lt|delfi.ee|delfi.lt|delfi.lv|draugas.lt
-@@||massariuscdn.com/pubs/*_adtech_setup.js$domain=vandal.elespanol.com|f1maximaal.nl|ajaxshowtime.com
+@@||massariuscdn.com/pubs^$domain=vandal.elespanol.com|f1maximaal.nl|ajaxshowtime.com
 @@||massariuscdn.com/prod/prebid$domain=vandal.elespanol.com
 @@||prod.adspsp.com/adb.$domain=gfycat.com|yourdictionary.com
 @@||rackcdn.com/ads/prebid.js$script,domain=vinted.pl
@@ -6751,8 +6752,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||snigelweb.com/adengine^*^loader.js$domain=askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
-@@||snigelweb.com/*/adngin.js$domain=askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
+@@||snigelweb.com/adengine^*^loader.js$domain=helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||snigelweb.com/*/adngin.js$domain=helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -8032,6 +8033,8 @@ newsmonkey.be#@#[id^="div-gpt-ad"]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=79450
 ! Quora.com ads
 @@||quora.com^$elemhide
+@@||quora.com/ads/eyeo?ch=1&rn=$image,domain=quora.com
+||quora.com/ads/eyeo?ch=2&rn=$image,domain=quora.com
 !:partner_token=wiesentbote.de
 !:partner_id=3b48d0b86a51592a
 !:type=partner
