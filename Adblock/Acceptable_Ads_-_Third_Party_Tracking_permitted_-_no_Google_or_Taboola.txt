@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1xFoc2haiQKfSO9wrKIlhA
-! Version: 202104201400
+! Checksum: OBVkGDv2FCy6ZY++lb1L+Q
+! Version: 202104210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Apr 2021 14:00 UTC
+! Last modified: 21 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6715,8 +6715,8 @@ trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,trav
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 ||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
-@@||kumo.network-n.com/dist/latest/gpt.js$domain=thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/dist/latest/prebid.js$domain=thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/gpt.js$domain=pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/prebid.js$domain=pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
