@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IgI5texOGnsS7VPTSs8vXA
-! Version: 202104220200
+! Checksum: CpoETIiFznGIyV8mMyLQ8Q
+! Version: 202104221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 22 Apr 2021 02:00 UTC
+! Last modified: 22 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1246,6 +1246,8 @@ focus.de##.Ads_4
 nationalinterest.org##.ad--center
 mako.co.il##div[data-widget-id='VR_2']
 walla.co.il#@#.ads-mail-cube
+! Hidden for compliance
+linternaute.com##.OUTBRAIN[data-widget-id="SF_1"]
 !:partner_token=glavpoezdrus.ru
 !:partner_id=bfd7769575cd5623
 !:type=partner
@@ -3988,6 +3990,13 @@ sberometer.ru,maxi-karta.ru,xn--80aapkb3algkc.xn--p1ai,audit-it.ru,maxikarta.ru,
 ! studentdoctor.net and forums.studentdoctor.net ads
 @@||studentdoctor.net/wp-content/themes/fps-studentdoctor/ads.php$subdocument,domain=studentdoctor.net
 @@||rackcdn.com/ads/$image,domain=forums.studentdoctor.net
+!:partner_token=System1 parking
+!:partner_id=caf961246c82170a
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=42837
+@@*$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
+@@/px.js?ch=1$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
 !:partner_token=almodi.org
 !:partner_id=d6a2827425749dfd
 !:type=partner
@@ -7570,6 +7579,7 @@ tsn.ua#@#[data-partners-iframe]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
 3djuegos.com#@##dst_pub_728
+@@||api.unblockia.com/api/sites/0/config.json^$domain=varta1.com.ua|seo-fast.ru|newsyou.info
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
