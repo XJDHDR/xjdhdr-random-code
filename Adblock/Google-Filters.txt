@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uoVrAqiV4Ftctk2rEAvTAA
-! Version: 202104211400
+! Checksum: fNJrzWUPT/YspSFlVQTSxg
+! Version: 202104220200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Apr 2021 14:00 UTC
+! Last modified: 22 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1183,6 +1183,7 @@ _reklama_$domain=~youtube.com
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://syndication.dynsrvtbg.com/splash.php?"]
 ##a[href^="https://tracking.comfortclick.eu/"]
+##a[href^="https://wittered-mainging.com/"]
 ##a[href^="https://www.friendlyduck.com/AF_"]
 ##a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
@@ -2138,6 +2139,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||yimg.com/rq/darla/*/g-r-min.js$domain=yahoo.com
 @@||yimg.com/ss/rapid-3.53.3.js$domain=aol.com
 @@||yimg.com/ss/rapid3.js$script,domain=aol.com
+! wordpress.org https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/
 @@||bing.com/shop$generichide
 @@||bing.com/search?$generichide
 @@||www.google.*/search?$generichide
