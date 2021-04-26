@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NaF0D8ssN3tzYvOu3HAb1A
-! Version: 202104251400
+! Checksum: tWA8CvcCU2Sv1OtehyrBfg
+! Version: 202104260200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Apr 2021 14:00 UTC
+! Last modified: 26 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1287,7 +1287,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||cpacoreg.com^
 ||cpalabtracking.com^
 ||creative-serving.com^
-||csnqzwwdtjg.com^
 ||ctjvkaqiekquag.com^
 ||dcop4khjxsmg.com^
 ||deductdoorwayfig.com^
@@ -1303,7 +1302,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||dostophog.com^
 ||doubleclick-net.com^
 ||doubleclickbygoogle.com^
-||dppeusog.com^
 ||dwczfwnjg.com^
 ||dyingdesignscharming.com^
 ||dynamitematerialisticwriting.com^
@@ -1389,7 +1387,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||mh9dskj8jg.com^
 ||minorexportshopping.com^
 ||missiontestamentinterfering.com^
-||mkgosjtrbhag.com^
 ||mkomrzsizvjdg.com^
 ||mlnadvertising.com^
 ||mnbvjhg.com^
@@ -1459,7 +1456,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||spedhowusing.com^
 ||splashfloating.com^
 ||springcorridorworking.com^
-||srrxzmcsg.com^
 ||stargoug.com^
 ||stepmotherillegaldepressing.com^
 ||stoutoffering.com^
@@ -1473,7 +1469,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||testamentfendsounding.com^
 ||thegreenzoneblog.com^
 ||third-tracking.com^
-||thuneagjhnvlg.com^
 ||tieecstasythrong.com^
 ||timbercooling.com^
 ||timeryielding.com^
