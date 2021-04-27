@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 73vYVWDamABZdn4WoBingA
-! Version: 202104261400
+! Checksum: szp3lUcsbQ5BEY+U93wuMw
+! Version: 202104270200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 Apr 2021 14:00 UTC
+! Last modified: 27 Apr 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2356,13 +2356,7 @@ _GoogleTagManager2/
 ||copperegg.com^$third-party
 ||crazyegg.com^$third-party
 ||distiltag.com^$third-party
-||doubleclick.net/activity$third-party
-||doubleclick.net/imp%$third-party
-||doubleclick.net/imp;$third-party
-||doubleclick.net/json?$third-party
-||doubleclick.net/pixel?$third-party
-||doubleclick.net^$image,third-party
-||doubleclick.net^*/trackimp/$third-party
+||doubleclick.net^$third-party
 ||dsparking.com^$third-party
 ||exactag.com^$third-party
 ||factortg.com^$third-party
@@ -2478,7 +2472,6 @@ _GoogleTagManager2/
 ||analytics.threedeepmarketing.com^
 ||attributiontrackingga.googlecode.com^
 ||bat.bing.com^
-||bid.g.doubleclick.net^
 ||bing.com/aclick/$third-party
 ||bing.com/action/
 ||blogblog.com/tracker/
@@ -2488,7 +2481,6 @@ _GoogleTagManager2/
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||clouderrorreporting.googleapis.com^
-||cm.g.doubleclick.net^
 ||compendiumblog.com/sp.js
 ||crm-vwg.com/tracker/
 ||csi.gstatic.com^
@@ -2532,7 +2524,6 @@ _GoogleTagManager2/
 ||s.pinimg.com/ct/core.js
 ||smg.com/Etrack/
 ||stats.bluebillywig.com^
-||stats.g.doubleclick.net^
 ||targeting.*.arcpublishing.com^
 ||tcheck.outbrainimg.com^
 ||tr.marsflag.com^
@@ -2549,6 +2540,8 @@ _GoogleTagManager2/
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
+||bigdata.ssp.samsung.com^
+||insights.samsung.com^
 ||calotag.com^$third-party
 ||tmgr.ccmbg.com^
 ||hudong.com/flux.js
