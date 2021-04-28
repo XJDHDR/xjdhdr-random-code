@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IpvLxjcKPuTao9VwS1KgkQ
-! Version: 202104280200
+! Checksum: rNKG77Ly4ixLNcK1xm+BdQ
+! Version: 202104281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Apr 2021 02:00 UTC
+! Last modified: 28 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8580,9 +8580,7 @@ testpages.adblockplus.org#@##abptest
 ||speedtest.net/javascript/adsjs.js$script,domain=speedtest.net
 ||cdn2.downdetector.com^*/javascript/adsjs.js$script,domain=downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr|downdetector.ru|allestoringen.nl|allestoerungen.at|allestoringen.be|allestoerungen.ch|allestoerungen.de|xn--allestrungen-9ib.de
 ||redditstatic.com/desktop2x/js/xads.js$domain=reddit.com
-@@||thunderdom-v1.sftapi.com/publishers/windowsreport.js$domain=windowsreport.com
-@@||thunderdom-v1.sftapi.com/publishers/lelogicielgratuit.js$domain=lelogicielgratuit.com
-@@||thunderdom-v1.sftapi.com/publishers/toucharger.js$domain=toucharger.com
+@@||thunderdom-v1.sftapi.com/publishers^$script,domain=filehorse.com|windowsreport.com|lelogicielgratuit.com|toucharger.com
 @@||spn-v1.revampcdn.com/publishers^$script,domain=softonic.com|filehorse.com|toucharger.com|lelogicielgratuit.com|windowsreport.com
 /javascript/ad.js$script,~third-party,domain=timesofindia.indiatimes.com|economictimes.indiatimes.com|navbharattimes.indiatimes.com|vijaykarnataka.com|maharashtratimes.com|iamgujarat.com|eisamay.indiatimes.com|malayalam.samayam.com|tamil.samayam.com|telugu.samayam.com
 @@||cdn.atf-tagmanager.de/dist/prebid.js$domain=bunte.de
@@ -8721,7 +8719,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-shaft
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-wrapper
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.dfp
-billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
+dilei.it,quifinanza.it,billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
 stuff.co.nz#@#.display-ad
 seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
@@ -8883,8 +8881,11 @@ insidermonkey.com#@#.ad-horizontal-top
 insidermonkey.com#@##ad-horizontal-top
 insidermonkey.com#@##sidebar-ad-1
 libero.it#@##admpubottom
-libero.it#@##admpumiddle
-libero.it#@##adwallpaper
+virgilio.it,libero.it#@##admpumiddle
+virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
+virgilio.it#@##adslider
+virgilio.it#@##admputop
+dilei.it,quifinanza.it#@##adleaderboard
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
