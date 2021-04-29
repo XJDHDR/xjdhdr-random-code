@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5zGN9Pphrs7fvzbcpqoSRQ
-! Version: 202104281400
+! Checksum: BlAwdt8mAMBMTE+9GbhAdw
+! Version: 202104290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 Apr 2021 14:00 UTC
+! Last modified: 29 Apr 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6036,7 +6036,7 @@ bgr.com,deadline.com,footwearnews.com,indiewire.com,pmcqa.com,rollingstone.com,t
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.card--article-ad
 thefamouspeople.com#@#.center-ad
 geektyrant.com#@#.cmn-side
-pronews.gr#@#.column-ad
+investorsobserver.com,pronews.gr#@#.column-ad
 news247.gr#@#.container_ad
 pwinsider.com#@#.content-left
 pwinsider.com#@#.content-right
