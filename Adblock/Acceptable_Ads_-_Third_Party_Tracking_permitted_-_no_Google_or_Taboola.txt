@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BlAwdt8mAMBMTE+9GbhAdw
-! Version: 202104290200
+! Checksum: Z/QMXD3NcBoMhqOXSXoC1g
+! Version: 202104291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Apr 2021 02:00 UTC
+! Last modified: 29 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7532,7 +7532,10 @@ tsn.ua#@#[data-partners-iframe]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
 3djuegos.com#@##dst_pub_728
+newsru.com#@#div[id^="adfox_"]
+newsru.com#@#div[class*="prm"]
 @@||api.unblockia.com/api/sites/0/config.json^$domain=varta1.com.ua|seo-fast.ru|newsyou.info
+@@||unblockia.com^$third-party,xmlhttprequest,domain=newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
@@ -8497,6 +8500,8 @@ testpages.adblockplus.org#@##abptest
 @@||related.ezgif.com^$domain=ezgif.com,document
 @@||related.wetteronline.de^$domain=wetteronline.de
 @@||related.wetteronline.de^$domain=wetteronline.de,document
+@@||related.autosport.com^$domain=autosport.com
+@@||related.autosport.com^$domain=autosport.com,document
 ! @@||related.vesty.co.il^$domain=vesty.co.il
 ! @@||related.vesty.co.il^$domain=vesty.co.il,document
 @@||cloud.setupad.com/hb/sharemods.js$domain=sharemods.com
@@ -8821,6 +8826,10 @@ virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
 virgilio.it#@##adslider
 virgilio.it#@##admputop
 dilei.it,quifinanza.it#@##adleaderboard
+autosport.com#@#.ms-apb
+autosport.com#@#.ms-side-items--with-banner
+digitalartsonline.co.uk#@##topLeaderContainer
+digitalartsonline.co.uk#@#.adContainer
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
