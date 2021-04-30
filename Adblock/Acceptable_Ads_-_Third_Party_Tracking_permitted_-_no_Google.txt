@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /uW7+R0j0qQ1s31QzZIKig
-! Version: 202104300200
+! Checksum: wF8GjJH7T9t+sdqkismU5A
+! Version: 202104301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Apr 2021 02:00 UTC
+! Last modified: 30 Apr 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8058,14 +8058,6 @@ abecedazahrady.dama.cz#@#[class*="ads-"]
 newsmonkey.be##.billboard.advert
 newsmonkey.be##.leaderboard.advert
 newsmonkey.be#@#[id^="div-gpt-ad"]
-!:partner_token=Quora
-!:partner_id=ee6342968f990c88
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=79450
-! Quora.com ads
-@@||quora.com^$elemhide
-@@||quora.com/ads/eyeo?ch=1&rn=$image,domain=quora.com
-||quora.com/ads/eyeo?ch=2&rn=$image,domain=quora.com
 !:partner_token=wiesentbote.de
 !:partner_id=3b48d0b86a51592a
 !:type=partner
@@ -10663,22 +10655,6 @@ engadget.com#@##gemini-right-rail-thumbnails
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 elperiodico.com#@#.adv-header
-!:partner_token=kp.ru ads
-!:partner_id=4d92b819d968f683
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81921
-! kp.ru ads
-||kp.ru/img/form/px.gif?ch=2&rn=*$domain=kp.ru
-@@||yastatic.net/safeframe-bundles^$subdocument,domain=kp.ru
-@@||yastatic.net/pcode/adfox/header-bidding.js$script,domain=kp.ru
-@@||yastatic.net/pcode/adfox/loader.js$script,domain=kp.ru
-@@||avatars.mds.yandex.net/get-direct^$image,domain=kp.ru
-@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
-@@||an.yandex.ru/system/context.js$script,domain=kp.ru
-@@||an.yandex.ru/system/adfox.js$script,domain=kp.ru
-kp.ru#@#div[id^="yandex_rtb"]
-kp.ru#@#div[data-slot-name]
-kp.ru##div[class*="styled__ContentBody"] > div[class*="styled__Advert-"]
 !:partner_token=Surfingbird
 !:partner_id=12071ed44b271043
 !:type=partner
