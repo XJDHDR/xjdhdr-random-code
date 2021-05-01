@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wF8GjJH7T9t+sdqkismU5A
-! Version: 202104301400
+! Checksum: nukYhb22fJT84a4VC+vklA
+! Version: 202105010200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Apr 2021 14:00 UTC
+! Last modified: 01 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6527,6 +6527,7 @@ rotowire.com#@#.ad-footer
 itstillruns.com#@#.ad-section
 idealhome.co.uk#@#.header-advert
 idealhome.co.uk#@#.header-advert-wrapper
+footwearnews.com#@#.widget_pmc-ads-widget
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6684,6 +6685,8 @@ manofmany.com##.incontent-ad-banner
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||a.pub.network^$stylesheet,domain=photographyinflux.com|rotowire.com
+@@||a.pub.network/core/pubfig/pubfig.engine.$xmlhttprequest,domain=investorsobserver.com
+@@||a.pub.network/core/prebid-analytics-$xmlhttprequest,domain=investorsobserver.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
@@ -6773,8 +6776,8 @@ manofmany.com##.incontent-ad-banner
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||snigelweb.com/adengine^*^loader.js$domain=maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
-@@||snigelweb.com/*/adngin.js$domain=maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
+@@||snigelweb.com/adengine^*^loader.js$domain=techcult.com|excelarticles.com|maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||snigelweb.com/*/adngin.js$domain=techcult.com|excelarticles.com|maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6836,6 +6839,8 @@ manofmany.com##.incontent-ad-banner
 @@||*-cdn.tracker.network/prebid.*tracker-network.js$script,domain=r6.tracker.network
 @@||calculatorsoup.com/scripts/asc_prebid.js$script,domain=calculatorsoup.com
 @@||timecardcalculator.net/scripts/asc_prebid-new.js$script,domain=timecardcalculator.net
+@@||ads.*.com/adBundle.js$script,~third-party,domain=ratemyprofessors.com
+@@^advertisements/ads.js$script,~third-party,domain=moly.hu
 ! Default filters for long domain lists
 !
 !
@@ -8887,6 +8892,11 @@ autosport.com#@#.ms-apb
 autosport.com#@#.ms-side-items--with-banner
 digitalartsonline.co.uk#@##topLeaderContainer
 digitalartsonline.co.uk#@#.adContainer
+searchenginejournal.com#@#[id^="SEJ_300x250_"]
+wetteronline.de#@##ADInterest
+wetteronline.de#@#.SideAds
+wetteronline.de#@#.Adv_Left
+wetteronline.de#@##adLink
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
