@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CQz51vhqLbVTGFyyuuTzCQ
-! Version: 202105030200
+! Checksum: Nj9H04hGmrZWaK0wnfDsfA
+! Version: 202105031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 May 2021 02:00 UTC
+! Last modified: 03 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6464,6 +6464,8 @@ itstillruns.com#@#.ad-section
 idealhome.co.uk#@#.header-advert
 idealhome.co.uk#@#.header-advert-wrapper
 footwearnews.com#@#.widget_pmc-ads-widget
+dotabuff.com#@#.blog-ad
+idealhome.co.uk#@#.ipc-advert
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6712,8 +6714,8 @@ manofmany.com##.incontent-ad-banner
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||snigelweb.com/adengine^*^loader.js$domain=techcult.com|excelarticles.com|maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
-@@||snigelweb.com/*/adngin.js$domain=techcult.com|excelarticles.com|maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
+@@||snigelweb.com/adengine^*^loader.js$domain=mrexcel.com|techcult.com|excelarticles.com|maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com|morewords.com|windfinder.com
+@@||snigelweb.com/*/adngin.js$domain=mrexcel.com|techcult.com|excelarticles.com|maketecheasier.com|thecalculatorsite.com|wordhippo.com|helpdeskgeek.com|askmefast.com|officearticles.com|raymond.cc|online-tech-tips.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
