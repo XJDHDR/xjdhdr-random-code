@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hP3Wv4sfVKRFHiX6r96GXg
-! Version: 202105021400
+! Checksum: CaJjpuEG7I4bpjKW81ma8w
+! Version: 202105030200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 02 May 2021 14:00 UTC
+! Last modified: 03 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2882,7 +2882,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||synlab.it^*/angular-google-analytics.js
 @@||chancro.jp/assets/lib/googleanalytics-$script
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|kakuyomu.jp|sankei.com
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|kakuyomu.jp|sankei.com|ymobile.jp
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||delet.jhi.pl/bower_components/angular-google-analytics/$script,~third-party
