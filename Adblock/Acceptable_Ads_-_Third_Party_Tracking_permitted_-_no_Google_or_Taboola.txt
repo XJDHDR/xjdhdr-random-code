@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4YaPDkjS52GKFgRda53ezw
-! Version: 202105040200
+! Checksum: wBEtKNijLVG5GrKWsZeAbw
+! Version: 202105041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 May 2021 02:00 UTC
+! Last modified: 04 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8785,7 +8785,7 @@ opex360.com,opex360.assistpub.com#@##header-ads
 basketusa.com,basketusa.assistpub.com#@#.ad-desktop
 basketusa.com,basketusa.assistpub.com#@#.ad-medium
 cars.com#@#.cubeAd
-travelandleisure.com,parents.com#@#.ad-wrapper
+coolmath.com,travelandleisure.com,parents.com#@#.ad-wrapper
 travelandleisure.com,parents.com#@#.desktop-ad
 travelandleisure.com#@#.ad-title
 travelandleisure.com,parents.com#@#.ad-sticky-container
@@ -8834,6 +8834,14 @@ wetteronline.de#@##ADInterest
 wetteronline.de#@#.SideAds
 wetteronline.de#@#.Adv_Left
 wetteronline.de#@##adLink
+gamefragger.com,animemojo.com,toonado.com#@##adInhouse
+hollywood.com,coolmath.com,gamefragger.com#@#.adLeaderboard
+hollywood.com#@#.adBox
+hollywood.com#@#.ads-header
+hollywood.com#@##div-id-for-interstitial-ad
+gamefragger.com,animemojo.com,toonado.com#@##adBTF300x250
+gamefragger.com,animemojo.com,toonado.com#@##adATF728x90
+gamefragger.com,animemojo.com,toonado.com#@##adATF300x250
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
