@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pKMErXpKLMtWtRkwpBh3BQ
-! Version: 202105050200
+! Checksum: KvAvkGqNX37UxkXP+EdZxQ
+! Version: 202105051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 May 2021 02:00 UTC
+! Last modified: 05 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6078,7 +6078,7 @@ tasty.co#@#.js-ad
 cnn.gr,buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
 themarker.com#@#.js-dfp-ad
 didev.co.uk,expertreviews.co.uk#@#.lazyadslot
-escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
+smartertravel.com,escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
 explosm.net#@#.leaderboard-container
 ratemyprofessors.com#@#.leaderboard_ad
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.left-ad
@@ -6723,7 +6723,7 @@ manofmany.com##.incontent-ad-banner
 @@||ldoceonline.com/external/js/prebid$domain=ldoceonline.com
 @@||assets.pons.com/assets/ads/iaw-pons$domain=pons.com
 @@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib*$domain=viceops.net
-@@^wp-content/plugins/*/js/*.js$~third-party,domain=autooverload.com|bonvoyaged.com|lifestylogy.com
+@@^wp-content/plugins/*/js/*.js$~third-party,domain=smartertravel.com|autooverload.com|bonvoyaged.com|lifestylogy.com
 @@^external/scripts/prebid$~third-party,domain=dictionary.cambridge.org|oxfordlearnersdictionaries.com|collinsdictionary.com
 @@||ads-api.ft.com/v2/$xmlhttprequest,domain=ft.com
 @@||tabstats.com/js/prebid*$domain=tabstats.com
@@ -8658,7 +8658,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-shaft
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-wrapper
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.dfp
-dilei.it,quifinanza.it,billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
+virgilio.it,dilei.it,quifinanza.it,billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
 stuff.co.nz#@#.display-ad
 seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
@@ -8821,10 +8821,10 @@ insidermonkey.com#@##ad-horizontal-top
 insidermonkey.com#@##sidebar-ad-1
 libero.it#@##admpubottom
 virgilio.it,libero.it#@##admpumiddle
-virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
+siviaggia.it,virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
 virgilio.it#@##adslider
 virgilio.it#@##admputop
-dilei.it,quifinanza.it#@##adleaderboard
+siviaggia.it,dilei.it,quifinanza.it#@##adleaderboard
 autosport.com#@#.ms-apb
 autosport.com#@#.ms-side-items--with-banner
 digitalartsonline.co.uk#@##topLeaderContainer
@@ -8842,6 +8842,7 @@ hollywood.com#@##div-id-for-interstitial-ad
 gamefragger.com,animemojo.com,toonado.com#@##adBTF300x250
 gamefragger.com,animemojo.com,toonado.com#@##adATF728x90
 gamefragger.com,animemojo.com,toonado.com#@##adATF300x250
+buonissimo.it#@##admpubottom2
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
