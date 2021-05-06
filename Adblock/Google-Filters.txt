@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7qLEUMXuAqpLDXGYFWRVyw
-! Version: 202105060200
+! Checksum: Q65H8O/orkphf9ZMcVRJ0A
+! Version: 202105061400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 06 May 2021 02:00 UTC
+! Last modified: 06 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1394,6 +1394,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||monarchypainting.com^
 ||mutenessdollyheadlong.com^
 ||muzzlelacking.com^
+||neoamwhdg.com^
 ||noiselesscatching.com^
 ||normugtog.com^
 ||nostrilsterrifying.com^
@@ -2494,7 +2495,6 @@ _GoogleTagManager2/
 ||firebaselogging-pa.googleapis.com^
 ||giosg.com^*/public/trace/
 ||google.com/analytics/$third-party
-||google.com/insights/$script,third-party
 ||googleapis.com/aam.js
 ||googleapis.com/gadasource/gada.js
 ||googleapis.com/ivc.js
@@ -2619,7 +2619,6 @@ _GoogleTagManager2/
 ||netlog.com/track
 ||netmag.co.uk/matchbox/traffic/
 ||newegg.com/common/thirdparty/$subdocument
-||newegg.com/pfssl.js
 ||newegg.com/tracking
 ||news.google.com/_/v
 ||ning.com^*/ga/ga.js
@@ -2652,7 +2651,6 @@ _GoogleTagManager2/
 ||web-t.9gag.com^
 ||webring.com/cgi-bin/logit?
 ||webstats.thesoul-publishing.com^
-||www.google.*/imgevent?$script
 ||www.google.*/imghover?$image
 ||xing.com/app_stats/
 ||xing.com/collect/
@@ -2682,6 +2680,7 @@ _GoogleTagManager2/
 ||bing.com^*/glinkping.aspx$ping,xmlhttprequest
 ||bing.com^*/GLinkPingPost.aspx$ping,xmlhttprequest
 /^https?:\/\/www\.ugg\.com\/static\/[a-z0-9]{15,}/$domain=ugg.com
+||newegg.com/pfssl.js
 ||bloomberg.com/8FCGYgk4/init.js
 ||couchsurfing.com/bEcn7fQX/init.js
 ||ttauri.laptopmag.com^
@@ -3733,7 +3732,7 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
-||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com
+||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
 ||yimg.com^*/guce.js
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
@@ -4104,7 +4103,7 @@ santatracker.google.com##SANTA-NOTICE
 youtube.com##div[class^="ytd-consent"]
 weatherbug.com##notification-footer
 ! googlefunding consent warning
-androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
 bing.com##div[data-cookie]
@@ -4147,6 +4146,7 @@ radiolodz.pl##.fa-youtube
 mf24.pl##.youtube
 bit.pt,bitmag.com.br##.follow
 der-farang.com###consent_overlay
+eifel-antik.de##.jmg-googlemaps-dsgvo-notification
 paconsulting.com###cookPop
 4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 techbang.com##.notify_stickie

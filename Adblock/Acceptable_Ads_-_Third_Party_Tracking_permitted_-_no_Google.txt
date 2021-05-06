@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wA9cDd83MQYvUF2X/8Alqg
-! Version: 202105060200
+! Checksum: SHZWkovIekpvYsoO9swRxw
+! Version: 202105061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 06 May 2021 02:00 UTC
+! Last modified: 06 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6530,6 +6530,7 @@ idealhome.co.uk#@#.header-advert-wrapper
 footwearnews.com#@#.widget_pmc-ads-widget
 dotabuff.com#@#.blog-ad
 idealhome.co.uk#@#.ipc-advert
+cinemablend.com#@##leaderboard-ad
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6843,6 +6844,7 @@ manofmany.com##.incontent-ad-banner
 @@||timecardcalculator.net/scripts/asc_prebid-new.js$script,domain=timecardcalculator.net
 @@||ads.*.com/adBundle.js$script,~third-party,domain=ratemyprofessors.com
 @@^advertisements/ads.js$script,~third-party,domain=moly.hu
+@@||ads.servebom.com/config^$xmlhttprequest,domain=cinemablend.com
 ! Default filters for long domain lists
 !
 !
@@ -8596,6 +8598,7 @@ testpages.adblockplus.org#@##abptest
 @@^ads/afterImgAds.js$~third-party,script,domain=digitalartsonline.co.uk
 @@||gateway.reddit.com/desktopapi/*/comments_page_ads^$domain=reddit.com
 @@||stpd.cloud/assets/hb^$script,domain=ezgif.com|cplusplus.com|lexulous.com
+@@||cdn.appconsent.io^$script,domain=basketusa.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
