@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lk6tK1BhOUIxYAlEMDNDYQ
-! Version: 202105070200
+! Checksum: A7hR7WD59ISh6SwqbY8ezA
+! Version: 202105071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 May 2021 02:00 UTC
+! Last modified: 07 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6259,6 +6259,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 bonginoreport.com#@#.side-advert
 manga3s.com,wordexcerpt.com#@#.body-top-ads
 theonlinecitizen.com,latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
+investorsobserver.com#@#[data-freestar-ad]
 wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
 theloadout.com,pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
@@ -6614,13 +6615,13 @@ manofmany.com##.incontent-ad-banner
 @@||tetrisfriends.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||tworeddots.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=guitartabsexplorer.com|casilinanews.it|ilcaudino.it|businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
-@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=guitartabsexplorer.com|casilinanews.it|ricetta.it|ilcaudino.it|businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
+@@||cdn.exmarketplace.com/bidder^*.dfp.js^$domain=warqaad.info|successaga.com|guitartabsexplorer.com|casilinanews.it|ilcaudino.it|businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|frasix.it|fiscoetasse.com|leggioggi.it|diritto.it|thegrizzled.com|thesocialpost.it|ricetta.it|portalebambini.it|gameindustry.it|peopleforplanet.it|teamworld.it
+@@||cdn.exmarketplace.com/bidder^*eb_sf.js^$domain=warqaad.info|successaga.com|guitartabsexplorer.com|casilinanews.it|ricetta.it|ilcaudino.it|businesscasestudies.co.uk|rockol.it|healthnfitness.net|webboh.it|diritto.it|fiscoetasse.com|portalebambini.it|thegrizzled.com|teamworld.it|thesocialpost.it|cosmicbook.news
 @@||cdn.exmarketplace.com/bidder/exmp.pbsrv$domain=frasix.it
 @@||cdn.exmarketplace.com/bidder/pre-booster.$domain=leggioggi.it
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=businesscasestudies.co.uk|fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
-@@||cdn.exmarketplace.com/bidder^$domain=cosmicbook.news|nomix.it|ooyyo.com|mondodesign.it
+@@||cdn.exmarketplace.com/bidder^$domain=successaga.com|cosmicbook.news|nomix.it|ooyyo.com|mondodesign.it
 @@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
 @@||a.pub.network^$stylesheet,domain=photographyinflux.com|rotowire.com
