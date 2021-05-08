@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dG8Voy5TH87vnUjevx5Aeg
-! Version: 202105080200
+! Checksum: d54Oh4eHxHDwKYHKZppCmw
+! Version: 202105081400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 May 2021 02:00 UTC
+! Last modified: 08 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1819,13 +1819,14 @@ $webrtc,domain=101greatgoals.com|ack.net|allkpop.com|allthetests.com|audioholics
 @@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de
 spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepage_5__container__)
-||ad.doubleclick.net^$domain=spiegel.de
-||advertising.com^$domain=spiegel.de
 ||g.doubleclick.net^$domain=spiegel.de
+||googlesyndication.com/pagead/$domain=spiegel.de
 ||googlesyndication.com/safeframe/$domain=spiegel.de
+||googlesyndication.com/simgad/$domain=spiegel.de
 ||googlesyndication.com/sodar/$domain=spiegel.de
+||imasdk.googleapis.com^$domain=spiegel.de
 ||pagead2.googlesyndication.com^$domain=spiegel.de
-||servedby.flashtalking.com/imp/$script,domain=spiegel.de
+||partner.googleadservices.com^$domain=spiegel.de
 ||plx.porndig.com^
 ||rusdosug.com/Fotos/Banners/
 ||youtubelike.com/ftt2/toplists/
@@ -2134,6 +2135,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||bing.com/search?$generichide
 @@||www.google.*/search?$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpu-world.com|megaleech.us
+@@||yimg.com/dy/ads/native.js$script,domain=animedao.to
 ! Google "Related Searches"
 @@||www.google.com/adsense/search/ads.js$domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 @@||www.google.com/adsense/search/async-ads.js$domain=webcrawler.com
