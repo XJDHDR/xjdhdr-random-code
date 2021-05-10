@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zMDfgERA/HhG2z0rvlV0GQ
-! Version: 202105091400
+! Checksum: BK0OgVCovRVa/EL6i8n01g
+! Version: 202105100200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 May 2021 14:00 UTC
+! Last modified: 10 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1759,6 +1759,8 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||pcmag.com/s/js/zad.js
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||softcab.com/google.php?
+||statically.io^*/ig-widget-banner-$domain=kavogaming.com
+||statically.io^*/instant-gaming-homepage-banner.jpg$domain=kavogaming.com
 ||streamabc.xyz/asset/bann.js
 ||survivalblog.com/marketplace/
 ||thisgengaming.com/Scripts/widget2.aspx
@@ -1852,6 +1854,7 @@ duffelblog.com###leader-large
 animeseason.com,ariacharts.com.au,ask.fm,cc.com,crackmixtapes.com,cubeecraft.com,cyberciti.biz,datpiff.com,football.co.uk,gtainside.com,houselogic.com,jaxdailyrecord.com,lasplash.com,lawnewz.com,logotv.com,lrb.co.uk,motortopia.com,newcartestdrive.com,news.sky.com,nfib.com,okmagazine.com,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,pets4homes.co.uk,publishersweekly.com,realmoney.thestreet.com,revolvermag.com,salary.com,sciencedirect.com,sciencefocus.com,skysports.com,stuff.tv,talonmarks.com,thehollywoodgossip.com,theserverside.com,toofab.com,tvguide.co.uk,wheels24.co.za,whitepages.ae,windsorstar.com###leaderboard
 technologyexpert.blogspot.com###left-sidebarbottom-wrap1
 investing.com###mainPopUpContainer
+kavogaming.com###media_image-3
 mostlyblogging.com###media_image-5
 mmorpg.com###mmorpg_desktop_list_1
 whatshappening.com.ph###mrecCarousel
@@ -1949,6 +1952,7 @@ seganerds.com##[href^="https://www.ewinracing.com/"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 livejournal.com##div[data-google-query-id]
+kavogaming.com##div[id^="kavog-"]
 9gag.com##div[style*="width: 500px; height: 281px;"]
 googletutor.com##div[style="width:125px;text-align:center;"]
 google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^=jsx-]
