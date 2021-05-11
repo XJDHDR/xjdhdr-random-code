@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iWfsrGV+qLsGgLZVBFSOzQ
-! Version: 202105110200
+! Checksum: jLmnjRf5yGRTptfEL+NxSQ
+! Version: 202105111400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 May 2021 02:00 UTC
+! Last modified: 11 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1204,7 +1204,6 @@ freeshipping.com,freeshippingrewards.com#@##BottomAds
 livestrong.com#@##adaptv_ad_player_div
 analogplanet.com,audiostream.com,hometheater.com,innerfidelity.com,shutterbug.com,stereophile.com#@##adbackground
 hcplzen.cz,lamag.com#@##ads_top
-avhf.com,carryconcealed.net,haberler.com,instiz.net,promoce.cz,ps3scenefiles.com,sondakika.com#@##adsense
 remixshare.com#@##adsense_block
 jeeppatriot.com#@##adsense_inline
 freeshipping.com#@##bottomAds
@@ -1249,6 +1248,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||2020mustang.com^
 ||86pqvhdw5wpg.com^
 ||98bf9h8jbg.com^
+||abreastpollutionsticking.com^
 ||admob.com^
 ||adtng.com^
 ||advmaiotg.com^
@@ -1257,11 +1257,13 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||aimseerg.com^
 ||alruqbfjg.com^
 ||analyzeagg.com^
+||anticipatedlying.com^
 ||armedearring.com^
 ||askbegrag.com^
 ||atilohdxsg.com^
 ||aud3g.com^
 ||audacitydipping.com^
+||audacityprolong.com^
 ||bananastouching.com^
 ||bckfnohmg.com^
 ||berryborrowing.com^
@@ -1406,6 +1408,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||oredebpig.com^
 ||originalcharactercausing.com^
 ||oughtbuilding.com^
+||payslipsprolong.com^
 ||peepholecarrying.com^
 ||pepperstretching.com^
 ||phastoag.com^
@@ -1443,6 +1446,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||safestteacherwaiting.com^
 ||samtrg.com^
 ||sebeagnjowtg.com^
+||setmeg.com^
 ||sibilantamusing.com^
 ||siegemeg.com^
 ||significantlyentering.com^

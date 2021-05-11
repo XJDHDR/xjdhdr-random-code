@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Xt1iLBH7rHyvtufjBs7pVg
-! Version: 202105110200
+! Checksum: l8T4+rgyb8qJSISArh8nxA
+! Version: 202105111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 May 2021 02:00 UTC
+! Last modified: 11 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6329,7 +6329,7 @@ ft.com#@#.above-header-advert
 ft.com#@#.o-ads--center
 ft.com#@#.o-ads
 ft.com#@#.sidebar-advert
-diritto.it,casilinanews.it,guitartabsexplorer.com,mondodesign.it,teamworld.it#@#.gptslot
+successaga.com,warqaad.info,diritto.it,casilinanews.it,guitartabsexplorer.com,mondodesign.it,teamworld.it#@#.gptslot
 casilinanews.it#@#.ajdg_bnnrwidgets
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-pave-haut
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml
@@ -6466,6 +6466,8 @@ idealhome.co.uk#@#.ipc-advert
 cinemablend.com#@##leaderboard-ad
 cinemablend.com#@##sticky-rail-ad
 thesimsresource.com#@#.crtv-top-wrapper
+buzzfeed.com#@#.Ad--awareness-bp
+cnn.com###scrollover-ad-wrap
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6549,8 +6551,8 @@ manofmany.com##.incontent-ad-banner
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 @@||9to5toys.com^*/assets/js/vendor/prebid1.$script
-@@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=movoto.com|neren.com|redfin.com
-@@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=movoto.com|redfin.com
+@@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=areavibes.com|movoto.com|neren.com|redfin.com
+@@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=areavibes.com|movoto.com|redfin.com
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
 @@||ads.rubiconproject.com/prebid/19904_general.js$domain=ratemyprofessors.com
 @@||ads.rubiconproject.com/prebid/21666_$domain=justjared.com|arcamax.com|justjaredjr.com|uberhumor.com|walterfootball.com
@@ -6566,7 +6568,6 @@ manofmany.com##.incontent-ad-banner
 @@||buzzfeednews.com/static/js/advertiser/prebid.js$domain=buzzfeednews.com
 @@||c.disquscdn.com/js/dist/prebid.$domain=whatisthebestcolor.com
 @@||cdn.adapex.io/hb/aaw*.js$script,domain=base64encode.org|base64decode.org|urlencoder.org|convertcase.net|dlisted.com|inquisitr.com|trueactivist.com
-@@||cdn.fuseplatform.net/publift^$domain=bikeexchange.com|rewardia.com.au|dealdrop.com|bikeexchange.de|godsavethepoints.com|thewash.online|allbad.cards|australiangeographic.com.au|fromyourinside.com|life4insurance.com|base64decode.org|volcanodiscovery.com|loot.tv|calculatestuff.com|strengthlevel.com|arealme.com|swellnet.com|theonlinecitizen.com|moneychimp.com|fsharetv.co|happymag.tv|foxaholic.com|grays.com|whatsmydns.net|testmy.net|free-ebooks.net|elaph.com|hebbarskitchen.com|betootaadvocate.com|tribalfootball.com|linuxconfig.org|dnschecker.org|placebuzz.com|technical.city|zkillboard.com|vimm.net|urldecoder.org|loveawake.com|motorious.com|vtvgiaitri.vn|wordexcerpt.com|wheeldecide.com|androidbenchmark.net
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
@@ -7437,6 +7438,9 @@ cryptorival.com#@##banner-ad
 swordscomic.com#@##ad-banner
 tryspree.com#@#.top-ad
 awebanalysis.com#@#.ads-right
+angrybirdsnest.com#@#.ad-top-728x90
+angrybirdsnest.com#@#.ad-728x90
+angrybirdsnest.com#@#.ad-300x250
 ! Hidden for compliance
 jscompress.com###bsa-zone_1572364402444-3_123456
 !:partner_token=bestecode.com
@@ -7565,7 +7569,7 @@ click-or-die.ru#@#.ads-phead
 gazeta.ua#@#.informer.double
 marathi.latestly.com#@##sponsored_content
 marathi.latestly.com#@#.sponsored_content
-brainberries.co,zestradar.com#@#.native_ad
+limelight-media.com,brainberries.co,zestradar.com#@#.native_ad
 baophapluat.vn#@#.adsitem
 baophapluat.vn#@#.qc
 baophapluat.vn#@##adsctl00_AdsHome2
@@ -8505,6 +8509,10 @@ testpages.adblockplus.org#@##abptest
 @@||related.wetteronline.de^$domain=wetteronline.de,document
 @@||related.autosport.com^$domain=autosport.com
 @@||related.autosport.com^$domain=autosport.com,document
+@@||related.wetteronline.ch^$domain=wetteronline.ch
+@@||related.wetteronline.ch^$domain=wetteronline.ch,document
+@@||related.wetteronline.at^$domain=wetteronline.at
+@@||related.wetteronline.at^$domain=wetteronline.at,document
 ! @@||related.vesty.co.il^$domain=vesty.co.il
 ! @@||related.vesty.co.il^$domain=vesty.co.il,document
 @@||cloud.setupad.com/hb/sharemods.js$domain=sharemods.com
@@ -8835,10 +8843,10 @@ autosport.com#@#.ms-side-items--with-banner
 digitalartsonline.co.uk#@##topLeaderContainer
 digitalartsonline.co.uk#@#.adContainer
 searchenginejournal.com#@#[id^="SEJ_300x250_"]
-wetteronline.de#@##ADInterest
+wetteronline.ch,wetteronline.at,wetteronline.de#@##ADInterest
 wetteronline.de#@#.SideAds
 wetteronline.de#@#.Adv_Left
-wetteronline.de#@##adLink
+wetteronline.ch,wetteronline.at,wetteronline.de#@##adLink
 gamefragger.com,animemojo.com,toonado.com#@##adInhouse
 hollywood.com,coolmath.com,gamefragger.com#@#.adLeaderboard
 hollywood.com#@#.adBox
@@ -8850,6 +8858,11 @@ gamefragger.com,animemojo.com,toonado.com#@##adATF300x250
 buonissimo.it#@##admpubottom2
 ghacks.net#@#.category-sponsored
 gelderlander.nl#@#.advertising-container-top
+virgilio.it,supereva.it,siviaggia.it#@##cont-wallpaper
+virgilio.it,supereva.it,libero.it#@#.adv
+virgilio.it#@#.hp_300x250
+virgilio.it#@#.hp_970x90
+wetteronline.ch,wetteronline.at#@#.adplace
 ! vesty.co.il#@#.top-ad
 ! FT-1489
 @@||forbes.com^$generichide
