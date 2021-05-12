@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: l8T4+rgyb8qJSISArh8nxA
-! Version: 202105111400
+! Checksum: UmhN/plQk5MXPebVVidpfA
+! Version: 202105120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 May 2021 14:00 UTC
+! Last modified: 12 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4944,7 +4944,6 @@ workupload.com#@#.ad-label
 @@||adpushup.com/innovativeAdsDemo/demo-page-shell.js$domain=adpushup.com
 freewarefiles.com#@#div > iframe[style]
 sports.fr#@##banner-full
-drweil.com#@#.gpt-ad
 gsmarena.com##.sticky-mpu
 geeksforgeeks.org#@#.advertise-here
 ntv.com.tr,startv.com.tr##[id^="dygtag-gpt-ad"]
@@ -4953,6 +4952,9 @@ radiozet.pl#@#.advertise-here
 radiozet.pl##.advert:not([data-slot="w2g-pod_tagami_1"]):not([data-slot="w2g-slot3"])
 radiozet.pl#@#.advert-container
 radiozet.pl##.advert-container:not(.w2g-pod_tagami_1):not(.w2g-slot3)
+drweil.com##.ad
+drweil.com##.sams-ad
+||cdn.sovrnservices.com/*/samsbid.js$domain=drweil.com
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
 !:partner_token=bedandchai.com
