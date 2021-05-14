@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jdTCODvU88pbwpRIs+IzHA
-! Version: 202105140200
+! Checksum: f5PtzBLxV8p+sdFEAKzCxQ
+! Version: 202105141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 May 2021 02:00 UTC
+! Last modified: 14 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8912,6 +8912,8 @@ virgilio.it,libero.it#@##admpumiddle
 siviaggia.it,virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
 virgilio.it#@##adslider
 virgilio.it#@##admputop
+virgilio.it#@#.admputop
+virgilio.it#@#.adv-cont
 siviaggia.it,dilei.it,quifinanza.it#@##adleaderboard
 autosport.com#@#.ms-apb
 autosport.com#@#.ms-side-items--with-banner
