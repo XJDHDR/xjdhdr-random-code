@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IW9Tgs3a8DGNdpWRzdcByw
-! Version: 202105141400
+! Checksum: xB71UT4d6zqkesbjodCoBw
+! Version: 202105150200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 14 May 2021 14:00 UTC
+! Last modified: 15 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1770,6 +1770,8 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||thisgengaming.com/Scripts/widget2.aspx
 ||tpc.googlesyndication.com^
 ||uploadgig.com/static/
+||www.youtube.com/watch?v=*&pp=*&pbj=1$xmlhttprequest
+||www.youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
 ||yimg.com/aaq/wf/wf-darla-$domain=yahoo.com
 ||yimg.com/ao/adv/$script,domain=yahoo.com
 ||yimg.com/dh/ap/default/*/skins_$image,domain=yahoo.com
@@ -1783,13 +1785,11 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||youtube-video.download/y-vd.php
 ||youtube.com/ad_companion
 ||youtube.com/pagead/
-||youtube.com/watch?v=*&pp=*&pbj=1$xmlhttprequest
-||youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
 ! Test (Webkit Mobile/Desktop for Youtube)
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
 ||m.youtube.com/get_midroll_$domain=youtube.com
-||m.youtube.com/watch?v=*&pp=*&pbj=1$xmlhttprequest
-||m.youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
+! ||m.youtube.com/watch?v=*&pp=*&pbj=1$xmlhttprequest
+! ||m.youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
 ||pagead2.googlesyndication.com^$domain=youtube.com
 ||static.doubleclick.net^$domain=youtube.com
 ||www.google.com/pagead/$domain=youtube.com

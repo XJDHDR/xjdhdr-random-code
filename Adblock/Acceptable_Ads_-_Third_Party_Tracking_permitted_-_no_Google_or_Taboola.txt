@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YNEIY2R/9uUV3SHibJLLDw
-! Version: 202105141400
+! Checksum: 097i3jBeQ84cWLwUNKs5nA
+! Version: 202105150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 14 May 2021 14:00 UTC
+! Last modified: 15 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1807,8 +1807,8 @@ star.gr##.trc_elastic_ab_sc-star_new_abp-mode
 businesstoday.in##.tabolabg .syndicatedItem
 espn.com.mx##.sponsored-headlines > *
 taste.com.au##div[data-feed-container-num="1"] .syndicatedItem
-izquierdazo.com#@#.adace-slot-wrapper
-izquierdazo.com#@#.adace-slot
+yourlifechoices.com.au,izquierdazo.com#@#.adace-slot-wrapper
+yourlifechoices.com.au,izquierdazo.com#@#.adace-slot
 ! Default filters for long domain lists
 !
 !
@@ -5245,12 +5245,18 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 @@||an.yandex.ru/resource/context_static_r*.js$domain=fotostrana.ru
 @@||an.yandex.ru^*^callback^$script,domain=fotostrana.ru
 @@||an.yandex.ru/jserr/$domain=fotostrana.ru
-@@||yandex.net/get-direct/$image,domain=fotostrana.ru
+@@||an.yandex.ru/system/widget.js$script,domain=fotostrana.ru
+@@||an.yandex.ru/jstracer^$xmlhttprequest,domain=fotostrana.ru
 @@||an.yandex.ru/meta/$xmlhttprequest,domain=fotostrana.ru
+@@||yandex.net/get-direct/$image,domain=fotostrana.ru
+@@||yastatic.net/safeframe-bundles^$subdocument,script,domain=fotostrana.ru
+@@||yastatic.net/pcode/adfox^$subdocument,script,domain=fotostrana.ru
 fotostrana.ru#@#.img_ad
 fotostrana.ru#@##king-rightplace
+fotostrana.ru#@#div[id^="yandex_rtb"]
 @@||ad.mail.ru/adq/?callback=mailru_ad$script,domain=fotostrana.ru
 @@||ad.mail.ru/static/ads-async.js$domain=fotostrana.ru
+@@||ad.mail.ru/web/adcontext^$xmlhttprequest,domain=fotostrana.ru
 !:partner_token=ket-noi.com
 !:partner_id=4c82e4802f19ebe6
 !:type=partner
@@ -7525,7 +7531,9 @@ ria.ru##.banner:not([data-position="special_desktop_ria_zen"]):not([data-positio
 @@||api.lentainform.com/718177^$xmlhttprequest,domain=ria.ru
 @@||static.ngs.ru/jtnews/dist/static/js/detect-adblock-core-ads.js^$domain=e1.ru|ngs.ru|nn.ru
 @@||tvzvezda.ru/adfox.js$domain=tvzvezda.ru
-@@||mgid.com^$popup,domain=rostov.tsargrad.tv
+@@||mgid.com^$popup,domain=tsargrad.tv
+@@||ywdj7.voluumtrk.com$popup,domain=tsargrad.tv
+@@||adskeeper.com^$popup,domain=tsargrad.tv
 @@||lentainform.com^$third-party,domain=bobsoccer.ru
 ! Idealmedia ads
 @@||idealmedia.io$csp=script-src self
@@ -7556,7 +7564,7 @@ tsn.ua#@#[data-partners-iframe]
 newsru.com#@#div[id^="adfox_"]
 newsru.com#@#div[class*="prm"]
 @@||api.unblockia.com/api/sites/0/config.json^$domain=varta1.com.ua|seo-fast.ru|newsyou.info
-@@||unblockia.com^$third-party,xmlhttprequest,domain=newsru.com
+@@||unblockia.com^$third-party,xmlhttprequest,domain=liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
@@ -8869,13 +8877,18 @@ gamefragger.com,animemojo.com,toonado.com#@##adATF728x90
 gamefragger.com,animemojo.com,toonado.com#@##adATF300x250
 buonissimo.it#@##admpubottom2
 ghacks.net#@#.category-sponsored
-gelderlander.nl#@#.advertising-container-top
+gelderlander.nl,ad.nl,bd.nl,ed.nl,tubantia.nl,pzc.nl,destentor.nl#@#.advertising-container-top
 virgilio.it,supereva.it,siviaggia.it#@##cont-wallpaper
 virgilio.it,supereva.it,libero.it#@#.adv
 virgilio.it#@#.hp_300x250
 virgilio.it#@#.hp_970x90
 wetteronline.de,wetteronline.ch,wetteronline.at#@#.adplace
+gelderlander.nl,ad.nl,bd.nl,ed.nl,tubantia.nl,pzc.nl,destentor.nl#@#.ankeiler--advertisement
+gelderlander.nl,ad.nl,bd.nl,ed.nl,tubantia.nl,pzc.nl,destentor.nl#@#.page-header__section--spacer
 ! vesty.co.il#@#.top-ad
+! Hidden for compliance
+searchenginejournal.com###nng
+searchenginejournal.com###loop_parent
 ! FT-1489
 @@||forbes.com^$generichide
 forbes.com##.fbs-ad--mobile-medianet-wrapper
