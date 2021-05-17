@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: O8JDhvdADPOWvLQCGLpbLA
-! Version: 202105170200
+! Checksum: SapP+v1Wq7l0nXJK/9KwBw
+! Version: 202105171400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 May 2021 02:00 UTC
+! Last modified: 17 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1532,7 +1532,7 @@ fincalculator.ru#@#.adv-border
 @@||ads.imprezzer.com/js/imprezzer2.min.js$domain=mgronline.com
 @@||ads.imprezzer.com/js/multisize_billboard.js$domain=mgronline.com
 @@||a.spolecznosci.net/prev_ads?p=44&s=Fotka&x=$script,domain=fotka.com
-@@/projectagora.min.js$script,domain=extrasport.net|alwatannews.net|aqartalk.com|ontha.com|cairo24.com|proaktivdirekt.com|pronews.gr|skai.gr|qiyada.me|promotor.ro|storymag.cz|prouspech.cz|girlworld.cz|bydlimechytre.cz|nechapavyadvokat.cz|carsmag.cz|zdraverady.cz|magazin.sfdb.cz|yallasky.com|hobi.ba|elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|alwatanvoice.com|rotana.net
+@@/projectagora.min.js$script,domain=sarahanews.net|extrasport.net|alwatannews.net|aqartalk.com|ontha.com|cairo24.com|proaktivdirekt.com|pronews.gr|skai.gr|qiyada.me|promotor.ro|storymag.cz|prouspech.cz|girlworld.cz|bydlimechytre.cz|nechapavyadvokat.cz|carsmag.cz|zdraverady.cz|magazin.sfdb.cz|yallasky.com|hobi.ba|elbaladtv.net|dejnews.ro|168ora.hu|descopera.ro|daddy-cool.gr|hinditwostop.com|workenter.gr|kallxo.com|vimaorthodoxias.gr|kontranews.gr|kitekinto.hu|filipinotimes.net|coptstoday.com|ahonation.com|poznatsvet.cz|elbalad.news|kw.arabiaweather.com|filmehd.net|3oud.com|alqiyady.com|arabsturbo.com|layalina.com|ra2ej.com|sa2eh.com|ency-education.com|ae.waseet.net|vetogate.com|wasse3sadrak.com|alaan.tv|new.el-ahly.com|akhbaralaan.net|babnet.net|akhbarelyaom.com|ibelieveinsci.com|liilas.com|kora11.com|wazaef4u.net|mr.arabiaweather.com|raseef5.com|egyweb.space|3ayezakol.com|yawmek.com|big14me.com|alwatanvoice.com|rotana.net
 @@||monu.delivery^$third-party,domain=turtleboysports.com
 @@||static-seloger.com^*/Plugins/DFP/$script
 @@||projectagora.s3.amazonaws.com/assets/mea/tw_agora_arabiaweather.min.js$script,domain=mr.arabiaweather.com
