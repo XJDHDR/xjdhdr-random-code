@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SapP+v1Wq7l0nXJK/9KwBw
-! Version: 202105171400
+! Checksum: 2QLkxRYryhATR8Ir1+gC5g
+! Version: 202105180200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 17 May 2021 14:00 UTC
+! Last modified: 18 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7991,6 +7991,8 @@ frekvence1.cz##div[class*="container-article-detail"] .cnc-ads__within
 zive.cz#@##cnc_branding_creative_wrapper
 drbna.cz#@#.adsLabel
 abecedazahrady.dama.cz#@#[class*="ads-"]
+autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,zeny.cz#@#.inserted_rtb
+blesk.cz#@#[class$="-kukakomeha"]
 /adb/px.js?ch=2$domain=extra.cz|moulik.cz|lidovky.cz
 @@/adb/px.js?ch=1$domain=extra.cz|moulik.cz|lidovky.cz
 @@||c.imedia.cz/js/retargeting.js$script

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eCOzwryKnxIJ0OwAWV38lQ
-! Version: 202105171400
+! Checksum: mRI+wvkMPSJgvrwXVMCGNw
+! Version: 202105180200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 May 2021 14:00 UTC
+! Last modified: 18 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2901,7 +2901,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||puch-ersatzteile.at^*/google-analytics.min.js
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bigodino.it|bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|formulapassion.it|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bigodino.it|bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|formulapassion.it|gamesradar.com|gianlucadimarzio.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||savjee.be/uploads/2020-10-27-effect-adblockers-on-google-analytics-vs-plausible/$~third-party
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
@@ -3947,6 +3947,7 @@ google.co.uk##div[style="behavior:url(#default#userData);background-color:#5a5a5
 truthdig.com##div[style="margin-left: 10px; font-size: small;"]
 mikebloomberg.com##div[style^="float:left; padding:0px 8px 0px"]
 briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
+finecooking.com##.meter-bar
 youtube.com##.ytd-statement-banner-renderer
 ! Youtube TV promos
 youtube.com##.ytd-primetime-promo-renderer
@@ -4066,6 +4067,7 @@ businessinsider.com,clearspring.co.uk,imgur.com,liliputing.com,photofunia.com,th
 clearspring.co.uk##.icons-top
 barryanddistrictnews.co.uk##.itemGoogle
 kernelmag.com##.kernel-social-links
+finecooking.com##.module--springboard__connect
 interestingengineering.com##.news-icon
 bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
