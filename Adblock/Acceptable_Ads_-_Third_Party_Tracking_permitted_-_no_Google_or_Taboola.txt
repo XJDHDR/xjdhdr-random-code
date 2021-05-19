@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7OZppv5OV6lIwwOp57NW8Q
-! Version: 202105181400
+! Checksum: y/P97EdEScP3ovYOueKv2Q
+! Version: 202105190200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 May 2021 14:00 UTC
+! Last modified: 19 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -131,6 +131,8 @@ heise.de#@#.akwa-ad-container
 heise.de##.ob_ad
 heise.de##.abp_ob_exist
 heise.de#@#.abp_ob_wl
+heise.de#@#.ob-strip-layout
+heise.de#@#.ob-widget > .ob-first.ob-widget-section
 heise.de#@#a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 heise.de#@#a[href^="https://paid.outbrain.com/network/redir?"]
 @@||paid.outbrain.com/network/redir?$popup,domain=heise.de
@@ -148,6 +150,7 @@ heise.de#@#a[href^="https://marketing.outbrain.com/network/redir?"]
 @@||heise.de/assets/*/prebid.$domain=heise.de
 heise.de#@#.ad-container
 heise.de#@#.img_ad
+heise.de#@#.img-ad
 heise.de#@#.us-ad
 heise.de#@#.ad-microsites
 heise.de#@#.a-ad
@@ -6414,7 +6417,7 @@ tomsguide.com,pcgamer.com,tomshardware.com#@#div[class*="ad-unit"]
 tomshardware.com#@#div[class^="ad-unit"]
 techradar.com,tomsguide.com,pcgamer.com,tomshardware.com#@#div[class^="slot-"]
 twinfinite.net#@#.centerAd
-businesscasestudies.co.uk#@#.td-adspot-title
+pokemongohub.net,businesscasestudies.co.uk#@#.td-adspot-title
 paruvendu.fr#@##optidigital-adslot-Billboard_1
 paruvendu.fr#@#.optidigital-ad-center
 paruvendu.fr#@#div[id^="optidigital-adslot-"]
@@ -6480,6 +6483,7 @@ cinemablend.com#@##sticky-rail-ad
 thesimsresource.com#@#.crtv-top-wrapper
 buzzfeed.com#@#.Ad--awareness-bp
 cnn.com###scrollover-ad-wrap
+systemrequirementslab.com#@#.ad_center
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -7615,7 +7619,7 @@ super-nonni.it#@#.td-a-ad
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
 @@||mgid.com/mghtml/framehtml/c/c/l/clipzui.com.405015.html$domain=clipzui.com
 @@||x-true.info^$csp=script-src 'self' * blob: data:
-@@||s-img.steepto.com/g^$image,domain=pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
+@@||s-img.steepto.com/g^$image,domain=bitly.com.vn|pontealdia.online|a.preparalohoy.xyz|aa.saludableanthony.com|ab-tc.com|tvfun.ma|readlightnovel.org|ruburn.info|gogoanime.so|4book.org|cautruyencotich.com|mmaengage.com|wuxiaworld.ru|ranobe-novels.ru|goblinsguide.com|book-online.com.ua|hozir.org|tv-novosti.ru|rus24.tv|hochu.ua|otvety-ot-vety.info|teksty-pesenok.ru|click-test.com
 @@||stadion.uz/banner^$xmlhttprequest,domain=stadion.uz
 @@||jsc.epeex.io^*.js$script,domain=ilfattonisseno.it|gazzettadelsud.it|targatocn.it
 @@||redactia.ro/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js^$domain=redactia.ro
