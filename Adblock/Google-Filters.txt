@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UdgR2qDSvRs8V4d2vpPRVA
-! Version: 202105190200
+! Checksum: r6SLOorZBlRJ087mBEEQMw
+! Version: 202105191400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 May 2021 02:00 UTC
+! Last modified: 19 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2012,8 +2012,10 @@ youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytd-video-masthead-ad-v3-renderer
 youtube.com##.ytp-ad-action-interstitial-background-container
 youtube.com##.ytp-ad-action-interstitial-slot
+youtube.com##.ytp-ad-button
 youtube.com##.ytp-ad-image-overlay
 youtube.com##.ytp-ad-overlay-container
+youtube.com##.ytp-ad-player-overlay-flyout-cta
 youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-progress-list
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
@@ -4258,7 +4260,7 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
 @@||amazonaws.com/mibbit/gfx/youtube.png
 @@||androidpit.info/userfiles/*image/youtube-logo-
-@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|porticoindia.com|prntscr.com|sato.fi|typewriter.at
+@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|artstation.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|porticoindia.com|prntscr.com|sato.fi|typewriter.at
 @@||authy.com/wp-content/themes/authy/assets/images/icons/google-authenticator.svg
 @@||cdn.syndication.twimg.com/tweets.json
 @@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
