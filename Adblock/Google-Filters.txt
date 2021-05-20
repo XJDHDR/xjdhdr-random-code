@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oN2j+uTO1Nytpj+4iFiTmg
-! Version: 202105200200
+! Checksum: 0Ms6sAXHrZIweeaw9x67ag
+! Version: 202105201400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 20 May 2021 02:00 UTC
+! Last modified: 20 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1327,7 +1327,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||fdxdjkswppg.com^
 ||feintstrainhog.com^
 ||fertilizeranaemiaupcoming.com^
-||feyfjlpeexvg.com^
 ||fifteenthfeeding.com^
 ||fkbwtoopwg.com^
 ||flippantreprehensiblecharming.com^
@@ -1378,9 +1377,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||lamforsung.com^
 ||lasyowayrzgv.com^
 ||ldgvxuhg.com^
-||leimardog.com^
 ||lidsfoalliving.com^
-||lpoggqfdlmdsg.com^
 ||luuming.com^
 ||madserving.com^
 ||managesdancing.com^
@@ -1508,6 +1505,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||xqgzvsjmnmgv.com^
 ||xxutoyreg.com^
 ||yachtpreceding.com^
+||yawcoynag.com^
 ||yegsrmqqpg.com^
 ||ykrssqaufg.com^
 ||yr9n47004g.com^
@@ -2490,6 +2488,7 @@ _GoogleTagManager2/
 ||weblog.com.ua^$third-party
 ||360buyimg.com^*/unit/log/*/log.js
 ||adlog.com.com^
+||analytics.chegg.com^
 ||analytics.onlyonlinemarketing.com^
 ||analytics.threedeepmarketing.com^
 ||attributiontrackingga.googlecode.com^
