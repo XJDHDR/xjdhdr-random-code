@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r6SLOorZBlRJ087mBEEQMw
-! Version: 202105191400
+! Checksum: oN2j+uTO1Nytpj+4iFiTmg
+! Version: 202105200200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 19 May 2021 14:00 UTC
+! Last modified: 20 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2160,6 +2160,7 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|video.tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp|pccomponentes.com|voici.fr
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
+@@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|voici.fr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
@@ -2957,7 +2958,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||synlab.it^*/angular-google-analytics.js
 @@||chancro.jp/assets/lib/googleanalytics-$script
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|kakuyomu.jp|sankei.com|ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|kakuyomu.jp|sankei.com|ymobile.jp
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||delet.jhi.pl/bower_components/angular-google-analytics/$script,~third-party

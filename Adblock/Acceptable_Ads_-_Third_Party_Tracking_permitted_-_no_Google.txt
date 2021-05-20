@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RzK8Cs3y3oAirk3y3YkFAw
-! Version: 202105191400
+! Checksum: rHHKBwKqCsqPxu7wgCZJcg
+! Version: 202105200200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 May 2021 14:00 UTC
+! Last modified: 20 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1564,7 +1564,7 @@ fincalculator.ru#@#.adv-border
 @@||projectagora.net/libs/prebid.js$script,domain=merrjep.al|rassdtunisia.net|anime2001.com|kosovarja-ks.com
 @@||ads.projectagoraservices.com^$script,domain=theunionjournal.com|merrjep.al|hinditwostop.com|rassdtunisia.net|kosovarja-ks.com
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
-@@||patgsrv.com/c^$script,domain=policenews.eu|theunionjournal.com|hobi.ba|cluj24.ro|arabiaweather.com
+@@||patgsrv.com/c^$script,domain=storymag.cz|policenews.eu|theunionjournal.com|hobi.ba|cluj24.ro|arabiaweather.com
 @@||domslc.com/c^$script,domain=hellomama.com.cy
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=skai.gr|newsbreak.gr|ciao.ro
@@ -5316,7 +5316,7 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 @@||an.yandex.ru/jstracer^$xmlhttprequest,domain=fotostrana.ru
 @@||an.yandex.ru/meta/$xmlhttprequest,domain=fotostrana.ru
 @@||yandex.net/get-direct/$image,domain=fotostrana.ru
-@@||yastatic.net/safeframe-bundles^$subdocument,script,domain=fotostrana.ru
+@@||yastatic.net/safeframe-bundles^$subdocument,document,script,domain=fotostrana.ru
 @@||yastatic.net/pcode/adfox^$subdocument,script,domain=fotostrana.ru
 fotostrana.ru#@#.img_ad
 fotostrana.ru#@##king-rightplace
@@ -6166,9 +6166,9 @@ theweek.com#@#.mobads
 ew.com,people.com,theweek.com#@#.mobile-ad
 theweek.com#@#.mp-ad
 games.co.uk#@#.mpu
-falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk,irishpost.com,parkers.co.uk#@#.mpu-ad
-falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.dmpu-ad
-falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.ad-overlay
+ballymoneytimes.co.uk,ballymenatimes.com,banbridgeleader.co.uk,batleynews.co.uk,bedfordtoday.co.uk,belpernews.co.uk,berkhamstedtoday.co.uk,berwick-advertiser.co.uk,berwickshirenews.co.uk,bexhillobserver.net,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bognor.co.uk,bridlingtonfreepress.co.uk,brighouseecho.co.uk,brightonandhoveindependent.co.uk,buckinghamtoday.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlukegazette.co.uk,carrickfergustimes.co.uk,chichester.co.uk,chorley-guardian.co.uk,clitheroeadvertiser.co.uk,colerainetimes.co.uk,crawleyobserver.co.uk,cumbernauld-news.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donsidepiper.co.uk,dunstabletoday.co.uk,eastbourneherald.co.uk,edinburghnews.scotsman.com,ellontimes.co.uk,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,fleetwoodtoday.co.uk,fraserburghherald.co.uk,gallowaygazette.co.uk,glasgowsouthandeastwoodextra.co.uk,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk,irishpost.com,parkers.co.uk#@#.mpu-ad
+ballymoneytimes.co.uk,ballymenatimes.com,banbridgeleader.co.uk,batleynews.co.uk,bedfordtoday.co.uk,belpernews.co.uk,berkhamstedtoday.co.uk,berwick-advertiser.co.uk,berwickshirenews.co.uk,bexhillobserver.net,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bognor.co.uk,bridlingtonfreepress.co.uk,brighouseecho.co.uk,brightonandhoveindependent.co.uk,buckinghamtoday.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlukegazette.co.uk,carrickfergustimes.co.uk,chichester.co.uk,chorley-guardian.co.uk,clitheroeadvertiser.co.uk,colerainetimes.co.uk,crawleyobserver.co.uk,cumbernauld-news.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donsidepiper.co.uk,dunstabletoday.co.uk,eastbourneherald.co.uk,edinburghnews.scotsman.com,ellontimes.co.uk,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,fleetwoodtoday.co.uk,fraserburghherald.co.uk,gallowaygazette.co.uk,glasgowsouthandeastwoodextra.co.uk,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.dmpu-ad
+ballymoneytimes.co.uk,ballymenatimes.com,banbridgeleader.co.uk,batleynews.co.uk,bedfordtoday.co.uk,belpernews.co.uk,berkhamstedtoday.co.uk,berwick-advertiser.co.uk,berwickshirenews.co.uk,bexhillobserver.net,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bognor.co.uk,bridlingtonfreepress.co.uk,brighouseecho.co.uk,brightonandhoveindependent.co.uk,buckinghamtoday.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlukegazette.co.uk,carrickfergustimes.co.uk,chichester.co.uk,chorley-guardian.co.uk,clitheroeadvertiser.co.uk,colerainetimes.co.uk,crawleyobserver.co.uk,cumbernauld-news.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donsidepiper.co.uk,dunstabletoday.co.uk,eastbourneherald.co.uk,edinburghnews.scotsman.com,ellontimes.co.uk,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,fleetwoodtoday.co.uk,fraserburghherald.co.uk,gallowaygazette.co.uk,glasgowsouthandeastwoodextra.co.uk,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.ad-overlay
 cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,se1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com#@#.mpu_container
 runt-of-the-web.com#@#.mrec
 golfwrx.com#@#.mvp-ad-label
@@ -8136,6 +8136,12 @@ verdem-crypto.github.io#@##sponsored_content
 @@$elemhide,sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
 /abp/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
 @@/abp/px.gif?ch=1&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOkfkOV3lsGKqQ9j5bagzq3wjNQNxWwn/esVXnQFKykdGNnnz7w5UeA2I4OuWHWvh0oBKk747TbfSyNssqOrybkCAwEAAQ
+!:partner_token=veliainn.com ads
+!:partner_id=5eecc1c023bd7fb7
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82257
+! veliainn.com ads
+@@||s.nitropay.com/ads-685.js$script,xmlhttprequest,domain=veliainn.com
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -8889,7 +8895,7 @@ basketusa.com,basketusa.assistpub.com#@#.ad-medium
 cars.com#@#.cubeAd
 coolmath.com,travelandleisure.com,parents.com#@#.ad-wrapper
 travelandleisure.com,parents.com#@#.desktop-ad
-travelandleisure.com#@#.ad-title
+ghacks.net,travelandleisure.com#@#.ad-title
 travelandleisure.com,parents.com#@#.ad-sticky-container
 menshealth.com,menshealth.assistpub.com,delish.com,delish.assistpub.com#@#.right-rail-ad
 menshealth.com,menshealth.assistpub.com,delish.com,delish.assistpub.com#@#.listicle--ad-rail
@@ -8956,6 +8962,10 @@ virgilio.it#@#.hp_970x90
 wetteronline.de,wetteronline.ch,wetteronline.at#@#.adplace
 gelderlander.nl,ad.nl,bd.nl,ed.nl,tubantia.nl,pzc.nl,destentor.nl#@#.ankeiler--advertisement
 gelderlander.nl,ad.nl,bd.nl,ed.nl,tubantia.nl,pzc.nl,destentor.nl#@#.page-header__section--spacer
+ghacks.net#@#.column-ad
+ghacks.net#@#.wide-ad
+ghacks.net#@##snhb-snhb_ghacks_bottom-0
+ghacks.net#@#.ftd-item.home-posts
 ! vesty.co.il#@#.top-ad
 ! Hidden for compliance
 searchenginejournal.com###nng
@@ -9052,7 +9062,7 @@ yahoo.com#@#.viewer-sda-container
 @@||m.media-amazon.com/images^$image,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 ||m.media-amazon.com/images/G/*/csm/showads.*.js$domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 !
-@@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||ssl-images-amazon.com^*/ape/sf/whitelisted/desktop/$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||d1lxz4vuik53pc.cloudfront.net/*/inner.html$subdocument,document,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||d1lxz4vuik53pc.cloudfront.net/*/inner-host.min.js$domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
@@ -9062,8 +9072,12 @@ yahoo.com#@#.viewer-sda-container
 @@||amazon-adsystem.com/s/iu3^$subdocument,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/bao-csm/forensics/a9-tq-forensics.min.js$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 @@||amazon-adsystem.com/x/px/$xmlhttprequest,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
-@@||ssl-images-amazon.com/*/ape/la/desktop/ApeDLA-$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
-@@||m.media-amazon.com/images^*&ape_al=true^$script,domain=amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa
+@@||ssl-images-amazon.com/*/ape/la/desktop/ApeDLA-$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||m.media-amazon.com/images/*^ape_al=true^$script,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon.*/e/xsp/imp?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon.*/x/px/?$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon.*/x/c/*$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
+@@||amazon-adsystem.com/x/c/*$image,domain=amazon.com|amazon.co.jp|amazon.co.uk|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.ca|amazon.cn|amazon.com.mx|amazon.com.au|amazon.ae|amazon.sa|amazon.com.br|amazon.nl|amazon.sg
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=15633
