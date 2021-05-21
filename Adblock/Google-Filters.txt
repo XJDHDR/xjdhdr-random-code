@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0Ms6sAXHrZIweeaw9x67ag
-! Version: 202105201400
+! Checksum: nlm16vUnNhvD8Y63cxLhdQ
+! Version: 202105210200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 20 May 2021 14:00 UTC
+! Last modified: 21 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -191,7 +191,7 @@
 /toigoogleleads_
 /vifGoogleAd.
 /widgetadsense.
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ;adsense_
 =showsearchgoogleads&
 _adsense.
@@ -2904,7 +2904,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||puch-ersatzteile.at^*/google-analytics.min.js
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bigodino.it|bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|formulapassion.it|gamesradar.com|gianlucadimarzio.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bigodino.it|bikeperfect.com|centrometeoitaliano.it|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|formulapassion.it|gamesradar.com|gianlucadimarzio.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||savjee.be/uploads/2020-10-27-effect-adblockers-on-google-analytics-vs-plausible/$~third-party
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com

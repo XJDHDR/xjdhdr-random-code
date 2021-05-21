@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ajJfE/sgz/PtYRqNPXBobw
-! Version: 202105201400
+! Checksum: XIpcJvYQxl0TjWLcjupDtg
+! Version: 202105210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 May 2021 14:00 UTC
+! Last modified: 21 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -716,6 +716,7 @@ windows-phone-7.su#@#.ya-partner
 @@||atemda.com/JSAdservingMP.ashx?$script,domain=onet.pl|~www.onet.pl
 @@||atemda.com/IfrJSAdLoader.htm?clickthrough=$subdocument,document,domain=onet.pl|~www.onet.pl
 @@||s.atemda.com^$image,script,domain=onet.pl|~www.onet.pl
+||slotverify.dreamlab.pl^$subdocument,domain=szukaj.onet.pl
 onet.pl,~www.onet.pl#@#.ad_boxright1
 onet.pl,~www.onet.pl#@#.ad_box
 onet.pl,~www.onet.pl#@#.bxad
@@ -8899,6 +8900,7 @@ ghacks.net#@#.wide-ad
 ghacks.net#@##snhb-snhb_ghacks_bottom-0
 ghacks.net#@#.ftd-item.home-posts
 mensagenscomamor.com,horoscopovirtual.com.br,eusemfronteiras.com#@#.vce-ad-container
+rd1.com.br,fdr.com.br,spinoff.com.br#@#.ad-block
 ! vesty.co.il#@#.top-ad
 ! Hidden for compliance
 searchenginejournal.com###nng
@@ -10338,11 +10340,12 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 !:partner_id=627d41fb6de11f94
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=18121
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=24361
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=142591#p142591
-!:forum=https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
 ! Verizon Media ads
+! Additional forum links
+! https://adblockplus.org/forum/viewtopic.php?f=12&t=24361
+! https://adblockplus.org/forum/viewtopic.php?f=12&t=40856
+! https://adblockplus.org/forum/viewtopic.php?p=142591#p142591
+! https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
 ! Display ads
 @@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
 @@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
@@ -10696,6 +10699,11 @@ fontanka.ru#@#section div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 !:partner_id=25a5b2915c0c608d
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=25991
+!:partner_token=Blockthrough Inc.
+!:partner_id=2b3e85777627e764
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=53737
+! Uponit ads
 ! *** exceptions:exceptionrules/exceptionrules-no-third-party-tracking.txt ***
 !:partner_token=duckduckgo.com
 !:partner_id=9df9943c03442951
