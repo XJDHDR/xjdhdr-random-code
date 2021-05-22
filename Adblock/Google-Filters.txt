@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +oIY0zS8CZC+/m3QaWDGqg
-! Version: 202105211400
+! Checksum: zhDXocWWuEnyNz/E7nAX9A
+! Version: 202105220200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 May 2021 14:00 UTC
+! Last modified: 22 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -674,10 +674,13 @@ _reklama_$domain=~youtube.com
 ##.adsbygoogle-responsive-fix
 ##.adsbygoogle2
 ##.adsense-250
+##.adsense-300-600
 ##.adsense-300x256-widget
 ##.adsense-300x256-widget-2
 ##.adsense-336
+##.adsense-336-280
 ##.adsense-468
+##.adsense-728-90
 ##.adsense-ad
 ##.adsense-ad-results
 ##.adsense-ads
@@ -1064,6 +1067,7 @@ _reklama_$domain=~youtube.com
 ##.idgGoogleAdTag
 ##.in-article-adsense
 ##.indy_googleads
+##.inline-google-ad-slot
 ##.inlineadsense
 ##.js-googleAdSuperHeader-wrapper
 ##.l-adsense
@@ -1661,6 +1665,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||adaptv.advertising.com^
 ||associmg.com^*.gif?tag-
 ||banman.isoftmarketing.com^$third-party
+||booking.com/images/partner/$third-party
 ||booking.com^$subdocument,domain=ekathimerini.com
 ||booking.com^*;tmpl=banner_
 ||cars.fyidriving.com^$subdocument,third-party
