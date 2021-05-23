@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Mm+C7w6q+EdlZNGFhNqGyQ
-! Version: 202105221400
+! Checksum: 04zfEgLaBv+HyPQkIctQ9A
+! Version: 202105230200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 22 May 2021 14:00 UTC
+! Last modified: 23 May 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2137,6 +2137,8 @@ myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|grammarist.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
 @@||pbs.twimg.com/ad_img/$image,xmlhttprequest
+@@||rumble.com/embedJS/$script,domain=usawatchdog.com
+@@||rumble.com/j/p/$script,domain=usawatchdog.com
 @@||summitracing.com/global/images/bannerads/
 @@||survey.g.doubleclick.net^$script,domain=sporcle.com
 @@||translate.google.*/translate_*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
