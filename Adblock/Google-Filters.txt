@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i/KOuhtFMR0Gxef8COklog
-! Version: 202105250200
+! Checksum: WtiKPp8IxDSPk4paBUBagg
+! Version: 202105251400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 May 2021 02:00 UTC
+! Last modified: 25 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1336,6 +1336,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||flippantreprehensiblecharming.com^
 ||flowerythug.com^
 ||folksattunewig.com^
+||forbearcorrectinvolving.com^
 ||fosterheiressdug.com^
 ||fourthug.com^
 ||fsvulvfqg.com^
@@ -2084,28 +2085,24 @@ cantoot.com###googlebox
 youtubelike.com###header-top
 69gfs.com,allureamateurs.net,mataporno.com,sexmummy.com,teenwantme.com,worldgatas.com,xpg.com.br###topbar
 pornsharing.com##.allIMwindow
-3movs.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,porngames.com,pornoreino.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
+analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,porngames.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com##.banner
 celebritymovieblog.com##.banner700
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
 thefappeningblog.com##.cl-exl
 youtubelike.com##.gallery-thumbs
+porndig.com##.js_footer_partner_container_wrapper
 spankbang.com##.live-rotate
 spankbang.com##.livecam-rotate
 sticking.com##.sb-box
 dominationtube.com,gaysexarchive.com,skeezy.com,sticking.com##.sb-txt
 waybig.com##.sidebar_zing
 sexyandshocking.com##.sub-holder
-ero-advertising.com##[id][style]
-asspoint.com,babepedia.com,babesandstars.com,babesource.com,dachix.com,dbnaked.com,definebabe.com,freeones.com,gaytube.com,gfycatporn.com,girlsnaked.net,javfor.me,mansurfer.com,newpornstarblogs.com,ok.porn,pichunter.com,porn-star.com,porn.com,porndoe.com,pornerbros.com,pornhubpremium.com,pornstarchive.com,porntube.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,spankbang.com,str8upgayporn.com,the-new-lagoon.com,tube8.com,wcareviews.com,xxxonxxx.com,youjizz.com,youporn.com##a[href*=".com/track/"]
+asspoint.com,babepedia.com,babesandstars.com,babesource.com,dachix.com,dbnaked.com,definebabe.com,freeones.com,gfycatporn.com,javfor.me,mansurfer.com,newpornstarblogs.com,ok.porn,pichunter.com,porn-star.com,porn.com,porndoe.com,pornhubpremium.com,pornstarchive.com,porntube.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,spankbang.com,str8upgayporn.com,the-new-lagoon.com,tube8.com,wcareviews.com,xxxonxxx.com,youjizz.com,youporn.com##a[href*=".com/track/"]
 hdzog.com,xcafe.com##a[href*="/cs/"]
-porndig.com##a[href*="/trackhit/"]
-porndig.com##a[href*="/zone_link/"]
-daftsex.com,pornhub.com,pornhubpremium.com,pstargif.com,sextvx.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xnostars.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
+daftsex.com,pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,daftsex.com,devporn.net,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
 pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjunky.net/"]
-hentai-imperia.org,naughtyblog.org##a[href^="http://goo.gl/"]
-myfreeblack.com##a[href^="http://www.fling.com/enter.php"]
 8boobs.com,alrincon.com,boobieblog.com,porngames.club,thenipslip.com,wetpussygames.com##canvas
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
 @@||banmancounselling.com/wp-content/themes/banman/

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nMa2h/ItChFHVB+led1Mkw
-! Version: 202105250200
+! Checksum: yqZ1RTUtnl5v2JmTIka/Sw
+! Version: 202105251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 May 2021 02:00 UTC
+! Last modified: 25 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1555,7 +1555,7 @@ fincalculator.ru#@#.adv-border
 @@||ads.projectagoraservices.com^$script,domain=theunionjournal.com|merrjep.al|hinditwostop.com|rassdtunisia.net|kosovarja-ks.com
 @@||projectagoralibs.com/libs/projectagora.min.js$domain=btolat.com|hkotwa4news.com|worksjet.com|rassdtunisia.net|anime2001.com|awdaa.news|light-dark.net
 @@||patgsrv.com/c^$script,domain=storymag.cz|policenews.eu|theunionjournal.com|hobi.ba|cluj24.ro|arabiaweather.com
-@@||domslc.com/c^$script,domain=hellomama.com.cy
+@@||domslc.com/c^$script,domain=hellomama.com.cy|drivemebaby.hu
 @@||jeded.com/ads/1.js|$domain=subscene.com
 @@||domslc.com^$third-party,domain=skai.gr|newsbreak.gr|ciao.ro
 @@||kaosenlared.net/wp-content/plugins/better-adsmanager/js/advertising.min.js^$domain=kaosenlared.net
@@ -6493,6 +6493,9 @@ moneywise.com#@#.right-rail-ad
 moneywise.com#@#.advert-txt
 ballreviews.com#@##adContainerForum
 dealwiki.com#@#.block-ads
+gfinityesports.com,realsport101.com#@#.m-ad__wrapper--highlight
+gfinityesports.com,realsport101.com#@#.m-ad__wrapper--300x250
+gfinityesports.com,realsport101.com#@#.m-ad__wrapper
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6766,8 +6769,8 @@ manofmany.com##.incontent-ad-banner
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 ||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
-@@||kumo.network-n.com/dist/latest/gpt.js$domain=namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/dist/latest/prebid.js$domain=namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/gpt.js$domain=genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/latest/prebid.js$domain=genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
