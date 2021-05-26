@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eZJYyYAQuKj/Znt6hMECxw
-! Version: 202105260200
+! Checksum: sgIGGzWwkH4fh9ayJkVO1w
+! Version: 202105261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 May 2021 02:00 UTC
+! Last modified: 26 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1799,7 +1799,6 @@ cnet.com#@#.trc_excludable
 proceso.com.mx##.trc_rbox.thumbnails-b
 thefreethoughtproject.com,thepoke.co.uk#@#.trc_rbox_container
 edaily.co.kr#@#.trc_rbox_div a[target="_blank"][href^="http://tab"]
-thepoke.co.uk#@#.trc_related_container
 peoplefolie.fr,ecofoot.fr,liftbump.com,yoamoloszapatos.com#@#.widget-ad
 amelioretasante.com,askelterveyteen.com,attvaramamma.se,bedrelivsstil.dk,benanneyim.com,bessergesundleben.de,buscouncoche.es,deinetiere.com,dozadesanatate.ro,eresdeportista.com,eresmama.com,etreparents.com,gezonderleven.com,krokdozdrowia.com,mejorconsalud.com,mesanimaux.com,meygeia.gr,misanimales.com,miviaje.com,moyezdorovya.com.ua,myanimals.com,pieknoumyslu.com,sagligabiradim.com,stegforhalsa.se,steptohealth.com,utforskasinnet.se,veientilhelse.no,vuelosbaratosbaratos.com,youaremom.com,zdraveikrasota.bg#@#.widget-ads
 stylerange.com#@#.widget_advert
@@ -1858,7 +1857,7 @@ actionnewsjax.com,adn.com,baltimoresun.com,boston25news.com,courant.com,dailypre
 infoescola.com#@#.ads
 infoescola.com##.ads:not(#recomendacoes)
 elperiodico.com#@#.adLoaded
-hotbikeweb.com,workingmother.com#@#.taboola-placement
+lifehacker.com.au,kotaku.com.au,gizmodo.com.au,hotbikeweb.com,workingmother.com#@#.taboola-placement
 ! Hidden for compliance
 news.com.au##.promoted-stories
 ynetnews.com###embedder-1
@@ -3381,6 +3380,13 @@ wallapop.com##.home-pub-section-top
 @@||cdn2.mynvwm.com/wp-content/themes/mwp-parent/js/prebid.js$domain=mynavi.jp
 @@||ads.rubiconproject.com/prebid$domain=forzastyle.com|mdpr.jp
 ! Criteo sponsored products on retailer websites
+@@||dnisjsqid2b9p.cloudfront.net^$image,stylesheet,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
+@@||hlserve.com^*abe=$image,xmlhttprequest,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
+@@||hlserve.com/Delivery^$script,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
+@@||hlserve.com^$stylesheet,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
+@@||hlserve.com/usersync?$image,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
+@@||criteo.com^*abe=$image,xmlhttprequest,stylesheet,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
+@@||criteo.com/Delivery^$script,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de; checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
 !:partner_token=Curse
 !:partner_id=f615659f2fc7ce11
 !:type=partner
@@ -6014,7 +6020,7 @@ arcamax.com,greatschools.org#@#.ad-column
 broadwayworld.com#@#.ad-desktop
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-ex
 buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.ad-fadeup
-idolator.com,buzznet.com,index.hr#@#.ad-holder
+coolmathgames.com,idolator.com,buzznet.com,index.hr#@#.ad-holder
 theartstory.org,windfinder.com#@#.ad-horizontal
 theartstory.org,smitefire.com#@#.ad-vertical
 mrexcel.com#@#.ad-in-post
@@ -6491,7 +6497,7 @@ paruvendu.fr#@#.optidigital-ad-center
 paruvendu.fr#@#div[id^="optidigital-adslot-"]
 paruvendu.fr#@#.pagin_pub
 modworkshop.net#@##top-ad
-modworkshop.net#@##left-ad
+coolmathgames.com,modworkshop.net#@##left-ad
 guru99.com#@#.mobileadunit
 guru99.com#@#div.custom > .hidden-phone
 guru99.com#@#[style^="float"]
@@ -6561,6 +6567,7 @@ dealwiki.com#@#.block-ads
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper--highlight
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper--300x250
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper
+coolmathgames.com#@#.adbottom
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6853,6 +6860,7 @@ manofmany.com##.incontent-ad-banner
 @@||ad.medyanetads.com/adservice/adservice.js$script,domain=fanatik.com.tr|posta.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
+@@||cdn.intergi.com/cmg/banner.json$domain=coolmathgames.com
 @@||scripts.static-od.com/setup/?site=$domain=paruvendu.fr
 @@||sac.ayads.co/sublime/31128/prebid$domain=paruvendu.fr
 @@||optchk.ayads.co/?callback=sublimeCb$domain=paruvendu.fr
@@ -6874,7 +6882,6 @@ manofmany.com##.incontent-ad-banner
 @@||hb-quizlet.s3.us-east-2.amazonaws.com/slader/asc_prebid.js$domain=slader.com
 @@||cdn.thisiswaldo.com/static/js/*.js$script,domain=statisticshowto.com|emojipedia.org
 ! Default filters for long domain lists
-!
 !
 !
 !
@@ -10456,6 +10463,7 @@ mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
 mail.yahoo.com###sb_rel_tgtLREC4.darla
 ! Yahoo search/in-feed ads
 !
+@@||gla.search.yahoo.com^$~third-party,xmlhttprequest
 !
 @@||track.adform.net^$popup,domain=yahoo.com
 @@||mediaplex.com/ad/ck/$popup,domain=yahoo.com
@@ -10986,6 +10994,8 @@ linkedin.com###right-rail > #right-ad-container > #ad-contacts-pymk-fs-2
 linkedin.com#@#.iframe-ad
 linkedin.com##IMG.img_ad[src^="https://media.licdn.com/mpr/mpr/"]
 linkedin.com#@#a[href^="https://bs.serving-sys.com"]
+linkedin.com#@#.feed-shared-update-v2:-abp-has(.feed-shared-actor__sub-description:-abp-contains(/Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|الترويج/))
+linkedin.com#@#.scaffold-layout__ad
 !:partner_token=south-plus.net
 !:partner_id=a3d205dfd0a2eb76
 !:type=partner
