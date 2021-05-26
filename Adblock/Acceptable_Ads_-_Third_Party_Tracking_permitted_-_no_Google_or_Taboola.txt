@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yqZ1RTUtnl5v2JmTIka/Sw
-! Version: 202105251400
+! Checksum: OYXEj+iDoB/hOunkmjdsTw
+! Version: 202105260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 25 May 2021 14:00 UTC
+! Last modified: 26 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7578,7 +7578,7 @@ tsn.ua#@#[data-partners-iframe]
 newsru.com#@#div[id^="adfox_"]
 newsru.com#@#div[class*="prm"]
 @@||api.unblockia.com/api/sites/0/config.json^$domain=varta1.com.ua|seo-fast.ru|newsyou.info
-@@||unblockia.com^$third-party,xmlhttprequest,domain=liga.net|ximepa.ru|sunhome.ru|newsru.com
+@@||unblockia.com^$third-party,xmlhttprequest,domain=forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner

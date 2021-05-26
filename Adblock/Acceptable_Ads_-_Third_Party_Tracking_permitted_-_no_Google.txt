@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: z4tDJqv/X5FTekBioXjYrw
-! Version: 202105251400
+! Checksum: eZJYyYAQuKj/Znt6hMECxw
+! Version: 202105260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 May 2021 14:00 UTC
+! Last modified: 26 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1858,6 +1858,7 @@ actionnewsjax.com,adn.com,baltimoresun.com,boston25news.com,courant.com,dailypre
 infoescola.com#@#.ads
 infoescola.com##.ads:not(#recomendacoes)
 elperiodico.com#@#.adLoaded
+hotbikeweb.com,workingmother.com#@#.taboola-placement
 ! Hidden for compliance
 news.com.au##.promoted-stories
 ynetnews.com###embedder-1
@@ -7642,7 +7643,7 @@ tsn.ua#@#[data-partners-iframe]
 newsru.com#@#div[id^="adfox_"]
 newsru.com#@#div[class*="prm"]
 @@||api.unblockia.com/api/sites/0/config.json^$domain=varta1.com.ua|seo-fast.ru|newsyou.info
-@@||unblockia.com^$third-party,xmlhttprequest,domain=liga.net|ximepa.ru|sunhome.ru|newsru.com
+@@||unblockia.com^$third-party,xmlhttprequest,domain=forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
