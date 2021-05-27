@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yJfZwoJ1WROECDlsItftnA
-! Version: 202105261400
+! Checksum: T0Ot3sAUL9pwtYzxyOrSfQ
+! Version: 202105270200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 26 May 2021 14:00 UTC
+! Last modified: 27 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5824,6 +5824,7 @@ dailywire.com#@#div[style^="width: 728px;"]
 @@||widget.perfectmarket.com/indiatoday-indiatoday/load.js$domain=indiatoday.in
 @@||widget.perfectmarket.com/indiatoday-indiatoday/pmk-201901001.13.js$domain=indiatoday.in
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|fextralife.com|lotrointerface.com|metasrc.com|mmoui.com|nerfplz.com|poe.trade|riftui.com|secretui.com|swtorui.com|wowhead.com|wowinterface.com|ygoprodeck.com
+@@||d25lqe4mlyaln6.cloudfront.net/script.js^$domain=gbatemp.net
 !:partner_token=Blockthrough Inc.
 !:partner_id=2b3e85777627e764
 !:type=partner
