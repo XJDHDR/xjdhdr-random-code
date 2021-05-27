@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z1/O/3xGAL1189efnV+NCw
-! Version: 202105270200
+! Checksum: tUlJV4Kls/69CyupZvzWOA
+! Version: 202105271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 May 2021 02:00 UTC
+! Last modified: 27 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -4526,6 +4526,8 @@ strojar.com#@#[id^="aswift"]
 @@||dianomi.com/js/tcflib.js$domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2582&$script,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2583&$script,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=2592^$subdocument,document,domain=marketwatch.com
+@@||dianomi.com/smartads.epl?id=6060^$subdocument,document,domain=marketwatch.com
 @@||dianomi.com/smartads.epl?id=2641$subdocument,domain=seekingalpha.com
 @@||dianomi.com/smartads.epl?id=2660$subdocument,domain=entrepreneur.com
 @@||dianomi.com/smart_entrepreneur.epl?id=2667^$subdocument,domain=entrepreneur.com
@@ -4585,6 +4587,8 @@ marketwatch.com#@#.dianomi_context
 reuters.com#@#div[class^="DPSlot"]
 seekingalpha.com#@##article-right-slot-1
 @@||us.tags.newscgp.com/prod/prebid/marketwatch/pb-no-auto.js$domain=marketwatch.com
+marketwatch.com#@#.container--sponsored
+marketwatch.com#@#.sponsored-content
 !:partner_token=tampermonkey.net
 !:partner_id=653c5ccbc524fb4f
 !:type=partner
@@ -6043,7 +6047,7 @@ emojipedia.org,fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
 idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 r6.tracker.network,upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
-bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
+hollywoodreporter.com,bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
 rotowire.com,gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
@@ -6072,7 +6076,7 @@ base64decode.org,urldecoder.org,discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
 kongregate.com,msn.com,itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
-bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.admz
+hollywoodreporter.com,bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.admz
 somethingawful.com#@#.adrect
 obrazovaka.ru#@#.ads-block
 gosunoob.com#@#.ads-container
@@ -6145,7 +6149,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-battlefieldtracker.com,rocketleague.tracker.network,aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+immigrer.com,battlefieldtracker.com,rocketleague.tracker.network,aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 battlefieldtracker.com,rocketleague.tracker.network,tracker.gg#@#.lb-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
@@ -6550,7 +6554,7 @@ emojipedia.org,rotowire.com#@#.ad-footer
 itstillruns.com#@#.ad-section
 idealhome.co.uk#@#.header-advert
 idealhome.co.uk#@#.header-advert-wrapper
-footwearnews.com#@#.widget_pmc-ads-widget
+hollywoodreporter.com,footwearnews.com#@#.widget_pmc-ads-widget
 dotabuff.com#@#.blog-ad
 idealhome.co.uk#@#.ipc-advert
 cinemablend.com#@##leaderboard-ad
@@ -6569,6 +6573,7 @@ gfinityesports.com,realsport101.com#@#.m-ad__wrapper--highlight
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper--300x250
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper
 coolmathgames.com#@#.adbottom
+cestnormalauquebec.com#@##ads-blog
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6722,8 +6727,9 @@ manofmany.com##.incontent-ad-banner
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=businesscasestudies.co.uk|fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder^$domain=successaga.com|cosmicbook.news|nomix.it|ooyyo.com|mondodesign.it
-@@||thesocialpost.it/wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
+@@^wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
 @@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
+@@^wp-content/themes/*/Assets^$domain=st.definition.org
 @@||a.pub.network^$stylesheet,domain=photographyinflux.com|rotowire.com
 @@||a.pub.network/core/pubfig/pubfig.engine.$xmlhttprequest,domain=investorsobserver.com
 @@||a.pub.network/core/prebid-analytics-$xmlhttprequest,domain=investorsobserver.com
@@ -6793,7 +6799,7 @@ manofmany.com##.incontent-ad-banner
 @@||us.tags.newscgp.com/prod/prebid/nyp^$script,domain=nypost.com|decider.com|pagesix.com
 @@||api.assertcom.de^$domain=imgur.com
 @@||cdn.ay.delivery^$domain=imgur.com
-@@||ads.blogherads.com^$domain=indiewire.com|deadline.com|footwearnews.com|goldderby.com|variety.com|tvline.com|bgr.com|rollingstone.com
+@@||ads.blogherads.com^$domain=hollywoodreporter.com|indiewire.com|deadline.com|footwearnews.com|goldderby.com|variety.com|tvline.com|bgr.com|rollingstone.com
 @@||cdn.firstimpression.io/delivery^$domain=modthesims.info
 @@||ecdn.firstimpression.io/static/sw/tracking-sw-index.html$domain=modthesims.info
 @@||lngtd.com/prebid^$domain=probuildstats.com|pixelpapercraft.com|minecraftforge.net|discogs.com|2kmtcentral.com|bonk.io|bookrags.com|civfanatics.com|critrolestats.com|curseforge.com|foreignpolicy.com|gradesaver.com|lolskill.net|mmo-fashion.com|mythicspoiler.com|narwhale.io|pokebattler.com|serenesforest.net|socialblade.com|speedrun.com|collegeconfidential.com|u.gg|uesp.net|westeros.org|woot.com|zombsroyale.io
@@ -9033,6 +9039,7 @@ yahoo.com#@#.darla-lrec-ad
 yahoo.com##.darla-lrec-ad:not(.uba-container)
 yahoo.com#@##sda-LDRB
 yahoo.com###sda-MON:not(.uba-container)
+yahoo.com###sda-MON2:not(.uba-container)
 yahoo.com#@##sda-LDRB2
 yahoo.com##.viewer-sda-container > *:not(.uba-container)
 yahoo.com#@#.viewer-sda-container
