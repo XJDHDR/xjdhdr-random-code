@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Dffjydb03wQWMSndFLD1fw
-! Version: 202105271400
+! Checksum: 1j6Ml/m8ngSioaBSyXEbpA
+! Version: 202105280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 27 May 2021 14:00 UTC
+! Last modified: 28 May 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5643,7 +5643,7 @@ devmn.net,mumsnet.com#@#.Ad-leaderboard
 dailywire.com#@#.AdsRec
 dailywire.com#@#.Ads_4
 legacy.com#@#.RightAdWrapper
-chip.com.tr,cnsnews.com,colourlovers.com,dealnews.com,mako.co.il,ranker.com,usmagazine.com,wegotthiscovered.com#@#.ad
+comicbookmovie.com,chip.com.tr,cnsnews.com,colourlovers.com,dealnews.com,mako.co.il,ranker.com,usmagazine.com,wegotthiscovered.com#@#.ad
 cnn.com#@#.ad-1
 geeksaresexy.net#@#.ad-160
 geeksaresexy.net#@#.ad-160-above
@@ -5794,6 +5794,8 @@ ncaa.com#@#div[id^="ad_rect_"]
 gamepedia.com#@#div[id^="cdm-zone"]
 dailywire.com#@#div[style^="max-width: 300px;"]
 dailywire.com#@#div[style^="width: 728px;"]
+comicbookmovie.com#@##adATF728x90
+chess.com#@##tall-sidebar-ad
 @@/packs/concert_ads-$script,domain=sbnation.com|sbndev.net
 @@||247chess.com/js/ads.js
 @@||api.wikia.nocookie.net^*/wikia.php?controller=AdEngine3ApiController&method=getRecCode&type=bt$script,domain=fandom.com
@@ -5828,7 +5830,7 @@ dailywire.com#@#div[style^="width: 728px;"]
 @@||widget.perfectmarket.com/indiatoday-indiatoday/load.js$domain=indiatoday.in
 @@||widget.perfectmarket.com/indiatoday-indiatoday/pmk-201901001.13.js$domain=indiatoday.in
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|fextralife.com|lotrointerface.com|metasrc.com|mmoui.com|nerfplz.com|poe.trade|riftui.com|secretui.com|swtorui.com|wowhead.com|wowinterface.com|ygoprodeck.com
-@@||d25lqe4mlyaln6.cloudfront.net/script.js^$domain=gbatemp.net
+@@||d25lqe4mlyaln6.cloudfront.net/script.js^$domain=comicbookmovie.com|albumoftheyear.org|gbatemp.net
 !:partner_token=Blockthrough Inc.
 !:partner_id=2b3e85777627e764
 !:type=partner
