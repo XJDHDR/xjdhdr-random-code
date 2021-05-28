@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1j6Ml/m8ngSioaBSyXEbpA
-! Version: 202105280200
+! Checksum: IFVvMt/GL05XnAkgLcKLIg
+! Version: 202105281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 May 2021 02:00 UTC
+! Last modified: 28 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5875,6 +5875,7 @@ gameskinny.com#@##adslot3
 cnn.com#@##adsquare
 guildedage.net#@##adtop
 zakon.kz#@##adv_728x90
+isekaiscan.com#@#.advance-ads
 brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,incrivel.club#@##advert_1
 zakon.kz#@##aside300 > :not(#lastnews):not(#left_scrollable)
 didev.co.uk,expertreviews.co.uk#@##block-dfp-billboard-leaderboard
@@ -6178,7 +6179,7 @@ gfycat.com#@#.top-slot
 tagged.com#@#.top_ad
 op.gg#@#.vm-placement
 visihow.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.wh_ad_inner
-thefamouspeople.com#@#.widget-ad
+definition.org,thefamouspeople.com#@#.widget-ad
 15min.lt#@#.widget.ads
 wnd.com#@#.widget_wnd_prom_widget
 indiewire.com#@#:-abp-properties(base64)
@@ -6445,7 +6446,7 @@ guru99.com#@#div.custom > .hidden-phone
 guru99.com#@#[style^="float"]
 guru99.com#@#.moduletable:-abp-has(div[id^="div-gpt-ad"])
 aternos.org#@##adUnit
-emojipedia.org,pink.rs#@#.ad-header
+definition.org,emojipedia.org,pink.rs#@#.ad-header
 pink.rs#@#.ad-medium
 thesocialpost.it#@##admpubottom
 thesocialpost.it#@##admpumiddle
@@ -6664,9 +6665,9 @@ manofmany.com##.incontent-ad-banner
 @@||cdn.exmarketplace.com/bidder/prebid.js|$script,domain=businesscasestudies.co.uk|fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder/adsbooster.js|$script,domain=fiscoetasse.com
 @@||cdn.exmarketplace.com/bidder^$domain=successaga.com|cosmicbook.news|nomix.it|ooyyo.com|mondodesign.it
-@@^wp-content/themes/main/scripts/ads_config.json$domain=thesocialpost.it
-@@^wp-content/themes/*/assets/js/prebid*.js^$domain=unica.ro|viva.ro|elle.ro
-@@^wp-content/themes/*/Assets^$domain=st.definition.org
+@@^wp-content/themes/main/scripts/ads_config.json$~third-party,domain=thesocialpost.it
+@@^wp-content/themes/*/assets/js/prebid*.js^$~third-party,domain=unica.ro|viva.ro|elle.ro
+@@^wp-content/themes/*/assets^$~third-party,domain=st.definition.org
 @@||a.pub.network^$stylesheet,domain=photographyinflux.com|rotowire.com
 @@||a.pub.network/core/pubfig/pubfig.engine.$xmlhttprequest,domain=investorsobserver.com
 @@||a.pub.network/core/prebid-analytics-$xmlhttprequest,domain=investorsobserver.com
@@ -8927,6 +8928,7 @@ ghacks.net#@##snhb-snhb_ghacks_bottom-0
 ghacks.net#@#.ftd-item.home-posts
 mensagenscomamor.com,horoscopovirtual.com.br,eusemfronteiras.com#@#.vce-ad-container
 rd1.com.br,fdr.com.br,spinoff.com.br#@#.ad-block
+nitrotype.com#@#.ad--container
 ! vesty.co.il#@#.top-ad
 ! Hidden for compliance
 searchenginejournal.com###nng
@@ -10887,6 +10889,7 @@ hochzeitswahn.de#@#.ad-section
 ! yelp.com ads
 yelp.com#@#.ad-block
 yelp.com#@#.ABP
+yelp.com#@#div[class^=" container_"]:-abp-has(a[href^="/adredir?"])
 !:partner_token=Linkedin.com
 !:partner_id=3fdc3ed89884b401
 !:type=partner

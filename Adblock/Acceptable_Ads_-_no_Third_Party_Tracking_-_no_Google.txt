@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5p+lx8dSWWElGrl0wf+4Rw
-! Version: 202105280200
+! Checksum: NGvGJHzhB3G4Js3ijQvtMw
+! Version: 202105281400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 28 May 2021 02:00 UTC
+! Last modified: 28 May 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -179,6 +179,7 @@ hochzeitswahn.de#@#.ad-section
 ! yelp.com ads
 yelp.com#@#.ad-block
 yelp.com#@#.ABP
+yelp.com#@#div[class^=" container_"]:-abp-has(a[href^="/adredir?"])
 !:partner_token=Linkedin.com
 !:partner_id=3fdc3ed89884b401
 !:type=partner
