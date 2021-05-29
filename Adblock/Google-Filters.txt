@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eFkrsLPnotWiFcAEtbPPzA
-! Version: 202105290200
+! Checksum: nqgNWNIfJltxjkDZTgnBGw
+! Version: 202105291400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 29 May 2021 02:00 UTC
+! Last modified: 29 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -205,7 +205,6 @@ _googlead.
 _googleads_
 _googleDFP.
 _reklama_$domain=~youtube.com
-! Doubleclick
 /cdn-cgi/pe/bag2?r*bnserving.com
 /cdn-cgi/pe/bag2?r*ero-advertising.com
 /cdn-cgi/pe/bag2?r*googleadservices.com
@@ -3678,6 +3677,7 @@ _youtube_social_
 ||youtube.com/v/*autoplay$third-party,domain=7chan.org|boards.4chan.org
 ||ytimg.com^*/www-subscribe-widget-$script
 ! Youtube testing
+||m.youtube.com/s/player/*/ad.js$script,~third-party
 ||music.youtube.com^$csp=worker-src 'none'
 ||www.youtube.com^$csp=worker-src 'none'
 ||outbrainimg.com^$third-party
