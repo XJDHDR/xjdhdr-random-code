@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sJ++Z+Fybdx+AiW1Jo0crQ
-! Version: 202105310200
+! Checksum: iLZTac1SppEU/v25rZXSGA
+! Version: 202105311400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 31 May 2021 02:00 UTC
+! Last modified: 31 May 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -752,6 +752,7 @@ _reklama_$domain=~youtube.com
 ##.adsense_200x200
 ##.adsense_336_280
 ##.adsense_728x15_center
+##.adsense_728x90_container
 ##.adsense_ad
 ##.adsense_afc_related_art
 ##.adsense_bdc_v2
@@ -1288,6 +1289,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||chanelets-aurning.com^
 ||chasteminihaunting.com^
 ||chatintegrationastonishing.com^
+||cokeseeming.com^
 ||cold-cold-freezing.com^
 ||combotag.com^
 ||cotchaug.com^
@@ -1311,6 +1313,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||dostophog.com^
 ||doubleclick-net.com^
 ||doubleclickbygoogle.com^
+||drunkenknowing.com^
 ||dyingdesignscharming.com^
 ||dynamitematerialisticwriting.com^
 ||dynsrvtbg.com^
@@ -1318,6 +1321,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||ecgopezooczg.com^
 ||edgyconnaterag.com^
 ||eeltaung.com^
+||effectpinching.com^
 ||efficiencycypressregarding.com^
 ||elliotfoodauditioning.com^
 ||elmfnadgg.com^
@@ -1465,6 +1469,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||stargoug.com^
 ||stepmotherillegaldepressing.com^
 ||stoutoffering.com^
+||styleduring.com^
 ||swstkrihg.com^
 ||sxzemwijeyqxg.com^
 ||synthesissocietysplitting.com^
@@ -1491,6 +1496,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||umannwig.com^
 ||umwyfqgsg.com^
 ||untruewring.com^
+||uptightpercyplug.com^
 ||uujdthyg.com^
 ||vehemenceclung.com^
 ||vffvtxcykog.com^
@@ -1901,13 +1907,13 @@ looktothestars.org,nintandbox.net,plurk.com,tolonews.com##.adsense
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 appagg.com##.atit
 doubleviking.com##.az
-abplive.com,adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,worldtimeserver.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
+abplive.com,adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vloot.io,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,worldtimeserver.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
 carmag.co.za,irishnews.com,nscreenmedia.com,teenspot.com,vh1.com##.banner-container
 gsprating.com##.banner2
 domainmasters.co.ke##.banner_google
 beckershospitalreview.com##.becker_doubleclick
 furiousfanboys.com,regretfulmorning.com,viva.co.nz##.big-banner
-9gag.com,hotstar.com,sport360.fit##.billboard
+9gag.com,hotstar.com,sport360.fit,trademe.co.nz##.billboard
 stlmag.com##.buzzworthy
 androidweblog.com##.cgdyh > [data-adid]
 geekspin.co,kanonitv.net,mikeprg.com##.code-block-2
@@ -2121,8 +2127,8 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|nbcsports.com|vimeo.com|windalert.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|sbs.com.au
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|embed.comicbook.com|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=downloads.codefi.re|globaldjmix.com|nlfreevpn.com|oldapps.com|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com|windows7themes.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=real-sports.jp|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com
