@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iLZTac1SppEU/v25rZXSGA
-! Version: 202105311400
+! Checksum: oygTUNoz3avp2BwntILA2w
+! Version: 202106010200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 31 May 2021 14:00 UTC
+! Last modified: 01 Jun 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1957,7 +1957,7 @@ belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,cam
 mcpmag.com##.xContent
 swarajyamag.com##[class*="page-top-adv-wrapper"]
 swarajyamag.com##[class^="banner-ad-"]
-9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,mbauniverse.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
+9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,litecoin-faucet.com,mbauniverse.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
 analyticsindiamag.com##[href^="https://business.louisville.edu/"]
 analyticsindiamag.com##[href^="https://praxis.ac.in/"]
 analyticsindiamag.com##[href^="https://programs.upgrad.com/"]
