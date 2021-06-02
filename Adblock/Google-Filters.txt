@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 47utVCzLvvyTQTWasbXhyA
-! Version: 202106020200
+! Checksum: a2Uuj3VFAZ09YYegBN5XMQ
+! Version: 202106021400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 02 Jun 2021 02:00 UTC
+! Last modified: 02 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1761,8 +1761,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||br.fling.com^
 ||sexy.fling.com^$third-party
 ||9gag.com/embed/featured-videos.html
-||afedmag.com/uploaded/images/banner-
-||carmag.co.za/upload/dmx_banners/
 ||cimg.co/w/bn/$domain=cryptonews.com
 ||infobetting.com/bookmaker/
 ||investing.com/jp.php
@@ -1865,7 +1863,7 @@ inventorspot.com,mothering.com,wordfind.com,yokogames.com###header
 googleping.com###itro_opaco
 googleping.com###itro_popup
 duffelblog.com###leader-large
-animeseason.com,ask.fm,cc.com,crackmixtapes.com,cubeecraft.com,cyberciti.biz,datpiff.com,football.co.uk,gtainside.com,houselogic.com,jaxdailyrecord.com,lasplash.com,lawnewz.com,logotv.com,lrb.co.uk,motortopia.com,newcartestdrive.com,news.sky.com,nfib.com,okmagazine.com,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,pets4homes.co.uk,publishersweekly.com,realmoney.thestreet.com,revolvermag.com,salary.com,sciencedirect.com,sciencefocus.com,skysports.com,stuff.tv,talonmarks.com,thehollywoodgossip.com,theserverside.com,toofab.com,tvguide.co.uk,wheels24.co.za,whitepages.ae,windsorstar.com###leaderboard
+animeseason.com,ask.fm,cc.com,crackmixtapes.com,cubeecraft.com,cyberciti.biz,datpiff.com,football.co.uk,gtainside.com,houselogic.com,jaxdailyrecord.com,lasplash.com,lawnewz.com,logotv.com,lrb.co.uk,motortopia.com,newcartestdrive.com,news.sky.com,nfib.com,okmagazine.com,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,pets4homes.co.uk,publishersweekly.com,realmoney.thestreet.com,revolvermag.com,sciencedirect.com,sciencefocus.com,skysports.com,stuff.tv,talonmarks.com,thehollywoodgossip.com,theserverside.com,toofab.com,tvguide.co.uk,wheels24.co.za,whitepages.ae,windsorstar.com###leaderboard
 technologyexpert.blogspot.com###left-sidebarbottom-wrap1
 investing.com###mainPopUpContainer
 kavogaming.com###media_image-3
@@ -1878,8 +1876,7 @@ sk-gaming.com###pts
 sk-gaming.com###ptsf
 pcmag.com###rmn-link
 dvdfile.com,ecnmag.com,thefashionspot.com###roadblock
-edomaining.com###sedo-search
-coolhunting.com###showcase
+carmag.co.za###sidebar-primary
 sacricketmag.com###slidein
 whatshappening.com.ph###sliderCarousel
 armyrecognition.com###sp-google-advertising-2x-468x100
@@ -2862,6 +2859,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
 @@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
 @@||googleoptimize.com/optimize.js$script,domain=tentree.ca
+@@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
@@ -3742,7 +3740,7 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
-||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
+||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|calcalistech.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
 ||yimg.com^*/guce.js
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
@@ -4119,7 +4117,7 @@ santatracker.google.com##SANTA-NOTICE
 youtube.com##div[class^="ytd-consent"]
 weatherbug.com##notification-footer
 ! googlefunding consent warning
-androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
 bing.com##div[data-cookie]
