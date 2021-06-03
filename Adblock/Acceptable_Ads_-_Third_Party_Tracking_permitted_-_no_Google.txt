@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AZwN8tQp8IZBG0wtI2b8Qg
-! Version: 202106021400
+! Checksum: NG3x1Mqo3s11mf+4pDyPfg
+! Version: 202106030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Jun 2021 14:00 UTC
+! Last modified: 03 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6872,7 +6872,7 @@ manofmany.com##.incontent-ad-banner
 @@||soo-healthy.com/ads-hb/prebid^$domain=soo-healthy.com
 @@||soo-healthy.com/ads-hb/quantcast/gdpr$domain=soo-healthy.com
 @@||lib.medyanetads.com/adservice^$domain=milliyet.com.tr
-@@||ad.medyanetads.com/adservice^$xmlhttprequest,script,domain=milliyet.com.tr
+@@||ad.medyanetads.com/adservice^$xmlhttprequest,script,domain=fanatik.com.tr|posta.com.tr|milliyet.com.tr
 @@||ad.medyanetads.com/adservice/adservice.js$script,domain=fanatik.com.tr|posta.com.tr
 @@^javascript/ad_banner.js$~third-party,domain=moneychimp.com
 @@^javascript/ad_sky.js$~third-party,domain=moneychimp.com
