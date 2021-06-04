@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AViM5Ru92jaGMCB3fxGizA
-! Version: 202106040200
+! Checksum: rCPAWcZ22iBfMF2zz4K2sA
+! Version: 202106041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Jun 2021 02:00 UTC
+! Last modified: 04 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6140,7 +6140,6 @@ pwinsider.com#@#.content-left
 pwinsider.com#@#.content-right
 itstillworks.com#@#.desktop-ad
 guidingtech.com#@#.detail-ad
-didev.co.uk,expertreviews.co.uk#@#.dfp-tag-wrapper
 hi5.com,tagged.com#@#.dfp_ad
 elgrafico.mx#@#.dfp_slot
 digitaltrends.com#@#.dtads-slot
@@ -6277,7 +6276,6 @@ cnn.gr,usatoday.com#@#div[id^="ad-position-"]
 cnn.com#@#div[id^="ad_rect_"]
 segodnya.ua#@#div[id^="admixer_"]
 zakon.kz#@#div[id^="adv_"]
-didev.co.uk,expertreviews.co.uk#@#div[id^="dfp-ad-"]
 yad2.co.il#@#div[id^="dfp-slot-"]
 optionsprofitcalculator.com,klp.pl#@#div[id^="ezoic-pub-ad"]
 jerusalemonline.com#@#div[style="width:300px; height:250px;"]
@@ -6292,6 +6290,7 @@ indiewire.com#@#iframe[style][src]
 themarker.com#@#iframe[width="300"]
 ma3comic.com#@#img[width="468"][height="60"]
 top5.com#@#.bottom-ad-container
+ezyzip.com#@##bottom-ad-container
 letsrun.com,top5.com#@#.slide-ad
 letsrun.com#@##ads_banner
 letsrun.com#@##ads_300
@@ -6571,7 +6570,7 @@ cinemablend.com#@##sticky-rail-ad
 thesimsresource.com#@#.crtv-top-wrapper
 buzzfeed.com#@#.Ad--awareness-bp
 cnn.com###scrollover-ad-wrap
-systemrequirementslab.com#@#.ad_center
+braceletbook.com,systemrequirementslab.com#@#.ad_center
 allmusic.com#@#.leaderboard
 allmusic.com#@#.medium-rectangle
 moneywise.com#@#.right-rail-ad
@@ -6583,6 +6582,7 @@ gfinityesports.com,realsport101.com#@#.m-ad__wrapper--300x250
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper
 coolmathgames.com#@#.adbottom
 cestnormalauquebec.com#@##ads-blog
+braceletbook.com#@#.adtag
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6901,6 +6901,8 @@ woxikon.de#@#.ads-margin-top-20
 @@||ads.servebom.com/config^$xmlhttprequest,domain=cinemablend.com
 @@||hb-quizlet.s3.us-east-2.amazonaws.com/slader/asc_prebid.js$domain=slader.com
 @@||cdn.thisiswaldo.com/static/js/*.js$script,domain=statisticshowto.com|emojipedia.org
+@@||hb.brainlyads.com/prebid.js$script,domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
+@@||powerad.ai^$domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 ! Default filters for long domain lists
 !
 !
@@ -8180,6 +8182,12 @@ verdem-crypto.github.io#@##sponsored_content
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82257
 ! veliainn.com ads
 @@||s.nitropay.com/ads-685.js$script,xmlhttprequest,domain=veliainn.com
+!:partner_token=devextent.com
+!:partner_id=aaf959f758a19451
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82419
+! devextent.com ads
+devextent.com#@#.ad-sidebar
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
