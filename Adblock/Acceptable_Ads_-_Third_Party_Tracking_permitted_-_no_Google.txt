@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m6t1TXle2BDuZKMQIdDPDg
-! Version: 202106031400
+! Checksum: AViM5Ru92jaGMCB3fxGizA
+! Version: 202106040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 03 Jun 2021 14:00 UTC
+! Last modified: 04 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6026,7 +6026,7 @@ fextralife.com,papergames.io,capital.com.tr,pokebattler.com,theoi.com#@#.ad-bann
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-banner-image
 greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
-irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
+matadornetwork.com,irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
 heroesfire.com,owfire.com,smitefire.com#@#.ad-break
 queerty.com,buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
@@ -6660,6 +6660,8 @@ dlisted.com###dlisted_728x90_970x90_970x250_320x50_ATF
 animalcrossingworld.com,cheatcc.com,gtaboom.com##.adthrive-footer
 trendscatchers.co.uk,trendscatchers.de,trendscatchers.io,trendscatchers.com,travelcatchers.fr,travelcatchers.de,indeedfinance.com##.code-block
 manofmany.com##.incontent-ad-banner
+woxikon.de#@#.ads-marker
+woxikon.de#@#.ads-margin-top-20
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6831,6 +6833,8 @@ manofmany.com##.incontent-ad-banner
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
