@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5PJP3P1fkF/SU/SiRs/bkw
-! Version: 202106070200
+! Checksum: X2IkRlf+wwta/9lKEC93jw
+! Version: 202106071400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 07 Jun 2021 02:00 UTC
+! Last modified: 07 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5337,12 +5337,17 @@ daswetter.at,daswetter.com,ilmeteo.net,meteored.cl,meteored.com.ar,meteored.pe,m
 @@||yandex.net/get-direct/$image,domain=fotostrana.ru
 @@||yastatic.net/safeframe-bundles^$subdocument,document,script,domain=fotostrana.ru
 @@||yastatic.net/pcode/adfox^$subdocument,script,domain=fotostrana.ru
-fotostrana.ru#@#.img_ad
+fotostrana.ru#@##top-ads-banner-wrap
+fotostrana.ru#@##footer-ads-banner-cont
 fotostrana.ru#@##king-rightplace
+fotostrana.ru#@#.img_ad
 fotostrana.ru#@#div[id^="yandex_rtb"]
+fotostrana.ru#@#iframe[width="240"][height="400"]
 @@||ad.mail.ru/adq/?callback=mailru_ad$script,domain=fotostrana.ru
 @@||ad.mail.ru/static/ads-async.js$domain=fotostrana.ru
 @@||ad.mail.ru/web/adcontext^$xmlhttprequest,domain=fotostrana.ru
+! Hidden for compliance
+fotostrana.ru##.pr-pin-item
 !:partner_token=ket-noi.com
 !:partner_id=4c82e4802f19ebe6
 !:type=partner
@@ -6569,7 +6574,7 @@ cinemablend.com#@##leaderboard-ad
 cinemablend.com#@##sticky-rail-ad
 thesimsresource.com#@#.crtv-top-wrapper
 buzzfeed.com#@#.Ad--awareness-bp
-cnn.com###scrollover-ad-wrap
+cnn.com#@##scrollover-ad-wrap
 braceletbook.com,systemrequirementslab.com#@#.ad_center
 allmusic.com#@#.leaderboard
 allmusic.com#@#.medium-rectangle
