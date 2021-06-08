@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: im8tdIolByH6vS4ZQQ5qHg
-! Version: 202106071400
+! Checksum: iEAWt+FOxrGUAb4VpLplyw
+! Version: 202106080200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Jun 2021 14:00 UTC
+! Last modified: 08 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6682,6 +6682,7 @@ woxikon.de#@#.ads-margin-top-20
 @@^wp-content/themes/*/assets/js/prebid*.js^$~third-party,domain=unica.ro|viva.ro|elle.ro
 @@^wp-content/themes/*/assets^$~third-party,domain=st.definition.org
 @@||a.pub.network^$stylesheet,domain=photographyinflux.com|rotowire.com
+@@||d.pub.network/init?siteId$domain=sinfest.xyz
 @@||a.pub.network/core/pubfig/pubfig.engine.$xmlhttprequest,domain=investorsobserver.com
 @@||a.pub.network/core/prebid-analytics-$xmlhttprequest,domain=investorsobserver.com
 @@||bundle.heraldweekly.com/bundle/v8/app.js?v=p200602085347-29$domain=heraldweekly.com
@@ -10731,6 +10732,8 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@?unblockia=true$domain=elperiodico.com
 @@||r.unblockia.com/r?$subdocument,document,domain=elperiodico.com
 @@||cdn.unblockia.com/h.js$domain=elperiodico.com
+@@smartadserver.com^*unblockia=true$subdocument,domain=elperiodico.com
+@@rubiconproject.com^*unblockia=true$subdocument,domain=elperiodico.com
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 elperiodico.com#@#.adv-header

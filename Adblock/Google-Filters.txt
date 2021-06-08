@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wshLhX9V7a1m3toMiZcFEQ
-! Version: 202106071400
+! Checksum: 9T0x3A7Eev+4Ultl/+iL/Q
+! Version: 202106080200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 07 Jun 2021 14:00 UTC
+! Last modified: 08 Jun 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -390,6 +390,8 @@ _reklama_$domain=~youtube.com
 ###block-adsense-2
 ###block-adsense_managed-0
 ###block-google-ads
+###block-googleads3
+###block-googleads3-2
 ###block-nst-googledfp-site-takeover
 ###block-spti_ga-spti_ga_adwords
 ###bottomAdSense
@@ -1259,12 +1261,14 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||advmaiotg.com^
 ||affableindigestionstruggling.com^
 ||agzfxovg.com^
+||aidstirring.com^
 ||aimseerg.com^
 ||alruqbfjg.com^
 ||analyzeagg.com^
 ||anticipatedlying.com^
 ||armedearring.com^
 ||askbegrag.com^
+||assertednodding.com^
 ||atilohdxsg.com^
 ||aud3g.com^
 ||audacitydipping.com^
@@ -1411,6 +1415,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||normugtog.com^
 ||nostrilsterrifying.com^
 ||nthfundog.com^
+||nutlonging.com^
 ||occursexpertloving.com^
 ||onergong.com^
 ||optraising.com^
@@ -1631,6 +1636,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||adtng.com^$popup
 ||bravo-dog.com^$popup
 ||cm.g.doubleclick.net^$popup
+||conferencesing.com^$popup
 ||defenseaspirinlike.com^$popup
 ||earandmarketing.com^$popup
 ||fast-redirecting.com^$popup
