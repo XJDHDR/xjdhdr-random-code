@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /OB8lm7phJ3BvrkNjoCpyQ
-! Version: 202106080200
+! Checksum: oKYBH/0oUVkqf/fhwYOsEw
+! Version: 202106081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Jun 2021 02:00 UTC
+! Last modified: 08 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6372,7 +6372,9 @@ narwhale.io#@##adzone
 u.gg#@#.ad-box-wrapper
 kicksonfire.com#@#.ads-section
 kicksonfire.com#@#.ads-main
-kicksonfire.com#@##leftads
+sudoku.com.au,kicksonfire.com#@##leftads
+sudoku.com.au#@##leftAds
+sudoku.com.au#@#.Ad-Container
 cram.com#@#.advertBox
 romajidesu.com#@##sidebar_ads
 urldecoder.org#@#.ad_right
