@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GszTigTfaammxZJnQB7ZrQ
-! Version: 202106081400
+! Checksum: TrbjC7ZlJ5y0saexdlmFxw
+! Version: 202106090200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Jun 2021 14:00 UTC
+! Last modified: 09 Jun 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4144,6 +4144,8 @@ bloomberg.co.jp##BB-MINI-PLAYER
 administradores.com.br,bit.pt,bitmag.com.br,record.pt##.newsletter
 google.se##div[style="min-width: 750px;"] > [style="behavior:url(#default#homePage) url(#default#userData);background-color:#5a5a5a"]
 clipfish.de###cf-player-googleplus
+de.rt.com###google_news_banner
+de.rt.com##.GoogleNewsBanner-link
 heise.de,t3n.de##.google
 n24.de##.google_interactivepos
 klimahaus.it,t3n.de##.youtube

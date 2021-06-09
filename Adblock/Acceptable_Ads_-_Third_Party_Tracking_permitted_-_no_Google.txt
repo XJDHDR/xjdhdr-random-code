@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oKYBH/0oUVkqf/fhwYOsEw
-! Version: 202106081400
+! Checksum: ar+FE3uJ48yAjaLR9sbeXQ
+! Version: 202106090200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Jun 2021 14:00 UTC
+! Last modified: 09 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6406,11 +6406,12 @@ purewow.com#@#.ad-300x600
 bittbox.com,operationsports.com#@##mvp-foot-ad-wrap
 brainfall.com#@#.ad-warning
 collinsdictionary.com#@#.topslot_container
-dictionnaire.lerobert.com,oxfordlearnersdictionaries.com,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
+universalis.fr,dictionnaire.lerobert.com,oxfordlearnersdictionaries.com,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_topslot
 dictionary.cambridge.org#@##ad_topslot_b
-dictionnaire.lerobert.com,dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
+universalis.fr,dictionnaire.lerobert.com,dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,collinsdictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_rightslot
 dictionnaire.lerobert.com,dictionary.cambridge.org,macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com,bab.la#@##ad_leftslot
 dictionnaire.lerobert.com,macmillanthesaurus.com,macmillandictionary.com,pons.com,ldoceonline.com#@##ad_btmslot
+universalis.fr#@##ad_mpuslot
 bab.la#@#.info-panel
 wargamer.com,pockettactics.com,theloadout.com#@#.ad-slot-2
 theloadout.com#@#.sticky_rail600
@@ -6684,7 +6685,6 @@ woxikon.de#@#.ads-margin-top-20
 @@||adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js$script,domain=gazeta.pl
 @@||adx.zdravie.sk/www/delivery/asyncjs.php$domain=zdravie.sk
 @@||adx.zdravie.sk/www/delivery/asyncspc.php$domain=zdravie.sk
-@@||amazon-adsystem.com/aax2/apstag.js$domain=empireonline.com|justthenews.com|theweek.com|justjared.com|arcamax.com|justjaredjr.com|uberhumor.com|walterfootball.com
 @@||areavibes.com/assets/prebid.js$domain=areavibes.com
 @@||breitbart.com/t/assets/js/prebid-$script,domain=breitbart.com
 @@||buzzfeed.com/static/js/advertiser/$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
