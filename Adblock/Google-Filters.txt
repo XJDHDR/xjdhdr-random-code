@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TrbjC7ZlJ5y0saexdlmFxw
-! Version: 202106090200
+! Checksum: 9omzO/ruqoRjX5xH5nx40g
+! Version: 202106091400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Jun 2021 02:00 UTC
+! Last modified: 09 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1508,7 +1508,9 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||uptightpercyplug.com^
 ||usherintermediatedisturbing.com^
 ||uujdthyg.com^
+||uuybnrimdyg.com^
 ||vehemenceclung.com^
+||vetdeberg.com^
 ||vffvtxcykog.com^
 ||vidsorg.com^
 ||viibug.com^
@@ -1982,8 +1984,7 @@ google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div
 interglot.com,stopmalvertising.com##div[style^="width:728px;"]
 pointblanknews.com,sharktankblog.com##img[height="60"]
 nsfwyoutube.com##img[src*="data"]
-bigeye.ug,breakingbelizenews.com,espnrichmond.com,naijaloaded.com.ng,punchng.com,theolivepress.es,therep.co.za##img[width="300"]
-afrivibes.net,airplaydirect.com,cryptomining-blog.com,dotsauce.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,onislandtimes.com,portugaldailyview.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"][height="250"]
+afrivibes.net,airplaydirect.com,bigeye.ug,breakingbelizenews.com,cryptomining-blog.com,dotsauce.com,espnrichmond.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,onislandtimes.com,portugaldailyview.com,punchng.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,theolivepress.es,therep.co.za,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.pw,forum.gsmhosting.com,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube

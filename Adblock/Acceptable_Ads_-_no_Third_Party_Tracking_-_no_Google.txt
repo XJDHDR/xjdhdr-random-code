@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TMvSucQjrZo5amSh7lRhgQ
-! Version: 202106090200
+! Checksum: fElcYbK3XBn1Fs7DOY9ZaA
+! Version: 202106091400
 ! Title: Acceptable Ads - no Third Party Tracking - no Google
-! Last modified: 09 Jun 2021 02:00 UTC
+! Last modified: 09 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -25,18 +25,6 @@
 !
 !
 ! *** exceptions:exceptionrules/exceptionrules-no-third-party-tracking.txt ***
-!:partner_token=duckduckgo.com
-!:partner_id=9df9943c03442951
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40665
-! duckduckgo.com ads
-@@||duckduckgo.com/?q=$elemhide
-@@||duckduckgo.com^*^q=$elemhide
-@@||duckduckgo.com/lite$elemhide
-@@||duckduckgo.com/html$elemhide
-@@||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
-@@||duckduckgo.com/m.js?$domain=duckduckgo.com
-@@||duckduckgo.com/t/$~third-party
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -383,3 +371,15 @@ nachrichten.yahoo.com#@#.ad-source
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=10495
 ! ecosia.org sponsored search results
 @@||ecosia.org/search?$elemhide
+!:partner_token=duckduckgo.com
+!:partner_id=9df9943c03442951
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=40665
+! duckduckgo.com ads
+@@||duckduckgo.com/?q=$elemhide
+@@||duckduckgo.com^*^q=$elemhide
+@@||duckduckgo.com/lite$elemhide
+@@||duckduckgo.com/html$elemhide
+@@||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
+@@||duckduckgo.com/m.js?$domain=duckduckgo.com
+@@||duckduckgo.com/t/$~third-party
