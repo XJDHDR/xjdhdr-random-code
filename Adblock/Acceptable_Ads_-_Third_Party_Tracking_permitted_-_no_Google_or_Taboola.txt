@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UEHtcovxfhIj4yyHCzKJOQ
-! Version: 202106100200
+! Checksum: 1VCXdC340+rlalgdDsyqYQ
+! Version: 202106101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Jun 2021 02:00 UTC
+! Last modified: 10 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1119,6 +1119,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||vda.romatoday.it/~vda/___/u.php^$script,image,domain=romatoday.it
 nouvelobs.com#@#.ObsPartners
 unpuzzlefinance.com#@#.below-next-nativeads
+diaridegirona.cat,superdeporte.es#@##ad-container
 brit.co#@#.ad-tag
 money.com#@#.ad-sticky-container
 celebspulse.com##.below-next-nativeads
@@ -1127,6 +1128,7 @@ e-sante.fr#@#.block-gc-ad
 dlnowsoft.com#@#.adframe
 thedelite.com#@#.ad-label
 people.com#@##adBottom
+diaridegirona.cat,superdeporte.es,emporda.info#@#.contentAd
 orange.fr#@##commercial-links
 meteoconsult.fr#@##favoris_pub_ligatus
 money.cnn.com#@##js-outbrain-recommended
@@ -1241,7 +1243,7 @@ chron.com,mysanantonio.com,seattlepi.com,sfgate.com#@#[data-load-complete="true"
 cnn.com#@#a[href^="http://www.nextadvisor.com/"]
 cnn.com#@#a[href^="https://www.nextadvisor.com/"]
 bento.de#@#a[onmousedown^="this.href='http://marketing.outbrain.com/network/redir?"]
-bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
+diaridegirona.cat,superdeporte.es,diariocordoba.com,woman.es,neomotor.sport.es,farodevigo.es,emporda.info,bento.de#@#a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 huffingtonpost.fr##article > #outbrain_widget_4
 bleacherreport.com##div[data-widget-id="SL_1"]
 allure.com,architecturaldigest.com,bgr.com,bonappetit.com,cntraveler.com,deadline.com,digitalartsonline.co.uk,epicurious.com,gq.com,hollywoodlife.com,macworld.co.uk,macworld.es,pcworld.es,self.com,sheknows.com,techadvisor.co.uk,techadvisor.fr,teenvogue.com,tvline.com,vanityfair.com,variety.com,indiewire.com#@#.outbrain-widget
@@ -6529,6 +6531,7 @@ gazeta.pl#@#[id^="adUnit-"]
 gazeta.pl#@#[class^="ban00"]
 gazeta.pl#@#[id^="ads"]
 gazeta.pl#@#[id^="banC"]
+healthline.com#@#.css-rjh5b
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6779,8 +6782,8 @@ woxikon.de#@#.ads-margin-top-20
 @@||adtech-cdn.enthusiastgaming.net/script/prebid/prebid$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||adtech-cdn.enthusiastgaming.net/script/eg-aps$domain=tabstats.com|twinfinite.net|thesmackdownhotel.com|gamesatlas.com|gtabase.com|spriters-resource.com|models-resource.com|pocketgamer.com|poe-vault.com|mcpedl.com|gamersheroes.com|nintendoenthusiast.com|nexusmods.com|fextralife.com|gta5-mods.com|rankedboost.com|escapistmagazine.com|icy-veins.com|destructoid.com|thesimsresource.com|dailyesports.gg|pcinvasion.com|siliconera.com|operationsports.com
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -7621,7 +7624,9 @@ tsn.ua#@#[data-partners-iframe]
 3djuegos.com#@##dst_pub_728
 newsru.com#@#div[id^="adfox_"]
 newsru.com#@#div[class*="prm"]
-@@||api.unblockia.com/api/sites/0/config.json^$domain=varta1.com.ua|seo-fast.ru|newsyou.info
+universfreebox.com#@#.publicite
+universfreebox.com#@#div[id^="publicite-"]
+@@||api.unblockia.com/api/sites/0/config.json^$domain=rusvesna.su|soccer.ru|pandia.ru|varta1.com.ua|seo-fast.ru|newsyou.info
 @@||unblockia.com^$third-party,xmlhttprequest,domain=forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
@@ -7832,6 +7837,7 @@ dom.mail.ru#@#div[data-qa="ArticlesList"] > [data-qa="ArticleThumb"] ~ :not([dat
 ! Mail
 e.mail.ru#@##app-canvas .layout__overflow-container > .advert-column > .slot
 e.mail.ru#@##app-canvas .layout__overflow-container > .slot
+e.mail.ru#@##app-canvas .spec-project-letter + div[class]:not([class*="list-"]):not(a)
 e.mail.ru#@##message-sent__rb-center-container
 e.mail.ru#@#.b-viewer__advert__line
 e.mail.ru#@#.layer-sent-page__banner
@@ -9516,8 +9522,6 @@ yahoo.com#@#.viewer-sda-container
 @@||ziphip.com^$elemhide
 !A29
 !A30
-@@||alothome.com/search^$elemhide
-@@||alot.com/search^$elemhide
 !A32
 @@||atlanticbb.net/search/$elemhide
 @@||bajabroadband.net^$elemhide
@@ -10401,6 +10405,7 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||watchonline.guide^$elemhide
 !A120
 @@||zazzle.com^$elemhide
+!A121
 !:partner_token=Verizon Media
 !:partner_id=627d41fb6de11f94
 !:type=partner
