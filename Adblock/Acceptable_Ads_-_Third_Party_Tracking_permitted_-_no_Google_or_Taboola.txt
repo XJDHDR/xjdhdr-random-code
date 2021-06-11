@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1VCXdC340+rlalgdDsyqYQ
-! Version: 202106101400
+! Checksum: vW4ekS5fH2tMOw5MPtwKiA
+! Version: 202106110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Jun 2021 14:00 UTC
+! Last modified: 11 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5850,7 +5850,9 @@ chess.com#@##tall-sidebar-ad
 ! Uponit ads
 @@||upapi.net^$script,xmlhttprequest,image,stylesheet,ping,domain=~ve.lt|~alfa.lt|~supermama.lt|~alio.lt|~tax.lt|~plius.lt|~autogidas.lt
 timecardcalculator.net,calculatorsoup.com,psychcentral.com,letsrun.com,healthline.com,speedrun.com#@#div[data-ad]
-cnn.com#@##Adbanner
+homeschoolmath.net,cnn.com#@##Adbanner
+homeschoolmath.net#@##AdBanner
+homeschoolmath.net,homeschoolmath.net#@#.adbanner
 westeros.org#@##FooterAd
 aftvnews.com#@##footerad
 westeros.org#@##HeaderAd
@@ -5868,7 +5870,11 @@ discogs.com,awkwardzombie.com#@##ad_left
 ratemyprofessors.com#@##ad_rec_01
 awkwardzombie.com#@##ad_right
 awkwardzombie.com,discogs.com#@##ad_top
-bikez.com,cnn.com#@##adbanner
+homeschoolmath.net,bikez.com,cnn.com#@##adbanner
+planetminecraft.com#@##leaderboard_atf
+homeschoolmath.net#@##logo_ad
+birthmoviesdeath.com#@#.Ad--header
+birthmoviesdeath.com#@#.Ad--sidebar
 bikez.com#@##adcontainer
 bikez.com#@##adheader
 bikez.com#@##adskyscraper
@@ -6045,7 +6051,9 @@ manofmany.com#@#.adsload
 healthyeater.com,concerty.com,boingboing.net,gameskinny.com#@#.adslot
 dressupgames.com,allbad.cards,healthyeater.com#@#.adwrap
 dressupgames.com#@#.ad-left
-ilovetheupperwestside.com#@#.desktopAd
+fortniteinsider.com,wrestlingheadlines.com#@#.jeg_ad
+fortniteinsider.com,wrestlingheadlines.com#@#.jeg_ad_top
+fortniteinsider.com,wrestlingheadlines.com#@#.jnews_header_top_ads
 chip.com.tr#@#.adspace
 ozbargain.com.au#@#.adsrecnode
 ozbargain.com.au#@#.adssidebar2
@@ -6135,7 +6143,7 @@ yorkshireeveningpost.co.uk,yorkshirepost.co.uk,wigantoday.net,lep.co.uk,newslett
 yorkshireeveningpost.co.uk,yorkshirepost.co.uk,wigantoday.net,lep.co.uk,newsletter.co.uk,thestar.co.uk,portsmouth.co.uk,sunderlandecho.com,lincolnshireworld.com,nationalworld.com,northamptonchron.co.uk,northantstelegraph.co.uk,shieldsgazette.com,peterboroughtoday.co.uk,banbridgeleader.co.uk,banburyguardian.co.uk,batleynews.co.uk,belpernews.co.uk,brighouseecho.co.uk,brightonandhoveindependent.co.uk,buchanobserver.co.uk,bucksherald.co.uk,deesidepiper.co.uk,ballymoneytimes.co.uk,ballymenatimes.com,banbridgeleader.co.uk,batleynews.co.uk,bedfordtoday.co.uk,belpernews.co.uk,berkhamstedtoday.co.uk,berwick-advertiser.co.uk,berwickshirenews.co.uk,bexhillobserver.net,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bognor.co.uk,bridlingtonfreepress.co.uk,brighouseecho.co.uk,brightonandhoveindependent.co.uk,buckinghamtoday.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlukegazette.co.uk,carrickfergustimes.co.uk,chichester.co.uk,chorley-guardian.co.uk,clitheroeadvertiser.co.uk,colerainetimes.co.uk,crawleyobserver.co.uk,cumbernauld-news.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donsidepiper.co.uk,dunstabletoday.co.uk,eastbourneherald.co.uk,edinburghnews.scotsman.com,ellontimes.co.uk,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,fleetwoodtoday.co.uk,fraserburghherald.co.uk,gallowaygazette.co.uk,glasgowsouthandeastwoodextra.co.uk,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,falkirkherald.co.uk,chad.co.uk,wakefieldexpress.co.uk,hartlepoolmail.co.uk,louthleader.co.uk,rugbyadvertiser.co.uk,whitbygazette.co.uk,chorley-guardian.co.uk,hastingsobserver.co.uk,stornowaygazette.co.uk#@#.ad-overlay
 cn-jobs.co.uk,ea1jobs.com,em1jobs.com,l1jobs.com,ne1jobs.com,nw1jobs.com,ox1jobs.com,se1jobs.com,sw1jobs.com,w1jobs.com,wm1jobs.com#@#.mpu_container
 runt-of-the-web.com#@#.mrec
-golfwrx.com#@#.mvp-ad-label
+screengeek.net,golfwrx.com#@#.mvp-ad-label
 probuilds.net#@#.overlay-ad
 stackabuse.com#@#.post-ad
 tutsplus.com#@#.post__inarticle-ad-template
@@ -6156,14 +6164,13 @@ freshedits.com,historybyday.com,livingmgz.com#@#.right_side_ads
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@#.sgAd
 u.gg,meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
-placebuzz.com,whosampled.com,1-day.co.nz,littlealchemy.com#@#.sideAd
 aljazeera.com#@#.sideAdv-wrapper
 pcinvasion.com,siliconera.com,word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
 sufficientlyremarkable.com#@#.sidebarAd
 heraldweekly.com,history-a2z.com,lifestyle-a2z.com,science-a2z.com#@#.single-ad
 ew.com#@#.sister-ads
-swingu.com,rent.com.au,bovary.gr,manofmany.com,tutsplus.com,videezy.com#@#.sticky-ad
+manta.com,swingu.com,rent.com.au,bovary.gr,manofmany.com,tutsplus.com,videezy.com#@#.sticky-ad
 people-today.com,pdfwonder.com,sportsspotter.com,factahead.com#@#.sticky-ad-container
 moviestvnetwork.com,wegotthiscovered.com#@#.sticky-sidebar-ad
 champion.gg#@#.stickyad
@@ -6275,6 +6282,11 @@ zerohedge.com#@#[class^="Advert_"]
 zerohedge.com#@#.placement
 lecoupdegrace.ca,lecahier.com,jolijolidesign.com,toutsurlehockey.com,je-decore.com,nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,5ingredients15minutes.com,beachnewseveryday.com,cliqueduplateau.com,hollywoodpq.com#@#.oboxads
 jolijolidesign.com,nightlife.ca,tonpetitlook.com,tplmoms.com,tonbarbier.com,danslescoulisses.com,hollywoodpq.com#@#.oboxads-ad-widget
+giantfreakinrobot.com#@#.pw-leaderboard-atf-container
+giantfreakinrobot.com#@#.pw-leaderboard-btf-container
+giantfreakinrobot.com#@#.pw-med-rect-atf-container
+giantfreakinrobot.com#@#.pw-med-rect-btf-container
+giantfreakinrobot.com#@#.pw-ph-med-rect
 pcgamingwiki.com#@##mpu
 pagesix.com,decider.com,nypost.com#@#.billboard-ad
 optionsprofitcalculator.com#@#.vertical_ad
@@ -6296,7 +6308,8 @@ techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
 bonginoreport.com#@#.side-advert
 manga3s.com,wordexcerpt.com#@#.body-top-ads
-theonlinecitizen.com,latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
+fortniteinsider.com,wrestlingheadlines.com,theonlinecitizen.com,latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
+wrestlingheadlines.com#@#.ads_code
 wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
 theloadout.com,pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
@@ -6474,7 +6487,6 @@ upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-1
 upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-2
 programme-tv.net#@#[data-ads-core]
 toutsurlehockey.com#@##publicite2
-lecahier.com#@#.mobileAd
 lecoupdegrace.ca#@#.side-ads
 dotesports.com#@##top-billboard
 walla.co.il#@#.adunitContainer
@@ -6501,7 +6513,7 @@ vice.com#@#.vice-ad__container
 thecalculatorsite.com#@#div[id^="ezoic-pub-ad-"]
 thecalculatorsite.com#@#.stickyAd
 thecalculatorsite.com#@#.rightColAd
-gbatemp.net#@##ad_container
+homeschoolmath.net,gbatemp.net#@##ad_container
 emojipedia.org,rotowire.com#@#.ad-footer
 itstillruns.com#@#.ad-section
 idealhome.co.uk#@#.header-advert
@@ -6791,7 +6803,7 @@ woxikon.de#@#.ads-margin-top-20
 @@||ldoceonline.com/external/js/prebid$domain=ldoceonline.com
 @@||assets.pons.com/assets/ads/iaw-pons$domain=pons.com
 @@||vice-staging-web-statics-cdn.viceops.net/vendor/ad-lib*$domain=viceops.net
-@@^wp-content/plugins/*/js/*.js$~third-party,domain=smartertravel.com|autooverload.com|bonvoyaged.com|lifestylogy.com
+@@^wp-content/plugins/*/js/*.js$~third-party,domain=monstersandcritics.com|smartertravel.com|autooverload.com|bonvoyaged.com|lifestylogy.com
 @@^external/scripts/prebid$~third-party,domain=dictionary.cambridge.org|oxfordlearnersdictionaries.com|collinsdictionary.com
 @@||ads-api.ft.com/v2/$xmlhttprequest,domain=ft.com
 @@||tabstats.com/js/prebid*$domain=tabstats.com
