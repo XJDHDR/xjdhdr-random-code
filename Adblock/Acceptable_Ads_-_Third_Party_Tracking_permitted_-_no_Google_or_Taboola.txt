@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vnXho2spI51e+kxtTATj7Q
-! Version: 202106111400
+! Checksum: kGChsXkxOXw9pz9iqoh3Sw
+! Version: 202106120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 11 Jun 2021 14:00 UTC
+! Last modified: 12 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1121,6 +1121,7 @@ nouvelobs.com#@#.ObsPartners
 unpuzzlefinance.com#@#.below-next-nativeads
 brit.co#@#.ad-tag
 money.com#@#.ad-sticky-container
+neomotor.sport.es,emporda.info,diaridegirona.cat,regio7.cat#@#a[href*=".adform.net/"]
 celebspulse.com##.below-next-nativeads
 e-sante.fr#@##block-gc-ad-bloc-centre-1
 e-sante.fr#@#.block-gc-ad
@@ -1218,6 +1219,7 @@ allocine.fr#@#.jtp
 cnn.com##.module-body > .summary-list a[href^="http://www.nextadvisor.com/"]
 cnn.com##.module-body > .summary-list a[href^="https://www.nextadvisor.com/"]
 eatthis.com#@#.nav-ad
+neomotor.sport.es#@#.ob-p
 unitedwithisrael.org,salon.com##.ob-smartfeed-wrapper .ob-p
 cnn.com,epicurious.com#@#.ob-widget-section > .ob-widget-header
 portail.free.fr##.ob-widget.AR_33
@@ -7686,6 +7688,9 @@ societatea.ro#@#.quads-location
 informateperu.pe#@#.ads-wrapper
 informateperu.pe#@#.ads_code
 super-nonni.it#@#.td-a-ad
+damillion.com#@#.g1-advertisement
+damillion.com#@#.adace-slot
+damillion.com#@#.adace-slot-wrapper
 @@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
 @@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com

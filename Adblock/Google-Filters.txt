@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cgJj4P4xl2HgA3g7tDIs2Q
-! Version: 202106111400
+! Checksum: x0pegeQhxKq3yJAHF6CYiw
+! Version: 202106120200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 11 Jun 2021 14:00 UTC
+! Last modified: 12 Jun 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2138,7 +2138,7 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 @@||google.com/adsense/$subdocument,domain=sedo.co.uk|sedo.com|sedo.jp|sedo.kr|sedo.pl
 @@||google.com/images/integrations/$image,~third-party
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
-@@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|nbcsports.com|vimeo.com|windalert.com
+@@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|nbcsports.com|uefa.com|vimeo.com|windalert.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|embed.comicbook.com|sbs.com.au
@@ -2568,7 +2568,7 @@ _GoogleTagManager2/
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
 ||s3wfg.com/js/vortexloader.js
-||a4xo-eng.spankbang.com^
+||a5xo-eng.spankbang.com^
 ||affiliates.londonmarketing.com^
 ||analytics.bloomberg.com^
 ||analytics.teespring.com^
@@ -2611,6 +2611,7 @@ _GoogleTagManager2/
 ||google.*/ping?
 ||google.*/stats?frame=
 ||google.com/_/DotsSplashUi/browserinfo
+||google.com/_/DotsSplashUi/data/batchexecute?
 ||google.com/appserve/mkt/img/*.gif
 ||google.com/dssw.js
 ||google.com/insights/$script
