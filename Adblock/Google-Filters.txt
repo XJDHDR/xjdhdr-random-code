@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IhG+w5SMvr7p3gNyFRaRyw
-! Version: 202106121400
+! Checksum: juuUMYSwZ2EQCXw+U+oVKg
+! Version: 202106130200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 12 Jun 2021 14:00 UTC
+! Last modified: 13 Jun 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1268,7 +1268,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||analyzeagg.com^
 ||anticipatedlying.com^
 ||armedearring.com^
-||askbegrag.com^
 ||assertednodding.com^
 ||atilohdxsg.com^
 ||aud3g.com^
@@ -1279,7 +1278,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||berryborrowing.com^
 ||bhcf764sf8pg.com^
 ||bikesseafoodchewing.com^
-||bilrtklg.com^
 ||blessingpudding.com^
 ||boahwswzuebmmg.com^
 ||boilstaircasehug.com^
@@ -1387,7 +1385,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||kgqhtakjphgdwg.com^
 ||khg97644rvbg.com^
 ||kjrjvvxcg.com^
-||krwasgyensttng.com^
 ||ktyawzg.com^
 ||kumteerg.com^
 ||l5fvoqimjfug.com^
@@ -1519,7 +1516,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||vlitag.com^
 ||voupkdprug.com^
 ||vpwlynobnnqg.com^
-||waysinbeg.com^
 ||willowmutilatebanking.com^
 ||wityamdog.com^
 ||wizliebeg.com^
@@ -2611,7 +2607,6 @@ _GoogleTagManager2/
 ||google.*/ping?
 ||google.*/stats?frame=
 ||google.com/_/DotsSplashUi/browserinfo
-||google.com/_/DotsSplashUi/data/batchexecute?
 ||google.com/appserve/mkt/img/*.gif
 ||google.com/dssw.js
 ||google.com/insights/$script
