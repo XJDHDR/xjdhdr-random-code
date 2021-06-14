@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8mOon3xJndSKrvpCFsQXRQ
-! Version: 202106140200
+! Checksum: bTW0TtoOTg/sP8sMKNr7hA
+! Version: 202106141400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Jun 2021 02:00 UTC
+! Last modified: 14 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1117,6 +1117,7 @@ fitnessuebungen-zuhause.de,homegym-exercises.com#@#.werbung
 @@||assets.guim.co.uk/javascripts/*prebid.js$script,domain=theguardian.com
 @@||*logo_mediamond_m.gif$image,domain=ilgiornale.it|meteo.it|sportmediaset.mediaset.it
 @@||vda.romatoday.it/~vda/___/u.php^$script,image,domain=romatoday.it
+eatthis.com#@#.outbrain-ad-units
 nouvelobs.com#@#.ObsPartners
 unpuzzlefinance.com#@#.below-next-nativeads
 brit.co#@#.ad-tag
@@ -6230,7 +6231,6 @@ a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it
 u.gg,meetme.com#@#.side-ads-container
 gfycat.com#@#.side-slot
 aljazeera.com#@#.sideAdv-wrapper
-pcinvasion.com,siliconera.com,word.tips,marecomic.com,meekcomic.com#@#.sidebar-ad
 skijumping.pl#@#.sidebar-advertisement
 sufficientlyremarkable.com#@#.sidebarAd
 heraldweekly.com,history-a2z.com,lifestyle-a2z.com,science-a2z.com#@#.single-ad
@@ -7720,6 +7720,7 @@ universfreebox.com#@#div[id^="publicite-"]
 ! Ads by MGID
 lusnyak.ru,hogmag.net,politikstube.com#@#div[class*="td-a-rec-id-"]
 lusnyak.ru,hogmag.net,politikstube.com#@#.td-a-rec
+rakyatku.com#@#.ads_center
 girlsaskguys.com#@#.ad-slot
 takprosto.cc#@#.ads
 click-or-die.ru#@#.ads-phead
@@ -7756,6 +7757,9 @@ super-nonni.it#@#.td-a-ad
 damillion.com#@#.g1-advertisement
 damillion.com#@#.adace-slot
 damillion.com#@#.adace-slot-wrapper
+pendidikan.co.id,berbagi-inspirasi.com#@#.idblog-center-ads
+pendidikan.co.id#@#.idblog-topbanner-aftermenu
+herstory.co.id#@#.native-ad
 @@||ad.activesolutions.cz/ad/www/delivery/ajs.php$script,domain=stars24.cz
 @@||cdn.mgid.com/test/carousel/img/$image,domain=hypestat.com
 @@||mgid.com/mghtml/framehtml/c/p/o/popularsuperstars.com.350544.html$subdocument,domain=popularsuperstars.com
@@ -7766,6 +7770,7 @@ damillion.com#@#.adace-slot-wrapper
 @@||jsc.epeex.io^*.js$script,domain=ilfattonisseno.it|gazzettadelsud.it|targatocn.it
 @@||redactia.ro/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js^$domain=redactia.ro
 @@||adserver.kl-youniverse.com^$domain=m.dream.co.id
+@@||mgid.com^$xmlhttprequest,domain=ayojakarta.com
 !:partner_token=Lemonde.fr
 !:partner_id=e6ee3ec59227327c
 !:type=partner
