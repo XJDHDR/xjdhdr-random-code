@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ovXXzHwD0SFL+RswtW/3Rw
-! Version: 202106170200
+! Checksum: oyv5zhZ+bR98MXRtQQDzyQ
+! Version: 202106171400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 Jun 2021 02:00 UTC
+! Last modified: 17 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2396,6 +2396,7 @@ _GoogleTagManager2/
 ||linezing.com^$third-party
 ||lloogg.com^$third-party
 ||lumatag.co.uk^$third-party
+||m365log.com^$third-party
 ||mathtag.com^$third-party
 ||mediaseeding.com^$third-party
 ||msgtag.com^$third-party
@@ -4128,6 +4129,7 @@ androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,gbnews.uk,infopedia
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
 bing.com##div[data-cookie]
+||google.com/search?$popup,domain=lolmt2.com
 ||boosterblog.com/ban/$third-party
 boingtv.fr,coreight.com,editions-hatier.fr,igen.fr,macg.co,novaplanet.com###sliding-popup
 cuisineetvinsdefrance.com,francetvinfo.fr,leparisien.fr,phonandroid.com,silicon.fr##.newsletter
