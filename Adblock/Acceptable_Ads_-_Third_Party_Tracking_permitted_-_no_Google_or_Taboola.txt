@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TwOHWfweVMt+pdsUb+U0YQ
-! Version: 202106180200
+! Checksum: JzfMjFnQXkr7X7kb+LZsrA
+! Version: 202106181400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 18 Jun 2021 02:00 UTC
+! Last modified: 18 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8123,6 +8123,14 @@ blesk.cz#@#[class$="-kukakomeha"]
 newsmonkey.be##.billboard.advert
 newsmonkey.be##.leaderboard.advert
 newsmonkey.be#@#[id^="div-gpt-ad"]
+!:partner_token=Quora
+!:partner_id=ee6342968f990c88
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=79450
+! Quora.com ads
+@@||quora.com^$elemhide
+@@||quora.com/ads/eyeo?ch=1&rn=$image,domain=quora.com
+||quora.com/ads/eyeo?ch=2&rn=$image,domain=quora.com
 !:partner_token=wiesentbote.de
 !:partner_id=3b48d0b86a51592a
 !:type=partner
@@ -8694,6 +8702,8 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||ads.blogherads.com^$domain=billboard.com
+@@||tra.scds.pmdstatic.net/advertising-core/4/core-ads.js$domain=gala.fr|capital.fr
+@@||tra.scds.pmdstatic.net/advertising-core/4.124.1/prisma-prebid-plugin.js$domain=gala.fr|capital.fr
 !
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
