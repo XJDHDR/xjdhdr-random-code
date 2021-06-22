@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GuUi2ydpgrzJDrF6oTKQCA
-! Version: 202106220200
+! Checksum: E6OCqojjRMBU+td8+meetA
+! Version: 202106221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 22 Jun 2021 02:00 UTC
+! Last modified: 22 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1853,6 +1853,7 @@ infoescola.com#@#.ads
 infoescola.com##.ads:not(#recomendacoes)
 elperiodico.com#@#.adLoaded
 lifehacker.com.au,kotaku.com.au,gizmodo.com.au,hotbikeweb.com,workingmother.com#@#.taboola-placement
+conservativewoman.co.uk#@#.td-a-ad
 ! Hidden for compliance
 news.com.au##.promoted-stories
 ynetnews.com###embedder-1
@@ -3377,6 +3378,14 @@ wallapop.com##.home-pub-section-top
 @@||ad.woman.mynavi.jp/js/news/prebid.js$domain=mynavi.jp
 @@||cdn2.mynvwm.com/wp-content/themes/mwp-parent/js/prebid.js$domain=mynavi.jp
 @@||ads.rubiconproject.com/prebid$domain=forzastyle.com|mdpr.jp
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.suche.js?1620707458$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.kochbuch.js?1620707458$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.index.js?1615380995$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.rezepte.js?1615380995$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.artikel.js?1615380995$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.video.js?1615380995$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.rezept-term.js?1615380995$domain=eatsmarter.de
+@@||eatsmarter.de/sites/all/modules/custom/eatsmarter_advertisement/assets/js/marketers/dfp/cpg_ads.ros.js?1615380995$domain=eatsmarter.de
 ! Criteo sponsored products on retailer websites
 @@||dnisjsqid2b9p.cloudfront.net^$image,stylesheet,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de|checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
 @@||hlserve.com^*abe=$image,xmlhttprequest,domain=albertsons.com|safeway.com|babiesrus.ca|bedbathandbeyond.ca|bedbathandbeyond.com|bestbuy.ca|bestbuy.com|bjs.com|buybuybaby.com|costcobusinessdelivery.com|costco.ca|costco.com|cvs.com|ebay.com|fanatics.com|fingerhut.com|freshdirect.com|freshop.com|gamestop.com|gettington.com|kmart.com|kohls.com|lowes.ca|lowes.com|macys.com|meijer.com|sams.com.mx|samsclub.com|sears.com|shop.shipt.com|shoprite.com|staples.com|super.walmart.com.mx|target.com|thebay.com|toysrus.ca|ulta.com|walgreens.com|walmart.ca|groceries.asda.com|currys.co.uk|argos.co.uk|littlewoods.com|very.co.uk|ebay.co.uk|groceries.morrisons.com|groceries.store.morrisons.com|lookfantastic.com|fonq.nl|wehkamp.nl|blokker.nl|bcc.nl|baur.de|quelle.de|peek-cloppenburg.de|notebooksbilliger.de|rewe.de|sportscheck.com|mytoys.de|checkout.mytoys.de|parfumdreams.de|intersport.de|limango.de|mirapodo.de|checkout.mirapodo.de|douglas.de|expert.de|babymarkt.de|douglas.at|alcampo.es|carrefour.es|dia.es|worten.es|canarias.worten.es|primor.eu|fnac.es|fnac.pt|leclercdrive.fr|e.leclerc|cora.fr|go-sport.com|conforama.fr|boulanger.com|boots.com|carrefour.fr|auchan.fr|metro.ca|namshi.com|farfetch.com|fnac.com|darty.com|intermarche.com|micromania.fr|king-jouet.com|laredoute.fr
@@ -6691,6 +6700,12 @@ woxikon.de#@#.ads-marker
 woxikon.de#@#.ads-margin-top-20
 usmagazine.com#@#.row-ad
 usmagazine.com#@##right-rail-ad-slot-content-top
+indiewire.com##[id*="div-gpt-indiewire-ros-leaderboard"]
+terraria.fandom.com###top_leaderboard
+bddatabase.net###bottom_slot.topad
+buzzfeed.com###div-gpt-ad-42
+wowhead.com###ad-horizontalBTF
+wikihow.com###method_ad_1
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6850,7 +6865,8 @@ usmagazine.com#@##right-rail-ad-slot-content-top
 @@||teva.com^$document
 @@||word.tips/assets/ads$domain=word.tips
 @@||cdn.pubguru.com$script,xmlhttprequest,third-party,domain=jugantor.com
-@@||m2d.m2.ai/*.js$script,third-party,domain=jugantor.com
+@@||m2d.m2.ai/*.js$script,third-party,domain=bibliacatolica.com.br|jugantor.com
+@@||cdn.pubguru.com/gfc.js$script,third-party,domain=bibliacatolica.com.br
 @@||cdn1.htlbid.com/*/wordfinder.yourdictionary.com/htlbid.js$script,domain=yourdictionary.com
 @@||adnxs.com/getuid^$third-party
 @@||ib.adnxs.com/mapuid^$image,third-party
@@ -7197,6 +7213,7 @@ pixnet.net#@#div[id*="-ad-"]
 naturallivingideas.com#@#.quads-ad1_widget
 naturallivingideas.com#@##quads-ad1_widget
 boardgamegeek.com#@#.advertisement-top
+boardgamegeek.com#@#.global-body-ad
 @@||cdn.cookielaw.org/consent^$xmlhttprequest,domain=gsmarena.com
 @@||cookielaw.org/scripttemplates^$xmlhttprequest,domain=gsmarena.com
 @@||dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js$script,domain=gsmarena.com
