@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FriWSZGD3DtZHx0gI3G1bw
-! Version: 202106230200
+! Checksum: 8dTJ6e5W3kef2DJl4v6JnQ
+! Version: 202106231400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 23 Jun 2021 02:00 UTC
+! Last modified: 23 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1618,20 +1618,17 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||videoegg.com^$third-party
 ||wlmarketing.com^$third-party
 ||atresadvertising.com^$third-party
-||ad-apac.doubleclick.net^$popup
-||ad-emea.doubleclick.net^$popup
-||ad.doubleclick.net/ddm/trackclk/$popup
 ||adtng.com^$popup
 ||bravo-dog.com^$popup
-||cm.g.doubleclick.net^$popup
 ||conferencesing.com^$popup
 ||defenseaspirinlike.com^$popup
+||doubleclick.net^$popup
+||dynsrvtbg.com^$popup
 ||earandmarketing.com^$popup
 ||fast-redirecting.com^$popup
 ||focuusing.com^$popup
 ||friendlyduck.com^$popup
 ||gallonranchwhining.com^$popup
-||googleads.g.doubleclick.net^$popup
 ||impactserving.com^$popup
 ||integral-marketing.com^$popup
 ||maomaotang.com^$popup
@@ -1644,7 +1641,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||predictivadvertising.com^$popup
 ||prmtracking.com^$popup
 ||psoomeeg.com^$popup
-||pubads.g.doubleclick.net^$popup
 ||punsong.com^$popup
 ||quantomcoding.com^$popup
 ||redirect18systemsg.com^$popup
@@ -1653,7 +1649,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||spareddepressing.com^$popup
 ||srv2trking.com^$popup
 ||srvbytrking.com^$popup
-||syndication.dynsrvtbg.com^$popup
 ||twqiqiang.com^$popup
 ||viibug.com^$popup
 ||eroadvertising.com^$third-party
@@ -1792,11 +1787,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ! Test (Webkit Mobile/Desktop for Youtube)
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
 ||m.youtube.com/get_midroll_$domain=youtube.com
-! ||m.youtube.com/watch?v=*&pp=*&pbj=1$xmlhttprequest
-! ||m.youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
 ||pagead2.googlesyndication.com^$domain=youtube.com
-||static.doubleclick.net^$domain=youtube.com
-||www.google.com/pagead/$domain=youtube.com
 ||www.youtube.com/get_midroll_$domain=youtube.com
 ||youtube.com/get_video_info?*adunit$~third-party
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -1877,7 +1868,6 @@ dvdfile.com,ecnmag.com,thefashionspot.com###roadblock
 carmag.co.za###sidebar-primary
 sacricketmag.com###slidein
 whatshappening.com.ph###sliderCarousel
-armyrecognition.com###sp-google-advertising-2x-468x100
 google.com###tadsc
 rssing.com###toi
 google.com###topstuff > #wmxmsg
