@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fNJ9wMERr56gyg8+fi5ueg
-! Version: 202106221400
+! Checksum: Mi41jwP2fv9wO3ttf+7aVw
+! Version: 202106230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Jun 2021 14:00 UTC
+! Last modified: 23 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2814,6 +2814,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-content-js.c165.js$domain=lefigaro.fr
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-script-js.2829.js$domain=lefigaro.fr
 @@||static.lefigaro.fr/figads/fgds-criteoService-cd0d6d29.js$domain=lefigaro.fr
+@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
@@ -5921,6 +5922,7 @@ didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_1
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_1-wrapper
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2
 didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2-wrapper
+buzfeed.com#@##div-gpt-ad-42
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
 israelnationalnews.com#@##divTopAd
