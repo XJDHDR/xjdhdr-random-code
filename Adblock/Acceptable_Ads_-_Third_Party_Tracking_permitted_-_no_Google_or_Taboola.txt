@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: slb5S0EXqZXGMcXW2miZ9w
-! Version: 202106231400
+! Checksum: jrZjxyTkpjdxgWx4MHSIjg
+! Version: 202106240200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 23 Jun 2021 14:00 UTC
+! Last modified: 24 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2814,7 +2814,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-content-js.c165.js$domain=lefigaro.fr
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-script-js.2829.js$domain=lefigaro.fr
 @@||static.lefigaro.fr/figads/fgds-criteoService-cd0d6d29.js$domain=lefigaro.fr
-@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com
+@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com|ebay-kleinanzeigen.de
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
@@ -5903,9 +5903,6 @@ zakon.kz#@##adv_728x90
 isekaiscan.com#@#.advance-ads
 brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,incrivel.club#@##advert_1
 zakon.kz#@##aside300 > :not(#lastnews):not(#left_scrollable)
-didev.co.uk,expertreviews.co.uk#@##block-dfp-billboard-leaderboard
-didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-1
-didev.co.uk,expertreviews.co.uk#@##block-dfp-mpu-2
 fstoppers.com#@##block-fs_helpers-freestar_InContent
 smbc-comics.com#@##boardleader
 socialblade.com#@##bottomAd
@@ -5916,12 +5913,6 @@ topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topix
 egscomics.com,6gunmage.com,aliceandthenightmare.com,blindsprings.com,boumerie.com,cuttimecomic.com,dincomic.com,empoweredcomic.com,enenkay.com,forgottenordercomic.com,harpygee.com,headlessbliss.com,insidephobia.com,johnnywander.com,lilithword.com,lonelyvincent.com,metacarpolis.com,ndecomic.com,nighheavenandhell.com,oddlookingbird.com,sakana-comic.com,sdamned.com,skullkickers.com,thelastdiplomat.com,threepanelsoul.com,tovecomic.com#@##boxad
 eq2interface.com,eqinterface.com,esoui.com,riftui.com,secretui.com,swtorui.com,wowinterface.com#@##cubeAd
 yad2.co.il#@##desktop-top-banners
-didev.co.uk,expertreviews.co.uk#@##dfp-ad-billboard_leaderboard
-didev.co.uk,expertreviews.co.uk#@##dfp-ad-billboard_leaderboard-wrapper
-didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_1
-didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_1-wrapper
-didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2
-didev.co.uk,expertreviews.co.uk#@##dfp-ad-mpu_2-wrapper
 buzfeed.com#@##div-gpt-ad-42
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-1
 allkpop.com,mymarketresearchmethods.com#@##div-insticator-ad-2
@@ -6082,7 +6073,6 @@ metalsucks.net,zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
 breitbart.com,discogs.com,photographylife.com#@#.banner_ad
 kizi.com#@#.banner_holder
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.big-ad
-didev.co.uk,expertreviews.co.uk#@#.block-dfp
 misfile.com#@#.blogAd
 starmagazine.com#@#.bottom-ads
 littlealchemy.com#@#.bottomAd
@@ -6134,6 +6124,7 @@ themarker.com#@#.js-dfp-ad
 didev.co.uk,expertreviews.co.uk#@#.lazyadslot
 smartertravel.com,escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
 explosm.net#@#.leaderboard-container
+t3.com#@#.leaderboard__container
 ratemyprofessors.com#@#.leaderboard_ad
 bobshideout.com,coolimba.com,graduatez.com,joorala.com,parentztalk.com,tworeddots.com#@#.left-ad
 wnd.com#@#.left_prom_160
@@ -6818,8 +6809,8 @@ wikihow.com###method_ad_1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -8207,6 +8198,11 @@ devextent.com#@#.ad-sidebar
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82513
 ! warwicksu.com ads
 @@||warwicksu.com/asset/Advert/$image,domain=warwicksu.com
+!:partner_token=ptable.com ads
+!:partner_id=9be7f68ef788afa5
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82514
+! ptable.com ads
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
@@ -8703,6 +8699,7 @@ testpages.adblockplus.org#@##abptest
 @@||st.wetteronline.*/mdr/p_adplace/*/js/showAds.js$script,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 @@||st.wetteronline.*/mdr/p_adplace/*/js/wodasHeader.js$script,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 @@||st.wetteronline.*/mdr/p_adplace/*/js/wodasHeaderDfp_www.js$script,domain=wetteronline.de|wetteronline.at|wetteronline.ch
+@@||console.adgrid.io/adgrid-build^$domain=motor1.com
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
@@ -8723,8 +8720,9 @@ testpages.adblockplus.org#@##abptest
 @@||openx.net^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||adpushup.com^$domain=redditad.com|aax.forbes.com|related.speedtest.net
 @@||ads.blogherads.com^$domain=billboard.com
-@@||tra.scds.pmdstatic.net/advertising-core/4/core-ads.js$domain=gala.fr|capital.fr
-@@||tra.scds.pmdstatic.net/advertising-core/4.124.1/prisma-prebid-plugin.js$domain=gala.fr|capital.fr
+@@||tra.scds.pmdstatic.net/advertising-core/*/core-ads.js$domain=gala.fr|capital.fr
+@@||tra.scds.pmdstatic.net/advertising-core/*/prisma-prebid-plugin.js$domain=gala.fr|capital.fr
+||pbs-front.mediasquare.fr/msq_prebid$xmlhttprequest,domain=capital.fr
 !
 toocool2betrue.com#@##RTK_5T1k
 toocool2betrue.com#@##RTK_ATbH
@@ -9036,6 +9034,9 @@ rd1.com.br,fdr.com.br,spinoff.com.br#@#.ad-block
 nitrotype.com#@#.ad--container
 wetteronline.de#@##topcontainer
 ew.com#@#.tablet-ad
+capital.fr#@#.header-advert
+capital.fr#@#.ads-core-placer
+wetteronline.de#@##woFooterBillboard
 ! vesty.co.il#@#.top-ad
 ! Hidden for compliance
 searchenginejournal.com###nng
