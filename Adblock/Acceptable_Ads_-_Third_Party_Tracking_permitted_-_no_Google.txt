@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HsND2iuInhDmOBCRS4jDnA
-! Version: 202106250200
+! Checksum: oU950nM8/VcxdWHUYPp/Xw
+! Version: 202106251400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Jun 2021 02:00 UTC
+! Last modified: 25 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5759,7 +5759,7 @@ usmagazine.com#@#.ad-spot
 dealnews.com#@#.ad-square
 trustedreviews.com,cosmopolitan.com#@#.ad-sticky
 trustedreviews.com#@#.ipc-advert
-trustedreviews.com#@#.ipc-advert-class
+thefield.co.uk,golfmonthly.com,yachtingworld.com,yachtingmonthly.com,rugbyworld.com,pbo.co.uk,ybw.com,mbr.co.uk,trustedreviews.com#@#.ipc-advert-class
 popmatters.com#@#.ad-tag
 hothardware.com#@#.ad-top
 dailywire.com,masteroverwatch.com,mrexcel.com,zombs.io#@#.ad-unit
@@ -6063,7 +6063,7 @@ jobseeq.com#@#.ad-right
 virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 emojipedia.org,fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
-idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
+mby.com,countrylife.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 r6.tracker.network,upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 hollywoodreporter.com,bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
 rotowire.com,gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
@@ -6578,11 +6578,11 @@ thecalculatorsite.com#@#.rightColAd
 homeschoolmath.net,gbatemp.net#@##ad_container
 emojipedia.org,rotowire.com#@#.ad-footer
 itstillruns.com#@#.ad-section
-idealhome.co.uk#@#.header-advert
-idealhome.co.uk#@#.header-advert-wrapper
+mby.com,thefield.co.uk,golfmonthly.com,yachtingworld.com,yachtingmonthly.com,rugbyworld.com,pbo.co.uk,countrylife.co.uk,ybw.com,mbr.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk#@#.header-advert
+mby.com,countrylife.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk#@#.header-advert-wrapper
 hollywoodreporter.com,footwearnews.com#@#.widget_pmc-ads-widget
 dotabuff.com#@#.blog-ad
-idealhome.co.uk#@#.ipc-advert
+mby.com,thefield.co.uk,golfmonthly.com,yachtingworld.com,yachtingmonthly.com,rugbyworld.com,pbo.co.uk,countrylife.co.uk,ybw.com,mbr.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk#@#.ipc-advert
 cinemablend.com#@##leaderboard-ad
 cinemablend.com#@##sticky-rail-ad
 thesimsresource.com#@#.crtv-top-wrapper
