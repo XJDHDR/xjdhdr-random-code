@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: myKvOUVXqto9rdqseNl6pQ
-! Version: 202106241400
+! Checksum: hPjbSaepKbSKPjYtDnbk+w
+! Version: 202106250200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 24 Jun 2021 14:00 UTC
+! Last modified: 25 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6307,6 +6307,7 @@ bonginoreport.com#@#.side-advert
 manga3s.com,wordexcerpt.com#@#.body-top-ads
 fortniteinsider.com,wrestlingheadlines.com,theonlinecitizen.com,latribuna.hn,vtvgiaitri.vn#@#.ads-wrapper
 wrestlingheadlines.com#@#.ads_code
+essence.com#@#.flexad
 wargamer.com,pockettactics.com,theloadout.com,pcgamesn.com#@#.ad-mpu
 theloadout.com,pcgamesn.com#@#.inlinerail
 thefantasyfootballers.com#@#.ad--inner
