@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oU950nM8/VcxdWHUYPp/Xw
-! Version: 202106251400
+! Checksum: 4tm+EsNx1VMrU3vreRiJ5Q
+! Version: 202106260200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 25 Jun 2021 14:00 UTC
+! Last modified: 26 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6485,7 +6485,7 @@ metservice.com#@#.Sidebar-ad
 msn.com#@#.dynamicRRWrapper
 msn.com#@#.todayshowcasead
 fiscoetasse.com#@##banner728
-flightconnections.com#@#.ad-box
+wago.io,flightconnections.com#@#.ad-box
 flightconnections.com#@#.ad-box-2
 coolfont.org#@#.sponsored_ad
 chaptercheats.com#@#.leader_ad
@@ -7495,6 +7495,9 @@ express.co.uk,nigella.com##div[block^="true"]
 londontheinside.com#@#.widget_ad_widget
 thepostmillennial.com##.article-content .mot
 thepostmillennial.com###leader-mot
+duden.de#@#.tabloid__wide-top
+duden.de#@##block-lexemleaderboardunten-2
+duden.de#@#.tabloid__side-column
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
@@ -7718,12 +7721,13 @@ tsn.ua#@#[data-partners-iframe]
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=75009
 ! Adpone ads
 3djuegos.com#@##dst_pub_728
-newsru.com#@#div[id^="adfox_"]
+ont.by,newsru.com#@#div[id^="adfox_"]
 newsru.com#@#div[class*="prm"]
 universfreebox.com#@#.publicite
 universfreebox.com#@#div[id^="publicite-"]
+ont.by#@#.b-renommee__wrap
 @@||api.unblockia.com/api/sites/0/config.json^$domain=rusvesna.su|soccer.ru|pandia.ru|varta1.com.ua|seo-fast.ru|newsyou.info
-@@||unblockia.com^$third-party,xmlhttprequest,domain=forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
+@@||unblockia.com^$third-party,xmlhttprequest,domain=ont.by|anews.com|forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
