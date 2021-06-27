@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rLjrOk4fgAPDLyOZM7K7NA
-! Version: 202106270200
+! Checksum: UpxVD4IbKCaJAgYK2jIkDg
+! Version: 202106271400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 27 Jun 2021 02:00 UTC
+! Last modified: 27 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2916,7 +2916,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||synlab.it^*/angular-google-analytics.js
 @@||chancro.jp/assets/lib/googleanalytics-$script
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|kakuyomu.jp|sankei.com|ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|hatenacorp.jp|kakuyomu.jp|radiko.jp|sankei.com|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||matsukiyo.co.jp^*/js/analytics/GoogleTagManager.js$~third-party
