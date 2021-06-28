@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IXp7hYlXPVmTb0ymrPZfLg
-! Version: 202106280200
+! Checksum: 4OpJPSnwpMwsIedcpKSPQg
+! Version: 202106281400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 28 Jun 2021 02:00 UTC
+! Last modified: 28 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7498,6 +7498,8 @@ thepostmillennial.com###leader-mot
 duden.de#@#.tabloid__wide-top
 duden.de#@##block-lexemleaderboardunten-2
 duden.de#@#.tabloid__side-column
+duden.de#@##block-dudende-d-970x250-1billboard
+duden.de#@#.tile__wrapper
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
