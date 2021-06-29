@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iaManDyKMVvjzbQMz8t/TQ
-! Version: 202106290200
+! Checksum: TPBzSwqadUJhEZPtp1BcQw
+! Version: 202106291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 29 Jun 2021 02:00 UTC
+! Last modified: 29 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7500,6 +7500,14 @@ vk.com#@#div[id^="yandex_ad"]
 @@||dmg.digitaltarget.ru^$image,domain=vk.com
 @@||pixel.adsafeprotected.com^$image,domain=vk.com
 @@||top-fwz1.mail.ru^$image,domain=vk.com
+!:partner_token=OK.ru ads
+!:partner_id=cff3f50d7090ba74
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82522
+! OK.ru ads
+@@||limg.imgsmail.ru/informers/abp/px.js?ch=1&script,domain=ok.ru
+||limg.imgsmail.ru/informers/abp/px.js?ch=2&script,domain=ok.ru
+ok.ru#@#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Реклама))
 !:partner_token=ppc.world
 !:partner_id=8e0ac9864547fe79
 !:type=partner

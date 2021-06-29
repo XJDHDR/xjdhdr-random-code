@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GGBHLIl+7qIgeR5q/g0gDg
-! Version: 202106290200
+! Checksum: xgcmRzJyf0fFpuoVImnr5g
+! Version: 202106291400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 29 Jun 2021 02:00 UTC
+! Last modified: 29 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1949,6 +1949,7 @@ analyticsindiamag.com##[href^="https://business.louisville.edu/"]
 analyticsindiamag.com##[href^="https://praxis.ac.in/"]
 analyticsindiamag.com##[href^="https://programs.upgrad.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
+msn.com##a[href*=".booking.com/"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 livejournal.com##div[data-google-query-id]
