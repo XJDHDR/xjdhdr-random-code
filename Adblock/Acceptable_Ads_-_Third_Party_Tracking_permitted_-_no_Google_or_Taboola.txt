@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IFFEGOTNT35TQlciDZUCdQ
-! Version: 202106281400
+! Checksum: iaManDyKMVvjzbQMz8t/TQ
+! Version: 202106290200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 28 Jun 2021 14:00 UTC
+! Last modified: 29 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6011,7 +6011,7 @@ sundaydigest.com,smartingly.com,yummypress.com,newagenews.com,theprintstreet.com
 fosonline.gr#@#.ad-zone
 ratemyprofessors.com#@#.ad.banner
 slader.com#@#.ad.inner
-baseball-reference.com,chip.com.tr,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
+appgamer.com,baseball-reference.com,chip.com.tr,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
 baseball-reference.com,basketball-reference.com,chip.com.tr,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad728
 21usdeal.com#@#.AD728
 walla.co.il,lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
