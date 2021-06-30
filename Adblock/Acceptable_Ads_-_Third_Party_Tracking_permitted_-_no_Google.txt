@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QDoviP2KZgqDK9ygzDb3yA
-! Version: 202106291400
+! Checksum: eS8BRHHEp6bFNRqHRhdt2g
+! Version: 202106300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Jun 2021 14:00 UTC
+! Last modified: 30 Jun 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5930,7 +5930,7 @@ westeros.org#@##HeaderAd
 westeros.org#@##SidebarAd
 elites.io#@##ad-bottom
 calibre-ebook.com,ratemyprofessors.com#@##ad-container
-elites.io#@##ad-top
+huffpost.com,elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
 cnn.com#@##adSquare
 discogs.com#@##ad_bottom
@@ -6247,7 +6247,7 @@ zombsroyale.io,u.gg,bgr.com,breitbart.com,deadline.com,footwearnews.com,indiewir
 civfanatics.com#@#.themonic-ad2
 thesimsresource.com#@#.top-300-ad
 theblaze.com,whosampled.com,brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,reserveamerica.com,hiphopdx.com,ynet.co.il,bobshideout.com,coolimba.com,graduatez.com,hi5.com,incrivel.club,joorala.com,parentztalk.com,parkers.co.uk,tagged.com,tworeddots.com,ynetespanol.com#@#.top-ad
-digitaltrends.com,wnd.com#@#.top-ad-container
+huffpost.com,digitaltrends.com,wnd.com#@#.top-ad-container
 aljazeera.com#@#.top-adv
 skijumping.pl#@#.top-advertisement
 weszlo.com#@#.top-adw
@@ -6614,6 +6614,11 @@ typeracer.com#@#.newNorthWidget
 itstillworks.com#@#.horizontal-ad
 buzzfeed.com#@#div-gpt-ad-42
 wowhead.com#@#ad-horizontalBTF
+huffpost.com#@#.leaderboard-flex-placeholder
+huffpost.com#@##ad_leaderboard_flex
+huffpost.com#@##ad-sidebar-1
+huffpost.com#@##ad-sidebar-2
+huffpost.com#@##ad-sidebar-3
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -9114,7 +9119,9 @@ nitrotype.com#@#.ad--container
 wetteronline.de#@##topcontainer
 ew.com#@#.tablet-ad
 capital.fr#@#.header-advert
-capital.fr#@#.ads-core-placer
+gala.fr,capital.fr#@#.ads-core-placer
+gala.fr#@#.bannerAds
+gala.fr#@#.coreAdsPlacer
 wetteronline.de#@##woFooterBillboard
 ! vesty.co.il#@#.top-ad
 ! Hidden for compliance
