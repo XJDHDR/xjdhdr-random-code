@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6vrB7E5f5L7GPIM4NOOHAA
-! Version: 202106300200
+! Checksum: oZQjz/1TybKo8Byl0RGc0w
+! Version: 202106301400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 30 Jun 2021 02:00 UTC
+! Last modified: 30 Jun 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1355,6 +1355,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||g6zkzy0g2g.com^
 ||gallonranchwhining.com^
 ||getplumberacting.com^
+||glaresling.com^
 ||gloriajunkiebegging.com^
 ||goddessrig.com^
 ||googleapi.club^
@@ -1362,6 +1363,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||governrecycling.com^
 ||grudgeslylonging.com^
 ||hash-hash-tag.com^
+||havocgainpassing.com^
 ||hickunwilling.com^
 ||highwayprinting.com^
 ||hobfadbig.com^
@@ -1442,6 +1444,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||portprintingchecking.com^
 ||poupheeg.com^
 ||premiumvertising.com^
+||prepenseprepensecubicoperating.com^
 ||privacysearching.com^
 ||prosperitypartying.com^
 ||proxyreducing.com^
@@ -1509,6 +1512,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||umannwig.com^
 ||umwyfqgsg.com^
 ||untruewring.com^
+||upsettingcrescentwig.com^
 ||uptightpercyplug.com^
 ||usherintermediatedisturbing.com^
 ||uujdthyg.com^

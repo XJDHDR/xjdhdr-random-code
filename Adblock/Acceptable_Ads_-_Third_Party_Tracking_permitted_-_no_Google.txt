@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eS8BRHHEp6bFNRqHRhdt2g
-! Version: 202106300200
+! Checksum: LZ6LnZpggC6N/ex5zCszgQ
+! Version: 202106301400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 30 Jun 2021 02:00 UTC
+! Last modified: 30 Jun 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -3018,7 +3018,6 @@ webmail.free.fr#@##PubFooter
 kp.ru#@#div[data-slot-name]
 ! Hidden for compliance
 secretsdujeu.com###skyscraper > div + hr + div:nth-child(3) > div:not([id]):not([class]) > div[class] > div[id]
-kp.ru##div[data-slot-name="1m"]
 kp.ru##div[data-slot-name="fullscreen"]
 kp.ru##div[class*="styled__ContentBody"] > div[class*="styled__Advert-"]
 ! temp
@@ -6066,7 +6065,7 @@ zoosk.com#@#.ad-skyscraper
 mby.com,countrylife.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 r6.tracker.network,upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 hollywoodreporter.com,bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
-rotowire.com,gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
+newsbomb.gr,rotowire.com,gta5-mods.com,sporcle.com,littlealchemy2.com,omnicalculator.com#@#.ad-top
 nuklearpower.com#@#.ad-tower
 portalebambini.it,bgr.com,footwearnews.com,indiewire.com,news247.gr,pmcqa.com,rollingstone.com,tvline.com#@#.ad-widget
 tasty.co,buzzfeed.com,buzzfeednews.com#@#.ad-wireframe-wrapper
@@ -6182,7 +6181,7 @@ maketecheasier.com#@#.header-widget
 itstillworks.com#@#.inline-ad
 indiewire.com#@#.iw-leaderboard-ad
 tasty.co#@#.js-ad
-cnn.gr,buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
+newsbomb.gr,cnn.gr,buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
 themarker.com#@#.js-dfp-ad
 didev.co.uk,expertreviews.co.uk#@#.lazyadslot
 smartertravel.com,escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
@@ -6281,7 +6280,7 @@ yesasia.ru#@#div[class*="td-a-rec-id-"]
 ynet.co.il,ynetnews.com#@#div[data-adunit]
 minecraftforge.net,boards.sportslogos.net#@#div[data-role="sidebarAd"]
 greatist.com,healthline.com,medicalnewstoday.com,topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@#div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
-cnn.gr,usatoday.com#@#div[id^="ad-position-"]
+newsbomb.gr,cnn.gr,usatoday.com#@#div[id^="ad-position-"]
 cnn.com#@#div[id^="ad_rect_"]
 segodnya.ua#@#div[id^="admixer_"]
 zakon.kz#@#div[id^="adv_"]
@@ -6498,7 +6497,7 @@ r6.tracker.network,cnn.com#@#div[data-ad-refresh]
 cnn.com#@#div[data-ad-position]
 heroesfire.com#@#.ad-bot
 heroesfire.com#@#.ads-narrow
-free-ebooks.net#@#.ad-placeholder
+psprices.com,free-ebooks.net#@#.ad-placeholder
 happymag.tv#@#.leader-ad
 happymag.tv#@#.ads-left
 happymag.tv#@#.ads-right
@@ -6627,6 +6626,7 @@ geekycamel.com###ad_pos_gc-desktop-underl
 sbnation.com###div-gpt-ad-desktop_article_body
 mirror.co.uk##.content-column iframe[src="about:blank?unblock=true"]
 thecinemaholic.com##[id^="thecinemaholic_728x90_300x250_320x50_"]
+Fishexplorer.com,techjunkie.com,html5-editor.net,myforecast.co,bmw2002faq.com,soxmachine.com#@#[data-freestar-ad]
 vox.com###div-gpt-ad-athena_features_desktop
 vox.com###div-gpt-ad-athena_features_desktop_2
 bgr.com###gpt-dsk-ros-mid-article-uid0
@@ -6710,6 +6710,9 @@ wikihow.com###method_ad_1
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 @@||9to5toys.com^*/assets/js/vendor/prebid1.$script
+@@||a.pub.network^*/pubfig.min.js$domain=Fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||a.pub.network^$script,domain=Fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||d.pub.network/init^$domain=Fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
 @@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=areavibes.com|movoto.com|neren.com|redfin.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=areavibes.com|movoto.com|redfin.com
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
@@ -6729,7 +6732,7 @@ wikihow.com###method_ad_1
 @@||cdn.vuukle.com/static/prebidtest.js$domain=greatandhra.com
 @@||cloudfront.net/ads-code/$script,domain=mymarketresearchmethods.com
 @@||cloudfront.net/client-embed/$script,domain=allkpop.com
-@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=shliza.com|epiqlife.com|tradingdraft.com|foodfortravel.com|mindfulgazette.com|simpleblitz.com|economicr.com|scientificfeed.com|dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
+@@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=uniqueinterests.com|readyer.com|travelapples.com|shliza.com|epiqlife.com|tradingdraft.com|foodfortravel.com|mindfulgazette.com|simpleblitz.com|economicr.com|scientificfeed.com|dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
 @@||dronedj.com^*/assets/js/vendor/prebid1.$script
 @@||electrek.co^*/assets/js/vendor/prebid1.$script
 @@||global.proper.io/payloads/latest.js$domain=dotesports.com|gamepur.com|progameguides.com|touchtapplay.com
@@ -7569,14 +7572,6 @@ vk.com#@#div[id^="yandex_ad"]
 @@||dmg.digitaltarget.ru^$image,domain=vk.com
 @@||pixel.adsafeprotected.com^$image,domain=vk.com
 @@||top-fwz1.mail.ru^$image,domain=vk.com
-!:partner_token=OK.ru ads
-!:partner_id=cff3f50d7090ba74
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82522
-! OK.ru ads
-@@||limg.imgsmail.ru/informers/abp/px.js?ch=1&script,domain=ok.ru
-||limg.imgsmail.ru/informers/abp/px.js?ch=2&script,domain=ok.ru
-ok.ru#@#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Реклама))
 !:partner_token=ppc.world
 !:partner_id=8e0ac9864547fe79
 !:type=partner
@@ -10923,6 +10918,20 @@ fontanka.ru#@#article + div + div[class] ~ div
 fontanka.ru#@#section div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 fontanka.ru#@#section div:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 @@||yastatic.net/pcode/adfox/loader.js$script,domain=rg.ru
+!:partner_token=kp.ru ads
+!:partner_id=4d92b819d968f683
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81921
+! kp.ru ads
+||kp.ru/img/form/px.gif?ch=2&rn=*$domain=kp.ru
+@@||yastatic.net/safeframe-bundles^$subdocument,domain=kp.ru
+@@||yastatic.net/pcode/adfox/header-bidding.js$script,domain=kp.ru
+@@||yastatic.net/pcode/adfox/loader.js$script,domain=kp.ru
+@@||avatars.mds.yandex.net/get-direct^$image,domain=kp.ru
+@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
+@@||an.yandex.ru/system/context.js$script,domain=kp.ru
+@@||an.yandex.ru/system/adfox.js$script,domain=kp.ru
+kp.ru#@#div[id^="yandex_rtb"]
 !:partner_token=Taboola
 !:partner_id=25a5b2915c0c608d
 !:type=partner
