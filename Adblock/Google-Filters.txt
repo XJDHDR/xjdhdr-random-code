@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jSFQ6nyULoP1FNTG4/00Uw
-! Version: 202107010200
+! Checksum: HZQ91clt3oY4UjrxDeKWhw
+! Version: 202107011400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 01 Jul 2021 02:00 UTC
+! Last modified: 01 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1202,6 +1202,7 @@ _reklama_$domain=~youtube.com
 ##iframe[id^="google_ads_frame"]
 ##iframe[src^="https://pagead2.googlesyndication.com/"]
 ##iframe[src^="https://tpc.googlesyndication.com/"]
+##span[title="Ads by Google"]
 ##a[href^="http://www.cash-duck.com/"]
 ##input[onclick^="window.open('http://www.FriendlyDuck.com/"]
 ##input[onclick^="window.open('http://www.friendlyduck.com/"]
@@ -1276,6 +1277,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||bananastouching.com^
 ||bckfnohmg.com^
 ||berryborrowing.com^
+||bgtgag.com^
 ||bhcf764sf8pg.com^
 ||bikesseafoodchewing.com^
 ||blessingpudding.com^
@@ -2924,7 +2926,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 @@||synlab.it^*/angular-google-analytics.js
 @@||chancro.jp/assets/lib/googleanalytics-$script
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|hatenacorp.jp|kakuyomu.jp|radiko.jp|sankei.com|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|hatenacorp.jp|kakuyomu.jp|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||matsukiyo.co.jp^*/js/analytics/GoogleTagManager.js$~third-party
@@ -3701,6 +3703,7 @@ _youtube_social_
 ||youtube.com/subscribe_widget$third-party
 ||civiccomputing.com^*=cookie$third-party
 ||d.yimg.com/ds/badge2.js
+||google.*/async/promos?$xmlhttprequest
 ||google.com/images/*_promo_
 ||google.com^*/friendconnect.js
 ||l.yimg.com/zz/combo?pv*/promo-banner_$script

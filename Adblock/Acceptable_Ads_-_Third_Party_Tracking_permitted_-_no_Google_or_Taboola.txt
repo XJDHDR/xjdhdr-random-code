@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ei5I6IT5PVgj87DDNl7ARw
-! Version: 202107010200
+! Checksum: FOU8hOBxolb1iH6gljNA6g
+! Version: 202107011400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 01 Jul 2021 02:00 UTC
+! Last modified: 01 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8848,7 +8848,7 @@ avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotak
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.contained-ad-wrapper
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.dfp
 virgilio.it,dilei.it,quifinanza.it,billboard.com,boredpanda.com,hollywoodreporter.com,seattletimes.com#@#.dfp-ad
-stuff.co.nz#@#.display-ad
+cars.com,stuff.co.nz#@#.display-ad
 seattletimes.com#@#.footer-ad
 titantv.com#@#.gAd
 ghacks.net#@#.ghacks-ad
@@ -8862,7 +8862,7 @@ comingsoon.net#@#.leaderboard-ad-container
 motorsport.com#@#.ms-ap
 progameguides.com,progameguides.assistpub.com,dotesports.com,gamepur.com,notalwaysright.com#@#.proper-ad-unit
 agame.com,boredpanda.com#@#.pub_300x250
-billboard.com#@#.rail-ad
+cars.com,billboard.com#@#.rail-ad
 agame.com,gamesgames.com,gry.pl,jetztspielen.de,juegos.com,spelletjes.nl#@#.sgAd
 allthetests.com#@#.squareAd
 adtechdaily.com#@#.td-a-rec
@@ -8958,6 +8958,8 @@ sammobile.com#@#.g-29
 cars.com#@#.pencil-ad
 cars.com#@#.top-ad-container
 cars.com#@#.bottom-ad-container
+cars.com#@#.top-ad
+cars.com#@#.ad-top-728
 ultimate-guitar.com#@#.js-ab-regular
 searchenginejournal.com#@#.ss_slot
 searchenginejournal.com#@#.avert-text
@@ -10860,13 +10862,14 @@ fontanka.ru#@#section div:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=81921
 ! kp.ru ads
 ||kp.ru/img/form/px.gif?ch=2&rn=*$domain=kp.ru
-@@||yastatic.net/safeframe-bundles^$subdocument,domain=kp.ru
+@@||yastatic.net/safeframe-bundles^$subdocument,script,domain=kp.ru
 @@||yastatic.net/pcode/adfox/header-bidding.js$script,domain=kp.ru
 @@||yastatic.net/pcode/adfox/loader.js$script,domain=kp.ru
 @@||avatars.mds.yandex.net/get-direct^$image,domain=kp.ru
 @@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=kp.ru
 @@||an.yandex.ru/system/context.js$script,domain=kp.ru
 @@||an.yandex.ru/system/adfox.js$script,domain=kp.ru
+@@||an.yandex.ru/system/header-bidding.js$script,domain=kp.ru
 kp.ru#@#div[id^="yandex_rtb"]
 !:partner_id=25a5b2915c0c608d
 !:type=partner
