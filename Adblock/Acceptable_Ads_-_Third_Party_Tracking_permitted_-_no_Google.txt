@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qv3Rhq9yHCP44DuLv+TeHw
-! Version: 202107011400
+! Checksum: 1uaS7oBVfsYi38q4qleMDg
+! Version: 202107020200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 01 Jul 2021 14:00 UTC
+! Last modified: 02 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6166,7 +6166,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-immigrer.com,battlefieldtracker.com,rocketleague.tracker.network,aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+scienceabc.com,immigrer.com,battlefieldtracker.com,rocketleague.tracker.network,aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 battlefieldtracker.com,rocketleague.tracker.network,tracker.gg#@#.lb-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
@@ -6628,7 +6628,7 @@ geekycamel.com###ad_pos_gc-desktop-underl
 sbnation.com###div-gpt-ad-desktop_article_body
 mirror.co.uk##.content-column iframe[src="about:blank?unblock=true"]
 thecinemaholic.com##[id^="thecinemaholic_728x90_300x250_320x50_"]
-Fishexplorer.com,techjunkie.com,html5-editor.net,myforecast.co,bmw2002faq.com,soxmachine.com#@#[data-freestar-ad]
+fishexplorer.com,techjunkie.com,html5-editor.net,myforecast.co,bmw2002faq.com,soxmachine.com#@#[data-freestar-ad]
 vox.com###div-gpt-ad-athena_features_desktop
 vox.com###div-gpt-ad-athena_features_desktop_2
 bgr.com###gpt-dsk-ros-mid-article-uid0
@@ -6712,9 +6712,9 @@ wikihow.com###method_ad_1
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 @@||9to5toys.com^*/assets/js/vendor/prebid1.$script
-@@||a.pub.network^*/pubfig.min.js$domain=Fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
-@@||a.pub.network^$script,domain=Fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
-@@||d.pub.network/init^$domain=Fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||a.pub.network^*/pubfig.min.js$domain=fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||a.pub.network^$script,domain=fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||d.pub.network/init^$domain=fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
 @@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=areavibes.com|movoto.com|neren.com|redfin.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=areavibes.com|movoto.com|redfin.com
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
@@ -6958,6 +6958,8 @@ wikihow.com###method_ad_1
 @@||files.fortnitetracker.com/prebid.fortnitetracker-com.js^$script,domain=fortnitetracker.com
 @@||biddr.brealtime.com/77113818-1656.js^$script,domain=theanswerbank.co.uk
 @@||hb.brainlyads.com/pbjs_wrapper.v1.0.js^$script,domain=theanswerbank.co.uk
+@@||live.primis.tech/content/prebid/prebidVid.4.43.0_3.min.js^$script,domain=readyer.com
+@@||monstersandcritics.com/wp-content/plugins/*$script,domain=monstersandcritics.com
 ! Default filters for long domain lists
 !
 !
@@ -7738,7 +7740,8 @@ newsru.com#@#div[class*="prm"]
 universfreebox.com#@#.publicite
 universfreebox.com#@#div[id^="publicite-"]
 ont.by#@#.b-renommee__wrap
-@@||api.unblockia.com/api/sites/0/config.json^$domain=rusvesna.su|soccer.ru|pandia.ru|varta1.com.ua|seo-fast.ru|newsyou.info
+inopressa.ru#@#.alignright div[style^="height"]
+@@||api.unblockia.com/api/sites/0/config.json^$domain=inopressa.ru|rusvesna.su|soccer.ru|pandia.ru|varta1.com.ua|seo-fast.ru|newsyou.info
 @@||unblockia.com^$third-party,xmlhttprequest,domain=ont.by|anews.com|forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
@@ -10595,7 +10598,7 @@ yahoo.com#@#.ad-tl1
 @@||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
 @@||mail.yahoo.com/d/gemini_api/?adCount=1&sectionId%5BrrAdBlockDPA%5D=$xmlhttprequest,domain=mail.yahoo.com
 mail.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
-mail.yahoo.com##a[data-test-id="pencil-ad-messageList"]
+mail.yahoo.com#@#[data-test-id^="pencil-ad"]
 mail.yahoo.com#@#div[data-test-id="ad-viewability-tracker"]
 ! Hidden for compliance
 mail.yahoo.com###sb_rel_tgtLREC4.darla
