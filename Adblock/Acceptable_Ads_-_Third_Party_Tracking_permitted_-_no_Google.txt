@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N6uVQ0XWm00X5chfHOUt8g
-! Version: 202107050200
+! Checksum: 0kI1czBYKPXaLwPIjVkniA
+! Version: 202107051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Jul 2021 02:00 UTC
+! Last modified: 05 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6258,7 +6258,7 @@ gfycat.com#@#.top-slot
 tagged.com#@#.top_ad
 op.gg#@#.vm-placement
 visihow.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.wh_ad_inner
-definition.org,thefamouspeople.com#@#.widget-ad
+yourdailydish.com,standardnews.com,itsthevibe.com,yourbump.com,definition.org,thefamouspeople.com#@#.widget-ad
 15min.lt#@#.widget.ads
 wnd.com#@#.widget_wnd_prom_widget
 indiewire.com#@#:-abp-properties(base64)
@@ -6535,7 +6535,7 @@ guru99.com#@#div.custom > .hidden-phone
 guru99.com#@#[style^="float"]
 guru99.com#@#.moduletable:-abp-has(div[id^="div-gpt-ad"])
 aternos.org#@##adUnit
-definition.org,emojipedia.org,pink.rs#@#.ad-header
+yourdailydish.com,standardnews.com,itsthevibe.com,yourbump.com,definition.org,emojipedia.org,pink.rs#@#.ad-header
 pink.rs#@#.ad-medium
 thesocialpost.it#@##admpubottom
 thesocialpost.it#@##admpumiddle
@@ -6619,6 +6619,7 @@ huffingtonpost.co.uk,huffpost.com#@##ad_leaderboard_flex
 huffingtonpost.co.uk,huffpost.com#@##ad-sidebar-1
 huffingtonpost.co.uk,huffpost.com#@##ad-sidebar-2
 huffpost.com#@##ad-sidebar-3
+huffpost.com#@#.right-rail-placeholder
 huffingtonpost.co.uk#@#.advertisement
 huffingtonpost.co.uk#@#.leaderboard-flex-placeholder-desktop
 ! additional detection
@@ -6954,7 +6955,7 @@ wikihow.com###method_ad_1
 @@||cdn.thisiswaldo.com/static/js/*.js$script,domain=statisticshowto.com|emojipedia.org
 @@||hb.brainlyads.com/prebid.js$script,domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@||powerad.ai^$domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
-@@^wp-content/themes/genesiscoreapp/Assets/js/library/prebid/prebid.js$~third-party,script,domain=definition.org
+@@^wp-content/themes/genesiscoreapp/Assets/js/library/prebid/prebid.js$~third-party,script,domain=yourdailydish.com|standardnews.com|itsthevibe.com|yourbump.com|definition.org
 @@||ads.superawesome.tv/v2/ad.js^$script,domain=typeracer.com
 @@||files.fortnitetracker.com/prebid.fortnitetracker-com.js^$script,domain=fortnitetracker.com
 @@||biddr.brealtime.com/77113818-1656.js^$script,domain=theanswerbank.co.uk
