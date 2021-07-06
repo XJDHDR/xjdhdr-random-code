@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0kI1czBYKPXaLwPIjVkniA
-! Version: 202107051400
+! Checksum: Dq7R8Q8jkLiUJiv8NTOXzA
+! Version: 202107060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Jul 2021 14:00 UTC
+! Last modified: 06 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6622,6 +6622,7 @@ huffpost.com#@##ad-sidebar-3
 huffpost.com#@#.right-rail-placeholder
 huffingtonpost.co.uk#@#.advertisement
 huffingtonpost.co.uk#@#.leaderboard-flex-placeholder-desktop
+techraptor.net#@##nn_lb1
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6885,8 +6886,8 @@ wikihow.com###method_ad_1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6913,8 +6914,8 @@ wikihow.com###method_ad_1
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 ||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
-@@||kumo.network-n.com/dist/*/gpt.js$domain=truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/dist/*/prebid.js$domain=truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/*/gpt.js$domain=techraptor.net|truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/*/prebid.js$domain=techraptor.net|ruetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
