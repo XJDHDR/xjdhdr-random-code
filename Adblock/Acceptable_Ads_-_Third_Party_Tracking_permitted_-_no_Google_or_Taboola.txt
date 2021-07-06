@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zJTJOafTiPnHOLumLFkaGg
-! Version: 202107060200
+! Checksum: vvfn2vO5YFVFr/McxianRA
+! Version: 202107061400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Jul 2021 02:00 UTC
+! Last modified: 06 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2814,7 +2814,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-content-js.c165.js$domain=lefigaro.fr
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-script-js.2829.js$domain=lefigaro.fr
 @@||static.lefigaro.fr/figads/fgds-criteoService-cd0d6d29.js$domain=lefigaro.fr
-@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com|ebay-kleinanzeigen.de|cdiscount.com
+@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com|cdiscount.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
