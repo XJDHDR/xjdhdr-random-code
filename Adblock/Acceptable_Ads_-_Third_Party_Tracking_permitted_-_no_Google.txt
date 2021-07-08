@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nDRfE1JwQanYzXyW0ytVsQ
-! Version: 202107080200
+! Checksum: Q2QNJrZsQVbbmUU4o1nNFw
+! Version: 202107081400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 08 Jul 2021 02:00 UTC
+! Last modified: 08 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -160,6 +160,7 @@ heise.de#@#.a-ad
 heise.de#@#.perf-cls-reduc-leaderboard
 heise.de#@##adunit
 heise.de#@#.ad-1
+heise.de#@#.top-topics__ad
 !:partner_token=izito.com
 !:partner_id=de5285dacf045639
 !:type=partner
@@ -8028,10 +8029,11 @@ sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides)
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82531
 ! myTarget ads
-@@||ad.mail.ru/static/ads-async.js$script,domain=gdz.ru|woman.ru|gdzputina.ru|otvetkin.info|maximonline.ru|reshalka.com
+@@||ad.mail.ru/static/ads-async.js$script,domain=ngs.ru|e1.ru|gdz.ru|woman.ru|gdzputina.ru|otvetkin.info|maximonline.ru|reshalka.com|marieclaire.ru
 @@/media/index-w4.js$script,domain=gdz.ru|gdzputina.ru
-@@||rs.mail.ru/d89902879.gif?ch=1&rn=*$image,domain=gdz.ru|fotostrana.ru|woman.ru|gdzputina.ru|otvetkin.info|maximonline.ru|reshalka.com
-||rs.mail.ru/d89902879.gif?ch=2&rn=*$image,domain=gdz.ru|fotostrana.ru|woman.ru|gdzputina.ru|otvetkin.info|maximonline.ru|reshalka.com
+@@||rs.mail.ru/d899*.gif?ch=1&rn=*$image,domain=ngs.ru|e1.ru|gdz.ru|fotostrana.ru|woman.ru|gdzputina.ru|otvetkin.info|maximonline.ru|reshalka.com|marieclaire.ru
+||rs.mail.ru/d899*.gif?ch=2&rn=*$image,domain=ngs.ru|e1.ru|gdz.ru|fotostrana.ru|woman.ru|gdzputina.ru|otvetkin.info|maximonline.ru|reshalka.com|marieclaire.ru
+@@||r.mradx.net/img^$domain=ngs.ru|e1.ru|woman.ru|maximonline.ru|marieclaire.ru
 !:partner_token=gismeteo.ru
 !:partner_id=501a98900addb890
 !:type=partner

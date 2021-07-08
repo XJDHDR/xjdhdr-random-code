@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Itwhz3zaOXcibzDEkWq6rA
-! Version: 202107080200
+! Checksum: mRkezBd/kXaw6f2T5/aSaw
+! Version: 202107081400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 08 Jul 2021 02:00 UTC
+! Last modified: 08 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1370,6 +1370,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||icjbnnjiung.com^
 ||iiprpq1bsedg.com^
 ||immersedcopythinking.com^
+||impactserving.com^
 ||inactionwaiting.com^
 ||installerleading.com^
 ||intendalinetang.com^
@@ -1389,6 +1390,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||lamforsung.com^
 ||lasyowayrzgv.com^
 ||ldgvxuhg.com^
+||ldiscdnkbg.com^
 ||lidsfoalliving.com^
 ||luuming.com^
 ||madserving.com^
@@ -1655,7 +1657,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||seekbang.com^$third-party
 ||youtube.local^$third-party
 ||cam4tracking.com^$popup
-||dynsrvazg.com^$popup
 ||ero-advertising.com^$popup
 ||ipvertising.com^$popup
 ||1stag.com/main/img/banners/
