@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y4KMMnOnAWBtmGay6dBjOA
-! Version: 202107071400
+! Checksum: iQZYBizLTcVp89Ev4i1Vyw
+! Version: 202107080200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 07 Jul 2021 14:00 UTC
+! Last modified: 08 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6558,6 +6558,7 @@ huffpost.com#@#.right-rail-placeholder
 huffingtonpost.co.uk#@#.advertisement
 huffingtonpost.co.uk#@#.leaderboard-flex-placeholder-desktop
 techraptor.net#@##nn_lb1
+one.co.il#@#.ad-bg
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6733,10 +6734,10 @@ wikihow.com###method_ad_1
 @@||www.heraldweekly.com/wp-json/cmg-setup-manager/load-js/pr-djs-production-cmgid-be49965035da7c28927e77e67409fda1?v=p200602085347-29$domain=heraldweekly.com
 @@||cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?sec=home&misc=1591313025495$domain=curseforge.com
 @@||cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?sec=home&misc=1591301986443$domain=gamepedia.com
-@@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=gamepedia.com
+@@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=gamepedia.com|woot.com
+@@||d1upt0rqzff34l.cloudfront.net^$domain=sneakertoast.com|ballercap.com|fabcrunch.com|simplyurbans.com|carterfive.com|notfries.com|pinkpossible.com
 @@||cdm.cursecdn.com/js/woot/cdmfactorem_min.js?sec=home&amp;misc=1591376658676$domain=woot.com
 @@||cdm.cursecdn.com/js/socialblade/cdmfactorem_min.js?misc=1591301407275$domain=socialblade.com
-@@||d1xfq2052q7thw.cloudfront.net/2.0.1196.js$domain=woot.com
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
 @@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=cad-comic.com|statsforspotify.com|op.gg|mobafire.com|futbin.com
 @@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=wowtbc.gg|stadiumgaming.gg|satisfactory-calculator.com|mtgrocks.com|lol.ps|gamerguides.com|wepc.com|resetera.com|mtggoldfish.com|mobafire.com|nookazon.com
@@ -9072,7 +9073,8 @@ mensagenscomamor.com,horoscopovirtual.com.br,eusemfronteiras.com#@#.vce-ad-conta
 rd1.com.br,fdr.com.br,spinoff.com.br#@#.ad-block
 nitrotype.com#@#.ad--container
 wetteronline.de#@##topcontainer
-ew.com#@#.tablet-ad
+travelandleisure.com,parents.com,ew.com#@#.tablet-ad
+travelandleisure.com,parents.com#@#.mobile-ad
 capital.fr#@#.header-advert
 gala.fr,capital.fr#@#.ads-core-placer
 gala.fr#@#.bannerAds
