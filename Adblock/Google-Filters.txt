@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tLilsnJ2+i1LqecE51CThg
-! Version: 202107090200
+! Checksum: GTDXBuipiU3UHLi1kG4BZw
+! Version: 202107091400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Jul 2021 02:00 UTC
+! Last modified: 09 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2673,6 +2673,7 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||googleapis.com^*/gen_204?$domain=tellows.de
 ||googletagmanager.com/gtm.js?$domain=autobild.de|transfermarkt.de
 ||wt-safetag.com^$domain=stern.de
+||a8clk.life.bang.co.jp^
 ||a8cv.p-antiaging.com^
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
@@ -2681,27 +2682,28 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||stats.jackwhiting.co.uk^
 ||stats.learnappmaking.com^
 ||stats.readng.co^
+||stats3.ferheng.co^
 ||c0012.brsimg.com^
 ||mdws.gffg.com^
 ||metrics.automobilemag.com^
 ||metrics.bloomberg.com^
 ||metrics.flyingmag.com^
+||metrics.goodhousekeeping.co.uk^
 ||metrics.handbag.com^
 ||metrics.youandyourwedding.co.uk^
 ||myhome.usg.com^
 ||om.owenscorning.com^
 ||smetrics.automobilemag.com^
-||smetrics.jennycraig.com^
 ||smetrics.lakeshorelearning.com^
-||smetrics.moneymarketing.co.uk^
 ||smetrics.vueling.com^
 ||somni.amsurg.com^
 ||ssdc.bawag.com^
 ||stat-ssl.tabelog.com^
+||stats.airfarewatchdog.com^
 ||stats.cheapflightsomg.com^
+||stats.cheaphotelsomg.com^
 ||metrics.reallymoving.com^
 ||smetrics.fivestarpainting.com^
-||smetrics.softwareag.com^
 ||aa.analog.com^
 ||adobetp.chegg.com^
 ||adobetps.chegg.com^
@@ -2719,14 +2721,22 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||nmetrics.samsung.com^
 ||omni.avg.com^
 ||omniture.lg.com^
+||sadobemarketing.bodenclothing.com.au^
 ||secure.analytics.ihg.com^
 ||securedata.colruyt.be^
+||sig.ig.com^
+||smetrics.bestegg.com^
+||smetrics.sling.com^
+||smetrics.tataaig.com^
+||smetrics.wmg.com^
 ||somni.bcg.com^
+||somni.sundancecatalog.com^
 ||sstats.airfarewatchdog.com^
 ||stat-ssl.kakakumag.com^
 ||states.newegg.com^
 ||sw88.thelionking.co.uk^
 ||tracking.lg.com^
+||trk.chegg.com^
 ||www-172.aig.com^
 ||act.convergencetraining.com^
 ||adm.adminstrumentengineering.com.au^
@@ -2737,25 +2747,21 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||go.ahmmarketing.com^
 ||go.matthewsmarking.com^
 ||go.peppermarketing.com.au^
-||go.phhlending.com^
 ||goto.newmarklearning.com^
 ||grow.bridgepointconsulting.com^
 ||info.briefing.com^
 ||info.ctg.com^
-||info.edriving.com^
 ||info.jadelearning.com^
-||info.orthoticmarketing.com^
-||info.tpctraining.com^
-||info.truemfg.com^
-||joinus.holidayseniorliving.com^
 ||marketing.acromag.com^
 ||marketing.barenbrug.co.uk^
 ||marketing.barnumfg.com^
+||marketing.beanstalkmarketing.co.uk^
 ||marketing.cologuardclassic.com^
 ||marketing.comda.com^
 ||marketing.comforttecinternational.com^
 ||marketing.comline.ru^
 ||marketing.communityassociationmanagement.com^
+||marketing.complianceassociates.ca^
 ||marketing.compmort.com^
 ||marketing.conecomm.com^
 ||marketing.confidentialcures.com^
@@ -2770,41 +2776,68 @@ $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com
 ||marketing.huntingandfishing.co.nz^
 ||marketing.medprostaffing.com^
 ||marketing.omnifymarketing.com^
+||marketing.realresultsmarketing.com^
 ||marketing.techdata.com.techdatamarketing.com^
+||marketing.tourismpg.com^
 ||marketing.tourismwinnipeg.com^
+||marketing.usailighting.com^
+||marketing.visailing.com^
 ||marketing.visitwilliamsburg.com^
 ||mkt.pushspring.com^
-||scmarketing.colliers.com^
-||seniorliving.theridgeseniorliving.com^
+||remarketing.oncourselearning.com^
+||resources.linengineering.com^
 ||service.frankwatching.com^
+! newssuite-sony-net.storage.googleapis.com disguised trackers
+||tr.emailing.coe.int^
+||tr.mailing.lvmhappening.com^
+||alfeza.vueling.com^
 ||detnmz.livestrong.com^
-||detnmz.sciencing.com^
 ||dwbotr.ssg.com^
 ||fizopp.duluthtrading.com^
-||hoseyy.prettylittlething.com^
+||jufhxk.audienhearing.com^
 ||kegfkm.cloud-managed-networking.com^
 ||kvwrhr.hobbyking.com^
+||lpfirw.kooding.com^
 ||nnvtvx.chegg.com^
 ||psqsjg.coach.com^
+||pxbnou.ig.com.br^
 ||soxnwz.lg.com^
+||teraes.hgreg.com^
 ||ukmnlp.techbang.com^
-||yvdaeg.on-running.com^
+||xhqpgt.skullpig.com^
+||yfhauq.bodybuilding.com^
+||carzbz.pollking.com^
+||etcwmg.instant-gaming.com^
 ||bldr.mkt.samsung.com^
 ||catracking.finning.com^
 ||channelusa.samsung.com^
 ||discover.vivo-shopping.com^
+||elq.eg.co.uk^
 ||forms.b.oncourselearning.com^
+||gbtracking.finning.com^
 ||info.commercial.keurig.com^
+||landing.computershare.com^
+||lincolnfinancialgroup.lfg.com^
 ||log.cognex.com^
+||seao.business.samsung.com^
+||tracking.columbiabank.com^
+||tracking.oceaneering.com^
 ||trk.darkreading.com^
 ||trk.networkcomputing.com^
+||webinars.oncourselearning.com^
 ||webtracking.oncourselearning.com^
+||msr.p-antiaging.com^
 ||dv59b.montecarlomeeting.com^
+||mfd.myfirstdressing.com^
 ||net1.coolsailing.com^
 ||raab3frog.com^
+||alga9frog.com^
+||create-tracking.com^
 ||yirr5frog.com^
 ||ablink.marketing.adobemailing.com^
+||click.gudog.com^
 ||clicks.burgerking.co.uk^
+||sephora-qa.branchstaging.com^
 ||superfunblog.com/stats/stats.php
 /acceptable.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromo.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
