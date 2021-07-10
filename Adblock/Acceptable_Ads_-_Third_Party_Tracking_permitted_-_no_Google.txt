@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bD07nQC43O2/ELJILO95AQ
-! Version: 202107091400
+! Checksum: SA51SgLgHW9Q69WpohRMCA
+! Version: 202107100200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 09 Jul 2021 14:00 UTC
+! Last modified: 10 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6036,7 +6036,7 @@ fextralife.com,papergames.io,capital.com.tr,pokebattler.com,theoi.com#@#.ad-bann
 willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-banner-image
 greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
-matadornetwork.com,irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
+whattopack.com,familyvacationcritic.com,matadornetwork.com,irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
 heroesfire.com,owfire.com,smitefire.com#@#.ad-break
 queerty.com,buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
@@ -6064,6 +6064,7 @@ jobseeq.com#@#.ad-right
 virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 emojipedia.org,fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
+food52.com#@#.ad-slot__label
 mby.com,countrylife.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 r6.tracker.network,upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
 hollywoodreporter.com,bgr.com,deadline.com,footwearnews.com,goldderby.com,indiewire.com,pmcqa.com,rollingstone.com,tvline.com,variety.com#@#.ad-text
@@ -6168,7 +6169,7 @@ futbin.com#@#.g_ad
 jpost.com,vesty.co.il,ynet.co.il,ynetnews.com#@#.general_banner_ad
 indiewire.com#@#.generic-ad-module
 futhead.com#@#.gpt-ad
-scienceabc.com,immigrer.com,battlefieldtracker.com,rocketleague.tracker.network,aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
+oyster.com,scienceabc.com,immigrer.com,battlefieldtracker.com,rocketleague.tracker.network,aternos.org,tracker.gg,broadcasttrivia.com,thetriviabuff.com,racingnews.co,hiphopdx.com,commercialobserver.com,goldderby.com,hollywoodpq.com#@#.header-ad
 battlefieldtracker.com,rocketleague.tracker.network,tracker.gg#@#.lb-ad
 270towin.com#@#.header-ad-wrapper
 runt-of-the-web.com#@#.header-banner
@@ -6625,6 +6626,12 @@ huffingtonpost.co.uk#@#.advertisement
 huffingtonpost.co.uk#@#.leaderboard-flex-placeholder-desktop
 techraptor.net#@##nn_lb1
 one.co.il#@#.ad-bg
+manybooks.net#@#.ad-area
+tvmaze.com#@#.blad
+aljazeera.net#@#.container--ads
+aljazeera.net#@#.article-ad-left
+aljazeera.net#@#.container--ads-leaderboard-atf
+mathgames.com#@##ad-wrapper
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6888,8 +6895,8 @@ wikihow.com###method_ad_1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6965,6 +6972,7 @@ wikihow.com###method_ad_1
 @@||hb.brainlyads.com/pbjs_wrapper.v1.0.js^$script,domain=theanswerbank.co.uk
 @@||live.primis.tech/content/prebid/prebidVid.4.43.0_3.min.js^$script,domain=readyer.com
 @@||monstersandcritics.com/wp-content/plugins/*$script,domain=monstersandcritics.com
+@@||macro.adnami.io/macro/spec/adsm.macro.*.js^$script,domain=theweek.co.uk
 ! Default filters for long domain lists
 !
 !
