@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9HPCmnIH92vonD3EciQqag
-! Version: 202107121400
+! Checksum: JEK/qdWPttWegW3h5r7uhQ
+! Version: 202107130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Jul 2021 14:00 UTC
+! Last modified: 13 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6924,7 +6924,7 @@ wikihow.com###method_ad_1
 ||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
 @@||kumo.network-n.com/dist/*/gpt.js$domain=techraptor.net|truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/dist/*/prebid.js$domain=techraptor.net|ruetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/*/prebid.js$domain=truetrophies.com|techraptor.net|ruetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
