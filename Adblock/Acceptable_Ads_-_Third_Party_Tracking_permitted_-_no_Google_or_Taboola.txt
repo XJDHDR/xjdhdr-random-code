@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zPtFLRH3rMJVfGjEXHax6g
-! Version: 202107130200
+! Checksum: sC0xcEeAQ/Oe727r/MsDDw
+! Version: 202107131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jul 2021 02:00 UTC
+! Last modified: 13 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1636,7 +1636,7 @@ navarra.elespanol.com#@#.big-ads
 cultbox.co.uk,nuevatribuna.es#@#.ad-slot-sidebar-b
 medyabar.com#@#.ad-unit
 ewrestlingnews.com#@#.ad-widget
-pressroomvip.com,warpedspeed.com#@#.ad-wrap
+classlifestyle.com,pressroomvip.com,warpedspeed.com#@#.ad-wrap
 breitbart.com#@#.ad-wrapper
 dkbnews.donga.com#@#.ad01
 webdunia.com#@#.adSpace
@@ -7574,6 +7574,11 @@ awebanalysis.com#@#.ads-right
 angrybirdsnest.com#@#.ad-top-728x90
 angrybirdsnest.com#@#.ad-728x90
 angrybirdsnest.com#@#.ad-300x250
+itsblockchain.com#@#.ads_code
+itsblockchain.com#@#.ads-wrapper
+itsblockchain.com#@#.jeg_ad
+itsblockchain.com#@#.jeg_ad_top
+itsblockchain.com#@#.jnews_header_top_ads
 ! Hidden for compliance
 jscompress.com###bsa-zone_1572364402444-3_123456
 !:partner_token=bestecode.com
