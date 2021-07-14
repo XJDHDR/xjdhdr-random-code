@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sC0xcEeAQ/Oe727r/MsDDw
-! Version: 202107131400
+! Checksum: ZqxiXaHA0BAN8srNgLebkA
+! Version: 202107140200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Jul 2021 14:00 UTC
+! Last modified: 14 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5849,7 +5849,7 @@ chess.com#@##tall-sidebar-ad
 @@||widget.perfectmarket.com/indiatoday-indiatoday/pmk-201901001.13.js$domain=indiatoday.in
 @@||zaf.services.zam.com/stable/js/$script,domain=eq2interface.com|eqinterface.com|esoui.com|fextralife.com|lotrointerface.com|metasrc.com|mmoui.com|nerfplz.com|poe.trade|riftui.com|secretui.com|swtorui.com|wowhead.com|wowinterface.com|ygoprodeck.com
 @@||d25lqe4mlyaln6.cloudfront.net/script.js^$domain=comicbookmovie.com|albumoftheyear.org|gbatemp.net
-@@||micro.rubiconproject.com/prebid/dynamic/*.js^$domain=sporcle.com
+@@||micro.rubiconproject.com/prebid/dynamic/*.js^$domain=justjared.com|sporcle.com
 !:partner_token=Blockthrough Inc.
 !:partner_id=2b3e85777627e764
 !:type=partner
@@ -6830,8 +6830,8 @@ wikihow.com###method_ad_1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
