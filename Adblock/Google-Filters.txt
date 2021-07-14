@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tDcxnN+BpTtl/WmHFRb15Q
-! Version: 202107140200
+! Checksum: pJvDy9CzAFODMF+bgOAd7g
+! Version: 202107141400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 14 Jul 2021 02:00 UTC
+! Last modified: 14 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1281,6 +1281,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||boahwswzuebmmg.com^
 ||boilstaircasehug.com^
 ||borrowedheating.com^
+||boughtinvulnerablenothing.com^
 ||bowmoolog.com^
 ||boxofficecounselling.com^
 ||brinkstretching.com^
@@ -1750,19 +1751,15 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||infobetting.com/bookmaker/
 ||investing.com/jp.php
 ||mail-ads.google.com^
-||mygaming.co.za^*/partners/
 ||onlineshopping.co.za/expop/
 ||pcmag.com/s/js/zad.js
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||softcab.com/google.php?
-||statically.io^*/ig-widget-banner-$domain=kavogaming.com
-||statically.io^*/instant-gaming-homepage-banner.jpg$domain=kavogaming.com
 ||streamabc.xyz/asset/bann.js
 ||survivalblog.com/marketplace/
 ||thisgengaming.com/Scripts/widget2.aspx
 ||tpc.googlesyndication.com^
 ||uploadgig.com/static/
-||www.youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
 ||yimg.com/aaq/wf/wf-darla-$domain=yahoo.com
 ||yimg.com/ao/adv/$script,domain=yahoo.com
 ||yimg.com/dh/ap/default/*/skins_$image,domain=yahoo.com
@@ -1898,6 +1895,7 @@ googlesightseeing.com##.comm-square
 lindaikejisblog.com##.da
 readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com##.double-mpu
 googleping.com##.dtext
+mygaming.co.za##.dw_focus_videos
 ar12gaming.com,geekwire.com##.featured-sponsor
 htmldog.com##.flower
 ar12gaming.com,timestalks.com,wrc.com##.footer-sponsors
