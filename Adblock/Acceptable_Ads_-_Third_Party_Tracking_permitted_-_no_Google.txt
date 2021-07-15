@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gYZBFTCiFD18IsWYFg7y8g
-! Version: 202107141400
+! Checksum: 3b8AFwB8wTmnOinCUd9NOQ
+! Version: 202107150200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 14 Jul 2021 14:00 UTC
+! Last modified: 15 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6025,7 +6025,7 @@ slant.co#@#._SummaryPageHeaderAdView
 slant.co#@#._SummaryPageSidebarStickyAdView
 slant.co#@#._has-ads
 merriam-webster.com#@#.abl
-msn.com,tribalfootball.com,garagejournal.com,cnn.com,greatschools.org,ratemyprofessors.com,topky.sk#@#.ad
+thenation.com,msn.com,tribalfootball.com,garagejournal.com,cnn.com,greatschools.org,ratemyprofessors.com,topky.sk#@#.ad
 tribalfootball.com,cnn.com#@#.ad--desktop
 tribalfootball.com#@#.ad--mobile
 tribalfootball.com#@#.ad__centered
@@ -6365,7 +6365,7 @@ vg247.com#@#.low-leader-container
 vg247.com#@#.advert.mpu
 vg247.com#@#.advert.skyscraper
 vladtv.com#@#.entry-ad
-metalsucks.net,theprp.com,lgbtqnation.com,vladtv.com#@#.ad-300
+thenation.com,metalsucks.net,theprp.com,lgbtqnation.com,vladtv.com#@#.ad-300
 slickdeals.net#@#.abc
 techlicious.com#@#.footad
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#a[href^="https://www.amazon."][href*="tag="]
@@ -6435,7 +6435,7 @@ wordreference.com#@##adrightbottom
 wordreference.com#@##ad1
 wordreference.com#@#.adtitle
 visihow.com#@#.wh_ad
-mycast.io,virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
+thenation.com,mycast.io,virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
 manofmany.com,trueachievements.com#@#.ad-2
 gta5-mods.com#@##ad-side
 forsal.pl,infor.pl#@#.textAds
@@ -6632,6 +6632,8 @@ aljazeera.net#@#.container--ads
 aljazeera.net#@#.article-ad-left
 aljazeera.net#@#.container--ads-leaderboard-atf
 mathgames.com#@##ad-wrapper
+thenation.com#@##ad-leaderboard
+thenation.com#@#.leaderboard.ad
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
