@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c2ebGg44ujrAcBhgSKd73A
-! Version: 202107150200
+! Checksum: qpAsRZRQ7J1S8K+wPtNk+g
+! Version: 202107151400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 15 Jul 2021 02:00 UTC
+! Last modified: 15 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1573,6 +1573,7 @@ fincalculator.ru#@#.adv-border
 @@||apps.playmedia-cdn.net/play-tv/scripts/app-ads-$script,domain=playtv.fr
 gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com,masslive.com,cleveland.com,al.com,pennlive.com,nj.com#@#.ad--sponsor-content
 tempest.services.disqus.com#@##ad-container
+andhrajyothy.com#@##adDiv
 radiosarajevo.ba#@#.adloaded
 radiosarajevo.ba#@#.iAdserver
 delicieux.fr,healthdruggy.com,polskiobserwator.de#@#.g1-advertisement
@@ -8836,9 +8837,9 @@ charliekirk.com,charliekirk.assistpub.com,firstpost.com,keno.pch.com,keno.qa.pch
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600
 charliekirk.com,charliekirk.assistpub.com,hannity.com#@#.ad-728-90
 charliekirk.com,charliekirk.assistpub.com,keno.pch.com,keno.qa.pch.com#@#.ad-728x90
-dev.foxnews.com#@#.ad-h-250
-dev.foxnews.com#@#.ad-w-728
-dev.foxnews.com#@#.ad-w-300
+dev2.foxnews.com,dev.foxnews.com#@#.ad-h-250
+dev2.foxnews.com,dev.foxnews.com#@#.ad-w-728
+dev2.foxnews.com,dev.foxnews.com#@#.ad-w-300
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-billboard
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-bottom
 capebretonpost.com,journalpioneer.com,saltwire.com,thechronicleherald.ca,theguardian.pe.ca,thetelegram.com#@#.ad-center

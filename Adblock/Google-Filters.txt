@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q40pWYs6MM09G9mAg6Ociw
-! Version: 202107150200
+! Checksum: 6E2rPev2qf3wbrI+VAqerA
+! Version: 202107151400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Jul 2021 02:00 UTC
+! Last modified: 15 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -4241,8 +4241,9 @@ google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,
 @@||l.yimg.com/zz/combo?*social
 @@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
+@@||apikeys.civiccomputing.com^$xmlhttprequest,domain=videogameschronicle.com
 @@||autohdforyoutube.com^*/uk-cookie-consent-js$script,~third-party
-@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com|romania-insider.com
+@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com|romania-insider.com|videogameschronicle.com
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
 @@||quantcast.mgr.consensu.org^*/choice.js$domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|laptopmag.com|livescience.com|livingetc.com|mahjong.com|musicradar.com|pcgamer.com|realhomes.com|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|whathifi.com|whattowatch.com
