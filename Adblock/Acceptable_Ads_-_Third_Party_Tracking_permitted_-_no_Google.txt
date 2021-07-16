@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sp8uA8bumh9voZrLDu7brw
-! Version: 202107160200
+! Checksum: ASUx8ovxSWY9rumOklR94A
+! Version: 202107161400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 16 Jul 2021 02:00 UTC
+! Last modified: 16 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1585,6 +1585,8 @@ fincalculator.ru#@#.adv-border
 @@||ced-ns.sascdn.com/diff/js/smart.js$script,domain=manga-sanctuary.com
 @@||cdn.elasticad.net/native/serve/js/quantx/$script,domain=manga-sanctuary.com
 @@||apps.playmedia-cdn.net/play-tv/scripts/app-ads-$script,domain=playtv.fr
+@@||htintpa.tech^$domain=zoldujsag.hu
+@@||palibs.tech^$domain=zoldujsag.hu
 gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com,masslive.com,cleveland.com,al.com,pennlive.com,nj.com#@#.ad--sponsor-content
 tempest.services.disqus.com#@##ad-container
 andhrajyothy.com#@##adDiv
@@ -6817,7 +6819,6 @@ wikihow.com###method_ad_1
 @@||cdm.cursecdn.com/js/socialblade/cdmfactorem_min.js?misc=1591301407275$domain=socialblade.com
 @@||financialadvisorheroes.com/wp-content/js/footer.js$domain=financialadvisorheroes.com
 @@||hb.vntsm.com/v3/live/ad-manager.min.js$domain=cad-comic.com|statsforspotify.com|op.gg|mobafire.com|futbin.com
-@@||hb-ab.vntsm.com/v3/live/ad-manager.min.js$domain=wowtbc.gg|stadiumgaming.gg|satisfactory-calculator.com|mtgrocks.com|lol.ps|gamerguides.com|wepc.com|resetera.com|mtggoldfish.com|mobafire.com|nookazon.com
 @@||hb-ab.vntsm.com/v3/webpack-5/ad-manager.min.js$domain=mobafire.com
 @@||cdn.oboxads.com/v*/sites^$script,domain=jolijolidesign.com
 @@||rafvertizing.crazygames.com/rafvertizing-v2.js$domain=crazygames.com
