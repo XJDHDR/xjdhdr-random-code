@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GRlA5ECOCgndUdkDQhPMwQ
-! Version: 202107151400
+! Checksum: sp8uA8bumh9voZrLDu7brw
+! Version: 202107160200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 15 Jul 2021 14:00 UTC
+! Last modified: 16 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6635,6 +6635,7 @@ aljazeera.net#@#.container--ads-leaderboard-atf
 mathgames.com#@##ad-wrapper
 thenation.com#@##ad-leaderboard
 thenation.com#@#.leaderboard.ad
+mathgames.com#@#.adfree
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6898,8 +6899,8 @@ wikihow.com###method_ad_1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6926,8 +6927,8 @@ wikihow.com###method_ad_1
 ||wikihow.com/extensions/min/f/_ads/ads.js$script,domain=wikihow.com
 ||ad-doge.com/Scripts/assets/js/pace.min.js$script,domain=ad-doge.com
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
-@@||kumo.network-n.com/dist/*/gpt.js$domain=techraptor.net|truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/dist/*/prebid.js$domain=truetrophies.com|techraptor.net|ruetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/*/gpt.js$domain=trueachievements.com|techraptor.net|truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
+@@||kumo.network-n.com/dist/*/prebid.js$domain=trueachievements.com|truetrophies.com|techraptor.net|ruetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
@@ -6969,7 +6970,7 @@ wikihow.com###method_ad_1
 @@||hb.brainlyads.com/prebid.js$script,domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@||powerad.ai^$domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@^wp-content/themes/genesiscoreapp/Assets/js/library/prebid/prebid.js$~third-party,script,domain=yourdailydish.com|standardnews.com|itsthevibe.com|yourbump.com|definition.org
-@@||ads.superawesome.tv/v2/ad.js^$script,domain=typeracer.com
+@@||ads.superawesome.tv/v2/ad.js^$script,domain=mathgames.com|typeracer.com
 @@||files.fortnitetracker.com/prebid.fortnitetracker-com.js^$script,domain=fortnitetracker.com
 @@||biddr.brealtime.com/77113818-1656.js^$script,domain=theanswerbank.co.uk
 @@||hb.brainlyads.com/pbjs_wrapper.v1.0.js^$script,domain=theanswerbank.co.uk
@@ -8989,7 +8990,7 @@ searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 allthetests.com#@#div > iframe:first-child
 adtechdaily.com#@#div[class*="td-a-rec-id-"]
 reddit.com#@#div[data-before-content="advertisement"]
-nxstrib.com,go-vip.net#@#div[id^="acm-ad-tag"]
+nxstrib.com,go-vip.net#@#div[id^="acm-ad-tag-"]
 searchenginejournal.com#@#div[id^="SEJ_300x250_"]
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#div[id^="dfp-ad-"]
 reddit.com#@#div[id^="overlay-sidebar-atf-"]
@@ -9167,6 +9168,8 @@ travelandleisure.com,parents.com,ew.com#@#.tablet-ad
 travelandleisure.com,parents.com#@#.mobile-ad
 capital.fr#@#.header-advert
 gala.fr,capital.fr#@#.ads-core-placer
+gala.fr#@#.ads-container
+gala.fr#@#[data-ads-core]
 gala.fr#@#.bannerAds
 gala.fr#@#.coreAdsPlacer
 wetteronline.de#@##woFooterBillboard

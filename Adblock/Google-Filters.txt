@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6E2rPev2qf3wbrI+VAqerA
-! Version: 202107151400
+! Checksum: BY8zcjWwijDhoFCLZNPAcg
+! Version: 202107160200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 15 Jul 2021 14:00 UTC
+! Last modified: 16 Jul 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1194,6 +1194,7 @@ _reklama_$domain=~youtube.com
 ##a[href^="https://www.friendlyduck.com/AF_"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href^="https://www.what-sexdating.com/"]
+##div[class^="pane-adsense-managed-"]
 ##div[class^="pane-google-admanager-"]
 ##div[id^="google_dfp_"]
 ##iframe[id^="google_ads_frame"]
