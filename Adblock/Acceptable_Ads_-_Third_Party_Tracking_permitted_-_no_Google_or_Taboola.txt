@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WMrKDbdzO6FAP98kETkyBA
-! Version: 202107161400
+! Checksum: J6JMZeb/J5OsRsN5hDaCHg
+! Version: 202107170200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 16 Jul 2021 14:00 UTC
+! Last modified: 17 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2818,7 +2818,7 @@ thevarsity.ca#@#.ad-med-rect
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-content-js.c165.js$domain=lefigaro.fr
 @@||lefigaro.fr/build/modern/js/dynamic/component-ad-fig-ad-script-js.2829.js$domain=lefigaro.fr
 @@||static.lefigaro.fr/figads/fgds-criteoService-cd0d6d29.js$domain=lefigaro.fr
-@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com|cdiscount.com
+@@||static.criteo.net/images/pixel.gif?ch=2$domain=accuweather.com|cdiscount.com|nypost.com
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.o-Leaderboard
 hgtv.com,cookingchanneltv.com,travelchannel.com,foodnetwork.com,food.com,diynetwork.com,greatamericancountry.com,tlc.com,animalplanet.com,velocity.com,investigationdiscovery.com,oprah.com#@#.bigbox-ad
 elperiodicodearagon.com,diariocordoba.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,lne.es,laopiniondezamora.es#@#[id^="div-gpt-ad"]
@@ -6906,7 +6906,7 @@ wikihow.com###method_ad_1
 @@||hb.brainlyads.com/prebid.js$script,domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@||powerad.ai^$domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@^wp-content/themes/genesiscoreapp/Assets/js/library/prebid/prebid.js$~third-party,script,domain=yourdailydish.com|standardnews.com|itsthevibe.com|yourbump.com|definition.org
-@@||ads.superawesome.tv/v2/ad.js^$script,domain=mathgames.com|typeracer.com
+@@||ads.superawesome.tv/*/ads.js^$script,domain=mathgames.com|typeracer.com
 @@||files.fortnitetracker.com/prebid.fortnitetracker-com.js^$script,domain=fortnitetracker.com
 @@||biddr.brealtime.com/77113818-1656.js^$script,domain=theanswerbank.co.uk
 @@||hb.brainlyads.com/pbjs_wrapper.v1.0.js^$script,domain=theanswerbank.co.uk
@@ -10883,6 +10883,7 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||cdn.unblockia.com/h.js$domain=elperiodico.com
 @@smartadserver.com^*unblockia=true$subdocument,domain=elperiodico.com
 @@rubiconproject.com^*unblockia=true$subdocument,domain=elperiodico.com
+@@||inv-nets.admixer.net/prebid.*unblockia-banner^$script,domain=elperiodico.com
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 elperiodico.com#@#.adv-header
