@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kE36FCkcH8e5aMNJqaA7OA
-! Version: 202107171400
+! Checksum: UTxPZFVqFXF0Oglu4fP9+g
+! Version: 202107180200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 17 Jul 2021 14:00 UTC
+! Last modified: 18 Jul 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -2292,8 +2292,6 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 /track_google.
 /tracker/tracker-$domain=~bugs.chromium.org
 /tracking.comp.
-/writelog.$domain=~writelog.com
-/youtube-track-event_
 =googleanalytics_
 ?googleTrack=
 _google_analytics.
