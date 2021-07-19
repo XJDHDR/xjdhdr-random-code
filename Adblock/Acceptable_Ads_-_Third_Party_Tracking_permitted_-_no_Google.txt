@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: psVvYcc8MW0YFKwuExWUvw
-! Version: 202107190200
+! Checksum: HTSMgaT6h41VXJraaDdTKg
+! Version: 202107191400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 19 Jul 2021 02:00 UTC
+! Last modified: 19 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -9090,10 +9090,6 @@ opex360.com,opex360.assistpub.com#@##header-ads
 basketusa.com,basketusa.assistpub.com#@#.ad-desktop
 basketusa.com,basketusa.assistpub.com#@#.ad-medium
 cars.com#@#.cubeAd
-coolmath.com,travelandleisure.com,parents.com#@#.ad-wrapper
-travelandleisure.com,parents.com#@#.desktop-ad
-ew.com,ghacks.net,travelandleisure.com#@#.ad-title
-travelandleisure.com,parents.com#@#.ad-sticky-container
 windowsreport.com#@#div[data-insertion]
 downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr,downdetector.ru,allestoringen.nl,allestoerungen.at,allestoringen.be,allestoerungen.ch,allestoerungen.de,xn--allestrungen-9ib.de#@#.leaderboard.ad
 jsoneditoronline.org#@#.ad-panel
@@ -9165,8 +9161,6 @@ mensagenscomamor.com,horoscopovirtual.com.br,eusemfronteiras.com#@#.vce-ad-conta
 rd1.com.br,fdr.com.br,spinoff.com.br#@#.ad-block
 nitrotype.com#@#.ad--container
 wetteronline.de#@##topcontainer
-travelandleisure.com,parents.com,ew.com#@#.tablet-ad
-travelandleisure.com,parents.com#@#.mobile-ad
 capital.fr#@#.header-advert
 gala.fr,capital.fr#@#.ads-core-placer
 gala.fr#@#.ads-container
@@ -9174,6 +9168,10 @@ gala.fr#@#[data-ads-core]
 gala.fr#@#.bannerAds
 gala.fr#@#.coreAdsPlacer
 wetteronline.de#@##woFooterBillboard
+people.com#@#.ADBox
+people.com#@#.AD_area
+people.com#@#.AdsRec
+people.com#@#.Ads_4
 ! vesty.co.il#@#.top-ad
 ! Hidden for compliance
 searchenginejournal.com###nng
@@ -10950,7 +10948,7 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||cdn.unblockia.com/h.js$domain=elperiodico.com
 @@smartadserver.com^*unblockia=true$subdocument,domain=elperiodico.com
 @@rubiconproject.com^*unblockia=true$subdocument,domain=elperiodico.com
-@@||inv-nets.admixer.net/prebid.*unblockia-banner^$script,domain=elperiodico.com
+@@||inv-nets.admixer.net/prebid.*unblockia-banner-$xmlhttprequest,domain=elperiodico.com
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 elperiodico.com#@#.adv-header
