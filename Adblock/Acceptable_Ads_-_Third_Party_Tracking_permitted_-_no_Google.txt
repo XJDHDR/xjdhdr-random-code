@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5ynwmWjKzQLkMVLNc+IM5w
-! Version: 202107200200
+! Checksum: eF9yxUwGiolzczj5qGEGdA
+! Version: 202107201400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 20 Jul 2021 02:00 UTC
+! Last modified: 20 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -2105,6 +2105,10 @@ generadormemes.com#@##center-ad
 ! netzwelt.de ads
 @@||veeseo.com/netzwelt/$image,domain=netzwelt.de
 netzwelt.de#@#.ligatus
+netzwelt.de#@#.ad
+netzwelt.de##.ad:not([id^="native_"]):not(.mb-20)
+netzwelt.de#@##recommendation
+netzwelt.de#@##native-ads
 !:partner_token=bestru.ru
 !:partner_id=53ce2b02862b45cd
 !:type=partner
@@ -9121,6 +9125,9 @@ insidermonkey.com#@##sidebar-ad-1
 libero.it#@##admpubottom
 virgilio.it,libero.it#@##admpumiddle
 siviaggia.it,virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
+libero.it#@##adbox1
+libero.it#@##adbox2
+libero.it#@##adtophp
 virgilio.it#@##adslider
 virgilio.it#@##admputop
 virgilio.it#@#.admputop

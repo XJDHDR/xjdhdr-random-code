@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8F2eI2tWxiezOIeJj/d8/Q
-! Version: 202107200200
+! Checksum: YOUTJOiDrpypqGf1UdunZg
+! Version: 202107201400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 20 Jul 2021 02:00 UTC
+! Last modified: 20 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1336,7 +1336,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||fairyceiling.com^
 ||faqrdrkwdhqgug.com^
 ||fdnfnqgmfykg.com^
-||fdxdjkswppg.com^
 ||feintstrainhog.com^
 ||fertilizeranaemiaupcoming.com^
 ||fifteenthfeeding.com^
@@ -1761,16 +1760,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||thisgengaming.com/Scripts/widget2.aspx
 ||tpc.googlesyndication.com^
 ||uploadgig.com/static/
-||yimg.com/aaq/wf/wf-darla-$domain=yahoo.com
-||yimg.com/ao/adv/$script,domain=yahoo.com
-||yimg.com/dh/ap/default/*/skins_$image,domain=yahoo.com
-||yimg.com/hl/ap/*_takeover_$domain=yahoo.com
-||yimg.com/hl/ap/default/*_background$image,domain=yahoo.com
-||yimg.com/i/i/de/cat/yahoo.html$domain=yahoo.com
-||yimg.com/la/i/wan/widgets/wjobs/$subdocument,domain=yahoo.com
-||yimg.com/nn/lib/metro/g/sda/$domain=yahoo.com
-||yimg.com/rq/darla/$domain=tumblr.com|yahoo.com
-||yimg.com/uu/api/*/ads/$domain=yahoo.com
+||yimg.com/rq/darla/$domain=yahoo.com
 ||youtube-video.download/y-vd.php
 ||youtube.com/ad_companion
 ||youtube.com/pagead/
@@ -1952,7 +1942,7 @@ google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div
 interglot.com,stopmalvertising.com##div[style^="width:728px;"]
 pointblanknews.com,sharktankblog.com##img[height="60"]
 nsfwyoutube.com##img[src*="data"]
-afrivibes.net,airplaydirect.com,bigeye.ug,breakingbelizenews.com,cryptomining-blog.com,dotsauce.com,espnrichmond.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,onislandtimes.com,portugaldailyview.com,punchng.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,theolivepress.es,therep.co.za,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"]
+afrivibes.net,airplaydirect.com,bigeye.ug,breakingbelizenews.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,onislandtimes.com,portugaldailyview.com,punchng.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,theolivepress.es,therep.co.za,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.pw,forum.gsmhosting.com,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube
@@ -2520,12 +2510,6 @@ _googleAnalytics_
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
 ||s3wfg.com/js/vortexloader.js
-||affiliates.londonmarketing.com^
-||analytics.bloomberg.com^
-||analytics.teespring.com^
-||arcpublishing.com^*/datapoint/save
-||autoblog.com/traffic/
-||avg.com^*/stats.js
 ||beeg.com/logo.gif?
 ||bhg.com^*/tracking-data?
 ||bing.com/fd/ls/GLinkPing.aspx?
@@ -2555,7 +2539,7 @@ _googleAnalytics_
 ||forbesimg.com/assets/js/forbes/fast_pixel.js
 ||fotothing.com/space.gif?
 ||g.pcmag.com^
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|lowes.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=10play.com.au|allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|lowes.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
 ||google.*/api/sclk?
 ||google.*/gwt/x/ts?
@@ -2628,7 +2612,7 @@ _googleAnalytics_
 ||xing.com/collect/
 ||xing.com/logjam/
 ||xoxo5-eng.spankbang.com^
-||ybinst2.ec.yimg.com/ec/*&Type=Event.CPT&$domain=search.yahoo.com
+||yimg.com/aaq/wf/wf-darla-
 ||yimg.com/nq/ued/assets/flash/wsclient_
 ||yimg.com^*/yabcs.js
 ||yimg.com^*/ywa.js
@@ -2656,7 +2640,7 @@ _googleAnalytics_
 ||newegg.com/pfssl.js
 ||bloomberg.com/8FCGYgk4/init.js
 ||couchsurfing.com/bEcn7fQX/init.js
-||ttauri.laptopmag.com^
+||sourcepointcmp.bloomberg.com^
 ||greenmangaming.com/omnopfddrdlevbbh.js
 $websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.net|bigspeeds.com|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bypassed.ws|byter.tv|catrumahminimalis.me|centrum-dramy.pl|cinemafacil.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|dragonballzpolo.blogspot.com|drama-cool.me|estream.to|estream.xyz|extratorrent.cd|fbmovies.org|fileone.tv|filmstreamvk.site|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|gomovie123.me|gomovies123.me|hdvid.tv|hdyayinmac1.com|hentai-online.pl|hqq.tv|hqq.watch|ianimes.co|idope.tv|ifrp.xyz|jkanime.net|kinohabr.net|kinokongo.cc|kinokrad.co|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|leon08.tk|leon12.tk|leon16.tk|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|myeffect.net|netiap.com|netu.tv|nowvideo.sx|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|pebx.pl|potomy.ru|povw1deo.com|powvideo.cc|powvideo.net|protect-iframe.com|proxyportal.eu|reactor.cc|replaytvstreaming.com|seventorrents.cc|sherlockonline.ru|shortbitsfree.net|shrink-service.it|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streambeam.io|streamplay.me|streamplay.to|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.org|tomadivx.tv|unblockall.org|unblocked.gdn|vidoza.net|vidtodo.com|vidtodo.me|vidtodo.pro|vidup.io|vidup.tv|vidzi.tv|void.cat|wallpoper.com|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|zenexplayer.com|zona.plus
 ||exactag.com^$domain=quoka.de
