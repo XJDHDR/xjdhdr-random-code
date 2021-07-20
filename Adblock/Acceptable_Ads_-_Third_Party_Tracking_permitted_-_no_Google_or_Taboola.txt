@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GLE+MDFfhmdB6jqLPP6fKg
-! Version: 202107191400
+! Checksum: YzqFZOW1Ny2O1pAqyksPnQ
+! Version: 202107200200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 19 Jul 2021 14:00 UTC
+! Last modified: 20 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6328,7 +6328,7 @@ sudoku.com.au#@##leftAds
 sudoku.com.au#@#.Ad-Container
 cram.com#@#.advertBox
 romajidesu.com#@##sidebar_ads
-urldecoder.org#@#.ad_right
+base64encode.org,urldecoder.org#@#.ad_right
 zkillboard.com#@#.adrow
 technical.city#@#div[class^="banner_"]
 lightnovelworld.com#@#.ad-container-left
