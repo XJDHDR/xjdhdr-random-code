@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fj9BDorxL3INQa/VUkqI7Q
-! Version: 202107201400
+! Checksum: OvaaFwYxfgWTOImGDe2sjw
+! Version: 202107210200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 20 Jul 2021 14:00 UTC
+! Last modified: 21 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6398,7 +6398,7 @@ planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-centre-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-bloc-droite-1
 planet.fr,medisite.fr,e-sante.fr#@##block-gc-ad-dhtml-mobile
-stadiumgaming.gg,gamespew.com,gamezo.co.uk,gematsu.com#@##ad-container-1
+epicstream.com,stadiumgaming.gg,gamespew.com,gamezo.co.uk,gematsu.com#@##ad-container-1
 stadiumgaming.gg,gematsu.com#@##ad-container-2
 tollypics.com#@#.rightad
 footballdb.com#@##header_ad
@@ -6917,6 +6917,7 @@ wikihow.com###method_ad_1
 @@||live.primis.tech/content/prebid/prebidVid.4.43.0_3.min.js^$script,domain=readyer.com
 @@||monstersandcritics.com/wp-content/plugins/*$script,domain=monstersandcritics.com
 @@||macro.adnami.io/macro/spec/adsm.macro.*.js^$script,domain=theweek.co.uk
+@@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js^$script,domain=autooverload.com
 ! Default filters for long domain lists
 !
 !
