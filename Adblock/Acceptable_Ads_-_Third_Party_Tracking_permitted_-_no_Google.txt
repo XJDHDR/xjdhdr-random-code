@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4MqhiMdChT83rBJp9L645w
-! Version: 202107210200
+! Checksum: qtEIO+/o/WDaJHxwM/HFAw
+! Version: 202107211400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 21 Jul 2021 02:00 UTC
+! Last modified: 21 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6071,6 +6071,7 @@ jobseeq.com#@#.ad-right
 virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 emojipedia.org,fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
+whattopack.com#@#.ad_slot
 food52.com#@#.ad-slot__label
 mby.com,countrylife.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 r6.tracker.network,upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
@@ -6397,7 +6398,6 @@ sudoku.com.au#@##leftAds
 sudoku.com.au#@#.Ad-Container
 cram.com#@#.advertBox
 romajidesu.com#@##sidebar_ads
-base64encode.org,urldecoder.org#@#.ad_right
 zkillboard.com#@#.adrow
 technical.city#@#div[class^="banner_"]
 lightnovelworld.com#@#.ad-container-left
@@ -6972,17 +6972,19 @@ wikihow.com###method_ad_1
 @@||ads.servebom.com/config^$xmlhttprequest,domain=cinemablend.com
 @@||hb-quizlet.s3.us-east-2.amazonaws.com/slader/asc_prebid.js$domain=slader.com
 @@||cdn.thisiswaldo.com/static/js/*.js$script,domain=statisticshowto.com|emojipedia.org
-@@||hb.brainlyads.com/prebid.js$script,domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
-@@||powerad.ai^$domain=nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
+@@||hb.brainlyads.com/prebid.js$script,domain=lakersnation.com|nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
+@@||powerad.ai^$domain=lakersnation.com|nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@^wp-content/themes/genesiscoreapp/Assets/js/library/prebid/prebid.js$~third-party,script,domain=yourdailydish.com|standardnews.com|itsthevibe.com|yourbump.com|definition.org
 @@||ads.superawesome.tv/*/ads.js^$script,domain=mathgames.com|typeracer.com
 @@||files.fortnitetracker.com/prebid.fortnitetracker-com.js^$script,domain=fortnitetracker.com
 @@||biddr.brealtime.com/77113818-1656.js^$script,domain=theanswerbank.co.uk
-@@||hb.brainlyads.com/pbjs_wrapper.v1.0.js^$script,domain=theanswerbank.co.uk
+@@||hb.brainlyads.com/pbjs_wrapper.v1.0.js^$script,domain=theanswerbank.co.uk|lakersnation.com
 @@||live.primis.tech/content/prebid/prebidVid.4.43.0_3.min.js^$script,domain=readyer.com
 @@||monstersandcritics.com/wp-content/plugins/*$script,domain=monstersandcritics.com
 @@||macro.adnami.io/macro/spec/adsm.macro.*.js^$script,domain=theweek.co.uk
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js^$script,domain=autooverload.com
+@@||p.ad.gt/api^$script,domain=lakersnation.com
+@@||a.ad.gt/api^$script,domain=lakersnation.com
 ! Default filters for long domain lists
 !
 !
@@ -8331,6 +8333,15 @@ devextent.com#@#.ad-sidebar
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82579
 ! playxylo.com ads
 playxylo.com#@#.x-ad
+!:partner_token=boxthislap.org ads
+!:partner_id=f67b5267a5f4cf91
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82692
+! boxthislap.org ads
+@@||boxthislap.org/app/uploads/logos/fanatec/
+boxthislap.org#@#img[width="728px"][height="90px"]
+boxthislap.org#@#img[width="300px"]
+boxthislap.org#@#.td-footer-wrapper
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771

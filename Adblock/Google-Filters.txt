@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9oWHiiUUtkVQ7+mEOw9P/Q
-! Version: 202107210200
+! Checksum: XnAM3e83+Ks9yD3Z4ZBrBQ
+! Version: 202107211400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 21 Jul 2021 02:00 UTC
+! Last modified: 21 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1822,6 +1822,7 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 miloserdov.org,mostlyblogging.com###custom_html-14
 mostlyblogging.com###custom_html-15
 mostlyblogging.com###custom_html-3
+investing.com###findABroker
 investing.com###generalOverlay
 gearlive.com,mediamass.net,noscript.net###google
 photojpl.com###google01
@@ -1850,6 +1851,7 @@ sacricketmag.com###slidein
 whatshappening.com.ph###sliderCarousel
 google.com###tadsc
 rssing.com###toi
+investing.com###topBroker
 google.com###topstuff > #wmxmsg
 nzdating.com###webadsskydest
 sharkyforums.com,smallbusinesscomputing.com###whitePaperIFrame
@@ -2510,19 +2512,10 @@ _googleAnalytics_
 ||statig.com.br/pub/setCookie.js?
 ||uptolike.com/widgets/*/imp?
 ||s3wfg.com/js/vortexloader.js
-||beeg.com/logo.gif?
-||bhg.com^*/tracking-data?
 ||bing.com/fd/ls/GLinkPing.aspx?
-||bloomberg.com/apps/data?referrer
-||booking.com/error_catcher?
-||booking.com/load_times?
 ||booking.com/logo?
-||booking.com/navigation_times?
-||booking.com/track_join_app_landing?
-||booking.com^*/ping
 ||browser.mi-img.com^
-||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.com
-||cheapsalesconsulting.com/adaptive.php?
+||bwbx.io/s3/javelin/public/javelin/js/abba/$script,domain=bloomberg.com
 ||click.udimg.com^
 ||cloudfront.net/photo/*_tp_*.jpg$domain=9gag.com
 ||codeweblog.com/js/count.js
