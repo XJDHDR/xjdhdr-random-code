@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cW66caTlBKTiZi0pYIs52w
-! Version: 202107211400
+! Checksum: SK8ato4icmaJgBYw/2dMVQ
+! Version: 202107220200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 21 Jul 2021 14:00 UTC
+! Last modified: 22 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1213,7 +1213,7 @@ allocine.fr#@#.jtp
 cnn.com##.module-body > .summary-list a[href^="http://www.nextadvisor.com/"]
 cnn.com##.module-body > .summary-list a[href^="https://www.nextadvisor.com/"]
 eatthis.com#@#.nav-ad
-neomotor.sport.es#@#.ob-p
+sport.es#@#.ob-p
 unitedwithisrael.org,salon.com##.ob-smartfeed-wrapper .ob-p
 cnn.com,epicurious.com#@#.ob-widget-section > .ob-widget-header
 portail.free.fr##.ob-widget.AR_33
