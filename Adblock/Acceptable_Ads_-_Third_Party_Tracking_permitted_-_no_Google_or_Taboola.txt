@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SK8ato4icmaJgBYw/2dMVQ
-! Version: 202107220200
+! Checksum: qSJ0AJmJKpRrfj0b4pR/7g
+! Version: 202107221400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 22 Jul 2021 02:00 UTC
+! Last modified: 22 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6045,6 +6045,7 @@ obrazovaka.ru#@#.ads-block
 gosunoob.com#@#.ads-container
 obrazovaka.ru#@#.ads-footer
 obrazovaka.ru#@#.ads-sidebar
+woxikon.de#@#.ads-sidebar-300-600
 slader.com#@#.ads-to-hide
 wyborcza.pl#@#.ads-top
 publicholidays.com.au#@#.ads__sidebar
