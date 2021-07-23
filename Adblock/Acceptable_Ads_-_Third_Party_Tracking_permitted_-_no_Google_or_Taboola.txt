@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: foql62pFKfXuaxlNte9NDw
-! Version: 202107230200
+! Checksum: jcw3NyTpxHACLYneHs5SxA
+! Version: 202107231400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 23 Jul 2021 02:00 UTC
+! Last modified: 23 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -7592,6 +7592,7 @@ itsblockchain.com#@#.ads-wrapper
 itsblockchain.com#@#.jeg_ad
 itsblockchain.com#@#.jeg_ad_top
 itsblockchain.com#@#.jnews_header_top_ads
+myinstants.com#@##top-ad
 ! Hidden for compliance
 jscompress.com###bsa-zone_1572364402444-3_123456
 !:partner_token=bestecode.com
@@ -8850,7 +8851,7 @@ legacy.com#@#.PremiumObitAdBar
 legacy.com#@#.aa_Table
 searchenginejournal.com#@#.absolute-banner
 nxstrib.com,go-vip.net#@#.acm_ad_zones
-streetinsider.com,foxnews.com,gtplanet.net,xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr,avclub.com,billboard.com,clickhole.com,deadspin.com,gizmodo.com,hollywoodreporter.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,seattletimes.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad
+instyle.com,foodandwine.com,streetinsider.com,foxnews.com,gtplanet.net,xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr,avclub.com,billboard.com,clickhole.com,deadspin.com,gizmodo.com,hollywoodreporter.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,seattletimes.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad
 xn--allestrungen-9ib.de,allestoerungen.de,allestoerungen.ch,allestoerungen.at,allestoringen.be,allestoringen.nl,downdetector.ae,downdetector.ca,downdetector.cl,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.au,downdetector.com.br,downdetector.com.co,downdetector.cz,downdetector.dk,downdetector.ec,downdetector.es,downdetector.fi,downdetector.fr,downdetector.gr,downdetector.hk,downdetector.hr,downdetector.hu,downdetector.id,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.my,downdetector.no,downdetector.pe,downdetector.ph,downdetector.pk,downdetector.pl,downdetector.pt,downdetector.ro,downdetector.ru,downdetector.se,downdetector.sg,downdetector.sk,downdetector.web.tr#@##ad-leaderboard
 charliekirk.com,charliekirk.assistpub.com,firstpost.com,keno.pch.com,keno.qa.pch.com#@#.ad-300x250
 keno.pch.com,keno.qa.pch.com#@#.ad-300x600

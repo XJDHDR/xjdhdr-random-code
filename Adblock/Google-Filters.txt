@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3MEcCgqT2aHQyerFMn8+Zw
-! Version: 202107230200
+! Checksum: iWt/lLXeeaNFnXjGNqWlsw
+! Version: 202107231400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 23 Jul 2021 02:00 UTC
+! Last modified: 23 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1929,7 +1929,7 @@ belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,cam
 mcpmag.com##.xContent
 swarajyamag.com##[class*="page-top-adv-wrapper"]
 swarajyamag.com##[class^="banner-ad-"]
-9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,litecoin-faucet.com,mbauniverse.com,mediaite.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
+9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,digitallydownloaded.net,downturk.net,elitepvpers.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,litecoin-faucet.com,mbauniverse.com,mediaite.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
 analyticsindiamag.com##[href^="https://business.louisville.edu/"]
 analyticsindiamag.com##[href^="https://praxis.ac.in/"]
 analyticsindiamag.com##[href^="https://programs.upgrad.com/"]
@@ -2429,7 +2429,7 @@ _googleAnalytics_
 ||uzrating.com^$third-party
 ||seedtag.com^$third-party
 ||weblog.com.ua^$third-party
-||360buyimg.com^*/unit/log/*/log.js
+||360buyimg.com/jdf/1.0.0/unit/log/
 ||adlog.com.com^
 ||analytics.chegg.com^
 ||analytics.onlyonlinemarketing.com^
@@ -2522,32 +2522,13 @@ _googleAnalytics_
 ||digg.com/library/tracker.js
 ||firebaselogging.googleapis.com^
 ||g.pcmag.com^
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=10play.com.au|allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|lowes.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,domain=10play.com.au|allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|lowes.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||gmonitor.aliimg.com^
-||google.*/api/sclk?
-||google.*/gwt/x/ts?
-||google.*/log204?
-||google.*/logxhraction?
-||google.*/ping?
-||google.*/stats?frame=
-||google.com/_/DotsSplashUi/browserinfo
-||google.com/appserve/mkt/img/*.gif
 ||google.com/dssw.js
-||google.com/insights/$script
+||google.com/imgevent?
 ||google.com/log?
-||google.com/reader/logging?
-||google.com/stream_204?
-||google.com/support/webmasters/api/metrics?$script
-||google.com/uploadstats|$xmlhttprequest
-||google.com^*/dlpageping?
-||google.com^*/log?
-||google.com^*/urchin_post.js
-||google.com^*/viewerimpressions?
-||googlelabs.com/log/
 ||gurgle.pcmag.com^
-||hdzog.com/js/1308.js
 ||hulu.com/google_conversion_video_view_tracking.html
-||id.google.*/verify/*.gif
 ||internetslang.com/jass/$script
 ||killerstartups.com^*/adsensev
 ||king.com/api/events?
