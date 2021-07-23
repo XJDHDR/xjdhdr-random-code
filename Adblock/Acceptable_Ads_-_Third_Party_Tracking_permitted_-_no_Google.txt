@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: adkAjEHeZ1GydSq7/wM5Jw
-! Version: 202107221400
+! Checksum: 8ulKBQS1Hf29VejlqzMZhg
+! Version: 202107230200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 22 Jul 2021 14:00 UTC
+! Last modified: 23 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1587,6 +1587,7 @@ fincalculator.ru#@#.adv-border
 @@||apps.playmedia-cdn.net/play-tv/scripts/app-ads-$script,domain=playtv.fr
 @@||htintpa.tech^$domain=zoldujsag.hu
 @@||palibs.tech^$domain=zoldujsag.hu
+@@||cnbcfm.com/dist/components-PcmModule-Taboola-*.js^$script,domain=cnbc.com
 gulflive.com,newyorkupstate.com,syracuse.com,silive.com,oregonlive.com,mlive.com,masslive.com,cleveland.com,al.com,pennlive.com,nj.com#@#.ad--sponsor-content
 tempest.services.disqus.com#@##ad-container
 andhrajyothy.com#@##adDiv
