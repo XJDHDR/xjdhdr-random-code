@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CXcv3lut42Vw84xszif4jA
-! Version: 202107231400
+! Checksum: kmAzWdueTa6SVG5EO5LuTQ
+! Version: 202107240200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 23 Jul 2021 14:00 UTC
+! Last modified: 24 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5056,6 +5056,7 @@ drweil.com##.sams-ad
 winfuture.de#@##frnAdSky
 winfuture.de#@##frnAdSkyPos
 winfuture.de#@##wfv4_sky2
+ndtv.in#@##adslot300x250ATF
 ||cdn.sovrnservices.com/*/samsbid.js$domain=drweil.com
 ! For measuring only
 ||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
@@ -6975,6 +6976,7 @@ wikihow.com###method_ad_1
 @@||hb-quizlet.s3.us-east-2.amazonaws.com/slader/asc_prebid.js$domain=slader.com
 @@||cdn.thisiswaldo.com/static/js/*.js$script,domain=statisticshowto.com|emojipedia.org
 @@||hb.brainlyads.com/prebid.js$script,domain=lakersnation.com|nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
+@@||hb.brainlyads.com/json-parts/*$xmlhttprequest,domain=lakersnation.com
 @@||powerad.ai^$domain=lakersnation.com|nicekicks.com|tunebat.com|nbadraft.net|whatfontis.com|thestatuslife.com|inspiringquotes.us|grammarbook.com|nflanalysis.net|nbaanalysis.net|50states.com|theanswerbank.co.uk|goldgoblin.net
 @@^wp-content/themes/genesiscoreapp/Assets/js/library/prebid/prebid.js$~third-party,script,domain=yourdailydish.com|standardnews.com|itsthevibe.com|yourbump.com|definition.org
 @@||ads.superawesome.tv/*/ads.js^$script,domain=mathgames.com|typeracer.com
@@ -6987,6 +6989,7 @@ wikihow.com###method_ad_1
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js^$script,domain=autooverload.com
 @@||p.ad.gt/api^$script,domain=lakersnation.com
 @@||a.ad.gt/api^$script,domain=lakersnation.com
+@@||hb.brainlyads.com^$script,xmlhttprequest,domain=lakersnation.com
 ! Default filters for long domain lists
 !
 !
