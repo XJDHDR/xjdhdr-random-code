@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 99CzlUP5rHDaYnEtimxCxw
-! Version: 202107250200
+! Checksum: AlOGY+PM6oyF0VSOwmxoNA
+! Version: 202107251400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 25 Jul 2021 02:00 UTC
+! Last modified: 25 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1943,7 +1943,7 @@ google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,
 kavogaming.com##div[id^="kavog-"]
 9gag.com##div[style*="width: 500px; height: 281px;"]
 googletutor.com##div[style="width:125px;text-align:center;"]
-google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^=jsx-]
+google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^="jsx-"]
 interglot.com,stopmalvertising.com##div[style^="width:728px;"]
 elitepvpers.com,pointblanknews.com,sharktankblog.com##img[height="60"]
 nsfwyoutube.com##img[src*="data"]
