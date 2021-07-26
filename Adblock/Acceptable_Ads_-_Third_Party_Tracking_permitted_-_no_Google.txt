@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YskGzC13lfMkRaKEmZvP4w
-! Version: 202107260200
+! Checksum: KmCLf8oNEqY7Xb7avJNh9A
+! Version: 202107261400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 26 Jul 2021 02:00 UTC
+! Last modified: 26 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -10632,6 +10632,9 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 !A120
 @@||zazzle.com^$elemhide
 !A121
+!A122
+@@||legalboulevard.com^$elemhide
+@@||savings.shop^$elemhide
 !:partner_token=Verizon Media
 !:partner_id=627d41fb6de11f94
 !:type=partner

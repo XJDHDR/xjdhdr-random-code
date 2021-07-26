@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SjKIpglj0fLC+ZQgh88KGw
-! Version: 202107260200
+! Checksum: 6zQDnK6EgzDBGJG6KAAjCQ
+! Version: 202107261400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 26 Jul 2021 02:00 UTC
+! Last modified: 26 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1457,6 +1457,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||rdrceting.com^
 ||receptionstudying.com^
 ||resalag.com^
+||resentmentveneering.com^
 ||reservehearingmissing.com^
 ||resolutioncomplexionfinishing.com^
 ||rigourflickmarketing.com^
@@ -1488,7 +1489,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||tastedisparitychecking.com^
 ||tensecolonialismwandering.com^
 ||testamentfendsounding.com^
-||thegreenzoneblog.com^
 ||third-tracking.com^
 ||tieecstasythrong.com^
 ||timbercooling.com^
@@ -1794,7 +1794,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 @@||onrpg.com/boards/activityrss.php?$xmlhttprequest
 |http:$xmlhttprequest,domain=mmohuts.com|onrpg.com
 @@||ajax.googleapis.com^$script,domain=imgbox.com
-$webrtc,domain=101greatgoals.com|ack.net|allkpop.com|allthetests.com|audioholics.com|azvideo.net|barnstablepatriot.com|boards2go.com|bolde.com|businessnewsdaily.com|buzzfil.net|cantonrep.com|capecodtimes.com|champion.gg|cheeseheadtv.com|clicknupload.link|colourlovers.com|columbiatribune.com|convertcase.net|csgolounge.com|ddlvalley.me|dispatch.com|dota2lounge.com|enterprisenews.com|eztv.io|eztv.tf|eztv.yt|fastplay.to|go4up.com|gounlimited.to|goupstate.com|heraldtribune.com|janjua.pw|janjua.tv|jpost.com|kinos.to|kinox.ai|kinox.am|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fun|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.mobi|kinox.nu|kinox.party|kinox.pub|kinox.sg|kinox.sh|kinox.si|kinox.space|kinox.sx|kinox.to|kinox.tube|kinox.wtf|laptopmag.com|mac-torrents.com|madamenoire.com|megaup.net|merriam-webster.com|netdna-storage.com|ouo.io|ouo.press|skidrowreloaded.com|sourceforge.net|space.com|spanishdict.com|telegram.com|teslacentral.com|topix.com|torrentdownload.info|uptobox.com|uticaod.com|videowood.tv|vidtodo.com|yts.gs|yts.mx
+$webrtc,domain=101greatgoals.com|ack.net|allkpop.com|allthetests.com|anime-loads.org|audioholics.com|azvideo.net|barnstablepatriot.com|boards2go.com|bolde.com|businessnewsdaily.com|buzzfil.net|cantonrep.com|capecodtimes.com|champion.gg|cheeseheadtv.com|clicknupload.link|colourlovers.com|columbiatribune.com|convertcase.net|csgolounge.com|ddlvalley.me|dispatch.com|dota2lounge.com|enterprisenews.com|eztv.io|eztv.tf|eztv.yt|fastplay.to|go4up.com|gounlimited.to|goupstate.com|heraldtribune.com|janjua.pw|janjua.tv|jpost.com|kinos.to|kinox.ai|kinox.am|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fun|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.mobi|kinox.nu|kinox.party|kinox.pub|kinox.sg|kinox.sh|kinox.si|kinox.space|kinox.sx|kinox.to|kinox.tube|kinox.wtf|laptopmag.com|mac-torrents.com|madamenoire.com|megaup.net|merriam-webster.com|netdna-storage.com|ouo.io|ouo.press|skidrowreloaded.com|sourceforge.net|space.com|spanishdict.com|telegram.com|teslacentral.com|topix.com|torrentdownload.info|uptobox.com|uticaod.com|videowood.tv|vidtodo.com|yts.gs|yts.mx
 ||eztv.io^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.googleapis.com *.facebook.net
 ||gelbooru.com^$csp=script-src 'self' '*' 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
 ||activistpost.com^$csp=script-src *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com
@@ -1951,6 +1951,8 @@ elitepvpers.com,pointblanknews.com,sharktankblog.com##img[height="60"]
 nsfwyoutube.com##img[src*="data"]
 afrivibes.net,airplaydirect.com,bigeye.ug,breakingbelizenews.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,onislandtimes.com,portugaldailyview.com,punchng.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,theolivepress.es,therep.co.za,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.pw,forum.gsmhosting.com,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
+automobile-catalog.com,car.com,silentera.com##table[height="90"]
+automobile-catalog.com,itnewsonline.com##table[width="300"]
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ! youtube
 youtube.com###YtKevlarVisibilityIdentifier
@@ -2090,7 +2092,7 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|k2radio.com|koel.com|kowb1290.com|nbcsports.com|uefa.com|vimeo.com|windalert.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.screen9.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|embed.comicbook.com|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||luminalearning.com/affiliate-content/$image,~third-party
@@ -2523,6 +2525,7 @@ _googleAnalytics_
 ||browser.mi-img.com^
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||click.udimg.com^
+||cm-mms.coachmag.co.uk^
 ||digg.com/library/tracker.js
 ||firebaselogging.googleapis.com^
 ||g.pcmag.com^
@@ -2533,14 +2536,7 @@ _googleAnalytics_
 ||gurgle.pcmag.com^
 ||hulu.com/google_conversion_video_view_tracking.html
 ||internetslang.com/jass/
-||mms.coachmag.co.uk^
-||naughtydog.com/beacon/
-||netlog.com/track
-||netmag.co.uk/matchbox/traffic/
-||newegg.com/common/thirdparty/$subdocument
-||newegg.com/tracking
-||news.google.com/_/v
-||ning.com^*/ga/ga.js
+||newegg.com/amber3/tracking?
 ||nm.newegg.com^
 ||nymag.com/js/2/metrony
 ||nymag.com^*/analytics.js
