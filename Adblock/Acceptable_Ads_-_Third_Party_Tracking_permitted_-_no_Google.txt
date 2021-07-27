@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2itdJ/z0eWsuCGpzwAIqFg
-! Version: 202107270200
+! Checksum: afeG+cFngM/Y53BTbFtnzg
+! Version: 202107271400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Jul 2021 02:00 UTC
+! Last modified: 27 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1512,6 +1512,7 @@ fincalculator.ru#@#.adv-border
 @@||feedxp.com/cdn-cgi/pe/$xmlhttprequest,domain=feedxp.com
 @@||ads.servebom.com^$script,domain=tomsguide.fr|tomshardware.de|tomshardware.fr|tomshardware.co.uk
 @@||ads.servebom.com/config^$xmlhttprequest,domain=whathifi.com
+@@||ads.servebom.com/tmnhead.js$script,domain=windowscentral.com|imore.com|androidcentral.com
 @@||ocubee.com/assets/*$script,domain=ocubee.com
 @@||adtech.de/dt/common/DAC.js$domain=footmercato.net
 @@||nbcnews.com/pages/ads/taboola/belowarticle.html$subdocument,domain=nbcnews.com
@@ -6023,6 +6024,7 @@ coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
 topix.com,topix.net,topixblackbeat.com,topixestrellas.com,topixoffbeat.com,topixparenthood.com,topixpawsome.com,topixrewind.com,topixsideline.com,topixstars.com,topixtempo.com,topixwellnest.com,tpxblackbeat.com,tpxestrellas.com,tpxoffbeat.com,tpxparenthood.com,tpxpassport.com,tpxpawsome.com,tpxrewind.com,tpxsideline.com,tpxstars.com,tpxtempo.com,tpxwellnest.com#@##topbanner
 girlgeniusonline.com,tovecomic.com#@##towerad
+cyclist.co.uk#@##ultimedia_wrapper
 lexicanum.com#@#.ADBox
 lexicanum.com#@#.ADbox
 draugas.lt,lexicanum.com#@#.AdBox
@@ -6087,7 +6089,8 @@ sundaydigest.com,smartingly.com,yummypress.com,newagenews.com,theprintstreet.com
 fosonline.gr#@#.ad-zone
 ratemyprofessors.com#@#.ad.banner
 slader.com#@#.ad.inner
-appgamer.com,baseball-reference.com,chip.com.tr,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
+wordfinders.com,appgamer.com,baseball-reference.com,chip.com.tr,dlisted.com,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad300
+wordfinders.com#@#.ad600
 baseball-reference.com,basketball-reference.com,chip.com.tr,hockey-reference.com,pro-football-reference.com,sports-reference.com#@#.ad728
 21usdeal.com#@#.AD728
 walla.co.il,lexicanum.com,podkapotou.sk,zoznam.sk#@#.adBox
@@ -6197,7 +6200,7 @@ indiewire.com#@#.iw-leaderboard-ad
 tasty.co#@#.js-ad
 newsbomb.gr,cnn.gr,buzzfeed.com,buzzfeed.io,buzzfeednews.com,tasty.co#@#.js-ad-slot
 themarker.com#@#.js-dfp-ad
-didev.co.uk,expertreviews.co.uk#@#.lazyadslot
+cyclist.co.uk,didev.co.uk,expertreviews.co.uk#@#.lazyadslot
 smartertravel.com,escapistmagazine.com,itstillworks.com,marecomic.com,meekcomic.com#@#.leaderboard-ad
 explosm.net#@#.leaderboard-container
 t3.com#@#.leaderboard__container
@@ -6565,6 +6568,11 @@ lecoupdegrace.ca#@#.side-ads
 dotesports.com#@##top-billboard
 walla.co.il#@#.adunitContainer
 walla.co.il#@#div[data-slot-name]
+windowscentral.com,imore.com,androidcentral.com#@#.adunit-purch
+windowscentral.com,imore.com,androidcentral.com#@#.adunit
+windowscentral.com,imore.com,androidcentral.com#@#.adunit-wrap
+windowscentral.com,imore.com,androidcentral.com#@##banneradspace
+windowscentral.com,imore.com,androidcentral.com#@#.block--ad
 cad-comic.com#@##ad-container-1
 aternos.org#@#.ad-dfp
 dailyvoice.com#@#.b-banner
@@ -6610,6 +6618,7 @@ dealwiki.com#@#.block-ads
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper--highlight
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper--300x250
 gfinityesports.com,realsport101.com#@#.m-ad__wrapper
+drivingelectric.com,moneyweek.com#@#.polaris__ad
 coolmathgames.com#@#.adbottom
 cestnormalauquebec.com#@##ads-blog
 braceletbook.com#@#.adtag
@@ -7778,7 +7787,7 @@ universfreebox.com#@#div[id^="publicite-"]
 ont.by#@#.b-renommee__wrap
 inopressa.ru#@#.alignright div[style^="height"]
 @@||api.unblockia.com/api/sites/0/config.json^$domain=inopressa.ru|rusvesna.su|soccer.ru|pandia.ru|varta1.com.ua|seo-fast.ru|newsyou.info
-@@||unblockia.com^$third-party,xmlhttprequest,domain=ont.by|anews.com|forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
+@@||unblockia.com^$third-party,script,xmlhttprequest,domain=rusvesna.su|ont.by|anews.com|forumhouse.ru|liga.net|ximepa.ru|sunhome.ru|newsru.com
 !:partner_token=cienciaglobal.com
 !:partner_id=d1223de66a2fde01
 !:type=partner
@@ -9143,9 +9152,9 @@ insidermonkey.com#@##sidebar-ad-1
 libero.it#@##admpubottom
 virgilio.it,libero.it#@##admpumiddle
 siviaggia.it,virgilio.it,dilei.it,quifinanza.it,libero.it#@##adwallpaper
-libero.it#@##adbox1
-libero.it#@##adbox2
-libero.it#@##adtophp
+virgilio.it,libero.it#@##adbox1
+virgilio.it,libero.it#@##adbox2
+virgilio.it,libero.it#@##adtophp
 virgilio.it#@##adslider
 virgilio.it#@##admputop
 virgilio.it#@#.admputop
