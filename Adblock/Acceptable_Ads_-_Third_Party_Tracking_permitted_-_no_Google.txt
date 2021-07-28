@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: afeG+cFngM/Y53BTbFtnzg
-! Version: 202107271400
+! Checksum: c6pgDpBhJkYd5uJ/WrhHuA
+! Version: 202107280200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 27 Jul 2021 14:00 UTC
+! Last modified: 28 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5878,6 +5878,7 @@ iogames.space#@#.view-id-advertisements
 probuilds.net#@#.welcome-bnr
 dealnews.com#@#.widget-ad
 fandom.com,gamepedia.com,muthead.com#@#.wikia-ad
+fandom.com#@#.ad-slot-placeholder
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##[data-ad-unit="LEFT_RAIL_DYNAMIC"]
 slickdeals.net#@#[data-adlocation]
 dailywire.com#@#[id*="ScriptRoot"]
@@ -6526,7 +6527,7 @@ milliyet.com.tr#@#.card-ads
 healthline.com#@#.css-12efcmn
 healthline.com#@#.css-1vcjrad
 healthline.com#@##DMR1__slot
-psychcentral.com,healthline.com#@#[data-dynamic-ads]
+psychcentral.com,healthline.com,Medicalnewstoday.com#@#[data-dynamic-ads]
 healthline.com#@#.css-1y1s420
 xda-developers.com#@#.spot
 animalcrossingworld.com#@#.at-header-ad
