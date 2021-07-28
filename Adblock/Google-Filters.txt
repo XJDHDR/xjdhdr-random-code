@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kJKiIJaYCb+IxCwFv/D5aw
-! Version: 202107280200
+! Checksum: 6oUwNqJr2YcCuf7oQJXBWA
+! Version: 202107281400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 28 Jul 2021 02:00 UTC
+! Last modified: 28 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1294,6 +1294,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||chanelets-aurning.com^
 ||chasteminihaunting.com^
 ||chatintegrationastonishing.com^
+||cimg.co^
 ||cokeseeming.com^
 ||cold-cold-freezing.com^
 ||combotag.com^
@@ -2537,16 +2538,12 @@ _googleAnalytics_
 ||hulu.com/google_conversion_video_view_tracking.html
 ||internetslang.com/jass/
 ||newegg.com/amber3/tracking?
+||news.google.com/_/v
 ||nm.newegg.com^
-||nymag.com/js/2/metrony
-||nymag.com^*/analytics.js
-||pcmag.com/eu/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
-||pcmag.com/mst/
-||pcmag.com^*/analytics.js
+||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pf.newegg.com^
-||phonedog.com/geo.php
-||photographyblog.com/?ACT
 ||privacy-api.9gag.com^
+||publish0x.com/www.google-analytics.com/analytics.js
 ||shopping.com/pixel/
 ||sp.redding.com^
 ||spankbang.com/pull_stats?$xmlhttprequest
