@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tetk/7wpvD3eXKIlMD4PjA
-! Version: 202107290200
+! Checksum: 7+rEkBoDANqVCLIzEhn1UQ
+! Version: 202107291400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Jul 2021 02:00 UTC
+! Last modified: 29 Jul 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6030,7 +6030,7 @@ a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
 spriters-resource.com,models-resource.com,lexicanum.com#@##sidebar-ad
 thewordfinder.com#@##sidebar-advertisement
-loveawake.com,wheeldecide.com,manofmany.com#@##stickyad
+friendcafe.jp,loveawake.com,wheeldecide.com,manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
@@ -7886,42 +7886,42 @@ comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=48143
 ! mail.ru ads
-@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=mail.ru|sportmail.ru
-@@||ad.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||yandex.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||yandex.ru^$popup,domain=mail.ru|sportmail.ru|mradx.net
-@@||yandex.net^$domain=mail.ru|sportmail.ru|mradx.net
-@@||yastatic.net^$domain=mail.ru|sportmail.ru|mradx.net
-||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=mail.ru|sportmail.ru
-@@||adfox.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||ad.adriver.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||doubleverify.com^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||hit.gemius.pl^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||pixel.adsafeprotected.com^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||ar.tns-counter.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||z.moatads.com^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||wcm-ru.frontend.weborama.fr^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||dmg.digitaltarget.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||track.rutarget.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||r.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||t.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||rs.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||r0.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||bs.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||b2.mail.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||mradx.net^$domain=mail.ru|sportmail.ru
-@@||serving-sys.com^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||springserve.com^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||weborama.fr^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||adform.net^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||relap.io^$domain=mail.ru|sportmail.ru
-@@||coub.com^$domain=mail.ru|sportmail.ru
-@@||vk.com^$domain=mail.ru|sportmail.ru
-@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=mail.ru|sportmail.ru|mradx.net
-@@||adriver.ru^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||adhigh.net^$image,domain=mail.ru|sportmail.ru|mradx.net
-@@||sravni.ru^$domain=mail.ru|sportmail.ru|mradx.net
-@@||r.mradx.net^$image,domain=mail.ru
+@@||limg.imgsmail.ru/informers/abp/px.js?ch=1$domain=ok.ru|mail.ru|sportmail.ru
+@@||ad.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||yandex.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||yandex.ru^$popup,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||yandex.net^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||yastatic.net^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+||limg.imgsmail.ru/informers/abp/px.js?ch=2$domain=ok.ru|mail.ru|sportmail.ru
+@@||adfox.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||ad.adriver.ru^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||doubleverify.com^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||hit.gemius.pl^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||pixel.adsafeprotected.com^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||ar.tns-counter.ru^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||z.moatads.com^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||wcm-ru.frontend.weborama.fr^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||dmg.digitaltarget.ru^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||track.rutarget.ru^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||r.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||t.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||rs.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||r0.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||bs.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||b2.mail.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||mradx.net^$domain=ok.ru|mail.ru|sportmail.ru
+@@||serving-sys.com^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||springserve.com^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||weborama.fr^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||adform.net^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||relap.io^$domain=ok.ru|mail.ru|sportmail.ru
+@@||coub.com^$domain=ok.ru|mail.ru|sportmail.ru
+@@||vk.com^$domain=ok.ru|mail.ru|sportmail.ru
+@@||criteo.com/delivery/r/afr.php$subdocument,document,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||adriver.ru^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||adhigh.net^$image,domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||sravni.ru^$domain=ok.ru|mail.ru|sportmail.ru|mradx.net
+@@||r.mradx.net^$image,domain=ok.ru|mail.ru
 mail.ru,sportmail.ru#@##advWrapper
 mail.ru,sportmail.ru#@##yandex_ad
 mail.ru,sportmail.ru#@#.adsblock
@@ -8079,6 +8079,21 @@ tv.mail.ru#@#.rbtopblock
 tv.mail.ru#@#div[class][id^="mailru"]
 ! Sport
 sportmail.ru#@#div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
+! ok.ru (Odnoklassniki)
+ok.ru#@#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Реклама))
+ok.ru#@#div[id^="hook_Block_FrOln4thCol"]
+ok.ru#@#.dialogWrapperBanner
+ok.ru#@#div[id^="yandex_ad"]
+ok.ru#@#.exit-popup
+ok.ru#@#.feed-list > div[class]:-abp-has(div[data-type*="Banner"])
+ok.ru#@#.feed-list div[data-type*="Banner"]
+ok.ru#@#.banner350
+ok.ru#@#div:-abp-has(> .banner350)
+ok.ru#@##hook_Block_ForthColumnTopBanner
+ok.ru#@#div[data-btype*="LinkBanner"]
+ok.ru#@#div[data-log-click*="LinkBanner"]
+ok.ru#@#div[debug-fid*="BANNER"]
+ok.ru#@#.forthTopAdv
 !:partner_token=myTarget ads
 !:partner_id=5f15cbc256eceb9a
 !:type=partner
@@ -10709,6 +10724,8 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||topwebanswers.com^$elemhide
 @@||travelsearchexpert.com^$elemhide
 @@||websearch101.com^$elemhide
+!A124
+@@||bloglines.com^$elemhide
 !:partner_token=Verizon Media
 !:partner_id=627d41fb6de11f94
 !:type=partner

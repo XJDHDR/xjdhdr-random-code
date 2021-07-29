@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fV0qhVIeHf7HXYqqvhD2Yw
-! Version: 202107290200
+! Checksum: NdsIiGMcDtPvwCh8Tfym/g
+! Version: 202107291400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 29 Jul 2021 02:00 UTC
+! Last modified: 29 Jul 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -189,7 +189,7 @@
 /toigoogleleads_
 /vifGoogleAd.
 /widgetadsense.
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ;adsense_
 =showsearchgoogleads&
 _adsense.
@@ -1291,10 +1291,10 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||calorieintimidating.com^
 ||cardiwersg.com^
 ||cash-duck.com^
+||cedartheoreticalcounting.com^
 ||chanelets-aurning.com^
 ||chasteminihaunting.com^
 ||chatintegrationastonishing.com^
-||cimg.co^
 ||cokeseeming.com^
 ||cold-cold-freezing.com^
 ||combotag.com^
@@ -1393,9 +1393,12 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||ldgvxuhg.com^
 ||ldiscdnkbg.com^
 ||lidsfoalliving.com^
+||livelihoodpracticaloperating.com^
 ||luuming.com^
 ||madserving.com^
+||magazinescontaining.com^
 ||managesdancing.com^
+||maritalglancing.com^
 ||maxserving.com^
 ||metavertising.com^
 ||mftracking.com^
@@ -1409,6 +1412,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||mobbahjug.com^
 ||monadplug.com^
 ||monarchypainting.com^
+||moodysilkbleeding.com^
 ||mutenessdollyheadlong.com^
 ||muzzlelacking.com^
 ||neictryziiogg.com^
@@ -1418,6 +1422,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||nostrilsterrifying.com^
 ||nthfundog.com^
 ||nutlonging.com^
+||nutritioncigarheading.com^
 ||occursexpertloving.com^
 ||onergong.com^
 ||optraising.com^
@@ -1496,6 +1501,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||timeryielding.com^
 ||tithewtog.com^
 ||tncomg.com^
+||townsdatabasekidding.com^
 ||tqlkg.com^
 ||tqxdhokpeigv.com^
 ||trainspersuasiveknitting.com^
@@ -1750,7 +1756,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||br.fling.com^
 ||sexy.fling.com^$third-party
 ||9gag.com/embed/featured-videos.html
-||cimg.co/w/bn/$domain=cryptonews.com
+||cimg.co/w/bn/$third-party
 ||infobetting.com/bookmaker/
 ||investing.com/jp.php
 ||mail-ads.google.com^
@@ -2439,6 +2445,7 @@ _googleAnalytics_
 ||360buyimg.com/jdf/1.0.0/unit/log/
 ||adlog.com.com^
 ||analytics.chegg.com^
+||analytics.google.com^$third-party
 ||analytics.onlyonlinemarketing.com^
 ||analytics.threedeepmarketing.com^
 ||attributiontrackingga.googlecode.com^
