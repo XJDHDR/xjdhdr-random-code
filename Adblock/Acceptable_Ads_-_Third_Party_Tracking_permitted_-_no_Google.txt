@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7+rEkBoDANqVCLIzEhn1UQ
-! Version: 202107291400
+! Checksum: ijC3cu5c2IUX2JStSwjoDg
+! Version: 202107300200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 29 Jul 2021 14:00 UTC
+! Last modified: 30 Jul 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1510,9 +1510,8 @@ fincalculator.ru#@#.adv-border
 @@||perfectmarket.com^$script,domain=zacks.com
 @@||pub17.media-clic.com/www/delivery/*$domain=culture-informatique.net
 @@||feedxp.com/cdn-cgi/pe/$xmlhttprequest,domain=feedxp.com
-@@||ads.servebom.com^$script,domain=tomsguide.fr|tomshardware.de|tomshardware.fr|tomshardware.co.uk
+@@||ads.servebom.com^$script,domain=windowscentral.com|imore.com|androidcentral.com|tomsguide.fr|tomshardware.de|tomshardware.fr|tomshardware.co.uk
 @@||ads.servebom.com/config^$xmlhttprequest,domain=whathifi.com
-@@||ads.servebom.com/tmnhead.js$script,domain=windowscentral.com|imore.com|androidcentral.com
 @@||ocubee.com/assets/*$script,domain=ocubee.com
 @@||adtech.de/dt/common/DAC.js$domain=footmercato.net
 @@||nbcnews.com/pages/ads/taboola/belowarticle.html$subdocument,domain=nbcnews.com
@@ -6030,7 +6029,7 @@ a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it
 a10.com,agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.com.br,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.pl,girlsgogames.ru,gry.pl,jetzspielen.de,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,mahjong.de,mousebreaker.com,ojogos.com.br,ojogos.pt,ourgames.ru,oyunoyna.com,oyunskor.com,permainan.co.id,spel.nl,spela.se,spelletjes.nl,spielen.com#@##sgAdScHp160x600
 spriters-resource.com,models-resource.com,lexicanum.com#@##sidebar-ad
 thewordfinder.com#@##sidebar-advertisement
-friendcafe.jp,loveawake.com,wheeldecide.com,manofmany.com#@##stickyad
+guitarplayerbox.com,friendcafe.jp,loveawake.com,wheeldecide.com,manofmany.com#@##stickyad
 ebaumsworld.com#@##subheader_atf_wrapper
 coastalwatch.com#@##topAd
 haaretz.co.il,themarker.com#@##top_banners
@@ -6488,7 +6487,7 @@ tollypics.com#@#.rightad
 footballdb.com#@##header_ad
 avforums.com#@#.adHeader
 dailyfunny.com,themystique.com,purevolume.com,gamedaynews.com,vidabrilhante.com,quizscape.com,bavardist.com,factable.com,japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.ad-widget-wrapper
-dailyfunny.com,idolator.com,themystique.com,purevolume.com,gamedaynews.com,vidabrilhante.com,quizscape.com,bavardist.com,factable.com,japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.secondary-ad-widget
+bleacherbreaker.com,dailyfunny.com,idolator.com,themystique.com,purevolume.com,gamedaynews.com,vidabrilhante.com,quizscape.com,bavardist.com,factable.com,japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.secondary-ad-widget
 dailyfunny.com,idolator.com,themystique.com,purevolume.com,gamedaynews.com,vidabrilhante.com,quizscape.com,bavardist.com,factable.com,japacrunch.com,brakeforit.com,lifestylelatino.com,thisiswhyimsingle.com,exploredplanet.com#@#.primary-ad-widget
 songkick.com#@#.ad-primary-desktop
 songkick.com#@#.ad-secondary-desktop
@@ -6608,7 +6607,8 @@ dotabuff.com#@#.medium_rectangle_b
 overbuff.com,dotabuff.com#@#.leaderboard_a
 overbuff.com,dotabuff.com#@#.leaderboard_b
 vice.com#@#.vice-ad__container
-thecalculatorsite.com#@#div[id^="ezoic-pub-ad-"]
+guitarplayerbox.com,thecalculatorsite.com#@#div[id^="ezoic-pub-ad-"]
+theroar.com.au#@#.pm-ad-unit
 thecalculatorsite.com#@#.stickyAd
 thecalculatorsite.com#@#.rightColAd
 homeschoolmath.net,gbatemp.net#@##ad_container
@@ -6670,6 +6670,7 @@ mathgames.com#@##ad-wrapper
 thenation.com#@##ad-leaderboard
 thenation.com#@#.leaderboard.ad
 mathgames.com#@#.adfree
+fandom.com#@#.top-ads-container
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -7581,6 +7582,27 @@ habr.com#@#.sidebar > .sidebar_right_ad
 habr.com#@#.dfp-slot__placeholder-text a
 habr.com#@#.sidebar_right_ad
 habr.com#@#.dfp-slot
+!:partner_token=Pikabu.ru ads
+!:partner_id=0c2270487e0b9e0b
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82772
+! Pikabu.ru ads
+||cs.pikabu.ru/images/px.gif?ch=2&rn=$domain=pikabu.ru
+@@||cs.pikabu.ru/images/px.gif?ch=1&rn=$domain=pikabu.ru
+@@||yandex.net/get-direct^$image,domain=pikabu.ru
+@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=pikabu.ru
+@@||an.yandex.ru/system/header-bidding.js$script,domain=pikabu.ru
+@@||an.yandex.ru/jstracer$xmlhttprequest,domain=pikabu.ru
+@@||an.yandex.ru/system/adfox.js$script,domain=pikabu.ru
+@@||an.yandex.ru/system/widget.js$script,domain=pikabu.ru
+@@||yastatic.net/pcode/adfox/header-bidding.js$script,domain=pikabu.ru
+@@||yastatic.net/safeframe-bundles/0.80/host.js$script,domain=pikabu.ru
+@@||yastatic.net/pcode/adfox/loader.js$script,domain=pikabu.ru
+@@||ads.adfox.ru/*/getCode^$image,domain=pikabu.ru
+pikabu.ru#@#div[id^="adfox_"]
+pikabu.ru#@#.story:-abp-has(* > [id] + script)
+pikabu.ru#@#.sidebar-block_placeholder
+pikabu.ru#@#.header-right-menu > a[href][target="_blank"]
 !:partner_token=express-novosti.ru
 !:partner_id=be2745a8380cdcf3
 !:type=partner
