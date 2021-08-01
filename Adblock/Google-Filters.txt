@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lyp8WoLY1MY5qnS/HUNT2g
-! Version: 202108010200
+! Checksum: YW7R/dgF0+aFtVPNAib78g
+! Version: 202108011400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 01 Aug 2021 02:00 UTC
+! Last modified: 01 Aug 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -83,7 +83,6 @@
 /doubleclick.aspx
 /doubleclick.min
 /doubleclick.php
-/doubleclick.swf
 /doubleclick/iframe.
 /doubleclick_ads.
 /doubleclick_ads/*
@@ -1574,7 +1573,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||googletagservices.com/tag/static/$third-party
 ||googletrackmanager.com^$third-party
 ||howtodoblog.com^$third-party
-||imasdk.googleapis.com^$third-party
+||imasdk.googleapis.com^
 ||in-appadvertising.com^$third-party
 ||integral-marketing.com^$third-party
 ||kaiu-marketing.com^$third-party
@@ -1666,8 +1665,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||cam4tracking.com^$popup
 ||ero-advertising.com^$popup
 ||ipvertising.com^$popup
-||1stag.com/main/img/banners/
-||ad.valuecalling.com^
 ||adaptv.advertising.com^
 ||associmg.com^*.gif?tag-
 ||banman.isoftmarketing.com^$third-party
@@ -1709,7 +1706,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||googlesyndication.com/sodar/
 ||googlesyndication.com^*/click_to_buy/$object,third-party
 ||googlesyndication.com^*/domainpark.cgi?
-||googlesyndication.com^*/googlevideoadslibraryas3.swf$object,third-party
 ||googlesyndication.com^*/simgad/
 ||googletagservices.com/dcm/dcmads.js
 ||gstatic.com/0emm/
@@ -2488,7 +2484,6 @@ _googleAnalytics_
 ||gstatic.com/wcm/impl-
 ||gstatic.com/wcm/loader.js
 ||id.google.com/verify/
-||inboxtag.com/tag.swf
 ||log.outbrainimg.com^
 ||maps.google.com^*/stats.js
 ||marsflag.com^*/tr.js
@@ -2756,10 +2751,6 @@ $websocket,domain=123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.p
 ||click.gudog.com^
 ||clicks.burgerking.co.uk^
 ||sephora-qa.branchstaging.com^
-||superfunblog.com/stats/stats.php
-/acceptable.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/autopromo.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
-/autopromotion.$domain=750g.com|adorocinema.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 ||frandroid.com^*-prixtel-*&sp_id=
 ||tracker.cds-tracking.com^
 ||56img.com/script/fn/stat/
