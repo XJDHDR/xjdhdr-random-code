@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Wf6dRMyfzr+TNB9i9eo56g
-! Version: 202108020200
+! Checksum: zbnqPshGFGAcg2PUzvXw4g
+! Version: 202108021400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 02 Aug 2021 02:00 UTC
+! Last modified: 02 Aug 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1569,8 +1569,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||friendlyduck.com^$third-party
 ||gauwicig.com^$third-party
 ||glaimtug.com^$third-party
-||googletagservices.com/tag/js/gpt_$third-party
-||googletagservices.com/tag/static/$third-party
+||googletagservices.com^$third-party
 ||googletrackmanager.com^$third-party
 ||howtodoblog.com^$third-party
 ||imasdk.googleapis.com^
@@ -1667,10 +1666,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||ipvertising.com^$popup
 ||adaptv.advertising.com^
 ||associmg.com^*.gif?tag-
-||banman.isoftmarketing.com^$third-party
-||booking.com/images/partner/$third-party
-||booking.com^$subdocument,domain=ekathimerini.com
-||booking.com^*;tmpl=banner_
 ||cars.fyidriving.com^$subdocument,third-party
 ||cdn.ndparking.com/js/init.min.js
 ||cmp.advertising.com^$third-party
@@ -1686,28 +1681,15 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||feedburner.com/~a/
 ||ff.doubleclick.net^
 ||frontpagemag.com^*/bigadgendabookad.jpg
-||goo.gl^$image,domain=cracksfiles.com|indishare.org
-||goo.gl^$script,domain=transphoto.ru
-||goo.gl^$subdocument,domain=backin.net
 ||google.com/adsense/ad
 ||google.com/adsense/domains
 ||google.com/adsense/search/
 ||google.com/dp/ads
 ||google.com/pagead/
-||google.com/uds/afs?*adsense$subdocument
 ||googleadapis.l.google.com^$third-party
-||googleapis.com/xxx-mightyparty.appspot.com/$third-party,domain=~cuntwars.com|~nutaku.com|~nutaku.net
 ||googlesyndication.com/ddm/
-||googlesyndication.com/ima3vpaid?
 ||googlesyndication.com/pagead/
-||googlesyndication.com/sadbundle/
 ||googlesyndication.com/safeframe/
-||googlesyndication.com/simgad/
-||googlesyndication.com/sodar/
-||googlesyndication.com^*/click_to_buy/$object,third-party
-||googlesyndication.com^*/domainpark.cgi?
-||googlesyndication.com^*/simgad/
-||googletagservices.com/dcm/dcmads.js
 ||gstatic.com/0emm/
 ||gstaticadssl.l.google.com^$~font,third-party,~xmlhttprequest
 ||hosting.conduit.com^$third-party
@@ -2132,12 +2114,12 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 @@||www.google.com/afs/ads?*^channel=month$subdocument
 @@||www.google.com/dp/ads^$subdocument,domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 @@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
-@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|video.tv-tokyo.co.jp|vogue.de|voici.fr
-@@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp|gentside.com|pccomponentes.com|vogue.de|voici.fr
+@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|gamestar.de|pccomponentes.com|video.tv-tokyo.co.jp|vogue.de|voici.fr
+@@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp|gamestar.de|gentside.com|pccomponentes.com|vogue.de|voici.fr
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gamestar.de|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp
 ! Google
@@ -2751,8 +2733,6 @@ $websocket,domain=123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.p
 ||click.gudog.com^
 ||clicks.burgerking.co.uk^
 ||sephora-qa.branchstaging.com^
-||frandroid.com^*-prixtel-*&sp_id=
-||tracker.cds-tracking.com^
 ||56img.com/script/fn/stat/
 ||baofeng.com/script/baidu_
 ||fang.com/stats/
@@ -3661,8 +3641,8 @@ _youtube_social_
 ||webopedia.com/img/header_icon_google.png
 ||google.com^*/fastbutton?$domain=autobild.de|tellows.de
 /messaging.js$domain=computerworld.com|digitalartsonline.co.uk|greenbot.com|itworld.com|macworld.com|networkworld.com|pcwelt.de|pcworld.com|tecchannel.de|techadvisor.co.uk|techadvisor.fr|techhive.com|vkmag.com
-||fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|calcalistech.com|gameblog.fr|gbnews.uk|geekzone.co.nz|infopedia.pt|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|rateyourmusic.com|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
 ||yimg.com^*/guce.js
+||fundingchoicesmessages.google.com^
 google.ca,google.co.in,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,google.de,google.es###BUTTON.esw
 jobing.com###BetaBarCtr
 bing.com###UpsellBubble
@@ -4028,7 +4008,7 @@ ofisitebg.com##.bottom-freezed-bar
 source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 xing.com##.consent_wrapper
 18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,togetherall.com,trailfinders.com,tubidy.news,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
-21buttons.com,amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,eurozine.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,hse.ru,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,nedbank.co.za,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,radeon-pro.github.io,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+21buttons.com,amnesty.org,aoc.com,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,eurozine.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,hse.ru,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,nedbank.co.za,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,radeon-pro.github.io,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 videojug.com##.cp-alert-message
 doubleviking.com,fallentitans.com##.footer
 bing.com##.hpn_top_container
@@ -4042,10 +4022,9 @@ youtube.com##.yt-consent
 santatracker.google.com##SANTA-NOTICE
 youtube.com##div[class^="ytd-consent"]
 weatherbug.com##notification-footer
-! googlefunding consent warning
-androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,gbnews.uk,geekzone.co.nz,infopedia.pt,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
+! googlefunding consent warning
 bing.com##div[data-cookie]
 ||google.com/search?$popup,domain=lolmt2.com
 ||boosterblog.com/ban/$third-party

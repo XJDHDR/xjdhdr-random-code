@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ajkjajJ6UxLYc5YppmmeZw
-! Version: 202108020200
+! Checksum: 6SI8TSyMXTgqee+gyphwFA
+! Version: 202108021400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 02 Aug 2021 02:00 UTC
+! Last modified: 02 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6020,7 +6020,6 @@ jobseeq.com#@#.ad-right
 virtualpiano.net,gta5-mods.com,articlesvally.com,dailysportx.com,gloriousa.com,journalistate.com,teddyfeed.com,worldemand.com#@#.ad-side
 emojipedia.org,fextralife.com,littlealchemy2.com#@#.ad-sidebar
 zoosk.com#@#.ad-skyscraper
-whattopack.com#@#.ad_slot
 food52.com#@#.ad-slot__label
 mby.com,countrylife.co.uk,marieclaire.co.uk,goodto.com,horseandhound.co.uk,idealhome.co.uk,cnn.gr,lightnovelworld.com,littlealchemy2.com,windfinder.com#@#.ad-sticky
 r6.tracker.network,upworthy.com,battlemetrics.com,fortnitetracker.com#@#.ad-tag
@@ -6897,7 +6896,7 @@ wikihow.com###method_ad_1
 @@||nexusmods.com/Contents/Scripts/adblocker.js|$script,domain=nexusmods.com
 @@||kumo.network-n.com/dist/*/gpt.js$domain=steamidfinder.com|trueachievements.com|techraptor.net|truetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
 @@||kumo.network-n.com/dist/*/prebid.js$domain=steamidfinder.com|trueachievements.com|truetrophies.com|techraptor.net|ruetrophies.com|rolimons.com|kevduit.com|tftactics.gg|genshin.gg|namemc.com|pcgamebenchmark.com|pcgamesn.com|thedigitalfix.com|wargamer.com|pockettactics.com|alcasthq.com|theloadout.com
-@@||kumo.network-n.com/prebid.php^$domain=alcasthq.com|genshin.gg|kevduit.com|namemc.com|pcgamebenchmark.com|pcgamesn.com|techraptor.net|tftactics.gg|thedigitalfix.com|theloadout.com|trueachievements.com|truetrophies.com|wargamer.com|steamidfinder.com
+@@||kumo.network-n.com/prebid.php^$domain=pockettactics.com|alcasthq.com|genshin.gg|kevduit.com|namemc.com|pcgamebenchmark.com|pcgamesn.com|techraptor.net|tftactics.gg|thedigitalfix.com|theloadout.com|trueachievements.com|truetrophies.com|wargamer.com|steamidfinder.com
 @@^external/scripts/prebid.$~third-party,domain=macmillanthesaurus.com|macmillandictionary.com
 @@||i.cdn.turner.com/ads/$domain=ncaa.com
 @@^modules/custom/*_advertisement/*_advertisement.freestar$~third-party,domain=stacker.com
