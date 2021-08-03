@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QP8CxA9qDw98azxy3U/c6w
-! Version: 202108021400
+! Checksum: P0XYc2ctCNhiqxviBpmxow
+! Version: 202108030200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 02 Aug 2021 14:00 UTC
+! Last modified: 03 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1860,6 +1860,7 @@ elperiodico.com#@#.adLoaded
 lifehacker.com.au,kotaku.com.au,gizmodo.com.au,hotbikeweb.com,workingmother.com#@#.taboola-placement
 conservativewoman.co.uk#@#.td-a-ad
 abc30.com,abc7.com,abc7ny.com#@#.taboolaArticle
+inspiredot.net#@#.native_ad
 ! Hidden for compliance
 news.com.au##.promoted-stories
 ynetnews.com###embedder-1
@@ -6670,6 +6671,12 @@ thenation.com#@##ad-leaderboard
 thenation.com#@#.leaderboard.ad
 mathgames.com#@#.adfree
 fandom.com#@#.top-ads-container
+futbin.com#@#.full-top-ad-area
+nexusmods.com#@#.agroup
+mensjournal.com#@#.ad_med
+progameguides.com#@##sideAd-1
+progameguides.com#@##sideAd-2
+progameguides.com#@##sideAd-3
 ! additional detection
 ! Hidden for compliance 
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6787,7 +6794,7 @@ wikihow.com###method_ad_1
 @@||d1upt0rqzff34l.cloudfront.net^*/prebid-1527060738.js$domain=uniqueinterests.com|readyer.com|travelapples.com|shliza.com|epiqlife.com|tradingdraft.com|foodfortravel.com|mindfulgazette.com|simpleblitz.com|economicr.com|scientificfeed.com|dailyarmy.com|discoverlifestyle.com|historymates.com|lifelistener.com|lifestylehype.com|menchtech.com|nanoresort.com|parential.com|rocketgeeks.com|sportinal.com|unpasted.com|familythis.com|urbanaunty.com|pineappler.com|cleverclassic.com|iqreaders.com|instantlymodern.com
 @@||dronedj.com^*/assets/js/vendor/prebid1.$script
 @@||electrek.co^*/assets/js/vendor/prebid1.$script
-@@||global.proper.io/payloads/latest.js$domain=dotesports.com|gamepur.com|progameguides.com|touchtapplay.com
+@@||global.proper.io/payloads/*.js$domain=dotesports.com|gamepur.com|progameguides.com|touchtapplay.com
 @@||bids.proper.io/api/bidding$domain=progameguides.com|dotesports.com|gamepur.com|touchtapplay.com
 @@||eb.proper.io/s2s^$domain=progameguides.com|dotesports.com|gamepur.com|touchtapplay.com
 @@||go.ezoic.net/porpoiseant/$script,domain=popularne.pl
@@ -10751,6 +10758,10 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 @@||websearch101.com^$elemhide
 !A124
 @@||bloglines.com^$elemhide
+!A125
+@@||findinfoquickly.com^$elemhide
+@@||quickresultsnow.com^$elemhide
+@@||smartsearchresults.com^$elemhide
 !:partner_token=Verizon Media
 !:partner_id=627d41fb6de11f94
 !:type=partner
