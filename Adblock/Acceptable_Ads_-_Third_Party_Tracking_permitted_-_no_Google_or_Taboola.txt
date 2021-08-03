@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bZlnMhWsgqVox7kmpgesGw
-! Version: 202108030200
+! Checksum: BGFUBO2XyTTELIcbG6dBQA
+! Version: 202108031400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Aug 2021 02:00 UTC
+! Last modified: 03 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6612,7 +6612,7 @@ progameguides.com#@##sideAd-1
 progameguides.com#@##sideAd-2
 progameguides.com#@##sideAd-3
 ! additional detection
-! Hidden for compliance 
+! Hidden for compliance
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
 geekycamel.com###ad_pos_gc-desktop-underr
 geekycamel.com###ad_pos_gc-desktop-underl
@@ -6697,6 +6697,8 @@ indiewire.com##[id*="div-gpt-indiewire-ros-leaderboard"]
 terraria.fandom.com###top_leaderboard
 bddatabase.net###bottom_slot.topad
 wikihow.com###method_ad_1
+wikihow.com###intro_ad_1
+wikihow.com##[id^="scrollto_ad_"]
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -7538,7 +7540,7 @@ habr.com#@#.dfp-slot
 @@||an.yandex.ru/jstracer$xmlhttprequest,domain=pikabu.ru
 @@||an.yandex.ru/system/adfox.js$script,domain=pikabu.ru
 @@||an.yandex.ru/system/widget.js$script,domain=pikabu.ru
-@@||yastatic.net/safeframe-bundles/0.80/host.js$script,domain=pikabu.ru
+@@||yastatic.net/safeframe-bundles/*/host.js$script,domain=pikabu.ru
 @@||yastatic.net/pcode/adfox/loader.js$script,domain=pikabu.ru
 @@||ads.adfox.ru/*/getCode^$image,domain=pikabu.ru
 pikabu.ru#@#div[id^="adfox_"]
@@ -11035,7 +11037,7 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||cdn.unblockia.com/h.js$domain=elperiodico.com
 @@smartadserver.com^*unblockia=true$subdocument,domain=elperiodico.com
 @@rubiconproject.com^*unblockia=true$subdocument,domain=elperiodico.com
-@@||inv-nets.admixer.net/prebid.*unblockia-banner-$xmlhttprequest,domain=elperiodico.com
+@@||inv-nets.admixer.net/prebid.*unblockia-$xmlhttprequest,script,domain=elperiodico.com
 elperiodico.com#@#.following-ad-container
 elperiodico.com#@#.following-ad
 elperiodico.com#@#.adv-header

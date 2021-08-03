@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e6Uv6YPoe1T67aLKqqw/jA
-! Version: 202108030200
+! Checksum: EDAvFSdo/a5qr/peGzbVvw
+! Version: 202108031400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 03 Aug 2021 02:00 UTC
+! Last modified: 03 Aug 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1765,17 +1765,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 @@||ajax.googleapis.com/ajax/libs/$script,domain=shink.me|shon.xyz
 @@||ajax.googleapis.com^$script,domain=up-4ever.com|up-4ever.org
 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.com|up-4ever.org
-@@||ajax.googleapis.com^$script,domain=vshare.eu
-@@||fonts.googleapis.com^$stylesheet,domain=vshare.eu
-@@||fonts.googleapis.com^$stylesheet,domain=animepahe.com
-@@||ajax.googleapis.com^$script,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
-@@||apis.google.com^$script,subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
-@@||gstatic.com^$domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
-@@||youtube.com/embed/$subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
-@@||ajax.googleapis.com^$script,domain=uptobox.com|uptostream.com
-@@||googleapis.com/js/sdkloader/ima3.js$script,domain=uptobox.com|uptostream.com
-@@||googletagmanager.com/gtag/js$script,domain=uptobox.com|uptostream.com
-@@||gstatic.com^$script,domain=uptobox.com|uptostream.com
 @@||ajax.googleapis.com/ajax/libs/$script,domain=flashx.to|flashx.tv
 @@||onrpg.com/boards/activityrss.php?$xmlhttprequest
 |http:$xmlhttprequest,domain=mmohuts.com|onrpg.com
@@ -2119,7 +2108,7 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gamestar.de|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp
 ! Google
@@ -4072,7 +4061,7 @@ eifel-antik.de##.jmg-googlemaps-dsgvo-notification
 paconsulting.com###cookPop
 4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 techbang.com##.notify_stickie
-hashrating.com##.cookie
+hashrating.com,zettains.ru##.cookie
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
 billabong.com#@##NewsletterSignup
 electnext.com,youtube.com#@#.feed-icon
