@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Zdb0b635Op568ZZlK3Ph6A
-! Version: 202108040200
+! Checksum: VvlEA7TTydVjTq4TN4HUZw
+! Version: 202108041400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 04 Aug 2021 02:00 UTC
+! Last modified: 04 Aug 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1680,7 +1680,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||fcgadgets.blogspot.com^$third-party
 ||feedburner.com/~a/
 ||ff.doubleclick.net^
-||frontpagemag.com^*/bigadgendabookad.jpg
 ||google.com/adsense/ad
 ||google.com/adsense/domains
 ||google.com/adsense/search/
@@ -1692,14 +1691,9 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||googlesyndication.com/safeframe/
 ||gstatic.com/0emm/
 ||gstaticadssl.l.google.com^$~font,third-party,~xmlhttprequest
-||hosting.conduit.com^$third-party
-||idg.com.au/ggg/images/*_home.jpg$third-party
 ||imgpop.googlecode.com^$third-party
 ||instant-gaming.com/affgames/$third-party
-||king.com^*/banners/
-||l.yimg.com^*&partner=*&url=
 ||lg.com/in/cinema3d.jsp$subdocument,third-party
-||n4g.com^*/IndieMonthSideBarWidget?$third-party
 ||netdigix.com/google_banners/
 ||pagead2.googlesyndication.com^
 ||pb.s3wfg.com^
@@ -1707,24 +1701,17 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||popmog.com^$third-party
 ||primeloopstracking.com/affil/
 ||promos.fling.com^
-||rackspacecloud.com/Broker%20Buttons/$domain=investing.com
 ||rmgserving.com/rmgdsc/$script
 ||salefile.googlecode.com^$third-party
 ||sfimg.com/images/banners/
 ||sfimg.com/SFIBanners/
-||shopping.com/sc/pac/sdc_widget_v2.0_proxy.js$third-party
 ||survey.g.doubleclick.net^
 ||tedswoodworking.com/images/banners/
 ||thatfreething.com/images/banners/
-||topspin.net/secure/media/$image,domain=youtube.com
 ||widget.imshopping.com^$third-party
 ||yimg.com/dy/ads/readmo.js
 ||yimg.com/gemini/pr/video_
 ||yimg.com/gs/apex/mediastore/
-||yimg.com^*/dianominewwidget2.html$domain=yahoo.com
-||yimg.com^*/quickplay_maxwellhouse.png
-||yimg.com^*/sponsored.js
-||yimg.com^*_skin_$domain=yahoo.com
 ! Google Hosted scripts
 ||googleapis.com/qmftp/$script
 ||googleapis.com/yieldlab/$script
@@ -2105,7 +2092,7 @@ pornhub.com,pornhubthbh7ap3u.onion,spankbang.com##a[href^="http://ads.trafficjun
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gamestar.de|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp
 ! Google
@@ -2719,9 +2706,6 @@ $websocket,domain=123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.p
 ||click.gudog.com^
 ||clicks.burgerking.co.uk^
 ||sephora-qa.branchstaging.com^
-||56img.com/script/fn/stat/
-||baofeng.com/script/baidu_
-||fang.com/stats/
 ||ifeng.com/i?p=
 ||js.soufunimg.com/count/
 ||p-log.ykimg.com^

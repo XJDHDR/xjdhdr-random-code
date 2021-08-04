@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YAPjBrhjq6yOk44mrCaFGQ
-! Version: 202108040200
+! Checksum: +TjDTpT9OYD4YYV8D4lA0A
+! Version: 202108041400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 04 Aug 2021 02:00 UTC
+! Last modified: 04 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6761,7 +6761,6 @@ usmagazine.com#@#.row-ad
 usmagazine.com#@##right-rail-ad-slot-content-top
 indiewire.com##[id*="div-gpt-indiewire-ros-leaderboard"]
 terraria.fandom.com###top_leaderboard
-bddatabase.net###bottom_slot.topad
 wikihow.com###method_ad_1
 wikihow.com###intro_ad_1
 wikihow.com##[id^="scrollto_ad_"]
@@ -8921,6 +8920,7 @@ testpages.adblockplus.org#@##abptest
 @@||st.wetteronline.*/mdr/p_adplace/*/js/wodasHeader.js$script,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 @@||st.wetteronline.*/mdr/p_adplace/*/js/wodasHeaderDfp_www.js$script,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 @@||console.adgrid.io/adgrid-build^$domain=motor1.com
+||tra.scds.pmdstatic.net/adblock-check/1/main.js$domain=gala.fr
 ! @@||totalmedia2.ynet.co.il/gpt/gpt_script_yns_ynv.js$script,domain=vesty.co.il
 ! test for samsung internet
 @@/loadads.js$script,domain=chron.com|chron.assistpub.com
