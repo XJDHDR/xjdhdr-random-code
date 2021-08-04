@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EDAvFSdo/a5qr/peGzbVvw
-! Version: 202108031400
+! Checksum: Zdb0b635Op568ZZlK3Ph6A
+! Version: 202108040200
 ! Title: Block Google's adverts and tracking only
-! Last modified: 03 Aug 2021 14:00 UTC
+! Last modified: 04 Aug 2021 02:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1708,9 +1708,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||primeloopstracking.com/affil/
 ||promos.fling.com^
 ||rackspacecloud.com/Broker%20Buttons/$domain=investing.com
-||resimag.com/p1/6ef4933807d.gif
-||resimag.com/p1/bb61dc4ce45.gif
-||resimag.com/p1/df9d5d01e94.gif
 ||rmgserving.com/rmgdsc/$script
 ||salefile.googlecode.com^$third-party
 ||sfimg.com/images/banners/

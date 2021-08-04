@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BGFUBO2XyTTELIcbG6dBQA
-! Version: 202108031400
+! Checksum: tcO37W2VCJTt5iD5XqzrYg
+! Version: 202108040200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 03 Aug 2021 14:00 UTC
+! Last modified: 04 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6218,7 +6218,7 @@ ratemyprofessors.com#@#.top-header
 theweek.com#@#.top-leaderboard-ad
 gfycat.com#@#.top-slot
 tagged.com#@#.top_ad
-op.gg#@#.vm-placement
+ginx.tv,op.gg#@#.vm-placement
 visihow.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.wh_ad_inner
 yourdailydish.com,standardnews.com,itsthevibe.com,yourbump.com,definition.org,thefamouspeople.com#@#.widget-ad
 15min.lt#@#.widget.ads
@@ -6699,6 +6699,7 @@ bddatabase.net###bottom_slot.topad
 wikihow.com###method_ad_1
 wikihow.com###intro_ad_1
 wikihow.com##[id^="scrollto_ad_"]
+weatherzone.com.au###fuse-slot-21899514367-1
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -6962,6 +6963,7 @@ wikihow.com##[id^="scrollto_ad_"]
 @@||ad-delivery-prod.contentiq.com/vendors.js.gz^$script,domain=historicalpost.com
 @@||ad-delivery-spa-prod.contentiq.com/bundle.js.gz^$script,domain=historicalpost.com
 @@||cdn.calculatorsoup.com/scripts_ads/asc_prebid.js?v=*$domain=calculatorsoup.com
+@@||hbopenbid.pubmatic.com/translator^$xmlhttprequest,domain=calculatorsoup.com
 ! Default filters for long domain lists
 !
 !
@@ -7506,6 +7508,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
 express.co.uk,nigella.com##div[block^="true"]
+nigella.com###connect-wrapper-0
 londontheinside.com#@#.widget_ad_widget
 thepostmillennial.com##.article-content .mot
 thepostmillennial.com###leader-mot
