@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BBLKGPu3arhxZ4PhIx0HmA
-! Version: 202108050200
+! Checksum: bMIgLYQjDNzzOFTy6FrZtg
+! Version: 202108051400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 05 Aug 2021 02:00 UTC
+! Last modified: 05 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -1123,6 +1123,7 @@ dlnowsoft.com#@#.adframe
 thedelite.com#@#.ad-label
 people.com#@##adBottom
 orange.fr#@##commercial-links
+orange.fr#@#.o__pub
 meteoconsult.fr#@##favoris_pub_ligatus
 money.cnn.com#@##js-outbrain-recommended
 cnn.com#@##js-outbrain-rightrail-ads-module
@@ -7639,7 +7640,6 @@ thingiverse.com#@#div[class^="AdCard_"]
 sirved.com#@#.advertisement-container
 sirved.com#@#.top-advertisement
 pixlr.com#@#.adslot
-blockchain.com#@##ad-text
 10minemail.com,temp-mail.org#@#.ads-box
 cryptorival.com#@##header-ad
 cryptorival.com#@##banner-ad
