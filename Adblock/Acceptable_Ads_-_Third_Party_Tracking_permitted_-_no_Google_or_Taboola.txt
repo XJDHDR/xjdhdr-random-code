@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vPU8wG75c07AcnQLOVHZhw
-! Version: 202108041400
+! Checksum: BBLKGPu3arhxZ4PhIx0HmA
+! Version: 202108050200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 04 Aug 2021 14:00 UTC
+! Last modified: 05 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -8956,7 +8956,7 @@ washingtontimes.com#@#.ad-slot
 theblaze.com,biggeekdad.com#@#.ad-tag
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-top
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-top-banner
-nxstrib.com,go-vip.net,hellhorror.com,avclub.com,clickhole.com,deadspin.com,forbes.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-unit
+seekingalpha.com,nxstrib.com,go-vip.net,hellhorror.com,avclub.com,clickhole.com,deadspin.com,forbes.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-unit
 nxstrib.com,go-vip.net#@#.ad-unit--leaderboard
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#@#.ad-wide
 firstpost.com#@#.ad728x90
