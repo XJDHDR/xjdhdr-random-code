@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UQhUR6LDOoEjzW4TDkAr5g
-! Version: 202108051400
+! Checksum: Q/uu4SkrWuIruRi/Yc80oA
+! Version: 202108060200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 05 Aug 2021 14:00 UTC
+! Last modified: 06 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5953,7 +5953,7 @@ aftvnews.com#@##footerad
 westeros.org#@##HeaderAd
 westeros.org#@##SidebarAd
 elites.io#@##ad-bottom
-calibre-ebook.com,ratemyprofessors.com#@##ad-container
+accuradio.com,calibre-ebook.com,ratemyprofessors.com#@##ad-container
 huffingtonpost.co.uk,huffpost.com,elites.io#@##ad-top
 ratemyprofessors.com#@##ad728
 cnn.com#@##adSquare
@@ -6160,7 +6160,7 @@ aljazeera.com#@#.article-adv-right-sideBar
 digitaltrends.com#@#.b-anterior
 timesofisrael.com#@#.b300x250
 dennikn.sk#@#.b_ads
-play.basketball-gm.com,metalsucks.net,zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
+timcast.com,play.basketball-gm.com,metalsucks.net,zengm.com,football-gm.com,top5.com,wowhead.com#@#.banner-ad
 unitedstateszipcodes.org#@#.banner-ad-container
 breitbart.com,discogs.com,photographylife.com#@#.banner_ad
 kizi.com#@#.banner_holder
@@ -6678,6 +6678,8 @@ mensjournal.com#@#.ad_med
 progameguides.com#@##sideAd-1
 progameguides.com#@##sideAd-2
 progameguides.com#@##sideAd-3
+accuradio.com#@#.square-ad-container
+redorbit.com#@#.sticky-ads-container
 ! additional detection
 ! Hidden for compliance
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -7030,6 +7032,7 @@ weatherzone.com.au###fuse-slot-21899514367-1
 @@||ad-delivery-spa-prod.contentiq.com/bundle.js.gz^$script,domain=historicalpost.com
 @@||cdn.calculatorsoup.com/scripts_ads/asc_prebid.js?v=*$domain=calculatorsoup.com
 @@||hbopenbid.pubmatic.com/translator^$xmlhttprequest,domain=calculatorsoup.com
+@@||cdn.statically.io/js/a.pub.network/*/pubfig.min.js^$script,domain=yasashiinosekaiwa.com
 ! Default filters for long domain lists
 !
 !
@@ -7573,6 +7576,7 @@ frognews.bg#@#.inside-area-right-top-ad.brc
 @@||viglink.com/api/vglnk.js$third-party
 @@||viglink.com/api/pixel.gif$third-party
 @@||viglink.com/images/pixel.gif?ch=1$third-party
+walesonline.co.uk,dailypost.co.uk,mirror.co.uk#@#.ad-placeholder
 express.co.uk,nigella.com##div[block^="true"]
 nigella.com###connect-wrapper-0
 londontheinside.com#@#.widget_ad_widget
@@ -7583,6 +7587,10 @@ duden.de#@##block-lexemleaderboardunten-2
 duden.de#@#.tabloid__side-column
 duden.de#@##block-dudende-d-970x250-1billboard
 duden.de#@#.tile__wrapper
+! Hidden for compliance
+birminghammail.co.uk,walesonline.co.uk,mirror.co.uk###div-gpt-ad-in-article-slot
+birminghammail.co.uk,walesonline.co.uk,dailypost.co.uk,mirror.co.uk##.article-body > [title="unblock-ad"]
+birminghammail.co.uk,walesonline.co.uk,dailypost.co.uk,mirror.co.uk##.fixed-slots
 !:partner_token=HABR LLC
 !:partner_id=d5ea49f4ddfab0f5
 !:type=partner
