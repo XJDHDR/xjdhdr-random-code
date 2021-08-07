@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I5cQZtRmcwKtYvnyB/ctPQ
-! Version: 202108061400
+! Checksum: gQEBHY2o5fa/Rx/9VfGgDA
+! Version: 202108070200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 06 Aug 2021 14:00 UTC
+! Last modified: 07 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6608,12 +6608,14 @@ mathgames.com#@#.adfree
 fandom.com#@#.top-ads-container
 futbin.com#@#.full-top-ad-area
 nexusmods.com#@#.agroup
-mensjournal.com#@#.ad_med
+closerweekly.com,mensjournal.com#@#.ad_med
 progameguides.com#@##sideAd-1
 progameguides.com#@##sideAd-2
 progameguides.com#@##sideAd-3
 accuradio.com#@#.square-ad-container
 redorbit.com#@#.sticky-ads-container
+gsmarena.com#@##subHeader
+gsmarena.com#@##topAdv
 ! additional detection
 ! Hidden for compliance
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6962,7 +6964,7 @@ weatherzone.com.au###fuse-slot-21899514367-1
 @@||p.ad.gt/api^$script,domain=lakersnation.com
 @@||a.ad.gt/api^$script,domain=lakersnation.com
 @@||hb.brainlyads.com^$script,xmlhttprequest,domain=lakersnation.com
-@@||ad-delivery-prod.contentiq.com/vendors.js.gz^$script,domain=historicalpost.com
+@@||ad-delivery-prod.contentiq.com/*.js.gz^$script,domain=historicalpost.com
 @@||ad-delivery-spa-prod.contentiq.com/bundle.js.gz^$script,domain=historicalpost.com
 @@||cdn.calculatorsoup.com/scripts_ads/asc_prebid.js?v=*$domain=calculatorsoup.com
 @@||hbopenbid.pubmatic.com/translator^$xmlhttprequest,domain=calculatorsoup.com
@@ -7535,6 +7537,7 @@ birminghammail.co.uk,walesonline.co.uk,dailypost.co.uk,mirror.co.uk##.fixed-slot
 @@||an.yandex.ru/system/context.js$domain=habr.com
 @@||cdn-plus.roxot-panel.com/roxot-wrapper/js/$script,domain=habr.com
 @@||cdn-plus.roxot-panel.com/wrapper-builder/$script,xmlhttprequest,domain=habr.com
+@@||roxot-panel.com/wrapper^$third-party,script,xmlhttprequest,domain=habr.com
 habr.com#@#.sidebar > .sidebar_right_ad
 habr.com#@#.dfp-slot__placeholder-text a
 habr.com#@#.sidebar_right_ad
@@ -9024,6 +9027,7 @@ bjpenn.com#@#.td-a-rec-id-custom_ad_4
 bjpenn.com#@#.td-a-rec-id-custom_ad_5
 factsherald.com,charlieintel.com,fortniteintel.com#@#.td-header-ad-wrap
 boredpanda.com,comingsoon.net#@#.text-ad
+rateyourmusic.com#@#.lazyload-ad
 comingsoon.net,gamerevolution.com,mandatory.com#@#.widget_evolve_ad_gpt_widget
 searchenginejournal.com#@#aside[id^="SEJ_300x250_"]
 allthetests.com#@#div > iframe:first-child
