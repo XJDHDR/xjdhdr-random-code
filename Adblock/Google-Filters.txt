@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yboKwpdGAl2gXoFoF1KtMQ
-! Version: 202108070200
+! Checksum: 1XZejra2OaRUVBboIl+T1A
+! Version: 202108071400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 07 Aug 2021 02:00 UTC
+! Last modified: 07 Aug 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1351,7 +1351,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||fourthug.com^
 ||fthkmwrkqg.com^
 ||fzehxxsdxyfg.com^
-||g6zkzy0g2g.com^
 ||gallonranchwhining.com^
 ||getplumberacting.com^
 ||glaresling.com^
@@ -1456,7 +1455,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||psoomeeg.com^
 ||pvptwhhkfmog.com^
 ||pxmyjxebxgv.com^
-||pz7zrn0xxgyg.com^
 ||q6idnawboy7g.com^
 ||qkspafpgg.com^
 ||racesstuffing.com^
@@ -1712,8 +1710,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||thatfreething.com/images/banners/
 ||widget.imshopping.com^$third-party
 ||yimg.com/dy/ads/readmo.js
-||yimg.com/gemini/pr/video_
-||yimg.com/gs/apex/mediastore/
 ! Google Hosted scripts
 ||googleapis.com/qmftp/$script
 ||googleapis.com/yieldlab/$script
@@ -2832,7 +2828,7 @@ $websocket,domain=123telugu.com|7tors.com|ajplugins.com|akvideo.stream|alltube.p
 @@||googletagmanager.com/gtm.js$script,domain=olx.ro
 @@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|sportmaster.ru|teddyfood.com
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|sportmaster.ru|teddyfood.com
 @@||komus.ru/_ui/shared/js/ga/googleTagManager.js$script,~third-party
 @@||mts.ru/app/vendor/angular-google-analytics.min.js
 @@||c5n.com^*/angulartics-google-analytics.min.js
@@ -4046,6 +4042,7 @@ paconsulting.com###cookPop
 4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 techbang.com##.notify_stickie
 hashrating.com,zettains.ru##.cookie
+forklog.com##.terms_popup
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
 billabong.com#@##NewsletterSignup
 electnext.com,youtube.com#@#.feed-icon
