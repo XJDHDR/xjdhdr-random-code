@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eizqh/3JOAkO8kXBHZDASw
-! Version: 202108090200
+! Checksum: FA99Jn+tWMLPCv0HbzxO9Q
+! Version: 202108091400
 ! Title: Block Google's adverts and tracking only
-! Last modified: 09 Aug 2021 02:00 UTC
+! Last modified: 09 Aug 2021 14:00 UTC
 ! Expires: 4 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -1307,6 +1307,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||dcop4khjxsmg.com^
 ||deductdoorwayfig.com^
 ||defenseaspirinlike.com^
+||definedlaunching.com^
 ||deliberatelyadvancing.com^
 ||dh2xbuwg.com^
 ||diametertwelfthvending.com^
@@ -1360,6 +1361,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||googlesierai.xyz^
 ||governrecycling.com^
 ||grudgeslylonging.com^
+||hammocklighting.com^
 ||hash-hash-tag.com^
 ||havocgainpassing.com^
 ||hickunwilling.com^
@@ -1539,6 +1541,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||yegsrmqqpg.com^
 ||ykrssqaufg.com^
 ||yr9n47004g.com^
+||zdaptrksg.com^
 ||znaptag.com^
 ||zwnxzckwihg.com^
 ||zzdb5p4upiug.com^
@@ -1668,7 +1671,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,bsmotoring.com,classic-retro
 ||associmg.com^*.gif?tag-
 ||cars.fyidriving.com^$subdocument,third-party
 ||cdn.ndparking.com/js/init.min.js
-||cmp.advertising.com^$third-party
 ||creatives.inmotionhosting.com^
 ||dapatwang.com/images/banner/
 ||directnicparking.com^$third-party
