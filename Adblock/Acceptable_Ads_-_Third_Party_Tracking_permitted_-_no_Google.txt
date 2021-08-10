@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: geHkFYmY773yf91KX2gE5Q
-! Version: 202108100200
+! Checksum: 7MDnc5XWSuYS5F5N71OHIQ
+! Version: 202108101400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 10 Aug 2021 02:00 UTC
+! Last modified: 10 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -5989,7 +5989,7 @@ cnn.com#@##adsquare
 guildedage.net#@##adtop
 zakon.kz#@##adv_728x90
 isekaiscan.com#@#.advance-ads
-brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,incrivel.club#@##advert_1
+5minutecrafts.site,beridelai.club,brightside.me,genial.guru,adme.ru,sympa-sympa.com,brightside-arabic.com,incrivel.club#@##advert_1
 zakon.kz#@##aside300 > :not(#lastnews):not(#left_scrollable)
 fstoppers.com#@##block-fs_helpers-freestar_InContent
 smbc-comics.com#@##boardleader
@@ -6062,7 +6062,7 @@ greatschools.org#@#.ad-bar
 cheapism.com,willyweather.co.uk,willyweather.com,willyweather.com.au#@#.ad-billboard
 whattopack.com,familyvacationcritic.com,matadornetwork.com,irishpost.com,yankodesign.com,bovary.gr#@#.ad-block
 heroesfire.com,owfire.com,smitefire.com#@#.ad-break
-queerty.com,buzzfeed.com#@#.ad-card
+hometalk.com,upstyledaily.com,queerty.com,buzzfeed.com#@#.ad-card
 chip.com.tr#@#.ad-center
 arcamax.com,greatschools.org#@#.ad-column
 broadwayworld.com#@#.ad-desktop
@@ -6461,7 +6461,7 @@ wordreference.com#@##adrightbottom
 wordreference.com#@##ad1
 wordreference.com#@#.adtitle
 visihow.com#@#.wh_ad
-thenation.com,mycast.io,virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
+hometalk.com,thenation.com,mycast.io,virtualpiano.net,truetrophies.com,trueachievements.com#@#.ad-wrap
 manofmany.com,trueachievements.com#@#.ad-2
 gta5-mods.com#@##ad-side
 forsal.pl,infor.pl#@#.textAds
@@ -6576,8 +6576,8 @@ news12.com#@#.banner-leaderboard
 gamewatcher.com#@#.advertisement-wrapper
 ricetta.it#@#.banner-300x250
 nomix.it#@##ad02
-upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-1
-upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-2
+hometalk.com,upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-1
+hometalk.com,upstyledaily.com,foodtalkdaily.com#@##sidebar-ad-2
 programme-tv.net#@#[data-ads-core]
 toutsurlehockey.com#@##publicite2
 lecoupdegrace.ca#@#.side-ads
@@ -6682,6 +6682,7 @@ accuradio.com#@#.square-ad-container
 redorbit.com#@#.sticky-ads-container
 gsmarena.com#@##subHeader
 gsmarena.com#@##topAdv
+5minutecrafts.site,beridelai.club#@#.advertisment
 ! additional detection
 ! Hidden for compliance
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6776,9 +6777,9 @@ weatherzone.com.au###fuse-slot-21899514367-1
 @@/x-kinja-static/assets/new-client/*$script,domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||117.hostedprebid.com^$script,domain=parentsdome.com|toocool2betrue.com
 @@||9to5toys.com^*/assets/js/vendor/prebid1.$script
-@@||a.pub.network^*/pubfig.min.js$domain=fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
-@@||a.pub.network^$script,domain=fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
-@@||d.pub.network/init^$domain=fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||a.pub.network^*/pubfig.min.js$domain=thegamehaus.com|boredteachers.com|cadblocksfree.com|hogwartsishere.com|fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||a.pub.network^$script,domain=thegamehaus.com|boredteachers.com|cadblocksfree.com|hogwartsishere.com|fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
+@@||d.pub.network/init^$domain=thegamehaus.com|boredteachers.com|cadblocksfree.com|hogwartsishere.com|fishexplorer.com|techjunkie.com|html5-editor.net|myforecast.co|bmw2002faq.com|soxmachine.com|storiesig.app|news.itsfoss.com
 @@||ads.cordlessmedia.com/ad-wrapper/*/cm.min.js$domain=areavibes.com|movoto.com|neren.com|redfin.com
 @@||ads.cordlessmedia.com/ad-wrapper/lib/prebid/$domain=areavibes.com|movoto.com|redfin.com
 @@||ads.rubiconproject.com/prebid/10698.js$domain=afl-legacy.com
@@ -6946,8 +6947,8 @@ weatherzone.com.au###fuse-slot-21899514367-1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -7035,6 +7036,9 @@ weatherzone.com.au###fuse-slot-21899514367-1
 @@||cdn.calculatorsoup.com/scripts_ads/asc_prebid.js?v=*$domain=calculatorsoup.com
 @@||hbopenbid.pubmatic.com/translator^$xmlhttprequest,domain=calculatorsoup.com
 @@||cdn.statically.io/js/a.pub.network/*/pubfig.min.js^$script,domain=yasashiinosekaiwa.com
+@@||cdn.onnetwork.tv/js/prebid4.43.3.$script,domain=radiozet.pl
+@@||gfx.wiadomosci.radiozet.pl/extension/adverts/*$script,domain=radiozet.pl
+@@||d24rtvkqjwgutp.cloudfront.net/srv/*_adserver$script,domain=radiozet.pl
 ! Default filters for long domain lists
 !
 !
@@ -7926,6 +7930,30 @@ herstory.co.id#@#.native-ad
 ! comparis.ch
 comparis.ch#@#.ad-slot
 comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
+!:partner_token=Komitet ads
+!:partner_id=50fe671dda1244ff
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82812
+! Komitet ads
+@@/px.gif?ch=1&rn=$domain=tjournal.ru|vc.ru|dtf.ru
+/px.gif?ch=2&rn=$domain=tjournal.ru|vc.ru|dtf.ru
+@@||yastatic.net/pcode/adfox/loader.js$script,domain=tjournal.ru|vc.ru|dtf.ru
+@@||yastatic.net/safeframe-bundles/*/host.js$script,domain=tjournal.ru|vc.ru|dtf.ru
+@@||an.yandex.ru/system/adfox.js$script,domain=tjournal.ru|vc.ru|dtf.ru
+@@||an.yandex.ru/system/context.js$script,domain=tjournal.ru|vc.ru|dtf.ru
+@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=tjournal.ru|vc.ru|dtf.ru
+@@||an.yandex.ru/jstracer$xmlhttprequest,domain=tjournal.ru|vc.ru|dtf.ru
+@@||banners.adfox.ru^$image,domain=tjournal.ru|vc.ru|dtf.ru
+@@||ads.adfox.ru^$image,domain=tjournal.ru|vc.ru|dtf.ru
+@@||ads.adfox.ru/*/goLink^$popup,domain=tjournal.ru|vc.ru|dtf.ru
+dtf.ru,tjournal.ru,vc.ru#@##page_wrapper > :not(.page):not(.l-page):not(.page--error):not(.messenger):not(.subsite_head):not(.ui-tabs):not([air-module]):not(.hashtag_head):not(.feed_header)
+dtf.ru,tjournal.ru,vc.ru#@#div[air-module="module.boosterPromo"]
+dtf.ru,tjournal.ru,vc.ru#@#a[href*="utm_campai"]
+dtf.ru,tjournal.ru,vc.ru#@#div[id^="adfox_"]
+dtf.ru,tjournal.ru,vc.ru#@#a[href*="bit.ly"]
+dtf.ru,tjournal.ru,vc.ru#@#[data-analytics*="native"]
+! Hidden for compliance
+dtf.ru,tjournal.ru,vc.ru##.layout__right-column .propaganda
 !:partner_token=mail.ru
 !:partner_id=509a8ec73c103ec4
 !:type=partner
