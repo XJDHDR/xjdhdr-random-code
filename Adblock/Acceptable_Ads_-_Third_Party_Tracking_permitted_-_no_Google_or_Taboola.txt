@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U6qxTEvT00Dgp/t/1SIwAg
-! Version: 202108101400
+! Checksum: 9BdrcXGdd0spQgX3VP+6sw
+! Version: 202108110200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 10 Aug 2021 14:00 UTC
+! Last modified: 11 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6075,6 +6075,7 @@ manofmany.com#@#.adsload
 healthyeater.com,concerty.com,boingboing.net,gameskinny.com#@#.adslot
 dressupgames.com,allbad.cards,healthyeater.com#@#.adwrap
 dressupgames.com#@#.ad-left
+urlencoder.org#@#.adsbypubmax
 fortniteinsider.com,wrestlingheadlines.com#@#.jeg_ad
 fortniteinsider.com,wrestlingheadlines.com#@#.jeg_ad_top
 fortniteinsider.com,wrestlingheadlines.com#@#.jnews_header_top_ads
@@ -7864,30 +7865,6 @@ herstory.co.id#@#.native-ad
 ! comparis.ch
 comparis.ch#@#.ad-slot
 comparis.ch##.ad-slot:not([id^="ad-slot-native-result"])
-!:partner_token=Komitet ads
-!:partner_id=50fe671dda1244ff
-!:type=partner
-!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82812
-! Komitet ads
-@@/px.gif?ch=1&rn=$domain=tjournal.ru|vc.ru|dtf.ru
-/px.gif?ch=2&rn=$domain=tjournal.ru|vc.ru|dtf.ru
-@@||yastatic.net/pcode/adfox/loader.js$script,domain=tjournal.ru|vc.ru|dtf.ru
-@@||yastatic.net/safeframe-bundles/*/host.js$script,domain=tjournal.ru|vc.ru|dtf.ru
-@@||an.yandex.ru/system/adfox.js$script,domain=tjournal.ru|vc.ru|dtf.ru
-@@||an.yandex.ru/system/context.js$script,domain=tjournal.ru|vc.ru|dtf.ru
-@@||an.yandex.ru/adfox/*/getBulk^$xmlhttprequest,domain=tjournal.ru|vc.ru|dtf.ru
-@@||an.yandex.ru/jstracer$xmlhttprequest,domain=tjournal.ru|vc.ru|dtf.ru
-@@||banners.adfox.ru^$image,domain=tjournal.ru|vc.ru|dtf.ru
-@@||ads.adfox.ru^$image,domain=tjournal.ru|vc.ru|dtf.ru
-@@||ads.adfox.ru/*/goLink^$popup,domain=tjournal.ru|vc.ru|dtf.ru
-dtf.ru,tjournal.ru,vc.ru#@##page_wrapper > :not(.page):not(.l-page):not(.page--error):not(.messenger):not(.subsite_head):not(.ui-tabs):not([air-module]):not(.hashtag_head):not(.feed_header)
-dtf.ru,tjournal.ru,vc.ru#@#div[air-module="module.boosterPromo"]
-dtf.ru,tjournal.ru,vc.ru#@#a[href*="utm_campai"]
-dtf.ru,tjournal.ru,vc.ru#@#div[id^="adfox_"]
-dtf.ru,tjournal.ru,vc.ru#@#a[href*="bit.ly"]
-dtf.ru,tjournal.ru,vc.ru#@#[data-analytics*="native"]
-! Hidden for compliance
-dtf.ru,tjournal.ru,vc.ru##.layout__right-column .propaganda
 !:partner_token=mail.ru
 !:partner_id=509a8ec73c103ec4
 !:type=partner
@@ -8102,6 +8079,7 @@ ok.ru#@#div[data-btype*="LinkBanner"]
 ok.ru#@#div[data-log-click*="LinkBanner"]
 ok.ru#@#div[debug-fid*="BANNER"]
 ok.ru#@#.forthTopAdv
+ok.ru#@##fourthColumnWrapper div[style*="visibility: visible"]
 !:partner_token=myTarget ads
 !:partner_id=5f15cbc256eceb9a
 !:type=partner
