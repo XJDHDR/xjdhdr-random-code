@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JRU58Wbcizc078bDmkykzg
-! Version: 202108110200
+! Checksum: 1Fqe9ljNtsaZNrUJTiboqQ
+! Version: 202108111400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Aug 2021 02:00 UTC
+! Last modified: 11 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6765,7 +6765,7 @@ manofmany.com##.incontent-ad-banner
 woxikon.de#@#.ads-marker
 woxikon.de#@#.ads-margin-top-20
 usmagazine.com#@#.row-ad
-usmagazine.com#@##right-rail-ad-slot-content-top
+mensjournal.com,usmagazine.com#@##right-rail-ad-slot-content-top
 indiewire.com##[id*="div-gpt-indiewire-ros-leaderboard"]
 terraria.fandom.com###top_leaderboard
 wikihow.com###method_ad_1
@@ -8146,6 +8146,10 @@ ok.ru#@#div[data-log-click*="LinkBanner"]
 ok.ru#@#div[debug-fid*="BANNER"]
 ok.ru#@#.forthTopAdv
 ok.ru#@##fourthColumnWrapper div[style*="visibility: visible"]
+ok.ru#@##fourthColumnWrapper div:-abp-has(> div[style*="visibility: visible"])
+ok.ru#@##leftColumn div[id][class][style=""]
+ok.ru#@##leftColumn div:-abp-has(> div[style*="visibility: visible"])
+ok.ru#@##leftColumn div[style*="visibility: visible"]
 !:partner_token=myTarget ads
 !:partner_id=5f15cbc256eceb9a
 !:type=partner
@@ -11116,6 +11120,7 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||www.pets.world^$elemhide
 @@||www.247.vacations^$elemhide
 @@||kitchepedia.com^$elemhide
+@@||oceanhero.today/web?q=$elemhide
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
