@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z8b0lJrQid2eGM3e7Zt6Ug
-! Version: 202108120200
+! Checksum: DqdQ9xchTeykWESDJnWtJw
+! Version: 202108121400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Aug 2021 02:00 UTC
+! Last modified: 12 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6772,6 +6772,7 @@ wikihow.com###method_ad_1
 wikihow.com###intro_ad_1
 wikihow.com##[id^="scrollto_ad_"]
 weatherzone.com.au###fuse-slot-21899514367-1
+hurriyet.com.tr##.pageskin-container
 !
 /static/js/ad-detection/ads.js$script,domain=buzzfeed.com|buzzfeed.io|buzzfeednews.com|tasty.co
 @@/adfuel/*$script,domain=cnn.com
@@ -8443,6 +8444,12 @@ playxylo.com#@#.x-ad
 boxthislap.org#@#img[width="728px"][height="90px"]
 boxthislap.org#@#img[width="300px"]
 boxthislap.org#@#.td-footer-wrapper
+!:partner_token=exploreinsiders.com ads
+!:partner_id=4eedc85fa8f25fcf
+!:type=partner
+!:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=82822
+! exploreinsiders.com ads
+exploreinsiders.com#@#.td-adspot-title
 !:partner_id=1771032db7d723d7
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=13771
