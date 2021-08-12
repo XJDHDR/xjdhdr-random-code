@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1Fqe9ljNtsaZNrUJTiboqQ
-! Version: 202108111400
+! Checksum: Z8b0lJrQid2eGM3e7Zt6Ug
+! Version: 202108120200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 11 Aug 2021 14:00 UTC
+! Last modified: 12 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -363,7 +363,7 @@ wg-gesucht.de##DIV[id^="div-gpt-ad-"][style^="margin: 11px "]
 !:type=partner
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=14066
 ! Cylex content ads
-cylex-bedrijvengids.be,cylex.de,cylex.nl,cylex-branchenbuch.ch,cylex-oesterreich.at,cylex-uk.co.uk,cylex.us.com,cylex.cl,cylex.co.nz,cylex.co.za,cylex.com.ar,cylex.com.br,cylex.com.co,cylex.com.ng,cylex.com.pe,cylex.com.tr,cylex.com.ve,cylex.cz,cylex.dk,cylex.fi,cylex.gr,cylex.ie,cylex.in,cylex.no,cylex.pt,cylex.se,cylex.sk,cylex-florida.com,cylex-france.fr,cylex.ro,cylex.hu,cylex.be,cylex.es,cylex.at,cylex-swiss.ch,cylex-polska.pl,cylex-italia.it,cylex-australia.com,cylex-canada.ca,cylex.mx,cylex-tudakozo.hu,cylex.net.za,cylex-belgie.be,cylex-locale.fr#@#.adHeader
+cylex-bedrijvengids.be,cylex.nl,cylex-branchenbuch.ch,cylex-oesterreich.at,cylex-uk.co.uk,cylex.us.com,cylex.cl,cylex.co.nz,cylex.co.za,cylex.com.ar,cylex.com.br,cylex.com.co,cylex.com.ng,cylex.com.pe,cylex.com.tr,cylex.com.ve,cylex.cz,cylex.dk,cylex.fi,cylex.gr,cylex.ie,cylex.in,cylex.no,cylex.pt,cylex.se,cylex.sk,cylex-florida.com,cylex-france.fr,cylex.ro,cylex.hu,cylex.be,cylex.es,cylex.at,cylex-swiss.ch,cylex-polska.pl,cylex-italia.it,cylex-australia.com,cylex-canada.ca,cylex.mx,cylex-tudakozo.hu,cylex.net.za,cylex-belgie.be,cylex-locale.fr#@#.adHeader
 !:partner_token=Cylex
 !:partner_id=e85ca0986b606591
 !:type=partner
@@ -2126,7 +2126,7 @@ netzwelt.de#@##native-ads
 !:forum=https://adblockplus.org/forum/viewtopic.php?f=12&t=28319
 ! jonsuh.com ads
 @@||carbonads.com/carbon.js?$domain=jonsuh.com
-@@||srv.buysellads.com/ads/$script,domain=jonsuh.com
+@@||srv.llads.com/ads/$script,domain=jonsuh.com
 !:partner_token=techstream.org
 !:partner_id=db7eb1d35074566d
 !:type=partner
@@ -6948,8 +6948,8 @@ weatherzone.com.au###fuse-slot-21899514367-1
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=irate4x4.com|wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=irate4x4.com|wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -11121,6 +11121,8 @@ engadget.com#@##gemini-right-rail-thumbnails
 @@||www.247.vacations^$elemhide
 @@||kitchepedia.com^$elemhide
 @@||oceanhero.today/web?q=$elemhide
+@@||info.com/serp?$elemhide|
+@@||etour.com/web?$elemhide|
 !:partner_token=AdPone
 !:partner_id=4b7133f644c78afd
 !:type=partner
