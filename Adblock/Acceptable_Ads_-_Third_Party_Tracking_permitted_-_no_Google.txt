@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DqdQ9xchTeykWESDJnWtJw
-! Version: 202108121400
+! Checksum: 0NsQlyO/gCDtgas2cKyJyQ
+! Version: 202108130200
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google
-! Last modified: 12 Aug 2021 14:00 UTC
+! Last modified: 13 Aug 2021 02:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6117,7 +6117,7 @@ discogs.com#@#.ad_container
 askmefast.com#@#.add300
 visihow.com,askmefast.com,wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label
 wikihow.com,wikihow.com.tr,wikihow.cz,wikihow.health,wikihow.it,wikihow.jp,wikihow.legal,wikihow.life,wikihow.mom,wikihow.pet,wikihow.tech,wikihow.vn#@#.ad_label_method
-base64decode.org,urldecoder.org,discogs.com#@#.ad_top
+base64decode.org,urlencoder.org,discogs.com#@#.ad_top
 theweek.com#@#.ad_wrap
 kongregate.com,msn.com,itstillworks.com#@#.adcontainer
 gameskinny.com#@#.adloaded
