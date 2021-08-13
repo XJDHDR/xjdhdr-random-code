@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vEPvtM0lUSi6KjNVrpxsaA
-! Version: 202108130200
+! Checksum: EqTJIyo6YGUZjLHE4oaJIQ
+! Version: 202108131400
 ! Title: Acceptable Ads - Third Party Tracking permitted - no Google or Taboola
-! Last modified: 13 Aug 2021 02:00 UTC
+! Last modified: 13 Aug 2021 14:00 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/XJDHDR/xjdhdr-random-code/
 !
@@ -6618,6 +6618,7 @@ redorbit.com#@#.sticky-ads-container
 gsmarena.com#@##subHeader
 gsmarena.com#@##topAdv
 5minutecrafts.site,beridelai.club#@#.advertisment
+accuradio.com#@#.ad-slot-1
 ! additional detection
 ! Hidden for compliance
 nevermundane.com,uniqueinterests.com,mommytribune.com,madeinhistory.com,travelapples.com,marspeta.com,geekyup.com,readyer.com,oldermillennials.com,simpleblitz.com##div[class^="entry-content"] .ad_placeholder
@@ -6883,8 +6884,8 @@ hurriyet.com.tr##.pageskin-container
 @@||cdn.snigelweb.com/adconsent^$domain=who-called.co.uk
 @@||cdn.snigelweb.com/gvl/vendor-list.json$domain=who-called.co.uk
 @@||cdn.snigelweb.com/snhb^*^snhb-$domain=switchingtomac.com
-@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=irate4x4.com|wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
-@@||adengine.snigelweb.com/*/adngin.js^$domain=irate4x4.com|wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||cdn.snigelweb.com/adengine/*/loader.js^$domain=javacodegeeks.com|irate4x4.com|wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
+@@||adengine.snigelweb.com/*/adngin.js^$domain=javacodegeeks.com|irate4x4.com|wheeloffortunecheats.com|notebookcheck-cn.com|notebookcheck-ru.com|notebookcheck-tr.com|notebookcheck.biz|notebookcheck.com|notebookcheck.it|notebookcheck.net|notebookcheck.nl|notebookcheck.org|notebookcheck.pl|notebookcheck.se|notebookchat.com|tenforums.com|sevenforums.com|visihow.com|wordfinders.com|livesoccertv.com|thewordfinder.com|17track.net|switchingtomac.com|woxikon.de|azaleasdolls.com
 @@||cdn.tech426.com/pub^*^snhb-$domain=getyarn.io
 @@||www8.smartadserver.com^$domain=planet.fr
 @@||ced.sascdn.com/tag^$domain=planet.fr
@@ -6972,9 +6973,10 @@ hurriyet.com.tr##.pageskin-container
 @@||cdn.calculatorsoup.com/scripts_ads/asc_prebid.js?v=*$domain=calculatorsoup.com
 @@||hbopenbid.pubmatic.com/translator^$xmlhttprequest,domain=calculatorsoup.com
 @@||cdn.statically.io/js/a.pub.network/*/pubfig.min.js^$script,domain=yasashiinosekaiwa.com
-@@||cdn.onnetwork.tv/js/prebid4.43.3.$script,domain=radiozet.pl
+@@||cdn.onnetwork.tv/js/prebid*$script,domain=radiozet.pl
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/*$script,domain=radiozet.pl
 @@||d24rtvkqjwgutp.cloudfront.net/srv/*_adserver$script,domain=radiozet.pl
+@@||ads.avocet.io/*$domain=radiozet.pl
 ! Default filters for long domain lists
 !
 !
@@ -9268,26 +9270,26 @@ forbes.com##.pub_728x90
 forbes.com##.pub_300x250m
 forbes.com##.pub_300x250
 ! Yahoo
-@@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=yahoo.com
-||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=yahoo.com
-@@||atwola.com/adcount*$image,domain=yahoo.com
-||yahoo.com/px.gif?ch=2$domain=yahoo.com
-@@||yahoo.com/px.gif?ch=1$domain=yahoo.com
-yahoo.com#@#.darla
-yahoo.com##[id^="sda-LREC"]:not(.uba-container):not([id$="iframe"])
-yahoo.com###sda-LDRB:not(.uba-container)
-yahoo.com###sda-LDRB2:not(.uba-container)
-yahoo.com#@##my-adsLREC
-yahoo.com##div[id^="my-ads"]:not(.uba-container):not([id$="-base"]):not([id$="-iframe"])
-yahoo.com#@##my-adsLREC2
-yahoo.com#@#.darla-lrec-ad
-yahoo.com##.darla-lrec-ad:not(.uba-container)
-yahoo.com#@##sda-LDRB
-yahoo.com###sda-MON:not(.uba-container)
-yahoo.com###sda-MON2:not(.uba-container)
-yahoo.com#@##sda-LDRB2
-yahoo.com##.viewer-sda-container > *:not(.uba-container)
-yahoo.com#@#.viewer-sda-container
+@@||yahoo.com/sdarla/php/fc.php^$subdocument,document,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||atwola.com/adcount*$image,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+||yahoo.com/px.gif?ch=2$domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||yahoo.com/px.gif?ch=1$domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.darla
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com##[id^="sda-LREC"]:not(.uba-container):not([id$="iframe"])
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com###sda-LDRB:not(.uba-container)
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com###sda-LDRB2:not(.uba-container)
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@##my-adsLREC
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com##div[id^="my-ads"]:not(.uba-container):not([id$="-base"]):not([id$="-iframe"])
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@##my-adsLREC2
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.darla-lrec-ad
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com##.darla-lrec-ad:not(.uba-container)
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@##sda-LDRB
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com###sda-MON:not(.uba-container)
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com###sda-MON2:not(.uba-container)
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@##sda-LDRB2
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com##.viewer-sda-container > *:not(.uba-container)
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.viewer-sda-container
 !:partner_token=Amazon Advertising
 !:partner_id=ec725ef475df5236
 !:type=partner
@@ -10741,25 +10743,25 @@ search.yahoo.com#@##right > div:first-child:last-child > [id]:first-child:last-c
 ! https://adblockplus.org/forum/viewtopic.php?p=142591#p142591
 ! https://adblockplus.org/forum/viewtopic.php?p=157308#p157308
 ! Display ads
-@@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=yahoo.com,document
-@@||adserver.yahoo.com/a?$xmlhttprequest,domain=yahoo.com
-@@||fc.yahoo.com/sdarla/php/fc.php$domain=yahoo.com
-@@||criteo.com/delivery/lg.php?$domain=yahoo.com
+@@||yahoo.com/sdarla/php/fc.php*^l=UBA$subdocument,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com,document
+@@||adserver.yahoo.com/a?$xmlhttprequest,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||fc.yahoo.com/sdarla/php/fc.php$domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||criteo.com/delivery/lg.php?$domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
 @@||twiago.com/adclick.php$popup,domain=style.yahoo.com|nachrichten.yahoo.com
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=style.yahoo.com|nachrichten.yahoo.com
 @@||ads.yahoo.com/st?ad_type=*&publisher_blob=*|TL1|*&ad_size=120x45&$subdocument,document,script
 ||csc.beap.bc.yahoo.com^
-yahoo.com#@##sticky-lrec2-footer
-yahoo.com#@#.uba-container
-yahoo.com#@#.billboard-ads
-yahoo.com#@##my-adsLREC4-base
-yahoo.com#@#div[id*="ComboAd"]
-yahoo.com#@#.gemini-ad-feedback
-yahoo.com#@#div[class*="gemini-ad"]
-yahoo.com#@#div[id^="gemini-item-"]
-yahoo.com#@#.can_ad_slug
-yahoo.com#@#.ad_slug_table
-yahoo.com#@#.ad-tl1
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@##sticky-lrec2-footer
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.uba-container
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.billboard-ads
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@##my-adsLREC4-base
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#div[id*="ComboAd"]
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.gemini-ad-feedback
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#div[class*="gemini-ad"]
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#div[id^="gemini-item-"]
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.can_ad_slug
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.ad_slug_table
+~rogers.yahoo.com,~frontier.yahoo.com,~verizon.yahoo.com,yahoo.com#@#.ad-tl1
 ! Yahoo Mail
 @@||yahoo.com/sdarla/php/client.php?$script,domain=mail.yahoo.com
 @@||mail.yahoo.com/px.gif?ch=1$domain=mail.yahoo.com
@@ -10776,11 +10778,11 @@ mail.yahoo.com###sb_rel_tgtLREC4.darla
 !
 @@||gla.search.yahoo.com^$~third-party,xmlhttprequest
 !
-@@||track.adform.net^$popup,domain=yahoo.com
-@@||mediaplex.com/ad/ck/$popup,domain=yahoo.com
-@@||bs.serving-sys.com/serving/adServer.bs?$popup,domain=yahoo.com
-@@||a.twiago.com/adclick.php$popup,domain=yahoo.com
-@@||ads.performates.com/click.php?$popup,domain=yahoo.com
+@@||track.adform.net^$popup,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||mediaplex.com/ad/ck/$popup,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||bs.serving-sys.com/serving/adServer.bs?$popup,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||a.twiago.com/adclick.php$popup,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
+@@||ads.performates.com/click.php?$popup,domain=~rogers.yahoo.com|~frontier.yahoo.com|~verizon.yahoo.com|yahoo.com
 !
 @@||partnerads.ysm.yahoo.com/syndication.js
 @@||partnerads.ysm.yahoo.com/ypa/$subdocument,document
